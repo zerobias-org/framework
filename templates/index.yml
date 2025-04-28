@@ -1,0 +1,16 @@
+id: {id}
+name: {name}
+description: {description}
+standardType: framework
+code: {code}
+category: {category}
+externalId: {externalId}
+url: {url}
+version: {version}
+status: approved
+external: true
+internal: true
+elementTypes: []
+mappingTypes: [] # This is to denote which element types are considered mappable as controls
+tags: []
+aliases: []
