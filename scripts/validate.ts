@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import yaml from 'yaml';
 import { UUID, URL } from '@auditmation/types-core-js';
-import { StandardStatus, StandardType } from '@auditmation/module-auditmation-auditmation-portal';
+import { StandardStatus, StandardCategory } from '@auditmation/module-auditmation-auditmation-portal';
 
 const elementTypes: string[] = [];
 const elements: string[] = [];
@@ -44,7 +44,7 @@ async function readAndParseFile(file: string, fullPathFile: string): Promise<any
 
 function processPackageJson(packageFile: Record<string, any>, code: string): void {
   let check: any = packageFile.name !== undefined && packageFile.name !== null
-    && packageFile.name === `@zerobias-org/framework-${code.replace('_', '-')}` ? true
+    && packageFile.name === `@zerobias-org/framework-${code.replace('_', '-').replace('.', '_')}` ? true
     : new Error('package.json missing name or not set to @zerobias-org/framework-<codeWithDashes>');
 
   check = packageFile.description !== undefined && packageFile.description !== null
@@ -58,24 +58,25 @@ function processPackageJson(packageFile: Record<string, any>, code: string): voi
     throw new Error(`code found in index.yml must match format: {vendor_suite?_product?_version}`);
   }
 
+  codeSplit[codeSplit.length - 1] = codeSplit[codeSplit.length - 1].replace('.', '_')
+  if (packageFile.auditmation && typeof packageFile.auditmation === 'object') {
+    const auditmation = packageFile.auditmation;
+    check = auditmation['import-artifact'] !== undefined && auditmation['import-artifact'] !== null && auditmation['import-artifact'] === 'framework'
+      ? true : new Error('package.json auditmation section missing import-artifact or not set to framework');
+    check = auditmation.package !== undefined && auditmation.package !== null && auditmation.package === `zerobias.${codeSplit.join('.')}.framework`
+      ? true : new Error(`package.json auditmation section missing package or not set to zerobias.${codeSplit.join('.')}.framework`);
+    check = auditmation['dataloader-version'] !== undefined && auditmation['dataloader-version'] !== null ? true
+      : new Error('package.json auditmation section missing dataloader-version');
+  } else {
+    throw new Error(`package.json missing auditmation section`);
+  }
+
   codeSplit.splice(codeSplit.length - 1);
   let ownerType = 'vendor';
   if (codeSplit.length === 3) {
     ownerType = 'product';
   } else if (codeSplit.length === 2) {
     ownerType = 'suite';
-  }
-
-  if (packageFile.auditmation && typeof packageFile.auditmation === 'object') {
-    const auditmation = packageFile.auditmation;
-    check = auditmation['import-artifact'] !== undefined && auditmation['import-artifact'] !== null && auditmation['import-artifact'] === 'framework'
-      ? true : new Error('package.json auditmation section missing import-artifact or not set to framework');
-    check = auditmation.package !== undefined && auditmation.package !== null && auditmation.package === `zerobias.${code}.framework`
-      ? true : new Error(`package.json auditmation section missing package or not set to zerobias.${codeSplit.join('.')}.framework`);
-    check = auditmation['dataloader-version'] !== undefined && auditmation['dataloader-version'] !== null ? true
-      : new Error('package.json auditmation section missing dataloader-version');
-  } else {
-    throw new Error(`package.json missing auditmation section`);
   }
 
   const dependencies = packageFile.dependencies !== undefined && packageFile.dependencies !== null ? packageFile.dependencies : {};
@@ -95,6 +96,8 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<string> 
   let check: any;
   check = indexFile.standardType !== undefined && indexFile.standardType !== null && indexFile.standardType === 'framework'
    ? indexFile.standardType : new Error('standardType not found in index.yml or not equal to framework');
+  check = indexFile.standardCategory !== undefined && indexFile.standardCategory !== null && StandardCategory.from(indexFile.standardCategory)
+    ? indexFile.standardCategory : new Error('standardCategory not found in index.yml');
   check = indexFile.id !== undefined && indexFile.id !== null && indexFile.id !== '{id}' ? new UUID(indexFile.id)
     : new Error('id not found in index.yml');
   check = indexFile.name !== undefined && indexFile.name !== null && indexFile.name !== '{name}' ? indexFile.name
@@ -125,7 +128,7 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<string> 
     }
   }
  
-  const eTypes = indexFile.elementTypes !== undefined && indexFile.aliases !== null ? indexFile.elementTypes : [];
+  const eTypes = indexFile.elementTypes !== undefined && indexFile.elementTypes !== null ? indexFile.elementTypes : [];
   if (!Array.isArray(eTypes)) {
     throw new Error('elementTypes in index.yml must be an array');
   }
@@ -153,6 +156,17 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<string> 
 
     elementTypes.push(elementType.code);
   });
+
+  const mappingTypes = indexFile.mappingTypes !== undefined && indexFile.mappingTypes !== null ? indexFile.mappingTypes : [];
+  if (!Array.isArray(mappingTypes)) {
+    throw new Error('mappingTypes in index.yml must be an array');
+  }
+
+  for (const mappingType of mappingTypes)  {
+    if (!elementTypes.includes(mappingType)) {
+      throw new Error(`mappingType ${mappingType} must be a valid element type.`);
+    }
+  }
 
   return code;
 }
@@ -228,6 +242,54 @@ function processElementParents(): void {
   }
 }
 
+async function processBaselines(directory: string, baselineCodes: string[]): Promise<void> {
+  for (const baselineCode of baselineCodes) {
+    const code = baselineCode.replace('.yml', '');
+    const codeRegex = /^[0-9a-z_-]+$/;
+    if (!codeRegex.test(code)) {
+      throw new Error(`baseline file name (baseline code) ${code} must follow syntax lowercase alphanumeric with _ or - only.`);
+    }
+
+    const baselineYml = await readAndParseFile(`${code}.yml`, path.join(directory, `${code}.yml`));
+    if (!baselineYml) {
+      throw new Error(`Unable to parse ${directory}/${code}.yml`);
+    }
+
+    let check: any;
+    check = baselineYml.id !== undefined && baselineYml.id !== null && baselineYml.id !== '{id}' ? new UUID(baselineYml.id)
+      : new Error(`id not found in baslines/${code}.yml`);
+    check = baselineYml.name !== undefined && baselineYml.name !== null ? baselineYml.name
+      : new Error(`name not found in baslines/${code}.yml`);
+    if (typeof check !== 'string' || check === '{name}') {
+      throw new Error(`name in baslines/${code}.yml needs replacement from {name}`);
+    }
+
+    check = baselineYml.description !== undefined && baselineYml.description !== null && baselineYml.description !== '{description}'
+      ? baselineYml.description : new Error(`description not found in baselines/${code}.yml`);
+    if (typeof check !== 'string' || check === '{description}') {
+      throw new Error(`description in baselines/${code}.yml needs replacement from {description}`);
+    }
+
+    const eles = baselineYml.elements !== undefined && baselineYml.elements !== null ? baselineYml.elements
+      : new Error(`elements missing from baselines/${code}.yml`);
+    if (typeof eles !== 'object' || Object.keys(eles).length === 0) {
+      throw new Error(`elements in baselines/${code}.yml must be an object map with atleast 1 element`);
+    }
+
+    for (const elementCode of Object.keys(eles)) {
+      if (!elements.includes(elementCode)) {
+        throw new Error(`element ${elementCode} in elements in baselines/${code}.yml does not match any element loaded.`);
+      }
+
+      check = eles[elementCode].mandatory !== undefined && eles[elementCode].mandatory !== null ? eles[elementCode].mandatory
+        : false;
+      if (typeof check !== 'boolean') {
+        throw new Error(`element ${elementCode} mandatory field in elements in baselines/${code}.yml must be a boolean.`);
+      }
+    }
+  }
+}
+
 async function processArtifact(directory: string) {
   const checkDir = await fs.lstat(directory)
     .catch(() => undefined);
@@ -248,7 +310,7 @@ async function processArtifact(directory: string) {
     throw new Error('Unable to parse index.yml');
   }
 
-  const { code, type } = await processIndexYml(indexYml);
+  const code = await processIndexYml(indexYml);
   console.log('Validated index.yml');
   const checkPackageJson = await fs.lstat(path.join(directory, 'package.json'))
     .catch(() => undefined);
@@ -262,7 +324,7 @@ async function processArtifact(directory: string) {
     throw new Error('Unable to parse package.json');
   }
 
-  processPackageJson(packageJson, code, type);
+  processPackageJson(packageJson, code);
   console.log('Validated package.json');
   const checkElementsDir = await fs.lstat(path.join(directory, 'elements'))
     .catch(() => undefined);
@@ -279,6 +341,20 @@ async function processArtifact(directory: string) {
     console.log('Validated all elements');
   } else if (elementTypes.length > 0) {
     throw new Error('elementTypes are defined within index.yml but no elements are defined!');
+  }
+
+  const checkBaselinesDir = await fs.lstat(path.join(directory, 'baselines'))
+    .catch(() => undefined);
+
+  if (checkBaselinesDir) {
+    if (!checkBaselinesDir.isDirectory()) {
+      throw new Error('baselines must be a directory');
+    }
+
+    // Handle baselines
+    const baselineFiles = await fs.readdir(path.join(directory, 'baselines'));
+    await processBaselines(path.join(directory, 'baselines'), baselineFiles);
+    console.log('Validated all baselines');
   }
 
   const checkNpmrc = await fs.lstat(path.join(directory, '.npmrc'))

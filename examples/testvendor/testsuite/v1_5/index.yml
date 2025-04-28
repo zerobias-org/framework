@@ -1,0 +1,35 @@
+id: 38473f94-3a46-493f-9577-3d86efd10392
+name: Example Framework
+description: This is an example clinical framework
+standardType: framework
+standardCategory: clinical
+code: testvendor_testsuite_v1.5
+externalId: Example Framework
+url: www.testvendor.com/testsuite/v1.5
+version: v1.5
+status: approved
+external: true
+internal: true
+elementTypes:
+  - id: ee11f49e-cd1f-5ce1-b9d0-27f533aab29b # Unique UUID
+    code: toplevel
+    name: Top Level
+    description: Folder for top level elements
+  - id: ee11f49e-cd1f-5ce1-b9d0-27f533aab29c # Unique UUID
+    code: secondlevel
+    name: Second Level
+    description: Folder for second level elements
+  - id: ee11f49e-cd1f-5ce1-b9d0-27f533aab29d # Unique UUID
+    code: thirdlevelcontrol
+    name: Third Level Controls
+    description: Elements at third level that represent controls
+  - id: ee11f49e-cd1f-5ce1-b9d0-27f533aab29e # Unique UUID
+    code: fourthlevelcontrolenhancement
+    name: Fourth Level Control Enhancements
+    description: Elements at fourth level that represent control enhancements
+mappingTypes: # This is to denote which element types are considered mappable as controls
+  - thirdlevelcontrol
+  - fourthlevelcontrolenhancement
+tags: []
+aliases:
+  - Example

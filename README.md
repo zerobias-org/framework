@@ -28,6 +28,12 @@ Set `ZB_TOKEN` in your environment variables to authenticate with npm registry.
 
 ### Run create new framework script
 
+### Update replacements in index.yml
+
+### Add elements
+
+### If needed add baselines and baseline elements
+
 ### Install and Shrinkwrap
 
 Run the following commands to update npm for your new framework

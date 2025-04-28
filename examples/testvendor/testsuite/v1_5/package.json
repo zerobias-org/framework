@@ -1,13 +1,13 @@
 {
-  "name": "@zerobias-org/framework-{vendor}-{suite}-{version}",
+  "name": "@zerobias-org/framework-testvendor-testsuite-v1_5",
   "version": "1.0.0-rc.0",
-  "description": "{standardName}",
+  "description": "Example Framework",
   "author": "team@zerobias.com",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git@github.com:zerobias-org/standard.git",
-    "directory": "package/{vendor}/{suite}/{version}/"
+    "directory": "package/testvendor/testsuite/v1_5/"
   },
   "scripts": {
     "nx:publish": "../../../../scripts/publish.sh",
@@ -26,9 +26,9 @@
   "auditmation": {
     "dataloader-version": "3.29.26",
     "import-artifact": "framework",
-    "package": "{vendor}.{suite}.{version}.framework"
+    "package": "testvendor.testsuite.v1_5.framework"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest"
+    "@auditlogic/suite-testvendor-testsuite": "latest"
   }
 }
