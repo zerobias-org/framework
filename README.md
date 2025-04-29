@@ -6,7 +6,7 @@ Monorepo of frameworks.
 
 Under the [zerobias-org/framework](https://github.com/zerobias-org/framework) repo, click the Fork button toward top right of the screen
 * Under owner choose your personal account for development, and leave the repository name as framework
-* Make sure the `Copy the main branch only` is unchecked, this is important
+* **Make sure the `Copy the main branch only` is unchecked, this is important**
 * Click the `Create Fork` button
 
 Once you have forked the repository change, your working environment to the `dev` branch.
@@ -24,20 +24,55 @@ Set `ZB_TOKEN` in your environment variables to authenticate with npm registry.
 
 ## Creating a new framework
 
-### Create new framework folder
-
 ### Run create new framework script
+
+A set of templates and script have been provided to initialize the start of a new framework.
+
+You can run the following command:
+```sh scripts/createNewFramework.sh <standard_category> <publisher> <category> <version>```
+
+The variables required are the following:
+* `standard_category`: cyber | technical | clinical
+* `publisher`: The vendor who published this framework, eg: `nist`
+* `category`: The category or suite this framework belows to, eg: `800-53`
+* `version`: The version of this framework, which can refer to a v1, a year, or version name, eg: `v1` | `2024` | `rev4`
+
+This will automatically create the folder structures under the package directory and copy in the templates provided
+with some minor replacements done.
 
 ### Update replacements in index.yml
 
+The index.yml file defines the frameworks main information such as name, description, url, and element types.
+You will need to replace any field that has `{field}` in it.
+Also please look at the examples framework for information on adding element/mapping types.
+
 ### Add elements
 
+Now we can build the elements that make up this framework. These elements may contain folders for structure and
+heirarchy with the controls and requirements below them that make up the framework.
+
+The examples framework shows a basic structure with two levels of folders, one control layer, and one control enchancement layer.
+
+You can provide background for examples and more detailed information as well as aliases and more.
+
 ### If needed add baselines and baseline elements
+
+Many frameworks also have different baselines within them. For example you may have a `low`, `medium`, and `high` baseline to
+denote different coverages of the frameworks.
+
+For each baseline you will create a yml file in the `baselines` folder. Each file contains basic info like name and description
+followed by the list of elements that fall into the baseline. You can denote which elements are mandatory or options.
+
+Parameters and requirements are coming soon.
+
+### Additional information
+
+If you have any questions or concerns regarding more needed functionality or assistance, please use the zerobias.org slack for help.
 
 ### Install and Shrinkwrap
 
 Run the following commands to update npm for your new framework
-* `cd <folder_path>` cd into your new framework directory
+* `cd <publisher>/<category>/<version>` cd into your new framework directory
 * `npm install` run npm install
 * `npm shrinkwrap` run npm shrinkwrap
 
@@ -46,7 +81,15 @@ Run the following commands to update npm for your new framework
 In the root of the respository run the follow command to validate all edit or added frameworks
 * `npm run validate` If any errors, edit what is needed and rerun
 
-**Now you can commit your changes following the instructions below, then open a PR against the main repository branch**
+### Open PR against changes
+
+Now you that you have added your new framework you can commit your changes following the instructions below.
+
+**You will then open a PR against the dev branch on the main repository**
+
+If you open a PR against a different branch we will reject it.
+Once we have done a simple review we will set a tag to have tests ran.
+Community will discuss and review/vote on framework information before being brought into the Zerobias platform.
 
 ## Commit conventions and Version management
 ### Versioning: [lerna](https://github.com/lerna/lerna)
