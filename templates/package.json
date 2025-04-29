@@ -29,6 +29,6 @@
     "package": "{vendor}.{suite}.{version}.framework"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest"
+    "@auditlogic/suite-{vendor}-{suite}": "latest"
   }
 }
