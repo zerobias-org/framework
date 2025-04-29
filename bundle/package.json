@@ -1,0 +1,21 @@
+{
+  "name": "@zerobias-org/framework-bundle",
+  "version": "0.0.1",
+  "description": "All installable frameworks",
+  "author": "team@auditmation.io",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "bundle/"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "auditmation": {
+    "package": "bundle.all-frameworks",
+    "import-artifact": "bundle",
+    "dataloader-version": "0.5.4"
+  },
+  "dependencies": {}
+}
