@@ -1,11 +1,15 @@
 id: ee11f49e-cd1f-5ce1-b9d0-27f533aab294 # Unique UUID
-name: A1-1
-description: Control A1-1
+name: Example Control
+description: Example Control that describes control requirement # Put main content describing the control here
 elementType: thirdlevelcontrol
-externalId: A1.1
+externalId: A1.1 # This value is the real world representation of this element
 aliases:
   - A1_1
   - a1_1
   - a1-1
   - Control A1-1
 parent: a1
+background: >-
+  This allows us to give more information and examples about this element that go beyond the general description
+
+  This field also acts as a markdown
