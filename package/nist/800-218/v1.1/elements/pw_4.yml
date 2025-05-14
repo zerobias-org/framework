@@ -1,0 +1,14 @@
+id: f92cfe66-548d-4183-9ef9-8067ada00a85
+name: >-
+  Reuse Existing, Well-Secured Software When Feasible Instead of Duplicating
+  Functionality (PW.4)
+description: >-
+  Lower the costs of software development, expedite software development, and
+  decrease the likelihood of introducing additional security vulnerabilities
+  into the software by reusing software modules and services that have already
+  had their security posture checked. This is particularly important for
+  software that implements security functionality, such as cryptographic modules
+  and protocols.
+elementType: practice
+externalId: PW.4
+parent: pw

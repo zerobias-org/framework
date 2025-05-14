@@ -1,0 +1,11 @@
+id: 49670ca7-f0aa-4dcb-9717-18ea33f964cb
+name: Protect All Forms of Code from Unauthorized Access and Tampering (PS.1)
+description: >-
+  Help prevent unauthorized changes to code, both inadvertent and intentional,
+  which could circumvent or negate the intended security characteristics of the
+  software. For code that is not intended to be publicly accessible, this helps
+  prevent theft of the software and may make it more difficult or time-consuming
+  for attackers to find vulnerabilities in the software.
+elementType: practice
+externalId: PS.1
+parent: ps

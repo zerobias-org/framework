@@ -1,0 +1,34 @@
+id: 7318ce1c-632b-4368-99b7-4c26c4f76515
+name: NIST SP 800-218 v1.1
+description: Secure Software Development Framework (SSDF) Version 1.1.
+standardType: framework
+standardCategory: clinical
+code: nist_800218_v1_1
+externalId: SSDF
+status: approved
+url: https://csrc.nist.gov/publications/detail/sp/800-218/final
+external: true
+internal: true
+source: NIST
+version: v1.1
+aliases:
+  - SSDF
+  - Secure Software Development Framework
+  - NIST 800-218
+  - SP 800-218
+elementTypes:
+  - id: 492b3fce-f908-4c03-b4db-155cd42de6de
+    code: group
+    name: Group
+    description: Name of the group of practices
+  - id: c5234449-994d-44a6-8b9c-8382823af28b
+    code: practice
+    name: Practice
+    description: The name of the practice and a unique identifier, followed by a brief explanation of what the practice is and why it is beneficial
+  - id: b47db694-401e-4bb2-9eb3-18dd3340be6c
+    code: task
+    name: Task
+    description: One or more actions that may be needed to perform a practice
+mappingTypes:
+  - practice
+  - task

@@ -1,0 +1,12 @@
+id: fca7122a-bcd6-4867-a907-998ed38c1965
+name: Implement Supporting Toolchains (PO.3)
+description: >-
+  Use automation to reduce human effort and improve the accuracy,
+  reproducibility, usability, and comprehensiveness of security practices
+  throughout the SDLC, as well as provide a way to document and demonstrate the
+  use of these practices. Toolchains and tools may be used at different levels
+  of the organization, such as organization-wide or project-specific, and may
+  address a particular part of the SDLC, like a build pipeline.
+elementType: practice
+externalId: PO.3
+parent: po

@@ -1,0 +1,14 @@
+id: bfadd83c-bd6d-49cd-88a2-a5f7e8a51a2a
+name: >-
+  Test Executable Code to Identify Vulnerabilities and Verify Compliance with
+  Security Requirements (PW.8)
+description: >-
+  Help identify vulnerabilities so that they can be corrected before the
+  software is released in order to prevent exploitation. Using automated methods
+  lowers the effort and resources needed to detect vulnerabilities and improves
+  traceability and repeatability. Executable code includes binaries, directly
+  executed bytecode and source code, and any other form of code that an
+  organization deems executable.
+elementType: practice
+externalId: PW.8
+parent: pw

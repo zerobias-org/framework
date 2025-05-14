@@ -1,0 +1,10 @@
+id: 9b19e558-1229-42f3-aa08-431aab99d87a
+name: PW.7.1
+description: >-
+  Determine whether code review (a person looks directly at the code to find
+  issues) and/or code analysis (tools are used to find issues in code, either in
+  a fully automated way or in conjunction with a person) should be used, as
+  defined by the organization.
+elementType: task
+externalId: PW.7.1
+parent: pw_7
