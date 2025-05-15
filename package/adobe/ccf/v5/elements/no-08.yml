@@ -1,0 +1,8 @@
+id: 6b91934e-7715-4837-ab6f-9e7cc0a7604f
+name: 'Traffic Flow: Managed Proxy'
+description: >-
+  Organization requires egress traffic initiated from within the Organization
+  network to pass through a managed proxy.
+elementType: control
+externalId: NO-08
+parent: 'no'

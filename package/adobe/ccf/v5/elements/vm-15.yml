@@ -1,0 +1,8 @@
+id: 525b49d2-e6ef-44e3-a4e1-43fd4ceee2f9
+name: Third-Party Library Check
+description: >-
+  Organization scans third-party libraries for vulnerabilities according to the
+  service risk rating assignment.
+elementType: control
+externalId: VM-15
+parent: vm

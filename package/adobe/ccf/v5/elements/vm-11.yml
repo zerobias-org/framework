@@ -1,0 +1,9 @@
+id: f2fbbdf1-9e2e-429c-9f8a-b41136653e70
+name: Enterprise Antivirus Scope
+description: >-
+  Vulnerability scans are periodically performed on systems that do not require
+  anti-virus; management determines if anti-virus should be required on the
+  system based on scan results and associated risk.
+elementType: control
+externalId: VM-11
+parent: vm

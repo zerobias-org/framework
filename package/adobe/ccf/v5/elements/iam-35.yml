@@ -1,0 +1,9 @@
+id: b0928a00-a634-471b-a058-b2bff26b93ee
+name: 'Remote Maintenance: Authentication'
+description: >-
+  Remote maintenance and diagnostic tool utilization are restricted to the
+  minimum required level, strong authentication is required, and remote sessions
+  are recorded. 
+elementType: control
+externalId: IAM-35
+parent: iam

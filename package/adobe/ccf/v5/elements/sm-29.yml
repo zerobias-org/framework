@@ -1,0 +1,9 @@
+id: bc7d7c39-f801-4ff7-bf37-ce391f4ad43f
+name: Availability Monitoring Alert Criteria
+description: >-
+  Organization defines availability monitoring alert criteria, how alert
+  criteria will be flagged, and identifies authorized personnel for flagged
+  system alerts.
+elementType: control
+externalId: SM-29
+parent: sm

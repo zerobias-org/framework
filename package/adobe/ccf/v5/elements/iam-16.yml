@@ -1,0 +1,8 @@
+id: c5ba117c-aeab-42e1-932c-f21b37a84f5c
+name: Session Timeout
+description: >-
+  Information systems are configured to terminate inactive sessions after 15
+  minutes or when the user terminates the session.
+elementType: control
+externalId: IAM-16
+parent: iam

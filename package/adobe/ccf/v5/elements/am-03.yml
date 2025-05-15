@@ -1,0 +1,8 @@
+id: 34ca7118-bd58-40e4-b676-a945a59121fa
+name: 'Inventory Reconciliation: ARP Table'
+description: >-
+  Organization reconciles network discovery scans against the established device
+  inventory on a quarterly basis; non-inventoried devices are assigned an owner.
+elementType: control
+externalId: AM-03
+parent: am

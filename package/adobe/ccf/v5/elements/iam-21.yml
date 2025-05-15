@@ -1,0 +1,13 @@
+id: fe67b358-b3db-46ce-b425-0f1f23e54f06
+name: Credentials Validation
+description: >
+  Organization systems utilize Federal Identity, Credential, and Access
+  Management (FICAM) components and conform to FICAM-issued profiles; systems
+  verify and accept the following external credentials:
+
+  • personal Identity Verification (PIV) credentials from federal agencies, and
+
+  • FICAM-approved credentials from non-federal third-parties
+elementType: control
+externalId: IAM-21
+parent: iam

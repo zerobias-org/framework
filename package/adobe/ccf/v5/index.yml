@@ -1,0 +1,30 @@
+id: 45b086d2-aece-4188-8961-6132dee56de4
+name: Adobe CCF v5
+description: Adobe Common Control Framework (CCF) v5
+standardType: framework
+standardCategory: clinical
+code: adobe_ccf_v5
+externalId: Adobe CCF v5
+url: https://www.adobe.com/trust/compliance/adobe-ccf.html
+version: v5
+status: approved
+external: true
+internal: true
+elementTypes:
+  - id: b8262162-0741-427d-9716-a0f5ebc53744
+    code: domain
+    name: Domain
+    description: CCF Control Domains like. asset management, change management, etc.
+  - id: 31639160-6166-4101-a448-76b7169b35d7
+    code: control
+    name: Control
+    description: A short control name to understand the intent of the control
+mappingTypes:
+  - control
+tags: []
+aliases:
+  - CCF
+  - Adobe CCF
+  - Adobe Common Control Framework
+  - Adobe Common Control Framework v5
+  - Adobe CCF v5

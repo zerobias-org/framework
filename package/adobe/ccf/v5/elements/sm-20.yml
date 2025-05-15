@@ -1,0 +1,8 @@
+id: 8e44c3d2-ba0d-4dfa-9dd7-f5dc32c59772
+name: 'Security Monitoring Alert Criteria: Wireless Access Point'
+description: >-
+  Organization defines security monitoring alert criteria for attack attempts
+  against wireless access points.
+elementType: control
+externalId: SM-20
+parent: sm

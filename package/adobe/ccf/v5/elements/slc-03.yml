@@ -1,0 +1,9 @@
+id: 2bab237e-9088-4572-82c2-cb7426e0c46d
+name: Secrets in Code
+description: >-
+  Organization manages source code secrets in a centralized repository; secrets
+  are rotated at least annually and immediately if the security of secrets is
+  compromised. 
+elementType: control
+externalId: SLC-03
+parent: slc

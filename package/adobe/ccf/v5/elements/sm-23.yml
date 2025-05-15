@@ -1,0 +1,8 @@
+id: 6a0232fb-b201-417e-8926-d59628526b6b
+name: 'Security Monitoring Alert Criteria: Audit Log Integrity'
+description: >-
+  Organization defines security monitoring alert criteria for changes to the
+  integrity of audit logs.
+elementType: control
+externalId: SM-23
+parent: sm

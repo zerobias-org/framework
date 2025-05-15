@@ -1,0 +1,8 @@
+id: 1177af3b-1566-4ee0-81c0-888b4ba1d33c
+name: Vulnerability Scans
+description: >-
+  Organization conducts vulnerability scans against the production environment;
+  scan tools are updated prior to running scans.
+elementType: control
+externalId: VM-01
+parent: vm

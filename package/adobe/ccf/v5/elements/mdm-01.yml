@@ -1,0 +1,9 @@
+id: 44de3196-be66-4c92-90c0-a61f546509ed
+name: Mobile Device Enrollment
+description: >-
+  Mobile devices (i.e., laptops, smartphones, tablets) must be configured with
+  the appropriate Mobile Device Management (MDM) profile when used as a medium
+  to access Organization internal resources.
+elementType: control
+externalId: MDM-01
+parent: mdm

@@ -1,0 +1,8 @@
+id: 74c8c693-c266-4c06-bad1-f0e3a5cb3b7a
+name: 'Account Lockout: Cardholder Data Environments'
+description: >-
+  Users are locked out of information systems after 6 invalid attempts for a
+  minimum of 30 minutes, or until an administrator enables the user ID.
+elementType: control
+externalId: IAM-18
+parent: iam

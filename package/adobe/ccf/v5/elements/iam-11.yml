@@ -1,0 +1,8 @@
+id: f32be67e-2cb2-43a9-9761-d0513ec593fe
+name: Temporary Account Termination
+description: >-
+  Temporary and emergency accounts are automatically terminated 90 days from the
+  date they are generated.
+elementType: control
+externalId: IAM-11
+parent: iam

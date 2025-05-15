@@ -1,0 +1,8 @@
+id: 73264364-dfb6-41a1-af9f-0eef3b3023d6
+name: Session Limit
+description: >-
+  Information systems are configured to limit concurrent login sessions and the
+  inactive user interface is not displayed when the session is terminated.
+elementType: control
+externalId: IAM-17
+parent: iam

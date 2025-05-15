@@ -1,0 +1,8 @@
+id: 25f6e323-b3b7-40fe-b260-c6ef18107ac4
+name: 'Security Monitoring Alert Criteria: Guest, Anonymous and Temp Accounts'
+description: >-
+  Organization defines security monitoring alert criteria for the use of guest,
+  anonymous, and temporary accounts on Organization's network.
+elementType: control
+externalId: SM-16
+parent: sm

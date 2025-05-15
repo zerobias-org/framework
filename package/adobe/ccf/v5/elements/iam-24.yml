@@ -1,0 +1,8 @@
+id: 771d8ef3-3da3-4add-9afc-0b4f559a4b4f
+name: Zero Trust Enterprise Network
+description: >-
+  Organization users are authenticated against a Zero Trust model prior to
+  gaining access to organization resources.
+elementType: control
+externalId: IAM-24
+parent: iam

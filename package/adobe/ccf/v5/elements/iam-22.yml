@@ -1,0 +1,25 @@
+id: a4a4dab3-8b18-4aa7-89e6-0182f0964178
+name: 'Password Authentication Standard: Federal Systems'
+description: >-
+  Organization information systems obscure feedback of authentication
+  information during the authentication process (e.g., the system does not
+  disclose error information such as "'user1' is not a valid username") and have
+  the following password requirements:
+
+  • minimum of 12 characters
+
+  • contains at least one upper-case letter, lower-case letter, number, and a
+  special character
+
+  • at least one of the characters is changed when the new passwords are
+  created.
+
+  • the password life span is between 1 to 60 days
+
+  • password reuse is prohibited for 24 generations
+
+  • only allow the use of temporary password system logons with an immediate
+  change to a permanent password
+elementType: control
+externalId: IAM-22
+parent: iam

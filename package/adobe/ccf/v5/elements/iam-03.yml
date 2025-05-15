@@ -1,0 +1,8 @@
+id: 5aaae69f-4656-413a-9b90-a5c2d81deda6
+name: Logical Access De-provisioning
+description: >-
+  Logical access that is no longer required in the event of a termination is
+  documented, communicated to management, and revoked.
+elementType: control
+externalId: IAM-03
+parent: iam

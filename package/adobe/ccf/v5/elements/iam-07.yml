@@ -1,0 +1,9 @@
+id: 0d24cd9a-1f20-48f9-a81d-5e3e011f3d61
+name: Shared Logical Accounts
+description: >-
+  Organization restricts the use of shared and group authentication credentials.
+  Authentication credentials for shared and group accounts are reset every 90
+  days.
+elementType: control
+externalId: IAM-07
+parent: iam

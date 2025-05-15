@@ -1,0 +1,9 @@
+id: 23e0a302-8e87-4fb9-8953-ed794bdc3755
+name: Privileged Session Management
+description: >-
+  Privileged logical access to trusted data environments is enabled through an
+  authorized session manager; session user activity is recorded and tunnelling
+  to untrusted data environments is restricted.
+elementType: control
+externalId: IAM-23
+parent: iam

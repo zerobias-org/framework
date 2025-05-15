@@ -1,0 +1,8 @@
+id: d04306aa-ced1-4885-a0da-c377b00df751
+name: 'Maintenance Tools: Inspect Media'
+description: >-
+  Organization checks media containing diagnostic and test programs for
+  malicious code before the media are used in production systems.
+elementType: control
+externalId: VM-12
+parent: vm

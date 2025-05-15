@@ -1,0 +1,9 @@
+id: 06e6e4b2-0fb5-4e69-9ab8-abbb6fa2f330
+name: 'Role Change: Access De-provisioning'
+description: >-
+  Upon notification of an employee reassignment or transfer, management reviews
+  the employee's access for appropriateness. Access that is no longer required
+  is revoked and documented.
+elementType: control
+externalId: IAM-06
+parent: iam

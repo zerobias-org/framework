@@ -1,0 +1,8 @@
+id: 677b4c49-6e28-4a5f-aa55-ea46e6a28408
+name: Log-tampering Detection
+description: >-
+  Organization monitors and flags tampering to the audit logging and monitoring
+  tools in the production environment.
+elementType: control
+externalId: SM-14
+parent: sm

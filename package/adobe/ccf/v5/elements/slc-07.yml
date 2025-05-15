@@ -1,0 +1,22 @@
+id: e44bfb6a-845a-4a48-a90d-b126be2c88e2
+name: System Acquisition Approval
+description: >-
+  Information system acquisitions require approval from authorized personnel
+  based on verification of the following documented evidence:
+
+  • security function, strength, and assurance requirements
+
+  • requirements for protecting security-related documentation
+
+  • system development and test requirements
+
+  • acceptance criteria for releases
+
+  • enumeration of Security controls
+
+  • security control implementation and monitoring requirements
+
+  • components are FIPS-201 approved
+elementType: control
+externalId: SLC-07
+parent: slc

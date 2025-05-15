@@ -1,0 +1,8 @@
+id: 423eb3b9-d680-469d-9a2b-927169a209c9
+name: 'Remote Maintenance: Authentication Sessions'
+description: >-
+  Vendor accounts used for remote access are enabled only during the time period
+  needed, disabled when not in use, and monitored while in use.
+elementType: control
+externalId: IAM-33
+parent: iam

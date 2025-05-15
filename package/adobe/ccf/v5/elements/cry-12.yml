@@ -1,0 +1,9 @@
+id: 4df29db3-7fc5-4493-81ae-d1abbc3815bb
+name: Approved Certificate Authorities
+description: >-
+  Organization restricts the use of digital certificates to those that are
+  signed by approved certificate authorities; a certification path to an
+  accepted trust anchor is established.
+elementType: control
+externalId: CRY-12
+parent: cry

@@ -1,0 +1,9 @@
+id: 0161a27e-f58e-44cb-8b1c-39989827b85c
+name: Security Monitoring Alert Criteria
+description: >-
+  Organization defines security monitoring alert criteria, how alert criteria
+  will be flagged, and identifies authorized personnel for flagged system
+  alerts.
+elementType: control
+externalId: SM-12
+parent: sm

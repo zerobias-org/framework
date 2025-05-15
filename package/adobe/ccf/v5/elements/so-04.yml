@@ -1,0 +1,22 @@
+id: 23c17990-7163-48f4-bbab-858097e36b25
+name: Provisioning Physical Access
+description: >-
+  Physical access provisioning to an Organization datacenter requires management
+  approval and documented specification of: 
+
+  • account type (e.g., standard, visitor, or vendor)
+
+  • access privileges granted
+
+  • intended business purpose
+
+  • visitor identification method, if applicable
+
+  • temporary badge issued, if applicable
+
+  • access start date
+
+  • access duration
+elementType: control
+externalId: SO-04
+parent: so

@@ -1,0 +1,9 @@
+id: a4f53b86-2943-47de-a95d-04c7a210e766
+name: Approved Cryptographic Technology
+description: >-
+  Where applicable, strong industry standard cryptographic ciphers and keys with
+  an effective strength greater than 112 bits are required for cryptographic
+  security operations.
+elementType: control
+externalId: CRY-07
+parent: cry

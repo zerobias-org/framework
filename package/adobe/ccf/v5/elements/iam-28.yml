@@ -1,0 +1,11 @@
+id: 5032280d-c02f-4903-976b-d1d0c162813f
+name: PCI Account Restrictions
+description: >-
+  Organization clients with access to the cardholder data environment (CDE), as
+  users or processes, are assigned unique accounts that cannot modify shared
+  binaries or access data, server resources, or scripts owned by another CDE or
+  Organization; application processes are restricted from operating in
+  privileged-mode.
+elementType: control
+externalId: IAM-28
+parent: iam

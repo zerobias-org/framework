@@ -1,0 +1,9 @@
+id: 1db83ea6-7c0f-471b-9a6b-17e83eed62a7
+name: Primary Account Number Data Restrictions
+description: >-
+  Organization restricts primary account number (PAN) data such that only the
+  first six and last four digits are displayed; authorized users with a
+  legitimate business need may be provided the full PAN.
+elementType: control
+externalId: DM-10
+parent: dm

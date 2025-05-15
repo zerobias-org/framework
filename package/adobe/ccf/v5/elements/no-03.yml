@@ -1,0 +1,14 @@
+id: 6924fa67-cfb5-4988-ae75-54756a8f5a49
+name: Ingress and Egress Points
+description: >-
+  Organization maintains an inventory of ingress and egress points on the
+  production network and performs the following for each: 
+
+  • inventory is reduced to the minimum possible level
+
+  • permitted ports, protocols and services are inventoried and validated
+
+  • documents security features that are implemented for insecure protocols
+elementType: control
+externalId: NO-03
+parent: 'no'

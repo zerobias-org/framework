@@ -1,0 +1,16 @@
+id: 372491d2-b631-4352-8be5-1c70fe00c195
+name: Change Approval
+description: >-
+  Prior to introducing changes into the production environment, approval from
+  authorized personnel is required based on the following:
+
+  • change description
+
+  • impact of change
+
+  • test results
+
+  • back-out plan
+elementType: control
+externalId: CHM-02
+parent: chm

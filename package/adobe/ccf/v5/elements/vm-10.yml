@@ -1,0 +1,8 @@
+id: e32a3547-5ba4-4090-8efa-db49758111f7
+name: Enterprise Antivirus Tampering
+description: >-
+  Antivirus mechanisms cannot be disabled or altered by users unless
+  specifically authorized by management.
+elementType: control
+externalId: VM-10
+parent: vm

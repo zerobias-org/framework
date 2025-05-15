@@ -1,0 +1,9 @@
+id: 6dee8ee2-ffb1-402b-8ab8-49954234fc7a
+name: Infrastructure Patch Management
+description: >-
+  Organization installs security-relevant patches, including software or
+  firmware updates; identified end-of-life software must have a documented
+  decommission plan in place.
+elementType: control
+externalId: VM-08
+parent: vm

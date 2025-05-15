@@ -1,0 +1,8 @@
+id: 74d18349-755f-462a-a3b2-f873404bb53e
+name: 'Ingress and Egress Points: Fail Secure'
+description: >
+  The information system fails securely in the event of an operational failure
+  of a boundary protection device.
+elementType: control
+externalId: NO-07
+parent: 'no'

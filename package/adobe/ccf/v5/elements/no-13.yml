@@ -1,0 +1,8 @@
+id: 9bf5861c-0664-4bad-a435-d614ca53fbb9
+name: Network Segmentation
+description: >-
+  Production environments are logically segregated from non-production
+  environments.
+elementType: control
+externalId: NO-13
+parent: 'no'

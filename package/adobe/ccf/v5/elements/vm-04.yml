@@ -1,0 +1,9 @@
+id: 540a9610-a82d-4768-904c-05158f79d51f
+name: 'Vulnerability Scans: Trend Analysis'
+description: >-
+  Organization reviews vulnerability trends over time to include in risk
+  assessments; high and moderate risk vulnerabilities are remediated in 30 and
+  90 days, respectively.
+elementType: control
+externalId: VM-04
+parent: vm

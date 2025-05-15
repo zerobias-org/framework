@@ -1,0 +1,9 @@
+id: 3601ebfc-2e2b-422d-a711-fb3017d4d679
+name: Service Lifecycle Workflow
+description: >-
+  Major software releases are subject to the Service Life Cycle, which requires
+  acceptance via Concept Accept and Project Plan Commit phases prior to
+  implementation.
+elementType: control
+externalId: SLC-01
+parent: slc

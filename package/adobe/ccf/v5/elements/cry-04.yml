@@ -1,0 +1,8 @@
+id: 630fea5e-6d2b-45ba-8c72-7608098eee1e
+name: Clear Text Key Management
+description: >-
+  If applicable, manual clear-text cryptographic key-management operations must
+  be managed using split knowledge and dual control.
+elementType: control
+externalId: CRY-04
+parent: cry

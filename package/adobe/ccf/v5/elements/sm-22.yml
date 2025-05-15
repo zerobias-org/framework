@@ -1,0 +1,8 @@
+id: 919613ce-d481-4f07-bde9-5da7e090a2d0
+name: 'Security Monitoring Alert Criteria: Privileged Functions'
+description: >-
+  Organization defines security monitoring alert criteria for privileged
+  functions executed by both authorized and unauthorized users.
+elementType: control
+externalId: SM-22
+parent: sm

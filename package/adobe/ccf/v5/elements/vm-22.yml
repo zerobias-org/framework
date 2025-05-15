@@ -1,0 +1,9 @@
+id: 8a4cfe74-2c1a-49d7-99c7-97448ec60bab
+name: Vulnerability Remediation
+description: >-
+  Organization assigns a risk rating to identified vulnerabilities and
+  prioritizes remediation of legitimate vulnerabilities according to the
+  assigned risk.
+elementType: control
+externalId: VM-22
+parent: vm

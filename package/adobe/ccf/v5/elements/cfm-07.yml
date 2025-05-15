@@ -1,0 +1,8 @@
+id: 05ae0ad4-b65e-489e-8282-3f2b07ac9793
+name: Configuration Checks
+description: >-
+  Organization uses mechanisms to detect deviations from baseline configurations
+  on production environments.
+elementType: control
+externalId: CFM-07
+parent: cfm

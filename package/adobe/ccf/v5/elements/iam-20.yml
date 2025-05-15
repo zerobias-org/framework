@@ -1,0 +1,17 @@
+id: aed1b752-63b0-46c6-98d2-8067e93612eb
+name: Login Banner
+description: >-
+  Systems leveraged by the U.S. Federal Government present a login screen that
+  displays the following language:
+
+  • users are accessing a U.S. Government information system
+
+  • system usage may be monitored, recorded, and subject to audit
+
+  • unauthorized use of the system is prohibited and subject to criminal and
+  civil penalties
+
+  • use of the system indicates consent to monitoring and recording
+elementType: control
+externalId: IAM-20
+parent: iam

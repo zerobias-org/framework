@@ -1,0 +1,9 @@
+id: c094f61b-58cc-4b58-93a7-9e3246a496a0
+name: Multifactor Authentication
+description: |-
+  Multi-factor authentication is required for:
+  • remote VPN sessions
+  • access to trusted data environments
+elementType: control
+externalId: IAM-14
+parent: iam

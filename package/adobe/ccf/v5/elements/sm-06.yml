@@ -1,0 +1,8 @@
+id: f34f1775-4728-4ca3-844e-0ccf1f6c99e7
+name: 'Configuration Management: Remote Logging'
+description: >-
+  Where applicable, devices are configured to send audit log data to a remote
+  server
+elementType: control
+externalId: SM-06
+parent: sm

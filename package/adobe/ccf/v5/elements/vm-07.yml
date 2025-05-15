@@ -1,0 +1,32 @@
+id: f8eaabc0-bb75-4c7f-a7f8-fa862c78802a
+name: 'Application Penetration Testing: Cardholder Data Environment'
+description: >-
+  Organization conducts penetration tests against cardholder data environments
+  (CDE) and includes the following requirements:
+
+  • testing covers the entire CDE perimeter and critical data systems
+
+  • testing verifies that CDE perimeter segmentation is operational
+
+  • testing is performed from both inside and outside the CDE network
+
+  • testing validates segmentation and scope-reduction controls (e.g.,
+  tokenization processes)
+
+  • network layer penetration tests include components that support network
+  functions as well as operating systems 
+
+  • at the application level, testing provides coverage, at a minimum, against
+  the security testing requirements defined in VM-05-01 (01)
+
+  • testing is performed with consideration of threats verified in the last 12
+  months from external alerts, directives, and advisories defined in VM-06-02
+
+  • testing is performed with consideration of vulnerabilities reported through
+  Organization's PSIRT process within the last 12 months
+
+  • risk ratings are assigned to discovered vulnerabilities, which are tracked
+  through remediation
+elementType: control
+externalId: VM-07
+parent: vm

@@ -1,0 +1,9 @@
+id: 5f63cb5a-087a-4e22-9047-23ad94c104d3
+name: Credit Card Data Restrictions
+description: >-
+  Organization does not store full track credit card data, credit card
+  authentication information, credit card verification code, or credit personal
+  identification number (PIN) which Organization processes for payment.
+elementType: control
+externalId: DM-09
+parent: dm

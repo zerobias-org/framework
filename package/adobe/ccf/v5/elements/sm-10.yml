@@ -1,0 +1,9 @@
+id: 61943594-8b56-4ae1-8f4e-561a527774e8
+name: Audit Log Capacity and Retention
+description: >-
+  Organization allocates audit record storage capacity in accordance with
+  logging storage and retention requirements; Audit logs are retained for 1 year
+  with 90 days of data immediately available for analysis.
+elementType: control
+externalId: SM-10
+parent: sm

@@ -1,0 +1,9 @@
+id: c80063e4-c2cb-4219-9e16-e005159a7603
+name: 'Configuration Management: Mobile Devices'
+description: >-
+  Organization Mobile devices (i.e., laptops, smartphones, tablets) are
+  configured to ensure unnecessary hardware capabilities and functionalities are
+  disabled, and management defined security features are enabled.
+elementType: control
+externalId: MDM-03
+parent: mdm

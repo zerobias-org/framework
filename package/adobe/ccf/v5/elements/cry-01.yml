@@ -1,0 +1,8 @@
+id: c521a99b-31a8-40d0-9880-23c4f5a1b66c
+name: Encryption Key Maintenance
+description: >-
+  Cryptographic keys are invalidated when compromised or at the end of their
+  defined lifecycle period.
+elementType: control
+externalId: CRY-01
+parent: cry

@@ -1,0 +1,9 @@
+id: ca4e27a9-1bab-43e7-bf55-e73bab3d9188
+name: De-provisioning Physical Access
+description: >-
+  Physical access that is no longer required in the event of a termination or
+  role change is revoked. If applicable, temporary badges are returned prior to
+  exiting facility.
+elementType: control
+externalId: SO-05
+parent: so

@@ -1,0 +1,19 @@
+id: 2c319b97-d887-4d1c-809b-f9e8ea0231c0
+name: Intrusion Detection Systems
+description: >-
+  Organization has an Intrusion Detection System (IDS) or Intrusion Prevention
+  System (IPS) deployment(s) and ensures the following:
+
+  • signature definitions are updated including the removal of false positive
+  signatures
+
+  • non-signature based attacks are defined
+
+  • IDS/IPS are configured to capture malicious (both signature and
+  non-signature based) traffic
+
+  • alerts are reviewed and resolved by authorized personnel when malicious
+  traffic is detected
+elementType: control
+externalId: SM-26
+parent: sm

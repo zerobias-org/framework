@@ -1,0 +1,31 @@
+id: 89711841-2d87-46f0-ae84-7d4fe29e3971
+name: Incident Response Plan
+description: >-
+  Organization defines the types of incidents that need to be managed, tracked
+  and reported, including:
+
+  • procedures for the identification and management of incidents 
+
+  • procedures for the resolution of confirmed incidents
+
+  • key incident response systems
+
+  • incident coordination and communication strategy
+
+  • contact method for internal parties to report incidents
+
+  • support team contact information
+
+  • notification to relevant management in the event of a security breach
+
+  • provisions for updating and communicating the plan
+
+  • provisions for training of support team
+
+  • preservation of incident information
+
+  • management review and approval, annually, or when major changes to the
+  organization occur
+elementType: control
+externalId: IR-01
+parent: ir

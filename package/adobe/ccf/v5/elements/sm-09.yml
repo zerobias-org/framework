@@ -1,0 +1,9 @@
+id: 0bc4282c-548d-4a6c-a3e5-b2e6b6d7eb8f
+name: 'Log Reconciliation: CMDB'
+description: >-
+  Organization reconciles the established device inventory against the
+  enterprise log repository on a quarterly basis; devices which do not forward
+  log data are remediated.
+elementType: control
+externalId: SM-09
+parent: sm

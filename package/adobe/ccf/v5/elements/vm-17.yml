@@ -1,0 +1,9 @@
+id: d5df578f-5f21-4acc-91f8-4be976dae30f
+name: Embedded Authenticators
+description: >-
+  Quality Engineering checks to ensure that static passwords are not embedded
+  within application source code or access scripts, prior to deployment on the
+  Organization network.
+elementType: control
+externalId: VM-17
+parent: vm

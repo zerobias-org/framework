@@ -1,0 +1,9 @@
+id: da355923-31ab-49da-b0d1-fa7599656321
+name: 'Remote Maintenance: Audit'
+description: >-
+  Organization documents and maintains records for vendor remote maintenance,
+  diagnostic activities, and permissions granted. A listing of vendor remote
+  maintenance connections is documented as well.
+elementType: control
+externalId: IAM-36
+parent: iam

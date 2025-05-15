@@ -1,0 +1,28 @@
+id: 14fe8e6f-f482-42c3-a5cd-75796d42baf8
+name: 'Code Security Check: Cardholder Data Environment'
+description: >-
+  Where applicable, security testing performed prior to releasing code into
+  production includes the following:
+
+  • code injection
+
+  • buffer overflows
+
+  • insecure cryptographic storage
+
+  • insecure communications
+
+  • improper error handling
+
+  • high-risk vulnerabilities
+
+  • cross-site scripting
+
+  • improper access control
+
+  • cross-site request forgery
+
+  • broken authentication session management
+elementType: control
+externalId: VM-14
+parent: vm

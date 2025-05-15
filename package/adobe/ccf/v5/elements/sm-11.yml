@@ -1,0 +1,9 @@
+id: 165dacec-3c9b-490a-996b-90df48a3b001
+name: Enterprise Antivirus Logging
+description: >-
+  If applicable, Organization's managed enterprise antivirus deployments
+  generate audit logs which are retained for 1 year with 90 days of data
+  immediately available for analysis.
+elementType: control
+externalId: SM-11
+parent: sm

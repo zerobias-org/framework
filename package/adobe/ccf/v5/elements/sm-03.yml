@@ -1,0 +1,33 @@
+id: 3427b6c4-2796-4538-a5a7-d2781caf60ca
+name: 'Audit Logging: Cardholder Data Environment Activity'
+description: >-
+  Organization logs the following activity for cardholder data environments:
+
+  • individual user access to cardholder data
+
+  • administrative actions
+
+  • access to logging servers
+
+  • failed logins
+
+  • modifications to authentication mechanisms and user privileges
+
+  • initialization, stopping, or pausing of the audit logs
+
+  • creation and deletion of system-level objects
+
+  • security events
+
+  • logs of all system components that store, process, transmit, or could impact
+  the security of cardholder data (CHD) and/or sensitive authentication data
+  (SAD)
+
+  • logs of all critical system components
+
+  • logs of all servers and system components that perform security functions
+  (e.g., firewalls, intrusion-detection systems/intrusion-prevention systems
+  (IDS/IPS), authentication servers, e-commerce redirection servers, etc.)
+elementType: control
+externalId: SM-03
+parent: sm

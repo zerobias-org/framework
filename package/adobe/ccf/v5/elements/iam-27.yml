@@ -1,0 +1,8 @@
+id: 2c056e5d-9c7b-4717-8cb8-892e1dd187f9
+name: Service Account Restrictions
+description: >-
+  Individual user or administrator use of service accounts for O/S,
+  applications, and databases is prohibited.
+elementType: control
+externalId: IAM-27
+parent: iam

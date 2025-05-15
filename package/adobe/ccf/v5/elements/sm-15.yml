@@ -1,0 +1,12 @@
+id: 0b59924b-4d71-4fa2-9364-7ab624e42f75
+name: Unauthorized Devices Addition
+description: >-
+  Unauthorized devices connected to the Organization Network are:
+
+  • detected within a maximum of five minutes, and
+
+  • the unauthorized device is disabled, or a notification is sent to authorized
+  Organization personnel
+elementType: control
+externalId: SM-15
+parent: sm

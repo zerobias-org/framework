@@ -1,0 +1,9 @@
+id: 64676b8e-9fc3-414b-b51e-591abf4f21a5
+name: Process Isolation
+description: >-
+  Organization implements only one primary function per server within the
+  production environment; the information system maintains a separate execution
+  domain for each executing process.
+elementType: control
+externalId: CFM-12
+parent: cfm

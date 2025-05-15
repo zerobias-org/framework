@@ -1,0 +1,14 @@
+id: 931caaaf-98cf-4d20-aa64-2420ff414850
+name: End-user Access to Applications and Data
+description: >-
+  Organization applications secure user data and maintain confidentiality by
+  default or according to permissions set by the individual; Organization
+  authenticates individuals with unique identifiers and passwords prior to
+  enabling access to: 
+
+  • use the application 
+
+  • view or modify their own data
+elementType: control
+externalId: IAM-38
+parent: iam

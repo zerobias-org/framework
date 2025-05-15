@@ -1,0 +1,9 @@
+id: eff1a00c-b4b4-4ff3-9f96-b98d6c5c680c
+name: 'Remote Maintenance: Unique Authentication Credentials for each Customer'
+description: >-
+  Where applicable, Service providers with remote access to customer premises
+  (e.g., for support of POS systems or servers) must use a unique authentication
+  credential (such as a password/phrase) for each customer.
+elementType: control
+externalId: IAM-34
+parent: iam

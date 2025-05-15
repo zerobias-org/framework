@@ -1,0 +1,8 @@
+id: ce5c7e78-f4a5-43e1-9916-a1872e069779
+name: 'Installation of Software: Certificate Verification'
+description: >-
+  Digital Certificates are verified by information system components prior to
+  installation on the production network.
+elementType: control
+externalId: CRY-13
+parent: cry

@@ -1,0 +1,9 @@
+id: 24fc824a-4ac2-4d48-a96a-782e58cc1e5e
+name: Non-disclosure of Error Detail
+description: >-
+  Information systems are designed to ensure error messages generated provide
+  adequate information for taking corrective action without revealing sensitive
+  information.
+elementType: control
+externalId: VM-16
+parent: vm

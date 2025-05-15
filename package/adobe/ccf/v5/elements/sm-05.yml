@@ -1,0 +1,14 @@
+id: 6ede32db-e5ae-4749-aa8a-0c0e818cc6e2
+name: 'Audit Logging: Service Provider Logging Requirements'
+description: >-
+  Organization establishes unique logging and audit trails for each entity's
+  cardholder data environment and complies with the following:
+
+  • logs are enabled for third-party applications
+
+  • logs are active by default
+
+  • logs are available for review by and communicated to the owning entity
+elementType: control
+externalId: SM-05
+parent: sm

@@ -1,0 +1,9 @@
+id: 1ef801f4-d083-4e36-a300-a38b759947dc
+name: 'Vulnerability Scans: Audit Log Review'
+description: >-
+  When vulnerabilities are identified, Organization analyzes audit logs to see
+  if it has been previously exploited. Identified exploitations are resolved
+  through incident management.
+elementType: control
+externalId: VM-03
+parent: vm

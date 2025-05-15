@@ -1,0 +1,9 @@
+id: f76dfaf6-bfbe-4536-9afc-c9c142b9904e
+name: 'Vulnerability Scans: Cardholder Data Environment'
+description: >-
+  Vulnerability scans are conducted against cardholder environments at least
+  quarterly or after significant change; critical vulnerability resolution is
+  confirmed via a rescan.
+elementType: control
+externalId: VM-02
+parent: vm

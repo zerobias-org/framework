@@ -1,0 +1,9 @@
+id: ce18a95d-2c6f-48d1-995f-145f6a2b9cc3
+name: 'Role Change: People Resources Notification'
+description: >-
+  The People Resources system sends a notification to relevant management and
+  relevant information system administrators in the event of an employee
+  reassignment or transfer of an information system user.
+elementType: control
+externalId: IAM-10
+parent: iam

@@ -1,0 +1,9 @@
+id: 8714ccd8-dacd-440e-b767-c10d65fa9178
+name: System Security Monitoring
+description: >-
+  Critical systems are monitored in accordance with predefined security criteria
+  and alerts are sent to authorized personnel. Confirmed incidents are tracked
+  to resolution.
+elementType: control
+externalId: SM-25
+parent: sm

@@ -1,0 +1,8 @@
+id: f9f37efe-2b96-4fad-b7f4-59ae31ca95c9
+name: 'Logical Access De-provisioning: Notification'
+description: >-
+  The People Resources system sends a notification to relevant personnel in the
+  event of a termination of an information system user.
+elementType: control
+externalId: IAM-04
+parent: iam

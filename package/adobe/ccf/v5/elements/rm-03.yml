@@ -1,0 +1,24 @@
+id: 037c9d34-f286-4e8c-991b-57828a3d6417
+name: 'Risk Assessment: HIPAA Criteria'
+description: >-
+  Organization's periodic risk assessment for systems that process, transmit or
+  store Protected Health Information (PHI) includes the following:
+
+  • identify and classify assets
+
+  • identify threats
+
+  • identify vulnerabilities
+
+  • identify controls
+
+  • perform threat likelihood analysis
+
+  • perform threat impact analysis
+
+  • identify residual risk
+
+  • identify appropriate safeguards
+elementType: control
+externalId: RM-03
+parent: rm

@@ -1,0 +1,9 @@
+id: b40d5578-12b6-4315-99f6-f7c4380eb4a9
+name: Full Disk Encryption Access
+description: >-
+  Where full disk encryption is used, logical access must be managed
+  independently of operating system authentication; decryption keys must not be
+  associated with user accounts.
+elementType: control
+externalId: CRY-10
+parent: cry

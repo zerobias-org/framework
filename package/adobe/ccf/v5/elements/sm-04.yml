@@ -1,0 +1,20 @@
+id: 3cc8ab52-51cd-4194-961f-1969c93f302e
+name: 'Audit Logging: Cardholder Data Environment Event Information'
+description: >-
+  Organization records the following information for confirmed events in the
+  cardholder data environment:
+
+  • user identification
+
+  • type of event
+
+  • date and time
+
+  • event success or failure indication
+
+  • origination of the event
+
+  • identification of affected data, system component, or resource
+elementType: control
+externalId: SM-04
+parent: sm

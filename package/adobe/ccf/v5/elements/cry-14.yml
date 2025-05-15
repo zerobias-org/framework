@@ -1,0 +1,9 @@
+id: 516c67d6-96ba-4b01-b4ad-eb3bae317674
+name: Public Key Infrastructure-based Authentication
+description: >-
+  Information systems are configured to follow an established certification path
+  to an accepted trust anchor; in the case of network failure, a local cache of
+  revocation data is maintained to support validation.
+elementType: control
+externalId: CRY-14
+parent: cry

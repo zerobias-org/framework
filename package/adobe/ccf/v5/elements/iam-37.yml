@@ -1,0 +1,9 @@
+id: ab9938b6-5a6e-486e-8262-a9f3631756f5
+name: End-user Environment Segmentation
+description: >-
+  Where applicable, processes that run as part of an Organization shared hosting
+  platform will run under unique credentials that permit access to only one
+  customer environment.
+elementType: control
+externalId: IAM-37
+parent: iam

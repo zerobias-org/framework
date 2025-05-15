@@ -1,0 +1,19 @@
+id: f92d2bf4-3e6a-4ccc-8dab-993c4c571e5b
+name: External Communication of Incidents
+description: >-
+  Organization defines external communication requirements for incidents,
+  including:
+
+  • information about external party dependencies
+
+  • criteria for notification to external parties as required by Organization
+  policy in the event of a security breach
+
+  • contact information for authorities (e.g., law enforcement, regulatory
+  bodies, etc.)
+
+  • provisions for updating and communicating external communication requirement
+  changes
+elementType: control
+externalId: IR-04
+parent: ir

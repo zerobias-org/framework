@@ -1,0 +1,22 @@
+id: 5ba9fbbb-8375-4392-bd6b-0b45c167454a
+name: 'External Communication of Incidents: Protected Health Information'
+description: >-
+  Organization communicates the discovery and status of the breach of Protected
+  Health Information (PHI) to the covered entity within 60 days or as required
+  by the Business Associates Agreement (BAA) and provides the following
+  information if available:
+
+  • description of the Event
+
+  • description of the Information that was compromised
+
+  • identification of the Individuals whose PHI were compromised
+
+  • steps Required to Protect Individuals
+
+  • investigation Plan
+
+  • contact Information
+elementType: control
+externalId: IR-07
+parent: ir

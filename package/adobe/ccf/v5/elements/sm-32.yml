@@ -1,0 +1,8 @@
+id: 04d5a35b-82e0-469a-abe3-79aa7367fb2b
+name: 'Remote Access: Activity Log Audit'
+description: >-
+  Logs from remote sessions are audited for prohibited activity on a weekly
+  basis.
+elementType: control
+externalId: SM-32
+parent: sm

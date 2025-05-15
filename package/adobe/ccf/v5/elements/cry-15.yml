@@ -1,0 +1,9 @@
+id: bfece43e-da04-46f9-9a9f-3b6c39a40628
+name: Software Signing
+description: >-
+  Organization uses a software signing infrastructure to restrict access to
+  organization’s code signing private keys used to sign organization authorized
+  software builds.
+elementType: control
+externalId: CRY-15
+parent: cry

@@ -1,0 +1,9 @@
+id: e180a422-b250-4a3f-a041-97e542254d34
+name: Network Policy Enforcement Points
+description: >-
+  Network traffic to and from untrusted networks passes through a policy
+  enforcement point; firewall rules are established in accordance with
+  identified security requirements and business justifications.
+elementType: control
+externalId: NO-01
+parent: 'no'

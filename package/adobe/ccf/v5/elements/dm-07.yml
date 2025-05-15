@@ -1,0 +1,6 @@
+id: d313a157-0112-4db9-8739-112099acb049
+name: Test Data Sanitization
+description: Restricted data is redacted prior to use in a non-production environment.
+elementType: control
+externalId: DM-07
+parent: dm

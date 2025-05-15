@@ -1,0 +1,10 @@
+id: 172b722c-dae6-427d-a96e-c1206841d2f9
+name: Traffic Flow
+description: >-
+  Organization documents the approved traffic flow at each managed interface and
+  configures the managed interface accordingly. Exceptions to traffic flow are
+  documented, reviewed periodically, and removed when there is no longer a
+  business requirement.
+elementType: control
+externalId: NO-15
+parent: 'no'

@@ -1,0 +1,8 @@
+id: 95310306-74d2-4013-a2e8-db5d16221a11
+name: Data Execution Prevention
+description: >-
+  Organization ensures data execution prevention (DEP) security features are
+  enabled on production hosts to restrict code execution within memory.
+elementType: control
+externalId: CFM-04
+parent: cfm

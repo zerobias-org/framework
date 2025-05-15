@@ -1,0 +1,9 @@
+id: b0159141-95fa-4c09-908b-6cc067038636
+name: 'Security Monitoring Alert Criteria: Cardholder System Components'
+description: >-
+  Organization defines security monitoring alert criteria for system components
+  that store, process, transmit, or could impact the security of cardholder data
+  and/or sensitive authentication data.
+elementType: control
+externalId: SM-24
+parent: sm

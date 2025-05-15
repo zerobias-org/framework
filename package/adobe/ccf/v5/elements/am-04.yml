@@ -1,0 +1,9 @@
+id: b8821717-5c1b-4f20-bf61-09049c0dc796
+name: 'Inventory Reconciliation: Logging'
+description: >-
+  Organization reconciles the enterprise log repository against the established
+  device inventory on a quarterly basis; non-inventoried devices are assigned an
+  owner.
+elementType: control
+externalId: AM-04
+parent: am

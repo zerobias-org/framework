@@ -1,0 +1,9 @@
+id: bf69d717-9801-499a-a568-46ec9b6bbe03
+name: Shared Account Restrictions
+description: >-
+  Where applicable, the use of generic and shared accounts to administer systems
+  or perform critical functions is prohibited; generic user IDs are disabled or
+  removed.
+elementType: control
+externalId: IAM-09
+parent: iam

@@ -1,0 +1,8 @@
+id: c43050f8-836c-499a-bc85-103e48fbc7a0
+name: 'Inbound and Outbound Network Traffic: DMZ Requirements'
+description: >-
+  Network traffic to and from untrusted networks passes through a Demilitarized
+  Zone (DMZ).
+elementType: control
+externalId: NO-02
+parent: 'no'

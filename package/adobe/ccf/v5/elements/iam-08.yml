@@ -1,0 +1,8 @@
+id: 9df8a7a5-a780-4e45-90f6-58af0f51bfda
+name: 'Shared Logical Accounts: Group Member '
+description: >-
+  Passwords for shared and group accounts are reset when a member of the shared
+  group leaves.
+elementType: control
+externalId: IAM-08
+parent: iam

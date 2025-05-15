@@ -1,0 +1,9 @@
+id: 0c8dfb89-885f-456b-9105-1a883d943961
+name: Default Device Passwords
+description: >-
+  Vendor-supplied default passwords are changed according to Organization
+  standards prior to device installation on the Organization network or
+  immediately after software or operating system installation.
+elementType: control
+externalId: CFM-11
+parent: cfm

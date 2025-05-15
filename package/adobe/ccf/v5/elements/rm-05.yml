@@ -1,0 +1,19 @@
+id: 0418a6a3-0bd1-481d-8b3c-7ae09fba90e8
+name: 'Self-Assessments: PCI'
+description: >-
+  On a quarterly basis, reviews shall be performed with approved documented
+  specification to confirm personnel are following security policies and
+  operational procedures pertaining to:
+
+  • daily log reviews
+
+  • firewall rule-set reviews
+
+  • applying configuration standards to new systems
+
+  • responding to security alerts
+
+  • change management processes
+elementType: control
+externalId: RM-05
+parent: rm

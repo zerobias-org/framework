@@ -1,0 +1,9 @@
+id: 9bf3f44a-c1fc-435d-befd-eb89ddd9ca9e
+name: Account Lockout
+description: >-
+  Users are locked out of information systems after multiple, consecutive
+  invalid attempts within a defined period; accounts remain locked for a defined
+  period.
+elementType: control
+externalId: IAM-19
+parent: iam
