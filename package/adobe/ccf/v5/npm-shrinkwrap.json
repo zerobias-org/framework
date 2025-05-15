@@ -18,24 +18,22 @@
     },
     "node_modules/@auditlogic/suite-adobe-ccf": {
       "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@auditlogic/suite-adobe-ccf/1.0.0/bff0fee67e0701bd9a113b96b32da2144631ae47",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-adobe-ccf/-/bff0fee67e0701bd9a113b96b32da2144631ae47",
       "integrity": "sha512-yOoAoJhR3rw5cKnlvdCjYcNcvCLNJ8szAPoIb3ZmBqi7ONKI6RkrPAJyQOW7Oi7a3mGtL13EJciTzPET4RRMpg==",
-      "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-adobe": "^1.0.0"
       }
     },
     "node_modules/@auditlogic/vendor-adobe": {
       "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@auditlogic/vendor-adobe/1.0.0/ede0f567f51a308bc251ba61e50eefe810f72efd",
-      "integrity": "sha512-T8SrScli92Edd9WqyRU1MV6Xnf6caqH6GONBnt88XJ/hK1YIdCmXtUotyezvsXrnaETUxPr9zAE5YdJnKEpQiw==",
-      "license": "ISC"
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-adobe/-/ede0f567f51a308bc251ba61e50eefe810f72efd",
+      "integrity": "sha512-T8SrScli92Edd9WqyRU1MV6Xnf6caqH6GONBnt88XJ/hK1YIdCmXtUotyezvsXrnaETUxPr9zAE5YdJnKEpQiw=="
     }
   },
   "dependencies": {
     "@auditlogic/suite-adobe-ccf": {
       "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@auditlogic/suite-adobe-ccf/1.0.0/bff0fee67e0701bd9a113b96b32da2144631ae47",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-adobe-ccf/-/bff0fee67e0701bd9a113b96b32da2144631ae47",
       "integrity": "sha512-yOoAoJhR3rw5cKnlvdCjYcNcvCLNJ8szAPoIb3ZmBqi7ONKI6RkrPAJyQOW7Oi7a3mGtL13EJciTzPET4RRMpg==",
       "requires": {
         "@auditlogic/vendor-adobe": "^1.0.0"
@@ -43,7 +41,7 @@
     },
     "@auditlogic/vendor-adobe": {
       "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@auditlogic/vendor-adobe/1.0.0/ede0f567f51a308bc251ba61e50eefe810f72efd",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-adobe/-/ede0f567f51a308bc251ba61e50eefe810f72efd",
       "integrity": "sha512-T8SrScli92Edd9WqyRU1MV6Xnf6caqH6GONBnt88XJ/hK1YIdCmXtUotyezvsXrnaETUxPr9zAE5YdJnKEpQiw=="
     }
   }
