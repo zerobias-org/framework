@@ -1,0 +1,21 @@
+id: 7854d52d-a201-4938-b947-7dfe71b37017
+name: Configuration Hardening
+description: >
+  The activities in this stream focus on the organization's management of
+  security-related configurations in all elements of the technology stack. The
+  emphasis is on those elements (e.g., operating systems, containers,
+  frameworks, services, appliances, and libraries) obtained from third parties,
+  because their architecture and design are not under the organization's
+  control.
+elementType: stream
+externalId: O-EM-A
+parent: o-em
+aliases:
+  - O-EM-A
+  - o-em-a
+  - OEMA
+  - oema
+  - EM-A
+  - em-a
+  - EMA
+  - ema

@@ -1,0 +1,50 @@
+{
+  "name": "@zerobias-org/framework-owasp-samm-v1",
+  "version": "1.1.2",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-owasp-samm-v1",
+      "version": "1.1.2",
+      "license": "ISC",
+      "dependencies": {
+        "@auditlogic/suite-owasp-samm": "^1.0.0"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@auditlogic/suite-owasp-samm": {
+      "version": "1.0.0",
+      "resolved": "https://npm.pkg.github.com/download/@auditlogic/suite-owasp-samm/1.0.0/616439f1f96bc898d689e221eca43948bdfbaeb6",
+      "integrity": "sha512-+bo45ykmEU0iXsPBZICTYXqtzlB5qqy7tPBLwAQCAlleytPaZtVm04h5YKsqAiaIwMliBRmagHZwT9n95KJBDA==",
+      "license": "ISC",
+      "dependencies": {
+        "@auditlogic/vendor-owasp": "^1.0.1"
+      }
+    },
+    "node_modules/@auditlogic/vendor-owasp": {
+      "version": "1.0.1",
+      "resolved": "https://npm.pkg.github.com/download/@auditlogic/vendor-owasp/1.0.1/9ad3b0a1874717385c417ec12767b76ed55ae69c",
+      "integrity": "sha512-MOeo5WNAmSdAomUONbvYjRf0gn0oaRQDlX6MOP3UQrr/7XB1+LcxQ1xG35HffrS6eS2/o0I1zEMPrTUSOhxSQw==",
+      "license": "ISC"
+    }
+  },
+  "dependencies": {
+    "@auditlogic/suite-owasp-samm": {
+      "version": "1.0.0",
+      "resolved": "https://npm.pkg.github.com/download/@auditlogic/suite-owasp-samm/1.0.0/616439f1f96bc898d689e221eca43948bdfbaeb6",
+      "integrity": "sha512-+bo45ykmEU0iXsPBZICTYXqtzlB5qqy7tPBLwAQCAlleytPaZtVm04h5YKsqAiaIwMliBRmagHZwT9n95KJBDA==",
+      "requires": {
+        "@auditlogic/vendor-owasp": "^1.0.1"
+      }
+    },
+    "@auditlogic/vendor-owasp": {
+      "version": "1.0.1",
+      "resolved": "https://npm.pkg.github.com/download/@auditlogic/vendor-owasp/1.0.1/9ad3b0a1874717385c417ec12767b76ed55ae69c",
+      "integrity": "sha512-MOeo5WNAmSdAomUONbvYjRf0gn0oaRQDlX6MOP3UQrr/7XB1+LcxQ1xG35HffrS6eS2/o0I1zEMPrTUSOhxSQw=="
+    }
+  }
+}

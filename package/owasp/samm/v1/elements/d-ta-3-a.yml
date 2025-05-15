@@ -1,0 +1,45 @@
+id: c2fe9d98-2348-4d81-99fd-fe59c40b9ee5
+name: Periodic review of risk profiles
+description: >-
+  Periodically review application risk profiles at regular intervals to ensure
+  accuracy and reflect current state.
+longDescription: >
+  The application portfolio of an organization changes, as well as the
+  conditions and constraints in which an application lives (e.g., driven by the
+  company strategy). Periodically review the risk inventory to ensure
+  correctness of the risk evaluations of the different applications.
+
+  Have a periodic review at an enterprise-wide level. Also, as your enterprise
+  matures in software assurance, stimulate teams to continuously question which
+  changes in conditions might impact the risk profile. For instance, an internal
+  application might become exposed to the internet by a business decision. This
+  should trigger the teams to rerun the risk evaluation and update the
+  application risk profile accordingly.
+
+  In a mature implementation of this practice, train and continuously update
+  teams on lessons learned and best practices from these risk evaluations. This
+  leads to a better execution and a more accurate representation of the
+  application risk profile.
+benefits: Timely update of the application classification in case of changes
+elementType: activity
+externalId: D-TA-3-A
+question: Do you regularly review and update the risk profiles for your applications?
+qualityCriteria:
+  - >-
+    The organizational risk standard considers historical feedback to improve
+    the evaluation method
+  - >-
+    Significant changes in the application or business context trigger a review
+    of the relevant risk profiles
+parent: d-ta-a
+aliases:
+  - D-TA-3-A
+  - d-ta-3-a
+  - DTA3A
+  - dta3a
+  - TA-3-A
+  - ta-3-a
+  - TA3A
+  - ta3a
+  - TA3-A
+  - ta3-a

@@ -1,0 +1,34 @@
+id: f9385e39-d40d-4bf0-819a-363374e349b7
+name: Education and Guidance
+description: >-
+  This practice focuses on increasing the knowledge in the organization
+  regarding secure software.
+longDescription: >
+  The Education and Guidance (EG) practice focuses on arming personnel involved
+  in the software lifecycle with knowledge and resources to design, develop, and
+  deploy secure software. With improved access to information, project teams can
+  proactively identify and mitigate the specific security risks that apply to
+  their organization.
+
+  One major theme for improvement across the Objectives is providing training
+  for employees and increasing their security awareness, either through
+  instructor-led sessions or computer-based modules. As an organization
+  progresses, it builds a broad base of training starting with developers and
+  moving to other roles, culminating with the addition of role-based training to
+  ensure applicability and effectiveness.
+
+  In addition to training, this practice also requires the organization to make
+  a significant investment in improving organizational culture to promote
+  application security through collaboration between teams. Collaboration tools
+  and increased transparency between technologies and tools support this
+  approach to improve the security of the applications.
+elementType: securityPractice
+externalId: G-EG
+parent: g
+aliases:
+  - G-EG
+  - g-eg
+  - GEG
+  - geg
+  - EG
+  - eg

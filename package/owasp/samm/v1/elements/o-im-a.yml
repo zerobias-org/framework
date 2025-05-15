@@ -1,0 +1,19 @@
+id: 594c6fb6-0c75-4580-b0a2-658f93f2ee3a
+name: Incident Detection
+description: >
+  Incident Detection refers to the process of determining an identified
+  security-relevant event is, in fact, a security incident. The activities in
+  this stream focus on the organization's ability to identify security incidents
+  when they occur, and to initiate appropriate incident response activities.
+elementType: stream
+externalId: O-IM-A
+parent: o-im
+aliases:
+  - O-IM-A
+  - o-im-a
+  - OIMA
+  - oima
+  - IM-A
+  - im-a
+  - IMA
+  - ima

@@ -1,0 +1,36 @@
+id: a2c1d22a-91a2-4d0e-8f41-ef220bb5aa21
+name: OWASP SAMM v1
+description: OWASP Software Assurance Madurity Model (SAMM) v1 framework
+standardType: framework
+standardCategory: clinical
+code: owasp_samm_v1_0
+externalId: OWASP SAMM v1
+url: https://owaspsamm.org
+version: v1
+status: approved
+external: true
+internal: true
+elementTypes:
+  - id: 2ec2d186-648d-48e1-a3c3-526287a0c481
+    code: function
+    name: Bussines Function
+    description:  A business function is a category of activities that any organization involved with software development must fulfill to some degree. 
+  - id: 7b6e5039-4a1d-4ce3-8af5-c6b89b90f0fb
+    code: securityPractice
+    name: Security Practice
+    description: Security practices have activities, grouped in logical flows and divided into two streams.
+  - id: a0a632a0-c26d-42b3-a58e-0a1ca9cc615c
+    code: stream
+    name: Stream
+    description: Streams cover different aspects of a practice and have their own objectives, aligning and linking the activities in the practice over the different maturity levels.
+  - id: fc9ffa7b-fa81-47d4-a41c-db09fcb38d8b
+    code: activity
+    name: Activity
+    description: An activity is a specific task that is performed to achieve a goal.
+mappingTypes:
+  - activity
+tags: []
+aliases:
+  - OWASP SAMM
+  - OWASP Software Assurance Maturity Model
+  

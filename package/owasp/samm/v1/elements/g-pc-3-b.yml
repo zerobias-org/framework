@@ -1,0 +1,56 @@
+id: ce50a106-6970-4c63-a036-4b58d8c42657
+name: Measure compliance to external requirements
+description: >-
+  Measure and report on individual application's compliance with 3rd party
+  requirements.
+longDescription: >
+  Develop a program for measuring and reporting on the status of compliance
+  between different applications. Application requirements and test scripts help
+  determine the status of compliance. Leverage testing automation to promptly
+  detect compliance regressions in frequently updated applications and ensure
+  compliance is maintained through the different application versions. Whenever
+  fully automated testing is not possible, QA, Internal Audit, or Information
+  Security teams assess compliance periodically through a combination of manual
+  testing and interview.
+
+  While full compliance is always the ultimate goal, include tracking
+  remediation actions and periodic updates in the program. Review compliance
+  remediation activities periodically to check teams are making appropriate
+  progress, and that remediation strategies will be effective in achieving
+  compliance. To further improve the process, develop a series of standard
+  reports and compliance scorecards. These help individual teams understand the
+  current state of compliance, and the organization manage assistance for
+  remediating compliance gaps more effectively.
+
+  Review compliance gaps requiring significant expenses or development with the
+  subject-matter experts and compare them against the cost of reducing the
+  application's functionality, minimizing scope or eliminating the compliance
+  requirement. longterm compliance gaps require management approval and a formal
+  compliance risk acceptance, so they receive appropriate attention and scrutiny
+  from the organization's leadership.
+benefits: >-
+  Understanding of your organization's compliance with external compliance
+  drivers
+elementType: activity
+externalId: G-PC-3-B
+question: >-
+  Do you regularly report on adherence to external compliance obligations and
+  use that information to guide efforts to close compliance gaps?
+qualityCriteria:
+  - You have established, well-defined compliance metrics
+  - You measure and report on applications' compliance metrics regularly
+  - >-
+    Stakeholders use the reported compliance status information to identify
+    compliance gaps and prioritize gap remediation efforts
+parent: g-pc-b
+aliases:
+  - G-PC-3-B
+  - g-pc-3-b
+  - GPC3B
+  - gpc3b
+  - PC-3-B
+  - pc-3-b
+  - PC3B
+  - pc3b
+  - PC3-B
+  - pc3-b

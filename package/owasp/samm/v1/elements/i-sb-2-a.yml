@@ -1,0 +1,48 @@
+id: 6b660541-e7bd-4b8e-b2c6-bcf18494b80f
+name: Automate the build process
+description: >-
+  Automate your build pipeline and secure the used tooling. Add security checks
+  in the build pipeline.
+longDescription: >
+  Automate the build process so that builds can be executed consistently
+  anytime. The build process shouldn't typically require any intervention,
+  further reducing the likelihood of human error.
+
+  The use of an automated system increases reliance on security of the build
+  tooling and makes hardening and maintaining the toolset even more critical.
+  Pay particular attention to the interfaces of those tools, such as web-based
+  portals and how they can be locked-down. The exposure of a build tool to the
+  network could allow a malicious actor to tamper with the integrity of the
+  process. This might, for example, allow malicious code to be built into
+  software.
+
+  The automated process may require access to credentials and secrets required
+  to build the software, such as the code signing certificate or access to
+  repositories. Handle these with care. Sign generated artifacts using a
+  certificate that identifies the organization or business unit that built it,
+  so you can verify its integrity.
+
+  Finally, add appropriate automated security checks (e.g. using SAST tools) in
+  the pipeline to leverage the automation for security benefit.
+benefits: Efficient build process with integrated security tools
+elementType: activity
+externalId: I-SB-2-A
+question: Is the build process fully automated?
+qualityCriteria:
+  - The build process itself doesn't require any human interaction
+  - Your build tools are hardened as per best practice and vendor guidance
+  - >-
+    You encrypt the secrets required by the build tools and control access based
+    on the principle of least privilege
+parent: i-sb-a
+aliases:
+  - I-SB-2-A
+  - i-sb-2-a
+  - ISB2A
+  - isb2a
+  - SB-2-A
+  - sb-2-a
+  - SB2A
+  - sb2a
+  - SB2-A
+  - sb2-a

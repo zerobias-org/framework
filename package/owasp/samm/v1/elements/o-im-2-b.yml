@@ -1,0 +1,49 @@
+id: 25f884c7-9231-4e07-861d-1adb8f8cf706
+name: Define an incident response process
+description: >-
+  Establish a formal incident response process and ensure staff are properly
+  trained in performing their roles.
+longDescription: >
+  Establish and document the formal security incident response process. Ensure
+  documentation includes information like&#58;
+
+
+  * most probable/common scenarios of security incidents and high-level
+  instructions for handling them; for such scenarios, also use public knowledge
+  about possibly relevant third-party incidents
+
+  * rules for triaging each incident
+
+  * rules for involvement of different stakeholders including senior management,
+  Public Relations, Legal, privacy, Human Resources, external (law enforcement)
+  authorities, and customers; specify mandatory timeframe to do so, if needed
+
+  * the process for performing root-cause analysis and documentation of its
+  results
+
+
+  Ensure a knowledgeable and properly trained incident response team is
+  available both during and outside of business hours. Define timelines for
+  action and a war room. Keep hardware and software tools up to date and ready
+  for use anytime.
+benefits: Understanding and efficient handling of most security incidents
+elementType: activity
+externalId: O-IM-2-B
+question: Do you use a repeatable process for incident handling?
+qualityCriteria:
+  - You have an agreed upon incident classification
+  - The process considers Root Cause Analysis for high severity incidents
+  - Employees responsible for incident response are trained in this process
+  - Forensic analysis tooling is available
+parent: o-im-b
+aliases:
+  - O-IM-2-B
+  - o-im-2-b
+  - OIM2B
+  - oim2b
+  - IM-2-B
+  - im-2-b
+  - IM2B
+  - im2b
+  - IM2-B
+  - im2-b

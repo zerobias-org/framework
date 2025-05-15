@@ -1,0 +1,42 @@
+id: 9776b33e-8711-4862-89d2-1f29b9213b58
+name: Identify unused applications
+description: >-
+  Decommission unused applications and services as identified. Manage customer
+  upgrades/migrations individually.
+longDescription: >
+  Identify unused applications on an _ad hoc_ basis, either by chance
+  observation, or by occasionally performing a review. When you identify unused
+  applications, process those findings for further action. If you have
+  established a formal process for decommissioning unused applications, ensure
+  teams are aware of and use it.
+
+  Manage customer/user migration from older versions of your products for each
+  product and customer/user group. When a product version is no longer in use by
+  any customer/user group, discontinue support for that version. However, at
+  this level of maturity you may have a large number of product versions in
+  active use across the customer/user base, requiring significant developer
+  effort to back-port product fixes.
+benefits: Identification of unused of software assets or components
+elementType: activity
+externalId: O-OM-1-B
+question: >-
+  Do you identify and remove systems, applications, application dependencies, or
+  services that are no longer used, have reached end of life, or are no longer
+  actively developed or supported?
+qualityCriteria:
+  - You do not use unsupported applications or dependencies
+  - >-
+    You manage customer/user migration from older versions for each product and
+    customer/user group
+parent: o-om-b
+aliases:
+  - O-OM-1-B
+  - o-om-1-b
+  - OOM1B
+  - oom1b
+  - OM-1-B
+  - om-1-b
+  - OM1B
+  - om1b
+  - OM1-B
+  - om1-b

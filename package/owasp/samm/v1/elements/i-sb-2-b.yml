@@ -1,0 +1,57 @@
+id: 3a3f6c88-ddb9-491a-8b97-a3887517ce45
+name: Review application dependencies for security
+description: >-
+  Evaluate used dependencies and ensure timely reaction to situations posing
+  risk to your applications.
+longDescription: >
+  Evaluate used dependencies and establish a list of acceptable ones approved
+  for use within a project, team, or the wider organization according to a
+  defined set of criteria.
+
+  Introduce a central repository of dependencies that all software can be built
+  from.
+
+  Review used dependencies regularly to ensure that&#58;
+
+
+  * they remain correctly licensed
+
+  * no known and significant vulnerabilities impacting your applications are
+  present
+
+  * the dependency is still actively supported and maintained
+
+  * you are using a current version
+
+  * there is a valid reason to include the dependency
+
+
+  React timely and appropriately to non-conformities by handling these as
+  defects. Consider using an automated tool to scan for vulnerable dependencies
+  and assign the identified issues to the respective development teams.
+benefits: Full transparency of known security issues in dependencies
+elementType: activity
+externalId: I-SB-2-B
+question: Do you handle 3rd party dependency risk by a formal process?
+qualityCriteria:
+  - You keep a list of approved dependencies that meet predefined criteria
+  - >-
+    You automatically evaluate dependencies for new CVEs and alert responsible
+    staff
+  - >-
+    You automatically detect and alert to license changes with possible impact
+    on legal application usage
+  - You track and alert to usage of unmaintained dependencies
+  - You reliably detect and remove unnecessary dependencies from the software
+parent: i-sb-b
+aliases:
+  - I-SB-2-B
+  - i-sb-2-b
+  - ISB2B
+  - isb2b
+  - SB-2-B
+  - sb-2-b
+  - SB2B
+  - sb2b
+  - SB2-B
+  - sb2-b

@@ -1,0 +1,57 @@
+id: 97b03998-4347-458b-a12b-93ecde09a924
+name: Integrate security testing tools in the delivery pipeline
+description: Integrate automated security testing into the build and deploy process.
+longDescription: >
+  Projects within the organization routinely run automated security tests and
+  review results during development. Configure security testing tools to
+  automatically run as part of the build and deploy process to make this
+  scalable with low overhead. Inspect findings as they occur.
+
+  Conducting security tests as early as the requirements or design phases can be
+  beneficial. While traditionally used for functional test cases, this type of
+  test-driven development approach involves identifying and running relevant
+  security test cases early in the development cycle. With the automatic
+  execution of security test cases, projects enter the implementation phase with
+  a number of failing tests for the non-existent functionality. Implementation
+  is complete when all the tests pass. This provides a clear, upfront goal for
+  developers early in the development cycle, lowering risk of release delays due
+  to security concerns or forced acceptance of risk to meet project deadlines.
+
+  Make the results of automated and manual security tests visible via
+  dashboards, and routinely present them to management and business stakeholders
+  (e.g. before each release) for review. If there are unaddressed findings that
+  remain as accepted risks for the release, stakeholders and development
+  managers work together to establish a concrete timeframe for addressing them.
+  Continuously review and improve the quality of the security tests.
+
+  Consider and implement security test correlation tools to automate the
+  matching and merging of test results from dynamic, static, and interactive
+  application scanners into one central dashboard, providing direct input
+  towards Defect Management. Spread the knowledge of the created security tests
+  and the results across the development team to improve security knowledge and
+  awareness inside the organization.
+benefits: >-
+  Identification of automatically identifiable vulnerabilities in earliest
+  possible stages
+elementType: activity
+externalId: V-ST-3-A
+question: Do you integrate automated security testing into the build and deploy process?
+qualityCriteria:
+  - >-
+    Management and business stakeholders track and review test results
+    throughout the development cycle
+  - >-
+    You merge test results into a central dashboard and feed them into defect
+    management
+parent: v-st-a
+aliases:
+  - V-ST-3-A
+  - v-st-3-a
+  - VST3A
+  - vst3a
+  - ST-3-A
+  - st-3-a
+  - ST3A
+  - st3a
+  - ST3-A
+  - st3-a

@@ -1,0 +1,41 @@
+id: 4043f008-ea74-447b-bda3-5226694bef32
+name: Enforce timely patch management
+description: >-
+  Actively monitor update status and manage missing patches as security defects.
+  Proactively obtain vulnerability and update information for components.
+longDescription: >
+  Develop and use management dashboards/reports to track compliance with
+  patching processes and SLAs, across the portfolio. Ensure dependency
+  management and application packaging processes can support applying
+  component-level patches at any time, to meet required SLAs.
+
+  Treat missed updates as security-related product defects, and manage their
+  triage and correction in accordance with your established Defect Management
+  practice.
+
+  Don't rely on routine notifications from component vendors to learn about
+  vulnerabilities and associated patches. Monitor a variety of external threat
+  intelligence sources, to learn about zero day vulnerabilities; handle those
+  affecting your applications as risk management issues.
+benefits: Clear view on component patch state to avoid non-conformities
+elementType: activity
+externalId: O-EM-3-B
+question: Do you regularly evaluate components and review patch level status?
+qualityCriteria:
+  - You update the list with components and versions
+  - You identify and update missing updates according to existing SLA
+  - >-
+    You review and update the process based on feedback from the people who
+    perform patching
+parent: o-em-b
+aliases:
+  - O-EM-3-B
+  - o-em-3-b
+  - OEM3B
+  - oem3b
+  - EM-3-B
+  - em-3-b
+  - EM3B
+  - em3b
+  - EM3-B
+  - em3-b

@@ -1,0 +1,44 @@
+id: 891d16cf-c962-47cb-a3f9-5d456be43302
+name: Protect application secrets in configuration and code
+description: >-
+  Introduce basic protection measures to limit access to your production
+  secrets.
+longDescription: >
+  Developers should not have access to secrets or credentials for production
+  environments. Have a mechanism in place to adequately protect production
+  secrets, for instance by (i) having specific persons adding them to relevant
+  configuration files upon deployment (the separation of duty principle) or (ii)
+  by encrypting the production secrets contained in the configuration files
+  upfront.
+
+  Do not use production secrets in configuration files for development or
+  testing environments, as such environments may have a significantly lower
+  security posture. Similarly, do not keep secrets unprotected in configuration
+  files stored in code repositories.
+
+  Store sensitive credentials and secrets for production systems with
+  encryption-at-rest at all times. Consider using a purpose-built tool for this.
+  Handle key management carefully so only personnel with responsibility for
+  production deployments are able to access this data.
+benefits: Defined and limited access to your production secrets
+elementType: activity
+externalId: I-SD-1-B
+question: >-
+  Do you limit access to application secrets according to the least privilege
+  principle?
+qualityCriteria:
+  - You store production secrets protected in a secured location
+  - Developers do not have access to production secrets
+  - Production secrets are not available in non-production environments
+parent: i-sd-b
+aliases:
+  - I-SD-1-B
+  - i-sd-1-b
+  - ISD1B
+  - isd1b
+  - SD-1-B
+  - sd-1-b
+  - SD1B
+  - sd1b
+  - SD1-B
+  - sd1-b

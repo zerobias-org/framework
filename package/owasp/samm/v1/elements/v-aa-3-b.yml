@@ -1,0 +1,43 @@
+id: 5ae90b57-6071-4724-99c0-a11620ee7fee
+name: Feed review results back to improve reference architectures
+description: >-
+  Feed the architecture review results back into the enterprise architecture,
+  organization design principles and patterns, security solutions and reference
+  architectures.
+longDescription: >
+  As an organization, you can further improve your software security posture by
+  understanding which threats remain unaddressed in the software architectures
+  and adapting your tactics to prevent this. Formalize a process to use
+  recurring architecture findings as a trigger to identify the causes of gaps in
+  the security assessment and deal with them. Feed findings back to the Design
+  phase by creating, or updating relevant reference architectures, existing
+  security solutions, or organisation design principles and patterns.
+benefits: >-
+  Continuous improvement of enterprise architecture based on architecture
+  reviews
+elementType: activity
+externalId: V-AA-3-B
+question: >-
+  Do you regularly update your reference architectures based on architecture
+  assessment findings?
+qualityCriteria:
+  - You assess your architectures in a standardized, documented manner
+  - You use recurring findings to trigger a review of reference architectures
+  - >-
+    You independently review the quality of the architecture assessments on an
+    ad-hoc basis
+  - >-
+    You use reference architecture updates to trigger reviews of relevant shared
+    solutions, in a risk-based manner
+parent: v-aa-b
+aliases:
+  - V-AA-3-B
+  - v-aa-3-b
+  - VAA3B
+  - vaa3b
+  - AA-3-B
+  - aa-3-b
+  - AA3B
+  - aa3b
+  - AA3-B
+  - aa3-b

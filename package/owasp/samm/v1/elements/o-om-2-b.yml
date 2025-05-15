@@ -1,0 +1,50 @@
+id: 9160c3a6-5cda-48e2-8a0e-a7452ae3391f
+name: Formalize decommissioning process
+description: >-
+  Develop repeatable decommissioning processes for unused systems/services, and
+  for migration from legacy dependencies. Manage legacy migration roadmaps for
+  customers.
+longDescription: >
+  As part of decommissioning a system, application, or service, follow an
+  established process for removing all relevant accounts, firewall rules, data,
+  etc. from the operational environment. By removing these unused elements from
+  configuration files, you improve the maintainability of infrastructure-as-code
+  resources.
+
+  Follow a consistent process for timely replacement or upgrade of third-party
+  applications, or application dependencies (e.g., operating system, utility
+  applications, libraries), that have reached end of life.
+
+  Engage with customers and user groups for your products at or approaching end
+  of life, to migrate them to supported versions in a timely manner.
+benefits: >-
+  Standardized decommissioning process decreasing the risk of forgetting
+  components
+elementType: activity
+externalId: O-OM-2-B
+question: >-
+  Do you follow an established process for removing all associated resources, as
+  part of decommissioning of unused systems, applications, application
+  dependencies, or services?
+qualityCriteria:
+  - >-
+    You document the status of support for all released versions of your
+    products, in an accessible location
+  - >-
+    The process includes replacement or upgrade of third-party applications, or
+    application dependencies, that have reached end of life
+  - >-
+    Operating environments do not contain orphaned accounts, firewall rules, or
+    other configuration artifacts
+parent: o-om-b
+aliases:
+  - O-OM-2-B
+  - o-om-2-b
+  - OOM2B
+  - oom2b
+  - OM-2-B
+  - om-2-b
+  - OM2B
+  - om2b
+  - OM2-B
+  - om2-b

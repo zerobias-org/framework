@@ -1,0 +1,47 @@
+id: 271ad391-9250-4cd2-a70a-38e15dfb81dd
+name: Enforce a security baseline during build
+description: >-
+  Define mandatory security checks in the build process and ensure that building
+  non-compliant artifacts fails.
+longDescription: >
+  Define security checks suitable to be carried out during the build process, as
+  well as minimum criteria for passing the build - these might differ according
+  to the risk profiles of various applications. Include the respective security
+  checks in the build and enforce breaking the build process in case the
+  predefined criteria are not met. Trigger warnings for issues below the
+  threshold and log these to a centralized system to track them and take
+  actions. If sensible, implement an exception mechanism to bypass this behavior
+  if the risk of a particular vulnerability has been accepted or mitigated.
+  However, ensure these cases are explicitly approved first and log their
+  occurrence together with a rationale.
+
+  If technical limitations prevent the organization from breaking the build
+  automatically, ensure the same effect via other measures, such as a clear
+  policy and regular audit.
+
+  Handle code signing on a separate centralized server which does not expose the
+  certificate to the system executing the build. Where possible, use a
+  deterministic method that outputs byte-for-byte reproducible artifacts.
+benefits: Assurance that you build software complying with a security baseline
+elementType: activity
+externalId: I-SB-3-A
+question: Do you enforce automated security checks in your build processes?
+qualityCriteria:
+  - Builds fail if the application doesn't meet a predefined security baseline
+  - You have a maximum accepted severity for vulnerabilities
+  - You log warnings and failures in a centralized system
+  - >-
+    You select and configure tools to evaluate each application against its
+    security requirements at least once a year
+parent: i-sb-a
+aliases:
+  - I-SB-3-A
+  - i-sb-3-a
+  - ISB3A
+  - isb3a
+  - SB-3-A
+  - sb-3-a
+  - SB3A
+  - sb3a
+  - SB3-A
+  - sb3-a

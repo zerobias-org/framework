@@ -1,0 +1,53 @@
+id: 2ce15718-d601-4bfc-8150-e4132a66a348
+name: Identify security champions
+description: Identify a "Security Champion" within each development team.
+longDescription: >
+  Implement a program where each software development team has a member
+  considered a "Security Champion" who is the liaison between Information
+  Security and developers. Depending on the size and structure of the team the
+  "Security Champion" may be a software developer, tester, or a product manager.
+  The "Security Champion" has a set number of hours per week for Information
+  Security related activities. They participate in periodic briefings to
+  increase awareness and expertise in different security disciplines. "Security
+  Champions" have additional training to help develop these roles as Software
+  Security subject-matter experts. You may need to customize the way you create
+  and support "Security Champions" for cultural reasons.
+
+  The goals of the position are to increase effectiveness and efficiency of
+  application security and compliance and to strengthen the relationship between
+  various teams and Information Security. To achieve these objectives, "Security
+  Champions" assist with researching, verifying, and prioritizing security and
+  compliance related software defects. They are involved in all Risk
+  Assessments, Threat Assessments, and Architectural Reviews to help identify
+  opportunities to remediate security defects by making the architecture of the
+  application more resilient and reducing the attack threat surface.
+
+  In addition to assisting Information Security, "Security Champions" provide
+  periodic reviews of all security-related issues for the project team so
+  everyone is aware of the problems and any current and future remediation
+  efforts. These reviews are leveraged to help brainstorm solutions to more
+  complex problems by engaging the entire development team.
+benefits: Basic embedding of security in the development organization
+elementType: activity
+externalId: G-EG-1-B
+question: Have you identified a Security Champion for each development team?
+qualityCriteria:
+  - Security Champions receive appropriate training
+  - >-
+    Application Security and Development teams receive periodic briefings from
+    Security Champions on the overall status of security initiatives and fixes
+  - >-
+    The Security Champion reviews the results of external testing before adding
+    to the application backlog
+parent: g-eg-b
+aliases:
+  - G-EG-1-B
+  - g-eg-1-b
+  - GEG1B
+  - geg1b
+  - EG-1-B
+  - eg-1-b
+  - EG1B
+  - eg1b
+  - EG1-B
+  - eg1-b

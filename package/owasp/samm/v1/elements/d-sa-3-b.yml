@@ -1,0 +1,41 @@
+id: ff999047-6e97-41bb-8f2e-b6ddcfbb0438
+name: Enforce the use of recommended technologies
+description: Impose the use of standard technologies on all software development.
+longDescription: >
+  For all proprietary development (in-house or acquired), impose and monitor the
+  use of standardized technology. Depending on your organization, either
+  implement these restrictions into build or deployment tools, by means of
+  after-the-fact automated analysis of application artefacts (e.g., source code,
+  configuration files or deployment artefacts), or periodically review focusing
+  on the correct use of these frameworks.
+
+  Verify several factors with project teams. Identify use of non-recommended
+  technologies to determine if there are gaps in recommendations versus the
+  organization's needs. Examine unused or incorrectly used design patterns and
+  reference platform modules to determine if updates are needed. Additionally,
+  implement functionality in the reference platforms as the organization evolves
+  and project teams request it.
+benefits: Limited attack surface due to usage of vetted technologies
+elementType: activity
+externalId: D-SA-3-B
+question: Do you enforce the use of recommended technologies within the organization?
+qualityCriteria:
+  - >-
+    You monitor applications regularly for the correct use of the recommended
+    technologies
+  - You solve violations against the list accoranding to organizational policies
+  - >-
+    You take action if the number of violations falls outside the yearly
+    objectives
+parent: d-sa-b
+aliases:
+  - D-SA-3-B
+  - d-sa-3-b
+  - DSA3B
+  - dsa3b
+  - SA-3-B
+  - sa-3-b
+  - SA3B
+  - sa3b
+  - SA3-B
+  - sa3-b

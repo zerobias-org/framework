@@ -1,0 +1,50 @@
+id: bb60d00d-4c10-4d83-b58a-dd7ad94f4f6c
+name: Identify security requirements
+description: >-
+  High-level application security objectives are mapped to functional
+  requirements.
+longDescription: >
+  Perform a review of the functional requirements of the software project.
+  Identify relevant security requirements (i.e. expectations) for this
+  functionality by reasoning on the desired confidentiality, integrity or
+  availability of the service or data offered by the software project.
+  Requirements state the objective (e.g., "personal data for the registration
+  process should be transferred and stored securely"), but not the actual
+  measure to achieve the objective (e.g., "use TLSv1.2 for secure transfer").
+
+  At the same time, review the functionality from an attacker perspective to
+  understand how it could be misused. This way you can identify extra protective
+  requirements for the software project at hand.
+
+  Security objectives can relate to specific security functionality you need to
+  add to the application (e.g., "Identify the user of the application at all
+  times") or to the overall application quality and behavior (e.g., "Ensure
+  personal data is properly protected in transit"), which does not necessarily
+  lead to new functionality. Follow good practices for writing security
+  requirements. Make them specific, measurable, actionable, relevant and
+  time-bound (SMART). Beware of adding requirements too general-purpose to not
+  relate to the application at hand (e.g., The application should protect
+  against the OWASP Top 10). While they can be true, they don't add value to the
+  discussion.
+benefits: Understanding of key security requirements during development
+elementType: activity
+externalId: D-SR-1-A
+question: Do project teams specify security requirements during development?
+qualityCriteria:
+  - >-
+    Teams derive security requirements from functional requirements and customer
+    or organization concerns
+  - Security requirements are specific, measurable, and reasonable
+  - Security requirements are in line with the organizational baseline
+parent: d-sr-a
+aliases:
+  - D-SR-1-A
+  - d-sr-1-a
+  - DSR1A
+  - dsr1a
+  - SR-1-A
+  - sr-1-a
+  - SR1A
+  - sr1a
+  - SR1-A
+  - sr1-a

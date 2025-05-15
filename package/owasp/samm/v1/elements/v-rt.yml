@@ -1,0 +1,39 @@
+id: 1020abbd-97b6-4ced-920d-b436f6afd27d
+name: Requirements-driven Testing
+description: >-
+  This practice focuses on using both positive (control verification) and
+  negative (misuse/abuse testing) security tests based on requirements (user
+  stories).
+longDescription: >
+
+  The goal of the Requirements-driven Testing (RT) practice is to ensure that
+  the implemented security controls operate as expected and satisfy the
+  project's stated security requirements. It does so by incrementally building a
+  set of security test and regression cases and executing them regularly.
+
+  A key aspect of this practice is its attention to both positive and negative
+  testing. The former verifies that the application's security controls satisfy
+  stated security requirements and validates their correct functioning. These
+  requirements are typically functional in nature. Negative testing addresses
+  the quality of the implementation of the security controls and aims to detect
+  unexpected design flaws and implementation bugs through misuse and abuse
+  testing. In its more advanced forms, the practice promotes security stress
+  testing, such as denial of service, and strives to continuously improve
+  application security by consistently automating security unit tests and
+  creating security regression tests for all bugs identified and fixed.
+
+  Although both the Requirements-driven Testing and Security Testing practices
+  are concerned with security testing, the former focuses on verifying the
+  correct implementation of security requirements, while the latter aims to
+  uncover technical implementation weaknesses in an application, irrespective of
+  requirements.
+elementType: securityPractice
+externalId: V-RT
+parent: v
+aliases:
+  - V-RT
+  - v-rt
+  - VRT
+  - vrt
+  - RT
+  - rt

@@ -1,0 +1,40 @@
+id: 8e8a8bc4-ebaa-46c4-a4a3-c192b2c1ca62
+name: Verify the application architecture for security methodically
+description: Validate the architecture security mechanisms.
+longDescription: >
+  Verify that the solution architecture addresses all identified security and
+  compliance requirements. For each interface in the application, iterate
+  through the list of security and compliance requirements and analyze the
+  architecture for their provision. Also perform an interaction or data flow
+  analysis to ensure that the requirements are adequately addressed over
+  different components. Elaborate the analysis to show the design-level features
+  that address each requirement.
+
+  Perform this type of analysis on both internal interfaces, e.g. between tiers,
+  as well as external ones, e.g. those comprising the attack surface. Also
+  identify and validate important design decisions made as part of the
+  architecture, in particular when they deviate from the available shared
+  security solutions in the organization. Finally, update the findings based on
+  changes made during the development cycle, and note any requirements that are
+  not clearly provided at the design level as assessment findings.
+benefits: Consistent architecture review process across your organization
+elementType: activity
+externalId: V-AA-2-A
+question: Do you regularly review the security mechanisms of your architecture?
+qualityCriteria:
+  - You review compliance with internal and external requirements
+  - You systematically review each interface in the system
+  - You use a formalized review method and structured validation
+  - You log missing security mechanisms as defects
+parent: v-aa-a
+aliases:
+  - V-AA-2-A
+  - v-aa-2-a
+  - VAA2A
+  - vaa2a
+  - AA-2-A
+  - aa-2-a
+  - AA2A
+  - aa2a
+  - AA2-A
+  - aa2-a

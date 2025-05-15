@@ -1,0 +1,42 @@
+id: fb9bfcc6-a716-48f1-97b1-f92a3ea1dc3c
+name: Identify tools and technologies
+description: >-
+  Elicit technologies, frameworks and integrations within the overall solution
+  to identify risk.
+longDescription: >
+  People often take the path of least resistance in developing, deploying or
+  operating a software solution. New technologies are often included when they
+  can facilitate or speed up the effort or enable the solution to scale better.
+  These new technologies might, however, introduce new risks to the organization
+  that you need to manage.
+
+  Identify the most important technologies, frameworks, tools and integrations
+  being used for each application. Use the knowledge of the architect to study
+  the development and operating environment as well as artefacts. Then evaluate
+  them for their security quality and raise important findings to be managed.
+benefits: Transparency of technologies that introduce security risk
+elementType: activity
+externalId: D-SA-1-B
+question: >-
+  Do you evaluate the security quality of important technologies used for
+  development?
+qualityCriteria:
+  - >-
+    You have a list of the most important technologies used in, or in support
+    of, each application
+  - You identify and track technological risks
+  - >-
+    You ensure the risks to these technologies are in line with the
+    organizational baseline
+parent: d-sa-b
+aliases:
+  - D-SA-1-B
+  - d-sa-1-b
+  - DSA1B
+  - dsa1b
+  - SA-1-B
+  - sa-1-b
+  - SA1B
+  - sa1b
+  - SA1-B
+  - sa1-b

@@ -1,0 +1,64 @@
+id: d1e77acd-41c9-4234-a5b0-b42d32e48d2f
+name: Standardize security guidance
+description: >-
+  Standardized in-house guidance around the organization's secure software
+  development standards.
+longDescription: >
+  Implement a formal training program requiring anyone involved with the
+  software development lifecycle to complete appropriate role and
+  technology-specific training as part of the onboarding process. Based on the
+  criticality of the application and user's role, consider restricting access
+  until the onboarding training has been completed. While the organization may
+  source some modules externally, the program is facilitated and managed
+  in-house and includes content specific to the organization going beyond
+  general security best practices. The program has a defined curriculum, checks
+  participation, and tests understanding and competence. The training consists
+  of a combination of industry best practices and organization's internal
+  standards, including training on specific systems used by the organization.
+
+  In addition to issues directly related to security, the organization includes
+  other standards to the program, such as code complexity, code documentation,
+  naming convention, and other process-related disciplines. This training
+  minimizes issues resulting from employees following practices incorporated
+  outside the organization and ensures continuity in the style and competency of
+  the code.
+
+  To facilitate progress monitoring and successful completion of each training
+  module the organization has a learning management platform or another
+  centralized portal with similar functionality. Employees can monitor their
+  progress and have access to all training resources even after they complete
+  initial training.
+
+  Review issues resulting from employees not following established standards,
+  policies, procedures, or security best practices at least annually to gauge
+  the effectiveness of the training and ensure it covers all issues relevant to
+  the organization. Update the training periodically and train employees on any
+  changes and most prevalent security deficiencies.
+benefits: >-
+  Adequate security knowledge of all employees ensured prior to working on
+  critical tasks
+elementType: activity
+externalId: G-EG-3-A
+question: >-
+  Have you implemented a Learning Management System or equivalent to track
+  employee training and certification processes?
+qualityCriteria:
+  - >-
+    A Learning Management System (LMS) is used to track trainings and
+    certifications
+  - Training is based on internal standards, policies, and procedures
+  - >-
+    You use certification programs or attendance records to determine access to
+    development systems and resources
+parent: g-eg-a
+aliases:
+  - G-EG-3-A
+  - g-eg-3-a
+  - GEG3A
+  - geg3a
+  - EG-3-A
+  - eg-3-a
+  - EG3A
+  - eg3a
+  - EG3-A
+  - eg3-a

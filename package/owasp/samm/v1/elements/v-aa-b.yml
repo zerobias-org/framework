@@ -1,0 +1,18 @@
+id: a9d5462c-9c7c-4d72-9786-8d75d679a986
+name: Architecture Mitigation
+description: >
+  Architecture mitigation focuses on ensuring that all threats identified during
+  Threat Assessment are adequately mitigated, and existing reference
+  architectures updated to address any unhandled threats.
+elementType: stream
+externalId: V-AA-B
+parent: v-aa
+aliases:
+  - V-AA-B
+  - v-aa-b
+  - VAAB
+  - vaab
+  - AA-B
+  - aa-b
+  - AAB
+  - aab

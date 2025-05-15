@@ -1,0 +1,59 @@
+id: 62b22608-03e4-4ed9-8ec6-cf04ec715ee8
+name: Standardize and scale threat modeling
+description: >-
+  Standardize threat modeling training, processes, and tools to scale across the
+  organization.
+longDescription: >
+  Use a standardized threat modeling methodology for your organization and align
+  this on your application risk levels. Think about ways to support the scaling
+  of threat modeling throughout the organization.
+
+  Train your architects, security champions, and other stakeholders on how to do
+  practical threat modeling.  Threat modeling requires understanding, clear
+  playbooks and templates, organization-specific examples, and experience, which
+  is hard to automate.
+
+  Your threat modeling methodology includes at least diagramming, threat
+  identification, design flaw mitigations, and how to validate your threat model
+  artifacts. Your threat model diagram allows a detailed understanding of the
+  environment and the mechanics of the application. You discover threats to your
+  application with checklists, such as STRIDE or more organization-specific
+  threats. For identified design flaws (ranked according to risk for your
+  organization), you add mitigating controls to support stakeholders in dealing
+  with particular threats. Define what triggers updating a threat model, for
+  example, a technology change or deployment of an application in a new
+  environment.
+
+  Feed the output of threat modeling to the defect management process for
+  adequate follow-up. Capture the threat modeling artifacts with tools used by
+  your application teams.
+benefits: Clear expectations of the quality of threat modeling activities
+elementType: activity
+externalId: D-TA-2-B
+question: Do you use a standard methodology, aligned with your application risk levels?
+qualityCriteria:
+  - >-
+    You train your architects, security champions, and other stakeholders on how
+    to do practical threat modeling
+  - >-
+    Your threat modeling methodology includes at least diagramming, threat
+    identification, design flaw mitigations, and how to validate your threat
+    model artifacts
+  - >-
+    Changes in the application or business context trigger a review of the
+    relevant threat models
+  - >-
+    You capture the threat modeling artifacts with tools used by your
+    application teams
+parent: d-ta-b
+aliases:
+  - D-TA-2-B
+  - d-ta-2-b
+  - DTA2B
+  - dta2b
+  - TA-2-B
+  - ta-2-b
+  - TA2B
+  - ta2b
+  - TA2-B
+  - ta2-b

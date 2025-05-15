@@ -1,0 +1,41 @@
+id: f7af02f6-2685-492e-82b0-c81097604d1d
+name: Establish hardening baselines
+description: >-
+  Perform consistent hardening of configurations, following established
+  baselines and guidance.
+longDescription: >
+  Establish configuration hardening baselines for all components in each
+  technology stack used. To assist with consistent application of the hardening
+  baselines, develop configuration guides for the components. Require product
+  teams to apply configuration baselines to all new systems, and to existing
+  systems when practicable.
+
+  Place hardening baselines and configuration guides under change management,
+  and assign an owner to each. Owners have ongoing responsibility to keep them
+  up-to-date, based on evolving best practices or changes to the relevant
+  components (e.g., version updates, new features).
+
+  In larger environments, derive configurations of instances from a locally
+  maintained master, with relevant configuration baselines applied. Employ
+  automated tools for hardening configurations.
+benefits: Consistent hardening of technology stack components in your organization
+elementType: activity
+externalId: O-EM-2-A
+question: Do you have hardening baselines for your components?
+qualityCriteria:
+  - You have assigned an owner for each baseline
+  - The owner keeps their assigned baselines up to date
+  - You store baselines in an accessible location
+  - You train employees responsible for configurations in these baselines
+parent: o-em-a
+aliases:
+  - O-EM-2-A
+  - o-em-2-a
+  - OEM2A
+  - oem2a
+  - EM-2-A
+  - em-2-a
+  - EM2A
+  - em2a
+  - EM2-A
+  - em2-a

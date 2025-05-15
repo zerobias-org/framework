@@ -1,0 +1,45 @@
+id: 9a153a45-4902-442f-aa38-8e96d60eef53
+name: Assess application architecture
+description: >-
+  Identify application and infrastructure architecture components and review for
+  basic security provisioning.
+longDescription: >
+  Create a view of the overall architecture and examine it for the correct
+  provision of general security mechanisms such as authentication,
+  authorization, user and rights management, secure communication, data
+  protection, key management and log management. Also consider the support for
+  privacy. Do this based on project artifacts such as architecture or design
+  documents, or interviews with business owners and technical staff. Also
+  consider the infrastructure components - these are all the systems, components
+  and libraries (including SDKs) that are not specific to the application, but
+  provide direct support to use or manage the application(s) in the
+  organisation.
+
+  Note any security-related functionality in the architecture and review its
+  correct provision. Do this in an ad-hoc manner, from the point of view of
+  anonymous users, authorized users, and specific application roles.
+benefits: Understanding of high-level architecture and sensible security measures
+elementType: activity
+externalId: V-AA-1-A
+question: >-
+  Do you review the application architecture for key security objectives on an
+  ad-hoc basis?
+qualityCriteria:
+  - You have an agreed upon model of the overall software architecture
+  - >-
+    You include components, interfaces, and integrations in the architecture
+    model
+  - You verify the correct provision of general security mechanisms
+  - You log missing security controls as defects
+parent: v-aa-a
+aliases:
+  - V-AA-1-A
+  - v-aa-1-a
+  - VAA1A
+  - vaa1a
+  - AA-1-A
+  - aa-1-a
+  - AA1A
+  - aa1a
+  - AA1-A
+  - aa1-a

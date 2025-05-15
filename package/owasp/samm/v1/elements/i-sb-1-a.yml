@@ -1,0 +1,49 @@
+id: c5da857d-673f-4d8b-bb73-0f6259f854b5
+name: Define a consistent build process
+description: >-
+  Create a formal definition of the build process so that it becomes consistent
+  and repeatable.
+longDescription: >
+  Define the build process, breaking it down into a set of clear instructions to
+  either be followed by a person or an automated tool. The build process
+  definition describes the whole process end-to-end so that the person or tool
+  can follow it consistently each time and produce the same result. The
+  definition is stored centrally and accessible to any tools or people. Avoid
+  storing multiple copies as they may become unaligned and outdated.
+
+  The process definition does not include any secrets (specifically considering
+  those needed during the build process).
+
+  Review any build tools, ensuring that they are actively maintained by vendors
+  and up-to-date with security patches. Harden each tool's configuration so that
+  it is aligned with vendor guidelines and industry best practices.
+
+  Determine a value for each generated artifact that can be later used to verify
+  its integrity, such as a signature or a hash. Protect this value and, if the
+  artifact is signed, the private signing certificate.
+
+  Ensure that build tools are routinely patched and properly hardened.
+benefits: Limited risk of human error during build process minimizing security issues
+elementType: activity
+externalId: I-SB-1-A
+question: Is your full build process formally described?
+qualityCriteria:
+  - You have enough information to recreate the build processes
+  - Your build documentation up to date
+  - Your build documentation is stored in an accessible location
+  - >-
+    Produced artifact checksums are created during build to support later
+    verification
+  - You harden the tools that are used within the build process
+parent: i-sb-a
+aliases:
+  - I-SB-1-A
+  - i-sb-1-a
+  - ISB1A
+  - isb1a
+  - SB-1-A
+  - sb-1-a
+  - SB1A
+  - sb1a
+  - SB1-A
+  - sb1-a

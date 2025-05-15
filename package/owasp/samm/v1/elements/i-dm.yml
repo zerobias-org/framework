@@ -1,0 +1,29 @@
+id: d08aa579-cccc-4d68-ba55-d63ad97a7680
+name: Defect Management
+description: >-
+  This practice focuses on managing security defects in software and their
+  associated metrics.
+longDescription: >
+  The Defect Management (DM) practice focuses on collecting, recording, and
+  analyzing software security defects and enriching them with information to
+  drive metrics-based decisions.
+
+  The practice’s first stream deals with the process of handling and managing
+  defects to ensure released software has a given assurance level. The second
+  stream focuses on enriching the information about the defects and deriving
+  metrics to guide decisions about the security of individual projects and of
+  the security assurance program as a whole.
+
+  In a sophisticated form, the practice requires formalised, independent defect
+  management and real-time, correlated information to detect trends and
+  influence security strategy.
+elementType: securityPractice
+externalId: I-DM
+parent: i
+aliases:
+  - I-DM
+  - i-dm
+  - IDM
+  - idm
+  - DM
+  - dm

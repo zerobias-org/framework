@@ -1,0 +1,39 @@
+id: 646baad7-50d7-49ca-96aa-e99dfcd9a20f
+name: Verify the effectiveness of security components
+description: Review of the architecture components' effectiveness.
+longDescription: >
+  Review the effectiveness of the architecture components and their provided
+  security mechanisms in terms of alignment with the overall strategy of the
+  organization, and scrutinize the degree of availability, scalability and
+  enterprise-readiness of the chosen security solutions. While tactical choices
+  for a particular application can make sense in specific contexts, it is
+  important to keep an eye on the bigger picture and ensure future readiness of
+  the designed solution.
+
+  Feed any findings back into defect management to trigger further improvements
+  to the architecture.
+benefits: Assurance of effectiveness of architecture controls
+elementType: activity
+externalId: V-AA-3-A
+question: Do you regularly review the effectiveness of the security controls?
+qualityCriteria:
+  - >-
+    You evaluate the preventive, detective, and response capabilities of
+    security controls
+  - >-
+    You evaluate the strategy alignment, appropriate support, and scalability of
+    security controls
+  - You evaluate the effectiveness at least yearly
+  - You log identified shortcomings as defects
+parent: v-aa-a
+aliases:
+  - V-AA-3-A
+  - v-aa-3-a
+  - VAA3A
+  - vaa3a
+  - AA-3-A
+  - aa-3-a
+  - AA3A
+  - aa3a
+  - AA3-A
+  - aa3-a

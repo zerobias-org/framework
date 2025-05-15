@@ -1,0 +1,18 @@
+id: 8cff63e1-a723-4f70-aac1-a916cc5e85c0
+name: Misuse/Abuse Testing
+description: >
+  Misuse/Abuse Testing leverages fuzzing, misuse/abuse cases, and the
+  identification of any functionality or resources in the software that can be
+  abused in order to identify weaknesses in features to attack an application.
+elementType: stream
+externalId: V-RT-B
+parent: v-rt
+aliases:
+  - V-RT-B
+  - v-rt-b
+  - VRTB
+  - vrtb
+  - RT-B
+  - rt-b
+  - RTB
+  - rtb

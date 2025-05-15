@@ -1,0 +1,56 @@
+id: dce202d7-ddc4-4830-9be7-3fa791d41d64
+name: Test application dependencies
+description: >-
+  Analyze used dependencies for security issues in a comparable way to your own
+  code.
+longDescription: >
+  Maintain a whitelist of approved dependencies and versions, and ensure that
+  the build process fails upon a presence of dependency not being on the list.
+  Include a sign-off process for handling exceptions to this rule if sensible.
+
+  Perform security verification activities against dependencies on the whitelist
+  in a comparable way to the target applications themselves (esp. using SAST and
+  analyzing transitive dependencies). Ensure that these checks also aim to
+  identify possible backdoors or easter eggs in the dependencies. Establish
+  vulnerability disclosure processes with the dependency authors including SLAs
+  for fixing issues. In case enforcing SLAs is not realistic (e.g. with open
+  source vulnerabilities), ensure that the most probable cases are expected and
+  you are able to implement compensating measures in a timely manner. Implement
+  regression tests for the fixes to identified issues.
+
+  Track all identified issues and their state using your defect tracking system.
+  Integrate your build pipeline with this system to enable failing the build
+  whenever the included dependencies contain issues above a defined criticality
+  level.
+benefits: >-
+  Handling of security issues in dependencies comparable to those in your own
+  code
+elementType: activity
+externalId: I-SB-3-B
+question: >-
+  Do you prevent build of software if it's affected by vulnerabilities in
+  dependencies?
+qualityCriteria:
+  - >-
+    Your build system is connected to a system for tracking 3rd party dependency
+    risk, causing build to fail unless the vulnerability is evaluated to be a
+    false positive or the risk is explicitly accepted
+  - You scan your dependencies using a static analysis tool
+  - >-
+    You report findings back to dependency authors using an established
+    responsible disclosure process
+  - >-
+    Using a new dependency not evaluated for security risks causes the build to
+    fail
+parent: i-sb-b
+aliases:
+  - I-SB-3-B
+  - i-sb-3-b
+  - ISB3B
+  - isb3b
+  - SB-3-B
+  - sb-3-b
+  - SB3B
+  - sb3b
+  - SB3-B
+  - sb3-b

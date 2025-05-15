@@ -1,0 +1,47 @@
+id: 8877d1dc-1e00-4bd7-a4eb-94b47f8370ff
+name: Include application secrets during deployment
+description: >-
+  Inject secrets dynamically during deployment process from hardened storages
+  and audit all human access to them.
+longDescription: >
+  Have an automated process to add credentials and secrets to configuration
+  files during the deployment process to respective stages. This way, developers
+  and deployers do not see or handle those sensitive values.
+
+  Implement checks that detect the presence of secrets in code repositories and
+  files, and run them periodically. Configure tools to look for known strings
+  and unknown high entropy strings. In systems such as code repositories, where
+  there is a history, include the versions in the checks. Mark potential secrets
+  you discover as sensitive values, and remove them where appropriate. If you
+  cannot remove them from a historic file in a code repository, for example, you
+  may need to refresh the value on the system that consumes the secret. This
+  way, if an attacker discovers the secret, it will not be useful to them.
+
+  Make the system used to store and process the secrets and credentials robust
+  from a security perspective. Encrypt all secrets at rest and in transit. Users
+  who configure this system and the secrets it contains are subject to the
+  principle of least privilege. For example, a developer might need to manage
+  the secrets for a development environment, but not a user acceptance test or
+  production environment.
+benefits: Detection of potential leakage of production secrets
+elementType: activity
+externalId: I-SD-2-B
+question: Do you inject production secrets into configuration files during deployment?
+qualityCriteria:
+  - Source code files no longer contain active application secrets
+  - >-
+    Under normal circumstances, no humans access secrets during deployment
+    procedures
+  - You log and alert when abnormal secrets access is attempted
+parent: i-sd-b
+aliases:
+  - I-SD-2-B
+  - i-sd-2-b
+  - ISD2B
+  - isd2b
+  - SD-2-B
+  - sd-2-b
+  - SD2B
+  - sd2b
+  - SD2-B
+  - sd2-b

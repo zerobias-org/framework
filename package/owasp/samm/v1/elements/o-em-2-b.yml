@@ -1,0 +1,47 @@
+id: 2d158477-86db-4bce-946d-e99f30e4eb14
+name: Formalize patch management
+description: >-
+  Perform regular patching of system and application components, across the full
+  stack. Ensure timely delivery of patches to customers.
+longDescription: >
+  Develop and follow a well-defined process for managing patches to application
+  components across the technology stacks in use. Ensure processes include
+  regular schedules for applying vendor updates, aligned with vendor update
+  calendars (e.g., Microsoft Patch Tuesday). For software developed by the
+  organization, deliver releases to customers and organization-managed solutions
+  on a regular basis (e.g., monthly), regardless of whether you are including
+  new features.
+
+  Create guidance for prioritizing component patching, reflecting your risk
+  tolerance and management objectives. Consider operational factors (e.g.,
+  criticality of the application, severity of the vulnerabilities addressed) in
+  determining priorities for testing and applying patches.
+
+  In the event receive a notification for a critical vulnerability in a
+  component, while no patch is yet available, triage and handle the situation as
+  a risk management issue (e.g., implement compensating controls, obtain
+  customer risk acceptance, or disable affected applications/features).
+benefits: Consistent and proactive patching of technology stack components
+elementType: activity
+externalId: O-EM-2-B
+question: >-
+  Do you follow an established process for updating components of your
+  technology stacks?
+qualityCriteria:
+  - The process includes vendor information for third-party patches
+  - >-
+    The process considers external sources to gather information about zero day
+    attacks, and includes appropriate risk mitigation steps
+  - The process includes guidance for prioritizing component updates
+parent: o-em-b
+aliases:
+  - O-EM-2-B
+  - o-em-2-b
+  - OEM2B
+  - oem2b
+  - EM-2-B
+  - em-2-b
+  - EM2B
+  - em2b
+  - EM2-B
+  - em2-b

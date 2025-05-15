@@ -1,0 +1,62 @@
+id: 7c6cf3d9-e81b-4db9-aa52-35be250d450f
+name: Establish a security community
+description: >-
+  Build a secure software community including all organization people involved
+  in software security.
+longDescription: >
+  Security is the responsibility of all employees, not just the Information
+  Security team. Deploy communication and knowledge sharing platforms to help
+  developers build communities around different technologies, tools, and
+  programming languages. In these communities employees share information,
+  discuss challenges with other developers, and search the knowledge base for
+  answers to previously discussed issues.
+
+  Form communities around roles and responsibilities. Enable developers and
+  engineers from different teams and business units to communicate freely so
+  they can benefit from each other's expertise. Encourage participation, set up
+  a program to promote those who help the most people as thought leaders, and
+  have management recognize them. In addition to improving application security,
+  this platform may help identify future members of the Secure Software Center
+  of Excellence, or 'Security Champions' based on their expertise and
+  willingness to help others.
+
+  The Secure Software Center of Excellence and Application Security teams review
+  the information portal regularly for insights into the new and upcoming
+  technologies, as well as opportunities to assist the development community
+  with new initiatives, tools, programs, and training resources. Use the portal
+  to disseminate information about new standards, tools, and resources to all
+  developers for the continued improvement of SDLC maturity and application
+  security.
+benefits: Collective development of security know-how among all product teams
+elementType: activity
+externalId: G-EG-3-B
+question: >-
+  Is there a centralized portal where developers and application security
+  professionals from different teams and business units are able to communicate
+  and share information?
+qualityCriteria:
+  - >-
+    The organization promotes use of a single portal across different teams and
+    business units
+  - >-
+    The portal is used for timely information such as notification of security
+    incidents, tool updates, architectural standard changes, and other related
+    announcements
+  - >-
+    The portal is widely recognized by developers and architects as a
+    centralized repository of the organization-specific application security
+    information
+  - All content is considered persistent and searchable
+  - The portal provides access to application-specific security metrics
+parent: g-eg-b
+aliases:
+  - G-EG-3-B
+  - g-eg-3-b
+  - GEG3B
+  - geg3b
+  - EG-3-B
+  - eg-3-b
+  - EG3B
+  - eg3b
+  - EG3-B
+  - eg3-b
