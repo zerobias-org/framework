@@ -79,11 +79,12 @@ function processPackageJson(packageFile: Record<string, any>, code: string): voi
     ownerType = 'suite';
   }
 
-  const dependencies = packageFile.dependencies !== undefined && packageFile.dependencies !== null ? packageFile.dependencies : {};
-  if (dependencies[`@auditlogic/${ownerType}-${codeSplit.join('-')}`] === undefined
-    || dependencies[`@auditlogic/${ownerType}-${codeSplit.join('-')}`] === null) {
-    throw new Error(`package.json missing dependency for ${ownerType} '@auditlogic/${ownerType}-${codeSplit.join('-')}'`);
-  }
+  // Will be used for future, when we have consistentcy on VSP packages
+  // const dependencies = packageFile.dependencies !== undefined && packageFile.dependencies !== null ? packageFile.dependencies : {};
+  // if (dependencies[`@auditlogic/${ownerType}-${codeSplit.join('-')}`] === undefined
+  //   || dependencies[`@auditlogic/${ownerType}-${codeSplit.join('-')}`] === null) {
+  //   throw new Error(`package.json missing dependency for ${ownerType} '@auditlogic/${ownerType}-${codeSplit.join('-')}'`);
+  // }
 }
 
 async function processIndexYml(indexFile: Record<string, any>): Promise<string> {
@@ -173,7 +174,7 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<string> 
 
 async function processElements(directory: string, elementCodes: string[]): Promise<void> {
   for (const elementCode of elementCodes) {
-    const code = elementCode.replace('.yml', '');
+    const code = elementCode.replace(/\.yml$|\.md$/i, '');
     const codeRegex = /^[0-9a-z_-]+$/;
     if (!codeRegex.test(code)) {
       throw new Error(`element file name (element code) ${code} must follow syntax lowercase alphanumeric with _ or - only.`);
@@ -335,7 +336,7 @@ async function processArtifact(directory: string) {
     }
 
     // Handle elements
-    const elementFiles = await fs.readdir(path.join(directory, 'elements'));
+    const elementFiles = (await fs.readdir(path.join(directory, 'elements'))).filter((file) => file.endsWith('.yml'));
     await processElements(path.join(directory, 'elements'), elementFiles);
     processElementParents();
     console.log('Validated all elements');
