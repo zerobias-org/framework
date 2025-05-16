@@ -1,0 +1,14 @@
+id: f83919d1-f897-401c-a32b-2afa64e26b89
+name: Establish and Maintain a Process to Accept and Address Software Vulnerabilities
+description: "Establish and maintain a process to accept and address reports of software vulnerabilities, including providing a means for external entities to report. The process is to include such items as: a vulnerability handling policy that identifies reporting process, responsible party for handling vulnerability reports, and a process for intake, assignment, remediation, and remediation testing. As part of the process, use a vulnerability tracking system that includes severity ratings, and metrics for measuring timing for identification, analysis, and remediation of vulnerabilities. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.\r
+
+  \r
+
+  Third-party application developers need to consider this an externally-facing policy that helps to set expectations for outside stakeholders. "
+elementType: safeguard
+externalId: "16.2"
+parent: "16"
+aliases:
+  - "16.2"
+  - 16_2
+  - 16-2

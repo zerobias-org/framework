@@ -1,0 +1,10 @@
+id: 650b30e5-ac19-4c04-8ea8-c23c21b9b2cf
+name: Establish and Maintain an Isolated Instance of Recovery Data 
+description: Establish and maintain an isolated instance of recovery data. Example implementations include, version controlling backup destinations through offline, cloud, or off-site systems or services.
+elementType: safeguard
+externalId: "11.4"
+parent: "11"
+aliases:
+  - "11.4"
+  - 11_4
+  - 11-4

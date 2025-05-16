@@ -1,0 +1,10 @@
+id: 90795fe4-619f-465a-affc-dba5415e7299
+name: Ensure Network Infrastructure is Up-to-Date
+description: Ensure network infrastructure is kept up-to-date. Example implementations include running the latest stable release of software and/or using currently supported network-as-a-service (NaaS) offerings. Review software versions monthly, or more frequently, to verify software support.
+elementType: safeguard
+externalId: "12.1"
+parent: "12"
+aliases:
+  - "12.1"
+  - 12_1
+  - 12-1

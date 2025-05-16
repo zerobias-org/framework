@@ -1,0 +1,10 @@
+id: 823ae3c3-c988-458d-a5d1-b9cbc0eea24a
+name: Conduct Application Penetration Testing
+description: Conduct application penetration testing. For critical applications, authenticated penetration testing is better suited to finding business logic vulnerabilities than code scanning and automated security testing. Penetration testing relies on the skill of the tester to manually manipulate an application as an authenticated and unauthenticated user. 
+elementType: safeguard
+externalId: "16.13"
+parent: "16"
+aliases:
+  - "16.13"
+  - 16_13
+  - 16-13

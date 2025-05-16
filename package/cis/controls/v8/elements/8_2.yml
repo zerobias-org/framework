@@ -1,0 +1,10 @@
+id: 19336ec4-56fd-4ab6-af0e-07b9a30f9be0
+name: Collect Audit Logs
+description: Collect audit logs. Ensure that logging, per the enterprise’s audit log management process, has been enabled across enterprise assets.
+elementType: safeguard
+externalId: "8.2"
+parent: "8"
+aliases:
+  - "8.2"
+  - 8_2
+  - 8-2

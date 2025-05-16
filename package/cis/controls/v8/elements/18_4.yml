@@ -1,0 +1,10 @@
+id: ffb02372-3933-4e17-8fae-4bb871196f68
+name: Validate Security Measures
+description: Validate security measures after each penetration test. If deemed necessary, modify rulesets and capabilities to detect the techniques used during testing.
+elementType: safeguard
+externalId: "18.4"
+parent: "18"
+aliases:
+  - "18.4"
+  - 18_4
+  - 18-4

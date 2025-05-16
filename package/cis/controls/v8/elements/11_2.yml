@@ -1,0 +1,10 @@
+id: f2e0f6ac-5019-4cec-a6fb-d2d40b132d25
+name: Perform Automated Backups 
+description: Perform automated backups of in-scope enterprise assets. Run backups weekly, or more frequently, based on the sensitivity of the data.
+elementType: safeguard
+externalId: "11.2"
+parent: "11"
+aliases:
+  - "11.2"
+  - 11_2
+  - 11-2

@@ -1,0 +1,21 @@
+id: 02d85770-d80e-4e31-a2a8-48eb120def6f
+name: CIS Controls v8
+description: CIS Critical Security Controls Version 8
+externalId: CIS Controls
+code: cis_controls_v8
+status: approved
+url: https://www.cisecurity.org/controls/v8
+version: v8
+external: true
+internal: true
+elementTypes:
+  - id: 35ed6ace-61cf-42ee-bceb-a7c40eb11f17
+    code: control
+    name: Control
+    description: A specific security requirement or best practice.
+  - id: 5abe52f9-93e8-4c49-946b-c35cc120d27d
+    code: safeguard
+    name: Safeguard
+    description: A specific implementation of a control.
+mappingTypes:
+  - safeguard

@@ -1,0 +1,10 @@
+id: 60e4e830-0e0c-4705-b6c6-ed22d9032e9d
+name: Define Mechanisms for Communicating During Incident Response
+description: Determine which primary and secondary mechanisms will be used to communicate and report during a security incident. Mechanisms can include phone calls, emails, or letters. Keep in mind that certain mechanisms, such as emails, can be affected during a security incident. Review annually, or when significant enterprise changes occur that could impact this Safeguard.
+elementType: safeguard
+externalId: "17.6"
+parent: "17"
+aliases:
+  - "17.6"
+  - 17_6
+  - 17-6

@@ -1,0 +1,10 @@
+id: 2f0701d8-2aaf-4d94-b5a3-06d004691ed2
+name: Configure Automatic Session Locking on Enterprise Assets
+description: Configure automatic session locking on enterprise assets after a defined period of inactivity. For general purpose operating systems, the period must not exceed 15 minutes. For mobile end-user devices, the period must not exceed 2 minutes.
+elementType: safeguard
+externalId: "4.3"
+parent: "4"
+aliases:
+  - "4.3"
+  - 4_3
+  - 4-3

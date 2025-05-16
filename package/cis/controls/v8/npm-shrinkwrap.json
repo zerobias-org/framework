@@ -1,0 +1,48 @@
+{
+  "name": "@zerobias-org/framework-cis-controls-v8",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-cis-controls-v8",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@auditlogic/suite-cis-controls": "^0.1.1"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@auditlogic/suite-cis-controls": {
+      "version": "0.1.1",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-cis-controls/-/35eab9754c21ea4a0f4883604541958eccb4ee17",
+      "integrity": "sha512-qlWU8BjAseiuTYf/R1UkbQ91wqeXkIuObn33DYL++tvWfxCWrlH1S+mH+Nqn5SG+Kyie+z+u+o86u8lIILwrjg==",
+      "dependencies": {
+        "@auditlogic/vendor-cis": "^0.1.2"
+      }
+    },
+    "node_modules/@auditlogic/vendor-cis": {
+      "version": "0.1.2",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-cis/-/f190db892e8e3d71ef031972e89ed06f3cc235a5",
+      "integrity": "sha512-XA+ZRbFFtZgM/uhB2iZXTOnaTcU5S/5Hq/LnEDmANPh32pHfGvKtTuJgn24XaAiwLN8482aeZOnLYYuIfBFb+g=="
+    }
+  },
+  "dependencies": {
+    "@auditlogic/suite-cis-controls": {
+      "version": "0.1.1",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-cis-controls/-/35eab9754c21ea4a0f4883604541958eccb4ee17",
+      "integrity": "sha512-qlWU8BjAseiuTYf/R1UkbQ91wqeXkIuObn33DYL++tvWfxCWrlH1S+mH+Nqn5SG+Kyie+z+u+o86u8lIILwrjg==",
+      "requires": {
+        "@auditlogic/vendor-cis": "^0.1.2"
+      }
+    },
+    "@auditlogic/vendor-cis": {
+      "version": "0.1.2",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-cis/-/f190db892e8e3d71ef031972e89ed06f3cc235a5",
+      "integrity": "sha512-XA+ZRbFFtZgM/uhB2iZXTOnaTcU5S/5Hq/LnEDmANPh32pHfGvKtTuJgn24XaAiwLN8482aeZOnLYYuIfBFb+g=="
+    }
+  }
+}

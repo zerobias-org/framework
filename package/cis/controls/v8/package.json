@@ -1,0 +1,38 @@
+{
+  "name": "@zerobias-org/framework-cis-controls-v8",
+  "version": "1.0.0",
+  "description": "CIS Controls v8 Framework",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework_new.git",
+    "directory": "package/cis/controls/v8/"
+  },
+  "auditmation": {
+    "package": "cis.controls.v8.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines/**",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@auditlogic/suite-cis-controls": "^0.1.1"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  }
+}

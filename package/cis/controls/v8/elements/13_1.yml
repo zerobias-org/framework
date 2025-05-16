@@ -1,0 +1,10 @@
+id: af446a10-d643-4f3f-93c6-1c19d110d9a6
+name: Centralize Security Event Alerting
+description: Centralize security event alerting across enterprise assets for log correlation and analysis. Best practice implementation requires the use of a SIEM, which includes vendor-defined event correlation alerts. A log analytics platform configured with security-relevant correlation alerts also satisfies this Safeguard.
+elementType: safeguard
+externalId: "13.1"
+parent: "13"
+aliases:
+  - "13.1"
+  - 13_1
+  - 13-1

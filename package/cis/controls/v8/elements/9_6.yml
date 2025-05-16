@@ -1,0 +1,10 @@
+id: a8b9c2e9-4236-486b-b1cf-0fa52157b454
+name: Block Unnecessary File Types
+description: Block unnecessary file types attempting to enter the enterprise’s email gateway.
+elementType: safeguard
+externalId: "9.6"
+parent: "9"
+aliases:
+  - "9.6"
+  - 9_6
+  - 9-6

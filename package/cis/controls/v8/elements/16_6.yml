@@ -1,0 +1,10 @@
+id: b1444a00-d825-41d8-881e-eb309fa12c64
+name: Establish and Maintain a Severity Rating System and Process for Application Vulnerabilities
+description: Establish and maintain a severity rating system and process for application vulnerabilities that facilitates prioritizing the order in which discovered vulnerabilities are fixed. This process includes setting a minimum level of security acceptability for releasing code or applications. Severity ratings bring a systematic way of triaging vulnerabilities that improves risk management and helps ensure the most severe bugs are fixed first. Review and update the system and process annually.
+elementType: safeguard
+externalId: "16.6"
+parent: "16"
+aliases:
+  - "16.6"
+  - 16_6
+  - 16-6

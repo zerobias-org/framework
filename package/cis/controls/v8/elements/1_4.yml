@@ -1,0 +1,10 @@
+id: 131eb7be-4746-4007-9cfe-ee1276f56466
+name: Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory
+description: Use DHCP logging on all DHCP servers or Internet Protocol (IP) address management tools to update the enterprise’s asset inventory. Review and use logs to update the enterprise’s asset inventory weekly, or more frequently.
+elementType: safeguard
+externalId: "1.4"
+parent: "1"
+aliases:
+  - "1.4"
+  - 1_4
+  - 1-4

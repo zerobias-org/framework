@@ -1,0 +1,10 @@
+id: 2afbdcce-fc3c-4944-bf19-1e8f1a869a22
+name: Disable Dormant Accounts
+description: Delete or disable any dormant accounts after a period of 45 days of inactivity, where supported.
+elementType: safeguard
+externalId: "5.3"
+parent: "5"
+aliases:
+  - "5.3"
+  - 5_3
+  - 5-3

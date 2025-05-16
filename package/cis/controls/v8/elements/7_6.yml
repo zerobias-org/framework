@@ -1,0 +1,10 @@
+id: de2adc9d-06d4-4f86-bd96-43f5a7d706b9
+name: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
+description: The entity conducts vulnerability scans designed to identify potential vulnerabilities or misconfigurations on a periodic basis and after any significant change in the environment and takes action to remediate identified deficiencies on a timely basis.
+elementType: safeguard
+externalId: "7.6"
+parent: "7"
+aliases:
+  - "7.6"
+  - 7_6
+  - 7-6

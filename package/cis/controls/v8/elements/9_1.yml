@@ -1,0 +1,10 @@
+id: 710fabad-5936-4de4-9890-1c123c37687e
+name: Ensure Use of Only Fully Supported Browsers and Email Clients
+description: Ensure only fully supported browsers and email clients are allowed to execute in the enterprise, only using the latest version of browsers and email clients provided through the vendor.
+elementType: safeguard
+externalId: "9.1"
+parent: "9"
+aliases:
+  - "9.1"
+  - 9_1
+  - 9-1
