@@ -1,5 +1,5 @@
 {
-  "name": "@zerobias-org/framework-owasp-asvs-v4.0.3",
+  "name": "@zerobias-org/framework-owasp-asvs-v403",
   "version": "1.0.0",
   "description": "OWASP ASVS v4.0.3 framework",
   "author": "team@neverfail.com",
@@ -10,7 +10,7 @@
     "directory": "package/owasp/asvs/v4.0.3/"
   },
   "auditmation": {
-    "package": "owasp.asvs.v4_0_3.framework",
+    "package": "owasp.asvs.v403.framework",
     "import-artifact": "framework",
     "dataloader-version": "0.5.4"
   },
