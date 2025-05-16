@@ -1,0 +1,9 @@
+id: 1bc215e8-401f-45d0-901b-7c6e9189dc9e
+name: 8.3.8
+description: Verify that sensitive personal information is subject to data retention classification, such that old or out of date data is deleted automatically, on a schedule, or as the situation requires.
+externalId: 8.3.8
+parent: '8_3'
+links:
+  demonstrates:
+    - CWE-285
+elementType: requirement

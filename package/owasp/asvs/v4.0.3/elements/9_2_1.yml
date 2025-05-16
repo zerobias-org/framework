@@ -1,0 +1,9 @@
+id: 05db9e62-6a3f-4bc5-beaf-c2604d141ea7
+name: 9.2.1
+description: Verify that connections to and from the server use trusted TLS certificates. Where internally generated or self-signed certificates are used, the server must be configured to only trust specific internal CAs and specific self-signed certificates. All others should be rejected.
+externalId: 9.2.1
+parent: '9_2'
+links:
+  demonstrates:
+    - CWE-295
+elementType: requirement

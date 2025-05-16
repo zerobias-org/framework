@@ -1,0 +1,9 @@
+id: 9ed63bfd-33c7-4502-8e3c-1a693c25193e
+name: 1.1.7
+description: Verify availability of a secure coding checklist, security requirements, guideline, or policy to all developers and testers.
+externalId: 1.1.7
+parent: '1_1'
+links:
+  demonstrates:
+    - CWE-637
+elementType: requirement

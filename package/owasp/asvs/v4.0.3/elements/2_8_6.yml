@@ -1,0 +1,9 @@
+id: 9b892fe0-cecb-405e-8681-13fa38a65bb7
+name: 2.8.6
+description: Verify physical single-factor OTP generator can be revoked in case of theft or other loss. Ensure that revocation is immediately effective across logged in sessions, regardless of location.
+externalId: 2.8.6
+parent: '2_8'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

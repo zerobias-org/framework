@@ -1,0 +1,9 @@
+id: b00086c1-e11c-4c53-ae78-95befa666635
+name: 13.4.2
+description: Verify that GraphQL or other data layer authorization logic should be implemented at the business logic layer instead of the GraphQL layer.
+externalId: 13.4.2
+parent: '13_4'
+links:
+  demonstrates:
+    - CWE-285
+elementType: requirement

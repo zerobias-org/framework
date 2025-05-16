@@ -1,0 +1,9 @@
+id: 50c031da-98ad-402f-bd79-0b0a597c1cdd
+name: 1.5.1
+description: Verify that input and output requirements clearly define how to handle and process data based on type, content, and applicable laws, regulations, and other policy compliance.
+externalId: 1.5.1
+parent: '1_5'
+links:
+  demonstrates:
+    - CWE-1029
+elementType: requirement

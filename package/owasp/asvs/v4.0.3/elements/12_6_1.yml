@@ -1,0 +1,9 @@
+id: 6998f39d-2a59-41d1-87e8-222c0e714279
+name: 12.6.1
+description: Verify that the web or application server is configured with an allow list of resources or systems to which the server can send requests or load data/files from.
+externalId: 12.6.1
+parent: '12_6'
+links:
+  demonstrates:
+    - CWE-918
+elementType: requirement

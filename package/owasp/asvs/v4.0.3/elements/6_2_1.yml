@@ -1,0 +1,9 @@
+id: 6b120bc4-55e6-4315-b13d-c2e3e48baf02
+name: 6.2.1
+description: Verify that all cryptographic modules fail securely, and errors are handled in a way that does not enable Padding Oracle attacks.
+externalId: 6.2.1
+parent: '6_2'
+links:
+  demonstrates:
+    - CWE-310
+elementType: requirement

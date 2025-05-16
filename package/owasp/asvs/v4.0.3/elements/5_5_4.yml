@@ -1,0 +1,9 @@
+id: 1aa79b54-0785-4052-867e-401c4e488d0d
+name: 5.5.4
+description: Verify that when parsing JSON in browsers or JavaScript-based backends, JSON.parse is used to parse the JSON document. Do not use eval() to parse JSON.
+externalId: 5.5.4
+parent: '5_5'
+links:
+  demonstrates:
+    - CWE-95
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 61e704c7-835e-4479-bbd2-fd03f5927db9
+name: 9.2.3
+description: Verify that all encrypted connections to external systems that involve sensitive information or functions are authenticated.
+externalId: 9.2.3
+parent: '9_2'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

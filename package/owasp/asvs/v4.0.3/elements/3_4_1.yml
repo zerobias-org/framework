@@ -1,0 +1,9 @@
+id: bf639a71-5f67-4b13-873d-c0a9532eab7d
+name: 3.4.1
+description: Verify that cookie-based session tokens have the 'Secure' attribute set. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.4.1
+parent: '3_4'
+links:
+  demonstrates:
+    - CWE-614
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 84a90280-4049-45e2-a4f5-3785af3b1abe
+name: 2.1.1
+description: Verify that user set passwords are at least 12 characters in length (after multiple spaces are combined). ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.1.1
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-521
+elementType: requirement

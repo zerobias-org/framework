@@ -1,0 +1,9 @@
+id: 8ca6150f-cb41-4c04-b4a9-e4a1f3ccca8f
+name: 5.3.7
+description: Verify that the application protects against LDAP injection vulnerabilities, or that specific security controls to prevent LDAP injection have been implemented. ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.7
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-90
+elementType: requirement

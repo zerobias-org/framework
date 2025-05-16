@@ -1,0 +1,9 @@
+id: 3985ed40-77a5-4167-b7d1-3bdcf384c0c9
+name: 2.8.2
+description: Verify that symmetric keys used to verify submitted OTPs are highly protected, such as by using a hardware security module or secure operating system based key storage.
+externalId: 2.8.2
+parent: '2_8'
+links:
+  demonstrates:
+    - CWE-320
+elementType: requirement

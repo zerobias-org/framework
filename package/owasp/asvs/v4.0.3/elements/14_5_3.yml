@@ -1,0 +1,9 @@
+id: 66fb0593-ff8b-475c-b53a-b7c75736dcb2
+name: 14.5.3
+description: Verify that the Cross-Origin Resource Sharing (CORS) Access-Control-Allow-Origin header uses a strict allow list of trusted domains and subdomains to match against and does not support the "null" origin.
+externalId: 14.5.3
+parent: '14_5'
+links:
+  demonstrates:
+    - CWE-346
+elementType: requirement

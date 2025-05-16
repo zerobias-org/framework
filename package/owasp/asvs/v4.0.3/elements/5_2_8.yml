@@ -1,0 +1,9 @@
+id: 8e4a9868-8df0-406e-bb51-48c411b7deae
+name: 5.2.8
+description: Verify that the application sanitizes, disables, or sandboxes user-supplied scriptable or expression template language content, such as Markdown, CSS or XSL stylesheets, BBCode, or similar.
+externalId: 5.2.8
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-94
+elementType: requirement

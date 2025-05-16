@@ -1,0 +1,9 @@
+id: 7bfebc77-cc6a-4605-8680-a15e79e4a2de
+name: 11.1.5
+description: Verify the application has business logic limits or validation to protect against likely business risks or threats, identified using threat modeling or similar methodologies.
+externalId: 11.1.5
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-841
+elementType: requirement

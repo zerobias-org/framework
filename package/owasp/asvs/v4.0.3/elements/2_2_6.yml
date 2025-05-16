@@ -1,0 +1,9 @@
+id: 7607a115-65d9-4f9a-8532-384ec2264f8a
+name: 2.2.6
+description: Verify replay resistance through the mandated use of One-time Passwords (OTP) devices, cryptographic authenticators, or lookup codes.
+externalId: 2.2.6
+parent: '2_2'
+links:
+  demonstrates:
+    - CWE-308
+elementType: requirement

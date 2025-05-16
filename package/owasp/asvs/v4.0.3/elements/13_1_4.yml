@@ -1,0 +1,9 @@
+id: b5915e06-a310-42d4-8971-ecbbb26e422b
+name: 13.1.4
+description: Verify that authorization decisions are made at both the URI, enforced by programmatic or declarative security at the controller or router, and at the resource level, enforced by model-based permissions.
+externalId: 13.1.4
+parent: '13_1'
+links:
+  demonstrates:
+    - CWE-285
+elementType: requirement

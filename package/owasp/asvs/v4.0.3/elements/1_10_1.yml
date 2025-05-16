@@ -1,0 +1,9 @@
+id: ae8ba1f5-4716-43a3-8d30-e5b528a57946
+name: 1.10.1
+description: Verify that a source code control system is in use, with procedures to ensure that check-ins are accompanied by issues or change tickets. The source code control system should have access control and identifiable users to allow traceability of any changes.
+externalId: 1.10.1
+parent: '1_10'
+links:
+  demonstrates:
+    - CWE-284
+elementType: requirement

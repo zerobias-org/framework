@@ -1,0 +1,9 @@
+id: 2bacd4d8-fc27-4722-8c0b-6ae69ddace31
+name: 2.5.1
+description: Verify that a system generated initial activation or recovery secret is not sent in clear text to the user. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.5.1
+parent: '2_5'
+links:
+  demonstrates:
+    - CWE-640
+elementType: requirement

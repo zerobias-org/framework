@@ -1,0 +1,9 @@
+id: e5d44d3c-891f-49fe-a696-db14b1a6886c
+name: 14.4.2
+description: 'Verify that all API responses contain a Content-Disposition: attachment; filename="api.json" header (or other appropriate filename for the content type).'
+externalId: 14.4.2
+parent: '14_4'
+links:
+  demonstrates:
+    - CWE-116
+elementType: requirement

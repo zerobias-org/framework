@@ -1,0 +1,9 @@
+id: 25955c1c-3344-4b50-a6f1-be415b19cef5
+name: 7.1.2
+description: Verify that the application does not log other sensitive data as defined under local privacy laws or relevant security policy. ([C9](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.1.2
+parent: '7_1'
+links:
+  demonstrates:
+    - CWE-532
+elementType: requirement

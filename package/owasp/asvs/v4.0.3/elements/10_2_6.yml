@@ -1,0 +1,9 @@
+id: e59a13c7-4ac8-4f20-807f-f0b17a97eaf3
+name: 10.2.6
+description: Verify that the application source code and third party libraries do not contain Easter eggs or any other potentially unwanted functionality.
+externalId: 10.2.6
+parent: '10_2'
+links:
+  demonstrates:
+    - CWE-507
+elementType: requirement

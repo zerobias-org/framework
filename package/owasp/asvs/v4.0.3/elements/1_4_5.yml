@@ -1,0 +1,9 @@
+id: 867823fa-e022-47fd-86c3-cbd802cc31c2
+name: 1.4.5
+description: Verify that attribute or feature-based access control is used whereby the code checks the user's authorization for a feature/data item rather than just their role. Permissions should still be allocated using roles. ([C7](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.4.5
+parent: '1_4'
+links:
+  demonstrates:
+    - CWE-275
+elementType: requirement

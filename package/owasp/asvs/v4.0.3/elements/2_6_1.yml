@@ -1,0 +1,9 @@
+id: 1b4ff2c3-c2ef-4951-ad7c-f2168874686f
+name: 2.6.1
+description: Verify that lookup secrets can be used only once.
+externalId: 2.6.1
+parent: '2_6'
+links:
+  demonstrates:
+    - CWE-308
+elementType: requirement

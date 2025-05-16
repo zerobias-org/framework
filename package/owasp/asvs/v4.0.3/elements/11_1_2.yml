@@ -1,0 +1,9 @@
+id: 7e24a8f8-1bf6-451e-a4ab-3218e19a5910
+name: 11.1.2
+description: Verify that the application will only process business logic flows with all steps being processed in realistic human time, i.e. transactions are not submitted too quickly.
+externalId: 11.1.2
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-799
+elementType: requirement

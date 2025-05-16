@@ -1,0 +1,9 @@
+id: 87b8af3e-fee3-4388-be2b-4ca4aee0b4ea
+name: 2.3.2
+description: Verify that enrollment and use of user-provided authentication devices are supported, such as a U2F or FIDO tokens.
+externalId: 2.3.2
+parent: '2_3'
+links:
+  demonstrates:
+    - CWE-308
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 9992495d-f156-43cd-92bc-9c1bd005fda1
+name: 10.2.5
+description: Verify that the application source code and third party libraries do not contain malicious code, such as salami attacks, logic bypasses, or logic bombs.
+externalId: 10.2.5
+parent: '10_2'
+links:
+  demonstrates:
+    - CWE-511
+elementType: requirement

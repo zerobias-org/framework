@@ -1,0 +1,9 @@
+id: 21448350-9a25-475e-8892-215ad1b06661
+name: 3.7.1
+description: Verify the application ensures a full, valid login session or requires re-authentication or secondary verification before allowing any sensitive transactions or account modifications.
+externalId: 3.7.1
+parent: '3_7'
+links:
+  demonstrates:
+    - CWE-306
+elementType: requirement

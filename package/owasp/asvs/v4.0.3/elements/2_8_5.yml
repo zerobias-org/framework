@@ -1,0 +1,9 @@
+id: 9d459582-fc07-4e0d-b8b4-606ea0a63f45
+name: 2.8.5
+description: Verify that if a time-based multi-factor OTP token is re-used during the validity period, it is logged and rejected with secure notifications being sent to the holder of the device.
+externalId: 2.8.5
+parent: '2_8'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

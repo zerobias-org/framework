@@ -1,0 +1,9 @@
+id: 6c15c46d-59e5-45e7-95e2-5175a4cd30c3
+name: 6.2.8
+description: Verify that all cryptographic operations are constant-time, with no 'short-circuit' operations in comparisons, calculations, or returns, to avoid leaking information.
+externalId: 6.2.8
+parent: '6_2'
+links:
+  demonstrates:
+    - CWE-385
+elementType: requirement

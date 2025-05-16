@@ -1,0 +1,9 @@
+id: 7747f951-84c2-40ca-98b6-22c4d494c6fe
+name: 12.3.3
+description: Verify that user-submitted filename metadata is validated or ignored to prevent the disclosure or execution of remote files via Remote File Inclusion (RFI) or Server-side Request Forgery (SSRF) attacks.
+externalId: 12.3.3
+parent: '12_3'
+links:
+  demonstrates:
+    - CWE-98
+elementType: requirement

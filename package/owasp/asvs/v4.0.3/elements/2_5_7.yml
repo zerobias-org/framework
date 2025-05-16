@@ -1,0 +1,9 @@
+id: 47c09ef4-65cb-480d-a38b-f0ea4de64c92
+name: 2.5.7
+description: Verify that if OTP or multi-factor authentication factors are lost, that evidence of identity proofing is performed at the same level as during enrollment.
+externalId: 2.5.7
+parent: '2_5'
+links:
+  demonstrates:
+    - CWE-308
+elementType: requirement

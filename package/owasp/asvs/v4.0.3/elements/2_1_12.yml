@@ -1,0 +1,9 @@
+id: 2ff9bd2e-f54f-47f2-a310-2556ae23ea79
+name: 2.1.12
+description: Verify that the user can choose to either temporarily view the entire masked password, or temporarily view the last typed character of the password on platforms that do not have this as built-in functionality.
+externalId: 2.1.12
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-521
+elementType: requirement

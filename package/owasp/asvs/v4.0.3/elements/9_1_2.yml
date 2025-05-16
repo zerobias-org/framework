@@ -1,0 +1,9 @@
+id: e9fe956e-fc4f-4319-bde0-74b65d2f24fd
+name: 9.1.2
+description: Verify using up to date TLS testing tools that only strong cipher suites are enabled, with the strongest cipher suites set as preferred.
+externalId: 9.1.2
+parent: '9_1'
+links:
+  demonstrates:
+    - CWE-326
+elementType: requirement

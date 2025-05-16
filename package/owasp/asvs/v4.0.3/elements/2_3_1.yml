@@ -1,0 +1,9 @@
+id: 14e3443b-1eb4-4e91-a155-5c6c56f504ae
+name: 2.3.1
+description: Verify system generated initial passwords or activation codes SHOULD be securely randomly generated, SHOULD be at least 6 characters long, and MAY contain letters and numbers, and expire after a short period of time. These initial secrets must not be permitted to become the long term password.
+externalId: 2.3.1
+parent: '2_3'
+links:
+  demonstrates:
+    - CWE-330
+elementType: requirement

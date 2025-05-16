@@ -1,0 +1,9 @@
+id: a9bced48-391e-484f-aa77-2ef433d1faba
+name: 1.14.6
+description: Verify the application does not use unsupported, insecure, or deprecated client-side technologies such as NSAPI plugins, Flash, Shockwave, ActiveX, Silverlight, NACL, or client-side Java applets.
+externalId: 1.14.6
+parent: '1_14'
+links:
+  demonstrates:
+    - CWE-477
+elementType: requirement

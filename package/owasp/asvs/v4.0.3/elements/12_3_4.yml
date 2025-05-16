@@ -1,0 +1,9 @@
+id: 6c911873-c2ca-417c-824b-b2b0097dc593
+name: 12.3.4
+description: Verify that the application protects against Reflective File Download (RFD) by validating or ignoring user-submitted filenames in a JSON, JSONP, or URL parameter, the response Content-Type header should be set to text/plain, and the Content-Disposition header should have a fixed filename.
+externalId: 12.3.4
+parent: '12_3'
+links:
+  demonstrates:
+    - CWE-641
+elementType: requirement

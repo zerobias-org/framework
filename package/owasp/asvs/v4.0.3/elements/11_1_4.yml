@@ -1,0 +1,9 @@
+id: 3a6799f2-df05-4aa8-aac4-b736ec0ac8fc
+name: 11.1.4
+description: Verify that the application has anti-automation controls to protect against excessive calls such as mass data exfiltration, business logic requests, file uploads or denial of service attacks.
+externalId: 11.1.4
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-770
+elementType: requirement

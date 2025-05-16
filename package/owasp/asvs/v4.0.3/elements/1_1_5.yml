@@ -1,0 +1,9 @@
+id: 27950fa1-ee12-4d27-bc19-4a99e5132a81
+name: 1.1.5
+description: Verify definition and security analysis of the application's high-level architecture and all connected remote services. ([C1](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.1.5
+parent: '1_1'
+links:
+  demonstrates:
+    - CWE-1059
+elementType: requirement

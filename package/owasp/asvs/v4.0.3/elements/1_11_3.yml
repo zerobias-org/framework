@@ -1,0 +1,9 @@
+id: 28c78622-850b-44bf-aec6-7c315e28fa73
+name: 1.11.3
+description: Verify that all high-value business logic flows, including authentication, session management and access control are thread safe and resistant to time-of-check and time-of-use race conditions.
+externalId: 1.11.3
+parent: '1_11'
+links:
+  demonstrates:
+    - CWE-367
+elementType: requirement

@@ -1,0 +1,9 @@
+id: eec9ce9b-2021-419d-b250-10c9888ca283
+name: 2.7.3
+description: Verify that the out of band verifier authentication requests, codes, or tokens are only usable once, and only for the original authentication request.
+externalId: 2.7.3
+parent: '2_7'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

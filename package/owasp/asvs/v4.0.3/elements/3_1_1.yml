@@ -1,0 +1,9 @@
+id: 8e795948-6d5e-49da-be1b-af785159d1d0
+name: 3.1.1
+description: Verify the application never reveals session tokens in URL parameters.
+externalId: 3.1.1
+parent: '3_1'
+links:
+  demonstrates:
+    - CWE-598
+elementType: requirement

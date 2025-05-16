@@ -1,0 +1,9 @@
+id: bb507758-147c-4442-b8ff-efb9eb02980e
+name: 14.5.1
+description: Verify that the application server only accepts the HTTP methods in use by the application/API, including pre-flight OPTIONS, and logs/alerts on any requests that are not valid for the application context.
+externalId: 14.5.1
+parent: '14_5'
+links:
+  demonstrates:
+    - CWE-749
+elementType: requirement

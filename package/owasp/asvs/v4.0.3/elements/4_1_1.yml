@@ -1,0 +1,9 @@
+id: d5196bd0-9525-4a06-9140-5b261c8e0e19
+name: 4.1.1
+description: Verify that the application enforces access control rules on a trusted service layer, especially if client-side access control is present and could be bypassed.
+externalId: 4.1.1
+parent: '4_1'
+links:
+  demonstrates:
+    - CWE-602
+elementType: requirement

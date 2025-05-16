@@ -1,0 +1,9 @@
+id: 2a747933-31e6-4de0-af84-8f928162ac30
+name: 9.1.1
+description: Verify that TLS is used for all client connectivity, and does not fall back to insecure or unencrypted communications. ([C8](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 9.1.1
+parent: '9_1'
+links:
+  demonstrates:
+    - CWE-319
+elementType: requirement

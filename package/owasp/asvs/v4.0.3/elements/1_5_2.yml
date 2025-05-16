@@ -1,0 +1,9 @@
+id: 78831ab5-cf1d-4783-b198-94b18220ec32
+name: 1.5.2
+description: Verify that serialization is not used when communicating with untrusted clients. If this is not possible, ensure that adequate integrity controls (and possibly encryption if sensitive data is sent) are enforced to prevent deserialization attacks including object injection.
+externalId: 1.5.2
+parent: '1_5'
+links:
+  demonstrates:
+    - CWE-502
+elementType: requirement

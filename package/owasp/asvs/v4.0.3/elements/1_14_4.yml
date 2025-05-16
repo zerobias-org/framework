@@ -1,0 +1,6 @@
+id: 883b972f-3b4c-4960-a893-847e10c61e4b
+name: 1.14.4
+description: Verify that the build pipeline contains a build step to automatically build and verify the secure deployment of the application, particularly if the application infrastructure is software defined, such as cloud environment build scripts.
+externalId: 1.14.4
+parent: '1_14'
+elementType: requirement

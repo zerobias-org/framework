@@ -1,0 +1,9 @@
+id: 8ed1ea0c-47de-463c-a54c-323e7fff7357
+name: 14.3.2
+description: Verify that web or application server and application framework debug modes are disabled in production to eliminate debug features, developer consoles, and unintended security disclosures.
+externalId: 14.3.2
+parent: '14_3'
+links:
+  demonstrates:
+    - CWE-497
+elementType: requirement

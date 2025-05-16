@@ -1,0 +1,9 @@
+id: e38cab4b-4684-428d-b7bf-db6adda2723a
+name: 14.4.6
+description: Verify that a suitable Referrer-Policy header is included to avoid exposing sensitive information in the URL through the Referer header to untrusted parties.
+externalId: 14.4.6
+parent: '14_4'
+links:
+  demonstrates:
+    - CWE-116
+elementType: requirement

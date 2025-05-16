@@ -1,0 +1,9 @@
+id: 5a2c52ee-e3c7-4ccf-9663-b91b08187b3f
+name: 1.4.1
+description: Verify that trusted enforcement points, such as access control gateways, servers, and serverless functions, enforce access controls. Never enforce access controls on the client.
+externalId: 1.4.1
+parent: '1_4'
+links:
+  demonstrates:
+    - CWE-602
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 4e164dbd-a8c7-41f0-8e6d-b8e54e9e3576
+name: 2.1.5
+description: Verify users can change their password.
+externalId: 2.1.5
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-620
+elementType: requirement

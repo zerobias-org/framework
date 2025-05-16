@@ -1,0 +1,9 @@
+id: 5baf42f0-285a-4de5-814c-e88141ec4be1
+name: 2.1.2
+description: Verify that passwords of at least 64 characters are permitted, and that passwords of more than 128 characters are denied. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.1.2
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-521
+elementType: requirement

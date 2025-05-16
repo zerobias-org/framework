@@ -1,0 +1,9 @@
+id: c2177092-d15d-4f08-8763-5458aa25aac5
+name: 5.1.1
+description: Verify that the application has defenses against HTTP parameter pollution attacks, particularly if the application framework makes no distinction about the source of request parameters (GET, POST, cookies, headers, or environment variables).
+externalId: 5.1.1
+parent: '5_1'
+links:
+  demonstrates:
+    - CWE-235
+elementType: requirement

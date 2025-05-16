@@ -1,0 +1,9 @@
+id: b68c0459-6dc0-4135-9fda-0a5a3908b911
+name: 8.3.7
+description: Verify that sensitive or private information that is required to be encrypted, is encrypted using approved algorithms that provide both confidentiality and integrity. ([C8](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 8.3.7
+parent: '8_3'
+links:
+  demonstrates:
+    - CWE-327
+elementType: requirement

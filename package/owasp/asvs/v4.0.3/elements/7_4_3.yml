@@ -1,0 +1,9 @@
+id: 65bcb189-95d4-40cf-b6af-11b4135ffe21
+name: 7.4.3
+description: Verify that a "last resort" error handler is defined which will catch all unhandled exceptions. ([C10](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.4.3
+parent: '7_4'
+links:
+  demonstrates:
+    - CWE-431
+elementType: requirement

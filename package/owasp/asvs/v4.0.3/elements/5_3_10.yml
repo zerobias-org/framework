@@ -1,0 +1,9 @@
+id: c00d1971-18d7-4b17-bb86-6338e9574743
+name: 5.3.10
+description: Verify that the application protects against XPath injection or XML injection attacks. ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.10
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-643
+elementType: requirement

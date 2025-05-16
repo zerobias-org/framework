@@ -1,0 +1,9 @@
+id: 392b84f6-413d-4308-93a0-38abad0fa05b
+name: 1.9.1
+description: Verify the application encrypts communications between components, particularly when these components are in different containers, systems, sites, or cloud providers. ([C3](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.9.1
+parent: '1_9'
+links:
+  demonstrates:
+    - CWE-319
+elementType: requirement

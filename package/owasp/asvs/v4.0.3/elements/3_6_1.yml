@@ -1,0 +1,9 @@
+id: 7606e7d8-56ab-4091-88ae-389b50be91b4
+name: 3.6.1
+description: Verify that Relying Parties (RPs) specify the maximum authentication time to Credential Service Providers (CSPs) and that CSPs re-authenticate the user if they haven't used a session within that period.
+externalId: 3.6.1
+parent: '3_6'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

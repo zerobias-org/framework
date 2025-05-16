@@ -1,0 +1,9 @@
+id: 05b6a1ac-5bd4-4af9-b3e5-ad7ae487d8cb
+name: 3.3.2
+description: If authenticators permit users to remain logged in, verify that re-authentication occurs periodically both when actively used or after an idle period. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.3.2
+parent: '3_3'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

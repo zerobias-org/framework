@@ -1,0 +1,9 @@
+id: ff1b1180-a731-4681-914a-82597a84a7d3
+name: 3.3.1
+description: Verify that logout and expiration invalidate the session token, such that the back button or a downstream relying party does not resume an authenticated session, including across relying parties. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.3.1
+parent: '3_3'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

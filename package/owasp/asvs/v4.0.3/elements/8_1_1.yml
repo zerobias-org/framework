@@ -1,0 +1,9 @@
+id: b1b1622f-9258-4601-a620-00bed02c85e0
+name: 8.1.1
+description: Verify the application protects sensitive data from being cached in server components such as load balancers and application caches.
+externalId: 8.1.1
+parent: '8_1'
+links:
+  demonstrates:
+    - CWE-524
+elementType: requirement

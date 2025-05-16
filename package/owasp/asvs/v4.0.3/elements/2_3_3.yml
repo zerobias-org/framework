@@ -1,0 +1,9 @@
+id: 5e8265a3-6c8c-4251-84ab-d592e5f129c4
+name: 2.3.3
+description: Verify that renewal instructions are sent with sufficient time to renew time bound authenticators.
+externalId: 2.3.3
+parent: '2_3'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

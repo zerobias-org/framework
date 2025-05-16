@@ -1,0 +1,9 @@
+id: 84934057-b60f-4283-84a5-f0296c589bc2
+name: 2.4.5
+description: Verify that an additional iteration of a key derivation function is performed, using a salt value that is secret and known only to the verifier. Generate the salt value using an approved random bit generator [SP 800-90Ar1] and provide at least the minimum security strength specified in the latest revision of SP 800-131A. The secret salt value SHALL be stored separately from the hashed passwords (e.g., in a specialized device like a hardware security module).
+externalId: 2.4.5
+parent: '2_4'
+links:
+  demonstrates:
+    - CWE-916
+elementType: requirement

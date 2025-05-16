@@ -1,0 +1,9 @@
+id: f8f07bdd-7df4-42c2-8843-3a784a13b6b8
+name: 1.2.4
+description: Verify that all authentication pathways and identity management APIs implement consistent authentication security control strength, such that there are no weaker alternatives per the risk of the application.
+externalId: 1.2.4
+parent: '1_2'
+links:
+  demonstrates:
+    - CWE-306
+elementType: requirement

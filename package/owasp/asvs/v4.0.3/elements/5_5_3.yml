@@ -1,0 +1,9 @@
+id: 877134fe-8f51-49f9-be4d-c6aaaccdba10
+name: 5.5.3
+description: Verify that deserialization of untrusted data is avoided or is protected in both custom code and third-party libraries (such as JSON, XML and YAML parsers).
+externalId: 5.5.3
+parent: '5_5'
+links:
+  demonstrates:
+    - CWE-502
+elementType: requirement

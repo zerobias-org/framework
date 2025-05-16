@@ -1,0 +1,9 @@
+id: d3932d53-8f9c-40af-aa73-514d04314b5c
+name: 1.6.1
+description: Verify that there is an explicit policy for management of cryptographic keys and that a cryptographic key lifecycle follows a key management standard such as NIST SP 800-57.
+externalId: 1.6.1
+parent: '1_6'
+links:
+  demonstrates:
+    - CWE-320
+elementType: requirement

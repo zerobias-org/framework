@@ -1,0 +1,9 @@
+id: a622bb02-82f5-4145-bc44-e4389d24f6b6
+name: 7.3.3
+description: Verify that security logs are protected from unauthorized access and modification. ([C9](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.3.3
+parent: '7_3'
+links:
+  demonstrates:
+    - CWE-200
+elementType: requirement

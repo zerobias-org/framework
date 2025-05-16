@@ -1,0 +1,9 @@
+id: 6412b3d0-ea62-42bf-a1c8-cc4ec213b3ed
+name: 10.3.3
+description: Verify that the application has protection from subdomain takeovers if the application relies upon DNS entries or DNS subdomains, such as expired domain names, out of date DNS pointers or CNAMEs, expired projects at public source code repos, or transient cloud APIs, serverless functions, or storage buckets (*autogen-bucket-id*.cloud.example.com) or similar. Protections can include ensuring that DNS names used by applications are regularly checked for expiry or change.
+externalId: 10.3.3
+parent: '10_3'
+links:
+  demonstrates:
+    - CWE-350
+elementType: requirement

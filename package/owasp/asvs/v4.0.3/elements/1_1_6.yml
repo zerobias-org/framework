@@ -1,0 +1,9 @@
+id: 550845c0-02cf-4631-9215-07e1ef6fa44e
+name: 1.1.6
+description: Verify implementation of centralized, simple (economy of design), vetted, secure, and reusable security controls to avoid duplicate, missing, ineffective, or insecure controls. ([C10](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.1.6
+parent: '1_1'
+links:
+  demonstrates:
+    - CWE-637
+elementType: requirement

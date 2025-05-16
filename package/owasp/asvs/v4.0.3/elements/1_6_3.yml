@@ -1,0 +1,9 @@
+id: bdc1d4fe-f71f-47b3-a3e3-47eda6222ec9
+name: 1.6.3
+description: Verify that all keys and passwords are replaceable and are part of a well-defined process to re-encrypt sensitive data.
+externalId: 1.6.3
+parent: '1_6'
+links:
+  demonstrates:
+    - CWE-320
+elementType: requirement

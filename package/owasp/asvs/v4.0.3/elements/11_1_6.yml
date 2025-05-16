@@ -1,0 +1,9 @@
+id: 2d8c488b-3191-4633-b9f8-665e5a75017a
+name: 11.1.6
+description: Verify that the application does not suffer from "Time Of Check to Time Of Use" (TOCTOU) issues or other race conditions for sensitive operations.
+externalId: 11.1.6
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-367
+elementType: requirement

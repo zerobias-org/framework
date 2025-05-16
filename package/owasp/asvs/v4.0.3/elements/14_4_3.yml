@@ -1,0 +1,9 @@
+id: f54baccb-5691-4bb0-bfc7-c9691f6f0adf
+name: 14.4.3
+description: Verify that a Content Security Policy (CSP) response header is in place that helps mitigate impact for XSS attacks like HTML, DOM, JSON, and JavaScript injection vulnerabilities.
+externalId: 14.4.3
+parent: '14_4'
+links:
+  demonstrates:
+    - CWE-1021
+elementType: requirement

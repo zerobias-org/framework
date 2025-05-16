@@ -1,0 +1,9 @@
+id: b52f5e31-0985-43c7-86aa-8cb8955d88cf
+name: 2.5.3
+description: Verify password credential recovery does not reveal the current password in any way. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.5.3
+parent: '2_5'
+links:
+  demonstrates:
+    - CWE-640
+elementType: requirement

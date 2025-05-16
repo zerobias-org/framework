@@ -1,0 +1,9 @@
+id: eb194239-0890-4a41-97bb-dd29fb49ed41
+name: 1.2.1
+description: Verify the use of unique or special low-privilege operating system accounts for all application components, services, and servers. ([C3](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.2.1
+parent: '1_2'
+links:
+  demonstrates:
+    - CWE-250
+elementType: requirement

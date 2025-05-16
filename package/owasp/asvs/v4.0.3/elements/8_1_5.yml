@@ -1,0 +1,9 @@
+id: 7ea50d5b-de17-42c3-9d48-2144da4685e5
+name: 8.1.5
+description: Verify that regular backups of important data are performed and that test restoration of data is performed.
+externalId: 8.1.5
+parent: '8_1'
+links:
+  demonstrates:
+    - CWE-19
+elementType: requirement

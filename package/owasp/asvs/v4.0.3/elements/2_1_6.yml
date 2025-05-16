@@ -1,0 +1,9 @@
+id: 137a483d-d948-4b13-9bd1-5641bdd5e86c
+name: 2.1.6
+description: Verify that password change functionality requires the user's current and new password.
+externalId: 2.1.6
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-620
+elementType: requirement

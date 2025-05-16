@@ -1,0 +1,9 @@
+id: 169b8802-df9d-454d-8840-8d736c3148ca
+name: 13.3.2
+description: Verify that the message payload is signed using WS-Security to ensure reliable transport between client and service.
+externalId: 13.3.2
+parent: '13_3'
+links:
+  demonstrates:
+    - CWE-345
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 7ecd7eb3-01e8-4c6b-b836-84bfa88cece0
+name: 8.3.4
+description: Verify that all sensitive data created and processed by the application has been identified, and ensure that a policy is in place on how to deal with sensitive data. ([C8](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 8.3.4
+parent: '8_3'
+links:
+  demonstrates:
+    - CWE-200
+elementType: requirement

@@ -1,0 +1,9 @@
+id: d78d4d9c-8e8f-4de1-ac86-96afa7dd67b0
+name: 8.3.6
+description: Verify that sensitive information contained in memory is overwritten as soon as it is no longer required to mitigate memory dumping attacks, using zeroes or random data.
+externalId: 8.3.6
+parent: '8_3'
+links:
+  demonstrates:
+    - CWE-226
+elementType: requirement

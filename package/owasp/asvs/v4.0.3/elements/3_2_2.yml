@@ -1,0 +1,9 @@
+id: 3774dcae-ecd8-44b6-9caa-8521dfdd25ed
+name: 3.2.2
+description: Verify that session tokens possess at least 64 bits of entropy. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.2.2
+parent: '3_2'
+links:
+  demonstrates:
+    - CWE-331
+elementType: requirement

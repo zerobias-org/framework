@@ -1,0 +1,9 @@
+id: 4007e03b-a4ff-4de4-943f-fe8886dc1b6a
+name: 1.14.2
+description: Verify that binary signatures, trusted connections, and verified endpoints are used to deploy binaries to remote devices.
+externalId: 1.14.2
+parent: '1_14'
+links:
+  demonstrates:
+    - CWE-494
+elementType: requirement

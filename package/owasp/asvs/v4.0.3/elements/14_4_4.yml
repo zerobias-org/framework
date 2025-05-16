@@ -1,0 +1,9 @@
+id: 9d6f318a-185c-4fe6-b97f-fd581eaa3452
+name: 14.4.4
+description: 'Verify that all responses contain a X-Content-Type-Options: nosniff header.'
+externalId: 14.4.4
+parent: '14_4'
+links:
+  demonstrates:
+    - CWE-116
+elementType: requirement

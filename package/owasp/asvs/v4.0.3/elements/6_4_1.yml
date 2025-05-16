@@ -1,0 +1,9 @@
+id: b94b68b0-ee14-4d5b-a833-f52213aff0b9
+name: 6.4.1
+description: Verify that a secrets management solution such as a key vault is used to securely create, store, control access to and destroy secrets. ([C8](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 6.4.1
+parent: '6_4'
+links:
+  demonstrates:
+    - CWE-798
+elementType: requirement

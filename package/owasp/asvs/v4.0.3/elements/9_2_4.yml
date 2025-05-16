@@ -1,0 +1,9 @@
+id: 1134be66-88ed-4307-90a6-b8e55ecfe9da
+name: 9.2.4
+description: Verify that proper certification revocation, such as Online Certificate Status Protocol (OCSP) Stapling, is enabled and configured.
+externalId: 9.2.4
+parent: '9_2'
+links:
+  demonstrates:
+    - CWE-299
+elementType: requirement

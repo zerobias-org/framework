@@ -1,0 +1,9 @@
+id: cedef409-9cb4-4a9f-8bfb-02562b605e21
+name: 2.9.2
+description: Verify that the challenge nonce is at least 64 bits in length, and statistically unique or unique over the lifetime of the cryptographic device.
+externalId: 2.9.2
+parent: '2_9'
+links:
+  demonstrates:
+    - CWE-330
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 19cef1b9-fbc6-46e8-af6f-857d82f68abe
+name: 5.2.6
+description: Verify that the application protects against SSRF attacks, by validating or sanitizing untrusted data or HTTP file metadata, such as filenames and URL input fields, and uses allow lists of protocols, domains, paths and ports.
+externalId: 5.2.6
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-918
+elementType: requirement

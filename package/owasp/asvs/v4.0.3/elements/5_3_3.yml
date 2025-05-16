@@ -1,0 +1,9 @@
+id: 7b49da2c-cc28-43f5-b3d2-49bd92b678c4
+name: 5.3.3
+description: Verify that context-aware, preferably automated - or at worst, manual - output escaping protects against reflected, stored, and DOM based XSS. ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.3
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-79
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 9b8bd0c6-cc56-4a23-8828-8c59da470501
+name: 7.4.1
+description: Verify that a generic message is shown when an unexpected or security sensitive error occurs, potentially with a unique ID which support personnel can use to investigate. ([C10](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.4.1
+parent: '7_4'
+links:
+  demonstrates:
+    - CWE-210
+elementType: requirement

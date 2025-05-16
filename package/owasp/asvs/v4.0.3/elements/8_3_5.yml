@@ -1,0 +1,9 @@
+id: fa84a9f5-9e2e-4938-a8b2-05ac2e94f356
+name: 8.3.5
+description: Verify accessing sensitive data is audited (without logging the sensitive data itself), if the data is collected under relevant data protection directives or where logging of access is required.
+externalId: 8.3.5
+parent: '8_3'
+links:
+  demonstrates:
+    - CWE-532
+elementType: requirement

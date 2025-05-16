@@ -1,0 +1,9 @@
+id: 6d5f85c2-b5f7-4448-81fe-4b242302a417
+name: 11.1.1
+description: Verify that the application will only process business logic flows for the same user in sequential step order and without skipping steps.
+externalId: 11.1.1
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-841
+elementType: requirement

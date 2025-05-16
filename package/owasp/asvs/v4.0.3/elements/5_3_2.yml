@@ -1,0 +1,9 @@
+id: 9df4c271-efb9-4c88-9af2-d1e2fcfaf1c3
+name: 5.3.2
+description: Verify that output encoding preserves the user's chosen character set and locale, such that any Unicode character point is valid and safely handled. ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.2
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-176
+elementType: requirement

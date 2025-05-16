@@ -1,0 +1,9 @@
+id: fb3e37ef-8b77-44a8-a87c-98c5b3ee1105
+name: 13.1.5
+description: Verify that requests containing unexpected or missing content types are rejected with appropriate headers (HTTP response status 406 Unacceptable or 415 Unsupported Media Type).
+externalId: 13.1.5
+parent: '13_1'
+links:
+  demonstrates:
+    - CWE-434
+elementType: requirement

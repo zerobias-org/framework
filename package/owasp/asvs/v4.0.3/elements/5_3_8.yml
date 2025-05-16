@@ -1,0 +1,9 @@
+id: eb7d2446-87ef-4751-92fc-f13387a99758
+name: 5.3.8
+description: Verify that the application protects against OS command injection and that operating system calls use parameterized OS queries or use contextual command line output encoding. ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.8
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-78
+elementType: requirement

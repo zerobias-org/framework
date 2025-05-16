@@ -1,0 +1,9 @@
+id: 8b61de59-9994-4c9b-9faa-cced6c292ae7
+name: 14.2.4
+description: Verify that third party components come from pre-defined, trusted and continually maintained repositories. ([C2](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 14.2.4
+parent: '14_2'
+links:
+  demonstrates:
+    - CWE-829
+elementType: requirement

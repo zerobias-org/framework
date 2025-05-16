@@ -1,0 +1,9 @@
+id: a1f12d46-23dc-40d4-bc86-314fa71f8d9d
+name: 3.4.4
+description: Verify that cookie-based session tokens use the "__Host-" prefix so cookies are only sent to the host that initially set the cookie.
+externalId: 3.4.4
+parent: '3_4'
+links:
+  demonstrates:
+    - CWE-16
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 36e4938b-b9e9-4b17-87d9-8828791b4c03
+name: 5.5.1
+description: Verify that serialized objects use integrity checks or are encrypted to prevent hostile object creation or data tampering. ([C5](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.5.1
+parent: '5_5'
+links:
+  demonstrates:
+    - CWE-502
+elementType: requirement

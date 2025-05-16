@@ -1,0 +1,9 @@
+id: c1721630-a700-4ccb-83fb-fc6d793ffbc7
+name: 7.2.2
+description: Verify that all access control decisions can be logged and all failed decisions are logged. This should include requests with relevant metadata needed for security investigations.
+externalId: 7.2.2
+parent: '7_2'
+links:
+  demonstrates:
+    - CWE-285
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 9f0ac564-ac5d-4e8c-8217-9f1e02865d54
+name: 10.2.1
+description: Verify that the application source code and third party libraries do not contain unauthorized phone home or data collection capabilities. Where such functionality exists, obtain the user's permission for it to operate before collecting any data.
+externalId: 10.2.1
+parent: '10_2'
+links:
+  demonstrates:
+    - CWE-359
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 4845fa26-0369-461e-b83d-62c11f8a7fbf
+name: 5.2.2
+description: Verify that unstructured data is sanitized to enforce safety measures such as allowed characters and length.
+externalId: 5.2.2
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-138
+elementType: requirement

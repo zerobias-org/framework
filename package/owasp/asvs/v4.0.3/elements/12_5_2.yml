@@ -1,0 +1,9 @@
+id: 3e5db156-5e22-46b2-8cf6-37994043fc9e
+name: 12.5.2
+description: Verify that direct requests to uploaded files will never be executed as HTML/JavaScript content.
+externalId: 12.5.2
+parent: '12_5'
+links:
+  demonstrates:
+    - CWE-434
+elementType: requirement

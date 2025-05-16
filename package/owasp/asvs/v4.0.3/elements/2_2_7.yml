@@ -1,0 +1,9 @@
+id: 54d53502-d37e-49d7-9235-9dadbaac6845
+name: 2.2.7
+description: Verify intent to authenticate by requiring the entry of an OTP token or user-initiated action such as a button press on a FIDO hardware key.
+externalId: 2.2.7
+parent: '2_2'
+links:
+  demonstrates:
+    - CWE-308
+elementType: requirement

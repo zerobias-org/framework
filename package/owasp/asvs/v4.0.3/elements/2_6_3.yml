@@ -1,0 +1,9 @@
+id: 7b20ace1-ad72-43ff-bfee-dd364ea8b15a
+name: 2.6.3
+description: Verify that lookup secrets are resistant to offline attacks, such as predictable values.
+externalId: 2.6.3
+parent: '2_6'
+links:
+  demonstrates:
+    - CWE-310
+elementType: requirement

@@ -1,0 +1,43 @@
+{
+  "name": "@zerobias-org/framework-owasp-asvs-v4.0.3",
+  "version": "1.0.0",
+  "description": "OWASP ASVS v4.0.3 framework",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/owasp/asvs/v4.0.3/"
+  },
+  "auditmation": {
+    "package": "owasp.asvs.v4_0_3.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "0.5.4"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "elements/**",
+    "baselines/**",
+    "index.yml"
+  ],
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  },
+  "devDependencies": {
+    "@auditmation/types-core-js": "^4.7.3",
+    "@auditmation/util-logger": "^4.0.9",
+    "@types/js-yaml": "^4.0.9"
+  },
+  "dependencies": {
+    "@auditlogic/suite-owasp-asvs": "^1.0.0"
+  }
+}

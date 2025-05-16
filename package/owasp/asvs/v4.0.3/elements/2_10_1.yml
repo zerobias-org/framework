@@ -1,0 +1,9 @@
+id: 27905fec-f6a6-4a65-85b0-2be5f54fc6bc
+name: 2.10.1
+description: Verify that intra-service secrets do not rely on unchanging credentials such as passwords, API keys or shared accounts with privileged access.
+externalId: 2.10.1
+parent: '2_10'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

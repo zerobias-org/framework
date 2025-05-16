@@ -1,0 +1,9 @@
+id: 3b061cc7-14ac-462e-8f70-dad0e5e83571
+name: 14.1.2
+description: Verify that compiler flags are configured to enable all available buffer overflow protections and warnings, including stack randomization, data execution prevention, and to break the build if an unsafe pointer, memory, format string, integer, or string operations are found.
+externalId: 14.1.2
+parent: '14_1'
+links:
+  demonstrates:
+    - CWE-120
+elementType: requirement

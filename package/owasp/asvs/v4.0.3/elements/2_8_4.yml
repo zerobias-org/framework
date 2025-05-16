@@ -1,0 +1,9 @@
+id: 55f56afe-b7b6-47fa-9c15-3d67c7c20831
+name: 2.8.4
+description: Verify that time-based OTP can be used only once within the validity period.
+externalId: 2.8.4
+parent: '2_8'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

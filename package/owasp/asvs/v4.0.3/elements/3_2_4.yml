@@ -1,0 +1,9 @@
+id: 8c070b31-260b-470b-938b-efae0f847135
+name: 3.2.4
+description: Verify that session tokens are generated using approved cryptographic algorithms. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.2.4
+parent: '3_2'
+links:
+  demonstrates:
+    - CWE-331
+elementType: requirement

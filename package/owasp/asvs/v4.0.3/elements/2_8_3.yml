@@ -1,0 +1,9 @@
+id: 944ea702-1d8b-4faf-aeb3-a1f7c8600487
+name: 2.8.3
+description: Verify that approved cryptographic algorithms are used in the generation, seeding, and verification of OTPs.
+externalId: 2.8.3
+parent: '2_8'
+links:
+  demonstrates:
+    - CWE-326
+elementType: requirement

@@ -1,0 +1,9 @@
+id: aab2fb1b-4947-45a4-91e5-b9eeebbbd487
+name: 10.1.1
+description: Verify that a code analysis tool is in use that can detect potentially malicious code, such as time functions, unsafe file operations and network connections.
+externalId: 10.1.1
+parent: '10_1'
+links:
+  demonstrates:
+    - CWE-749
+elementType: requirement

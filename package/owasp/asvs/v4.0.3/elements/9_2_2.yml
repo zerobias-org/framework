@@ -1,0 +1,9 @@
+id: de0a9217-5fc8-40bd-9748-33e4e77d1d89
+name: 9.2.2
+description: Verify that encrypted communications such as TLS is used for all inbound and outbound connections, including for management ports, monitoring, authentication, API, or web service calls, database, cloud, serverless, mainframe, external, and partner connections. The server must not fall back to insecure or unencrypted protocols.
+externalId: 9.2.2
+parent: '9_2'
+links:
+  demonstrates:
+    - CWE-319
+elementType: requirement

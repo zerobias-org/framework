@@ -1,0 +1,9 @@
+id: dce0a027-a140-4dd7-8f42-47b38b6d9f59
+name: 12.3.2
+description: Verify that user-submitted filename metadata is validated or ignored to prevent the disclosure, creation, updating or removal of local files (LFI).
+externalId: 12.3.2
+parent: '12_3'
+links:
+  demonstrates:
+    - CWE-73
+elementType: requirement

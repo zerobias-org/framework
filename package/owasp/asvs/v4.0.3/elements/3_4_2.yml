@@ -1,0 +1,9 @@
+id: 721a3d35-561a-44c0-a12a-3eaf2659209d
+name: 3.4.2
+description: Verify that cookie-based session tokens have the 'HttpOnly' attribute set. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.4.2
+parent: '3_4'
+links:
+  demonstrates:
+    - CWE-1004
+elementType: requirement

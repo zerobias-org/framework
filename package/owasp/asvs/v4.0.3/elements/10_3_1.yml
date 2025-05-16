@@ -1,0 +1,9 @@
+id: 4e760d09-5ca4-4549-98d0-59fad0fa1aa3
+name: 10.3.1
+description: Verify that if the application has a client or server auto-update feature, updates should be obtained over secure channels and digitally signed. The update code must validate the digital signature of the update before installing or executing the update.
+externalId: 10.3.1
+parent: '10_3'
+links:
+  demonstrates:
+    - CWE-16
+elementType: requirement

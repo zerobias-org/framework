@@ -1,0 +1,9 @@
+id: 51dba009-9095-4ed4-9072-8351d56e83d3
+name: 3.4.3
+description: Verify that cookie-based session tokens utilize the 'SameSite' attribute to limit exposure to cross-site request forgery attacks. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.4.3
+parent: '3_4'
+links:
+  demonstrates:
+    - CWE-1275
+elementType: requirement

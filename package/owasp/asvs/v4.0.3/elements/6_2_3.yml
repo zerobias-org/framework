@@ -1,0 +1,9 @@
+id: 8f89c7dc-3676-4591-b3d2-81aae6ed7c8c
+name: 6.2.3
+description: Verify that encryption initialization vector, cipher configuration, and block modes are configured securely using the latest advice.
+externalId: 6.2.3
+parent: '6_2'
+links:
+  demonstrates:
+    - CWE-326
+elementType: requirement

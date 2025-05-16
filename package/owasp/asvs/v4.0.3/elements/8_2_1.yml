@@ -1,0 +1,9 @@
+id: 7ebecbe3-ed5a-410e-b5d4-2d13728c5a9b
+name: 8.2.1
+description: Verify the application sets sufficient anti-caching headers so that sensitive data is not cached in modern browsers.
+externalId: 8.2.1
+parent: '8_2'
+links:
+  demonstrates:
+    - CWE-525
+elementType: requirement
