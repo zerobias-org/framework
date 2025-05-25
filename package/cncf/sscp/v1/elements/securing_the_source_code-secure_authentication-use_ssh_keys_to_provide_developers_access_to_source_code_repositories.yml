@@ -1,0 +1,18 @@
+id: 2e64bf55-f4f1-429c-83f5-5602842e3f3e
+name: >-
+  Securing the Source Code-Secure Authentication-Use SSH keys to provide
+  developers access to source code repositories
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+
+
+  Developers contributing source code require a non-interactive way to access
+  source code repositories from their development tools
+elementType: control
+externalId: >-
+  Securing the Source Code-Secure Authentication-Use SSH keys to provide
+  developers access to source code repositories
+aliases: []
+parent: securing_the_source_code-secure_authentication

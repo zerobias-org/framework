@@ -1,0 +1,16 @@
+id: 4113dcb4-46c2-40d7-b96c-0b012bce06af
+name: >-
+  Securing Deployments-Verification-Ensure clients can verify the "freshness" of
+  files
+description: >-
+  _Assurance categories: Moderate to high and risk categories: Moderate to high_
+
+
+  Since software updates are used to deliver bug fixes and security patches, it
+  is important for clients to have access to the latest available versions
+elementType: control
+externalId: >-
+  Securing Deployments-Verification-Ensure clients can verify the "freshness" of
+  files
+aliases: []
+parent: securing_deployments-verification

@@ -1,0 +1,17 @@
+id: 5c4619c8-681c-4b32-a5fa-8e88e0feb3ce
+name: >-
+  Securing Build Pipelines-Verification-Validate runtime security of build
+  workers
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  Out-of-band verification of runtime environment security, as defined by
+  execution of policies using tools such as seccomp, AppArmor, and SELinux,
+  provides defense in depth against attacks on build infrastructure
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Verification-Validate runtime security of build
+  workers
+aliases: []
+parent: securing_build_pipelines-verification

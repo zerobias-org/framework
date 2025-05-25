@@ -1,0 +1,16 @@
+id: e4c234eb-42e2-477c-b6f7-4d92f6fa9aea
+name: >-
+  Securing Build Pipelines-Controlled Environments-Segregate the Duties of Each
+  Build Worker
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  When planning what the build worker will be responsible for, consider
+  segregation of duties within the domain of a particular build
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Controlled Environments-Segregate the Duties of Each
+  Build Worker
+aliases: []
+parent: securing_build_pipelines-controlled_environments

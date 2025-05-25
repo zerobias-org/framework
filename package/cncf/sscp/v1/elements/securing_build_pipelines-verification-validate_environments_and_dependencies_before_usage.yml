@@ -1,0 +1,16 @@
+id: ee76a4f4-c59e-46c8-a9b3-c6395eacf3b7
+name: >-
+  Securing Build Pipelines-Verification-Validate environments and dependencies
+  before usage
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  The build environment's sources and dependencies must come from a secure,
+  trusted source of truth
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Verification-Validate environments and dependencies
+  before usage
+aliases: []
+parent: securing_build_pipelines-verification

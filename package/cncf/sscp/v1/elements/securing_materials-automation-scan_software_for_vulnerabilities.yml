@@ -1,0 +1,13 @@
+id: 969152e3-b2b0-40a3-ab3a-ad5c73932354
+name: Securing Materials-Automation-Scan software for vulnerabilities
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  Before allowing software dependencies into the system they should be scanned
+  and evaluated to ensure the vulnerabilities they bring are within the risk
+  limits of the product's assurance level
+elementType: control
+externalId: Securing Materials-Automation-Scan software for vulnerabilities
+aliases: []
+parent: securing_materials-automation

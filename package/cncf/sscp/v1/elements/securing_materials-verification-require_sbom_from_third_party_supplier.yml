@@ -1,0 +1,13 @@
+id: 1a33cbfb-1058-4c7c-8f3c-4bec2c35d6aa
+name: Securing Materials-Verification-Require SBOM from third party supplier
+description: >-
+  _Assurance categories: High and risk categories: high_
+
+
+  Where possible, vendors should be required to provide Software Bills of
+  Materials (SBOMs) containing the explicit details of the software and versions
+  used within the supplied product
+elementType: control
+externalId: Securing Materials-Verification-Require SBOM from third party supplier
+aliases: []
+parent: securing_materials-verification

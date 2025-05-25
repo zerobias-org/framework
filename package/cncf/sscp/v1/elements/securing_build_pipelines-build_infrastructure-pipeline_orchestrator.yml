@@ -1,0 +1,9 @@
+id: e3718b40-d389-4ad2-a049-505c801fad7c
+name: Securing Build Pipelines-Build Infrastructure-Pipeline Orchestrator
+description: >-
+  The pipeline orchestrator is the part of the CI/CD pipeline that decides which
+  steps in the pipeline should run and on what infrastructure
+elementType: control
+externalId: Securing Build Pipelines-Build Infrastructure-Pipeline Orchestrator
+aliases: []
+parent: securing_build_pipelines-build_infrastructure

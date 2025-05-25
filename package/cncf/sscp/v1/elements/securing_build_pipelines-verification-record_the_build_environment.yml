@@ -1,0 +1,13 @@
+id: 2ec7f16b-3e32-4b81-84f0-4343ff4f65fe
+name: Securing Build Pipelines-Verification-Record The Build Environment
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  In order to reproduce a build environment, the versions of all tools and
+  required configurations should be recorded and distributed with the software's
+  source
+elementType: control
+externalId: Securing Build Pipelines-Verification-Record The Build Environment
+aliases: []
+parent: securing_build_pipelines-verification

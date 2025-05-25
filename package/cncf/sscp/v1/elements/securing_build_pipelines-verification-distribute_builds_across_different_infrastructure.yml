@@ -1,0 +1,16 @@
+id: a77db587-525a-44aa-a8c3-e6c256f14539
+name: >-
+  Securing Build Pipelines-Verification-Distribute Builds Across Different
+  Infrastructure
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  To detect potential attacks on the build infrastructure an architecture can be
+  deployed to distribute the builds in multiple instances
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Verification-Distribute Builds Across Different
+  Infrastructure
+aliases: []
+parent: securing_build_pipelines-verification

@@ -1,0 +1,16 @@
+id: a13df211-549c-4e2e-9ce5-477b15af12cc
+name: >-
+  Securing Build Pipelines-Secure Authentication/Access-Only allow pipeline
+  modifications through "pipeline as code"
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  The pipeline configuration should be deployed through the pipeline as code and
+  should be immutable
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Secure Authentication/Access-Only allow pipeline
+  modifications through "pipeline as code"
+aliases: []
+parent: securing_build_pipelines-secure_authentication-access

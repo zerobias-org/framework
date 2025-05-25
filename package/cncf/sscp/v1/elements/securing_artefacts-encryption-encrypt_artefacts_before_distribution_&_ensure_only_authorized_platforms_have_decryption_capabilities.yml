@@ -1,0 +1,16 @@
+id: 3b7fd957-67a7-4401-9d30-2b12228a0af6
+name: >-
+  Securing Artefacts-Encryption-Encrypt artefacts before distribution & ensure
+  only authorized platforms have decryption capabilities
+description: >-
+  _Assurance category:  High and risk category: high_
+
+
+  The confidentiality of the image and its contents can be protected by
+  encrypting it
+elementType: control
+externalId: >-
+  Securing Artefacts-Encryption-Encrypt artefacts before distribution & ensure
+  only authorized platforms have decryption capabilities
+aliases: []
+parent: securing_artefacts-encryption
