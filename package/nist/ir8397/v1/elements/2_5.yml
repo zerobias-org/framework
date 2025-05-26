@@ -1,0 +1,10 @@
+id: e75bca1e-0a0b-43ac-881c-05817021f777
+name: Run with Language-Provided Checks and Protection
+description: >-
+  Programming languages, both compiled and interpreted, provide many built-in
+  checks and protections. Use such capabilities during development and in the
+  shipped software. Interpreted languages typically have significant security
+  enforcement built-in, although additional measures can be enabled.
+elementType: control
+externalId: '2.5'
+aliases: []

@@ -1,0 +1,10 @@
+id: 3ca763f2-2fc1-4fd9-9ed3-8eae1bd8ff4b
+name: Review for Hardcoded Secrets
+description: >-
+  We recommend using heuristic tools to examine the code for hardcoded passwords
+  and private encryption keys. While the primary method to reduce the chance of
+  malicious code is integrity measures, heuristic tools may assist by
+  identifying small sections of code that are suspicious.
+elementType: control
+externalId: '2.4'
+aliases: []
