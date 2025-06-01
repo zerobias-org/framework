@@ -1,0 +1,17 @@
+id: ef852cb6-d859-499b-9724-30243752a0e4
+name: >-
+  Securing the Source Code-Secure Authentication-Use short-lived/ephemeral
+  credentials for machine/service access
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  Modern SCM platforms allow the use of randomly generated short lived tokens
+  for the access management of machines and services such as CI/CD pipeline
+  agents
+elementType: control
+externalId: >-
+  Securing the Source Code-Secure Authentication-Use short-lived/ephemeral
+  credentials for machine/service access
+aliases: []
+parent: '1_4'

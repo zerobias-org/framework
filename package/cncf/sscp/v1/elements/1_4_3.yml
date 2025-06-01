@@ -1,0 +1,12 @@
+id: bfda2a78-ea88-4ae0-bd41-77140b439430
+name: Securing the Source Code-Secure Authentication-Have a Key Rotation Policy
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  Properly generated SSH keys are secured against common password attacks like
+  brute forcing
+elementType: control
+externalId: Securing the Source Code-Secure Authentication-Have a Key Rotation Policy
+aliases: []
+parent: '1_4'

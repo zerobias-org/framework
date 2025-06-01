@@ -1,0 +1,17 @@
+id: 9827ce80-43e8-4337-942e-b5588118d7b8
+name: >-
+  Securing Materials-Verification-Track dependencies between open source
+  components
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  A register should be maintained of a project's open source components,
+  dependencies and vulnerabilities to help trace any deployed artefacts with new
+  vulnerabilities
+elementType: control
+externalId: >-
+  Securing Materials-Verification-Track dependencies between open source
+  components
+aliases: []
+parent: '2_2'

@@ -1,0 +1,12 @@
+id: c3f2d4e9-c352-4c6d-9f26-782a4020a830
+name: Securing Build Pipelines-Automation-Build Workers Should be Single Use
+description: >-
+  _Assurance category: High and risk category: moderate_
+
+
+  Build Workers, the containers which perform the Build Steps, should be single
+  use
+elementType: control
+externalId: Securing Build Pipelines-Automation-Build Workers Should be Single Use
+aliases: []
+parent: '3_3'

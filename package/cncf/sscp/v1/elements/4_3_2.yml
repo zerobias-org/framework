@@ -1,0 +1,16 @@
+id: 27ce00db-cf02-496e-b543-c17d6f240292
+name: >-
+  Securing Artefacts-Controlled Environments-Build in a system for rotating and
+  revoking private keys
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  It is insufficient to cryptographically sign components being distributed and
+  assume they're protected
+elementType: control
+externalId: >-
+  Securing Artefacts-Controlled Environments-Build in a system for rotating and
+  revoking private keys
+aliases: []
+parent: '4_3'

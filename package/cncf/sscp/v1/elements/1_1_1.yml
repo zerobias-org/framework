@@ -1,0 +1,13 @@
+id: 24308071-eb90-4974-820c-329bc00cf38e
+name: Securing the Source Code-Verification-Require signed commits
+description: >-
+  _Assurance categories: Moderate to high and risk categories: Moderate to high_
+
+
+  Signing source code[^18] (commits and tags) ensures integrity and
+  non-repudiation of source code by enabling out-of-band verification of the
+  code
+elementType: control
+externalId: Securing the Source Code-Verification-Require signed commits
+aliases: []
+parent: '1_1'

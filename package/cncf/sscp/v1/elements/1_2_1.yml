@@ -1,0 +1,17 @@
+id: 86958914-04e0-45b8-9d77-870f1d24f7cc
+name: >-
+  Securing the Source Code-Automation-Prevent committing secrets to the source
+  code repository
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  Secrets such as credential files, SSH keys and access tokens or API keys
+  should not be committed to the source code repository unless encrypted prior
+  to placement[^21]
+elementType: control
+externalId: >-
+  Securing the Source Code-Automation-Prevent committing secrets to the source
+  code repository
+aliases: []
+parent: '1_2'

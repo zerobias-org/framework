@@ -1,0 +1,16 @@
+id: 58c34644-84bb-48e4-ac64-015d8278d1b4
+name: >-
+  Securing Build Pipelines-Controlled Environments-Write Output to a Separate
+  Secured Storage Repo
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  The output artefacts of Build Workers require similar security considerations
+  as the inputs and working environment
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Controlled Environments-Write Output to a Separate
+  Secured Storage Repo
+aliases: []
+parent: '3_4'
