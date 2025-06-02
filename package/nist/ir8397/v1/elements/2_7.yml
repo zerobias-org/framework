@@ -1,0 +1,10 @@
+id: f45332f4-4cb7-421e-806d-3d581ed3ea44
+name: Code-Based Test Cases
+description: >-
+  Code-based, or structural, test cases are based on the implementation.
+  Code-based test cases may also come from coverage metrics. Most code should be
+  executed during unit testing. We recommend that executing the test suite
+  achieves a minimum of 80 % statement coverage.
+elementType: control
+externalId: '2.7'
+aliases: []
