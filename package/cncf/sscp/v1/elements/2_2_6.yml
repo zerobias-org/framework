@@ -1,0 +1,12 @@
+id: 0f846f90-a68a-494a-aa19-bce67b47e298
+name: Securing Materials-Verification-Generate an immutable SBOM of the code
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  While rebuilding a software artefact, it is best practice to also generate an
+  SBOM[^33] for the software
+elementType: control
+externalId: Securing Materials-Verification-Generate an immutable SBOM of the code
+aliases: []
+parent: '2_2'

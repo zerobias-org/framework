@@ -1,0 +1,17 @@
+id: e121da51-8967-45b2-ab3a-9dff64ca98a9
+name: >-
+  Securing Build Pipelines-Controlled Environments-Ensure Software Factory has
+  minimal network connectivity.
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  The software factory should have no network connectivity other than to connect
+  to the trusted sources of hardened source code, the dependency repository and
+  code signing infrastructure
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Controlled Environments-Ensure Software Factory has
+  minimal network connectivity.
+aliases: []
+parent: '3_4'

@@ -1,0 +1,17 @@
+id: cc39af48-f4a7-42fa-885d-b98a1698318b
+name: >-
+  Securing Build Pipelines-Verification-Validate Build artefacts through
+  verifiably reproducible builds
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  A deterministic build produces equivalent outputs when given the same inputs
+  and enables us to detect unintended changes (whether malicious, such as
+  malware and backdoors, or accidental)
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Verification-Validate Build artefacts through
+  verifiably reproducible builds
+aliases: []
+parent: '3_2'

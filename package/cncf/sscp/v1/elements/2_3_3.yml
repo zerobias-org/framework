@@ -1,0 +1,16 @@
+id: 8556eb4c-d176-46af-8cc6-70a14a5433dc
+name: >-
+  Securing Materials-Automation-Run software composition analysis on ingested
+  software
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  At a minimum a SCA tool should be run against any dependencies used within the
+  program being built
+elementType: control
+externalId: >-
+  Securing Materials-Automation-Run software composition analysis on ingested
+  software
+aliases: []
+parent: '2_3'

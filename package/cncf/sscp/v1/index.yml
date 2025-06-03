@@ -1,0 +1,35 @@
+id: e7d8dd08-028a-4619-a29e-aeaf502b47cc
+name: CNCF Security Software Supply Chain Best Practices
+description: The CNCF Security Software Supply Chain Best Practices is a set of guidelines and recommendations for securing the software supply chain in cloud-native environments. It aims to help organizations identify and mitigate risks associated with software development, deployment, and maintenance.
+standardType: framework
+standardCategory: clinical
+code: cncf_sscp_v1
+externalId: CNCF SSCP v1
+url: https://tag-security.cncf.io/community/working-groups/supply-chain-security/supply-chain-security-paper/
+version: 1
+status: approved
+external: true
+internal: true
+elementTypes: 
+  - id: 266ce59e-c202-4e5e-97f8-9a2031dd71c4
+    code: section
+    name: Section
+    description: Section
+  - id: 4b0f3a2c-1d5e-4f8b-9a6c-7d8e5f1c2b3d
+    code: group
+    name: Group
+    description: Group
+  - id: e567eacc-b3b6-46a2-bd54-ac9a46db9a44
+    code: control
+    name: Control
+    description: Control
+mappingTypes: 
+  - group
+  - control
+tags: []
+aliases: 
+  - "CNCF SSCP v1"
+  - "CNCF Security Software Supply Chain Best Practices"
+  - "CNCF SSCP"
+  - "CNCF Software Supply Chain Best Practices"
+  
