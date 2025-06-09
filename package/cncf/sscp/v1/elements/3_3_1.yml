@@ -1,0 +1,18 @@
+id: b49dbbd3-80bf-4ed5-bd74-5486aeb9ec5b
+name: >-
+  Securing Build Pipelines-Automation-Build and related continuous
+  integration/continuous delivery steps should all be automated through a
+  pipeline defined as code
+description: >-
+  _Assurance categories: Moderate to high and risk category: Moderate to high_
+
+
+  Steps such as build, linting, scanning, and validation should be clearly
+  defined in code that describes a pipeline
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Automation-Build and related continuous
+  integration/continuous delivery steps should all be automated through a
+  pipeline defined as code
+aliases: []
+parent: '3_3'

@@ -1,0 +1,20 @@
+id: cfdb68e0-58b7-412d-a754-a9ea4373424d
+name: >-
+  Securing Materials-Verification-Define and prioritize trusted package managers
+  and repositories
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  While there are public repositories and package managers that sign packages
+  and provide the means to verify those signatures, high assurance environments
+  should minimize ingesting
+
+
+  from public repositories
+elementType: control
+externalId: >-
+  Securing Materials-Verification-Define and prioritize trusted package managers
+  and repositories
+aliases: []
+parent: '2_2'

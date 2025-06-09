@@ -1,0 +1,44 @@
+{
+  "name": "@zerobias-org/framework-nist-label-2022",
+  "version": "1.0.0-rc.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-nist-label-2022",
+      "version": "1.0.0-rc.0",
+      "license": "ISC",
+      "dependencies": {
+        "@auditlogic/suite-nist-label": "latest"
+      }
+    },
+    "node_modules/@auditlogic/suite-nist-label": {
+      "version": "1.0.0",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-nist-label/-/91e7239b3820a7f2ce842790b1d8bd99e90e256e",
+      "integrity": "sha512-AHNtOUHN8xyg9okQ+p9ZmJyO7gmfZcexP0QQ+gVv664qcfl3mdeBI51M+rmq2pN5FuLY6O/bcgAYBHitM+jQFw==",
+      "dependencies": {
+        "@auditlogic/vendor-nist": "^1.0.7"
+      }
+    },
+    "node_modules/@auditlogic/vendor-nist": {
+      "version": "1.0.7",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-nist/-/69cb07ddb552798b9187b749b3bfeb5359111187",
+      "integrity": "sha512-Bq9uno0v6B9pmZhxfh3veYvLeZDSyx6O0RgrPTxwnTHoESA4Zj93sBKA0cm39t8Z/3sP9ZTZ9vOz/D/l8LVo8g=="
+    }
+  },
+  "dependencies": {
+    "@auditlogic/suite-nist-label": {
+      "version": "1.0.0",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-nist-label/-/91e7239b3820a7f2ce842790b1d8bd99e90e256e",
+      "integrity": "sha512-AHNtOUHN8xyg9okQ+p9ZmJyO7gmfZcexP0QQ+gVv664qcfl3mdeBI51M+rmq2pN5FuLY6O/bcgAYBHitM+jQFw==",
+      "requires": {
+        "@auditlogic/vendor-nist": "^1.0.7"
+      }
+    },
+    "@auditlogic/vendor-nist": {
+      "version": "1.0.7",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-nist/-/69cb07ddb552798b9187b749b3bfeb5359111187",
+      "integrity": "sha512-Bq9uno0v6B9pmZhxfh3veYvLeZDSyx6O0RgrPTxwnTHoESA4Zj93sBKA0cm39t8Z/3sP9ZTZ9vOz/D/l8LVo8g=="
+    }
+  }
+}

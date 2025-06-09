@@ -1,0 +1,99 @@
+{
+  "name": "@zerobias-org/framework-nist-ir8397-v1",
+  "version": "1.0.0-rc.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-nist-ir8397-v1",
+      "version": "1.0.0-rc.0",
+      "license": "ISC",
+      "dependencies": {
+        "@auditlogic/suite-nist-ir8397": "^1.0.0"
+      },
+      "devDependencies": {
+        "csv-parser": "^3.2.0",
+        "js-yaml": "^4.1.0"
+      }
+    },
+    "node_modules/@auditlogic/suite-nist-ir8397": {
+      "version": "1.0.0",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-nist-ir8397/-/21266f96fc8690725de5a2894bd73198f5557e9a",
+      "integrity": "sha512-r/d5mqqnb3NX9gE2zSNmcBMwGM5abtKYIJnITz1+6VKg5AFLbU1iDqisgnKKAa7gthg45cEb+cpC/Nh1DDSazA==",
+      "dependencies": {
+        "@auditlogic/vendor-nist": "^1.0.7"
+      }
+    },
+    "node_modules/@auditlogic/vendor-nist": {
+      "version": "1.0.7",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-nist/-/69cb07ddb552798b9187b749b3bfeb5359111187",
+      "integrity": "sha512-Bq9uno0v6B9pmZhxfh3veYvLeZDSyx6O0RgrPTxwnTHoESA4Zj93sBKA0cm39t8Z/3sP9ZTZ9vOz/D/l8LVo8g=="
+    },
+    "node_modules/argparse": {
+      "version": "2.0.1",
+      "resolved": "https://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz",
+      "integrity": "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==",
+      "dev": true
+    },
+    "node_modules/csv-parser": {
+      "version": "3.2.0",
+      "resolved": "https://registry.npmjs.org/csv-parser/-/csv-parser-3.2.0.tgz",
+      "integrity": "sha512-fgKbp+AJbn1h2dcAHKIdKNSSjfp43BZZykXsCjzALjKy80VXQNHPFJ6T9Afwdzoj24aMkq8GwDS7KGcDPpejrA==",
+      "dev": true,
+      "bin": {
+        "csv-parser": "bin/csv-parser"
+      },
+      "engines": {
+        "node": ">= 10"
+      }
+    },
+    "node_modules/js-yaml": {
+      "version": "4.1.0",
+      "resolved": "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz",
+      "integrity": "sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==",
+      "dev": true,
+      "dependencies": {
+        "argparse": "^2.0.1"
+      },
+      "bin": {
+        "js-yaml": "bin/js-yaml.js"
+      }
+    }
+  },
+  "dependencies": {
+    "@auditlogic/suite-nist-ir8397": {
+      "version": "1.0.0",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-nist-ir8397/-/21266f96fc8690725de5a2894bd73198f5557e9a",
+      "integrity": "sha512-r/d5mqqnb3NX9gE2zSNmcBMwGM5abtKYIJnITz1+6VKg5AFLbU1iDqisgnKKAa7gthg45cEb+cpC/Nh1DDSazA==",
+      "requires": {
+        "@auditlogic/vendor-nist": "^1.0.7"
+      }
+    },
+    "@auditlogic/vendor-nist": {
+      "version": "1.0.7",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-nist/-/69cb07ddb552798b9187b749b3bfeb5359111187",
+      "integrity": "sha512-Bq9uno0v6B9pmZhxfh3veYvLeZDSyx6O0RgrPTxwnTHoESA4Zj93sBKA0cm39t8Z/3sP9ZTZ9vOz/D/l8LVo8g=="
+    },
+    "argparse": {
+      "version": "2.0.1",
+      "resolved": "https://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz",
+      "integrity": "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==",
+      "dev": true
+    },
+    "csv-parser": {
+      "version": "3.2.0",
+      "resolved": "https://registry.npmjs.org/csv-parser/-/csv-parser-3.2.0.tgz",
+      "integrity": "sha512-fgKbp+AJbn1h2dcAHKIdKNSSjfp43BZZykXsCjzALjKy80VXQNHPFJ6T9Afwdzoj24aMkq8GwDS7KGcDPpejrA==",
+      "dev": true
+    },
+    "js-yaml": {
+      "version": "4.1.0",
+      "resolved": "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz",
+      "integrity": "sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==",
+      "dev": true,
+      "requires": {
+        "argparse": "^2.0.1"
+      }
+    }
+  }
+}

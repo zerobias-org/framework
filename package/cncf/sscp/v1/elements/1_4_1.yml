@@ -1,0 +1,16 @@
+id: ed0cb7ff-1509-4876-b173-17ea44af2643
+name: >-
+  Securing the Source Code-Secure Authentication-Enforce MFA for accessing
+  source code repositories
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  Multi-factor authentication (MFA) should be mandated and enforced at the
+  source code repository level for any software project
+elementType: control
+externalId: >-
+  Securing the Source Code-Secure Authentication-Enforce MFA for accessing
+  source code repositories
+aliases: []
+parent: '1_4'

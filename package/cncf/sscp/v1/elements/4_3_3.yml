@@ -1,0 +1,17 @@
+id: 875c9e4e-6dbb-4573-9bcc-021e552765c7
+name: >-
+  Securing Artefacts-Controlled Environments-Use a container registry that
+  supports OCI image-spec images
+description: >-
+  _Assurance category: High and risk category: high_
+
+
+  An internal image registry should be deployed and configured to support
+  internal artefact distribution with the security properties described in this
+  section
+elementType: control
+externalId: >-
+  Securing Artefacts-Controlled Environments-Use a container registry that
+  supports OCI image-spec images
+aliases: []
+parent: '4_3'
