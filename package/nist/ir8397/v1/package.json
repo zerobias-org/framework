@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-nist-ir8397-v1",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "NIST IR 8397 v1 Framework",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -29,7 +29,7 @@
     "package": "nist.ir8397.v1.framework"
   },
   "dependencies": {
-    "@auditlogic/suite-nist-ir8397": "^1.0.0"
+    "@auditlogic/suite-nist-ir8397": "latest"
   },
   "devDependencies": {
     "csv-parser": "^3.2.0",

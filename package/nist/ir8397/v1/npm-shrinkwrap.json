@@ -1,15 +1,15 @@
 {
   "name": "@zerobias-org/framework-nist-ir8397-v1",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-nist-ir8397-v1",
-      "version": "1.0.0-rc.0",
+      "version": "1.0.0",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/suite-nist-ir8397": "^1.0.0"
+        "@auditlogic/suite-nist-ir8397": "latest"
       },
       "devDependencies": {
         "csv-parser": "^3.2.0",

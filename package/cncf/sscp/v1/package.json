@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-cncf-sscp-v1",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "CNCF SSCP v1 Framework",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -34,6 +34,6 @@
     "md-2-json": "^2.0.0"
   },
   "dependencies": {
-    "markdown-json": "^1.6.1"
+    "markdown-json": "latest"
   }
 }
