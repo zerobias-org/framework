@@ -1,0 +1,25 @@
+id: ca53bc9b-36de-443a-8ffc-212d3afda336
+name: NIST IR 8397
+description: NIST IR 8397 is a framework that provides guidance on the implementation of cybersecurity controls for federal information systems.
+standardType: framework
+standardCategory: clinical
+code: nist_ir8397_v1
+externalId: IR-8397
+url: https://csrc.nist.gov/pubs/ir/8397/final
+version: v1
+status: approved
+external: true
+internal: true
+elementTypes:
+  - id: 3e076b94-0185-43c5-b82d-037a3d4dc006
+    name: Control
+    code: control
+    description: A cybersecurity control that is part of the NIST IR 8397 framework.
+mappingTypes:
+  - control
+tags: []
+aliases: 
+  - nist-ir-8397
+  - nist-ir8397
+  - ir-8397
+  - ir8397

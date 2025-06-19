@@ -1,0 +1,12 @@
+id: 148fa252-5f3d-464a-a23c-e6e92a2af82d
+name: Securing Artefacts-Automation-Use TUF/Notary to manage signing of artefacts
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  The CNCF maintains the Notary project, based on TUF, to enable the creation
+  and interaction of trusted collections
+elementType: control
+externalId: Securing Artefacts-Automation-Use TUF/Notary to manage signing of artefacts
+aliases: []
+parent: '4_2'

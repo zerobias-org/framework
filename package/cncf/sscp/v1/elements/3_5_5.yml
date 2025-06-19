@@ -1,0 +1,17 @@
+id: a4dc1b52-d0a7-416c-9449-c5d0991278ab
+name: >-
+  Securing Build Pipelines-Secure Authentication/Access-Deploy monitoring tools
+  to software factory to detect malicious behaviour
+description: >-
+  _Assurance categories: Moderate to high and risk categories: moderate to high_
+
+
+  Additional security techniques should be integrated into the software factory
+  itself to monitor for suspicious or unexpected activity such as attempts to
+  connect out to suspicious endpoints during the build process
+elementType: control
+externalId: >-
+  Securing Build Pipelines-Secure Authentication/Access-Deploy monitoring tools
+  to software factory to detect malicious behaviour
+aliases: []
+parent: '3_5'

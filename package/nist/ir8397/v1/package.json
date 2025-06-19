@@ -1,0 +1,38 @@
+{
+  "name": "@zerobias-org/framework-nist-ir8397-v1",
+  "version": "1.0.0-rc.2",
+  "description": "NIST IR 8397 v1 Framework",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/standard.git",
+    "directory": "package/nist/ir8397/v1/"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines/**",
+    "elements/**"
+  ],
+  "auditmation": {
+    "dataloader-version": "3.29.26",
+    "import-artifact": "framework",
+    "package": "nist.ir8397.v1.framework"
+  },
+  "dependencies": {
+    "@auditlogic/suite-nist-ir8397": "^1.0.0"
+  },
+  "devDependencies": {
+    "csv-parser": "^3.2.0",
+    "js-yaml": "^4.1.0"
+  }
+}

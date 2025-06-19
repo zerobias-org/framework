@@ -1,0 +1,16 @@
+id: 164b5e91-fd93-48c0-9337-ac4d1879507f
+name: >-
+  Securing Deployments-Verification-Ensure clients can perform Verification of
+  Artefacts and associated metadata
+description: >-
+  _Assurance categories: Moderate to high and risk categories: Moderate to high_
+
+
+  Clients receiving software artefacts from the distribution mechanism must be
+  able to verify the integrity of the downloaded files
+elementType: control
+externalId: >-
+  Securing Deployments-Verification-Ensure clients can perform Verification of
+  Artefacts and associated metadata
+aliases: []
+parent: '5_1'

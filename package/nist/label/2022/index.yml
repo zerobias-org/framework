@@ -1,0 +1,21 @@
+id: 85984297-0572-4104-9D49-0F8DFCE2206D
+name: Recommended Criteria for Cybersecurity Labeling of Consumer Software
+description: NIST Label 2022 is a framework that provides a standardized way to label and categorize cybersecurity controls. It is designed to help organizations implement and manage their cybersecurity programs effectively.
+standardType: framework
+standardCategory: clinical
+code: nist_label_2022
+externalId: NIST Label 2022
+url: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042022-1.pdf#:~:text=Description%20Practice%20PS,validity%20of%20signatures%20before%20use
+version: 2022
+status: approved
+external: true
+internal: true
+elementTypes:
+  - id: 78940ac3-0721-424f-a241-88c57fafb8c1
+    code: control
+    name: Control
+    description: A control is a safeguard or countermeasure to avoid, counteract, or minimize security risks.
+mappingTypes:
+  - control
+tags: []
+aliases: []

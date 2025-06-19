@@ -1,0 +1,10 @@
+id: 44184de0-a1c8-4248-8863-e60117130839
+name: Fuzzing
+description: >-
+  We recommend using a fuzzer, which performs automatic active testing; fuzzers
+  create huge numbers of inputs during testing. Typically, only a tiny fraction
+  of the inputs trigger code problems. These tools can try an immense number of
+  inputs with minimal human supervision.
+elementType: control
+externalId: '2.9'
+aliases: []

@@ -1,0 +1,12 @@
+id: 2b340403-b896-40a1-9e26-43a62dd3b573
+name: Threat Modeling
+description: >-
+  We recommend using threat modeling early in order to identify design-level
+  security issues and to focus verification. Threat-modeling methods create an
+  abstraction of the system, profiles of potential attackers, including their
+  goals and methods, and a catalog of potential threats. Threat modeling should
+  be done multiple times during development, especially when developing new
+  capabilities, to capture new threats and improve modeling.
+elementType: control
+externalId: '2.1'
+aliases: []

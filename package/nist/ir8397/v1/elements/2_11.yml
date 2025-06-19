@@ -1,0 +1,10 @@
+id: 9fbe2858-6e58-4e14-9014-77838986498e
+name: Check Included Software Components
+description: >-
+  Use the verification techniques recommended in this section to gain assurance
+  that included code is at least as secure as code developed locally. The
+  components of the software must be continually monitored against databases of
+  known vulnerabilities.
+elementType: control
+externalId: '2.11'
+aliases: []
