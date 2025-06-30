@@ -14,10 +14,6 @@
     "import-artifact": "framework",
     "dataloader-version": "3.6.6"
   },
-  "engines": {
-    "node": ">=16.11.0",
-    "npm": ">=8.0.0"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
