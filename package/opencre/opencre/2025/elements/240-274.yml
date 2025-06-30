@@ -1,0 +1,10 @@
+id: 15425c0d-be23-479f-a403-94bf2157bd11
+name: Log only non-sensitive data
+externalId: 240-274
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C9
+    - owasp.asvs.v4_0_3.framework/7.1.2
+    - CWE-532
+    - CAPEC-215

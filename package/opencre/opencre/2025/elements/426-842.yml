@@ -1,0 +1,34 @@
+id: 5ceb20ed-bb2a-474c-b2f9-b80734ee32fe
+name: Verify the authenticity of both headers and payload
+externalId: 426-842
+elementType: cre
+links:
+  demonstrates:
+    - CWE-345
+    - OWASP Cheat Sheets/REST Assessment Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/13.2.6
+    - OWASP Cheat Sheets/REST Security Cheat Sheet
+    - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet
+    - CWE-348
+    - CWE-349
+    - CWE-360
+    - CWE-646
+    - CWE-649
+    - CAPEC-111
+    - CAPEC-141
+    - CAPEC-142
+    - CAPEC-148
+    - CAPEC-209
+    - CAPEC-218
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388
+    - CAPEC-463
+    - CAPEC-665
+    - CAPEC-701
+    - CAPEC-73
+    - CAPEC-75
+    - CAPEC-76
+    - CAPEC-85

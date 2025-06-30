@@ -1,0 +1,23 @@
+id: bb02e9dc-a204-48d9-86db-cb66175f0b38
+name: Support subscriber-provided authentication devices
+externalId: 553-413
+elementType: cre
+links:
+  demonstrates:
+    - CWE-308
+    - NIST 800-63/6.1.3
+    - owasp.asvs.v4_0_3.framework/2.3.2
+    - CAPEC-16
+    - CAPEC-49
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-555
+    - CAPEC-560
+    - CAPEC-561
+    - CAPEC-565
+    - CAPEC-600
+    - CAPEC-644
+    - CAPEC-645
+    - CAPEC-652
+    - CAPEC-653
+    - CAPEC-70

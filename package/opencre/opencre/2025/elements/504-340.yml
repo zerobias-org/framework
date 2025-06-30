@@ -1,0 +1,18 @@
+id: 339e0b23-4556-4991-915d-e687851b46ad
+name: Encrypt sensitive data with algorithms that provide both confidentiality and integrity
+externalId: 504-340
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C8
+    - CWE-327
+    - owasp.asvs.v4_0_3.framework/8.3.7
+    - CWE-1240
+    - CWE-780
+    - CAPEC-20
+    - CAPEC-459
+    - CAPEC-473
+    - CAPEC-475
+    - CAPEC-608
+    - CAPEC-614
+    - CAPEC-97

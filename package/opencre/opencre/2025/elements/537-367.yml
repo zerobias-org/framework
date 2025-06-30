@@ -1,0 +1,8 @@
+id: a32cba7b-ab0a-4b53-8024-5bf10c902a22
+name: Enable certification revocation
+externalId: 537-367
+elementType: cre
+links:
+  demonstrates:
+    - CWE-299
+    - owasp.asvs.v4_0_3.framework/9.2.4

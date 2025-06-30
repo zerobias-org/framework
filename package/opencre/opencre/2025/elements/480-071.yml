@@ -1,0 +1,17 @@
+id: 6dae95cb-0edb-4255-9eac-2ee7676b48f5
+name: Prevent Click jacking through X-Frame-Options or CSP
+externalId: 480-071
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-clnt-09
+    - owasp.asvs.v4_0_3.framework/14.4.7
+    - CWE-1021
+    - OWASP Cheat Sheets/Content Security Policy Cheat Sheet
+    - CAPEC-103
+    - CAPEC-181
+    - CAPEC-222
+    - CAPEC-504
+    - CAPEC-506
+    - CAPEC-587
+    - CAPEC-654

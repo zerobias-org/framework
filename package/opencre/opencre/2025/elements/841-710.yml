@@ -1,0 +1,8 @@
+id: f8fdc49d-3e55-47b4-94ac-bd0f8455bd9a
+name: Log authentication decisions without exposing sensitive data
+externalId: 841-710
+elementType: cre
+links:
+  demonstrates:
+    - CWE-778
+    - owasp.asvs.v4_0_3.framework/7.2.1

@@ -1,0 +1,13 @@
+id: 7e22d747-699e-456e-884a-ab841ee0ee8b
+name: Use ephemeral secrets rather than static secrets
+externalId: 551-054
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-sess-01
+    - CWE-798
+    - OWASP Cheat Sheets/REST Security Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/3.5.2
+    - OWASP Cheat Sheets/JSON Web Token for Java Cheat Sheet
+    - CAPEC-191
+    - CAPEC-70

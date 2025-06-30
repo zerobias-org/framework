@@ -1,0 +1,27 @@
+id: 77bcc38b-3c4b-4589-972f-7ae7b9808e40
+name: Use secure random to generate initial authentication codes
+externalId: 206-254
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.3.2
+    - owasp.asvs.v4_0_3.framework/2.7.6
+    - CWE-310
+    - OWASP Cheat Sheets/Forgot Password Cheat Sheet
+    - CWE-330
+    - CWE-1204
+    - CWE-1241
+    - CWE-334
+    - CWE-340
+    - CWE-344
+    - CAPEC-112
+    - CAPEC-20
+    - CAPEC-485
+    - CAPEC-59
+    - CAPEC-97
+    - CWE-323
+    - CWE-341
+    - CWE-342
+    - CWE-343
+    - CWE-6
+    - CAPEC-21

@@ -1,0 +1,11 @@
+id: f724d09a-2e8e-46e8-82ee-ee439056469b
+name: Reject non-whitelisted content types
+externalId: 377-680
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/13.1.5
+    - CWE-434
+    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
+    - OWASP Cheat Sheets/Web Service Security Cheat Sheet
+    - CAPEC-1

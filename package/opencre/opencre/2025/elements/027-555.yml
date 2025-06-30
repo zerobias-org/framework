@@ -1,0 +1,19 @@
+id: 131d24f0-2f4b-4806-b49e-64d0932566aa
+name: Enforce user passwords are of sufficient minimum length
+externalId: 027-555
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - OWASP Proactive Controls/C6
+    - CWE-521
+    - owasp.asvs.v4_0_3.framework/2.1.1
+    - CAPEC-112
+    - CAPEC-16
+    - CAPEC-49
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-555
+    - CAPEC-561
+    - CAPEC-565
+    - CAPEC-70

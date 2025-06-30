@@ -1,0 +1,9 @@
+id: 14d8d0d8-2c22-4050-a54e-e13f96279e69
+name: Ensure that physical single factor OTP generator can be revoked fully immediately when lost
+externalId: 440-361
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.2.1
+    - owasp.asvs.v4_0_3.framework/2.8.6
+    - CWE-613

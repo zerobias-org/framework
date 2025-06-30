@@ -1,0 +1,34 @@
+id: 7fbd8c14-aa4a-4346-9622-99fea549f749
+name: Supply chain management
+externalId: 613-285
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/8.3
+    - iso.27001.2013.framework/5.19
+    - iso.27001.2013.framework/5.2
+    - iso.27001.2013.framework/5.23
+    - iso.27001.2013.framework/5.21
+    - iso.27001.2013.framework/5.22
+    - nist.80053.rev5.framework/sa-22
+    - nist.80053.rev5.framework/sa-4
+    - nist.80053.rev5.framework/sr-1
+    - nist.80053.rev5.framework/sr-10
+    - nist.80053.rev5.framework/sr-11
+    - nist.80053.rev5.framework/sr-12
+    - nist.80053.rev5.framework/sr-2
+    - nist.80053.rev5.framework/sr-3
+    - nist.80053.rev5.framework/sr-4
+    - nist.80053.rev5.framework/sr-5
+    - nist.80053.rev5.framework/sr-6
+    - nist.80053.rev5.framework/sr-7
+    - nist.80053.rev5.framework/sr-8
+    - nist.80053.rev5.framework/sr-9
+    - nist.80053.rev5.framework/pm-30
+    - nist.80053.rev5.framework/sa-1
+    - nist.80053.rev5.framework/sa-9
+    - owasp.samm.v1_0.framework/d-sr-b
+    - nist.800218.v1_1.framework/po_1_3
+    - nist.800218.v1_1.framework/pw_4_1
+    - nist.800218.v1_1.framework/pw_4_4
+parent: 673-475

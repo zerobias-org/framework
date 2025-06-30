@@ -1,0 +1,13 @@
+id: 2a0186b1-816b-4376-a131-3957c5228de0
+name: Disable debug mode in production
+externalId: 208-805
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/14.3.2
+    - CWE-497
+    - OWASP Cheat Sheets/Error Handling Cheat Sheet
+    - CWE-214
+    - CWE-548
+    - CAPEC-170
+    - CAPEC-694

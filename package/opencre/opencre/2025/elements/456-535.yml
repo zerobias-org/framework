@@ -1,0 +1,9 @@
+id: 110387f2-a20c-4436-90d7-335f1862c4f9
+name: Monitor for realistic "human time" business logic flows
+externalId: 456-535
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/11.1.2
+    - CWE-799
+    - CWE-837

@@ -1,0 +1,24 @@
+id: 4a0d6b81-95ee-4f7d-b093-591e1d7536eb
+name: Operating processes for security
+externalId: 862-452
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/ivs-01
+    - iso.27001.2013.framework/5.23
+    - iso.27001.2013.framework/8.31
+    - iso.27001.2013.framework/5.37
+    - nist.80053.rev5.framework/sc-26
+    - nist.80053.rev5.framework/sc-30
+    - nist.80053.rev5.framework/sc-35
+    - nist.80053.rev5.framework/sc-36
+    - nist.80053.rev5.framework/sc-37
+    - nist.80053.rev5.framework/sc-38
+    - nist.80053.rev5.framework/sc-42
+    - nist.80053.rev5.framework/sc-43
+    - nist.80053.rev5.framework/sc-46
+    - nist.80053.rev5.framework/sc-47
+    - nist.80053.rev5.framework/sc-48
+    - nist.80053.rev5.framework/sc-50
+    - DevSecOps Maturity Model (DSOMM)/a511799b-045e-4b96-9843-7d63d8c1e2ad
+parent: 247-250

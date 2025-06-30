@@ -1,0 +1,13 @@
+id: a5cb2f6f-b415-4e49-9b87-7e0b52c9587e
+name: Secure serialized objects (e.g. integrity checks)
+externalId: 762-616
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C5
+    - OWASP Cheat Sheets/Deserialization Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/5.5.1
+    - CWE-502
+    - OWASP Cheat Sheets/XML Security Cheat Sheet
+    - OWASP Cheat Sheets/XML External Entity Prevention Cheat Sheet
+    - CAPEC-586

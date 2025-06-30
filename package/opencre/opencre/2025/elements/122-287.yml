@@ -1,0 +1,14 @@
+id: 7dca2b75-700d-42be-95b5-4aed1ac097fd
+name: Ensure cryptographic elements can be upgraded or replaced
+externalId: 122-287
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C8
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-326
+    - owasp.asvs.v4_0_3.framework/6.2.4
+    - CAPEC-112
+    - CAPEC-192
+    - CAPEC-20

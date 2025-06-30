@@ -1,0 +1,8 @@
+id: 20a50542-21c7-4614-b8b9-7210812251b2
+name: Securely automate build and deployment in pipeline
+externalId: 253-452
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/14.1.1
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet

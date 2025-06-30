@@ -1,0 +1,14 @@
+id: 3f724624-39d1-4bc9-9c6b-194718a42d34
+name: Mutually authenticate application components. Minimize privileges
+externalId: 278-413
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C3
+    - CWE-306
+    - owasp.asvs.v4_0_3.framework/1.2.2
+    - CAPEC-12
+    - CAPEC-166
+    - CAPEC-216
+    - CAPEC-36
+    - CAPEC-62

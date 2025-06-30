@@ -1,0 +1,15 @@
+id: 2bda200e-4ed4-45cc-abd4-affea6a48d3c
+name: Encrypt all communications
+externalId: 636-854
+elementType: cre
+links:
+  demonstrates:
+    - CWE-319
+    - owasp.asvs.v4_0_3.framework/9.2.2
+    - CWE-5
+    - CWE-614
+    - CAPEC-102
+    - CAPEC-117
+    - CAPEC-383
+    - CAPEC-477
+    - CAPEC-65

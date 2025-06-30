@@ -1,0 +1,14 @@
+id: 47e17ac0-1652-4c6b-b6a6-9f030baab097
+name: Use weak crypto only for backwards compatibility
+externalId: 441-132
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-326
+    - owasp.asvs.v4_0_3.framework/6.2.5
+    - CAPEC-112
+    - CAPEC-192
+    - CAPEC-20

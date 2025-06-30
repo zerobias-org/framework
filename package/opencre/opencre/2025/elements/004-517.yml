@@ -1,0 +1,23 @@
+id: 532d024f-f609-4093-8ad7-8a5359a5fe18
+name: Security requirements
+externalId: 004-517
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/ais-02
+    - iso.27001.2013.framework/8.26
+    - iso.27001.2013.framework/5.14
+    - nist.80053.rev5.framework/sc-18
+    - owasp.samm.v1_0.framework/d-sr-a
+    - owasp.samm.v1_0.framework/g-pc-a
+    - nist.800218.v1_1.framework/po_1_2
+    - DevSecOps Maturity Model (DSOMM)/cf819225-30cb-4702-8e32-60225eedc33d
+    - DevSecOps Maturity Model (DSOMM)/b597928e-54d6-48a5-a806-8003dcd56aab
+    - DevSecOps Maturity Model (DSOMM)/ffe86caf-2fec-4630-b514-2db83983984d
+    - DevSecOps Maturity Model (DSOMM)/03643ca2-03c2-472b-8e19-956bf02fe9b7
+    - DevSecOps Maturity Model (DSOMM)/4cae98c2-4163-44ed-bb88-3c67c569533a
+    - DevSecOps Maturity Model (DSOMM)/e1f37abb-d848-4a3a-b3df-65e91a89dcb7
+    - DevSecOps Maturity Model (DSOMM)/f0e01814-3b88-4bd0-a3a9-f91db001d20b-advanced
+    - DevSecOps Maturity Model (DSOMM)/f0e01814-3b88-4bd0-a3a9-f91db001d20b
+    - DevSecOps Maturity Model (DSOMM)/f0e01814-3b88-4bd0-a3a9-f91db001d20b
+parent: 782-234

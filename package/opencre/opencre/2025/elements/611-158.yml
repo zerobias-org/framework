@@ -1,0 +1,11 @@
+id: fcf374e6-3a31-47c4-a276-d422d1bd4aa9
+name: Use static analysis tooling to detect potentially malicious actions
+externalId: 611-158
+elementType: cre
+links:
+  demonstrates:
+    - CWE-749
+    - OWASP Cheat Sheets/Third Party Javascript Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/10.1.1
+    - CWE-618
+    - CAPEC-500

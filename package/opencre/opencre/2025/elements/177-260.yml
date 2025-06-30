@@ -1,0 +1,12 @@
+id: f8d77d6c-1a9d-4623-a505-c0c8c1357b72
+name: Session management
+externalId: 177-260
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top 10 2021/A07
+    - OWASP Top 10 2021/A01
+    - nist.80053.rev5.framework/ac-10
+    - nist.80053.rev5.framework/ia-11
+    - nist.80053.rev5.framework/sc-23
+parent: 402-133

@@ -1,0 +1,13 @@
+id: 319fc96f-ee7d-46b3-9bda-13fd2eb61620
+name: Do not reveal the current password during password recovery
+externalId: 543-621
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - OWASP Proactive Controls/C6
+    - CWE-640
+    - owasp.asvs.v4_0_3.framework/2.5.3
+    - OWASP Cheat Sheets/Choosing and Using Security Questions Cheat Sheet
+    - OWASP Cheat Sheets/Forgot Password Cheat Sheet
+    - CAPEC-50

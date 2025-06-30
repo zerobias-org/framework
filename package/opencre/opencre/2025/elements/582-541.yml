@@ -1,0 +1,16 @@
+id: 08174b56-b777-4aad-a3c6-814b81df7615
+name: Re-authenticate before sensitive transactions
+externalId: 582-541
+elementType: cre
+links:
+  demonstrates:
+    - CWE-306
+    - owasp.wstg.v5.benchmark/wstg-sess-01
+    - owasp.asvs.v4_0_3.framework/3.7.1
+    - OWASP Cheat Sheets/Session Management Cheat Sheet
+    - OWASP Cheat Sheets/Transaction Authorization Cheat Sheet
+    - CAPEC-12
+    - CAPEC-166
+    - CAPEC-216
+    - CAPEC-36
+    - CAPEC-62

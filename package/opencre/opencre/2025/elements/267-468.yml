@@ -1,0 +1,25 @@
+id: c3118178-a792-48f6-b1f7-0fb41e5424fb
+name: Encrypt financial data at rest
+externalId: 267-468
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - OWASP Cheat Sheets/User Privacy Protection Cheat Sheet
+    - CWE-311
+    - owasp.asvs.v4_0_3.framework/6.1.3
+    - CAPEC-157
+    - CAPEC-158
+    - CAPEC-204
+    - CAPEC-31
+    - CAPEC-37
+    - CAPEC-383
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388
+    - CAPEC-477
+    - CAPEC-609
+    - CAPEC-65

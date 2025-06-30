@@ -1,0 +1,11 @@
+id: 10f95a61-e33c-4af4-a006-aebbe0524b8d
+name: Perform cryptographic operations in constant time
+externalId: 878-880
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-385
+    - owasp.asvs.v4_0_3.framework/6.2.8
+    - CAPEC-462

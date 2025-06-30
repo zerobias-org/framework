@@ -1,0 +1,13 @@
+id: 43db0a42-045d-4720-a6d0-a39f5a9dd406
+name: Authenticate HTTP headers added by a trusted proxy or SSO device
+externalId: 820-421
+elementType: cre
+links:
+  demonstrates:
+    - CWE-306
+    - owasp.asvs.v4_0_3.framework/14.5.4
+    - CAPEC-12
+    - CAPEC-166
+    - CAPEC-216
+    - CAPEC-36
+    - CAPEC-62

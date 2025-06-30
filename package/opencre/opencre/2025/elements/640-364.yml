@@ -1,0 +1,21 @@
+id: 16b21912-16b8-4203-bb83-03a99d184429
+name: Enforce access control on trusted parts/serverside
+externalId: 640-364
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet
+    - CWE-602
+    - owasp.asvs.v4_0_3.framework/1.4.1
+    - CAPEC-162
+    - CAPEC-202
+    - CAPEC-207
+    - CAPEC-208
+    - CAPEC-21
+    - CAPEC-31
+    - CAPEC-383
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388

@@ -1,0 +1,16 @@
+id: e43ca47c-2c6c-445c-924b-9d007e2de38b
+name: Encode output near the consuming interpreter
+externalId: 806-367
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - OWASP Proactive Controls/C4
+    - OWASP Cheat Sheets/Deserialization Cheat Sheet
+    - CWE-116
+    - owasp.asvs.v4_0_3.framework/1.5.4
+    - CWE-644
+    - CAPEC-104
+    - CAPEC-73
+    - CAPEC-81
+    - CAPEC-85

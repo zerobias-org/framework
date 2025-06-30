@@ -1,0 +1,10 @@
+id: c7e17e2d-5af1-47d3-9890-395bc710807e
+name: Enable configurable alert against usage anomalies
+externalId: 725-682
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - owasp.wstg.v5.benchmark/wstg-busl-$$
+    - CWE-390
+    - owasp.asvs.v4_0_3.framework/11.1.8

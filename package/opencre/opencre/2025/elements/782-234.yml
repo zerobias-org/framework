@@ -1,0 +1,96 @@
+id: ce11f714-1ea2-42f6-8272-fca57413c570
+name: Clear policy compliant I/O requirements
+externalId: 782-234
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - CWE-1029
+    - owasp.asvs.v4_0_3.framework/1.5.1
+    - iso.27001.2013.framework/5.31
+    - OWASP Cheat Sheets/Deserialization Cheat Sheet
+    - CWE-707
+    - CWE-138
+    - CWE-74
+    - CAPEC-10
+    - CAPEC-101
+    - CAPEC-105
+    - CAPEC-108
+    - CAPEC-120
+    - CAPEC-13
+    - CAPEC-135
+    - CAPEC-14
+    - CAPEC-15
+    - CAPEC-24
+    - CAPEC-250
+    - CAPEC-267
+    - CAPEC-273
+    - CAPEC-276
+    - CAPEC-277
+    - CAPEC-278
+    - CAPEC-279
+    - CAPEC-28
+    - CAPEC-3
+    - CAPEC-34
+    - CAPEC-42
+    - CAPEC-43
+    - CAPEC-45
+    - CAPEC-46
+    - CAPEC-468
+    - CAPEC-47
+    - CAPEC-51
+    - CAPEC-52
+    - CAPEC-53
+    - CAPEC-6
+    - CAPEC-64
+    - CAPEC-67
+    - CAPEC-7
+    - CAPEC-71
+    - CAPEC-72
+    - CAPEC-76
+    - CAPEC-78
+    - CAPEC-79
+    - CAPEC-8
+    - CAPEC-80
+    - CAPEC-83
+    - CAPEC-84
+    - CAPEC-9
+    - CWE-140
+    - CWE-147
+    - CWE-148
+    - CWE-149
+    - CWE-150
+    - CWE-151
+    - CWE-152
+    - CWE-153
+    - CWE-154
+    - CWE-155
+    - CWE-156
+    - CWE-157
+    - CWE-158
+    - CWE-159
+    - CWE-160
+    - CWE-162
+    - CWE-164
+    - CWE-464
+    - CWE-75
+    - CWE-790
+    - CWE-943
+    - CAPEC-134
+    - CAPEC-41
+    - CAPEC-460
+    - CAPEC-635
+    - CAPEC-676
+    - CAPEC-81
+    - CAPEC-93
+    - CWE-141
+    - CWE-142
+    - CWE-143
+    - CWE-146
+    - CWE-161
+    - CWE-163
+    - CWE-165
+    - CWE-76
+    - CWE-791
+    - CWE-90
+    - CAPEC-136

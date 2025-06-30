@@ -1,0 +1,10 @@
+id: 58bf5968-8721-4b1e-86ec-27ad09784816
+name: Block execution/output of uploaded files
+externalId: 545-243
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-busl-09
+    - owasp.asvs.v4_0_3.framework/12.5.2
+    - CWE-434
+    - CAPEC-1

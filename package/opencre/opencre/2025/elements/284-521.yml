@@ -1,0 +1,25 @@
+id: fb0a46f9-fa83-43d1-b08d-495d691c0137
+name: Enforce additional authorization and segregation of duties
+externalId: 284-521
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/REST Assessment Cheat Sheet
+    - CWE-732
+    - owasp.asvs.v4_0_3.framework/4.3.3
+    - CWE-1004
+    - CWE-277
+    - CWE-278
+    - CWE-279
+    - CAPEC-1
+    - CAPEC-122
+    - CAPEC-127
+    - CAPEC-17
+    - CAPEC-180
+    - CAPEC-206
+    - CAPEC-234
+    - CAPEC-60
+    - CAPEC-61
+    - CAPEC-62
+    - CAPEC-642
+    - CAPEC-81

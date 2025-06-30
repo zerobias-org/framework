@@ -1,0 +1,21 @@
+id: 38ea4f82-3ac9-4c61-ba86-f58f3bebdf25
+name: Access control processes
+externalId: 247-250
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/iam
+    - iso.27001.2013.framework/5.15
+    - iso.27001.2013.framework/5.18
+    - iso.27001.2013.framework/5.16
+    - iso.27001.2013.framework/5.3
+    - iso.27001.2013.framework/8.3
+    - nist.80053.rev5.framework/ac-1
+    - nist.80053.rev5.framework/pm-10
+    - nist.80053.rev5.framework/ac-20
+    - nist.80053.rev5.framework/ac-21
+    - nist.80053.rev5.framework/ac-22
+    - nist.80053.rev5.framework/ac-23
+    - nist.80053.rev5.framework/ac-4
+    - DevSecOps Maturity Model (DSOMM)/3f63bdbc-c75f-4780-a941-e6ad42e894e1
+parent: 623-347

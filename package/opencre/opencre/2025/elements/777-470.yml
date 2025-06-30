@@ -1,0 +1,22 @@
+id: 4aa869c8-3766-4885-b017-00046f32f2ea
+name: Ignore/block execution logic from untrusted sources
+externalId: 777-470
+elementType: cre
+links:
+  demonstrates:
+    - CWE-829
+    - owasp.asvs.v4_0_3.framework/12.3.6
+    - CWE-830
+    - CAPEC-175
+    - CAPEC-201
+    - CAPEC-228
+    - CAPEC-251
+    - CAPEC-252
+    - CAPEC-253
+    - CAPEC-263
+    - CAPEC-538
+    - CAPEC-549
+    - CAPEC-640
+    - CAPEC-660
+    - CAPEC-695
+    - CAPEC-698

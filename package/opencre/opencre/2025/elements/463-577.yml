@@ -1,0 +1,25 @@
+id: 40b2240c-e1af-4cf0-b07b-2fcd83d56a72
+name: Incident response
+externalId: 463-577
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/sef
+    - iso.27001.2013.framework/5.25
+    - iso.27001.2013.framework/5.24
+    - iso.27001.2013.framework/5.27
+    - iso.27001.2013.framework/5.28
+    - iso.27001.2013.framework/6.8
+    - iso.27001.2013.framework/5.26
+    - nist.80053.rev5.framework/ir-1
+    - nist.80053.rev5.framework/ir-2
+    - nist.80053.rev5.framework/ir-3
+    - nist.80053.rev5.framework/ir-4
+    - nist.80053.rev5.framework/ir-5
+    - nist.80053.rev5.framework/ir-6
+    - nist.80053.rev5.framework/ir-7
+    - nist.80053.rev5.framework/ir-8
+    - nist.80053.rev5.framework/ir-9
+    - owasp.samm.v1_0.framework/o-im-b
+    - nist.800218.v1_1.framework/rv_1_3
+    - DevSecOps Maturity Model (DSOMM)/58c46807-fee9-448b-b6dd-8050c464ab52

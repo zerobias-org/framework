@@ -1,0 +1,10 @@
+id: d2d9e273-582e-40ed-af65-a3e610431d5a
+name: Defined lifetime of time-based one-time password
+externalId: 681-823
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.4.2
+    - NIST 800-63/5.1.5.2
+    - owasp.asvs.v4_0_3.framework/2.8.1
+    - CWE-613

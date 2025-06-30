@@ -1,0 +1,15 @@
+id: fccd90b9-408b-4421-aeec-952b3abca9a7
+name: Development processes for security
+externalId: 616-305
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/1.1.1
+    - csa.ccm.v4_0_12.framework/ais-04
+    - iso.27001.2013.framework/8.25
+    - nist.80053.rev5.framework/sa-15
+    - nist.80053.rev5.framework/sa-3
+    - nist.80053.rev5.framework/sa-8
+    - nist.80053.rev5.framework/si-3
+    - DevSecOps Maturity Model (DSOMM)/3f63bdbc-c75f-4780-a941-e6ad42e894e1
+parent: 326-704

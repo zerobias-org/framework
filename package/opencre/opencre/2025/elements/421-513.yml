@@ -1,0 +1,8 @@
+id: c301ee12-437d-4156-b8da-cb319a83f0d1
+name: Ignore/at least validate filenames from untrusted origin (against RFD)
+externalId: 421-513
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/12.3.4
+    - CWE-641

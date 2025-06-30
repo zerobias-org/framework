@@ -1,0 +1,10 @@
+id: 4f7745f5-bef1-4876-918c-1ea39b7dc9bc
+name: Terminate all sessions when password is changed
+externalId: 238-346
+elementType: cre
+links:
+  demonstrates:
+    - CWE-613
+    - owasp.wstg.v5.benchmark/wstg-sess-06
+    - owasp.asvs.v4_0_3.framework/3.3.3
+    - OWASP Cheat Sheets/Session Management Cheat Sheet

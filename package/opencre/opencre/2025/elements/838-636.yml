@@ -1,0 +1,11 @@
+id: 90f46934-603c-4f36-9b59-5d2786b7cc32
+name: Check source code and third party libraries to not contain backdoors
+externalId: 838-636
+elementType: cre
+links:
+  demonstrates:
+    - CWE-507
+    - owasp.asvs.v4_0_3.framework/10.2.3
+    - CWE-508
+    - CWE-509
+    - CAPEC-698

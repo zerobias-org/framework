@@ -1,0 +1,11 @@
+id: e313f467-a013-4f2a-ba7d-e67269366465
+name: Do not expose data through API URLs
+externalId: 333-888
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-sess-04
+    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
+    - OWASP Cheat Sheets/Web Service Security Cheat Sheet
+    - CWE-598
+    - owasp.asvs.v4_0_3.framework/13.1.3

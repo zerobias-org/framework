@@ -1,0 +1,9 @@
+id: 70cdf254-af51-46be-a430-b87999ace6da
+name: Show generic message for security exceptions or unanticipated exceptions
+externalId: 612-435
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C10
+    - owasp.asvs.v4_0_3.framework/7.4.1
+    - CWE-210

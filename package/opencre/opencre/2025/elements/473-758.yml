@@ -1,0 +1,10 @@
+id: c5713942-bef0-4c8b-9440-c41f9e882d85
+name: Set sufficient anti-caching headers
+externalId: 473-758
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-athn-06
+    - CWE-525
+    - owasp.asvs.v4_0_3.framework/8.2.1
+    - CAPEC-37

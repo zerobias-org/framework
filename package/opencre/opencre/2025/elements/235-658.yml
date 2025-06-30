@@ -1,0 +1,12 @@
+id: 46a3a202-ef0e-428f-b1af-286213398303
+name: Notify user about credential change
+externalId: 235-658
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/6.1.2.3
+    - owasp.wstg.v5.benchmark/wstg-athn-02
+    - CWE-304
+    - OWASP Cheat Sheets/Choosing and Using Security Questions Cheat Sheet
+    - OWASP Cheat Sheets/Forgot Password Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/2.5.5

@@ -1,0 +1,11 @@
+id: fa593147-e0db-4d67-893f-6fe9d14ab372
+name: Technical system documentation
+externalId: 820-877
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C1
+    - nist.80053.rev5.framework/sa-5
+    - nist.80053.rev5.framework/pl-7
+    - nist.800218.v1_1.framework/pw_1_2
+parent: 820-878

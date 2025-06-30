@@ -1,0 +1,30 @@
+id: 6b40315a-96e5-4fc1-bdb9-0d2a83466713
+name: Limit size and number of uploaded files
+externalId: 463-820
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/12.1.3
+    - CWE-770
+    - OWASP Cheat Sheets/File Upload Cheat Sheet
+    - CWE-774
+    - CAPEC-125
+    - CAPEC-130
+    - CAPEC-147
+    - CAPEC-197
+    - CAPEC-229
+    - CAPEC-230
+    - CAPEC-231
+    - CAPEC-469
+    - CAPEC-482
+    - CAPEC-486
+    - CAPEC-487
+    - CAPEC-488
+    - CAPEC-489
+    - CAPEC-490
+    - CAPEC-491
+    - CAPEC-493
+    - CAPEC-494
+    - CAPEC-495
+    - CAPEC-496
+    - CAPEC-528

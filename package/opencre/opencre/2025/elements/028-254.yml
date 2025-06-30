@@ -1,0 +1,22 @@
+id: 024cbe91-892c-4ec7-b065-6091c37fc376
+name: Secure auto-updates over full stack
+externalId: 028-254
+elementType: cre
+links:
+  demonstrates:
+    - CWE-16
+    - owasp.asvs.v4_0_3.framework/10.3.1
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet
+    - CWE-494
+    - CAPEC-184
+    - CAPEC-185
+    - CAPEC-186
+    - CAPEC-187
+    - CAPEC-533
+    - CAPEC-538
+    - CAPEC-657
+    - CAPEC-662
+    - CAPEC-691
+    - CAPEC-692
+    - CAPEC-693
+    - CAPEC-695

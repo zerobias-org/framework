@@ -1,0 +1,11 @@
+id: 105d5a91-470a-47d2-a77d-1a7aafbbec4c
+name: Notify users about anomalies in their usage patterns
+externalId: 808-425
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Authentication Cheat Sheet
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - CWE-620
+    - owasp.asvs.v4_0_3.framework/2.2.3

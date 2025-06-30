@@ -1,0 +1,21 @@
+id: 576751da-c09f-4fdf-b6a2-cc7a7c03568c
+name: Use approved cryptographic algorithms
+externalId: 742-431
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - OWASP Proactive Controls/C8
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - CWE-327
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/6.2.2
+    - CWE-1240
+    - CWE-780
+    - CAPEC-20
+    - CAPEC-459
+    - CAPEC-473
+    - CAPEC-475
+    - CAPEC-608
+    - CAPEC-614
+    - CAPEC-97

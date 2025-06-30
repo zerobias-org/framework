@@ -1,0 +1,14 @@
+id: e856daad-5ed9-4f7a-979b-e85ec70805a2
+name: Sanitize user input before passing content to mail systems (SMTP/IMAP injection)
+externalId: 881-434
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-inpv-10
+    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/5.2.3
+    - CWE-147
+    - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet
+    - OWASP Cheat Sheets/Cross Site Scripting Prevention Cheat Sheet
+    - OWASP Cheat Sheets/DOM based XSS Prevention Cheat Sheet
+    - CAPEC-460

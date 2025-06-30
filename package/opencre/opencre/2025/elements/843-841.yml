@@ -1,0 +1,10 @@
+id: 91b3249e-1c18-4dde-900e-3e7652d036f6
+name: Log discretely
+externalId: 843-841
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top 10 2021/A09
+    - owasp.wstg.v5.benchmark/wstg-conf-02
+    - OWASP Cheat Sheets/Logging Cheat Sheet
+parent: 067-050

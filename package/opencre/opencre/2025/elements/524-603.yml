@@ -1,0 +1,12 @@
+id: 5bf2ca1d-194f-470f-94a4-d1e46b549914
+name: Limit modification of access controls to specifically authorized actors/users
+externalId: 524-603
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-athz-02
+    - CWE-639
+    - owasp.asvs.v4_0_3.framework/4.1.2
+    - OWASP Cheat Sheets/Access Control Cheat Sheet
+    - OWASP Cheat Sheets/Authorization Testing Automation Cheat Sheet
+    - CWE-566

@@ -1,0 +1,14 @@
+id: 26e34abe-d939-4748-9c68-61dcad5c426a
+name: Set the highest feasible work factor for bcrypt
+externalId: 078-427
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - OWASP Proactive Controls/C6
+    - CWE-916
+    - owasp.asvs.v4_0_3.framework/2.4.4
+    - OWASP Cheat Sheets/Password Storage Cheat Sheet
+    - CWE-759
+    - CWE-760
+    - CAPEC-55

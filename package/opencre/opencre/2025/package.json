@@ -1,0 +1,45 @@
+{
+  "name": "@zerobias-org/framework-opencre-opencre-2025",
+  "version": "1.1.2",
+  "description": "OpenCRE framework",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/opencre/opencre/2025/"
+  },
+  "auditmation": {
+    "package": "opencre.opencre.2025.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.6.6"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines/**",
+    "elements/**",
+    "mappings/**"
+  ],
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts",
+    "update": "tsx update/parse.ts"
+  },
+  "devDependencies": {
+    "@auditmation/types-core-js": "^4.9.11",
+    "@auditmation/util-logger": "^4.0.9",
+    "@types/js-yaml": "^4.0.9"
+  },
+  "dependencies": {
+    "@auditlogic/suite-opencre-opencre": "^1.0.0"
+  }
+}

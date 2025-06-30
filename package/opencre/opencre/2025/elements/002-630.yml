@@ -1,0 +1,20 @@
+id: 8b6f34a6-4493-4252-a93a-1ef68a690711
+name: Generate a new session token after authentication
+externalId: 002-630
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C6
+    - NIST 800-63/7.1
+    - owasp.wstg.v5.benchmark/wstg-sess-03
+    - CWE-384
+    - owasp.asvs.v4_0_3.framework/3.2.1
+    - OWASP Cheat Sheets/Session Management Cheat Sheet
+    - nist.80053.rev5.framework/sc-23_3
+    - CAPEC-196
+    - CAPEC-21
+    - CAPEC-31
+    - CAPEC-39
+    - CAPEC-59
+    - CAPEC-60
+    - CAPEC-61

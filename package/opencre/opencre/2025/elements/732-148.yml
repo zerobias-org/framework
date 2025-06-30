@@ -1,0 +1,31 @@
+id: 4cd1a1c0-db5c-44ca-9584-c45321b87375
+name: Vulnerability management
+externalId: 732-148
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/ais-07
+    - csa.ccm.v4_0_12.framework/tvm
+    - iso.27001.2013.framework/8.8
+    - nist.80053.rev5.framework/si-2
+    - nist.800218.v1_1.framework/rv_1_1
+    - owasp.samm.v1_0.framework/i-dm-a
+    - owasp.samm.v1_0.framework/i-dm-b
+    - nist.800218.v1_1.framework/rv_2_1
+    - nist.800218.v1_1.framework/rv_2_2
+    - nist.800218.v1_1.framework/rv_3_1
+    - nist.800218.v1_1.framework/rv_3_2
+    - nist.800218.v1_1.framework/rv_3_3
+    - DevSecOps Maturity Model (DSOMM)/7a82020c-94d1-471c-bbd3-5f7fe7df4876
+    - DevSecOps Maturity Model (DSOMM)/785e34ef-40c6-487a-984c-3e7706c9bc1f
+    - DevSecOps Maturity Model (DSOMM)/c922981b-65ed-40f3-a947-96fee9a0125f
+    - DevSecOps Maturity Model (DSOMM)/ce970c9b-da94-41cf-bd78-8c15357b7e8e
+    - DevSecOps Maturity Model (DSOMM)/27337442-e4b1-4e87-8dc9-ce86fbb79a39
+    - DevSecOps Maturity Model (DSOMM)/c1acc8af-312e-4503-a817-a26220c993a0
+    - DevSecOps Maturity Model (DSOMM)/55f4c916-3a34-474d-ad96-9a9f7a4f6a83
+    - DevSecOps Maturity Model (DSOMM)/b2f77606-3e6c-41e9-b72d-7c0b1d3d581d
+    - DevSecOps Maturity Model (DSOMM)/44f2c8a9-4aaa-4c72-942d-63f78b89f385
+    - DevSecOps Maturity Model (DSOMM)/9cac3341-fe83-4079-bef2-bfc4279eb594
+    - DevSecOps Maturity Model (DSOMM)/85ba5623-84be-4219-8892-808837be582d
+    - DevSecOps Maturity Model (DSOMM)/dccf1949-b9a8-4ce8-b992-6a4a7f3a623a
+    - DevSecOps Maturity Model (DSOMM)/7bb70764-9392-4462-935d-e55b2e148199

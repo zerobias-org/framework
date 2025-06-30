@@ -1,0 +1,44 @@
+id: c8bdae86-9781-4cad-86b5-ea8a871a43b0
+name: Log and reject re-use of valid time-based OTP tokens and notify device holder.
+externalId: 646-227
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.5.2
+    - owasp.asvs.v4_0_3.framework/2.8.5
+    - CWE-287
+    - CWE-1390
+    - CWE-645
+    - CWE-1391
+    - CWE-263
+    - CWE-289
+    - CWE-303
+    - CWE-305
+    - CWE-620
+    - CAPEC-114
+    - CAPEC-115
+    - CAPEC-151
+    - CAPEC-16
+    - CAPEC-194
+    - CAPEC-2
+    - CAPEC-22
+    - CAPEC-49
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-555
+    - CAPEC-560
+    - CAPEC-561
+    - CAPEC-565
+    - CAPEC-57
+    - CAPEC-593
+    - CAPEC-600
+    - CAPEC-633
+    - CAPEC-650
+    - CAPEC-652
+    - CAPEC-653
+    - CAPEC-70
+    - CAPEC-90
+    - CAPEC-94
+    - CWE-1392
+    - CWE-1393
+    - CWE-1394

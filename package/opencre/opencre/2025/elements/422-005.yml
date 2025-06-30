@@ -1,0 +1,24 @@
+id: 65c4c257-ad9f-44ac-bc70-9b3bbd8537b8
+name: Sanitize/sandbox user input where template-injection is a threat
+externalId: 422-005
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-inpv-18
+    - owasp.asvs.v4_0_3.framework/5.2.5
+    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
+    - CWE-94
+    - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet
+    - OWASP Cheat Sheets/Cross Site Scripting Prevention Cheat Sheet
+    - OWASP Cheat Sheets/DOM based XSS Prevention Cheat Sheet
+    - CWE-1336
+    - CWE-95
+    - CWE-96
+    - CWE-97
+    - CAPEC-101
+    - CAPEC-242
+    - CAPEC-35
+    - CAPEC-73
+    - CAPEC-77
+    - CAPEC-81
+    - CAPEC-85

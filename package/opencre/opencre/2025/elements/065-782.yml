@@ -1,0 +1,12 @@
+id: 7409972c-1921-4f05-93a5-66934e9366e0
+name: Ensure session timeout (soft/hard)
+externalId: 065-782
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C6
+    - NIST 800-63/7.2
+    - CWE-613
+    - owasp.wstg.v5.benchmark/wstg-sess-07
+    - owasp.asvs.v4_0_3.framework/3.3.2
+    - OWASP Cheat Sheets/Session Management Cheat Sheet

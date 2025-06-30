@@ -1,0 +1,9 @@
+id: 37a84d3b-9537-456f-90b6-3478ac38cd2c
+name: Create random GUIDs with cryptographically secure random number generators
+externalId: 027-210
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - CWE-338
+    - owasp.asvs.v4_0_3.framework/6.3.2

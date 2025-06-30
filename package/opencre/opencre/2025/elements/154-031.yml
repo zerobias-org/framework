@@ -1,0 +1,11 @@
+id: ba76525e-0926-48a4-b905-16f75b94dda0
+name: Harden application by excluding unwanted functionality
+externalId: 154-031
+elementType: cre
+links:
+  demonstrates:
+    - CWE-507
+    - owasp.asvs.v4_0_3.framework/10.2.6
+    - CWE-508
+    - CWE-509
+    - CAPEC-698

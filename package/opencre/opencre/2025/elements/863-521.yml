@@ -1,0 +1,11 @@
+id: 4c7116d8-2f58-4b38-be1a-47c9de8e8779
+name: Maintain/manage inventory of third party components
+externalId: 863-521
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C2
+    - owasp.asvs.v4_0_3.framework/14.2.5
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet
+    - OWASP Cheat Sheets/Vulnerable Dependency Management Cheat Sheet
+    - nist.800218.v1_1.framework/ps_3_2

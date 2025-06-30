@@ -1,0 +1,9 @@
+id: a7c9dc97-0832-4a69-bf60-78a1b834f883
+name: Log events sufficiently to recreate their order
+externalId: 555-048
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C9
+    - CWE-778
+    - owasp.asvs.v4_0_3.framework/7.1.4

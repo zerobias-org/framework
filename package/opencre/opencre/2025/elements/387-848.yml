@@ -1,0 +1,13 @@
+id: 293389b2-758a-466c-9684-3f3e2b4afed6
+name: Parse JSON safely
+externalId: 387-848
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-clnt-02
+    - OWASP Cheat Sheets/Deserialization Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/5.5.4
+    - CWE-95
+    - OWASP Cheat Sheets/XML Security Cheat Sheet
+    - OWASP Cheat Sheets/XML External Entity Prevention Cheat Sheet
+    - CAPEC-35

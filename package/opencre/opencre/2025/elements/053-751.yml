@@ -1,0 +1,8 @@
+id: 8dafe051-1fab-49c5-95cf-23e104e9f958
+name: Force build pipeline to check outdated/insecure components
+externalId: 053-751
+elementType: cre
+links:
+  demonstrates:
+    - CWE-1104
+    - owasp.asvs.v4_0_3.framework/1.14.3

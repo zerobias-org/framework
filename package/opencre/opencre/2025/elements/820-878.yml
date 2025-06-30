@@ -1,0 +1,16 @@
+id: 67a3324c-bc18-4e91-ab9c-9c684423f74b
+name: Document all trust boundaries and significant data flows
+externalId: 820-878
+elementType: cre
+links:
+  demonstrates:
+    - CWE-1059
+    - OWASP Cheat Sheets/Threat Modeling Cheat Sheet
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - OWASP Cheat Sheets/Attack Surface Analysis Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/1.1.4
+    - CWE-1053
+    - CWE-1110
+    - CWE-1111
+    - CWE-1112
+    - CWE-1118

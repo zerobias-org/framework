@@ -1,0 +1,8 @@
+id: e6beab0e-3bba-4465-a918-793d2ec3f771
+name: Implement business logic limits against identified business risks
+externalId: 660-867
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/11.1.5
+    - CWE-841

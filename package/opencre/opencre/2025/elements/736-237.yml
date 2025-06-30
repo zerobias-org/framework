@@ -1,0 +1,14 @@
+id: f6f26b04-10f5-4989-829a-d7faf9459209
+name: Set metadata/content-Disposition for API responses
+externalId: 736-237
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/14.4.2
+    - CWE-116
+    - OWASP Cheat Sheets/Content Security Policy Cheat Sheet
+    - CWE-644
+    - CAPEC-104
+    - CAPEC-73
+    - CAPEC-81
+    - CAPEC-85

@@ -1,0 +1,26 @@
+id: ba3839dc-102d-4639-ad65-1bebc27d8a79
+name: Protect against LFI / RFI
+externalId: 547-283
+elementType: cre
+links:
+  demonstrates:
+    - CWE-829
+    - owasp.wstg.v5.benchmark/wstg-inpv-11
+    - owasp.asvs.v4_0_3.framework/5.3.9
+    - OWASP Cheat Sheets/File Upload Cheat Sheet
+    - OWASP Cheat Sheets/Injection Prevention Cheat Sheet
+    - OWASP Cheat Sheets/Injection Prevention in Java Cheat Sheet
+    - CWE-830
+    - CAPEC-175
+    - CAPEC-201
+    - CAPEC-228
+    - CAPEC-251
+    - CAPEC-252
+    - CAPEC-253
+    - CAPEC-263
+    - CAPEC-538
+    - CAPEC-549
+    - CAPEC-640
+    - CAPEC-660
+    - CAPEC-695
+    - CAPEC-698

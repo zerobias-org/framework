@@ -1,0 +1,29 @@
+id: c6bdcfa7-e770-4d9f-977a-6eefc6ddb05f
+name: Monitor expectation of usage intensity (e.g. number of requests)
+externalId: 176-154
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/8.1.4
+    - CWE-770
+    - CWE-774
+    - CAPEC-125
+    - CAPEC-130
+    - CAPEC-147
+    - CAPEC-197
+    - CAPEC-229
+    - CAPEC-230
+    - CAPEC-231
+    - CAPEC-469
+    - CAPEC-482
+    - CAPEC-486
+    - CAPEC-487
+    - CAPEC-488
+    - CAPEC-489
+    - CAPEC-490
+    - CAPEC-491
+    - CAPEC-493
+    - CAPEC-494
+    - CAPEC-495
+    - CAPEC-496
+    - CAPEC-528

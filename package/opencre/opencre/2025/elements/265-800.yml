@@ -1,0 +1,8 @@
+id: 346ad0a8-92d7-45c1-8d9c-d44fd1169db1
+name: Check source code and third party libraries to not contain malicious code
+externalId: 265-800
+elementType: cre
+links:
+  demonstrates:
+    - CWE-511
+    - owasp.asvs.v4_0_3.framework/10.2.5

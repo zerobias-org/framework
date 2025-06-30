@@ -1,0 +1,32 @@
+id: a1b8a703-bc35-407a-889a-aa90811654f3
+name: Add integrity check to SOAP payload
+externalId: 456-636
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/13.3.2
+    - CWE-345
+    - OWASP Cheat Sheets/XML Security Cheat Sheet
+    - CWE-348
+    - CWE-349
+    - CWE-360
+    - CWE-646
+    - CWE-649
+    - CAPEC-111
+    - CAPEC-141
+    - CAPEC-142
+    - CAPEC-148
+    - CAPEC-209
+    - CAPEC-218
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388
+    - CAPEC-463
+    - CAPEC-665
+    - CAPEC-701
+    - CAPEC-73
+    - CAPEC-75
+    - CAPEC-76
+    - CAPEC-85

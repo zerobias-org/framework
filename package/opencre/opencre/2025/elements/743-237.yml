@@ -1,0 +1,11 @@
+id: 5f24b54b-9fca-4d99-9a28-94433f1a11cd
+name: Validatie/enforce HTTP inputs (against HTTP parameter pollution attacks)
+externalId: 743-237
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-inpv-04
+    - owasp.asvs.v4_0_3.framework/5.1.1
+    - CWE-235
+    - OWASP Cheat Sheets/Mass Assignment Cheat Sheet
+    - CAPEC-460

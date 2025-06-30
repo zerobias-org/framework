@@ -1,0 +1,13 @@
+id: 4a3a2668-2be6-4009-82c1-3c66e8b9e4b3
+name: Consistently apply authentication strength
+externalId: 576-042
+elementType: cre
+links:
+  demonstrates:
+    - CWE-306
+    - owasp.asvs.v4_0_3.framework/1.2.4
+    - CAPEC-12
+    - CAPEC-166
+    - CAPEC-216
+    - CAPEC-36
+    - CAPEC-62

@@ -1,0 +1,8 @@
+id: a904f532-7328-41c1-b679-1150e442aa35
+name: Ensure repeatability of deployment
+externalId: 208-355
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/14.1.4
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet

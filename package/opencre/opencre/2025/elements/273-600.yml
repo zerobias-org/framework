@@ -1,0 +1,26 @@
+id: 2bd4e6e7-932f-4dc9-8e05-011f7d74e0f4
+name: Segregate components of differing trust levels
+externalId: 273-600
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/ivs-08
+    - CWE-923
+    - owasp.asvs.v4_0_3.framework/1.14.1
+    - CWE-300
+    - CWE-419
+    - CWE-420
+    - CAPEC-161
+    - CAPEC-383
+    - CAPEC-466
+    - CAPEC-481
+    - CAPEC-501
+    - CAPEC-57
+    - CAPEC-589
+    - CAPEC-590
+    - CAPEC-612
+    - CAPEC-613
+    - CAPEC-615
+    - CAPEC-662
+    - CAPEC-697
+    - CAPEC-94

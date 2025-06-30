@@ -1,0 +1,17 @@
+id: 0d404066-48c5-4eba-adda-7ae2b559e318
+name: Lock/precompile queries (parameterization) to avoid injection attacks
+externalId: 732-873
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C3
+    - owasp.wstg.v5.benchmark/wstg-inpv-05
+    - owasp.asvs.v4_0_3.framework/5.3.4
+    - CWE-89
+    - OWASP Cheat Sheets/Query Parameterization Cheat Sheet
+    - CAPEC-108
+    - CAPEC-109
+    - CAPEC-110
+    - CAPEC-470
+    - CAPEC-66
+    - CAPEC-7

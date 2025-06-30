@@ -1,0 +1,15 @@
+id: 0c589e60-133f-498c-ac7b-4e1f0ddfcaa6
+name: Secret storage
+externalId: 223-780
+elementType: cre
+links:
+  demonstrates:
+    - owasp.samm.v1_0.framework/i-sd-b
+    - DevSecOps Maturity Model (DSOMM)/df428c9d-efa0-4226-9f47-a15bb53f822b
+    - DevSecOps Maturity Model (DSOMM)/94a96f79-8bd6-4904-97c0-994ff88f176a
+    - DevSecOps Maturity Model (DSOMM)/746025a6-dbfb-4087-a000-e46acab64ee1
+    - DevSecOps Maturity Model (DSOMM)/ad23be9c-5661-4f1f-81a3-5a5dc7061629
+    - DevSecOps Maturity Model (DSOMM)/0ff45fb8-7eef-46ed-9b3a-84c955cd7060
+    - DevSecOps Maturity Model (DSOMM)/ecb0184c-6bc9-45da-bbbb-a983797ffc93
+    - OWASP Cheat Sheets/Secrets Management Cheat Sheet
+parent: 774-888
