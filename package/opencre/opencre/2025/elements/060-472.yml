@@ -1,5 +1,6 @@
 id: 2e08578c-55ca-48f3-883e-7b383e8ccbc8
 name: Use CSRF protection against authenticated functionality, add anti-automation controls for unauthenticated functionality
+description: Use CSRF protection against authenticated functionality, add anti-automation controls for unauthenticated functionality
 externalId: 060-472
 elementType: cre
 links:

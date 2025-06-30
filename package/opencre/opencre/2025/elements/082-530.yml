@@ -1,5 +1,6 @@
 id: 02460152-205e-4cec-8408-d4eaed6c064d
 name: Use unique random salt with sufficient entropy for each credential
+description: Use unique random salt with sufficient entropy for each credential
 externalId: 082-530
 elementType: cre
 links:

@@ -1,5 +1,6 @@
 id: b59b0e40-9e10-49d3-b201-e0011294faf3
 name: Generate initial passwords with sufficient secure random, short expiration time and do not allow to reuse the initial password.
+description: Generate initial passwords with sufficient secure random, short expiration time and do not allow to reuse the initial password.
 externalId: 622-835
 elementType: cre
 links:

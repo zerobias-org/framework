@@ -1,5 +1,6 @@
 id: 6285d3f4-50f9-41cf-b184-1ec3e5e7a180
 name: (SSRF) When depending on internal server input, use validation sanitization and whitelisting
+description: (SSRF) When depending on internal server input, use validation sanitization and whitelisting
 externalId: 657-084
 elementType: cre
 links:

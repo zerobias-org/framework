@@ -1,5 +1,6 @@
 id: e856daad-5ed9-4f7a-979b-e85ec70805a2
 name: Sanitize user input before passing content to mail systems (SMTP/IMAP injection)
+description: Sanitize user input before passing content to mail systems (SMTP/IMAP injection)
 externalId: 881-434
 elementType: cre
 links:

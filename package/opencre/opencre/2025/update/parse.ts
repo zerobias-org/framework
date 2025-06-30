@@ -61,6 +61,7 @@ function main() {
     const element = {
       id: UUID.generateV4().toString(),
       name: e.name,
+      description: e.description || e.name,
       externalId: e.id,
       elementType: 'cre',
       links,

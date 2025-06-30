@@ -1,5 +1,6 @@
 id: 65c4c257-ad9f-44ac-bc70-9b3bbd8537b8
 name: Sanitize/sandbox user input where template-injection is a threat
+description: Sanitize/sandbox user input where template-injection is a threat
 externalId: 422-005
 elementType: cre
 links:

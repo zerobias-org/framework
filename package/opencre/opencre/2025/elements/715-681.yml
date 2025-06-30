@@ -1,5 +1,6 @@
 id: 2f40d567-1769-4b73-9c59-d7d9f5ff0fdd
 name: Avoid password truncation, with exception of consecutive spaces
+description: Avoid password truncation, with exception of consecutive spaces
 externalId: 715-681
 elementType: cre
 links:
