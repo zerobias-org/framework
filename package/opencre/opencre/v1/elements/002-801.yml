@@ -1,0 +1,21 @@
+id: 1bae0789-0532-4466-bdbf-919f9a08fd67
+name: Use approved cryptographic algorithms for generation, seeding and verification
+description: Use approved cryptographic algorithms for generation, seeding and verification
+externalId: 002-801
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.7.2
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - CWE-327
+    - owasp.asvs.v4_0_3.framework/2.9.3
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-1240
+    - CWE-780
+    - CAPEC-20
+    - CAPEC-459
+    - CAPEC-473
+    - CAPEC-475
+    - CAPEC-608
+    - CAPEC-614
+    - CAPEC-97

@@ -1,0 +1,15 @@
+id: 1783d072-945b-4f59-bebe-c87a2ce697db
+name: Deny new users by default
+description: Deny new users by default
+externalId: 817-808
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C7
+    - owasp.wstg.v5.benchmark/wstg-idnt-01
+    - CWE-276
+    - OWASP Cheat Sheets/Access Control Cheat Sheet
+    - OWASP Cheat Sheets/Authorization Testing Automation Cheat Sheet
+    - CAPEC-1
+    - CAPEC-127
+    - CAPEC-81

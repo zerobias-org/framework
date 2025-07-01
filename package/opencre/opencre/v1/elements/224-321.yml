@@ -1,0 +1,26 @@
+id: 482f99e3-c40f-4d8d-8478-2ba39fefacc2
+name: Encrypt health data at rest
+description: Encrypt health data at rest
+externalId: 224-321
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - OWASP Cheat Sheets/User Privacy Protection Cheat Sheet
+    - CWE-311
+    - owasp.asvs.v4_0_3.framework/6.1.2
+    - CAPEC-157
+    - CAPEC-158
+    - CAPEC-204
+    - CAPEC-31
+    - CAPEC-37
+    - CAPEC-383
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388
+    - CAPEC-477
+    - CAPEC-609
+    - CAPEC-65

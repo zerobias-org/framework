@@ -1,0 +1,18 @@
+id: 5726c6d2-4622-4e5e-9383-f5d720f7a807
+name: Allow only trusted sources both build time and runtime; therefore perform integrity checks on all resources and code
+description: Allow only trusted sources both build time and runtime; therefore perform integrity checks on all resources and code
+externalId: 307-507
+elementType: cre
+links:
+  demonstrates:
+    - CWE-353
+    - owasp.asvs.v4_0_3.framework/10.3.2
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet
+    - nist.800218.v1_1.framework/ps_2_1
+    - CAPEC-13
+    - CAPEC-14
+    - CAPEC-389
+    - CAPEC-39
+    - CAPEC-665
+    - CAPEC-74
+    - CAPEC-75

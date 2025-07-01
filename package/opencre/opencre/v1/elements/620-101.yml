@@ -1,0 +1,31 @@
+id: 2f4e2f95-bf24-448c-9e45-f5f16414e8ab
+name: Force output encoding for specific interpreter's context
+description: Force output encoding for specific interpreter's context
+externalId: 620-101
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C4
+    - owasp.wstg.v5.benchmark/wstg-appe-d
+    - CWE-116
+    - owasp.asvs.v4_0_3.framework/5.3.1
+    - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet
+    - OWASP Cheat Sheets/XML Security Cheat Sheet
+    - OWASP Cheat Sheets/XML External Entity Prevention Cheat Sheet
+    - OWASP Cheat Sheets/File Upload Cheat Sheet
+    - OWASP Cheat Sheets/Input Validation Cheat Sheet
+    - OWASP Cheat Sheets/Cross Site Scripting Prevention Cheat Sheet
+    - OWASP Cheat Sheets/DOM based XSS Prevention Cheat Sheet
+    - OWASP Cheat Sheets/HTML5 Security Cheat Sheet
+    - OWASP Cheat Sheets/Injection Prevention Cheat Sheet
+    - OWASP Cheat Sheets/Injection Prevention in Java Cheat Sheet
+    - OWASP Cheat Sheets/LDAP Injection Prevention Cheat Sheet
+    - OWASP Cheat Sheets/OS Command Injection Defense Cheat Sheet
+    - OWASP Cheat Sheets/Query Parameterization Cheat Sheet
+    - OWASP Cheat Sheets/SQL Injection Prevention Cheat Sheet
+    - OWASP Cheat Sheets/Bean Validation Cheat Sheet
+    - CWE-644
+    - CAPEC-104
+    - CAPEC-73
+    - CAPEC-81
+    - CAPEC-85

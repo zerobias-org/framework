@@ -1,0 +1,19 @@
+id: 0b6d9853-9b81-45ec-88b4-3f82ee07c459
+name: Protect communication between application components
+description: Protect communication between application components
+externalId: 527-034
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C3
+    - CWE-319
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/1.9.1
+    - CWE-5
+    - CWE-614
+    - CAPEC-102
+    - CAPEC-117
+    - CAPEC-383
+    - CAPEC-477
+    - CAPEC-65

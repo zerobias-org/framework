@@ -1,0 +1,10 @@
+id: 9b0de611-cdc1-49c7-b9aa-135d4577655b
+name: Scan untrusted files for malware
+description: Scan untrusted files for malware
+externalId: 112-273
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-busl-09
+    - owasp.asvs.v4_0_3.framework/12.4.2
+    - CWE-509

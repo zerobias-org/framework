@@ -1,0 +1,13 @@
+id: a2a8ed55-adfa-4bae-9284-7dfaad4877f3
+name: Set '_Host'  prefix for cookie-based session tokens
+description: Set '_Host'  prefix for cookie-based session tokens
+externalId: 232-034
+elementType: cre
+links:
+  demonstrates:
+    - CWE-16
+    - NIST 800-63/7.1.1
+    - owasp.wstg.v5.benchmark/wstg-sess-02
+    - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/3.4.4
+    - OWASP Cheat Sheets/Session Management Cheat Sheet

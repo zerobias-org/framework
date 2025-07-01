@@ -1,0 +1,27 @@
+id: e1d7e1d3-4b45-4b37-a0ae-dbe7da3738ca
+name: Authenticate by OTP token entry or user-initiated action on multi factor device
+description: Authenticate by OTP token entry or user-initiated action on multi factor device
+externalId: 525-361
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.2.9
+    - CWE-308
+    - owasp.asvs.v4_0_3.framework/2.2.7
+    - OWASP Cheat Sheets/Authentication Cheat Sheet
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - CAPEC-16
+    - CAPEC-49
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-555
+    - CAPEC-560
+    - CAPEC-561
+    - CAPEC-565
+    - CAPEC-600
+    - CAPEC-644
+    - CAPEC-645
+    - CAPEC-652
+    - CAPEC-653
+    - CAPEC-70

@@ -1,0 +1,13 @@
+id: aa5af76e-5cc8-410d-ae1f-a3a5aaa1179f
+name: Let application request minimal permissions
+description: Let application request minimal permissions
+externalId: 540-566
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/8.18
+    - CWE-272
+    - owasp.asvs.v4_0_3.framework/10.2.2
+    - CAPEC-17
+    - CAPEC-35
+    - CAPEC-76

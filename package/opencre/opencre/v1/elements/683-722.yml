@@ -1,0 +1,15 @@
+id: 5501599d-2e46-4bda-810b-a5b15a7b13e1
+name: Block direct execution of file metadata from untrusted origin
+description: Block direct execution of file metadata from untrusted origin
+externalId: 683-722
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-inpv-12
+    - owasp.asvs.v4_0_3.framework/12.3.5
+    - CWE-78
+    - CAPEC-108
+    - CAPEC-15
+    - CAPEC-43
+    - CAPEC-6
+    - CAPEC-88

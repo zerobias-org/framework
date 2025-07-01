@@ -1,0 +1,23 @@
+id: c17ebc3f-ad30-4af0-9165-3d2775a5df30
+name: Allow user revocation of Oauth tokens
+description: Allow user revocation of Oauth tokens
+externalId: 551-400
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/7.1.2
+    - OWASP Cheat Sheets/REST Security Cheat Sheet
+    - CWE-290
+    - owasp.asvs.v4_0_3.framework/3.5.1
+    - OWASP Cheat Sheets/JSON Web Token for Java Cheat Sheet
+    - CWE-293
+    - CAPEC-21
+    - CAPEC-22
+    - CAPEC-459
+    - CAPEC-461
+    - CAPEC-473
+    - CAPEC-476
+    - CAPEC-59
+    - CAPEC-60
+    - CAPEC-667
+    - CAPEC-94

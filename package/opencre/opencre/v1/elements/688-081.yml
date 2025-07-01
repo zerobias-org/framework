@@ -1,0 +1,15 @@
+id: 5f970a1b-a3cd-413a-aa25-9b04f306d56f
+name: Set "secure" attribute for cookie-based session tokens
+description: Set "secure" attribute for cookie-based session tokens
+externalId: 688-081
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C6
+    - NIST 800-63/7.1.1
+    - owasp.wstg.v5.benchmark/wstg-sess-02
+    - CWE-614
+    - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/3.4.1
+    - OWASP Cheat Sheets/Session Management Cheat Sheet
+    - CAPEC-102

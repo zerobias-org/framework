@@ -1,0 +1,18 @@
+id: d6f7fe70-76fe-44b4-a12a-a4f7e583df9a
+name: When storing session tokens in browser, use secure methods only
+description: When storing session tokens in browser, use secure methods only
+externalId: 455-358
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/7.1
+    - owasp.wstg.v5.benchmark/wstg-clnt-12
+    - owasp.wstg.v5.benchmark/wstg-sess-02
+    - CWE-539
+    - owasp.asvs.v4_0_3.framework/3.2.3
+    - OWASP Cheat Sheets/Session Management Cheat Sheet
+    - CAPEC-21
+    - CAPEC-31
+    - CAPEC-39
+    - CAPEC-59
+    - CAPEC-60

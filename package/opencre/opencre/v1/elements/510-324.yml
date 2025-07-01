@@ -1,0 +1,11 @@
+id: d4551ca1-d9ad-431b-996b-99a70215d57f
+name: Compliance
+description: Compliance
+externalId: 510-324
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/5.35
+    - iso.27001.2013.framework/5.36
+    - iso.27001.2013.framework/5.5
+    - owasp.samm.v1_0.framework/g-pc-b

@@ -1,0 +1,14 @@
+id: 7071341a-bae6-4cc1-a17d-de4e55fb3eae
+name: Change password with presence of old and new password
+description: Change password with presence of old and new password
+externalId: 327-505
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - owasp.wstg.v5.benchmark/wstg-athn-07
+    - OWASP Cheat Sheets/Choosing and Using Security Questions Cheat Sheet
+    - OWASP Cheat Sheets/Forgot Password Cheat Sheet
+    - OWASP Cheat Sheets/Credential Stuffing Prevention Cheat Sheet
+    - CWE-620
+    - owasp.asvs.v4_0_3.framework/2.1.6

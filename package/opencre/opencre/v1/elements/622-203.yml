@@ -1,0 +1,15 @@
+id: a74c7b24-dcc5-4011-b28c-ef4610cf422f
+name: Store passwords salted and hashed
+description: Store passwords salted and hashed
+externalId: 622-203
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - OWASP Proactive Controls/C6
+    - CWE-916
+    - owasp.asvs.v4_0_3.framework/2.4.1
+    - OWASP Cheat Sheets/Password Storage Cheat Sheet
+    - CWE-759
+    - CWE-760
+    - CAPEC-55

@@ -1,0 +1,14 @@
+id: bc618d83-502b-4483-9765-35af8411d3d3
+name: Cryptography
+description: Cryptography
+externalId: 170-772
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - csa.ccm.v4_0_12.framework/cek
+    - iso.27001.2013.framework/8.24
+    - nist.80053.rev5.framework/sc-12
+    - OWASP Top 10 2021/A02
+    - nist.80053.rev5.framework/sc-13
+    - nist.80053.rev5.framework/sc-17

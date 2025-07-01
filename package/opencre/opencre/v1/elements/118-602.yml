@@ -1,0 +1,10 @@
+id: 25a3c111-6efb-4529-b0d1-9999a078c021
+name: Use a standard last-resort error handler for unhandled errors
+description: Use a standard last-resort error handler for unhandled errors
+externalId: 118-602
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C10
+    - owasp.asvs.v4_0_3.framework/7.4.3
+    - CWE-431

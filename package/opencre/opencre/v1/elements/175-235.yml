@@ -1,0 +1,12 @@
+id: 45d657d7-db4e-49b6-b297-b3c447a987c4
+name: Validate file type of data from untrusted sources
+description: Validate file type of data from untrusted sources
+externalId: 175-235
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Third Party Javascript Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/12.2.1
+    - CWE-434
+    - OWASP Cheat Sheets/File Upload Cheat Sheet
+    - CAPEC-1

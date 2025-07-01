@@ -1,0 +1,15 @@
+id: 2889b434-35d0-4cc2-aeb0-351ad5a59b57
+name: Use centralized reusable security controls
+description: Use centralized reusable security controls
+externalId: 344-611
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Threat Modeling Cheat Sheet
+    - CWE-637
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - OWASP Cheat Sheets/Attack Surface Analysis Cheat Sheet
+    - OWASP Proactive Controls/C10
+    - owasp.asvs.v4_0_3.framework/1.1.6
+    - nist.800218.v1_1.framework/pw_1_3
+    - DevSecOps Maturity Model (DSOMM)/a511799b-045e-4b96-9843-7d63d8c1e2ad

@@ -1,0 +1,10 @@
+id: 4d7095f3-dea0-4107-be58-8f9337435d4e
+name: Synchronize time zones for logs
+description: Synchronize time zones for logs
+externalId: 770-361
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C9
+    - owasp.asvs.v4_0_3.framework/7.3.4
+    - OWASP Cheat Sheets/Logging Cheat Sheet

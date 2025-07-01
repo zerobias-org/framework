@@ -1,0 +1,10 @@
+id: 7d2d821a-8035-4b28-a42a-7ddf0929c2f8
+name: Do not expose session token in URL
+description: Do not expose session token in URL
+externalId: 402-133
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-sess-04
+    - CWE-598
+    - owasp.asvs.v4_0_3.framework/3.1.1

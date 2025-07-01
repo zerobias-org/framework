@@ -1,0 +1,22 @@
+id: ae528d46-c2c5-416c-9f4d-ab52cc532192
+name: Set content HTTP response type
+description: Set content HTTP response type
+externalId: 036-725
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/14.4.1
+    - CWE-173
+    - OWASP Cheat Sheets/Content Security Policy Cheat Sheet
+    - CAPEC-120
+    - CAPEC-267
+    - CAPEC-3
+    - CAPEC-4
+    - CAPEC-52
+    - CAPEC-53
+    - CAPEC-64
+    - CAPEC-71
+    - CAPEC-72
+    - CAPEC-78
+    - CAPEC-79
+    - CAPEC-80

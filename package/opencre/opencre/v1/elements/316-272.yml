@@ -1,0 +1,27 @@
+id: 95c44b6b-ad55-49b9-9af3-432c810b1621
+name: Whitelist CORS resources
+description: Whitelist CORS resources
+externalId: 316-272
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-clnt-07
+    - owasp.asvs.v4_0_3.framework/14.5.3
+    - CWE-346
+    - CWE-1385
+    - CAPEC-111
+    - CAPEC-141
+    - CAPEC-142
+    - CAPEC-160
+    - CAPEC-21
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388
+    - CAPEC-510
+    - CAPEC-59
+    - CAPEC-60
+    - CAPEC-75
+    - CAPEC-76
+    - CAPEC-89

@@ -1,0 +1,12 @@
+id: 084a2a96-5545-46a1-8ad8-d8e627c25ae1
+name: Equipment management
+description: Equipment management
+externalId: 157-587
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/7.9
+    - iso.27001.2013.framework/7.8
+    - nist.80053.rev5.framework/sc-41
+    - nist.80053.rev5.framework/sc-15
+parent: 114-853

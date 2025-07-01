@@ -1,0 +1,28 @@
+id: bf1fa941-b389-48b8-b5b7-a381263324db
+name: Use a unique challenge nonce of sufficient size
+description: Use a unique challenge nonce of sufficient size
+externalId: 287-251
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.7.2
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - CWE-330
+    - owasp.asvs.v4_0_3.framework/2.9.2
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-1204
+    - CWE-1241
+    - CWE-334
+    - CWE-340
+    - CWE-344
+    - CWE-323
+    - CWE-341
+    - CWE-342
+    - CWE-343
+    - CWE-6
+    - CAPEC-112
+    - CAPEC-20
+    - CAPEC-21
+    - CAPEC-485
+    - CAPEC-59
+    - CAPEC-97

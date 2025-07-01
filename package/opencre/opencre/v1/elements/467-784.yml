@@ -1,0 +1,12 @@
+id: 61dabe0b-d36b-4719-bdda-a680ca3c4f31
+name: Network security
+description: Network security
+externalId: 467-784
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/8.21
+    - iso.27001.2013.framework/8.23
+    - nist.80053.rev5.framework/sc-22
+    - nist.80053.rev5.framework/sc-7
+parent: 336-512

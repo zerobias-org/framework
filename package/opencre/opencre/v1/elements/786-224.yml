@@ -1,0 +1,15 @@
+id: 8b3b2937-2a18-444c-8685-11344734c47c
+name: Authenticate encrypted data
+description: Authenticate encrypted data
+externalId: 786-224
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-326
+    - owasp.asvs.v4_0_3.framework/6.2.7
+    - CAPEC-112
+    - CAPEC-192
+    - CAPEC-20

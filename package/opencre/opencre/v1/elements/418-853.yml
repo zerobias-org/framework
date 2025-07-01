@@ -1,0 +1,11 @@
+id: da3a6f09-7833-4489-b285-74059fc74051
+name: Monitor unusual activities on system
+description: Monitor unusual activities on system
+externalId: 418-853
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C9
+    - owasp.asvs.v4_0_3.framework/11.1.7
+    - CWE-754
+    - CWE-394

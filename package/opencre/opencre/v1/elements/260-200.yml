@@ -1,0 +1,11 @@
+id: 1f1346d9-fe30-4070-ace9-eab7127487ec
+name: Log in consistent format across system
+description: Log in consistent format across system
+externalId: 260-200
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C9
+    - owasp.asvs.v4_0_3.framework/1.7.1
+    - CWE-1009
+    - OWASP Cheat Sheets/Logging Cheat Sheet

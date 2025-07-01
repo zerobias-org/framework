@@ -1,0 +1,27 @@
+id: 14ab3813-2002-4e65-87ee-31139bfa0bfe
+name: Securely store files with untrusted origin
+description: Securely store files with untrusted origin
+externalId: 307-111
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-busl-09
+    - owasp.asvs.v4_0_3.framework/12.4.1
+    - CWE-552
+    - CWE-219
+    - CWE-220
+    - CWE-527
+    - CWE-528
+    - CWE-529
+    - CWE-530
+    - CWE-539
+    - CWE-553
+    - CWE-433
+    - CAPEC-150
+    - CAPEC-21
+    - CAPEC-31
+    - CAPEC-39
+    - CAPEC-59
+    - CAPEC-60
+    - CAPEC-639
+    - CAPEC-650
