@@ -1,5 +1,5 @@
 {
-  "name": "@zerobias-org/framework-opencre-opencre-2025",
+  "name": "@zerobias-org/framework-opencre-opencre-v1",
   "version": "1.1.2",
   "description": "OpenCRE framework",
   "author": "team@neverfail.com",
@@ -7,10 +7,10 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:zerobias-org/framework.git",
-    "directory": "package/opencre/opencre/2025/"
+    "directory": "package/opencre/opencre/v1/"
   },
   "auditmation": {
-    "package": "opencre.opencre.2025.framework",
+    "package": "opencre.opencre.v1.framework",
     "import-artifact": "framework",
     "dataloader-version": "3.6.6"
   },
