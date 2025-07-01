@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -20,6 +20,7 @@
   "dependencies": {
     "@zerobias-org/framework-cncf-sscp-v1": "1.0.0",
     "@zerobias-org/framework-nist-ir8397-v1": "1.0.0",
-    "@zerobias-org/framework-nist-label-2022": "1.0.0"
+    "@zerobias-org/framework-nist-label-2022": "1.0.0",
+    "@zerobias-org/framework-opencre-opencre-v1": "1.1.3"
   }
 }
