@@ -1,0 +1,11 @@
+id: bf3cd9e3-e9ed-42c2-b846-ebfa73cdd49e
+name: Store backups securely
+description: Store backups securely
+externalId: 614-353
+elementType: cre
+links:
+  demonstrates:
+    - CWE-19
+    - owasp.asvs.v4_0_3.framework/8.1.6
+    - CWE-922
+    - CWE-921

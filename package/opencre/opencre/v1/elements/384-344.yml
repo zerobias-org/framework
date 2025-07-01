@@ -1,0 +1,10 @@
+id: 4cde5f17-69d2-45e0-95a4-229a480a7823
+name: Store and serve user-uploaded files such that they cannot execute/damage server or client
+description: Store and serve user-uploaded files such that they cannot execute/damage server or client
+externalId: 384-344
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/1.12.2
+    - CWE-646
+    - CAPEC-209

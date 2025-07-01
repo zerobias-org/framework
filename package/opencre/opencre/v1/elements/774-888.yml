@@ -1,0 +1,11 @@
+id: cc70c7f6-f8bb-49c9-97c9-8fd4e984d1fb
+name: Do not store secrets in the code
+description: Do not store secrets in the code
+externalId: 774-888
+elementType: cre
+links:
+  demonstrates:
+    - CWE-798
+    - owasp.asvs.v4_0_3.framework/2.10.4
+    - CAPEC-191
+    - CAPEC-70

@@ -1,0 +1,16 @@
+id: 0be7322c-03d8-4dbc-8174-b9a9b31de973
+name: Architecture/design processes
+description: Architecture/design processes
+externalId: 326-704
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/8.27
+    - nist.80053.rev5.framework/pl-8
+    - nist.80053.rev5.framework/sa-17
+    - nist.80053.rev5.framework/sa-20
+    - nist.80053.rev5.framework/sc-27
+    - nist.80053.rev5.framework/sc-29
+    - nist.80053.rev5.framework/sa-23
+    - owasp.samm.v1_0.framework/d-sa-a
+parent: 068-102

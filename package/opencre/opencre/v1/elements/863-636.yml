@@ -1,0 +1,10 @@
+id: e7c5c37a-16ec-481d-aaba-65146ce9d9a9
+name: Use exception handling uniformly
+description: Use exception handling uniformly
+externalId: 863-636
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C10
+    - owasp.asvs.v4_0_3.framework/7.4.2
+    - CWE-544

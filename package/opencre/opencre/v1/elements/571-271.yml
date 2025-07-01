@@ -1,0 +1,21 @@
+id: 0357a004-584b-4e69-8d19-6a4445fdfdd7
+name: Program management
+description: Program management
+externalId: 571-271
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/5.1
+    - iso.27001.2013.framework/5.1
+    - iso.27001.2013.framework/5.8
+    - nist.80053.rev5.framework/pl-9
+    - nist.80053.rev5.framework/pm-1
+    - nist.80053.rev5.framework/pm-12
+    - nist.80053.rev5.framework/pm-14
+    - nist.80053.rev5.framework/pm-26
+    - nist.80053.rev5.framework/pm-32
+    - nist.80053.rev5.framework/pm-4
+    - nist.80053.rev5.framework/sc-1
+    - nist.80053.rev5.framework/si-1
+    - DevSecOps Maturity Model (DSOMM)/1b9281b9-48e2-4c01-9ac6-9db9931c4885
+parent: 833-030

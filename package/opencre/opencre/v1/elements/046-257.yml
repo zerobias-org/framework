@@ -1,0 +1,11 @@
+id: ce0a4ec5-3fa6-4047-b2e6-56075ae367dc
+name: Clear authentication data from client storage
+description: Clear authentication data from client storage
+externalId: 046-257
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-clnt-12
+    - CWE-922
+    - owasp.asvs.v4_0_3.framework/8.2.3
+    - CWE-921

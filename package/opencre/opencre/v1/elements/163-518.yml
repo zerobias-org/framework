@@ -1,0 +1,10 @@
+id: 7db9291d-fd54-47a8-8af1-8dd93fbd72ce
+name: Check uploaded archives for decompression attacks (eg zip bombs)
+description: Check uploaded archives for decompression attacks (eg zip bombs)
+externalId: 163-518
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/12.1.2
+    - CWE-409
+    - OWASP Cheat Sheets/File Upload Cheat Sheet

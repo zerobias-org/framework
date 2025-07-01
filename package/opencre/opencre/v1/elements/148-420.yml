@@ -1,0 +1,12 @@
+id: 48ecbfa6-ca96-4c75-8d4f-46421a27f359
+name: Log integrity
+description: Log integrity
+externalId: 148-420
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top 10 2021/A09
+    - nist.80053.rev5.framework/au-10
+    - nist.80053.rev5.framework/au-8
+    - nist.80053.rev5.framework/au-9
+parent: 260-200

@@ -1,0 +1,25 @@
+id: 3bf31990-0e29-4812-bae9-24100ee22071
+name: Personnel security
+description: Personnel security
+externalId: 172-101
+elementType: cre
+links:
+  demonstrates:
+    - iso.27001.2013.framework/5.4
+    - iso.27001.2013.framework/6.1
+    - iso.27001.2013.framework/6.5
+    - iso.27001.2013.framework/5.11
+    - iso.27001.2013.framework/6.6
+    - iso.27001.2013.framework/6.4
+    - iso.27001.2013.framework/6.2
+    - nist.80053.rev5.framework/sa-21
+    - nist.80053.rev5.framework/ps-1
+    - nist.80053.rev5.framework/ps-2
+    - nist.80053.rev5.framework/ps-3
+    - nist.80053.rev5.framework/ps-4
+    - nist.80053.rev5.framework/ps-5
+    - nist.80053.rev5.framework/ps-6
+    - nist.80053.rev5.framework/ps-7
+    - nist.80053.rev5.framework/ps-8
+    - nist.80053.rev5.framework/ps-9
+    - DevSecOps Maturity Model (DSOMM)/1b9281b9-48e2-4c01-9ac6-9db9931c4885

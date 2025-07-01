@@ -1,0 +1,34 @@
+id: 31da6120-3ef3-486f-9076-b2ef07edb688
+name: Classify personal data regarding retention so that old or outdated data is deleted
+description: Classify personal data regarding retention so that old or outdated data is deleted
+externalId: 268-272
+elementType: cre
+links:
+  demonstrates:
+    - CWE-285
+    - owasp.asvs.v4_0_3.framework/8.3.8
+    - CWE-1230
+    - CWE-1256
+    - CWE-1297
+    - CWE-926
+    - CWE-202
+    - CWE-612
+    - CAPEC-1
+    - CAPEC-104
+    - CAPEC-127
+    - CAPEC-13
+    - CAPEC-17
+    - CAPEC-180
+    - CAPEC-39
+    - CAPEC-402
+    - CAPEC-45
+    - CAPEC-51
+    - CAPEC-59
+    - CAPEC-60
+    - CAPEC-624
+    - CAPEC-625
+    - CAPEC-647
+    - CAPEC-668
+    - CAPEC-76
+    - CAPEC-77
+    - CAPEC-87

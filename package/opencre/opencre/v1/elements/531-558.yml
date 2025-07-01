@@ -1,0 +1,13 @@
+id: df0a7c00-52d4-4c2f-8311-c64dfa7e43be
+name: Protect against LDAP injection
+description: Protect against LDAP injection
+externalId: 531-558
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C4
+    - owasp.wstg.v5.benchmark/wstg-inpv-06
+    - owasp.asvs.v4_0_3.framework/5.3.7
+    - CWE-90
+    - OWASP Cheat Sheets/LDAP Injection Prevention Cheat Sheet
+    - CAPEC-136

@@ -1,0 +1,13 @@
+id: 2635a566-a1e8-467d-bc4d-458b8d28c8e1
+name: Avoid deserialization logic
+description: Avoid deserialization logic
+externalId: 831-563
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Deserialization Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/5.5.3
+    - CWE-502
+    - OWASP Cheat Sheets/XML Security Cheat Sheet
+    - OWASP Cheat Sheets/XML External Entity Prevention Cheat Sheet
+    - CAPEC-586

@@ -1,0 +1,12 @@
+id: 27845f2e-5760-40fc-bafb-68b4d585826b
+name: Credentials directives
+description: Credentials directives
+externalId: 455-885
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-athn-07
+    - OWASP Cheat Sheets/Choosing and Using Security Questions Cheat Sheet
+    - OWASP Cheat Sheets/Forgot Password Cheat Sheet
+    - OWASP Cheat Sheets/Credential Stuffing Prevention Cheat Sheet
+parent: 158-874

@@ -1,0 +1,11 @@
+id: 9d13c9d0-cf8b-4f04-9d1c-817f1a7d62e6
+name: Do not store sensitive data on client (browser) storage
+description: Do not store sensitive data on client (browser) storage
+externalId: 617-524
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-clnt-12
+    - CWE-922
+    - owasp.asvs.v4_0_3.framework/8.2.2
+    - CWE-921

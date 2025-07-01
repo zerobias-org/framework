@@ -1,0 +1,25 @@
+id: 768b1ce8-aa66-44a1-8a17-2693537a7bc9
+name: Use features in compile and build tools for executable security
+description: Use features in compile and build tools for executable security
+externalId: 314-131
+elementType: cre
+links:
+  demonstrates:
+    - CWE-120
+    - owasp.asvs.v4_0_3.framework/14.1.2
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet
+    - nist.800218.v1_1.framework/pw_6_1
+    - nist.800218.v1_1.framework/pw_6_2
+    - CAPEC-10
+    - CAPEC-100
+    - CAPEC-14
+    - CAPEC-24
+    - CAPEC-42
+    - CAPEC-44
+    - CAPEC-45
+    - CAPEC-46
+    - CAPEC-47
+    - CAPEC-67
+    - CAPEC-8
+    - CAPEC-9
+    - CAPEC-92

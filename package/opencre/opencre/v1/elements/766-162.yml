@@ -1,0 +1,10 @@
+id: 926f7e7c-df3c-47c2-bd7a-52a91da0c611
+name: Security Analysis and documentation
+description: Security Analysis and documentation
+externalId: 766-162
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/grc
+    - nist.80053.rev5.framework/pm-7
+parent: 287-823

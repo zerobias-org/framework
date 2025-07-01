@@ -1,0 +1,10 @@
+id: aedf20a0-39be-44df-a9ac-86b61857cb0f
+name: Check boundaries against integer overflow weaknesses
+description: Check boundaries against integer overflow weaknesses
+externalId: 482-771
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/5.4.3
+    - CWE-190
+    - CAPEC-92

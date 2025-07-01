@@ -1,0 +1,13 @@
+id: 21a59369-4d9e-49fc-bbe7-f252ce4b2e9e
+name: Use a dedicated secrets management solution
+description: Use a dedicated secrets management solution
+externalId: 340-375
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C8
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-798
+    - owasp.asvs.v4_0_3.framework/6.4.1
+    - CAPEC-191
+    - CAPEC-70

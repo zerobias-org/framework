@@ -1,0 +1,11 @@
+id: b5a1d1c0-9330-4ade-816a-43b4ac37c779
+name: Use security module to store one-time password verification keys
+description: Use security module to store one-time password verification keys
+externalId: 543-428
+elementType: cre
+links:
+  demonstrates:
+    - CWE-320
+    - NIST 800-63/5.1.4.2
+    - NIST 800-63/5.1.5.2
+    - owasp.asvs.v4_0_3.framework/2.8.2

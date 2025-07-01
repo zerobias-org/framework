@@ -1,0 +1,16 @@
+id: 213fb9c9-0b99-400e-b7b1-71174eec64ca
+name: Sandbox, containerize and/or isolate applications at the network level
+description: Sandbox, containerize and/or isolate applications at the network level
+externalId: 515-021
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C5
+    - CWE-265
+    - csa.ccm.v4_0_12.framework/ivs-06
+    - owasp.asvs.v4_0_3.framework/1.14.5
+    - iso.27001.2013.framework/8.22
+    - CWE-250
+    - CAPEC-104
+    - CAPEC-470
+    - CAPEC-69

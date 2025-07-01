@@ -1,0 +1,12 @@
+id: 22f2a693-cefc-430d-9105-20d3e5d81bf7
+name: Do not log credentials or payment details
+description: Do not log credentials or payment details
+externalId: 067-050
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C10
+    - OWASP Proactive Controls/C9
+    - owasp.asvs.v4_0_3.framework/7.1.1
+    - CWE-532
+    - CAPEC-215

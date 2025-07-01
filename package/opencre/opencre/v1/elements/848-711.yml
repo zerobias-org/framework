@@ -1,0 +1,24 @@
+id: 2bb9e723-41ba-48e7-bb10-1f5d0d432f1b
+name: Enforce input validation on a trusted service layer
+description: Enforce input validation on a trusted service layer
+externalId: 848-711
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C5
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - OWASP Cheat Sheets/Deserialization Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/1.5.3
+    - CWE-602
+    - CAPEC-162
+    - CAPEC-202
+    - CAPEC-207
+    - CAPEC-208
+    - CAPEC-21
+    - CAPEC-31
+    - CAPEC-383
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388

@@ -1,0 +1,12 @@
+id: 73a75c96-1ffe-4741-bc99-112288b3f66d
+name: Enable option to log out from all active session
+description: Enable option to log out from all active session
+externalId: 673-736
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/7.1
+    - CWE-613
+    - owasp.wstg.v5.benchmark/wstg-sess-06
+    - owasp.asvs.v4_0_3.framework/3.3.4
+    - OWASP Cheat Sheets/Session Management Cheat Sheet

@@ -1,0 +1,12 @@
+id: ab372a2d-4c8b-45fe-bac2-dd0886ce3172
+name: Protect sensitive functionalities against race conditions
+description: Protect sensitive functionalities against race conditions
+externalId: 134-412
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/11.1.6
+    - CWE-367
+    - CAPEC-27
+    - CAPEC-29
