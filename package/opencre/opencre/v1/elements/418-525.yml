@@ -1,0 +1,9 @@
+id: fe02afa6-0a3b-4bc7-9e8b-84e038997613
+name: Check source code and third party libraries to not contain timebombs
+description: Check source code and third party libraries to not contain timebombs
+externalId: 418-525
+elementType: cre
+links:
+  demonstrates:
+    - CWE-511
+    - owasp.asvs.v4_0_3.framework/10.2.4

@@ -1,0 +1,14 @@
+id: 003de99d-edad-4526-98d4-4b5a2d037b22
+name: Mutually authenticate application components
+description: Mutually authenticate application components
+externalId: 530-671
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - CWE-295
+    - owasp.asvs.v4_0_3.framework/1.9.2
+    - CWE-599
+    - CAPEC-459
+    - CAPEC-475

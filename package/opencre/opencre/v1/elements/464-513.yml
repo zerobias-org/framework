@@ -1,0 +1,20 @@
+id: e1d7a328-b3aa-4378-822c-918913a7471a
+name: Assurance processes
+description: Assurance processes
+externalId: 464-513
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/ais-03
+    - nist.80053.rev5.framework/ca-1
+    - nist.80053.rev5.framework/ca-2
+    - nist.80053.rev5.framework/ca-5
+    - nist.80053.rev5.framework/ca-6
+    - nist.80053.rev5.framework/ca-7
+    - nist.80053.rev5.framework/ca-8
+    - nist.80053.rev5.framework/si-20
+    - nist.80053.rev5.framework/si-5
+    - nist.80053.rev5.framework/pm-6
+    - nist.80053.rev5.framework/pm-31
+    - nist.800218.v1_1.framework/po_3_3
+parent: 217-168

@@ -1,0 +1,15 @@
+id: 19f58225-3e6e-433b-90a2-48f89ed2ad84
+name: Use nonces and initialization vectors only once
+description: Use nonces and initialization vectors only once
+externalId: 433-122
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-04
+    - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - CWE-326
+    - owasp.asvs.v4_0_3.framework/6.2.6
+    - CAPEC-112
+    - CAPEC-192
+    - CAPEC-20

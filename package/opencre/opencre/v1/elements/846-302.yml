@@ -1,0 +1,12 @@
+id: 03829cb7-ec54-4930-aa02-3e8534f5023f
+name: Prevent caching of sensitive data in server components
+description: Prevent caching of sensitive data in server components
+externalId: 846-302
+elementType: cre
+links:
+  demonstrates:
+    - CWE-524
+    - owasp.asvs.v4_0_3.framework/8.1.1
+    - CWE-525
+    - CAPEC-204
+    - CAPEC-37

@@ -1,0 +1,28 @@
+id: 39c9a996-0415-4a93-afce-9da5ce397ab7
+name: Describe high-level system architecture and perform threat modeling on it every critical change and regularly
+description: Describe high-level system architecture and perform threat modeling on it every critical change and regularly
+externalId: 068-102
+elementType: cre
+links:
+  demonstrates:
+    - CWE-1059
+    - OWASP Cheat Sheets/Threat Modeling Cheat Sheet
+    - OWASP Proactive Controls/C1
+    - owasp.asvs.v4_0_3.framework/1.1.5
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - OWASP Cheat Sheets/Attack Surface Analysis Cheat Sheet
+    - nist.80053.rev5.framework/sc-31
+    - owasp.samm.v1_0.framework/d-ta-b
+    - nist.800218.v1_1.framework/pw_1_1
+    - CWE-1053
+    - CWE-1110
+    - CWE-1111
+    - CWE-1112
+    - CWE-1118
+    - DevSecOps Maturity Model (DSOMM)/ae22dafd-bcd6-41ee-ba01-8b7fe6fc1ad9
+    - DevSecOps Maturity Model (DSOMM)/48f97f31-931c-46eb-9b3e-e2fec0cd0426
+    - DevSecOps Maturity Model (DSOMM)/47419324-e263-415b-815d-e7161b6b905e
+    - DevSecOps Maturity Model (DSOMM)/0a929c3e-ab9a-4206-8761-adf84b74622e
+    - DevSecOps Maturity Model (DSOMM)/bacf85b6-5bc0-405d-b5ba-a5d971467cc1
+    - DevSecOps Maturity Model (DSOMM)/dd5ed7c1-bdbf-400f-b75f-6d3953a1a04e
+    - DevSecOps Maturity Model (DSOMM)/f88d1b17-3d7d-4c3d-8139-ad44fc4942d4

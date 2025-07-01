@@ -1,0 +1,26 @@
+id: 987f43f8-579d-4a92-afb9-9fe8b016971e
+name: Avoid using of Origin header for authentication of access control
+description: Avoid using of Origin header for authentication of access control
+externalId: 405-411
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/14.5.2
+    - CWE-346
+    - CWE-1385
+    - CAPEC-111
+    - CAPEC-141
+    - CAPEC-142
+    - CAPEC-160
+    - CAPEC-21
+    - CAPEC-384
+    - CAPEC-385
+    - CAPEC-386
+    - CAPEC-387
+    - CAPEC-388
+    - CAPEC-510
+    - CAPEC-59
+    - CAPEC-60
+    - CAPEC-75
+    - CAPEC-76
+    - CAPEC-89

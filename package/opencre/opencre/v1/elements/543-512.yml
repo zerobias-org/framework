@@ -1,0 +1,18 @@
+id: e2471338-e1a3-4ec9-9fd5-f3508af3a065
+name: Verify content-type for REST services
+description: Verify content-type for REST services
+externalId: 543-512
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/13.2.5
+    - CWE-436
+    - OWASP Cheat Sheets/REST Assessment Cheat Sheet
+    - OWASP Cheat Sheets/REST Security Cheat Sheet
+    - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet
+    - CWE-115
+    - CWE-437
+    - CWE-650
+    - CAPEC-105
+    - CAPEC-273
+    - CAPEC-34

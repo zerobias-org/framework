@@ -1,0 +1,11 @@
+id: 2d7127da-32f9-41a4-96d1-8ccc98fabf82
+name: Dependency management
+description: Dependency management
+externalId: 613-286
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top 10 2021/A06
+    - owasp.samm.v1_0.framework/i-sb-b
+    - nist.800218.v1_1.framework/rv_1_1
+parent: 053-751

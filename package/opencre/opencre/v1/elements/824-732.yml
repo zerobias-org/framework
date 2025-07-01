@@ -1,0 +1,11 @@
+id: 5857b1c9-e0aa-41b8-93a1-4d40529e3ae1
+name: Force format strings as constants
+description: Force format strings as constants
+externalId: 824-732
+elementType: cre
+links:
+  demonstrates:
+    - owasp.asvs.v4_0_3.framework/5.4.2
+    - CWE-134
+    - CAPEC-135
+    - CAPEC-67

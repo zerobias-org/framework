@@ -1,0 +1,15 @@
+id: f7c651a8-7cc2-44a2-9df3-81ddf0106b3c
+name: Send authentication secrets encrypted
+description: Send authentication secrets encrypted
+externalId: 270-634
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - owasp.wstg.v5.benchmark/wstg-athn-01
+    - OWASP Proactive Controls/C6
+    - owasp.asvs.v4_0_3.framework/2.5.1
+    - CWE-640
+    - OWASP Cheat Sheets/Choosing and Using Security Questions Cheat Sheet
+    - OWASP Cheat Sheets/Forgot Password Cheat Sheet
+    - CAPEC-50

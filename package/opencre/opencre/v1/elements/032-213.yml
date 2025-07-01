@@ -1,0 +1,11 @@
+id: 8fbc998c-150a-4909-8768-ebe446b86a81
+name: Use an isolated security module for cryptographic operations
+description: Use an isolated security module for cryptographic operations
+externalId: 032-213
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Proactive Controls/C8
+    - CWE-320
+    - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/6.4.2

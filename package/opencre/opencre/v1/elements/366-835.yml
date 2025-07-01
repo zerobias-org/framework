@@ -1,0 +1,32 @@
+id: 43478f5b-6645-4e14-8409-0d89f78cd01e
+name: Escape output against XSS
+description: Escape output against XSS
+externalId: 366-835
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-inpv-01
+    - OWASP Proactive Controls/C4
+    - owasp.asvs.v4_0_3.framework/5.3.3
+    - CWE-79
+    - OWASP Cheat Sheets/Cross Site Scripting Prevention Cheat Sheet
+    - OWASP Cheat Sheets/DOM based XSS Prevention Cheat Sheet
+    - OWASP Cheat Sheets/Injection Prevention Cheat Sheet
+    - CWE-80
+    - CWE-83
+    - CWE-84
+    - CWE-87
+    - CWE-82
+    - CAPEC-18
+    - CAPEC-193
+    - CAPEC-199
+    - CAPEC-209
+    - CAPEC-243
+    - CAPEC-244
+    - CAPEC-32
+    - CAPEC-588
+    - CAPEC-591
+    - CAPEC-592
+    - CAPEC-63
+    - CAPEC-85
+    - CAPEC-86

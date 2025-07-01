@@ -1,0 +1,22 @@
+id: 6f017cd7-2c20-4cb8-b8c9-ba1920de44ec
+name: Do not enforce password rotation rules or history requirements
+description: Do not enforce password rotation rules or history requirements
+externalId: 338-370
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - owasp.asvs.v4_0_3.framework/2.1.10
+    - CWE-263
+    - CAPEC-16
+    - CAPEC-49
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-555
+    - CAPEC-560
+    - CAPEC-561
+    - CAPEC-565
+    - CAPEC-600
+    - CAPEC-652
+    - CAPEC-653
+    - CAPEC-70

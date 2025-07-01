@@ -1,0 +1,27 @@
+id: 6777e306-f0a8-442d-bbd8-1e126d3dd2a7
+name: Mandate using multi factor authentication
+description: Mandate using multi factor authentication
+externalId: 524-446
+elementType: cre
+links:
+  demonstrates:
+    - CWE-308
+    - NIST 800-63/5.2.8
+    - owasp.asvs.v4_0_3.framework/2.2.6
+    - OWASP Cheat Sheets/Authentication Cheat Sheet
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - CAPEC-16
+    - CAPEC-49
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-555
+    - CAPEC-560
+    - CAPEC-561
+    - CAPEC-565
+    - CAPEC-600
+    - CAPEC-644
+    - CAPEC-645
+    - CAPEC-652
+    - CAPEC-653
+    - CAPEC-70

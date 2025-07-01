@@ -1,0 +1,20 @@
+id: 9c0f7e49-495d-4d65-8962-c463f0173029
+name: Endpoint management
+description: Endpoint management
+externalId: 148-227
+elementType: cre
+links:
+  demonstrates:
+    - csa.ccm.v4_0_12.framework/uem
+    - iso.27001.2013.framework/8.17
+    - iso.27001.2013.framework/6.7
+    - iso.27001.2013.framework/8.1
+    - iso.27001.2013.framework/8.19
+    - nist.80053.rev5.framework/sc-45
+    - nist.80053.rev5.framework/sc-49
+    - nist.80053.rev5.framework/sc-51
+    - nist.80053.rev5.framework/sc-25
+    - nist.80053.rev5.framework/pl-2
+    - nist.80053.rev5.framework/si-8
+    - DevSecOps Maturity Model (DSOMM)/dccf1949-b9a8-4ce8-b992-6a4a7f3a623a
+parent: 286-500

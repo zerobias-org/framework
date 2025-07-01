@@ -1,0 +1,21 @@
+id: 8bf3da6a-89f5-4b28-9400-cedd7fb4ec1c
+name: Security risk assessment
+description: Security risk assessment
+externalId: 307-242
+elementType: cre
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-1
+    - nist.80053.rev5.framework/ra-2
+    - nist.80053.rev5.framework/ra-3
+    - nist.80053.rev5.framework/ra-5
+    - nist.80053.rev5.framework/ra-6
+    - nist.80053.rev5.framework/ra-7
+    - nist.80053.rev5.framework/ra-8
+    - nist.80053.rev5.framework/ra-9
+    - nist.80053.rev5.framework/pm-11
+    - nist.80053.rev5.framework/pm-28
+    - nist.80053.rev5.framework/pm-8
+    - nist.80053.rev5.framework/pm-9
+    - owasp.samm.v1_0.framework/d-ta-a
+parent: 888-770

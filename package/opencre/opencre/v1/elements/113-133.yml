@@ -1,0 +1,14 @@
+id: 3ee0e067-2a62-45b0-8bce-1e72db366842
+name: Use centralized authentication mechanism
+description: Use centralized authentication mechanism
+externalId: 113-133
+elementType: cre
+links:
+  demonstrates:
+    - CWE-306
+    - owasp.asvs.v4_0_3.framework/1.2.3
+    - CAPEC-12
+    - CAPEC-166
+    - CAPEC-216
+    - CAPEC-36
+    - CAPEC-62

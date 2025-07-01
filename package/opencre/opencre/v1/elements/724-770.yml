@@ -1,0 +1,17 @@
+id: acd86e50-99af-45fe-a639-38717a873249
+name: Technical application access control
+description: Technical application access control
+externalId: 724-770
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top 10 2021/A01
+    - nist.80053.rev5.framework/ac-14
+    - nist.80053.rev5.framework/ac-16
+    - nist.80053.rev5.framework/ac-2
+    - nist.80053.rev5.framework/ac-24
+    - nist.80053.rev5.framework/ac-5
+    - nist.80053.rev5.framework/sc-2
+    - nist.80053.rev5.framework/ac-19
+    - nist.80053.rev5.framework/ac-25
+parent: 123-124

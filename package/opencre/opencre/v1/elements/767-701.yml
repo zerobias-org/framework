@@ -1,0 +1,16 @@
+id: 9f731b3e-a5c6-43ab-a0e7-2b3d071f1e79
+name: Verify strong TLS algorithms by testing
+description: Verify strong TLS algorithms by testing
+externalId: 767-701
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-cryp-01
+    - CWE-326
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/9.1.2
+    - OWASP Cheat Sheets/HTTP Strict Transport Security Cheat Sheet
+    - CAPEC-112
+    - CAPEC-192
+    - CAPEC-20

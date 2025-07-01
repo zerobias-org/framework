@@ -1,0 +1,30 @@
+id: f4a4473b-84de-47fc-b2fe-b8829813b5e3
+name: Store credentials securely
+description: Store credentials securely
+externalId: 881-321
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.1
+    - CWE-522
+    - owasp.asvs.v4_0_3.framework/2.10.3
+    - CWE-256
+    - CWE-260
+    - CWE-261
+    - CWE-549
+    - CWE-13
+    - CWE-555
+    - CAPEC-102
+    - CAPEC-474
+    - CAPEC-50
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-551
+    - CAPEC-555
+    - CAPEC-560
+    - CAPEC-561
+    - CAPEC-600
+    - CAPEC-644
+    - CAPEC-645
+    - CAPEC-652
+    - CAPEC-653

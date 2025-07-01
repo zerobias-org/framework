@@ -1,0 +1,25 @@
+id: 4d7ca89c-d1cc-470b-b22f-e493498d7180
+name: Enforce integrity check for externally hosted assets (eg SRI)
+description: Enforce integrity check for externally hosted assets (eg SRI)
+externalId: 577-260
+elementType: cre
+links:
+  demonstrates:
+    - CWE-829
+    - owasp.asvs.v4_0_3.framework/14.2.3
+    - OWASP Cheat Sheets/Docker Security Cheat Sheet
+    - OWASP Cheat Sheets/Vulnerable Dependency Management Cheat Sheet
+    - CWE-830
+    - CAPEC-175
+    - CAPEC-201
+    - CAPEC-228
+    - CAPEC-251
+    - CAPEC-252
+    - CAPEC-253
+    - CAPEC-263
+    - CAPEC-538
+    - CAPEC-549
+    - CAPEC-640
+    - CAPEC-660
+    - CAPEC-695
+    - CAPEC-698

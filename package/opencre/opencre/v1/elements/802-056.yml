@@ -1,0 +1,24 @@
+id: b7b85a85-f829-4ae1-a95b-0ad797e0f75f
+name: Restrict excessive authentication
+description: Restrict excessive authentication
+externalId: 802-056
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - owasp.wstg.v5.benchmark/wstg-athn-03
+    - NIST 800-63/5.2.2
+    - NIST 800-63/5.1.4.2
+    - NIST 800-63/5.1.5.2
+    - CWE-307
+    - owasp.asvs.v4_0_3.framework/2.2.1
+    - OWASP Cheat Sheets/Authentication Cheat Sheet
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - CAPEC-16
+    - CAPEC-49
+    - CAPEC-560
+    - CAPEC-565
+    - CAPEC-600
+    - CAPEC-652
+    - CAPEC-653

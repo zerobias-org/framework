@@ -1,0 +1,20 @@
+id: 1857c073-839e-4a7b-b15e-3152a52f961b
+name: Mutually authenticate application and credential service provider
+description: Mutually authenticate application and credential service provider
+externalId: 558-807
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.2.6
+    - CWE-319
+    - owasp.asvs.v4_0_3.framework/2.2.5
+    - OWASP Cheat Sheets/Authentication Cheat Sheet
+    - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - CWE-5
+    - CWE-614
+    - CAPEC-102
+    - CAPEC-117
+    - CAPEC-383
+    - CAPEC-477
+    - CAPEC-65

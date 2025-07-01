@@ -1,0 +1,36 @@
+id: a632e77a-c90e-44a3-aec7-fd5544c2f1d6
+name: Validate max input/file sizes
+description: Validate max input/file sizes
+externalId: 660-052
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-busl-09
+    - owasp.asvs.v4_0_3.framework/12.1.1
+    - CWE-400
+    - OWASP Cheat Sheets/File Upload Cheat Sheet
+    - CWE-1235
+    - CWE-1246
+    - CWE-405
+    - CWE-771
+    - CWE-779
+    - CWE-1050
+    - CWE-1072
+    - CWE-1073
+    - CWE-1084
+    - CWE-1089
+    - CWE-1094
+    - CWE-1176
+    - CWE-406
+    - CWE-407
+    - CWE-409
+    - CWE-773
+    - CAPEC-147
+    - CAPEC-212
+    - CAPEC-227
+    - CAPEC-492
+    - CWE-1042
+    - CWE-1046
+    - CWE-1049
+    - CWE-1063
+    - CWE-1067

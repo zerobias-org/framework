@@ -1,0 +1,19 @@
+id: 59245db7-2343-4de6-9544-5e4f7c201940
+name: Provide a password strength meter
+description: Provide a password strength meter
+externalId: 604-025
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - CWE-521
+    - owasp.asvs.v4_0_3.framework/2.1.8
+    - CAPEC-112
+    - CAPEC-16
+    - CAPEC-49
+    - CAPEC-509
+    - CAPEC-55
+    - CAPEC-555
+    - CAPEC-561
+    - CAPEC-565
+    - CAPEC-70

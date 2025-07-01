@@ -1,0 +1,13 @@
+id: 404e2310-475c-47a8-ac4e-ec4f44460da1
+name: Disallow shared high privileged accounts
+description: Disallow shared high privileged accounts
+externalId: 623-347
+elementType: cre
+links:
+  demonstrates:
+    - NIST 800-63/5.1.1.2
+    - CWE-16
+    - NIST 800-63/A.3
+    - owasp.asvs.v4_0_3.framework/2.5.4
+    - OWASP Cheat Sheets/Choosing and Using Security Questions Cheat Sheet
+    - OWASP Cheat Sheets/Forgot Password Cheat Sheet

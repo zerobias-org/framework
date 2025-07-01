@@ -1,0 +1,13 @@
+id: 17841693-879f-49fe-850b-d24aa674856b
+name: Limit REST HTTP methods
+description: Limit REST HTTP methods
+externalId: 532-878
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-inpv-03
+    - owasp.asvs.v4_0_3.framework/13.2.1
+    - CWE-650
+    - OWASP Cheat Sheets/REST Assessment Cheat Sheet
+    - OWASP Cheat Sheets/REST Security Cheat Sheet
+    - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet

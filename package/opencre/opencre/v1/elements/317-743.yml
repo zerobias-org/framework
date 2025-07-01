@@ -1,0 +1,15 @@
+id: 9ca73d9a-f96d-4a67-b595-1620dad20d25
+name: Do not use eval or dynamic code execution functions
+description: Do not use eval or dynamic code execution functions
+externalId: 317-743
+elementType: cre
+links:
+  demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-clnt-02
+    - CWE-95
+    - owasp.asvs.v4_0_3.framework/5.2.4
+    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
+    - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet
+    - OWASP Cheat Sheets/Cross Site Scripting Prevention Cheat Sheet
+    - OWASP Cheat Sheets/DOM based XSS Prevention Cheat Sheet
+    - CAPEC-35
