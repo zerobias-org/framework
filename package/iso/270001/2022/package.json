@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-iso-27001-2022a",
-  "version": "1.1.0-rc.1",
+  "version": "1.1.0",
   "description": "framework package for iso-27001-2022",
   "author": "team@neverfail.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
     "mappings/*"
   ],
   "dependencies": {
-    "@auditlogic/suite-iso-27001": "^1.0.0"
+    "@auditlogic/suite-iso-27001": "latest"
   },
   "scripts": {
     "nx:publish": "../../../../scripts/publish.sh",

@@ -1,15 +1,15 @@
 {
   "name": "@zerobias-org/framework-iso-27001-2022a",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-iso-27001-2022a",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/suite-iso-27001": "^1.0.0"
+        "@auditlogic/suite-iso-27001": "latest"
       },
       "engines": {
         "node": ">=16.11.0",
