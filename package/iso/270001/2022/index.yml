@@ -1,0 +1,17 @@
+id: 0f65d7e6-0532-4755-8018-5df9c19412e7
+name: ISO 27001 2022 (Controls)
+externalId: ISO 27001 (Controls)
+description: 27001 - Information Security Management Systems (ISMS) - Controls
+code: iso_27001_2022_controls
+status: approved
+url: https://www.iso.org/standard/27001
+external: true
+internal: true
+source: ISO
+elementTypes:
+  - id: bc189c86-31fc-44b2-a930-099bbee44d2d
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

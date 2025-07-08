@@ -1,0 +1,39 @@
+{
+  "name": "@zerobias-org/framework-iso-27001-2022a",
+  "version": "1.1.0-rc.0",
+  "description": "framework package for iso-27001-2022",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/iso/27001/2022/"
+  },
+  "auditmation": {
+    "package": "iso.27001.2022a.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.6.6"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines.*",
+    "elements/*",
+    "mappings/*"
+  ],
+  "dependencies": {
+    "@auditlogic/suite-iso-27001": "^1.0.0"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  }
+}

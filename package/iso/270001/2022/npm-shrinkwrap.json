@@ -1,0 +1,48 @@
+{
+  "name": "@zerobias-org/framework-iso-27001-2022a",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-iso-27001-2022a",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@auditlogic/suite-iso-27001": "^1.0.0"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@auditlogic/suite-iso-27001": {
+      "version": "1.0.6",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-iso-27001/-/16d5a9c8c25d1d7e0b44b59dee5b5f89a94c3ce4",
+      "integrity": "sha512-agse/TxZLTeZIAu7VijloITTKBW93UmuXFfhwCDhxBtEYmD0RaMXHERdcBFkR/pFCmPd57gE/6IHbGVbXo+ZLw==",
+      "dependencies": {
+        "@auditlogic/vendor-iso": "^1.0.3"
+      }
+    },
+    "node_modules/@auditlogic/vendor-iso": {
+      "version": "1.0.3",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-iso/-/24519450dd80d0d229700c4adba5c6b8c0082637",
+      "integrity": "sha512-kqVCrc8zYcDpbejHUuWhpsF8fKOOyIorYixloEbsjUP96enAxmlr/RqyL+J18idGY2UUhU+vhE1e+SaY69G3jg=="
+    }
+  },
+  "dependencies": {
+    "@auditlogic/suite-iso-27001": {
+      "version": "1.0.6",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/suite-iso-27001/-/16d5a9c8c25d1d7e0b44b59dee5b5f89a94c3ce4",
+      "integrity": "sha512-agse/TxZLTeZIAu7VijloITTKBW93UmuXFfhwCDhxBtEYmD0RaMXHERdcBFkR/pFCmPd57gE/6IHbGVbXo+ZLw==",
+      "requires": {
+        "@auditlogic/vendor-iso": "^1.0.3"
+      }
+    },
+    "@auditlogic/vendor-iso": {
+      "version": "1.0.3",
+      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-iso/-/24519450dd80d0d229700c4adba5c6b8c0082637",
+      "integrity": "sha512-kqVCrc8zYcDpbejHUuWhpsF8fKOOyIorYixloEbsjUP96enAxmlr/RqyL+J18idGY2UUhU+vhE1e+SaY69G3jg=="
+    }
+  }
+}
