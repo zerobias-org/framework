@@ -35,8 +35,8 @@ jobs:
           registry-url: 'https://npm.pkg.github.com'
           scope: '@zerobias-org'
 
-      - name: Install root dependencies
-        run: npm install
+      - name: Install root dependencies (optional)
+        run: npm install || echo "⚠️ Root dependencies failed to install, continuing with package-level installs"
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -64,6 +64,7 @@ jobs:
           echo "Found packages with update scripts: $packages_with_updates"
 
       - name: Update framework packages
+        id: update
         if: steps.discover.outputs.packages != ''
         run: |
           IFS=',' read -ra PACKAGES <<< "${{ steps.discover.outputs.packages }}"
@@ -109,6 +110,10 @@ jobs:
           
           echo "UPDATED_PACKAGES=$updated_packages" >> $GITHUB_ENV
           echo "FAILED_PACKAGES=$failed_packages" >> $GITHUB_ENV
+          
+          # Also set as outputs for use in other steps
+          echo "updated_packages=$updated_packages" >> $GITHUB_OUTPUT
+          echo "failed_packages=$failed_packages" >> $GITHUB_OUTPUT
           
           echo "=========================================="
           echo "Update Summary:"
