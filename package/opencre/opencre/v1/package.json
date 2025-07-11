@@ -29,8 +29,8 @@
     "prepublishtest": "../../../../scripts/prepublish.sh",
     "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
     "validate": "ts-node ../../../../scripts/validate.ts",
-    "update": "ts-node update/update.ts",
-    "update:force": "ts-node update/update.ts --force",
+    "update": "tsx update/update.ts",
+    "update:force": "tsx update/update.ts --force",
     "update:legacy": "ts-node update/parse.ts"
   },
   "devDependencies": {
@@ -39,6 +39,7 @@
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^20.0.0",
     "ts-node": "^10.0.0",
+    "tsx": "^4.0.0",
     "typescript": "^5.0.0"
   },
   "dependencies": {
