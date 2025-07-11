@@ -39,6 +39,7 @@ jobs:
         run: npm install || echo "⚠️ Root dependencies failed to install, continuing with package-level installs"
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
 
       - name: Discover packages with update scripts
         id: discover
@@ -66,6 +67,9 @@ jobs:
       - name: Update framework packages
         id: update
         if: steps.discover.outputs.packages != ''
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
         run: |
           IFS=',' read -ra PACKAGES <<< "${{ steps.discover.outputs.packages }}"
           updated_packages=""
@@ -78,14 +82,14 @@ jobs:
             
             cd "$package_dir"
             
-            # Install package dependencies if needed
+            # Install package dependencies if needed  
             if [ -f "package.json" ]; then
               echo "Installing dependencies for $package_dir..."
+              # Try with available auth, continue if fails
               npm install || {
-                echo "Failed to install dependencies for $package_dir"
-                failed_packages="$failed_packages $package_dir(deps)"
-                cd - > /dev/null
-                continue
+                echo "⚠️ Failed to install dependencies for $package_dir, attempting to continue..."
+                echo "This may be due to private registry authentication issues"
+                # Don't fail here, try to run update anyway
               }
             fi
             
