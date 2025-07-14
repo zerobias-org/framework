@@ -312,7 +312,7 @@ class OpenCREUpdater {
     }
   }
 
-  async processElements(data?: any[]): Promise<any[]> {
+  async processElements(data?: OpenCREData | any[]): Promise<any[]> {
     try {
       let elementsData = data;
       

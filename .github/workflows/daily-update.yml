@@ -167,28 +167,52 @@ jobs:
           # Push to test branch for safe testing
           git push origin HEAD:test
 
+      - name: Create PR to dev
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Create PR to dev branch
+          pr_title="chore: 🤖 daily framework updates $(date +%Y-%m-%d)"
+          pr_body="Automated daily update of framework packages.
+
+          ## Summary
+          Updated packages:${{ env.UPDATED_PACKAGES }}
+          Failed packages:${{ env.FAILED_PACKAGES }}
+
+          🤖 Generated with GitHub Actions"
+          
+          gh pr create \
+            --title "$pr_title" \
+            --body "$pr_body" \
+            --base dev \
+            --head test \
+            --assignee @me \
+            || echo "PR may already exist or failed to create"
+
       - name: Update summary
         if: always()
         run: |
           echo "## Daily Update Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
+          # Successfully updated packages
           if [ -n "${{ env.UPDATED_PACKAGES }}" ]; then
-            echo "### ✅ Successfully Updated Packages" >> $GITHUB_STEP_SUMMARY
+            echo "✅ **Updated:**" >> $GITHUB_STEP_SUMMARY
             echo "${{ env.UPDATED_PACKAGES }}" | tr ' ' '\n' | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
           fi
           
+          # Failed packages
           if [ -n "${{ env.FAILED_PACKAGES }}" ]; then
-            echo "### ❌ Failed Packages" >> $GITHUB_STEP_SUMMARY
+            echo "❌ **Failed:**" >> $GITHUB_STEP_SUMMARY
             echo "${{ env.FAILED_PACKAGES }}" | tr ' ' '\n' | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
           fi
           
+          # Commit status
           if [ "${{ steps.changes.outputs.has_changes }}" == "true" ]; then
-            echo "### 📝 Changes Committed" >> $GITHUB_STEP_SUMMARY
-            echo "Changes have been committed and pushed to the \`test\` branch for safe testing." >> $GITHUB_STEP_SUMMARY
+            echo "📝 Changes committed to \`test\` branch and PR created to \`dev\`" >> $GITHUB_STEP_SUMMARY
           else
-            echo "### ℹ️ No Changes" >> $GITHUB_STEP_SUMMARY
-            echo "No updates were necessary - all packages are up to date." >> $GITHUB_STEP_SUMMARY
+            echo "ℹ️ No changes - all packages up to date" >> $GITHUB_STEP_SUMMARY
           fi
