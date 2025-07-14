@@ -35,6 +35,12 @@ jobs:
           registry-url: 'https://npm.pkg.github.com'
           scope: '@zerobias-org'
 
+      - name: Install root dependencies
+        run: npm install
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
+
       - name: Discover packages with update scripts
         id: discover
         run: |
