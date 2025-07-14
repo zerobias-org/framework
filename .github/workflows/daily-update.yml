@@ -169,16 +169,22 @@ jobs:
             Failed packages:${{ env.FAILED_PACKAGES }}
             
             🤖 Generated with GitHub Actions
-          title: "chore: 🤖 daily framework updates $(date +%Y-%m-%d)"
+          title: "chore: 🤖 daily framework updates ${{ github.run_number }}"
           body: |
             Automated daily update of framework packages.
 
             ## Summary
-            Updated packages:${{ env.UPDATED_PACKAGES }}
-            Failed packages:${{ env.FAILED_PACKAGES }}
+            **Updated packages:**
+            ${{ env.UPDATED_PACKAGES }}
+
+            **Failed packages:**
+            ${{ env.FAILED_PACKAGES }}
+
+            **Run ID:** ${{ github.run_id }}
+            **Workflow:** ${{ github.workflow }}
 
             🤖 Generated with GitHub Actions
-          branch: "daily-updates-$(date +%Y-%m-%d-%H%M%S)"
+          branch: "daily-updates-${{ github.run_number }}"
           base: dev
 
       - name: Update summary
