@@ -155,37 +155,61 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      - name: Create Pull Request
+      - name: Commit and push changes
         if: steps.changes.outputs.has_changes == 'true'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: |
-            chore: 🤖 daily framework updates
-            
-            Automated daily update of framework packages.
-            
-            Updated packages:${{ env.UPDATED_PACKAGES }}
-            Failed packages:${{ env.FAILED_PACKAGES }}
-            
-            🤖 Generated with GitHub Actions
-          title: "chore: 🤖 daily framework updates ${{ github.run_number }}"
-          body: |
-            Automated daily update of framework packages.
+        run: |
+          # Create a unique branch name
+          branch_name="daily-updates-${{ github.run_number }}"
+          git checkout -b "$branch_name"
+          
+          # Add all changes
+          git add .
+          
+          # Create commit message
+          commit_msg="chore: 🤖 daily framework updates
+          
+          Automated daily update of framework packages.
+          
+          Updated packages:${{ env.UPDATED_PACKAGES }}
+          Failed packages:${{ env.FAILED_PACKAGES }}
+          
+          🤖 Generated with GitHub Actions"
+          
+          # Commit changes
+          git commit -m "$commit_msg"
+          
+          # Push the new branch
+          git push origin "$branch_name"
+          
+          # Store branch name for PR creation
+          echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
 
-            ## Summary
-            **Updated packages:**
-            ${{ env.UPDATED_PACKAGES }}
+      - name: Create PR to dev
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Create PR to dev branch
+          pr_title="chore: 🤖 daily framework updates ${{ github.run_number }}"
+          pr_body="Automated daily update of framework packages.
 
-            **Failed packages:**
-            ${{ env.FAILED_PACKAGES }}
+          ## Summary
+          **Updated packages:**
+          ${{ env.UPDATED_PACKAGES }}
 
-            **Run ID:** ${{ github.run_id }}
-            **Workflow:** ${{ github.workflow }}
+          **Failed packages:**  
+          ${{ env.FAILED_PACKAGES }}
 
-            🤖 Generated with GitHub Actions
-          branch: "daily-updates-${{ github.run_number }}"
-          base: dev
+          **Run ID:** ${{ github.run_id }}
+          **Workflow:** ${{ github.workflow }}
+
+          🤖 Generated with GitHub Actions"
+          
+          gh pr create \
+            --title "$pr_title" \
+            --body "$pr_body" \
+            --base dev \
+            --head "${{ env.BRANCH_NAME }}"
 
       - name: Update summary
         if: always()
