@@ -148,6 +148,10 @@ jobs:
       - name: Commit and push changes
         if: steps.changes.outputs.has_changes == 'true'
         run: |
+          # Create a new branch for the updates
+          branch_name="daily-updates-$(date +%Y-%m-%d-%H%M%S)"
+          git checkout -b "$branch_name"
+          
           # Add all changes
           git add .
           
@@ -164,8 +168,11 @@ jobs:
           # Commit changes
           git commit -m "$commit_msg"
           
-          # Push to test branch for safe testing
-          git push origin HEAD:test
+          # Push the new branch
+          git push origin "$branch_name"
+          
+          # Store branch name for PR creation
+          echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
 
       - name: Create PR to dev
         if: steps.changes.outputs.has_changes == 'true'
@@ -186,8 +193,7 @@ jobs:
             --title "$pr_title" \
             --body "$pr_body" \
             --base dev \
-            --head test \
-            --assignee @me \
+            --head "${{ env.BRANCH_NAME }}" \
             || echo "PR may already exist or failed to create"
 
       - name: Update summary
@@ -212,7 +218,7 @@ jobs:
           
           # Commit status
           if [ "${{ steps.changes.outputs.has_changes }}" == "true" ]; then
-            echo "📝 Changes committed to \`test\` branch and PR created to \`dev\`" >> $GITHUB_STEP_SUMMARY
+            echo "📝 Changes committed to new branch and PR created to \`dev\`" >> $GITHUB_STEP_SUMMARY
           else
             echo "ℹ️ No changes - all packages up to date" >> $GITHUB_STEP_SUMMARY
           fi
