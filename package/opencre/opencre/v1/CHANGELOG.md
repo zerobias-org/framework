@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-opencre-opencre-v1@1.1.3...@zerobias-org/framework-opencre-opencre-v1@1.2.0) (2025-07-15)
+
+
+### Features
+
+* add support for claude and daily updates ([3f4acfe](https://github.com/zerobias-org/framework/commit/3f4acfed2af9c003aed24c7aeadb3e6cd7945d8f))
+
+
+
+
+
 ## [1.1.3](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-opencre-opencre-v1@1.1.3...@zerobias-org/framework-opencre-opencre-v1@1.1.3) (2025-07-08)
 
 **Note:** Version bump only for package @zerobias-org/framework-opencre-opencre-v1
