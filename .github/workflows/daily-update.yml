@@ -1,0 +1,240 @@
+name: Daily Framework Updates
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC (only on test branch)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    # Allow manual triggering for testing
+  push:
+    branches:
+      - test
+
+permissions:
+  contents: write
+  id-token: write
+  packages: write
+  pull-requests: write
+
+jobs:
+  daily-update:
+    runs-on: ubuntu-latest
+    if: github.repository == 'zerobias-org/framework' && (github.ref == 'refs/heads/test' || github.event_name == 'workflow_dispatch')
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@zerobias-org'
+
+      - name: Install root dependencies
+        run: npm install
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
+
+      - name: Discover packages with update scripts
+        id: discover
+        run: |
+          echo "Scanning for packages with update scripts..."
+          packages_with_updates=""
+          
+          for package_json in $(find package -maxdepth 5 -name "package.json" -not -path "*/node_modules/*" -type f); do
+            package_dir=$(dirname "$package_json")
+            
+            # Check if package has update script
+            if jq -e '.scripts.update' "$package_json" > /dev/null 2>&1; then
+              echo "Found update script in: $package_dir"
+              if [ -z "$packages_with_updates" ]; then
+                packages_with_updates="$package_dir"
+              else
+                packages_with_updates="$packages_with_updates,$package_dir"
+              fi
+            fi
+          done
+          
+          echo "packages=$packages_with_updates" >> $GITHUB_OUTPUT
+          echo "Found packages with update scripts: $packages_with_updates"
+
+      - name: Update framework packages
+        id: update
+        if: steps.discover.outputs.packages != ''
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
+        run: |
+          IFS=',' read -ra PACKAGES <<< "${{ steps.discover.outputs.packages }}"
+          updated_packages=""
+          failed_packages=""
+          
+          for package_dir in "${PACKAGES[@]}"; do
+            echo "=========================================="
+            echo "Updating package: $package_dir"
+            echo "=========================================="
+            
+            cd "$package_dir"
+            
+            # Install package dependencies if needed  
+            if [ -f "package.json" ]; then
+              echo "Installing dependencies for $package_dir..."
+              if ! npm install; then
+                echo "❌ Failed to install dependencies for $package_dir"
+                failed_packages="$failed_packages $package_dir(deps)"
+                cd - > /dev/null
+                continue
+              fi
+            fi
+            
+            # Run the update command
+            echo "Running update for $package_dir..."
+            if npm run update; then
+              echo "✅ Successfully updated $package_dir"
+              updated_packages="$updated_packages $package_dir"
+              
+              # Run validation if available
+              if jq -e '.scripts.validate' package.json > /dev/null 2>&1; then
+                echo "Running validation for $package_dir..."
+                if ! npm run validate; then
+                  echo "❌ Validation failed for $package_dir"
+                  failed_packages="$failed_packages $package_dir(validation)"
+                fi
+              fi
+            else
+              echo "❌ Failed to update $package_dir"
+              failed_packages="$failed_packages $package_dir(update)"
+            fi
+            
+            cd - > /dev/null
+          done
+          
+          echo "UPDATED_PACKAGES=$updated_packages" >> $GITHUB_ENV
+          echo "FAILED_PACKAGES=$failed_packages" >> $GITHUB_ENV
+          
+          # Also set as outputs for use in other steps
+          echo "updated_packages=$updated_packages" >> $GITHUB_OUTPUT
+          echo "failed_packages=$failed_packages" >> $GITHUB_OUTPUT
+          
+          echo "=========================================="
+          echo "Update Summary:"
+          echo "Updated packages:$updated_packages"
+          echo "Failed packages:$failed_packages"
+          echo "=========================================="
+          
+          # Fail if there were package failures
+          if [ -n "$failed_packages" ]; then
+            echo "PACKAGE_FAILURES=true" >> $GITHUB_ENV
+            echo "❌ Package update failures detected"
+            exit 1
+          fi
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            
+            echo "Changed files:"
+            git diff --name-only
+          fi
+
+      - name: Configure Git
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          # Create a unique branch name
+          branch_name="daily-updates-${{ github.run_number }}"
+          git checkout -b "$branch_name"
+          
+          # Add all changes
+          git add .
+          
+          # Create commit message
+          commit_msg="chore: 🤖 daily framework updates
+          
+          Automated daily update of framework packages.
+          
+          Updated packages:${{ env.UPDATED_PACKAGES }}
+          Failed packages:${{ env.FAILED_PACKAGES }}
+          
+          🤖 Generated with GitHub Actions"
+          
+          # Commit changes
+          git commit -m "$commit_msg"
+          
+          # Push the new branch
+          git push origin "$branch_name"
+          
+          # Store branch name for PR creation
+          echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
+
+      - name: Create PR to dev
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Create PR to dev branch
+          pr_title="chore: 🤖 daily framework updates $(date +%Y-%m-%d)"
+          pr_body="Automated daily update of framework packages.
+
+          ## Summary
+          **Updated packages:**
+          ${{ env.UPDATED_PACKAGES }}
+
+          **Failed packages:**  
+          ${{ env.FAILED_PACKAGES }}
+
+          **Run ID:** ${{ github.run_id }}
+          **Workflow:** ${{ github.workflow }}
+
+          🤖 Generated with GitHub Actions"
+          
+          gh pr create \
+            --title "$pr_title" \
+            --body "$pr_body" \
+            --base dev \
+            --head "${{ env.BRANCH_NAME }}"
+
+      - name: Update summary
+        if: always()
+        run: |
+          echo "## Daily Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Successfully updated packages
+          if [ -n "${{ env.UPDATED_PACKAGES }}" ]; then
+            echo "✅ **Updated:**" >> $GITHUB_STEP_SUMMARY
+            echo "${{ env.UPDATED_PACKAGES }}" | tr ' ' '\n' | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          # Failed packages
+          if [ -n "${{ env.FAILED_PACKAGES }}" ]; then
+            echo "❌ **Failed:**" >> $GITHUB_STEP_SUMMARY
+            echo "${{ env.FAILED_PACKAGES }}" | tr ' ' '\n' | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          # Commit status
+          if [ "${{ steps.changes.outputs.has_changes }}" == "true" ]; then
+            echo "📝 Changes committed and PR created to \`dev\`" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No changes - all packages up to date" >> $GITHUB_STEP_SUMMARY
+          fi
+
