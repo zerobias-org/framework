@@ -1,0 +1,39 @@
+id: 03168938-a1ef-4ac7-811d-c69e0fb46340
+name: Contacts With Groups & Associations
+description: "Mechanisms exist to establish contact with selected groups and associations within the cybersecurity & data privacy communities to: \r\n(1) Facilitate ongoing cybersecurity & data privacy education and training for organizational personnel;\r\n(2) Maintain currency with recommended cybersecurity & data privacy practices, techniques and technologies; and\r\n(3) Share current cybersecurity and/or data privacy-related information including threats, vulnerabilities and incidents."
+elementType: control
+externalId: GOV-07
+parent: gov
+controlQuestion: "Does the organization establish contact with selected groups and associations within the cybersecurity & data privacy communities to: \r\n (1) Facilitate ongoing cybersecurity & data privacy education and training for organizational personnel;\r\n (2) Maintain currency with recommended cybersecurity & data privacy practices, techniques and technologies; and\r\n (3) Share current cybersecurity and/or data privacy-related information including threats, vulnerabilities and incidents?"
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: bf3c19f5-7bf3-456d-9bda-4481f8a8cc20
+name: AI & Autonomous Technologies System Value Chain Fallbacks
+description: "Mechanisms exist to identify:\r\n(1) Over-reliance on third-party data with Artificial Intelligence (AI) and Autonomous Technologies (AAT); and\r\n(2) Fallback methods to address the inability to access third-party data, as necessary."
+elementType: enhancement
+externalId: AAT-25.1
+parent: aat-25
+controlQuestion: "Does the organization identify:\r\n(1) Over-reliance on third-party data with Artificial Intelligence (AI) and Autonomous Technologies (AAT); and\r\n(2) Fallback methods to address the inability to access third-party data, as necessary?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

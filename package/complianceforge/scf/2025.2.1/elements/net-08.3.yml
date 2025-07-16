@@ -1,0 +1,39 @@
+id: 4ac57437-f42b-498b-a367-7a3c5d82a375
+name: Host Containment
+description: Automated mechanisms exist to enforce host containment protections that revoke or quarantine a host’s access to the network.
+elementType: enhancement
+externalId: NET-08.3
+parent: net-08
+controlQuestion: Does the organization use automated mechanisms to enforce host containment protections that revoke or quarantine a host’s access to the network?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

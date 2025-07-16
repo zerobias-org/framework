@@ -1,0 +1,39 @@
+id: c6c23eca-cf96-4b3e-8954-b73b7e799ec9
+name: Participant Connection Management
+description: Mechanisms exist to ensure the meeting host can positively control an individual's participation in virtual meetings.
+elementType: enhancement
+externalId: END-14.4
+parent: end-14
+controlQuestion: Does the organization ensure the meeting host can positively control an individual's participation in virtual meetings?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

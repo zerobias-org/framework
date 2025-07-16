@@ -1,0 +1,39 @@
+id: f5d0af5a-e51c-4e6b-97ef-32569d25f57f
+name: Post-Employment Obligations
+description: Mechanisms exist to notify terminated individuals of applicable, legally-binding post-employment requirements for the protection of sensitive organizational information.
+elementType: enhancement
+externalId: HRS-06.2
+parent: hrs-06
+controlQuestion: Does the organization notify terminated individuals of applicable, legally-binding post-employment requirements for the protection of sensitive organizational information?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

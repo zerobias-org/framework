@@ -1,0 +1,39 @@
+id: 3a360d60-1703-45e1-af0a-23090be94df7
+name: DevSecOps
+description: Mechanisms exist to integrate cybersecurity and data privacy into Development, Security and Operations (DevSecOps) to prioritize secure practices throughout the Software Development Lifecycle (SDLC).
+elementType: enhancement
+externalId: TDA-01.4
+parent: tda-01
+controlQuestion: Does the organization integrate cybersecurity and data privacy into emerging Development and Operations (DevOps) to prioritize secure practices throughout the Software Development Lifecycle (SDLC)?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

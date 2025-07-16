@@ -1,0 +1,39 @@
+id: f41f2c2d-0e52-4471-ab46-08bf0cd7266e
+name: Monitoring For Information Disclosure
+description: Mechanisms exist to monitor for evidence of unauthorized exfiltration or disclosure of non-public information.
+elementType: control
+externalId: MON-11
+parent: mon
+controlQuestion: Does the organization monitor for evidence of unauthorized exfiltration or disclosure of non-public information?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

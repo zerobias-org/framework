@@ -1,0 +1,39 @@
+id: 17620aef-c820-44ff-b764-1a6c6320a7bd
+name: Maintenance Monitoring
+description: Mechanisms exist to maintain situational awareness of the quality and reliability of systems and components through tracking maintenance activities and component failure rates.
+elementType: control
+externalId: MNT-11
+parent: mnt
+controlQuestion: Does the organization maintain situational awareness of the quality and reliability of systems and components through tracking maintenance activities and component failure rates?
+functionGrouping: Detect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

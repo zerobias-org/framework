@@ -1,0 +1,39 @@
+id: 4b3b5a28-ee81-49a9-b01a-d36112d5a0b6
+name: Data Tags
+description: Mechanisms exist to utilize data tags to automate tracking of sensitive/regulated data across the information lifecycle.
+elementType: enhancement
+externalId: DCH-22.2
+parent: dch-22
+controlQuestion: Does the organization utilize data tags to automate tracking of sensitive/regulated data across the information lifecycle?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

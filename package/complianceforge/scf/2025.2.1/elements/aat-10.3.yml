@@ -1,0 +1,39 @@
+id: d221d8e4-5967-4f3a-b08f-7ca408a9a1aa
+name: AI TEVV Trustworthiness Demonstration
+description: "Mechanisms exist to demonstrate the Artificial Intelligence (AI) and Autonomous Technologies (AAT) to be deployed are:\r\n(1) Valid;\r\n(2) Reliable; and\r\n(3) Operate as intended, based on approved designs."
+elementType: enhancement
+externalId: AAT-10.3
+parent: aat-10
+controlQuestion: "Does the organization demonstrate the Artificial Intelligence (AI) and Autonomous Technologies (AAT) to be deployed are:\r\n(1) Valid;\r\n(2) Reliable; and\r\n(3) Operate as intended, based on approved designs?"
+functionGrouping: Detect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

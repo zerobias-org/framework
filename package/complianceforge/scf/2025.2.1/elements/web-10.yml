@@ -1,0 +1,39 @@
+id: f319229e-159b-4cfd-a3c9-78c2a79a897c
+name: Secure Web Traffic
+description: Mechanisms exist to ensure all web application content is delivered using cryptographic mechanisms (e.g., TLS).
+elementType: control
+externalId: WEB-10
+parent: web
+controlQuestion: Does the organization ensure all web application content is delivered using cryptographic mechanisms (e.g., TLS)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

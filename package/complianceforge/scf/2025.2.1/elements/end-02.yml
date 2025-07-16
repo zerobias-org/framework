@@ -1,0 +1,39 @@
+id: a8bafb7e-8f41-416e-9cb5-f7e05a8a6d3c
+name: Endpoint Protection Measures
+description: Mechanisms exist to protect the confidentiality, integrity, availability and safety of endpoint devices.
+elementType: control
+externalId: END-02
+parent: end
+controlQuestion: Does the organization protect the confidentiality, integrity, availability and safety of endpoint devices?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
