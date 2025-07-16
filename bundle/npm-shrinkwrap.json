@@ -1,19 +1,19 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-bundle",
-      "version": "0.0.9",
+      "version": "0.0.10",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/framework-cncf-sscp-v1": "1.0.0",
         "@zerobias-org/framework-iso-27001-2022a": "1.1.0",
         "@zerobias-org/framework-nist-ir8397-v1": "1.0.0",
         "@zerobias-org/framework-nist-label-2022": "1.0.0",
-        "@zerobias-org/framework-opencre-opencre-v1": "1.2.0"
+        "@zerobias-org/framework-opencre-opencre-v1": "1.2.1"
       }
     },
     "node_modules/@auditlogic/suite-iso-27001": {
@@ -326,9 +326,9 @@
       }
     },
     "node_modules/@zerobias-org/framework-opencre-opencre-v1": {
-      "version": "1.2.0",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-opencre-opencre-v1/-/framework-opencre-opencre-v1-1.2.0.tgz",
-      "integrity": "sha512-6C/3BxKrjpr9285hZRFrcvFScfvenr1lKWEmQXqlf82ZEYFoXSaBkzL0hOESjTQwpBAs9YnLU0IGOHEG4iMjLA==",
+      "version": "1.2.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-opencre-opencre-v1/-/framework-opencre-opencre-v1-1.2.1.tgz",
+      "integrity": "sha512-nSR5fHrIk+YsmMB6LWh6dm9t+ELuSxt80zfk2REAt7JSLoOFEG483zcWHoThFyTVkag13akNo/QITqKDczgI4Q==",
       "dependencies": {
         "@auditlogic/suite-opencre-opencre": "latest"
       }
@@ -4196,9 +4196,9 @@
       }
     },
     "@zerobias-org/framework-opencre-opencre-v1": {
-      "version": "1.2.0",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-opencre-opencre-v1/-/framework-opencre-opencre-v1-1.2.0.tgz",
-      "integrity": "sha512-6C/3BxKrjpr9285hZRFrcvFScfvenr1lKWEmQXqlf82ZEYFoXSaBkzL0hOESjTQwpBAs9YnLU0IGOHEG4iMjLA==",
+      "version": "1.2.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-opencre-opencre-v1/-/framework-opencre-opencre-v1-1.2.1.tgz",
+      "integrity": "sha512-nSR5fHrIk+YsmMB6LWh6dm9t+ELuSxt80zfk2REAt7JSLoOFEG483zcWHoThFyTVkag13akNo/QITqKDczgI4Q==",
       "requires": {
         "@auditlogic/suite-opencre-opencre": "latest"
       }
