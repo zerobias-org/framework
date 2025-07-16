@@ -25,13 +25,13 @@
     },
     "node_modules/@auditmation/types-core": {
       "version": "4.8.3",
-      "resolved": "https://npm.pkg.github.com/download/@auditmation/types-core/4.8.3/637c51c89be538cce997f1d36e230c5a5fff6fe7",
+      "resolved": "https://pkg.zerobias.org/@auditmation/types-core/-/637c51c89be538cce997f1d36e230c5a5fff6fe7",
       "integrity": "sha512-srW1nG0qXZq/TSOHaRIBvuwzQEEoLla/3r43xKJq8hlnoJYMpPZx0OTno+vWVt74hXUebApM5e9/ej4Z8DoP7w==",
       "license": "UNLICENSED"
     },
     "node_modules/@auditmation/types-core-js": {
       "version": "4.9.11",
-      "resolved": "https://npm.pkg.github.com/download/@auditmation/types-core-js/4.9.11/19399061c88f0c7ee41a36ad4411fc5d4ce52643",
+      "resolved": "https://pkg.zerobias.org/@auditmation/types-core-js/-/19399061c88f0c7ee41a36ad4411fc5d4ce52643",
       "integrity": "sha512-VTm13Y/8THK8VVun/I+BB77oyK3CiNrVEaIhLpmOo42/BiRp/C3UPRRgfF19KQUcmia/Hu6PT/nvAKyNlsXuCQ==",
       "license": "UNLICENSED",
       "dependencies": {
@@ -59,7 +59,7 @@
     },
     "node_modules/@auditmation/util-logger": {
       "version": "4.0.9",
-      "resolved": "https://npm.pkg.github.com/download/@auditmation/util-logger/4.0.9/b7afe077d042699a0f15ef52e63cf29d1ea3a01a",
+      "resolved": "https://pkg.zerobias.org/@auditmation/util-logger/-/b7afe077d042699a0f15ef52e63cf29d1ea3a01a",
       "integrity": "sha512-no86JOSNNlPvQJJC/OpmR7pixukUiDJ6ZXVJU+hUjBqu0j02wxGb1t0Tie0Bm60mtiHbnOz1KxeII6UEcgub2Q==",
       "license": "UNLICENSED",
       "dependencies": {
