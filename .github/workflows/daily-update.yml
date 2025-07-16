@@ -47,11 +47,12 @@ jobs:
           echo "Scanning for packages with update scripts..."
           packages_with_updates=""
           
-          for package_json in $(find package -maxdepth 5 -name "package.json" -not -path "*/node_modules/*" -type f); do
+          # Look specifically for update directories that contain package.json with update scripts
+          for package_json in $(find package -path "*/update/package.json" -type f); do
             package_dir=$(dirname "$package_json")
             
-            # Check if package has update script
-            if jq -e '.scripts.update' "$package_json" > /dev/null 2>&1; then
+            # Check if package has update script and is private (update tools are marked private)
+            if jq -e '.scripts.update' "$package_json" > /dev/null 2>&1 && jq -e '.private == true' "$package_json" > /dev/null 2>&1; then
               echo "Found update script in: $package_dir"
               if [ -z "$packages_with_updates" ]; then
                 packages_with_updates="$package_dir"
