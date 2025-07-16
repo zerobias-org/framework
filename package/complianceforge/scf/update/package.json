@@ -12,10 +12,10 @@
   "dependencies": {
     "@auditmation/types-core-js": "latest",
     "@auditmation/util-logger": "latest",
-    "js-yaml": "^4.1.0",
-    "xlsx": "^0.18.5",
+    "axios": "^0.27.2",
     "exceljs": "^4.4.0",
-    "axios": "^1.7.0"
+    "js-yaml": "^4.1.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.5",
@@ -23,7 +23,12 @@
     "ts-node": "^10.9.0",
     "typescript": "^5.0.0"
   },
-  "keywords": ["scf", "compliance", "security", "framework"],
+  "keywords": [
+    "scf",
+    "compliance",
+    "security",
+    "framework"
+  ],
   "author": "ZeroBias Organization",
   "license": "MIT"
 }
