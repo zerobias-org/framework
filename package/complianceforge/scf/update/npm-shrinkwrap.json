@@ -9,8 +9,8 @@
       "version": "1.0.0",
       "license": "MIT",
       "dependencies": {
-        "@auditmation/types-core-js": "latest",
-        "@auditmation/util-logger": "latest",
+        "@auditmation/types-core-js": "^4.9.11",
+        "@auditmation/util-logger": "^4.0.9",
         "axios": "^0.27.2",
         "exceljs": "^4.4.0",
         "js-yaml": "^4.1.0",
