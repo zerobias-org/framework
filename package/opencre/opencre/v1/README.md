@@ -2,58 +2,51 @@
 
 This package contains the OpenCRE (Open Common Requirement Enumeration) security framework for ZeroBias.
 
+## About OpenCRE
+
+OpenCRE is a comprehensive security framework that links security standards, guidelines, and best practices together at the requirement level. It provides a harmonized resource for security professionals to understand relationships between different security frameworks.
+
+## Package Contents
+
+This package includes:
+- **427 Common Requirement Enumerations (CREs)** - Core security requirements
+- **Framework mappings** - Links to NIST, OWASP, ISO 27001, and other standards
+- **Hierarchical relationships** - Parent-child relationships between requirements
+- **Cross-references** - Demonstrates relationships to other security frameworks
+
+## Framework Structure
+
+### Element Types
+- **CRE**: Common Requirement Enumeration - standardized security requirements
+
+### Supported Framework Mappings
+- **NIST 800-53 v5**: Control mappings to federal security standards
+- **OWASP ASVS**: Application Security Verification Standard
+- **OWASP SAMM**: Software Assurance Maturity Model
+- **Cloud Controls Matrix**: Cloud security controls
+- **ISO 27001**: Information security management standards
+- **NIST SSDF**: Secure Software Development Framework
+- **CWE**: Common Weakness Enumeration
+- **CAPEC**: Common Attack Pattern Enumeration
+
 ## Usage
 
-### Standard Update (Recommended)
-```bash
-npm run update
-```
-This will:
-- Check if local data is older than 24 hours
-- Fetch latest data from OpenCRE API (with GitHub fallback)
-- Only update if changes are detected
-- Preserve existing element UUIDs
-
-### Force Update
-```bash
-npm run update:force
-```
-Forces an update regardless of local data age or changes.
-
-### Legacy Update
-```bash
-npm run update:legacy
-```
-Uses the original update script with manual JSON file.
-
-## Update Process
-
-The update script:
-1. **Version Check**: Compares local data age and content hashes
-2. **Data Fetching**: Tries OpenCRE API first, falls back to GitHub
-3. **Smart Processing**: Only updates when changes are detected
-4. **UUID Preservation**: Maintains existing element IDs
-5. **Error Handling**: Robust error handling with detailed logging
-6. **Cleanup**: Removes orphaned elements no longer in source
-7. **Cross-references**: Generates mappings to other frameworks
-
-## Configuration
-
-Edit `update/update.ts` to modify:
-- API endpoints
-- Check intervals
-- Standard mappings
-- Element processing logic
-
-## Validation
-
-Always run validation after updates:
+### Validation
 ```bash
 npm run validate
 ```
 
+### Dependency Management
+```bash
+npm run correct:deps
+```
+
+### Publishing
+```bash
+npm run nx:publish
+```
+
+
 ## Data Sources
 
-- Primary: OpenCRE API (`https://opencre.org/rest/v1/cres`)
-- Fallback: GitHub raw data
-- Local cache: `update/all_cres.json`
+This framework is derived from the OpenCRE project, which aggregates and harmonizes security requirements from multiple industry standards and guidelines.

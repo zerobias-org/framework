@@ -36,8 +36,8 @@ interface UpdateConfig {
 const CONFIG: UpdateConfig = {
   apiUrl: 'https://opencre.org/rest/v1/all_cres?per_page=10000',
   githubUrl: 'https://raw.githubusercontent.com/zeljkoobrenovic/opencre-explorer/refs/heads/main/data/all_cres.json',
-  localDataPath: path.join(process.cwd(), 'update/all_cres.json'),
-  elementsPath: path.join(process.cwd(), 'elements')
+  localDataPath: path.join(process.cwd(), 'cache/all_cres.json'),
+  elementsPath: path.join(process.cwd(), '../v1/elements')
 };
 
 const standardFunctionMappings: Record<string, (x: string) => string> = {

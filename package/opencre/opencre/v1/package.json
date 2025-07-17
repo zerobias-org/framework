@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-opencre-opencre-v1",
-  "version": "1.2.1",
+  "version": "1.2.2-rc.0",
   "type": "module",
   "description": "OpenCRE framework",
   "author": "team@neverfail.com",
@@ -28,9 +28,7 @@
     "nx:publish": "../../../../scripts/publish.sh",
     "prepublishtest": "../../../../scripts/prepublish.sh",
     "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
-    "validate": "ts-node ../../../../scripts/validate.ts",
-    "update": "tsx update/update.ts",
-    "update:force": "tsx update/update.ts --force"
+    "validate": "ts-node ../../../../scripts/validate.ts"
   },
   "devDependencies": {
     "@auditmation/types-core-js": "^4.9.11",
