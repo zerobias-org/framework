@@ -159,8 +159,8 @@ jobs:
       - name: Commit and push changes
         if: steps.changes.outputs.has_changes == 'true'
         run: |
-          # Create a unique branch name
-          branch_name="daily-updates-${{ github.run_number }}"
+          # Create a unique branch name that matches PR title format
+          branch_name="daily-framework-updates-$(date +%Y-%m-%d)"
           git checkout -b "$branch_name"
           
           # Add all changes
