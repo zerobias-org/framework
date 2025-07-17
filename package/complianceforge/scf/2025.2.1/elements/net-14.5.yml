@@ -1,0 +1,39 @@
+id: 4cb73ec2-d872-496f-8a6a-7f9951c09f7c
+name: Work From Anywhere (WFA) - Telecommuting Security
+description: Mechanisms exist to define secure telecommuting practices and govern remote access to systems and data for remote workers.
+elementType: enhancement
+externalId: NET-14.5
+parent: net-14
+controlQuestion: Does the organization define secure telecommuting practices and govern remote access to systems and data for remote workers?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

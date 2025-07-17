@@ -1,0 +1,39 @@
+id: deb3af3d-90f9-475a-845c-865ad7be537c
+name: Database Access
+description: Mechanisms exist to restrict access to databases containing sensitive/regulated data to only necessary services or those individuals whose job requires such access.
+elementType: enhancement
+externalId: IAC-20.2
+parent: iac-20
+controlQuestion: Does the organization restrict access to databases containing sensitive/regulated data to only necessary services or those individuals whose job requires such access?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

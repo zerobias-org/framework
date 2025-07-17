@@ -1,0 +1,39 @@
+id: a8659f91-bb8e-4ca1-916e-15d8078be2a6
+name: Incident Response Training
+description: Mechanisms exist to train personnel in their incident response roles and responsibilities.
+elementType: control
+externalId: IRO-05
+parent: iro
+controlQuestion: Does the organization train personnel in their incident response roles and responsibilities?
+functionGrouping: Respond
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

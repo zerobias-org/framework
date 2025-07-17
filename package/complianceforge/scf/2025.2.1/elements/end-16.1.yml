@@ -1,0 +1,39 @@
+id: fbfbe7bc-b7f2-4051-9fe3-e9f1f5040815
+name: Host-Based Security Function Isolation
+description: Mechanisms exist to implement underlying software separation mechanisms to facilitate security function isolation.
+elementType: enhancement
+externalId: END-16.1
+parent: end-16
+controlQuestion: Does the organization implement underlying software separation mechanisms to facilitate security function isolation?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

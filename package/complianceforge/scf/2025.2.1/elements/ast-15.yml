@@ -1,0 +1,39 @@
+id: 1e879318-9b34-4fc8-bb21-2bb7fc70065a
+name: Logical Tampering Protection
+description: Mechanisms exist to verify logical configuration settings and the physical integrity of critical technology assets throughout their lifecycle.
+elementType: control
+externalId: AST-15
+parent: ast
+controlQuestion: Does the organization verify logical configuration settings and the physical integrity of critical technology assets throughout their lifecycle?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

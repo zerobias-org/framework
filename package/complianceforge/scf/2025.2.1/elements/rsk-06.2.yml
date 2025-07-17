@@ -1,0 +1,39 @@
+id: e41e823b-0009-4438-b936-52e723e63b16
+name: Compensating Countermeasures
+description: Mechanisms exist to identify and implement compensating countermeasures to reduce risk and exposure to threats.
+elementType: enhancement
+externalId: RSK-06.2
+parent: rsk-06
+controlQuestion: Does the organization identify and implement compensating countermeasures to reduce risk and exposure to threats?
+functionGrouping: Respond
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

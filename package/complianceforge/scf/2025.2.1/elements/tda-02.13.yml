@@ -1,0 +1,39 @@
+id: 7991c90a-fbf6-4301-9969-0789ca186f6d
+name: Reporting Exploitable Vulnerabilities
+description: Mechanisms exist to notify applicable stakeholders about potentially exploitable vulnerabilities in organization-developed products and/or services, as required by statutory, regulatory and/or contractual obligations.
+elementType: enhancement
+externalId: TDA-02.13
+parent: tda-02
+controlQuestion: Does the organization notify applicable stakeholders about potentially exploitable vulnerabilities in organization-developed products and/or services, as required by statutory, regulatory and/or contractual obligations?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

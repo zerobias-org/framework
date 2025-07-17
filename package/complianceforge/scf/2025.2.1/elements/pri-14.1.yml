@@ -1,0 +1,39 @@
+id: 5c0f8d61-f877-459f-bc74-87f74422bac2
+name: Accounting of Disclosures
+description: "Mechanisms exist to provide data subjects with an accounting of disclosures of their Personal Data (PD) controlled by:\r\n(1) The organization; and/or\r\n(2) Relevant third-parties that their PD was shared with."
+elementType: enhancement
+externalId: PRI-14.1
+parent: pri-14
+controlQuestion: "Does the organization provide data subjects with an accounting of disclosures of their Personal Data (PD) controlled by:\r\n(1) The organization; and/or\r\n(2) Relevant third-parties that their PD was shared with?"
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
