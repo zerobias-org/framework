@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-opencre-opencre-update",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.0",
   "private": true,
   "description": "Update tool for OpenCRE framework",
   "main": "index.ts",
@@ -18,7 +18,11 @@
     "@types/node": "^20.0.0",
     "typescript": "^5.0.0"
   },
-  "keywords": ["opencre", "security", "framework"],
+  "keywords": [
+    "opencre",
+    "security",
+    "framework"
+  ],
   "author": "ZeroBias Organization",
   "license": "MIT"
 }
