@@ -1,0 +1,24 @@
+{
+  "name": "@zerobias-org/framework-opencre-opencre-update",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Update tool for OpenCRE framework",
+  "main": "index.ts",
+  "scripts": {
+    "update": "tsx index.ts"
+  },
+  "dependencies": {
+    "@auditmation/types-core-js": "^4.9.11",
+    "@auditmation/util-logger": "^4.0.9",
+    "js-yaml": "^4.1.0",
+    "tsx": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": ["opencre", "security", "framework"],
+  "author": "ZeroBias Organization",
+  "license": "MIT"
+}

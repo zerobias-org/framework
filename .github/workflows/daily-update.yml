@@ -19,7 +19,7 @@ permissions:
 jobs:
   daily-update:
     runs-on: ubuntu-latest
-    if: github.repository == 'zerobias-org/framework' && (github.ref == 'refs/heads/test' || github.event_name == 'workflow_dispatch')
+    if: github.repository == 'zerobias-org/framework' && (github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch')
     
     steps:
       - name: Checkout repository
@@ -47,11 +47,12 @@ jobs:
           echo "Scanning for packages with update scripts..."
           packages_with_updates=""
           
-          for package_json in $(find package -maxdepth 5 -name "package.json" -not -path "*/node_modules/*" -type f); do
+          # Look specifically for update directories that contain package.json with update scripts
+          for package_json in $(find package -path "*/update/package.json" -type f); do
             package_dir=$(dirname "$package_json")
             
-            # Check if package has update script
-            if jq -e '.scripts.update' "$package_json" > /dev/null 2>&1; then
+            # Check if package has update script and is private (update tools are marked private)
+            if jq -e '.scripts.update' "$package_json" > /dev/null 2>&1 && jq -e '.private == true' "$package_json" > /dev/null 2>&1; then
               echo "Found update script in: $package_dir"
               if [ -z "$packages_with_updates" ]; then
                 packages_with_updates="$package_dir"
@@ -158,8 +159,8 @@ jobs:
       - name: Commit and push changes
         if: steps.changes.outputs.has_changes == 'true'
         run: |
-          # Create a unique branch name
-          branch_name="daily-updates-${{ github.run_number }}"
+          # Create a unique branch name that matches PR title format
+          branch_name="daily-framework-updates-$(date +%Y-%m-%d)"
           git checkout -b "$branch_name"
           
           # Add all changes
