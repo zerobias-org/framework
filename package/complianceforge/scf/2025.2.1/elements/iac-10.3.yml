@@ -1,0 +1,39 @@
+id: a893bf3d-3a0c-44aa-890a-c69dec1c3c00
+name: In-Person or Trusted Third-Party Registration
+description: Mechanisms exist to conduct in-person or trusted third-party identify verification before user accounts for third-parties are created.
+elementType: enhancement
+externalId: IAC-10.3
+parent: iac-10
+controlQuestion: Does the organization conduct in-person or trusted third-party identify verification before user accounts for third-parties are created?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

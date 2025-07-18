@@ -1,0 +1,39 @@
+id: 056be572-f5b0-446b-bdb7-a14fcd3a14cc
+name: Backup Modification and/or Destruction
+description: Mechanisms exist to restrict access to modify and/or delete backups to privileged users with assigned data backup and recovery operations roles.
+elementType: enhancement
+externalId: BCD-11.10
+parent: bcd-11
+controlQuestion: Does the organization restrict access to modify and/or delete backups to privileged users with assigned data backup and recovery operations roles?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

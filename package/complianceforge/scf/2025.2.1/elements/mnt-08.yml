@@ -1,0 +1,39 @@
+id: a9078c32-bf4b-48f1-89f0-b5e6deb3568b
+name: Field Maintenance
+description: Mechanisms exist to securely conduct field maintenance on geographically deployed assets.
+elementType: control
+externalId: MNT-08
+parent: mnt
+controlQuestion: Does the organization securely conduct field maintenance on geographically deployed assets?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

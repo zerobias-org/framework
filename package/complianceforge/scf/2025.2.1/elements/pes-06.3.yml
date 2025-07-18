@@ -1,0 +1,39 @@
+id: c8eb79c3-1417-45cc-9c4e-26a46785d81e
+name: Restrict Unescorted Access
+description: Physical access control mechanisms exist to restrict unescorted access to facilities to personnel with required security clearances, formal access authorizations and validate the need for access.
+elementType: enhancement
+externalId: PES-06.3
+parent: pes-06
+controlQuestion: Does the organization restrict unescorted access to facilities to personnel with required security clearances, formal access authorizations and validate the need for access?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

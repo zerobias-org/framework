@@ -1,0 +1,39 @@
+id: 870e9f70-5c62-48c9-a002-fd5dc51f4d61
+name: Assigned Responsibilities for AI & Autonomous Technologies
+description: "Mechanisms exist to define and differentiate roles and responsibilities for:\r\n(1) Artificial Intelligence (AI) and Autonomous Technologies (AAT) configurations; and\r\n(2) Oversight of AAT systems."
+elementType: control
+externalId: AAT-08
+parent: aat
+controlQuestion: "Does the organization define and differentiate roles and responsibilities for:\r\n(1) Artificial Intelligence (AI) and Autonomous Technologies (AAT) configurations; and\r\n(2) Oversight of AAT systems?"
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: e7b4a744-b738-41b5-9f11-9def1c9f5a2f
+name: Conceal / Randomize Communications
+description: Cryptographic mechanisms exist to conceal or randomize communication patterns.
+elementType: enhancement
+externalId: CRY-01.4
+parent: cry-01
+controlQuestion: Are cryptographic mechanisms utilized to conceal or randomize communication patterns?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

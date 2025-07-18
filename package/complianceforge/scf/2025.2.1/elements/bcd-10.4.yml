@@ -1,0 +1,39 @@
+id: 453f9707-1d79-49be-af08-4897e541d16e
+name: Alternate Communications Channels
+description: Mechanisms exist to maintain command and control capabilities via alternate communications channels and designating alternative decision makers if primary decision makers are unavailable.
+elementType: enhancement
+externalId: BCD-10.4
+parent: bcd-10
+controlQuestion: Does the organization maintain command and control capabilities via alternate communications channels and designating alternative decision makers if primary decision makers are unavailable?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

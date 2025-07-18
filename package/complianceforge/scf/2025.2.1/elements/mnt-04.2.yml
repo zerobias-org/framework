@@ -1,0 +1,39 @@
+id: 92c5114e-354e-4154-9427-bfdd2276c8ec
+name: Inspect Media
+description: Mechanisms exist to check media containing diagnostic and test programs for malicious code before the media are used.
+elementType: enhancement
+externalId: MNT-04.2
+parent: mnt-04
+controlQuestion: Does the organization check media containing diagnostic and test programs for malicious code before the media are used?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

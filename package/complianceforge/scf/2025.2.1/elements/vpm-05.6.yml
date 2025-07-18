@@ -1,0 +1,39 @@
+id: 6386ca42-6f01-4bef-9f38-30f7d85847ae
+name: Pre-Deployment Patch Testing
+description: Mechanisms exist to perform due diligence on software and/or firmware update stability by conducting pre-production testing in a non-production environment.
+elementType: enhancement
+externalId: VPM-05.6
+parent: vpm-05
+controlQuestion: Does the organization perform due diligence on software and/or firmware update stability by conducting pre-production testing in a non-production environment?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

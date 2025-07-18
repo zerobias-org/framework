@@ -1,0 +1,39 @@
+id: b3b6c655-54ef-4388-b4ff-792062ad21da
+name: Embedded Technology Maintenance
+description: Mechanisms exist to securely update software and upgrade functionality on embedded devices.
+elementType: control
+externalId: EMB-07
+parent: emb
+controlQuestion: Does the organization securely update software and upgrade functionality on embedded devices?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

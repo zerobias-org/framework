@@ -1,0 +1,39 @@
+id: 92ce7c72-a6a9-4d27-a880-4747f50089e3
+name: Contingency Training
+description: Mechanisms exist to adequately train contingency personnel and applicable stakeholders in their contingency roles and responsibilities.
+elementType: control
+externalId: BCD-03
+parent: bcd
+controlQuestion: Does the organization adequately train contingency personnel and applicable stakeholders in their contingency roles and responsibilities?
+functionGrouping: Recover
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

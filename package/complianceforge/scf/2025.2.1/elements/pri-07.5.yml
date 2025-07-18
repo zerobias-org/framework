@@ -1,0 +1,39 @@
+id: 7b56a707-a810-42a8-930e-06a7485f2b53
+name: Justification To Reject Disclosure Requests
+description: "Mechanisms exist to reject data subject access requests that are categorized as:\r\n(1) Harassing; \r\n(2) Repetitive; or\r\n(3) Fraudulent."
+elementType: enhancement
+externalId: PRI-07.5
+parent: pri-07
+controlQuestion: "Does the organization reject data subject access requests that are categorized as:\r\n (1) Harassing; \r\n (2) Repetitive; or\r\n (3) Fraudulent?"
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

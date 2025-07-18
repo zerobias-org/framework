@@ -1,0 +1,39 @@
+id: ee07d9d9-9f9d-485f-8736-5b96aa75d26f
+name: Allocation of Resources
+description: Mechanisms exist to identify and allocate resources for management, operational, technical and data privacy requirements within business process planning for projects / initiatives.
+elementType: control
+externalId: PRM-03
+parent: prm
+controlQuestion: Does the organization identify and allocate resources for management, operational, technical and data privacy requirements within business process planning for projects / initiatives?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

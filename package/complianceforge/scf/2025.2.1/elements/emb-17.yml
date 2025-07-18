@@ -1,0 +1,39 @@
+id: ee44c938-cef0-4519-97fe-647e8a41a80a
+name: Chip-To-Cloud Security
+description: Mechanisms exist to implement embedded technologies that utilize pre-provisioned cloud trust anchors to support secure bootstrap and Zero Touch Provisioning (ZTP).
+elementType: control
+externalId: EMB-17
+parent: emb
+controlQuestion: Does the organization implement embedded technologies that utilize pre-provisioned cloud trust anchors to support secure bootstrap and Zero Touch Provisioning (ZTP)?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
