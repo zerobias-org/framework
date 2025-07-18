@@ -1,0 +1,39 @@
+id: be902fb6-1baf-49fc-a630-98a6f5d33167
+name: Continuous Monitoring Plan
+description: Mechanisms exist to require the developers of systems, system components or services to produce a plan for the continuous monitoring of cybersecurity & data privacy control effectiveness.
+elementType: enhancement
+externalId: TDA-09.1
+parent: tda-09
+controlQuestion: Does the organization require the developers of systems, system components or services to produce a plan for the continuous monitoring of cybersecurity & data privacy control effectiveness?
+functionGrouping: Detect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

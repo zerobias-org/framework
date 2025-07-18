@@ -1,4 +1,4 @@
-id: 3e55fa48-9dd1-4ae1-a9be-31f984d8d06c
+id: 133a3a39-37eb-42aa-b0ac-15a3c29e0208
 name: Error Handling
 description: "Mechanisms exist to handle error conditions by: \r\n(1) Identifying potentially security-relevant error conditions;\r\n(2) Generating error messages that provide information necessary for corrective actions without revealing sensitive or potentially harmful information in error logs and administrative messages that could be exploited; and\r\n(3) Revealing error messages only to authorized personnel."
 elementType: control

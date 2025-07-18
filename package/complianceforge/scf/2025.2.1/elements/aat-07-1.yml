@@ -1,0 +1,39 @@
+id: d5cc662e-ac4e-417a-82e6-6347e18fb689
+name: AI & Autonomous Technologies Impact Assessment
+description: Mechanisms exist to assess the impact(s) of proposed Artificial Intelligence (AI) and Autonomous Technologies (AAT) on individuals, groups, communities, organizations and society (e.g., Fundamental Rights Impact Assessment (FRIA)).
+elementType: enhancement
+externalId: AAT-07.1
+parent: aat-07
+controlQuestion: Does the organization assess the impact(s) of proposed Artificial Intelligence (AI) and Autonomous Technologies (AAT) on individuals, groups, communities, organizations and society (e.g., Fundamental Rights Impact Assessment (FRIA))?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

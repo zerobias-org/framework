@@ -1,0 +1,39 @@
+id: f404c706-6867-48b5-95c9-6051a8757e5e
+name: Cross Domain Authentication
+description: Automated mechanisms exist to uniquely identify and authenticate source and destination points for information transfer.
+elementType: enhancement
+externalId: NET-04.12
+parent: net-04
+controlQuestion: Does the organization use automated mechanisms to uniquely identify and authenticate source and destination points for information transfer?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

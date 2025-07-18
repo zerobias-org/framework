@@ -181,6 +181,9 @@ class SCFUpdater {
     // Clean up orphaned elements
     await this.cleanupOrphanedElements(allElements.map(e => e.externalId), elementsDir);
     
+    // Validate the generated package
+    await this.validatePackage(versionDir);
+    
     logger.info(`Created SCF ${scfData.version} package at: ${versionDir}`);
     
     return allElements.length;
@@ -191,6 +194,7 @@ class SCFUpdater {
       id: frameworkId,
       name: `Secure Controls Framework ${scfData.version}`,
       description: `ComplianceForge Secure Controls Framework ${scfData.version}`,
+      externalId: `SCF-${scfData.version}`,
       code: `scf_${scfData.version.replace(/\./g, '_')}`,
       status: 'approved',
       url: 'https://securecontrolsframework.com/',
@@ -374,7 +378,7 @@ class SCFUpdater {
     
     for (const element of elements) {
       try {
-        const filename = `${element.externalId.toLowerCase()}.yml`;
+        const filename = `${element.externalId.toLowerCase().replace(/\./g, '-')}.yml`;
         const filepath = path.join(elementsDir, filename);
         
         const cleanElement = this.cleanObject(element);
@@ -474,6 +478,21 @@ class SCFUpdater {
       logger.info('npm shrinkwrap completed successfully');
     } catch (error) {
       logger.error(`Error running npm shrinkwrap: ${String(error)}`);
+    }
+  }
+
+  private async validatePackage(versionDir: string): Promise<void> {
+    try {
+      const { exec } = require('child_process');
+      const { promisify } = require('util');
+      const execAsync = promisify(exec);
+      
+      logger.info(`Validating package in ${versionDir}`);
+      await execAsync('npm run validate', { cwd: versionDir });
+      logger.info('Package validation completed successfully');
+    } catch (error) {
+      logger.error(`Package validation failed: ${String(error)}`);
+      throw new Error(`Package validation failed: ${String(error)}`);
     }
   }
 
