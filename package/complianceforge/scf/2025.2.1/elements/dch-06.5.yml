@@ -1,0 +1,39 @@
+id: eb5e2774-ff18-4857-95bf-9c44750e997a
+name: Storing Authentication Data
+description: Mechanisms exist to prohibit the storage of sensitive transaction authentication data after authorization.
+elementType: enhancement
+externalId: DCH-06.5
+parent: dch-06
+controlQuestion: Does the organization prohibit the storage of sensitive transaction authentication data after authorization?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: dbcfa416-ab4c-441d-9b5a-93b4ed7b45f9
+name: Conflict of Interests
+description: Mechanisms exist to ensure that the interests of external service providers are consistent with and reflect organizational interests.
+elementType: enhancement
+externalId: TPM-04.3
+parent: tpm-04
+controlQuestion: Does the organization ensure that the interests of external service providers are consistent with and reflect organizational interests?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

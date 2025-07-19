@@ -1,0 +1,39 @@
+id: 0e11a8c9-f75e-48b5-b6c7-cdb23840a0e0
+name: Developer Configuration Management
+description: Mechanisms exist to require system developers and integrators to perform configuration management during system design, development, implementation and operation.
+elementType: control
+externalId: TDA-14
+parent: tda
+controlQuestion: Does the organization require system developers and integrators to perform configuration management during system design, development, implementation and operation?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

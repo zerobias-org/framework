@@ -1,0 +1,39 @@
+id: a7578c8e-2e03-4f48-bd38-b13756ec92c7
+name: Identification & Justification of Ports, Protocols & Services
+description: Mechanisms exist to require process owners to identify, document and justify the business need for the ports, protocols and other services necessary to operate their technology solutions.
+elementType: enhancement
+externalId: TDA-02.5
+parent: tda-02
+controlQuestion: Does the organization require process owners to identify, document and justify the business need for the ports, protocols and other services necessary to operate their technology solutions?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

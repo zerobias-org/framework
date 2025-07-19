@@ -1,0 +1,39 @@
+id: 815dbb94-4cb1-4874-9969-c89eff8a5556
+name: Control & Distribution of Cryptographic Keys
+description: Mechanisms exist to facilitate the secure distribution of symmetric and asymmetric cryptographic keys using industry recognized key management technology and processes.
+elementType: enhancement
+externalId: CRY-09.4
+parent: cry-09
+controlQuestion: Does the organization facilitate the secure distribution of symmetric and asymmetric cryptographic keys using industry recognized key management technology and processes?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

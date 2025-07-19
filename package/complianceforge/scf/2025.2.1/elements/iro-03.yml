@@ -1,0 +1,39 @@
+id: baae45a2-c873-4ef6-9050-175cd0b731a0
+name: Indicators of Compromise (IOC)
+description: Mechanisms exist to define specific Indicators of Compromise (IOC) to identify the signs of potential cybersecurity events.
+elementType: control
+externalId: IRO-03
+parent: iro
+controlQuestion: Does the organization define specific Indicators of Compromise (IOC) to identify the signs of potential cybersecurity events?
+functionGrouping: Respond
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

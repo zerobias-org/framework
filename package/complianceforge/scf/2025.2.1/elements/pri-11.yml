@@ -1,0 +1,39 @@
+id: 4608fde1-ebcc-400f-a9dd-be2e5beaf4f7
+name: Data Tagging
+description: Mechanisms exist to issue data modeling guidelines to support tagging of sensitive/regulated data.
+elementType: control
+externalId: PRI-11
+parent: pri
+controlQuestion: Does the organization issue data modeling guidelines to support tagging of sensitive/regulated data?
+functionGrouping: Identify
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
