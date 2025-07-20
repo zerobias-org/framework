@@ -1,0 +1,39 @@
+id: 66592000-6aa5-4e56-9a87-30d92cc2c1fd
+name: Software Escrow
+description: Mechanisms exist to escrow source code and supporting documentation to ensure software availability in the event the software provider goes out of business or is unable to provide support.
+elementType: enhancement
+externalId: TDA-20.3
+parent: tda-20
+controlQuestion: Does the organization escrow source code and supporting documentation to ensure software availability in the event the software provider goes out of business or is unable to provide support?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 6564041c-aa5e-453e-b1ed-6bfb24106609
+name: Fail Safe
+description: Mechanisms exist to implement fail-safe procedures when failure conditions occur.
+elementType: enhancement
+externalId: SEA-07.3
+parent: sea-07
+controlQuestion: Does the organization implement fail-safe procedures when failure conditions occur?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

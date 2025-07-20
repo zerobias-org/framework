@@ -1,0 +1,39 @@
+id: 2c67e88c-b793-4823-a203-c66adb4e4685
+name: Automated Tracking, Data Collection & Analysis
+description: Automated mechanisms exist to assist in the tracking, collection and analysis of information from actual and potential cybersecurity & data privacy incidents.
+elementType: enhancement
+externalId: IRO-09.1
+parent: iro-09
+controlQuestion: Does the organization use automated mechanisms to assist in the tracking, collection and analysis of information from actual and potential cybersecurity & data privacy incidents?
+functionGrouping: Detect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

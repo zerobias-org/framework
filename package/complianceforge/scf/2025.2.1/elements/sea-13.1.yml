@@ -1,0 +1,39 @@
+id: 09a5e85e-c7f1-4335-bf9b-7a9f109af3d4
+name: Virtualization Techniques
+description: Mechanisms exist to utilize virtualization techniques to support the employment of a diversity of operating systems and applications.
+elementType: enhancement
+externalId: SEA-13.1
+parent: sea-13
+controlQuestion: Does the organization utilize virtualization techniques to support the employment of a diversity of operating systems and applications?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 7d77ae9d-5394-4541-ab80-ec6985a050fb
+name: Automated Support For Predictive Maintenance
+description: Automated mechanisms exist to transfer predictive maintenance data to a computerized maintenance management system.
+elementType: enhancement
+externalId: MNT-03.3
+parent: mnt-03
+controlQuestion: Does the organization use automated mechanisms to transfer predictive maintenance data to a computerized maintenance management system?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

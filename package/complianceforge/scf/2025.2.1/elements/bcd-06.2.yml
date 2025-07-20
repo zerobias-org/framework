@@ -1,0 +1,39 @@
+id: 7d3b27c0-9e11-40d1-82bd-fa1f1c7e8ab2
+name: Contingency Plan Update Notifications
+description: Mechanisms exist to keep stakeholders informed of changes to contingency plans.
+elementType: enhancement
+externalId: BCD-06.2
+parent: bcd-06
+controlQuestion: Does the organization keep stakeholders informed of changes to contingency plans?
+functionGrouping: Recover
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

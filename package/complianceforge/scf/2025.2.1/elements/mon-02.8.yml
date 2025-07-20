@@ -1,0 +1,39 @@
+id: faa6a8d8-ba63-4074-b115-daa0993607ec
+name: Changes by Authorized Individuals
+description: Mechanisms exist to provide privileged users or roles the capability to change the auditing to be performed on specified information system components, based on specific event criteria within specified time thresholds.
+elementType: enhancement
+externalId: MON-02.8
+parent: mon-02
+controlQuestion: Does the organization provide privileged users or roles the capability to change the auditing to be performed on specified information system components, based on specific event criteria within specified time thresholds?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

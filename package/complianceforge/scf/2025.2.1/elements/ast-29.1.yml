@@ -1,0 +1,39 @@
+id: 3e140a91-16f2-42d8-80fe-4db1cd26d51c
+name: Contactless Access Control Systems
+description: Mechanisms exist to securely configure contactless access control systems incorporating contactless RFID or smart cards to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.
+elementType: enhancement
+externalId: AST-29.1
+parent: ast-29
+controlQuestion: Does the organization securely configure contactless access control systems incorporating contactless RFID or smart cards to protect the confidentiality and integrity of data and prevent the compromise of secure spaces?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

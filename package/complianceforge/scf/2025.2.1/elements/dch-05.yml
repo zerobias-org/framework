@@ -1,0 +1,39 @@
+id: e6721921-3f59-4631-955d-1648c02bb5a0
+name: Cybersecurity & Data Privacy Attributes
+description: Mechanisms exist to bind cybersecurity & data privacy attributes to information as it is stored, transmitted and processed.
+elementType: control
+externalId: DCH-05
+parent: dch
+controlQuestion: Does the organization bind cybersecurity & data privacy attributes to information as it is stored, transmitted and processed?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

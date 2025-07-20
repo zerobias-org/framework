@@ -1,0 +1,39 @@
+id: 4e403809-1630-4c78-8c9b-710ea232f90d
+name: Information Sharing
+description: Mechanisms exist to utilize a process to assist users in making information sharing decisions to ensure data is appropriately protected.
+elementType: control
+externalId: DCH-14
+parent: dch
+controlQuestion: Does the organization utilize a process to assist users in making information sharing decisions to ensure data is appropriately protected?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

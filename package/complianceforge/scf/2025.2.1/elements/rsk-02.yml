@@ -1,0 +1,39 @@
+id: 50ef2f61-25a1-4121-ac77-1374a2c1c9bc
+name: Risk-Based Security Categorization
+description: "Mechanisms exist to categorize systems and data in accordance with applicable laws, regulations and contractual obligations that:\r\n(1) Document the security categorization results (including supporting rationale) in the security plan for systems; and\r\n(2) Ensure the security categorization decision is reviewed and approved by the asset owner."
+elementType: control
+externalId: RSK-02
+parent: rsk
+controlQuestion: "Does the organization categorize systems and data in accordance with applicable laws, regulations and contractual obligations that:\r\n (1) Document the security categorization results (including supporting rationale) in the security plan for systems; and\r\n (2) Ensure the security categorization decision is reviewed and approved by the asset owner?"
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

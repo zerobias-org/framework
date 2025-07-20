@@ -1,0 +1,39 @@
+id: 0b0ef3b2-c6f4-4b15-8acb-5032b5bd64c4
+name: Supply Chain Risk Assessment
+description: Mechanisms exist to periodically assess supply chain risks associated with systems, system components and services.
+elementType: enhancement
+externalId: RSK-09.1
+parent: rsk-09
+controlQuestion: Does the organization periodically assess supply chain risks associated with systems, system components and services?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

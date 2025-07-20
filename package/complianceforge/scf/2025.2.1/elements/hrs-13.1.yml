@@ -1,0 +1,39 @@
+id: 98153d87-d126-46cb-b873-60298866b48b
+name: Remediate Identified Skills Deficiencies
+description: Mechanisms exist to remediate critical skills deficiencies necessary to support the organization's mission and business functions.
+elementType: enhancement
+externalId: HRS-13.1
+parent: hrs-13
+controlQuestion: Does the organization remediate critical skills deficiencies necessary to support its mission and business functions?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
