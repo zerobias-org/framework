@@ -1,15 +1,16 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-bundle",
-      "version": "0.0.11",
+      "version": "0.0.12",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/framework-cncf-sscp-v1": "1.0.0",
+        "@zerobias-org/framework-complianceforge-scf-2025.2.1": "1.0.1",
         "@zerobias-org/framework-iso-27001-2022a": "1.1.0",
         "@zerobias-org/framework-nist-ir8397-v1": "1.0.0",
         "@zerobias-org/framework-nist-label-2022": "1.0.0",
@@ -295,6 +296,15 @@
       "integrity": "sha512-fstsJBG0WifgMwFDbqYiRdv3jfBf0P2j3YBZyN7fgLHMXT/XeyjsE457i26+Aq4AeXxoYWgpbr1QHktMwsDZZA==",
       "dependencies": {
         "markdown-json": "latest"
+      }
+    },
+    "node_modules/@zerobias-org/framework-complianceforge-scf-2025.2.1": {
+      "version": "1.0.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-complianceforge-scf-2025.2.1/-/framework-complianceforge-scf-2025.2.1-1.0.1.tgz",
+      "integrity": "sha512-odK923QAy8MuDiLyX0hFYoSmNumHOZHLnkIEgQFw/i0p8gz8kAnTWCcO4gKGHmsYABv2baQ+eHlxdTlv9E12gQ==",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
       }
     },
     "node_modules/@zerobias-org/framework-iso-27001-2022a": {
@@ -4170,6 +4180,11 @@
       "requires": {
         "markdown-json": "latest"
       }
+    },
+    "@zerobias-org/framework-complianceforge-scf-2025.2.1": {
+      "version": "1.0.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-complianceforge-scf-2025.2.1/-/framework-complianceforge-scf-2025.2.1-1.0.1.tgz",
+      "integrity": "sha512-odK923QAy8MuDiLyX0hFYoSmNumHOZHLnkIEgQFw/i0p8gz8kAnTWCcO4gKGHmsYABv2baQ+eHlxdTlv9E12gQ=="
     },
     "@zerobias-org/framework-iso-27001-2022a": {
       "version": "1.1.0",
