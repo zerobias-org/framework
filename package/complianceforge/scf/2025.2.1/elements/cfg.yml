@@ -1,0 +1,6 @@
+id: 70c39b68-3fee-46a4-b91f-e32f9b483823
+name: Configuration Management
+description: Enforce secure configurations according to vendor-recommended and industry-recognized secure practices that enforce the concepts of “least privilege” and “least functionality” for all systems, applications and services.
+elementType: domain
+externalId: CFG
+intent: Organizations establish and maintain the integrity of systems. Without properly documented and implemented configuration management controls, security features can be inadvertently or deliberately omitted or rendered inoperable, allowing processing irregularities to occur or the execution of malicious code.

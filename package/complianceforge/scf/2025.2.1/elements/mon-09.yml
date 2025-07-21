@@ -1,0 +1,39 @@
+id: e18d6853-6754-473b-a102-8f4e7b9c7e88
+name: Non-Repudiation
+description: Mechanisms exist to utilize a non-repudiation capability to protect against an individual falsely denying having performed a particular action.
+elementType: control
+externalId: MON-09
+parent: mon
+controlQuestion: Does the organization utilize a non-repudiation capability to protect against an individual falsely denying having performed a particular action?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

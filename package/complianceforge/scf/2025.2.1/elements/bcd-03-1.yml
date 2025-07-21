@@ -1,0 +1,39 @@
+id: 97458e61-3b20-4e3a-86b3-2c3878d67e55
+name: Simulated Events
+description: Mechanisms exist to incorporate simulated events into contingency training to facilitate effective response by personnel in crisis situations.
+elementType: enhancement
+externalId: BCD-03.1
+parent: bcd-03
+controlQuestion: Does the organization incorporate simulated events into contingency training to facilitate effective response by personnel in crisis situations?
+functionGrouping: Recover
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

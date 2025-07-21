@@ -1,0 +1,39 @@
+id: bb3a5d7b-6a1f-4582-8184-dcabe0b0250f
+name: Disclosure of Information
+description: Mechanisms exist to restrict the disclosure of sensitive / regulated data to authorized parties with a need to know.
+elementType: enhancement
+externalId: DCH-03.1
+parent: dch-03
+controlQuestion: Does the organization restrict the disclosure of sensitive / regulated data to authorized parties with a need to know?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

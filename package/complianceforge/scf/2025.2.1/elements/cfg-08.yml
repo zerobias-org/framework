@@ -1,0 +1,39 @@
+id: 635cd407-0ee4-4a8c-9e91-ad84b4f98638
+name: Sensitive / Regulated Data Access Enforcement
+description: Mechanisms exist to configure systems, applications and processes to restrict access to sensitive/regulated data.
+elementType: control
+externalId: CFG-08
+parent: cfg
+controlQuestion: Does the organization configure systems, applications and processes to restrict access to sensitive/regulated data?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 58554fdb-37fc-4134-975e-291a649fc63a
+name: Real World Testing of AI & Autonomous Technologies
+description: "Mechanisms exist to obtain consent from the subjects of testing Artificial Intelligence (AI) and Autonomous Technologies (AAT):\r\n(1) Prior to their participation in such testing; and\r\n(2) After their having been provided with clear and concise information regarding the testing."
+elementType: control
+externalId: AAT-24
+parent: aat
+controlQuestion: "Does the organization obtain consent from the subjects of testing Artificial Intelligence (AI) and Autonomous Technologies (AAT):\r\n(1) Prior to their participation in such testing; and\r\n(2) After their having been provided with clear and concise information regarding the testing?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
