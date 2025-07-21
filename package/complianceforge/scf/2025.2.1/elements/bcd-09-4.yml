@@ -1,0 +1,39 @@
+id: 3423e6da-5a87-4f6b-bbbd-09c4ccf3c8ce
+name: Preparation for Use
+description: Mechanisms exist to prepare the alternate processing alternate to support essential missions and business functions so that the alternate site is capable of being used as the primary site.
+elementType: enhancement
+externalId: BCD-09.4
+parent: bcd-09
+controlQuestion: Does the organization prepare the alternate processing alternate to support essential missions and business functions so that the alternate site is capable of being used as the primary site?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

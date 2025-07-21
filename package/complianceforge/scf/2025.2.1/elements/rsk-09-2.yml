@@ -1,0 +1,39 @@
+id: 6c0f3cb9-51ef-468b-bbfb-a4535b59eda9
+name: AI & Autonomous Technologies Supply Chain Impacts
+description: Mechanisms exist to address Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks and benefits arising from the organization's supply chain, including third-party software and data.
+elementType: enhancement
+externalId: RSK-09.2
+parent: rsk-09
+controlQuestion: Does the organization address Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks and benefits arising from its supply chain, including third-party software and data?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

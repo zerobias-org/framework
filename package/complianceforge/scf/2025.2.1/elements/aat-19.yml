@@ -1,0 +1,39 @@
+id: c8a0cd07-726b-45a4-b8e8-28172b860e72
+name: AI & Autonomous Technologies Conformity
+description: "Mechanisms exist to ensure deployed Artificial Intelligence (AI) and Autonomous Technologies (AAT) conform to applicable statutory and regulatory requirements, based on:\r\n(1) Defined use cases;\r\n(2) Geographic markets; and\r\n(3) Use of Intellectual Property (IP)."
+elementType: control
+externalId: AAT-19
+parent: aat
+controlQuestion: "Does the organization ensure deployed Artificial Intelligence (AI) and Autonomous Technologies (AAT) conform to applicable statutory and regulatory requirements, based on:\r\n(1) Defined use cases;\r\n(2) Geographic markets; and\r\n(3) Use of Intellectual Property (IP)?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

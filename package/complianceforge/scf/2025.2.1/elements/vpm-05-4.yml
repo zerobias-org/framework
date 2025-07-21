@@ -1,0 +1,39 @@
+id: 629344ab-0171-441f-87f5-97f7b82ddb21
+name: Automated Software & Firmware Updates
+description: Automated mechanisms exist to install the latest stable versions of security-relevant software and firmware updates.
+elementType: enhancement
+externalId: VPM-05.4
+parent: vpm-05
+controlQuestion: Does the organization use automated mechanisms to install the latest stable versions of security-relevant software and firmware updates?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

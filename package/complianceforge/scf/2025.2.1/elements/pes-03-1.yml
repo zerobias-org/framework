@@ -1,0 +1,39 @@
+id: b7b97d74-e5ce-44b5-82c2-6b2a7978317e
+name: Controlled Ingress & Egress Points
+description: Physical access control mechanisms exist to limit and monitor physical access through controlled ingress and egress points.
+elementType: enhancement
+externalId: PES-03.1
+parent: pes-03
+controlQuestion: Does the organization limit and monitor physical access through controlled ingress and egress points?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

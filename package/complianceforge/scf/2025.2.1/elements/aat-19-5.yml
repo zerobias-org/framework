@@ -1,0 +1,39 @@
+id: 2c9621a5-01ad-42fa-a0ee-2c3e0bcfb310
+name: Risk and Criminal Profiling
+description: "Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that:\r\n(1) Assess the risk of an individual committing a criminal offence; and\r\n(2) Predicts risk based solely on the profiling of personality traits and characteristics."
+elementType: enhancement
+externalId: AAT-19.5
+parent: aat-19
+controlQuestion: "Does the organization prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that:\r\n(1) Assess the risk of an individual committing a criminal offence; and\r\n(2) Predicts risk based solely on the profiling of personality traits and characteristics?"
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

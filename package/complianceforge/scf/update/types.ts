@@ -100,6 +100,7 @@ export interface SCFFrameworkIndex {
   name: string;
   code: string;
   description: string;
+  externalId: string;
   status: string;
   url: string;
   version: string;
