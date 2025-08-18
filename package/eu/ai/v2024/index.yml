@@ -1,0 +1,17 @@
+id: 9200802c-d808-4cb3-a836-5e32a15f69fa
+name: EU Artificial Intelligence (AI)I Act (Regulation (EU) 2024/1689)
+externalId: eu.ai.v2024
+description: EU Artificial Intelligence (AI)I Act (Regulation (EU) 2024/1689)
+code: eu.ai.v2024
+status: approved
+url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689
+version: v2024
+external: true
+internal: false
+elementTypes:
+  - id: c38e09ee-ed58-4b8b-80b4-5dc13272d99d
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
