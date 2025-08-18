@@ -1,0 +1,13 @@
+id: 5b8aa13d-c3e9-40a1-9e7f-9ece3134014c
+externalId: ISM-1223
+name: ISM-1223
+description: "Memory in network devices is sanitised using the following
+  processes, in order of preference:\r
+
+  · \tfollowing device-specific guidance provided in evaluation documentation\r
+
+  · \tfollowing vendor sanitisation guidance\r
+
+  · \tloading a dummy configuration file, performing a factory reset and then
+  reinstalling firmware."
+elementType: control

@@ -1,0 +1,17 @@
+id: ad96c84e-570a-4de4-ab9c-75b4098c9a07
+externalId: ISM-1590
+name: ISM-1590
+description: "Credentials are changed if:\r
+
+  · \tthey are compromised\r
+
+  · \tthey are suspected of being compromised\r
+
+  · \tthey are discovered stored on networks in the clear\r
+
+  · \tthey are discovered being transferred across networks in the clear\r
+
+  · \tmembership of a shared account changes\r
+
+  · \tthey have not been changed in the past 12 months."
+elementType: control

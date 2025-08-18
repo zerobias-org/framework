@@ -1,0 +1,27 @@
+id: 29a8eab4-b8da-4388-a133-83cccdae2016
+externalId: ISM-1537
+name: ISM-1537
+description: "The following events are centrally logged for databases:\r
+
+  · \taccess or modification of particularly important content\r
+
+  · \taddition of new users, especially privileged users\r
+
+  · \tchanges to user roles or privileges\r
+
+  · \tattempts to elevate user privileges\r
+
+  · \tqueries containing comments\r
+
+  · \tqueries containing multiple embedded queries\r
+
+  · \tdatabase and query alerts or failures\r
+
+  · \tdatabase structure changes\r
+
+  · \tdatabase administrator actions\r
+
+  · \tuse of executable commands\r
+
+  · \tdatabase logons and logoffs."
+elementType: control

@@ -1,0 +1,7 @@
+id: 347ee862-d968-4f60-ae52-35b7fc16d6a7
+externalId: ISM-1540
+name: ISM-1540
+description: DMARC records are configured for an organisation’s domains
+  (including subdomains) such that emails are rejected if they do not pass DMARC
+  checks.
+elementType: control

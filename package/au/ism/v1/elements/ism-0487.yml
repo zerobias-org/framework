@@ -1,0 +1,16 @@
+id: 49013359-8253-4e4f-b084-4bdbed10e082
+externalId: ISM-0487
+name: ISM-0487
+description: "When using logins without a passphrase for SSH connections, the
+  following are disabled:\r
+
+  · \taccess from IP addresses that do not require access\r
+
+  · \tport forwarding\r
+
+  · \tagent credential forwarding\r
+
+  · \tX11 display remoting\r
+
+  · \tconsole access."
+elementType: control
