@@ -1,0 +1,8 @@
+id: 36304b61-7648-4b2e-91c6-3532708e0b19
+externalId: "2425"
+name: Use Integrity Verification Tools
+description: The Supplier shall implement an integrity verification tool to
+  detect unauthorised changes to web-facing, critical software and firmware.
+  Upon discovering discrepancies, the tool should automatically trigger the
+  incident response process.
+elementType: control

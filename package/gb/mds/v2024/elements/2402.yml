@@ -1,0 +1,20 @@
+id: 6c9ef9e8-eead-47de-8810-11781245562d
+externalId: "2402"
+name: Vulnerability Management
+description: "The Supplier shall implement a vulnerability and patch management
+  process to identify, report, and remediate application and system (internal
+  and external facing) vulnerabilities that is approved by the application or
+  system owner and is commensurate with the level of risk by:\r
+
+  i) Performing vulnerability scans on a monthly basis and during any major
+  system or application updates\r
+
+  ii) Implementing vendor patches or fixes prioritising using the CVSS v3
+  scoring\r
+
+  iii) Developing a Risk Treatment Plan to address identified vulnerabilities.\r
+
+  The Supplier shall address vulnerabilities in accordance with the Supplier’s
+  internal vulnerability remediation timelines and in line with reasonable
+  industry standards for vulnerability management based on CVSS v3 or above."
+elementType: control

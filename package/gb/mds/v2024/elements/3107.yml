@@ -1,0 +1,35 @@
+id: 437f2876-96f8-4912-8df7-c431087b08a7
+externalId: "3107"
+name: Create, Retain and Correlate Audit Logs
+description: "The Supplier shall generate event logs for systems that support
+  the operation of Functions and protection of Data. The following criteria
+  apply:\r
+
+  i) Logs are archived for a minimum of 12 months\r
+
+  ii) Logs capture (as a minimum) date, time (from a single NTP source), user
+  ID, device accessed and port used\r
+
+  iii) Logs capture key security event types (e.g. critical files accessed, user
+  accounts generated, multiple failed login attempts, logging failures from
+  devices, events related to systems that have an internet connection)\r
+
+  iv) Access to modify system logs is restricted\r
+
+  v) Logs and security event logs can be made available upon request\r
+
+  vi) Store audit records in a repository that is part of a physically different
+  system\r
+
+  vii) The Supplier shall ensure that systems logs are reviewed at least weekly
+  to identify system\r
+
+  failures, faults, or potential security incidents and corrective actions are
+  taken to resolve or address issues within a reasonable timeframe\r
+
+  viii) Review, at least every 6 months the event types selected for logging
+  purposes to ensure these still meet business requirements\r
+
+  ix) Capture the operational status of the logging system and alert on any
+  failures which impact the system's operational capacity."
+elementType: control
