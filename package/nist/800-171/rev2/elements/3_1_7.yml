@@ -1,0 +1,6 @@
+id: c1fb5778-7055-4aba-957c-4b62ee15ac62
+externalId: 3.1.7
+name: 3.1.7
+description: Prevent non-privileged users from executing privileged functions
+  and capture the execution of such functions in audit logs.
+elementType: control
