@@ -1,0 +1,17 @@
+id: c45c3f3c-31e5-4525-b493-1e108b1a2605
+name: ENISA NIS2 Annex
+externalId: eu.enisa.annex
+description: ENISA NIS2 Annex
+code: eu.enisa.annex
+status: approved
+url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=intcom:C%282024%297151
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 107cd1b1-5fae-4bef-bcf8-e33699f80a74
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
