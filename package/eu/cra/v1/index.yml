@@ -1,0 +1,17 @@
+id: ec0a7167-4582-47a8-8ce6-a9dc9549d03e
+name: EU Cyber Resilience Act
+externalId: eu.cra.v1
+description: EU Cyber Resilience Act
+code: eu.cra.v1
+status: approved
+url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52022PC0454
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 803cce96-aaf7-4ff8-8612-ab1efb1afff8
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
