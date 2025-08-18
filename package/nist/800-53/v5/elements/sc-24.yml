@@ -1,0 +1,9 @@
+id: 86be0271-f9d8-4ba1-a71d-16e0898a303b
+externalId: SC-24
+name: Fail in Known State
+description: "Fail to a [Assignment: organization-defined known system state]
+  for the following failures on the indicated components while preserving
+  [Assignment: organization-defined system state information] in failure:
+  [Assignment: list of organization-defined types of system failures on
+  organization-defined system components]."
+elementType: control

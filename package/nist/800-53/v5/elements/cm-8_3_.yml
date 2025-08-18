@@ -1,0 +1,10 @@
+id: 6fde454d-c27b-4914-86b9-73cbbf44cfb2
+externalId: CM-8(3)
+name: System Component Inventory | Automated Unauthorized Component Detection
+description: "a. Detect the presence of unauthorized hardware, software, and
+  firmware components within the system using [Assignment: organization-defined
+  automated mechanisms] [Assignment: organization-defined frequency]; andb. Take
+  the following actions when unauthorized components are detected: [Selection
+  (one or more): disable network access by such components; isolate the
+  components; notify [Assignment: organization-defined personnel or roles]]."
+elementType: control

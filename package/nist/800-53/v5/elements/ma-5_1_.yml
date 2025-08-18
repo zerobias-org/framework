@@ -1,0 +1,18 @@
+id: c5af859d-e4af-49b3-ae17-6f40e905cb2e
+externalId: MA-5(1)
+name: Maintenance Personnel | Individuals Without Appropriate Access
+description: "a. Implement procedures for the use of maintenance personnel that
+  lack appropriate security clearances or are not U.S. citizens, that include
+  the following requirements:1. Maintenance personnel who do not have needed
+  access authorizations, clearances, or formal access approvals are escorted and
+  supervised during the performance of maintenance and diagnostic activities on
+  the system by approved organizational personnel who are fully cleared, have
+  appropriate access authorizations, and are technically qualified; and2. Prior
+  to initiating maintenance or diagnostic activities by personnel who do not
+  have needed access authorizations, clearances or formal access approvals, all
+  volatile information storage components within the system are sanitized and
+  all nonvolatile storage media are removed or physically disconnected from the
+  system and secured; andb. Develop and implement [Assignment:
+  organization-defined alternate controls] in the event a system component
+  cannot be sanitized, removed, or disconnected from the system."
+elementType: control

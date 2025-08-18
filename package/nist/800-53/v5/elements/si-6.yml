@@ -1,0 +1,13 @@
+id: 72c87a9d-7671-4c46-8610-6b4ddcb6699e
+externalId: SI-6
+name: Security and Privacy Function Verification
+description: "a. Verify the correct operation of [Assignment:
+  organization-defined security and privacy functions];b. Perform the
+  verification of the functions specified in SI-06a [Selection (one or more):
+  [Assignment: organization-defined system transitional states]; upon command by
+  user with appropriate privilege; [Assignment: organization-defined
+  frequency]];c. Alert [Assignment: organization-defined personnel or roles] to
+  failed security and privacy verification tests; andd. [Selection (one or
+  more): Shut the system down; Restart the system; [Assignment:
+  organization-defined alternative action(s)]] when anomalies are discovered."
+elementType: control

@@ -1,0 +1,8 @@
+id: d955fd75-8bc7-4812-aa39-ddca921e349c
+externalId: SC-7(19)
+name: Boundary Protection | Block Communication from Non-organizationally
+  Configured Hosts
+description: "Block inbound and outbound communications traffic between
+  [Assignment: organization-defined communication clients] that are
+  independently configured by end users and external service providers."
+elementType: control

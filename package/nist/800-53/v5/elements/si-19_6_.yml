@@ -1,0 +1,7 @@
+id: c0ab3bc5-ff1e-4522-8e7f-7a3d82de725b
+externalId: SI-19(6)
+name: De-identification | Differential Privacy
+description: Prevent disclosure of personally identifiable information by adding
+  non-deterministic noise to the results of mathematical operations before the
+  results are reported.
+elementType: control

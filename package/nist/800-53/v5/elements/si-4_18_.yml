@@ -1,0 +1,8 @@
+id: cf4c1b9f-f6cb-4439-ba3b-8e8e633f473f
+externalId: SI-4(18)
+name: System Monitoring | Analyze Traffic and Covert Exfiltration
+description: "Analyze outbound communications traffic at external interfaces to
+  the system and at the following interior points to detect covert exfiltration
+  of information: [Assignment: organization-defined interior points within the
+  system]."
+elementType: control

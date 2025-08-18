@@ -1,0 +1,7 @@
+id: 455fba9f-4623-4c33-846b-8824c6c1e6fd
+externalId: SC-3(5)
+name: Security Function Isolation | Layered Structures
+description: Implement security functions as a layered structure minimizing
+  interactions between layers of the design and avoiding any dependence by lower
+  layers on the functionality or correctness of higher layers.
+elementType: control

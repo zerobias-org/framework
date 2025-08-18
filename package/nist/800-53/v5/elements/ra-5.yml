@@ -1,0 +1,21 @@
+id: f5f6805d-2b58-48fe-b589-555e0f185d02
+externalId: RA-5
+name: Vulnerability Monitoring and Scanning
+description: "a. Monitor and scan for vulnerabilities in the system and hosted
+  applications [Assignment: organization-defined frequency and/or randomly in
+  accordance with organization-defined process] and when new vulnerabilities
+  potentially affecting the system are identified and reported;b. Employ
+  vulnerability monitoring tools and techniques that facilitate interoperability
+  among tools and automate parts of the vulnerability management process by
+  using standards for:1. Enumerating platforms, software flaws, and improper
+  configurations;2. Formatting checklists and test procedures; and3. Measuring
+  vulnerability impact;c. Analyze vulnerability scan reports and results from
+  vulnerability monitoring;d. Remediate legitimate vulnerabilities [Assignment:
+  organization-defined response times] in accordance with an organizational
+  assessment of risk;e. Share information obtained from the vulnerability
+  monitoring process and control assessments with [Assignment:
+  organization-defined personnel or roles] to help eliminate similar
+  vulnerabilities in other systems; andf. Employ vulnerability monitoring tools
+  that include the capability to readily update the vulnerabilities to be
+  scanned."
+elementType: control

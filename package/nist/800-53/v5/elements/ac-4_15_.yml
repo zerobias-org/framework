@@ -1,0 +1,9 @@
+id: 3ade5baf-cdd7-4e48-9a10-b7c1cf8f804c
+externalId: AC-4(15)
+name: Information Flow Enforcement | Detection of Unsanctioned Information
+description: "When transferring information between different security domains,
+  examine the information for the presence of [Assignment: organization-defined
+  unsanctioned information] and prohibit the transfer of such information in
+  accordance with the [Assignment: organization-defined security or privacy
+  policy]."
+elementType: control

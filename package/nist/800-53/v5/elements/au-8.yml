@@ -1,0 +1,9 @@
+id: bb7b1938-e3f1-4601-91d8-04534d9c6398
+externalId: AU-8
+name: Time Stamps
+description: "a. Use internal system clocks to generate time stamps for audit
+  records; andb. Record time stamps for audit records that meet [Assignment:
+  organization-defined granularity of time measurement] and that use Coordinated
+  Universal Time, have a fixed local time offset from Coordinated Universal
+  Time, or that include the local time offset as part of the time stamp."
+elementType: control

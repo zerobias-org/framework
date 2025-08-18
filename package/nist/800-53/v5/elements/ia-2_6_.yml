@@ -1,0 +1,10 @@
+id: adf7ba11-ee97-424d-a205-ce892c3adc70
+externalId: IA-2(6)
+name: Identification and Authentication (organizational Users) | Access to
+  Accounts —separate Device
+description: "Implement multi-factor authentication for [Selection (one or
+  more): local; network; remote] access to [Selection (one or more): privileged
+  accounts; non-privileged accounts] such that:a. One of the factors is provided
+  by a device separate from the system gaining access; andb. The device meets
+  [Assignment: organization-defined strength of mechanism requirements]."
+elementType: control

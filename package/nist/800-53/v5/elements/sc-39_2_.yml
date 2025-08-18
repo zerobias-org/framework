@@ -1,0 +1,6 @@
+id: 7cf73433-fc9b-40d9-b76d-a04bba3f0b92
+externalId: SC-39(2)
+name: Process Isolation | Separate Execution Domain Per Thread
+description: "Maintain a separate execution domain for each thread in
+  [Assignment: organization-defined multi-threaded processing]."
+elementType: control

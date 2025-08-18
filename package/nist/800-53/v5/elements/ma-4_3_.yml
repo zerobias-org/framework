@@ -1,0 +1,12 @@
+id: e6a42669-2a35-4b5b-a486-02a19523aced
+externalId: MA-4(3)
+name: Nonlocal Maintenance | Comparable Security and Sanitization
+description: a. Require that nonlocal maintenance and diagnostic services be
+  performed from a system that implements a security capability comparable to
+  the capability implemented on the system being serviced; orb. Remove the
+  component to be serviced from the system prior to nonlocal maintenance or
+  diagnostic services; sanitize the component (for organizational information);
+  and after the service is performed, inspect and sanitize the component (for
+  potentially malicious software) before reconnecting the component to the
+  system.
+elementType: control

@@ -1,0 +1,19 @@
+id: 42922973-3eb6-444b-ae10-291a690e32dc
+name: NIST SP 800-53 R5 - Security and Privacy Controls for Information Systems
+  and Organizations
+externalId: nist.800-53.v5
+description: NIST SP 800-53 R5 - Security and Privacy Controls for Information
+  Systems and Organizations
+code: nist.800-53.v5
+status: approved
+url: https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+version: v5
+external: true
+internal: false
+elementTypes:
+  - id: b712c7fe-4867-40ce-8e27-fa8af9b50cc0
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

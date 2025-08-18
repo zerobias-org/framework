@@ -1,0 +1,11 @@
+id: 3fdd022b-41fc-4e5f-8e63-cada400bb456
+externalId: AU-12
+name: Audit Record Generation
+description: "a. Provide audit record generation capability for the event types
+  the system is capable of auditing as defined in AU-2a on [Assignment:
+  organization-defined system components];b. Allow [Assignment:
+  organization-defined personnel or roles] to select the event types that are to
+  be logged by specific components of the system; andc. Generate audit records
+  for the event types defined in AU-2c that include the audit record content
+  defined in AU-3."
+elementType: control

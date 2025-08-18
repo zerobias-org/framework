@@ -1,0 +1,7 @@
+id: 749c1c04-35fb-4233-9e1d-f0e4780ac933
+externalId: SC-7(11)
+name: Boundary Protection | Restrict Incoming Communications Traffic
+description: "Only allow incoming communications from [Assignment:
+  organization-defined authorized sources] to be routed to [Assignment:
+  organization-defined authorized destinations]."
+elementType: control

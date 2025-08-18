@@ -1,0 +1,7 @@
+id: b7f34fdc-53b9-4c3d-9628-e3f96b5ba218
+externalId: AC-4(13)
+name: Information Flow Enforcement | Decomposition into Policy-relevant Subcomponents
+description: "When transferring information between different security domains,
+  decompose information into [Assignment: organization-defined policy-relevant
+  subcomponents] for submission to policy enforcement mechanisms."
+elementType: control

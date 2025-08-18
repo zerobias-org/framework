@@ -1,0 +1,10 @@
+id: 6cb88180-3f81-4743-b650-d8d2cde82830
+externalId: SC-11
+name: Trusted Path
+description: "a. Provide a [Selection (one): physically; logically] isolated
+  trusted communications path for communications between the user and the
+  trusted components of the system; andb. Permit users to invoke the trusted
+  communications path for communications between the user and the following
+  security functions of the system, including at a minimum, authentication and
+  re-authentication: [Assignment: organization-defined security functions]."
+elementType: control
