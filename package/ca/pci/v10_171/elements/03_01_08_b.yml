@@ -1,0 +1,9 @@
+id: f9541499-12a0-4eb7-a852-f490490ed773
+externalId: 03.01.08.B
+name: Unsuccessful Logon Attempts
+description: "Automatically [Selection (one or more): lock the account or node
+  for an [Assignment: organization-defined time period]; lock the account or
+  node until released by an administrator; delay next logon prompt; notify
+  system administrator; take other action] when the maximum number of
+  unsuccessful attempts is exceeded."
+elementType: control
