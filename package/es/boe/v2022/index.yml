@@ -1,0 +1,17 @@
+id: 01560b2c-e98f-449a-b7b8-9af0b149b191
+name: BOE-A-2022-7191
+externalId: es.boe.v2022
+description: BOE-A-2022-7191
+code: es.boe.v2022
+status: approved
+url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-7191
+version: v2022
+external: true
+internal: false
+elementTypes:
+  - id: 3fa9d75a-7f4b-4a61-b627-95a6cb4b89b7
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
