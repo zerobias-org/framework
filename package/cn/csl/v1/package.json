@@ -1,0 +1,35 @@
+{
+  "name": "@zerobias-org/framework-cn-csl-v1",
+  "version": "1.0.0",
+  "description": "China Cybersecurity Law of the People's Republic of China (China Cybersecurity Law)",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/cn/csl/v1/"
+  },
+  "auditmation": {
+    "package": "cn.csl.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-cn-csl": "latest"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "nx:prepublish": "../../../../scripts/prepublish.sh"
+  }
+}
