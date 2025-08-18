@@ -1,0 +1,17 @@
+id: 3a190fe2-f8db-45bc-a3a1-84e2103b2215
+name: NIST 800-171A R3
+externalId: nist.800_171a.r3
+description: NIST 800-171A R3
+code: nist.800_171a.r3
+status: approved
+url: https://csrc.nist.gov/pubs/sp/800/171/a/r3/final
+version: r3
+external: true
+internal: false
+elementTypes:
+  - id: b074818e-b95e-4368-a014-059ccd3c52fc
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
