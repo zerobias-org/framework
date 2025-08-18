@@ -1,0 +1,23 @@
+id: aea88245-8d73-4f1f-b275-613cc9802c4e
+externalId: RA-10
+name: Threat Hunting
+description: The C-SCRM threat hunting activities should supplement the
+  enterprise’s internal threat hunting activities. As a critical part of the
+  cybersecurity supply chain risk management process, enterprises should
+  actively monitor for threats to their supply chain. This requires a
+  collaborative effort between C-SCRM and other cyber defense-oriented functions
+  within the enterprise. Threat hunting capabilities may also be provided via a
+  shared services enterprise, especially when an enterprise lacks the resources
+  to perform threat hunting activities themselves. Typical activities include
+  information sharing with peer enterprises and actively consuming threat
+  intelligence sources (e.g., like those available from Information Assurance
+  and Analysis Centers [ISAC[ and Information Assurance and Analysis
+  Organizations [ISAO]). These activities can help identify and flag indicators
+  of increased cybersecurity risks throughout the supply chain that may be of
+  concern, such as cyber incidents, mergers and acquisitions, and Foreign
+  Ownership, Control, or Influence (FOCI). Supply chain threat intelligence
+  should seek out threats to the enterprise’s suppliers, as well as information
+  systems, system components, and the raw inputs that they provide. The
+  intelligence gathered enables enterprises to proactively identify and respond
+  to threats emanating from the supply chain.
+elementType: control

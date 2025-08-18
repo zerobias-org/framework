@@ -1,0 +1,16 @@
+id: 81cc647b-7a30-4cf3-8f22-fae207d3f82f
+externalId: SC-7(13)
+name: Boundary Protection | Isolation of Security Tools, Mechanisms, and Support
+  Components
+description: The enterprise should provide separation and isolation of
+  development, test, and security assessment tools and operational environments
+  and relevant monitoring tools within the enterprise’s information systems and
+  networks. This control applies the entity responsible for creating software
+  and hardware, to include federal agencies and prime contractors. As such, this
+  controls applies to the federal agency and applicable supplier information
+  systems and networks. Enterprises should require their prime contractors to
+  implement this control and flow down this requirement to relevant sub-tier
+  contractors. If a compromise or information leakage happens in any one
+  environment, the other environments should still be protected through the
+  separation and isolation mechanisms or techniques.
+elementType: control

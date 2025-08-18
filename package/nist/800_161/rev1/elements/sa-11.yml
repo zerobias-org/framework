@@ -1,0 +1,21 @@
+id: 91b470d0-302b-4ed4-8d2d-81eddf1b6cc9
+externalId: SA-11
+name: Developer Testing and Evaluation
+description: Depending on the origins of components, this control may be
+  implemented differently. For OTS (off-the-shelf) components, the acquirer
+  should conduct research (e.g., via publicly available resources) or request
+  proof to determine whether the supplier (OEM) has performed such testing as
+  part of their quality or security processes. When the acquirer has control
+  over the application and development processes, they should require this
+  testing as part of the SDLC. In addition to the specific types of testing
+  activities described in the enhancements, examples of C-SCRM-relevant testing
+  include testing for counterfeits, verifying the origins of components,
+  examining configuration settings prior to integration, and testing interfaces.
+  These types of tests may require significant resources and should be
+  prioritized based on criticality, threat, and vulnerability analyses
+  (described in Section 2 and Appendix C), as well as the effectiveness of
+  testing techniques. Enterprises may also require third-party testing as part
+  of developer security testing. Departments and agencies should refer to
+  Appendix F to implement this guidance in accordance with Executive Order
+  14028, Improving the Nation’s Cybersecurity.
+elementType: control

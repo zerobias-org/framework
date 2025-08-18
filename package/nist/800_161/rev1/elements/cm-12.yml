@@ -1,0 +1,14 @@
+id: 7b287e68-f3f8-4022-977b-2d7f84574973
+externalId: CM-12
+name: Information Location
+description: Information that resides in different physical locations may be
+  subject to different cybersecurity risks throughout the supply chain,
+  depending on the specific location of the information. Components that
+  originate or operate from different physical locations may also be subject to
+  different supply chain risks, depending on the specific location of
+  origination or operations. Enterprises should manage these risks through
+  limiting access control and specifying allowable or disallowable geographic
+  locations for backup/recovery, patching/upgrades, and information
+  transfer/sharing. NIST SP 800-53, Rev. 5 control enhancement CM-12 (1) is a
+  mechanism that can be used to enable automated location of components.
+elementType: control

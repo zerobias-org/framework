@@ -1,0 +1,19 @@
+id: 045fe164-2f7b-4c25-b34f-053609919046
+name: NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for
+  Systems and Organizations
+externalId: nist.800_161.rev1
+description: NIST SP 800-161 - Cybersecurity Supply Chain Risk Management
+  Practices for Systems and Organizations
+code: nist.800_161.rev1
+status: approved
+url: https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final
+version: rev1
+external: true
+internal: false
+elementTypes:
+  - id: f629c2a1-0705-44be-9069-cedbaab62801
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

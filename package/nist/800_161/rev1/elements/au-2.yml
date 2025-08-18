@@ -1,0 +1,21 @@
+id: 00a2a5c5-97a7-4c83-9800-853a160a5b0d
+externalId: AU-2
+name: Event Logging
+description: An observable occurrence within the information system or supply
+  chain network should be identified as a supply chain auditable event based on
+  the enterprise’s SDLC context and requirements. Auditable events may include
+  software/hardware changes, failed attempts to access supply chain information
+  systems, or the movement of source code. Information on such events should be
+  captured by appropriate audit mechanisms and be traceable and verifiable.
+  Information captured may include the type of event, date/time, length, and the
+  frequency of occurrence. Among other things, auditing may help detect misuse
+  of the supply chain information systems or network caused by insider threats.
+  Logs are a key resource when identifying operational trends and long-term
+  problems. As such, enterprises should incorporate reviewing logs at the
+  contract renewal point for vendors to determine whether there is a systemic
+  problem. Enterprises should require their prime contractors to implement this
+  control and flow down this requirement to relevant sub-tier contractors.
+  Departments and agencies should refer to Appendix F to implement this guidance
+  in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity.
+elementType: control

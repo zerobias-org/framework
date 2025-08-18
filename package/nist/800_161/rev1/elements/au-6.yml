@@ -1,0 +1,14 @@
+id: a4d64643-016a-473c-8b52-6f83a57da6a2
+externalId: AU-6
+name: Audit Record Review, Analysis, and Reporting
+description: The enterprise should ensure that both supply chain and information
+  security auditable events are appropriately filtered and correlated for
+  analysis and reporting. For example, if new maintenance or a patch upgrade is
+  recognized to have an invalid digital signature, the identification of the
+  patch arrival qualifies as a supply chain auditable event, while an invalid
+  signature is an information security auditable event. The combination of these
+  two events may provide information valuable to CSCRM. The enterprise should
+  adjust the level of audit record review based on the risk changes (e.g.,
+  active threat intel, risk profile) on a specific vendor. Contracts should
+  explicitly address how audit findings will be reported and adjudicated.
+elementType: control

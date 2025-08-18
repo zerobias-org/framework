@@ -1,0 +1,23 @@
+id: 69b93cf7-c1e9-4d89-97f6-bfefa8d50430
+externalId: CM-8
+name: System Component Inventory
+description: Enterprises should ensure that critical component assets within the
+  information systems and networks are included in the asset inventory. The
+  inventory must also include information for critical component accountability.
+  Inventory information includes, for example, hardware inventory
+  specifications, software license information, software version numbers,
+  component owners, and for networked components or devices – machine names and
+  network addresses. Inventory specifications may include the manufacturer,
+  device type, model, serial number, and physical location. Enterprises should
+  require their prime contractors to implement this control and flow down this
+  requirement to relevant subtier contractors. Enterprises should specify the
+  requirements and how information flow is enforced to ensure that only the
+  required information – and no more – is communicated to the various
+  participants in the supply chain. If information is subsetted downstream,
+  there should be information about who created the subset information.
+  Enterprises should consider producing SBOMs for applicable and appropriate
+  classes of software, including purchased software, open source software, and
+  in-house software. Departments and agencies should refer to Appendix F for
+  additional guidance on SBOMs in accordance with Executive Order 14028,
+  Improving the Nation’s Cybersecurity.
+elementType: control

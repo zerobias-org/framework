@@ -1,0 +1,23 @@
+id: dd301d99-b0fd-4bf4-bcdf-9e18331dc5c1
+externalId: IR-4(10)
+name: Incident Handling | Supply Chain Coordination
+description: A number of enterprises may be involved in managing incidents and
+  responses for supply chain security. After initially processing the incident
+  and deciding on a course of action (in some cases, the action may be “no
+  action”), the enterprise may need to coordinate with their suppliers,
+  developers, system integrators, external system service providers, other
+  ICT/OT-related service providers, and any relevant interagency bodies to
+  facilitate communications, incident response, root cause, and corrective
+  actions. Enterprises should securely share information through a coordinated
+  set of personnel in key roles to allow for a more comprehensive incident
+  handling approach. Selecting suppliers, developers, system integrators,
+  external system service providers, and other ICT/OT-related service providers
+  with mature capabilities for supporting supply chain cybersecurity incident
+  handling is important for reducing exposure to cybersecurity risks throughout
+  the supply chain. If transparency for incident handling is limited due to the
+  nature of the relationship, define a set of acceptable criteria in the
+  agreement (e.g., contract). A review (and potential revision) of the agreement
+  is recommended, based on the lessons learned from previous incidents.
+  Enterprises should require their prime contractors to implement this control
+  and flow down this requirement to relevant sub-tier contractors.
+elementType: control

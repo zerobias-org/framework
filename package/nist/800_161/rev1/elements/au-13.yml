@@ -1,0 +1,17 @@
+id: 79ce3b57-9265-4cfc-a835-3e542df5e953
+externalId: AU-13
+name: Monitoring for Information Disclosure
+description: Within the C-SCRM context, information disclosure may occur via
+  multiple avenues, including open source information. For example,
+  supplier-provided errata may reveal information about an enterprise’s system
+  that increases the risk to that system. Enterprises should ensure that
+  monitoring is in place for contractor systems to detect the unauthorized
+  disclosure of any data and that contract language includes a requirement that
+  the vendor will notify the enterprise, in accordance with enterprise-defined
+  time frames and as soon as possible in the event of any potential or actual
+  unauthorized disclosure. Enterprises should require their prime contractors to
+  implement this control and flow down this requirement to relevant sub-tier
+  contractors. Departments and agencies should refer to Appendix F to implement
+  this guidance in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity.
+elementType: control

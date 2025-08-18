@@ -1,0 +1,22 @@
+id: 70eefe72-b764-4365-bcc6-1f6d44042e9c
+externalId: SR-10
+name: Inspection of Systems or Components
+description: "Enterprises should inspect critical systems and components, at a
+  minimum, for assurance that tamper resistance controls are in place and to
+  examine whether there is evidence of tampering. Products or components should
+  be inspected prior to use and periodically thereafter. Inspection requirements
+  should also be included in contracts with suppliers, developers, system
+  integrators, external system service providers, and other ICT/OT-related
+  service providers. Enterprises should require their prime contractors to
+  implement this control and flow down this requirement to relevant sub-tier
+  contractors and flow down to subcontractors, when relevant.\r
+
+  \r
+
+  Criticality analysis can help determine which systems and components are
+  critical and should therefore be subjected to inspection. See Section 2,
+  Appendix C, and RA-9 for guidance on conducting criticality analysis. The
+  C-SCRM PMO can help identify critical systems and components, especially those
+  that are used by multiple missions, functions, and systems (for components)
+  within an enterprise."
+elementType: control

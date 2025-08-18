@@ -1,0 +1,15 @@
+id: a53ea02a-c2c6-4d6b-94db-71bde5f53f5f
+externalId: AC-6(6)
+name: Least Privilege | Privileged Access by Non-organizational Users
+description: Enterprises should ensure that protections are in place to prevent
+  non-enterprise users from having privileged access to enterprise supply chain
+  and related supply chain information. When enterprise users include
+  independent consultants, suppliers, developers, system integrators, external
+  system service providers, and other ICT/OT-related service providers, relevant
+  access requirements may need to use least privilege mechanisms to precisely
+  define what information and/or components are accessible, for what duration,
+  at what frequency, using what access methods, and by whom. Understanding what
+  components are critical and non-critical can aid in understanding the level of
+  detail that may need to be defined regarding least privilege access for
+  non-enterprise users.
+elementType: control

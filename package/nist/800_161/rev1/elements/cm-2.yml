@@ -1,0 +1,27 @@
+id: ec4f471a-9bda-4370-b39b-834d4a7c7700
+externalId: CM-2
+name: Baseline Configuration
+description: "Enterprises should establish a baseline configuration of both the
+  information system and the development environment, including documenting,
+  formally reviewing, and securing the agreement of stakeholders. The purpose of
+  the baseline is to provide a starting point for tracking changes to
+  components, code, and/or settings throughout the SDLC. Regular reviews and
+  updates of baseline configurations (i.e., re-baselining) are critical for
+  traceability and provenance. The baseline configuration must take into
+  consideration the enterprise’s operational environment and any relevant
+  supplier, developer, system integrator, external system service provider, and
+  other ICT/OT-related service provider involvement with the organization’s
+  information systems and networks. If the system integrator, for example, uses
+  the existing organization’s infrastructure, appropriate measures should be
+  taken to\r
+
+  establish a baseline that reflects an appropriate set of agreed-upon criteria
+  for access and operation.  \r
+
+  \r
+
+  Enterprises should require their prime contractors to implement this control
+  and flow down this requirement to relevant sub-tier contractors. Departments
+  and agencies should refer to Appendix F to implement this guidance in
+  accordance with Executive Order 14028, Improving the Nation’s Cybersecurity"
+elementType: control

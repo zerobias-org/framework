@@ -1,0 +1,55 @@
+id: 2678cb19-5f07-4175-8287-dcf33cc6676d
+externalId: SR-13
+name: Supplier Inventory
+description: "a. Develop, document, and maintain an inventory of suppliers
+  that:\r
+
+  1. Accurately and minimally reflects the organization’s tier one suppliers
+  that may present a cybersecurity risk in the supply chain [Assignment:
+  organization-defined parameters for determining tier one supply chain];\r
+
+  2. Is at the level of granularity deemed necessary for assessing criticality
+  and supply chain risk, tracking, and reporting;\r
+
+  3. Documents the following information for each tier one supplier (e.g., prime
+  contractor): review and update supplier inventory [Assignment:
+  enterprise-defined frequency].\r
+
+  i. Unique identify for procurement instrument (i.e., contract, task, or
+  delivery order);\r
+
+  ii. Description of the supplied products and/or services;\r
+
+  iii. Program, project, and/or system that uses the supplier’s products and/or
+  services; and \r
+
+  iv. Assigned criticality level that aligns to the criticality of the program,
+  project, and/or system (or component of system).\r
+
+  b. Review and update the supplier inventory [Assignment: enterprise-defined
+  frequency].\r
+
+  \r
+
+  Enterprises rely on numerous suppliers to execute their missions and\r
+
+  functions. Many suppliers provide products and services in support of multiple
+  missions, functions,\r
+
+  programs, projects, and systems. Some suppliers are more critical than others,
+  based on the criticality of\r
+
+  missions, functions, programs, projects, systems that their products and
+  services support, and the\r
+
+  enterprise’s level of dependency on the supplier. Enterprises should use
+  criticality analysis to help\r
+
+  determine which products and services are critical to determine the
+  criticality of suppliers to be documented\r
+
+  in the supplier inventory. See Section 2, Appendix C, and RA-9 for guidance on
+  conducting criticality\r
+
+  analysis."
+elementType: control

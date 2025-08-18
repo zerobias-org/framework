@@ -1,0 +1,10 @@
+id: 3cedcea6-006e-485b-80a6-eccaa2eec74c
+externalId: AC-4(1)
+name: Information Flow Enforcement | Metadata
+description: The metadata relevant to C-SCRM is extensive and includes
+  activities within the SDLC. For example, information about systems and system
+  components, acquisition details, and delivery is considered metadata and may
+  require appropriate protections. Enterprises should identify what metadata is
+  directly relevant to their supply chain security and ensure that information
+  flow enforcement is implemented in order to protect applicable metadata.
+elementType: control

@@ -1,0 +1,15 @@
+id: 1b46137c-df41-4946-9068-348d50769188
+externalId: AC-4
+name: Information Flow Enforcement
+description: Supply chain information may traverse a large supply chain to a
+  broad set of stakeholders, including the enterprise and its various federal
+  stakeholders, suppliers, developers, system integrators, external system
+  service providers, and other ICT/OT-related service providers. Specifying the
+  requirements and how information flow is enforced should ensure that only the
+  required information is communicated to various participants in the supply
+  chain. Enterprises should require their prime contractors to implement this
+  control and flow down this requirement to relevant sub-tier contractors.
+  Departments and agencies should refer to Appendix F to implement this guidance
+  in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity.
+elementType: control

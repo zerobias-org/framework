@@ -1,0 +1,25 @@
+id: b80b12c6-8bf6-4f55-a0f9-b10bc8859783
+externalId: SI-7
+name: Software, Firmware, and Information Integrity
+description: "This control applies to the federal agency and applicable supplier
+  products, applications, information systems, and networks. The integrity of
+  all applicable systems and networks should be systematically tested and
+  verified to ensure that it remains as required so that the systems/components
+  traversing through the supply chain are not impacted by unanticipated changes.
+  The integrity of systems and components should also be tested and verified.
+  Applicable verification tools include digital signature or checksum
+  verification; acceptance testing for physical components; confining software
+  to limited privilege environments, such as sandboxes; code execution in
+  contained environments prior to use; and ensuring that if only binary or
+  machine-executable code is available, it is obtained directly from the OEM or
+  a verified supplier or distributer. Mechanisms for this control are discussed
+  in detail in [NIST SP 800-53, Rev. 5]. This control applies to federal
+  agencies and applicable supplier information systems and networks. When
+  purchasing an ICT/OT product, an enterprise should perform due diligence to
+  understand what a supplier’s integrity assurance practices are. Enterprises
+  should require their prime contractors to implement this control and flow down
+  this requirement to relevant sub-tier contractors. Departments and agencies
+  should refer to Appendix F to implement this guidance in accordance with\r
+
+  Executive Order 14028, Improving the Nation’s Cybersecurity."
+elementType: control

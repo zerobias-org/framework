@@ -1,0 +1,17 @@
+id: 3ef4d546-95b4-459a-a8e8-58a1588de5a1
+externalId: PE-2
+name: Physical Access Authorizations
+description: Enterprises should ensure that only authorized individuals with a
+  need for physical access have access to information, systems, or data centers
+  (e.g., sensitive or classified). Such authorizations should specify what the
+  individual is permitted or not permitted to do with regard to their physical
+  access (e.g., view, alter/configure, insert something, connect something,
+  remove, etc.). Agreements should address physical access authorization
+  requirements, and the enterprise should require its prime contractors to
+  implement this control and flow down this requirement to relevant sub-tier
+  contractors. Authorization for non-federal employees should follow an approved
+  protocol, which includes documentation of the authorization and specifies any
+  prerequisites or constraints that pertain to such authorization (e.g.,
+  individual must be escorted by a federal employee, individual must be badged,
+  individual is permitted physical access during normal business hours, etc.).
+elementType: control

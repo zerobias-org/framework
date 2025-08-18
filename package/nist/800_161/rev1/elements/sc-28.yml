@@ -1,0 +1,19 @@
+id: 9c6d79b2-bce6-430c-b366-31949b19dd3c
+externalId: SC-28
+name: Protection of Information at Rest
+description: The enterprise should include provisions for the protection of
+  information at rest into their agreements with suppliers, developers, system
+  integrators, external system service providers, and other ICT/OT-related
+  service providers. The enterprise should also ensure that they provide
+  appropriate protections within the information systems and networks for data
+  at rest for the suppliers, developers, system integrators, external system
+  service providers, and other ICT/OT-related service providers information,
+  such as source code, testing data, blueprints, and intellectual property
+  information. This control should be applied throughout the SDLC, including
+  during requirements, development, manufacturing, test, inventory management,
+  maintenance, and disposal. Enterprises should require their prime contractors
+  to implement this control and flow down this requirement to relevant subtier
+  contractors. Departments and  agencies should refer to Appendix F to implement
+  this guidance in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity.
+elementType: control

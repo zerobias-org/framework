@@ -1,0 +1,35 @@
+{
+  "name": "@zerobias-org/framework-nist-800_161-rev1",
+  "version": "1.0.0",
+  "description": "NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/nist/800_161/rev1/"
+  },
+  "auditmation": {
+    "package": "nist.800_161.rev1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-nist-800_161": "latest"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "nx:prepublish": "../../../../scripts/prepublish.sh"
+  }
+}

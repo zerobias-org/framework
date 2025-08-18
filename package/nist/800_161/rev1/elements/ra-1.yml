@@ -1,0 +1,18 @@
+id: 154a917f-63fb-488a-b959-d6b85ab356ed
+externalId: RA-1
+name: Policy and Procedures
+description: Risk assessments should be performed at the enterprise,
+  mission/program, and operational levels. The system-level risk assessment
+  should include both the supply chain infrastructure (e.g., development and
+  testing environments and delivery systems) and the information
+  system/components traversing the supply chain. System-level risk assessments
+  significantly intersect with the SDLC and should complement the enterprise’s
+  broader RMF activities, which take part during the SDLC. A criticality
+  analysis will ensure that mission-critical functions and components are given
+  higher priority due to their impact on the mission, if compromised. The policy
+  should include supply chainrelevant cybersecurity roles that are applicable to
+  performing and coordinating risk assessments across the enterprise (see
+  Section 2 for the listing and description of roles). Applicable roles within
+  suppliers, developers, system integrators, external system service providers,
+  and other ICT/OT-related service providers should be defined.
+elementType: control

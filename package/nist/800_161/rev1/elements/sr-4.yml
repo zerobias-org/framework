@@ -1,0 +1,23 @@
+id: 8309e589-b96e-4e76-afcd-a13df0ab618c
+externalId: SR-4
+name: Provenance
+description: Provenance should be documented for systems, system components, and
+  associated data throughout the SDLC. Enterprises should consider producing
+  SBOMs for applicable and appropriate classes of software, including purchased
+  software, open source software, and in-house software. SBOMs should be
+  produced using only NTIA-supported SBOM formats that can satisfy [NTIA SBOM]
+  EO 14028 NTIA minimum SBOM elements. Enterprises producing SBOMs should use
+  [NTIA SBOM] minimum SBOM elements as framing for the inclusion of primary
+  components. SBOMs should be digitally signed using a verifiable and trusted
+  key. SBOMs can play a critical role in enabling organizations to maintain
+  provenance. However, as SBOMs mature, organizations should ensure they do not
+  deprioritize existing C-SCRM capabilities (e.g., vulnerability management
+  practices, vendor risk assessments) under the mistaken assumption that SBOM
+  replaces these activities. SBOMs and the improved transparency that they are
+  meant to provide for organizations are a complementary, not substitutive,
+  capability. Organizations that are unable to appropriately ingest, analyze,
+  and act on the data that SBOMs provide likely will not improve their overall
+  C-SCRM posture. Federal agencies should refer to Appendix F to implement this
+  guidance in accordance with Executive Order 14028 on Improving the Nation's
+  Cybersecurity
+elementType: control

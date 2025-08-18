@@ -1,0 +1,19 @@
+id: c053480d-16e3-4bef-abc7-34b57d0f155d
+externalId: CP-2(7)
+name: Contingency Plan | Coordinate with External Service Providers
+description: Enterprises should ensure that the supply chain network,
+  information systems, and components provided by an external service provider
+  have appropriate failover (to include personnel, equipment, and network
+  resources) to reduce or prevent service interruption or ensure timely
+  recovery. Enterprises should ensure that contingency planning requirements are
+  defined as part of the service-level agreement. The agreement may have
+  specific terms that address critical components and functionality support in
+  case of denial-of-service attacks to ensure the continuity of operations.
+  Enterprises should coordinate with external service providers to identify
+  service providers’ existing contingency plan practices and build on them as
+  required by the enterprise’s mission and business needs. Such coordination
+  will aid in cost reduction and efficient implementation. Enterprises should
+  require their prime contractors who provide a mission- and business-critical
+  or -enabling service or product to implement this control and flow down this
+  requirement to relevant sub-tier contractors.
+elementType: control

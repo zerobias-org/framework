@@ -1,0 +1,14 @@
+id: d62c4cb0-4f41-44bf-a8d0-87cd1402058d
+externalId: SI-3
+name: Malicious Code Protection
+description: Because the majority of code operated in federal systems is not
+  developed by the Federal Government, malicious code threats often originate
+  from the supply chain. This controls applies to the federal agency and
+  contractors with code-related responsibilities (e.g., developing code,
+  installing patches, performing system upgrades, etc.), as well as applicable
+  contractor information systems and networks. Enterprises should require their
+  prime contractors to implement this control and flow down this requirement to
+  relevant sub-tier contractors. Departments and agencies should refer to
+  Appendix F to implement this guidance in accordance with Executive Order
+  14028, Improving the Nation’s Cybersecurity.
+elementType: control

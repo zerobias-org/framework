@@ -1,0 +1,17 @@
+id: b481ef2d-655a-4e9c-993b-189d4cb1f1a0
+externalId: AC-3(8)
+name: Access Enforcement | Revocation of Access Authorizations
+description: Prompt revocation is critical to ensure that suppliers, developers,
+  system integrators, external system service providers, and other
+  ICT/OT-related service providers who no longer require access or who abuse or
+  violate their access privilege are not able to access an enterprise’s system.
+  Enterprises should include in their agreements a requirement for contractors
+  and sub-tier contractors to immediately return access credentials (e.g.,
+  tokens, PIV or CAC cards, etc.) to the enterprise. Enterprises must also have
+  processes in place to promptly process the revocation of access
+  authorizations. For example, in a “badge flipping” situation, a contract is
+  transferred from one system integrator enterprise to another with the same
+  personnel supporting the contract. In that situation, the enterprise should
+  disable the existing accounts, retire the old credentials, establish new
+  accounts, and issue completely new credentials.
+elementType: control

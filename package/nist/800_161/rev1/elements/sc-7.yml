@@ -1,0 +1,24 @@
+id: 4873c8f6-a4d6-4ef5-a448-649abbb85eee
+externalId: SC-7
+name: Boundary Protection
+description: The enterprise should implement appropriate monitoring mechanisms
+  and processes at the boundaries between the agency systems and suppliers,
+  developers, system integrators, external system service providers, and other
+  ICT/OT-related service providers’ systems. Provisions for boundary protections
+  should be incorporated into agreements with suppliers, developers, system
+  integrators, external system service providers, and other ICT/OT-related
+  service providers. There may be multiple interfaces throughout the enterprise,
+  supplier systems and networks, and the SDLC. Appropriate vulnerability,
+  threat, and risk assessments should be performed to ensure proper boundary
+  protections for supply chain components and supply chain information flow. The
+  vulnerability, threat, and risk assessments can aid in scoping boundary
+  protection to a relevant set of criteria and help manage associated costs. For
+  contracts with external service providers, enterprises should ensure that the
+  provider satisfies boundary control requirements pertinent to environments and
+  networks within their span of control. Further detail is provided in Section 2
+  and Appendix C. Enterprises should require their prime contractors to
+  implement this control and flow down this requirement to relevant sub-tier
+  contractors. Departments and agencies should refer to Appendix F to implement
+  this guidance in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity.
+elementType: control
