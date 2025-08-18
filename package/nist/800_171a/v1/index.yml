@@ -1,0 +1,19 @@
+id: 18170bf8-215d-4e3c-90e2-9901c3e84cd8
+name: SP 800-171A - Assessing Security Requirements for Controlled Unclassified
+  Information
+externalId: nist.800_171a.v1
+description: SP 800-171A - Assessing Security Requirements for Controlled
+  Unclassified Information
+code: nist.800_171a.v1
+status: approved
+url: https://csrc.nist.gov/publications/detail/sp/800-171a/final
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 0bf02587-5f31-496c-8721-5e2d20d7adaf
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
