@@ -1,0 +1,17 @@
+id: 3238335f-ca60-4867-a0e6-25d699574e14
+name: EU Digital Operational Resilience Act (DORA)
+externalId: eu.dora.2023
+description: EU Digital Operational Resilience Act (DORA)
+code: eu.dora.2023
+status: approved
+url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554&from=EN
+version: "2023"
+external: true
+internal: false
+elementTypes:
+  - id: bac6dc80-3ab0-4b77-b1c0-2c8eec78be5b
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
