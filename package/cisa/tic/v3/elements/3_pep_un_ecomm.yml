@@ -1,0 +1,9 @@
+id: eeeec94a-1feb-4df9-bda9-ecb4b38631a6
+externalId: 3.PEP.UN.ECOMM
+name: Encrypted Communication
+description: Communication between virtual meeting participants and any data
+  exchanged is encrypted at rest and in transit. Some UCC offerings support
+  end-to-end encryption, where encryption is performed on the clients and can
+  only be decrypted by the other authenticated participants and cannot be
+  decrypted by the UCC vendor.
+elementType: control

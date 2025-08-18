@@ -1,0 +1,8 @@
+id: 5e214c0f-4d89-499d-a6f7-ed2d466492e8
+externalId: 3.PEP.EM.DSOEM
+name: Domain Signatures for Outgoing Email
+description: Domain signature protections facilitate the authentication of
+  outgoing email by signing the emails and ensuring that external parties may
+  validate the email signatures according to the DMARC email authentication
+  protocol that is defined in RFC 7489.
+elementType: control
