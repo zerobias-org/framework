@@ -1,0 +1,6 @@
+id: cdf0d06a-f4dd-4a80-8165-83c967ec6223
+externalId: "3.10"
+name: Encrypt Sensitive Data in Transit
+description: "Encrypt sensitive data in transit. Example implementations can
+  include: Transport Layer Security (TLS) and Open Secure Shell (OpenSSH)."
+elementType: control

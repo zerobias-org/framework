@@ -1,0 +1,8 @@
+id: 1d614456-bf8d-4eb4-ba9b-d193216aa3b7
+externalId: "6.2"
+name: Establish an Access Revoking Process
+description: Establish and follow a process, preferably automated, for revoking
+  access to enterprise assets, through disabling accounts immediately upon
+  termination, rights revocation, or role change of a user. Disabling accounts,
+  instead of deleting accounts, may be necessary to preserve audit trails.
+elementType: control

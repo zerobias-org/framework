@@ -1,0 +1,10 @@
+id: bb5d1709-94a8-4717-9547-5335a5daa8cf
+externalId: "4.10"
+name: Enforce Automatic Device Lockout on Portable End-User Devices
+description: Enforce automatic device lockout following a predetermined
+  threshold of local failed authentication attempts on portable end-user
+  devices, where supported. For laptops, do not allow more than 20 failed
+  authentication attempts; for tablets and smartphones, no more than 10 failed
+  authentication attempts. Example implementations include Microsoft® InTune
+  Device Lock and Apple® Configuration Profile maxFailedAttempts.
+elementType: control

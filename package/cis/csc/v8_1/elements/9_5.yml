@@ -1,0 +1,8 @@
+id: e76da007-7ea4-4749-93f1-7949fed0098c
+externalId: "9.5"
+name: Implement DMARC
+description: To lower the chance of spoofed or modified emails from valid
+  domains, implement DMARC policy and verification, starting with implementing
+  the Sender Policy Framework (SPF) and the DomainKeys Identified Mail (DKIM)
+  standards.
+elementType: control
