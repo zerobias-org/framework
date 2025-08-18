@@ -1,0 +1,17 @@
+id: 84058bcc-772e-4bde-9fe4-ece77deec53b
+name: CISA Secure Software Development Attestation Form (SSDAF)
+externalId: cisa.ssdaf.v1
+description: CISA Secure Software Development Attestation Form (SSDAF)
+code: cisa.ssdaf.v1
+status: approved
+url: https://www.cisa.gov/secure-software-attestation-form
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 733adbeb-c715-46c1-a426-af68d6ea683c
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
