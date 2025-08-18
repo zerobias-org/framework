@@ -1,0 +1,10 @@
+id: f86f6370-4290-4d9e-9b06-1740ab0774ad
+externalId: 3.2.8
+name: Security configuration baselines are enforced and deviations are managed
+description: FRFIs should implement approved, risk-based security configuration
+  baselines for technology assets and security defence tools, including those
+  provided by third parties. Where possible, security configuration baselines
+  for different defence layers should disable settings and access by default.
+  FRFIs should define and implement processes to manage configuration
+  deviations.
+elementType: control

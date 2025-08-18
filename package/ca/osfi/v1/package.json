@@ -1,0 +1,35 @@
+{
+  "name": "@zerobias-org/framework-ca-osfi-v1",
+  "version": "1.0.0",
+  "description": "B-13",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/ca/osfi/v1/"
+  },
+  "auditmation": {
+    "package": "ca.osfi.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-ca-osfi": "latest"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "nx:prepublish": "../../../../scripts/prepublish.sh"
+  }
+}
