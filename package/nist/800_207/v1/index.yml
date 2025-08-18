@@ -1,0 +1,17 @@
+id: 2ec29ca4-5f1c-48f0-b757-28bcfc670259
+name: NIST SP 800-207 - Zero Trust Architecture
+externalId: nist.800_207.v1
+description: NIST SP 800-207 - Zero Trust Architecture
+code: nist.800_207.v1
+status: approved
+url: https://csrc.nist.gov/pubs/sp/800/207/final
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: bc33ba33-fc0d-46f5-8637-feb5f7fe89c4
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
