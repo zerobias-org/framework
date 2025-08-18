@@ -1,0 +1,35 @@
+{
+  "name": "@zerobias-org/framework-eu-cra_annex-v1",
+  "version": "1.0.0",
+  "description": "EU Cyber Resilience Act - Annexes",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/eu/cra_annex/v1/"
+  },
+  "auditmation": {
+    "package": "eu.cra_annex.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-eu-cra_annex": "latest"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "nx:prepublish": "../../../../scripts/prepublish.sh"
+  }
+}

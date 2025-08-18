@@ -1,0 +1,17 @@
+id: 7daa24b5-0eaa-4f1b-a7c5-01944753e421
+name: EU Cyber Resilience Act - Annexes
+externalId: eu.cra_annex.v1
+description: EU Cyber Resilience Act - Annexes
+code: eu.cra_annex.v1
+status: approved
+url: https://eur-lex.europa.eu/resource.html?uri=cellar:864f472b-34e9-11ed-9c68-01aa75ed71a1.0001.02/DOC_2&format=PDF
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: e588b337-10eb-49c8-87ea-75e9d8fe3cb7
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
