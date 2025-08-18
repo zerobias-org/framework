@@ -1,0 +1,43 @@
+{
+  "name": "@zerobias-org/framework-es-royaldecree-2022",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-es-royaldecree-2022",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-es-royaldecree": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-es-royaldecree": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-es-royaldecree/-/suite-es-royaldecree-1.0.2.tgz",
+      "integrity": "sha512-R88nKJeN+PX8Bo+zyQfNWy9hyHEXF4ZaD4nrHRp7TSjnlBqqkcqx+1ASpbu48I8U5zPQXZCx41ocRq0SSvajlA==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-es": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-es": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-es/-/vendor-es-1.0.2.tgz",
+      "integrity": "sha512-T42ql6+fnL9Q3HlRf5Oo7uB/94EsuSwyDPr0mT3mtZGS6t/r2mqx7CmgQjIjXksKrEPNPIwRoyYH48+8iRtRYQ==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}
