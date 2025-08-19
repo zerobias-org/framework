@@ -1,0 +1,19 @@
+id: afcc072e-0cc1-491e-a877-f3f6462ac020
+name: Protecting controlled information in non-Government of Canada systems and
+  organizations (ITSP.10.171)
+externalId: ca.pci.v10_171
+description: Protecting controlled information in non-Government of Canada
+  systems and organizations (ITSP.10.171)
+code: ca.pci.v10_171
+status: approved
+url: https://www.cyber.gc.ca/en/guidance/protecting-controlled-information-non-government-canada-systems-and-organizations-itsp10171
+version: v10_171
+external: true
+internal: false
+elementTypes:
+  - id: 9812c264-5fb4-42a5-930d-0ef3327630ef
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
