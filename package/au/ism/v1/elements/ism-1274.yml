@@ -1,0 +1,7 @@
+id: c980baaa-5c75-4630-abab-b09041115d98
+externalId: ISM-1274
+name: ISM-1274
+description: Database contents from production environments are not used in
+  development or testing environments unless the environment is secured to the
+  same level as the production environment.
+elementType: control

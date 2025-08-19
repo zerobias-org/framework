@@ -1,0 +1,18 @@
+id: 7e94da4a-04d6-4448-8c8b-91ba67614c57
+externalId: ISM-0428
+name: ISM-0428
+description: "Systems are configured with a session or screen lock that:\r
+
+  · \tactivates after a maximum of 15 minutes of user inactivity, or if manually
+  activated by users\r
+
+  · \tconceals all session content on the screen\r
+
+  · \tensures that the screen does not enter a power saving state before the
+  session or screen lock is activated\r
+
+  · \trequires users to authenticate to unlock the session\r
+
+  · \tdenies users the ability to disable the session or screen locking
+  mechanism."
+elementType: control

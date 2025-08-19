@@ -1,0 +1,7 @@
+id: cc07ecf6-ab75-4c7a-9fb5-3d541c4eb69c
+externalId: ISM-1502
+name: ISM-1502
+description: Emails arriving via an external connection where the email source
+  address uses an internal domain, or internal subdomain, are blocked at the
+  email gateway.
+elementType: control

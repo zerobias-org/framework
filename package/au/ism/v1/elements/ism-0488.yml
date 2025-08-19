@@ -1,0 +1,7 @@
+id: 742b84b8-7935-4327-b9aa-e1140001c950
+externalId: ISM-0488
+name: ISM-0488
+description: If using remote access without the use of a passphrase for SSH
+  connections, the ‘forced command’ option is used to specify what command is
+  executed and parameter checking is enabled.
+elementType: control

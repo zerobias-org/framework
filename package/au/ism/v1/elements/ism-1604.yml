@@ -1,0 +1,8 @@
+id: bcbe623b-b4e5-4631-b216-1912c6c54a1c
+externalId: ISM-1604
+name: ISM-1604
+description: When using a software-based isolation mechanism to share a physical
+  server’s hardware, the configuration of the isolation mechanism is hardened by
+  removing unneeded functionality and restricting access to the administrative
+  interface used to manage the isolation mechanism.
+elementType: control

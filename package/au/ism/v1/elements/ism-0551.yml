@@ -1,0 +1,15 @@
+id: 6da3ea9a-e78b-4b95-ae98-373e4b0ff659
+externalId: ISM-0551
+name: ISM-0551
+description: "IP telephony is configured such that:\r
+
+  · \tIP phones authenticate themselves to the call controller upon
+  registration\r
+
+  · \tauto-registration is disabled and only authorised devices are allowed to
+  access the network\r
+
+  · \tunauthorised devices are blocked by default\r
+
+  · \tall unused and prohibited functionality is disabled."
+elementType: control

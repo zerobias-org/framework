@@ -1,0 +1,7 @@
+id: fd0666eb-4925-4448-931d-eb679e22c142
+externalId: ISM-0352
+name: ISM-0352
+description: SECRET and TOP SECRET volatile media is sanitised by overwriting it
+  at least once in its entirety with a random pattern followed by a read back
+  for verification.
+elementType: control

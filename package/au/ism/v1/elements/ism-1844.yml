@@ -1,0 +1,6 @@
+id: 6ea23a78-c1c2-4f13-9281-27983f2d2609
+externalId: ISM-1844
+name: ISM-1844
+description: Computer accounts that are not Microsoft AD DS domain controllers
+  are not trusted for delegation to services.
+elementType: control

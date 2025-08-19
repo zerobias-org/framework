@@ -1,0 +1,7 @@
+id: 237cbb6c-3df5-41c9-86b0-e814e5e771b8
+externalId: ISM-1765
+name: ISM-1765
+description: When using RSA for digital signatures, and passing encryption
+  session keys or similar keys, a modulus of at least 3072 bits is used,
+  preferably 3072 bits.
+elementType: control

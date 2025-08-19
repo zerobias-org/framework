@@ -1,0 +1,7 @@
+id: b9d22ba9-d568-44e4-8ccb-62a972d7f343
+externalId: ISM-0489
+name: ISM-0489
+description: When SSH-agent or similar key caching programs are used, it is
+  limited to workstations and servers with screen locks and key caches that are
+  set to expire within four hours of inactivity.
+elementType: control

@@ -1,0 +1,8 @@
+id: 809ac4a4-1bfb-4a5a-8f19-3cfe3a732812
+externalId: ISM-0998
+name: ISM-0998
+description: "AUTH_HMAC_SHA2_256_128, AUTH_HMAC_SHA2_384_192,
+  AUTH_HMAC_SHA2_512_256 or NONE (only with AES-\r
+
+  GCM) is used for authenticating IPsec connections, preferably NONE."
+elementType: control

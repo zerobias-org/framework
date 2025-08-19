@@ -1,0 +1,6 @@
+id: 06af1dd3-f3d2-4a02-9a1f-e19a48bd55a9
+externalId: ISM-1762
+name: ISM-1762
+description: When using ECDH for agreeing on encryption session keys, NIST P-384
+  or P-521 curves are used, preferably the NIST P-384 curve.
+elementType: control

@@ -1,0 +1,7 @@
+id: bc230ed0-7b09-45bb-9f39-dd64ef84d611
+externalId: ISM-0836
+name: ISM-0836
+description: Non-volatile EEPROM media is sanitised by overwriting it at least
+  once in its entirety with a random pattern followed by a read back for
+  verification.
+elementType: control

@@ -1,0 +1,7 @@
+id: 6288f68e-f2bf-4b1b-86f8-f6694bc50c5f
+externalId: ISM-0474
+name: ISM-0474
+description: When using ECDH for agreeing on encryption session keys, a base
+  point order and key size of at least 224 bits is used, preferably the NIST
+  P-384 curve.
+elementType: control

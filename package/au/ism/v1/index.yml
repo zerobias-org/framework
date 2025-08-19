@@ -1,0 +1,17 @@
+id: dfbcba67-68c8-4641-8725-ac35a4ad8934
+name: Australian Government Information Security Manual (ISM)
+externalId: au.ism.v1
+description: Australian Government Information Security Manual (ISM)
+code: au.ism.v1
+status: approved
+url: https://www.cyber.gov.au/acsc/view-all-content/ism
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 727a3339-2a9c-4f16-8c1a-96e40568c7ac
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

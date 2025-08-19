@@ -1,0 +1,6 @@
+id: 13381532-1e86-4841-805c-3c3d9e449e68
+externalId: ISM-1772
+name: ISM-1772
+description: PRF_HMAC_SHA2_256, PRF_HMAC_SHA2_384 or PRF_HMAC_SHA2_512 is used
+  for IPsec connections, preferably PRF_HMAC_SHA2_512.
+elementType: control

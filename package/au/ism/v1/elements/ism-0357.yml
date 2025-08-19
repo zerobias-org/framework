@@ -1,0 +1,8 @@
+id: 5e902272-8b01-4887-96ca-9e13a5efeda1
+externalId: ISM-0357
+name: ISM-0357
+description: Non-volatile EPROM media is sanitised by applying three times the
+  manufacturer’s specified ultraviolet erasure time and then overwriting it at
+  least once in its entirety with a random pattern followed by a read back for
+  verification.
+elementType: control

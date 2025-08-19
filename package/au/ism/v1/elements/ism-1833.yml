@@ -1,0 +1,7 @@
+id: 9a44d808-66e5-4c92-a274-c8bd5ac244ee
+externalId: ISM-1833
+name: ISM-1833
+description: Service accounts are provisioned with the minimum privileges
+  required and are not members of the domain administrators group or similar
+  highly privileged groups.
+elementType: control

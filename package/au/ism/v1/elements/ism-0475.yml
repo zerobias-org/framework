@@ -1,0 +1,6 @@
+id: 90056189-5881-4ab9-a0b5-0a69fc666fd6
+externalId: ISM-0475
+name: ISM-0475
+description: When using ECDSA for digital signatures, a base point order and key
+  size of at least 224 bits is used, preferably the P-384 curve.
+elementType: control
