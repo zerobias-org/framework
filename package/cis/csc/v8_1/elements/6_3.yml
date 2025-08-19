@@ -1,0 +1,8 @@
+id: 3e621633-2436-47c9-93ae-ea3c366132d3
+externalId: "6.3"
+name: Require MFA for Externally-Exposed Applications
+description: Require all externally-exposed enterprise or third-party
+  applications to enforce MFA, where supported. Enforcing MFA through a
+  directory service or SSO provider is a satisfactory implementation of this
+  Safeguard.
+elementType: control

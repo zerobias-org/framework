@@ -1,0 +1,11 @@
+id: ce02d2e0-6f2c-41c2-9ce7-45f318dfa533
+externalId: "2.2"
+name: Ensure Authorized Software is Currently Supported
+description: Ensure that only currently supported software is designated as
+  authorized in the software inventory for enterprise assets. If software is
+  unsupported, yet necessary for the fulfillment of the enterprise’s mission,
+  document an exception detailing mitigating controls and residual risk
+  acceptance. For any unsupported software without an exception documentation,
+  designate as unauthorized. Review the software list to verify software support
+  at least monthly, or more frequently.
+elementType: control

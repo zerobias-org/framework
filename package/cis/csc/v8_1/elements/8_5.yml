@@ -1,0 +1,8 @@
+id: cef293d9-c939-4371-b663-91d4d0206fea
+externalId: "8.5"
+name: Collect Detailed Audit Logs
+description: Configure detailed audit logging for enterprise assets containing
+  sensitive data. Include event source, date, username, timestamp, source
+  addresses, destination addresses, and other useful elements that could assist
+  in a forensic investigation.
+elementType: control

@@ -1,0 +1,7 @@
+id: 23c49be6-b38b-4d38-8b8c-25f2655a7f95
+externalId: "8.12"
+name: Collect Service Provider Logs
+description: Collect service provider logs, where supported. Example
+  implementations include collecting authentication and authorization events,
+  data creation and disposal events, and user management events.
+elementType: control

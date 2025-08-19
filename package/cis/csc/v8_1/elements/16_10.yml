@@ -1,0 +1,13 @@
+id: 43832f1b-9329-4ac5-b0d9-b21c57b03081
+externalId: "16.10"
+name: Apply Secure Design Principles in Application Architectures
+description: Apply secure design principles in application architectures. Secure
+  design principles include the concept of least privilege and enforcing
+  mediation to validate every operation that the user makes, promoting the
+  concept of "never trust user input." Examples include ensuring that explicit
+  error checking is performed and documented for all input, including for size,
+  data type, and acceptable ranges or formats. Secure design also means
+  minimizing the application infrastructure attack surface, such as turning off
+  unprotected ports and services, removing unnecessary programs and files, and
+  renaming or removing default accounts.
+elementType: control

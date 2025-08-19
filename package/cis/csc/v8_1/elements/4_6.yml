@@ -1,0 +1,10 @@
+id: e0bb16d5-900e-425d-a475-2acb7dfb0400
+externalId: "4.6"
+name: Securely Manage Enterprise Assets and Software
+description: Securely manage enterprise assets and software. Example
+  implementations include managing configuration through version-controlled
+  Infrastructure-as-Code (IaC) and accessing administrative interfaces over
+  secure network protocols, such as Secure Shell (SSH) and Hypertext Transfer
+  Protocol Secure (HTTPS). Do not use insecure management protocols, such as
+  Telnet (Teletype Network) and HTTP, unless operationally essential.
+elementType: control
