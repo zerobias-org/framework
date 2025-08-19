@@ -1,0 +1,10 @@
+id: ae833bdc-6a18-4279-80a9-8925af8ba39e
+externalId: 3.2.9
+name: Application scanning and testing capabilities are employed
+description: Where feasible, static and/or dynamic scanning and testing
+  capabilities should be used to ensure new, and/or changes to existing, systems
+  and applications are assessed for vulnerabilities prior to release into the
+  production environment. Security controls should also be implemented to
+  maintain security when development and operations practices are combined
+  through a continuous and automated development pipeline (see paragraph 2.4.2).
+elementType: control
