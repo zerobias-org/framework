@@ -1,0 +1,15 @@
+id: 5ea7d13c-a4cb-4177-bcf4-d86ebd32e244
+externalId: IR-6(3)
+name: Incident Reporting | Supply Chain Coordination
+description: Communications of security incident information from the enterprise
+  to suppliers, developers, system integrators, external system service
+  providers, and other ICT/OT-related service providers and vice versa require
+  protection. The enterprise should ensure that information is reviewed and
+  approved for sending based on its agreements with suppliers and any relevant
+  interagency bodies. Any escalation of or exception from this reporting should
+  be clearly defined in the agreement. The enterprise should ensure that
+  incident reporting data is adequately protected for transmission and received
+  by approved individuals only. Enterprises should require their prime
+  contractors to implement this control and flow down this requirement to
+  relevant sub-tier contractors.
+elementType: control

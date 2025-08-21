@@ -1,0 +1,22 @@
+id: eb588e72-96ce-4731-93e6-54eabe786cc5
+externalId: SA-15
+name: Development Process, Standards, and Tools
+description: Providing documented and formalized development processes to guide
+  internal and system integrator developers is critical to the enterprise’s
+  efforts to effectively mitigate cybersecurity risks throughout the supply
+  chain. The enterprise should apply national and international standards and
+  best practices when implementing this control. Using existing standards
+  promotes consistency of implementation, reliable and defendable processes, and
+  interoperability. The enterprise’s development, maintenance, test, and
+  deployment environments should all be covered by this control. The tools
+  included in this control can be manual or automated. The use of automated
+  tools aids thoroughness, efficiency, and the scale of analysis that helps
+  address cybersecurity risks that arise in relation to the development process
+  throughout the supply chain. Additionally, the output of such activities and
+  tools provides useful inputs for C-SCRM processes, as described in Section 2
+  and Appendix C. This control has applicability to the internal enterprise’s
+  processes, information systems, and networks as well as applicable system
+  integrators’ processes, systems, and networks. Departments and agencies should
+  refer to Appendix F to implement this guidance in accordance with Executive
+  Order 14028, Improving the Nation’s Cybersecurity.
+elementType: control

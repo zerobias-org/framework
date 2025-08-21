@@ -1,0 +1,17 @@
+id: 97c447e5-554e-485e-ab6a-17dbb35e28f8
+externalId: CM-6
+name: Configuration Settings
+description: Enterprises should oversee the function of modifying configuration
+  settings for their information systems and networks and throughout the SDLC.
+  Methods of oversight include periodic verification, reporting, and review.
+  Resulting information may be shared with various parties that have access to,
+  are connected to, or engage in the creation of the enterprise’s information
+  systems and networks on a need-to-know basis. Changes should be tested and
+  approved before they are implemented. Configuration settings should be
+  monitored and audited to alert designated enterprise personnel when a change
+  has occurred. Enterprises should require their prime contractors to implement
+  this control and flow down this requirement to relevant sub-tier contractors.
+  Departments and agencies should refer to Appendix F to implement this guidance
+  in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity.
+elementType: control

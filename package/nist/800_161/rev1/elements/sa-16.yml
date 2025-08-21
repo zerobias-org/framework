@@ -1,0 +1,16 @@
+id: 808f6a83-89d8-4eae-a074-4e58f84181ac
+externalId: SA-16
+name: Developer-provided Training
+description: Developer-provided training for external and internal developers is
+  critical to C-SCRM. It addresses training the individuals responsible for
+  federal systems and networks to include applicable development environments.
+  Developer-provided training in this control also applies to the individuals
+  who select system and network components. Developer-provided training should
+  include CSCRM material to ensure that 1) developers are aware of potential
+  threats and vulnerabilities when developing, testing, and maintaining hardware
+  and software, and 2) the individuals responsible for selecting system and
+  network components incorporate C-SCRM when choosing such components. Developer
+  training should also cover training for secure coding and the use of tools to
+  find vulnerabilities in software. Refer to Appendix F for additional guidance
+  on security for critical software.
+elementType: control

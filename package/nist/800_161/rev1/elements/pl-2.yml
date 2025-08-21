@@ -1,0 +1,25 @@
+id: 435a3fbe-a0c5-4f80-964b-1927f855c9c4
+externalId: PL-2
+name: System Security and Privacy Plans
+description: The system security plan (SSP) should integrate C-SCRM. The
+  enterprise may choose to develop a stand-alone C-SCRM plan for an individual
+  system or integrate SCRM controls into their SSP. The system security plan
+  and/or system-level C-SCRM plan provide inputs into and take guidance from the
+  C-SCRM Strategy and Implementation Plan at Level 1 and the C-SCRM policy at
+  Level 1 and Level 2. In addition to internal coordination, the enterprise
+  should coordinate with suppliers, developers, system integrators, external
+  system service providers, and other ICT/OT-related service providers to
+  develop and maintain their SSPs. For example, building and operating a system
+  requires a significant coordination and collaboration between the enterprise
+  and system integrator personnel. Such coordination and collaboration should be
+  addressed in the system security plan or stand-alone C-SCRM plan. These plans
+  should also consider that suppliers or external service providers may not be
+  able to customize to the acquirer’s requirements. It is recommended that
+  suppliers, developers, system integrators, external system service providers,
+  and other ICT/OT-related service providers also develop C-SCRM plans for
+  non-federal (i.e., contractor) systems that are processing federal agency
+  information and flow down this requirement to relevant sub-level contractors.
+  Section 2, Appendix C, and Appendix D provide guidance on C-SCRM strategies,
+  policies, and plans. Controls in this publication (NIST SP 800-161, Rev. 1)
+  should be used for the C-SCRM portion of the SSP.
+elementType: control

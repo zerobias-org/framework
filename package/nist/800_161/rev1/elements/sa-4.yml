@@ -1,0 +1,92 @@
+id: 77becf7f-178f-436f-9fa7-34240729a389
+externalId: SA-4
+name: Acquisition Process
+description: "Enterprises are to include C-SCRM requirements, descriptions, and
+  criteria in applicable contractual agreements.\r
+
+  \r
+
+  1. Enterprises are to establish baseline and tailorable C-SCRM requirements to
+  apply and incorporate into contractual agreements when procuring a product or
+  service from suppliers, developers, system integrators, external system
+  service providers, and other ICT/OT-related service providers.\r
+
+  These include but are not limited to:\r
+
+  a. C-SCRM requirements that cover regulatory mandates (e.g., the prohibition
+  of certain ICT/OT or suppliers) address identified and selected controls that
+  are applicable to reducing cyber supply chain risk that may be introduced by a
+  procured product or service and that provide assurance that the contractor is
+  sufficiently responsible, capable, and trustworthy.\r
+
+  b. Requirements for critical elements in the supply chain to demonstrate the
+  capability to remediate emerging vulnerabilities based on open source
+  information and other sources.\r
+
+  c. Requirements for managing intellectual property ownership and
+  responsibilities for elements such as software code; data and information; the
+  manufacturing, development, or integration environment; designs; and
+  proprietary processes when provided to the enterprise for review or use.\r
+
+  d. Requirements that address the expected life span of the product or system,
+  any element(s) that may be in a critical path based on their life span, and
+  what is required when end-of-life is near or has been reached. Enterprises
+  should conduct research or solicit information from bidders or existing
+  providers under contract to understand what end-of-life options exist (e.g.,
+  replace, upgrade, migrate to a new system, etc.).\r
+
+  e. Articulate any circumstances when secondary market components may be
+  permitted.\r
+
+  f. Requirements for functional properties, configuration, and implementation
+  information, as well as any development methods, techniques, or practices that
+  may be relevant. Identify and specify C-SCRM evaluation criteria, to include
+  the weighting of such criteria.\r
+
+  2. Enterprises should:\r
+
+  a. Establish a plan for the acquisition of spare parts to ensure adequate
+  supply, and execute the plan if or when applicable;\r
+
+  b. Establish a plan for the acquisition of alternative sources of supply as
+  may be necessary during continuity events or if/when a disruption to the
+  supply chain occurs;\r
+
+  c. Work with suppliers, developers, system integrators, external system
+  service providers, and other ICT/OT-related service providers to identify and
+  define existing and acceptable incident response and information-sharing
+  processes, including inputs on vulnerabilities from other enterprises within
+  their supply chains.\r
+
+  3. Establish and maintain verification procedures and acceptance criteria for
+  delivered products and services, which include but are not limited to:\r
+
+  a. Accepting COTS and GOTS products without verification, as authorized by the
+  enterprise (e.g., approved products lists)\r
+
+  b. Supplier validation of developmental and COTS software and hardware
+  information system vulnerabilities\r
+
+  4. Ensure that the continuous monitoring plan includes supply chain aspects in
+  its criteria, such as including the monitoring of functions, ports, and
+  protocols in use. See Section 2 and Appendix C.\r
+
+  5. Ensure that the contract addresses the monitoring of suppliers, developers,
+  system integrators, external system service providers, and other
+  ICT/OT-related service providers’ information systems located within the
+  supply chain infrastructure. Monitor and evaluate the acquired work processes
+  and work products where applicable. These include but are not limited to
+  monitoring software development infrastructure for vulnerabilities (e.g.,
+  DevSecOps pipelines, software containers, and code repositories/shares).\r
+
+  6. Communicate processes for reporting information security weaknesses and
+  vulnerabilities detected during the use of ICT/OT products or services, and
+  ensure reporting to appropriate stakeholders, including OEMs where relevant.\r
+
+  7. Review and confirm sustained compliance with the terms and conditions of
+  the agreement on an ongoing basis.\r
+
+  Departments and agencies should refer to Appendix F to implement this guidance
+  in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity."
+elementType: control
