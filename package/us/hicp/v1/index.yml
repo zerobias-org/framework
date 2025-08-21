@@ -1,0 +1,17 @@
+id: 50112a36-f055-457d-a4d0-da0e7e0948ef
+name: Health Industry Cybersecurity Practices (HICP)
+externalId: us.hicp.v1
+description: Health Industry Cybersecurity Practices (HICP)
+code: us.hicp.v1
+status: approved
+url: https://www.phe.gov/Preparedness/planning/405d/Pages/hic-practices.aspx
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 36ec1ef2-74ba-4e57-84c5-43f96010bbb6
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
