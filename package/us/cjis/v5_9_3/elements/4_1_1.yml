@@ -1,0 +1,13 @@
+id: 215d03c2-16ee-479c-a38f-9b144519e796
+externalId: 4.1.1
+name: Criminal History Record Information (CHRI)
+description: Criminal History Record Information (CHRI), sometimes informally
+  referred to as “restricted data”, is a subset of CJI. Due to its comparatively
+  sensitive nature, additional controls are required for the access, use and
+  dissemination of CHRI. In addition to the dissemination restrictions outlined
+  below, Title 28, Part 20, Code of Federal Regulations (CFR), defines CHRI and
+  provides the regulatory guidance for dissemination of CHRI. While the CJIS
+  Security Policy attempts to be architecturally independent, the III and the
+  NCIC are specifically identified in Title 28, Part 20, CFR, and the NCIC
+  Operating Manual, as associated with CHRI.
+elementType: control

@@ -1,0 +1,33 @@
+id: fc8f3a23-eddd-41c8-aa2b-95595ccf0414
+externalId: 5.13.1.4
+name: Mobile Hotspots
+description: "Many mobile devices include the capability to function as a Wi-Fi
+  hotspot that allows other devices to connect through the device to the
+  internet over the devices cellular network.\r
+
+  When an agency allows mobile devices that are approved to access or store CJI
+  to function as a Wi-Fi hotspot connecting to the Internet, they shall be
+  configured:\r
+
+  1. Enable encryption on the hotspot\r
+
+  2. Change the hotspot’s default SSID\r
+
+  a. Ensure the hotspot SSID does not identify the device make/model or agency
+  ownership\r
+
+  3. Create a wireless network password (pre-shared key)\r
+
+  4. Enable the hotspot’s port filtering/blocking features if present\r
+
+  5. Only allow connections from agency-controlled devices\r
+
+  Note: Refer to the requirements in Section 5.10.1.2 Encryption for item #1.
+  Refer to the requirements in Section 5.6.2.1.1.1 Basic Password Standards for
+  item #3. Only password attributes #1, #2 and #3 are required.\r
+
+  OR\r
+
+  1. Have a MDM solution to provide the same security as identified in items 1 –
+  5 above."
+elementType: control

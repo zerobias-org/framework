@@ -1,0 +1,15 @@
+id: 7509d51e-bd9e-4725-bdb7-55dd883c7370
+externalId: AC-6(1)
+name: LEAST PRIVILEGE | AUTHORIZE ACCESS TO SECURITY FUNCTIONS
+description: "Authorize access for personnel including security administrators,
+  system and network administrators, and other privileged users with access to
+  system control, monitoring, or administration functions (e.g., system
+  administrators, information security personnel, maintainers, system
+  programmers, etc.) to:\r
+
+  (a) Established system accounts, configured access authorizations (i.e.,
+  permissions, privileges), set events to be audited, set intrusion detection
+  parameters, and other security functions; and\r
+
+  (b) Security-relevant information in hardware, software, and firmware."
+elementType: control

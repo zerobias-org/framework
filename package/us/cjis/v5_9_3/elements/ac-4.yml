@@ -1,0 +1,11 @@
+id: cbcdffb0-7cf7-4807-a902-d4d9f3de2ac2
+externalId: AC-4
+name: INFORMATION FLOW ENFORCEMENT
+description: Enforce approved authorizations for controlling the flow of
+  information within the system and between connected systems by preventing CJI
+  from being transmitted unencrypted across the public network, blocking outside
+  traffic that claims to be from within the agency, and not passing any web
+  requests to the public network that are not from the agency-controlled or
+  internal boundary protection devices (e.g., proxies, gateways, firewalls, or
+  routers).
+elementType: control

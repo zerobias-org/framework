@@ -1,0 +1,17 @@
+id: bcbe7c5d-dbbb-4077-a47c-8dac3feadc8d
+externalId: 5.4.1.1.1
+name: Content
+description: "The following content shall be included with every audited
+  event:\r
+
+  1. Date and time of the event.\r
+
+  2. The component of the information system (e.g., software component, hardware
+  component) where the event occurred.\r
+
+  3. Type of event.\r
+
+  4. User/subject identity.\r
+
+  5. Outcome (success or failure) of the event."
+elementType: control

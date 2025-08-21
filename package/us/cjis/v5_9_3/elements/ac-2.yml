@@ -1,0 +1,113 @@
+id: 96642263-5306-499b-9dd2-364bc0929f84
+externalId: AC-2
+name: ACCOUNT MANAGEMENT
+description: "a. Define and document the types of accounts allowed and
+  specifically prohibited for use within the system;\r
+
+  b. Assign account managers;\r
+
+  c. Require conditions for group and role membership;\r
+
+  d. Specify:\r
+
+  1. Authorized users of the system;\r
+
+  2. Group and role membership; and\r
+
+  3. Access authorizations (i.e., privileges) and attributes listed for each
+  account;\r
+
+  Attribute Name\r
+
+  Email Address Text\r
+
+  Employer Name\r
+
+  Federation Id\r
+
+  Given Name\r
+
+  Identity Provider Id\r
+
+  Sur Name\r
+
+  Telephone Number\r
+
+  Identity Provider Id\r
+
+  Unique Subject Id\r
+
+  Counter Terrorism Data Self Search Home Privilege Indicator\r
+
+  Criminal History Data Self Search Home Privilege Indicator\r
+
+  Criminal Intelligence Data Self Search Home Privilege Indicator\r
+
+  Criminal Investigative Data Self Search Home Privilege Indicator\r
+
+  Display Name\r
+
+  Government Data Self Search Home Privilege Indicator\r
+
+  Local Id\r
+
+  NCIC Certification Indicator\r
+
+  N-DEx Privilege Indicator\r
+
+  PCII Certification Indicator\r
+
+  28 CFR Certification Indicator\r
+
+  Employer ORI\r
+
+  Employer Organization General Category Code\r
+
+  Employer State Code\r
+
+  Public Safety Officer Indicator\r
+
+  Sworn Law Enforcement Officer Indicator\r
+
+  Authenticator Assurance Level\r
+
+  Federation Assurance Level\r
+
+  Identity Assurance Level\r
+
+  Intelligence Analyst Indicator\r
+
+  e. Require approvals by organizational personnel with account management
+  responsibilities for requests to create accounts;\r
+
+  f. Create, enable, modify, disable, and remove accounts in accordance with
+  agency policy;\r
+
+  g. Monitor the use of accounts;\r
+
+  h. Notify account managers and system/network administrators within: 3\r
+
+  1. One day when accounts are no longer required;\r
+
+  2. One day when users are terminated or transferred; and\r
+
+  3. One day when system usage or need-to-know changes for an individual;\r
+
+  i. Authorize access to the system based on:\r
+
+  1. A valid access authorization;\r
+
+  2. Intended system usage; and\r
+
+  3. Attributes as listed in AC-2(d)(3); 3\r
+
+  j. Review accounts for compliance with account management requirements at
+  least annually;\r
+
+  k. Establish and implement a process for changing shared or group account
+  authenticators (if deployed) when individuals are removed from the group;
+  and\r
+
+  l. Align account management processes with personnel termination and transfer
+  processes."
+elementType: control
