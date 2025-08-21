@@ -1,0 +1,17 @@
+id: a0e26838-6124-402a-88fa-26d78f355fa6
+name: 27001 - Information Security Management Systems (ISMS) - Requirements
+externalId: iso.27001.2022
+description: 27001 - Information Security Management Systems (ISMS) - Requirements
+code: iso.27001.2022
+status: approved
+url: https://www.iso.org/standard/27001
+version: "2022"
+external: true
+internal: false
+elementTypes:
+  - id: 501ffc97-8b35-43c6-8666-36e4c945909d
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
