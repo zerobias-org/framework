@@ -1,0 +1,7 @@
+id: 24e37f6c-a0bd-4044-a9c8-1c8be828f2bf
+externalId: ISM-1030
+name: ISM-1030
+description: A NIDS or NIPS is located immediately inside the outermost firewall
+  for gateways and configured to generate event logs and alerts for network
+  traffic that contravenes any rule in a firewall ruleset.
+elementType: control
