@@ -1,0 +1,21 @@
+id: c987d985-c528-4cb7-b9c8-3b9bb61e5d07
+name: Cybersecurity Final Rule (Cybersecurity Risk Management, Strategy,
+  Governance, and Incident Disclosure) - 17 CFR Parts 229, 232, 239, 240, and
+  249
+externalId: us.cybersecurity_rule.v1
+description: Cybersecurity Final Rule (Cybersecurity Risk Management, Strategy,
+  Governance, and Incident Disclosure) - 17 CFR Parts 229, 232, 239, 240, and
+  249
+code: us.cybersecurity_rule.v1
+status: approved
+url: https://www.sec.gov/files/rules/final/2023/33-11216.pdf
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: c803c9c0-7f2d-4017-9d8f-2b9e8bc696f1
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
