@@ -1,0 +1,12 @@
+id: 43761307-c532-418d-a225-22db142acfab
+externalId: CM0017
+name: Coding Standard
+description: Define acceptable coding standards to be used by the software
+  developer. The mission should have automated means to evaluate adherence to
+  coding standards. The coding standard should include the acceptable software
+  development language types as well. The language should consider the security
+  requirements, scalability of the application, the complexity of the
+  application, development budget, development time limit, application security,
+  available resources, etc. The coding standard and language choice must ensure
+  proper security constructs are in place.
+elementType: control

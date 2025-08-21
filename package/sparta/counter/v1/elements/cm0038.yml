@@ -1,0 +1,16 @@
+id: 7b2f8e21-53a3-4f71-8294-ecf1ea2ddd9d
+externalId: CM0038
+name: Segmentation
+description: Identify the key system components or capabilities that require
+  isolation through physical or logical means. Information should not be allowed
+  to flow between partitioned applications unless explicitly permitted by
+  security policy. Isolate mission critical functionality from non-mission
+  critical functionality by means of an isolation boundary (implemented via
+  partitions) that controls access to and protects the integrity of, the
+  hardware, software, and firmware that provides that functionality. Enforce
+  approved authorizations for controlling the flow of information within the
+  spacecraft and between interconnected systems based on the defined security
+  policy that information does not leave the spacecraft boundary unless it is
+  encrypted. Implement boundary protections to separate bus, communications, and
+  payload components supporting their respective functions.
+elementType: control

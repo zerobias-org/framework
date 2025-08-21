@@ -1,0 +1,21 @@
+id: d3db44ce-1502-4ca1-b8cc-fa5e49d92a04
+externalId: CM0044
+name: Cyber-safe Mode
+description: Provide the capability to enter the spacecraft into a
+  configuration-controlled and integrity-protected state representing a known,
+  operational cyber-safe state (e.g., cyber-safe mode). Spacecraft should enter
+  a cyber-safe mode when conditions that threaten the platform are
+  detected.   Cyber-safe mode is an operating mode of a spacecraft during which
+  all nonessential systems are shut down and the spacecraft is placed in a known
+  good state using validated software and configuration settings.
+  Within cyber-safe mode, authentication and encryption should still be enabled.
+  The spacecraft should be capable of reconstituting firmware and software
+  functions to pre-attack levels to allow for the recovery of functional
+  capabilities. This can be performed by self-healing, or the healing can be
+  aided from the ground. However, the spacecraft needs to have the capability to
+  replan, based on equipment still available after a cyber-attack. The goal is
+  for the spacecraft to resume full mission operations. If not possible, a
+  reduced level of mission capability should be achieved. Cyber-safe mode
+  software/configuration should be stored onboard the spacecraft in memory with
+  hardware-based controls and should not be modifiable.
+elementType: control

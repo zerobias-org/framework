@@ -1,0 +1,7 @@
+id: 27f2a4ac-c77e-4607-b90d-a223d66cd07b
+externalId: CM0019
+name: Static Analysis
+description: Perform static source code analysis for all available source code
+  looking for system-relevant weaknesses (see CM0016) using no less than two
+  static code analysis tools.
+elementType: control

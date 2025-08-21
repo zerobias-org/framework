@@ -1,0 +1,11 @@
+id: e07d873e-e92c-4367-a089-ccb14704eabd
+externalId: CM0010
+name: Update Software
+description: Perform regular software updates to mitigate exploitation risk.
+  Software updates may need to be scheduled around operational down times.
+  Release updated versions of the software/firmware systems incorporating
+  security-relevant updates, after suitable regression testing, at a frequency
+  no greater than mission-defined frequency [i.e., 30 days]. Ideally old
+  versions of software are removed after upgrading but restoration states (i.e.,
+  gold images) are recommended to remain on the system.
+elementType: control

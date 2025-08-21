@@ -1,0 +1,10 @@
+id: 876a8d06-bd92-4464-833f-98450fc8bc28
+externalId: CM0040
+name: Shared Resource Leakage
+description: Prevent unauthorized and unintended information transfer via shared
+  system resources. Ensure that processes reusing a shared system resource
+  (e.g., registers, main memory, secondary storage) do not have access to
+  information (including encrypted representations of information) previously
+  stored in that resource during a prior use by a process after formal release
+  of that resource back to the system or reuse
+elementType: control

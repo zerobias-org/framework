@@ -1,0 +1,12 @@
+id: 635da9ac-8681-455e-b8e8-8f1a1a672e77
+externalId: CM0049
+name: Machine Learning Data Integrity
+description: When AI/ML is being used for mission critical operations, the
+  integrity of the training data set is imperative. Data poisoning against the
+  training data set can have detrimental effects on the functionality of the
+  AI/ML. Fixing poisoned models is very difficult so model developers need to
+  focus on countermeasures that could either block attack attempts or detect
+  malicious inputs before the training cycle occurs. Regression testing over
+  time, validity checking on data sets, manual analysis, as well as using
+  statistical analysis to find potential injects can help detect anomalies.
+elementType: control
