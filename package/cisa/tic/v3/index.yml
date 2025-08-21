@@ -1,0 +1,17 @@
+id: c92506f2-51ab-4011-b342-ae69f13aa0c2
+name: CISA Trusted Internet Connection (TIC) 3.0
+externalId: cisa.tic.v3
+description: CISA Trusted Internet Connection (TIC) 3.0
+code: cisa.tic.v3
+status: approved
+url: https://www.cisa.gov/tic
+version: v3
+external: true
+internal: false
+elementTypes:
+  - id: cc8e8c61-e91f-435d-9f57-6a474275d593
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

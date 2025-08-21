@@ -1,0 +1,8 @@
+id: b6017705-6170-4199-8656-4403420d9aba
+externalId: 3.PEP.EM.ARCHA
+name: Authenticated Received Chain
+description: Authenticated received chain allows for an intermediary, like a
+  mailing list or forwarding service, to sign its own authentication of the
+  original email, allowing downstream entities to accept the intermediary’s
+  authentication even if the email was changed.
+elementType: control

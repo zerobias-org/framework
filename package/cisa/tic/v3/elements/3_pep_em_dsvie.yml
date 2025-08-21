@@ -1,0 +1,8 @@
+id: 6ecf2c7c-3b5e-41f1-be89-8af90ca1d713
+externalId: 3.PEP.EM.DSVIE
+name: Domain Signature Verification for Incoming Email
+description: Domain signature verification protections authenticate incoming
+  email according to the Domain-based Message Authentication Reporting and
+  Conformance (DMARC) email authentication protocol defined in Request for
+  Comments (RFC) 74895F6.
+elementType: control
