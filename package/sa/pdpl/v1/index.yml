@@ -1,0 +1,17 @@
+id: bf313e65-0547-4cb9-9998-b71c61d6ba8d
+name: Personal Data Protection Law (PDPL)
+externalId: sa.pdpl.v1
+description: Personal Data Protection Law (PDPL)
+code: sa.pdpl.v1
+status: approved
+url: https://sdaia.gov.sa/en/SDAIA/about/Documents/Personal%20Data%20English%20V2-23April2023-%20Reviewed-.pdf
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: f27cff2c-6402-4a93-9930-04fd35e45822
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
