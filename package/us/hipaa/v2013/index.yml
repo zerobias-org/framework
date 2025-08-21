@@ -1,0 +1,17 @@
+id: dcfa1afc-c7f7-4307-a7b6-ea86b2a8e052
+name: HIPAA Administrative Simplification (2013)
+externalId: us.hipaa.v2013
+description: HIPAA Administrative Simplification (2013)
+code: us.hipaa.v2013
+status: approved
+url: https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/combined/hipaa-simplification-201303.pdf
+version: v2013
+external: true
+internal: false
+elementTypes:
+  - id: 62f4e6ef-32dd-41df-95ea-0c1968060823
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
