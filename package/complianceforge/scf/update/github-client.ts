@@ -42,11 +42,13 @@ export class GitHubClient {
         return null;
       }
 
-      // Find the Excel asset
-      const excelAsset = release.assets.find(asset => 
-        asset.name.toLowerCase().includes('.xlsx') && 
-        asset.name.toLowerCase().includes('secure-controls-framework')
-      );
+      // Find the Excel asset (handles both naming patterns)
+      const excelAsset = release.assets.find(asset => {
+        const lowerName = asset.name.toLowerCase();
+        return lowerName.endsWith('.xlsx') && 
+          (lowerName.includes('secure-controls-framework') || 
+           lowerName.includes('secure.controls.framework'));
+      });
 
       if (!excelAsset) {
         throw new Error(`No Excel asset found in release ${latestVersion}`);

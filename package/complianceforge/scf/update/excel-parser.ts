@@ -46,10 +46,16 @@ export class ExcelParser {
   }
 
   private extractVersion(filePath: string): string {
-    // Extract version from filename like "secure-controls-framework-scf-2025-2-1.xlsx"
     const filename = filePath.split('/').pop() || '';
-    const match = filename.match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/i);
     
+    // Try old pattern: "secure-controls-framework-scf-2025-2-1.xlsx"
+    let match = filename.match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/i);
+    if (match) {
+      return `${match[1]}.${match[2]}.${match[3]}`;
+    }
+    
+    // Try new pattern: "Secure.Controls.Framework.SCF.-.2025.2.2.xlsx"
+    match = filename.match(/(\d{4})\.(\d+)\.(\d+)\.xlsx$/i);
     if (match) {
       return `${match[1]}.${match[2]}.${match[3]}`;
     }

@@ -76,10 +76,16 @@ class SCFUpdater {
       } else {
         // Force update - get latest release info
         const release = await this.githubClient.getLatestRelease();
-        const excelAsset = release.assets.find(asset => 
-          asset.name.toLowerCase().includes('.xlsx') && 
-          asset.name.toLowerCase().includes('secure-controls-framework')
-        );
+        const excelAsset = release.assets.find(asset => {
+          const nameLower = asset.name.toLowerCase();
+          // More flexible matching: look for Excel files with SCF-related keywords
+          return nameLower.endsWith('.xlsx') && (
+            nameLower.includes('secure-controls-framework') ||
+            nameLower.includes('secure controls framework') ||
+            nameLower.includes('scf') ||
+            (nameLower.includes('secure') && nameLower.includes('controls'))
+          );
+        });
         
         if (!excelAsset) {
           throw new Error('No Excel asset found in latest release');
@@ -181,7 +187,6 @@ class SCFUpdater {
     // Clean up orphaned elements
     await this.cleanupOrphanedElements(allElements.map(e => e.externalId), elementsDir);
     
-    // Validate the generated package
     await this.validatePackage(versionDir);
     
     logger.info(`Created SCF ${scfData.version} package at: ${versionDir}`);
@@ -441,13 +446,38 @@ class SCFUpdater {
     if (!fs.existsSync(this.config.localCachePath)) return undefined;
     
     const excelFiles = fs.readdirSync(this.config.localCachePath)
-      .filter(file => file.includes('secure-controls-framework') && file.endsWith('.xlsx'));
+      .filter(file => {
+        const fileLower = file.toLowerCase();
+        return fileLower.endsWith('.xlsx') && (
+          fileLower.includes('secure-controls-framework') ||
+          fileLower.includes('secure controls framework') ||
+          fileLower.includes('scf')
+        );
+      });
     
     if (excelFiles.length === 0) return undefined;
     
-    // Extract version from filename like "secure-controls-framework-scf-2025-2-1.xlsx"
-    const match = excelFiles[0].match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/);
-    return match ? `${match[1]}.${match[2]}.${match[3]}` : undefined;
+    // Try multiple version extraction patterns
+    const filename = excelFiles[0];
+    
+    // Pattern 1: "secure-controls-framework-scf-2025-2-1.xlsx"
+    let match = filename.match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/i);
+    if (match) return `${match[1]}.${match[2]}.${match[3]}`;
+    
+    // Pattern 2: "Secure Controls Framework (SCF) - 2025.2.2.xlsx"
+    match = filename.match(/(\d{4})\.(\d+)\.(\d+)\.xlsx$/i);
+    if (match) return `${match[1]}.${match[2]}.${match[3]}`;
+    
+    // Pattern 3: Version in parentheses or after hyphen "SCF - 2025.2.2.xlsx" or "(2025.2.2)"
+    match = filename.match(/[\s\-\(](\d{4})\.(\d+)\.(\d+)/i);
+    if (match) return `${match[1]}.${match[2]}.${match[3]}`;
+    
+    // Pattern 4: Version with underscores "scf_2025_2_2.xlsx"
+    match = filename.match(/(\d{4})[_\.](\d+)[_\.](\d+)/i);
+    if (match) return `${match[1]}.${match[2]}.${match[3]}`;
+    
+    logger.warning(`Could not extract version from filename: ${filename}`);
+    return undefined;
   }
 
 
