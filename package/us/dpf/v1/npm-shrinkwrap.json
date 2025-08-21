@@ -1,0 +1,39 @@
+{
+  "name": "@zerobias-org/framework-us-dpf-v1",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-us-dpf-v1",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-us-dpf": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-us-dpf": {
+      "version": "1.1.0-rc.0",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-us-dpf/-/suite-us-dpf-1.1.0-rc.0.tgz",
+      "integrity": "sha512-vDq16+qbobEYUK/sR001gEotsGWSCDwGVcyFGqHHllvrwa1X6klDvivCXKbpAnPtNkzI5KW9Gt91mKOp8Q6HAA==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-us": "^1.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-us": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-us/-/vendor-us-1.0.2.tgz",
+      "integrity": "sha512-LXb06Hu7rfX0Xwcq2uxXs8W1HnTBOGAvTZwabTNYB0f/hm9FWqjHm4iKB6UTOmu3yK+cSq/Z08PirhZilqIIUg==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+id: 4c7c6997-7f21-4d70-9539-65ad4c7df7c7
+name: Data Privacy Framework (DPF)
+externalId: us.dpf.v1
+description: Data Privacy Framework (DPF)
+code: us.dpf.v1
+status: approved
+url: https://www.dataprivacyframework.gov/Program-Overview
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: e8565a6e-a6d0-4b11-a61a-1320737540f9
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
