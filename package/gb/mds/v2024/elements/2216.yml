@@ -1,0 +1,7 @@
+id: a3f77d5c-fa0c-4c21-a6f0-04c3cd3d5d6b
+externalId: "2216"
+name: Privilege Failure Handling
+description: The Supplier shall prevent non-privileged users from executing
+  privileged functions and capture the execution of such functions in audit
+  logs.
+elementType: control
