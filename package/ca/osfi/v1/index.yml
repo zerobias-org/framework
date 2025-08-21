@@ -1,0 +1,17 @@
+id: 84bedc00-0b1b-4ca3-b642-3ca07e79ceb3
+name: B-13
+externalId: ca.osfi.v1
+description: B-13
+code: ca.osfi.v1
+status: approved
+url: https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b13-jul-let.aspx
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 7c696aa6-c892-45c3-8202-4e01a5112dab
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
