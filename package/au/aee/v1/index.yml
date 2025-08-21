@@ -1,0 +1,17 @@
+id: cb74f9c2-85c8-454d-90e0-9d40eda9f53d
+name: Australia Essential Eight
+externalId: au.aee.v1
+description: Australia Essential Eight
+code: au.aee.v1
+status: approved
+url: https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 8d2263c6-0e7f-4d7c-9199-67755480d699
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
