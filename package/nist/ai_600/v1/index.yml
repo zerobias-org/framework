@@ -1,0 +1,17 @@
+id: c8a06ae5-d741-45ef-bf11-b4befd5d04b4
+name: NIST AI 600-1 (AI RMF Generative Artificial Intelligence Profile)
+externalId: nist.ai_600.v1
+description: NIST AI 600-1 (AI RMF Generative Artificial Intelligence Profile)
+code: nist.ai_600.v1
+status: approved
+url: https://doi.org/10.6028/NIST.AI.600-1
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 5a40c669-71b7-4a4e-a32f-1278232f33ea
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
