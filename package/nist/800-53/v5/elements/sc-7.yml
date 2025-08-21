@@ -1,0 +1,11 @@
+id: 18aad117-9ee4-4b43-b0e2-0a206a765b2c
+externalId: SC-7
+name: Boundary Protection
+description: "a. Monitor and control communications at the external managed
+  interfaces to the system and at key internal managed interfaces within the
+  system;b. Implement subnetworks for publicly accessible system components that
+  are [Selection (one): physically; logically] separated from internal
+  organizational networks; andc. Connect to external networks or systems only
+  through managed interfaces consisting of boundary protection devices arranged
+  in accordance with an organizational security and privacy architecture."
+elementType: control

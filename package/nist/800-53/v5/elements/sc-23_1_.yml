@@ -1,0 +1,5 @@
+id: 3de3fdc5-8be7-4605-a873-5f698711d822
+externalId: SC-23(1)
+name: Session Authenticity | Invalidate Session Identifiers at Logout
+description: Invalidate session identifiers upon user logout or other session termination.
+elementType: control

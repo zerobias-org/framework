@@ -1,0 +1,10 @@
+id: 23c234e4-67cb-4a28-8886-86428e727edc
+externalId: AC-4(8)
+name: Information Flow Enforcement | Security and Privacy Policy Filters
+description: "a. Enforce information flow control using [Assignment:
+  organization-defined security or privacy policy filters] as a basis for flow
+  control decisions for [Assignment: organization-defined information flows];
+  andb. [Selection (one or more): Block; Strip; Modify; Quarantine] data after a
+  filter processing failure in accordance with [Assignment: organization-defined
+  security or privacy policy]."
+elementType: control
