@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-bundle",
-      "version": "0.0.12",
+      "version": "0.0.13",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/framework-cncf-sscp-v1": "1.0.0",
