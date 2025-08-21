@@ -1,0 +1,9 @@
+id: 29b739f8-72a9-4b27-b622-498bf393e425
+externalId: CIP-007-6 1.1
+name: CIP-007-6 Table R1– Ports and Services
+description: Where technically feasible, enable only logical network accessible
+  ports that have been determined to be needed by the Responsible Entity,
+  including port ranges or services where needed to handle dynamic ports. If a
+  device has no provision for disabling or restricting logical ports on the
+  device then those ports that are open are deemed needed.
+elementType: control
