@@ -1,0 +1,17 @@
+id: e36a1ab1-27a3-45e6-99d0-fe522e8a5c9d
+name: SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations
+externalId: nist.800-171.rev2
+description: SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations
+code: nist.800-171.rev2
+status: approved
+url: https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final
+version: rev2
+external: true
+internal: false
+elementTypes:
+  - id: 25769a5b-be7c-4f72-9d07-eed6a55da74c
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
