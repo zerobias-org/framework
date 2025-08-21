@@ -1,0 +1,17 @@
+id: 643fdfe1-d0c4-4619-94d5-93744418b0a9
+name: SB327
+externalId: us_ca.sb327.v1
+description: SB327
+code: us_ca.sb327.v1
+status: approved
+url: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB327
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 623821ac-8c36-4718-a247-aa791b05edad
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

@@ -1,0 +1,39 @@
+{
+  "name": "@zerobias-org/framework-us_ca-sb327-v1",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-us_ca-sb327-v1",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-us_ca-sb327": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-us_ca-sb327": {
+      "version": "1.1.0-rc.0",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-us_ca-sb327/-/suite-us_ca-sb327-1.1.0-rc.0.tgz",
+      "integrity": "sha512-PFSBYe1eiYHJQaasl0DAe33rs8OzM6i3qLfQDfAQRS8LiP5LLnHQmDsQ2dZcqxaAOT57aZirRW0rw5yhrEuWOA==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-us_ca": "^1.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-us_ca": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-us_ca/-/vendor-us_ca-1.0.2.tgz",
+      "integrity": "sha512-oLp/1NpmxWv5ELdTGWUBJqFKRVNL+qGHRh0snpwZ6tR6oIDNXLVMhk1FfsqeINR3Pbgqj9z/f6gMEGtnO2r9tg==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}
