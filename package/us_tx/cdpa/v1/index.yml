@@ -1,0 +1,17 @@
+id: aa47b085-91b4-404c-b8e5-8e846df5620b
+name: Texas Consumer Data Protection Act
+externalId: us_tx.cdpa.v1
+description: Texas Consumer Data Protection Act
+code: us_tx.cdpa.v1
+status: approved
+url: https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00004F.htm
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 18662cbd-8bbe-4b2d-8543-e9190b2b5d27
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
