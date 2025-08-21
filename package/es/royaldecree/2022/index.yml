@@ -1,0 +1,17 @@
+id: 9a006b47-9162-409d-bb60-88a2e2c0d9c4
+name: Spain Royal Decree 311/2022
+externalId: es.royaldecree.2022
+description: Spain Royal Decree 311/2022
+code: es.royaldecree.2022
+status: approved
+url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-7191
+version: "2022"
+external: true
+internal: false
+elementTypes:
+  - id: 9557f5bf-2710-4f85-8372-1e874f62fa30
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
