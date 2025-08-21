@@ -1,0 +1,43 @@
+{
+  "name": "@zerobias-org/framework-eu-enisa-v1",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-eu-enisa-v1",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-eu-enisa": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-eu-enisa": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-eu-enisa/-/suite-eu-enisa-1.0.2.tgz",
+      "integrity": "sha512-3rus65Pxt7r/2UUvWxo4N2/oVKqljfAK3gmaJVnUXhtKzBUs7tsMKTiaO3t4dO1MaosMjao5ju41bKxAH/juVg==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-eu": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-eu": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-eu/-/vendor-eu-1.0.2.tgz",
+      "integrity": "sha512-cjiUsmH/AlgqEL9ypYsabdF8ZPeVx/OZhoF4P07S+JI9EN53ZvdrTkvsFaSwojDAuC9A23qKTV2s4Url2HgcTQ==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}
