@@ -1,0 +1,15 @@
+id: 6a874bb0-3a97-41e2-a385-30e651895848
+externalId: 8.5.1
+name: 8.5.1
+description: "MFA systems are implemented as follows:\r
+
+  ▪ The MFA system is not susceptible to replay attacks.\r
+
+  ▪ MFA systems cannot be bypassed by any users, including administrative users
+  unless specifically documented, and authorized by management on an exception
+  basis, for a limited time period.\r
+
+  ▪ At least two different types of authentication factors are used.\r
+
+  ▪ Success of all authentication factors is required before access is granted."
+elementType: control

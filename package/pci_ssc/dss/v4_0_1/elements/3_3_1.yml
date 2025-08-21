@@ -1,0 +1,7 @@
+id: af078d4d-34ff-40bc-8478-065947681675
+externalId: 3.3.1
+name: 3.3.1
+description: SAD is not retained after authorization, even if encrypted. All
+  sensitive authentication data received is rendered unrecoverable upon
+  completion of the authorization process.
+elementType: control

@@ -1,0 +1,20 @@
+id: f2086b8a-f712-4a3b-940d-e1b7b8719dc5
+externalId: 6.5.1
+name: 6.5.1
+description: "Changes to all system components in the production environment are
+  made according to established procedures that include:\r
+
+  ▪ Reason for, and description of, the change.\r
+
+  ▪ Documentation of security impact.\r
+
+  ▪ Documented change approval by authorized parties.\r
+
+  ▪ Testing to verify that the change does not adversely impact system
+  security.\r
+
+  ▪ For bespoke and custom software changes, all updates are tested for
+  compliance with Requirement 6.2.4 before being deployed into production.\r
+
+  ▪ Procedures to address failures and return to a secure state."
+elementType: control

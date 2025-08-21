@@ -1,0 +1,14 @@
+id: 38300043-2f0e-4eb7-81bd-b98eea0816f7
+externalId: 8.3.9
+name: 8.3.9
+description: "If passwords/passphrases are used as the only authentication
+  factor for user access (i.e., in any single-factor authentication
+  implementation) then either:\r
+
+  ▪ Passwords/passphrases are changed at least once every 90 days,\r
+
+  OR\r
+
+  ▪ The security posture of accounts is dynamically analyzed, and real-time
+  access to resources is automatically determined accordingly."
+elementType: control

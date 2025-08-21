@@ -1,0 +1,17 @@
+id: ab9174d8-fcc2-4333-a8a0-1d90948967fb
+name: Payment Card Industry Data Security Standard (PCI DSS)
+externalId: pci_ssc.dss.v4_0_1
+description: Payment Card Industry Data Security Standard (PCI DSS)
+code: pci_ssc.dss.v4_0_1
+status: approved
+url: https://www.pcisecuritystandards.org/document_library
+version: v4_0_1
+external: true
+internal: false
+elementTypes:
+  - id: d112d265-69d2-4d42-9f9a-d7652b29e2ce
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

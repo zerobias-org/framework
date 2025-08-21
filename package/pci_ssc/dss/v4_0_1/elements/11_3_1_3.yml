@@ -1,0 +1,14 @@
+id: 993f687b-23c8-498b-a104-8e593c48830c
+externalId: 11.3.1.3
+name: 11.3.1.3
+description: "Internal vulnerability scans are performed after any significant
+  change as follows:\r
+
+  ▪ High-risk and critical vulnerabilities (per the entity’s vulnerability risk
+  rankings defined at Requirement 6.3.1) are resolved.\r
+
+  ▪ Rescans are conducted as needed.\r
+
+  ▪ Scans are performed by qualified personnel and organizational independence
+  of the tester exists (not required to be a QSA or ASV)."
+elementType: control

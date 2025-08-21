@@ -1,0 +1,10 @@
+id: ff72cbee-707f-4c61-a3f1-e7bbea0b465c
+externalId: 8.3.5
+name: 8.3.5
+description: "If passwords/passphrases are used as authentication factors to
+  meet Requirement 8.3.1, they are set and reset for each user as follows:\r
+
+  ▪ Set to a unique value for first-time use and upon reset.\r
+
+  ▪ Forced to be changed immediately after the first use."
+elementType: control
