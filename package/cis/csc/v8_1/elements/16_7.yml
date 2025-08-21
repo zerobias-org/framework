@@ -1,0 +1,9 @@
+id: d73afd15-d848-4d1d-aa99-23907eccc02c
+externalId: "16.7"
+name: Use Standard Hardening Configuration Templates for Application Infrastructure
+description: Use standard, industry-recommended hardening configuration
+  templates for application infrastructure components. This includes underlying
+  servers, databases, and web servers, and applies to cloud containers, Platform
+  as a Service (PaaS) components, and SaaS components. Do not allow in-house
+  developed software to weaken configuration hardening.
+elementType: control

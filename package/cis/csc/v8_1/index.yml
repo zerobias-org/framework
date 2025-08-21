@@ -1,0 +1,17 @@
+id: 52644dc3-d89f-44c3-b837-db352ab3bd24
+name: Critical Security Controls (CSC)
+externalId: cis.csc.v8_1
+description: Critical Security Controls (CSC)
+code: cis.csc.v8_1
+status: approved
+url: https://www.cisecurity.org/controls/v8/
+version: v8_1
+external: true
+internal: false
+elementTypes:
+  - id: 34c769ca-eb98-4d9b-b649-6d8f1802cab3
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
