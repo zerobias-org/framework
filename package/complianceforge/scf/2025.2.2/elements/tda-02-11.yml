@@ -1,0 +1,39 @@
+id: 55cb1fbd-af63-4d77-ad79-dd5251e6ad4d
+name: Disclosure of Vulnerabilities
+description: "Mechanisms exist to disclose information about vulnerabilities to relevant stakeholders, including:\r\n(1) A description of the vulnerability(ies);\r\n(2) Affected product(s) and/or service(s);\r\n(3) Potential impact of the vulnerability(ies);\r\n(4) Severity of the vulnerability(ies); and\r\n(5) Guidance to remediate the vulnerability(ies)."
+elementType: enhancement
+externalId: TDA-02.11
+parent: tda-02
+controlQuestion: "Does the organization disclose information about vulnerabilities to relevant stakeholders, including:\r\n(1) A description of the vulnerability(ies);\r\n(2) Affected product(s) and/or service(s);\r\n(3) Potential impact of the vulnerability(ies);\r\n(4) Severity of the vulnerability(ies); and\r\n(5) Guidance to remediate the vulnerability(ies)?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

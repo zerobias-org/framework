@@ -1,0 +1,39 @@
+id: 4fe2286c-6783-4754-87e5-50c42b75b2a1
+name: AI & Autonomous Technologies Oversight Functions Competency
+description: "Mechanisms exist to ensure the deployment of Artificial Intelligence (AI) and Autonomous Technologies (AAT) assigns human oversight to individuals who have the necessary:\r\n(1) Competence;\r\n(2) Training;\r\n(3) Authority; and\r\n(4) Resources."
+elementType: enhancement
+externalId: AAT-22.4
+parent: aat-22
+controlQuestion: "Does the organization ensure the deployment of Artificial Intelligence (AI) and Autonomous Technologies (AAT) assigns human oversight to individuals who have the necessary:\r\n(1) Competence;\r\n(2) Training;\r\n(3) Authority; and\r\n(4) Resources?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

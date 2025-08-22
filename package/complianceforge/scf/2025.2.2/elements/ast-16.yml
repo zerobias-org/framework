@@ -1,0 +1,39 @@
+id: 93ec5f34-2c8a-4066-910c-f83f764a1863
+name: Bring Your Own Device (BYOD) Usage
+description: Mechanisms exist to implement and govern a Bring Your Own Device (BYOD) program to reduce risk associated with personally-owned devices in the workplace.
+elementType: control
+externalId: AST-16
+parent: ast
+controlQuestion: Does the organization implement and govern a Bring Your Own Device (BYOD) program to reduce risk associated with personally-owned devices in the workplace?
+functionGrouping: Identify
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 024c2809-20ab-49a7-aeb4-ca57ba591865
+name: Maintaining Workforce Development Relevancy
+description: "Mechanisms exist to periodically review security workforce development and awareness training to account for changes to:\r\n(1) Organizational policies, standards and procedures;\r\n(2) Assigned roles and responsibilities;\r\n(3) Relevant threats and risks; and\r\n(4) Technological developments."
+elementType: enhancement
+externalId: SAT-01.1
+parent: sat-01
+controlQuestion: "Does the organization periodically review security workforce development and awareness training to account for changes to:\r\n(1) Organizational policies, standards and procedures;\r\n(2) Assigned roles and responsibilities;\r\n(3) Relevant threats and risks; and\r\n(4) Technological developments?"
+functionGrouping: Identify
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

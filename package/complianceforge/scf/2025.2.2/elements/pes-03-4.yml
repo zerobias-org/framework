@@ -1,0 +1,39 @@
+id: 0a797e24-15f3-4dc1-bf8e-8e9e1bdb4940
+name: Access To Information Systems
+description: Physical access control mechanisms exist to enforce physical access to critical information systems or sensitive/regulated data, in addition to the physical access controls for the facility.
+elementType: enhancement
+externalId: PES-03.4
+parent: pes-03
+controlQuestion: Does the organization enforce physical access to critical information systems or sensitive/regulated data, in addition to the physical access controls for the facility?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: af620fc3-ae64-4ce4-829a-3d5d8852e793
+name: Terms of Employment
+description: Mechanisms exist to require all employees and contractors to apply cybersecurity & data privacy principles in their daily work.
+elementType: control
+externalId: HRS-05
+parent: hrs
+controlQuestion: Does the organization require all employees and contractors to apply cybersecurity & data privacy principles in their daily work?
+functionGrouping: Identify
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

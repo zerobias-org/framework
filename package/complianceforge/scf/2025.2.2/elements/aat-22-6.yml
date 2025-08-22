@@ -1,0 +1,39 @@
+id: e877ec6b-d635-4669-b2c6-94c7ad6304af
+name: AI & Autonomous Technologies Irregularity Reporting
+description: "Mechanisms exist to ensure serious incidents and/or irregularities associated with the deployment of Artificial Intelligence (AI) and Autonomous Technologies (AAT) are reported without delay to the:\r\n(1) AAT provider;\r\n(2) AAT importer or distributor, if applicable; and/or\r\n(3) Local law authorities and/or governmental agency, as required."
+elementType: enhancement
+externalId: AAT-22.6
+parent: aat-22
+controlQuestion: "Does the organization ensure serious incidents and/or irregularities associated with the deployment of Artificial Intelligence (AI) and Autonomous Technologies (AAT) are reported without delay to the:\r\n(1) AAT provider;\r\n(2) AAT importer or distributor, if applicable; and/or\r\n(3) Local law authorities and/or governmental agency, as required?"
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

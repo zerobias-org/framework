@@ -1,0 +1,39 @@
+id: 140e32c3-39a2-48e6-aa38-b4c9f12a31ce
+name: Developer Architecture & Design
+description: "Mechanisms exist to require the developers of systems, system components or services to produce a design specification and security architecture that: \r\n(1) Is consistent with and supportive of the organization's security architecture which is established within and is an integrated part of the organization's enterprise architecture;\r\n(2) Accurately and completely describes the required security functionality and the allocation of security controls among physical and logical components; and\r\n(3) Expresses how individual security functions, mechanisms and services work together to provide required security capabilities and a unified approach to protection."
+elementType: control
+externalId: TDA-05
+parent: tda
+controlQuestion: "Does the organization require the developers of systems, system components or services to produce a design specification and security architecture that: \r\n (1) Is consistent with and supportive of its security architecture which is established within and is an integrated part of its enterprise architecture;\r\n (2) Accurately and completely describes the required security functionality and the allocation of security controls among physical and logical components; and\r\n (3) Expresses how individual security functions, mechanisms and services work together to provide required security capabilities and a unified approach to protection?"
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
