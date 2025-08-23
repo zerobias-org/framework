@@ -1,0 +1,39 @@
+id: ad8b4ee3-4b70-4b92-b8f5-7e5b0f7fbe84
+name: Automated Tools to Support Information Location
+description: Automated mechanisms exist to identify by data classification type to ensure adequate cybersecurity & data privacy controls are in place to protect organizational information and individual data privacy.
+elementType: enhancement
+externalId: DCH-24.1
+parent: dch-24
+controlQuestion: Does the organization use automated mechanisms to identify by data classification type to ensure adequate cybersecurity & data privacy controls are in place to protect organizational information and individual data privacy?
+functionGrouping: Identify
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 19834d35-ce4f-4b7a-ae31-545bfca7a53d
+name: Physical Diagnostic & Test Interfaces
+description: Mechanisms exist to secure physical diagnostic and test interfaces to prevent misuse.
+elementType: enhancement
+externalId: TDA-05.1
+parent: tda-05
+controlQuestion: Does the organization secure physical diagnostic and test interfaces to prevent misuse?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

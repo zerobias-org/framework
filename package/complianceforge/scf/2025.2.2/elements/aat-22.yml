@@ -1,0 +1,39 @@
+id: b41228bc-52af-40fc-9a77-c9c0bab0f60f
+name: AI & Autonomous Technologies Deployment
+description: Mechanisms exist to ensure the deployment of Artificial Intelligence (AI) and Autonomous Technologies (AAT) includes appropriate technical and organizational measures so that AAT are used in accordance with the AAT developer-provided instructions for use.
+elementType: control
+externalId: AAT-22
+parent: aat
+controlQuestion: Does the organization ensure the deployment of Artificial Intelligence (AI) and Autonomous Technologies (AAT) includes appropriate technical and organizational measures so that AAT are used in accordance with the AAT developer-provided instructions for use?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

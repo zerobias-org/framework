@@ -1,0 +1,39 @@
+id: 7a2c05c9-19cd-425e-9577-cb0adbc55f23
+name: In-Person Validation & Verification
+description: Mechanisms exist to require that the validation and verification of identity evidence be conducted in person before a designated registration authority.
+elementType: enhancement
+externalId: IAC-28.4
+parent: iac-28
+controlQuestion: Does the organization require that the validation and verification of identity evidence be conducted in person before a designated registration authority?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

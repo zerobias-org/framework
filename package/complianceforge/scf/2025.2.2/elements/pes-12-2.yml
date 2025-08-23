@@ -1,0 +1,39 @@
+id: 495c5bb0-536a-4205-a191-51ba942e122c
+name: Access Control for Output Devices
+description: Physical security mechanisms exist to restrict access to printers and other system output devices to prevent unauthorized individuals from obtaining the output.
+elementType: enhancement
+externalId: PES-12.2
+parent: pes-12
+controlQuestion: Does the organization restrict access to printers and other system output devices to prevent unauthorized individuals from obtaining the output?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

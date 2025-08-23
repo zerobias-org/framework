@@ -1,0 +1,39 @@
+id: 48b28ca0-474d-4205-9c83-f9bcb920976e
+name: AI & Autonomous Technologies Data Relevance
+description: Mechanisms exist to ensure the input to Artificial Intelligence (AI) and Autonomous Technologies (AAT) is relevant to the intended purpose of the AAT.
+elementType: enhancement
+externalId: AAT-22.5
+parent: aat-22
+controlQuestion: Does the organization ensure the input to Artificial Intelligence (AI) and Autonomous Technologies (AAT) is relevant to the intended purpose of the AAT?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

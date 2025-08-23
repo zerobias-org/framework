@@ -1,0 +1,39 @@
+id: a6b9ee19-ef4f-4c25-aeb5-1dacba89be9c
+name: AI & Autonomous Technologies Human Oversight
+description: "Mechanisms exist to assign human oversight of Artificial Intelligence (AI) and Autonomous Technologies (AAT) to prevent or minimize the risks to:\r\n(1) Health; \r\n(2) Safety; and/or \r\n(3) Fundamental rights."
+elementType: enhancement
+externalId: AAT-22.1
+parent: aat-22
+controlQuestion: "Does the organization assign human oversight of Artificial Intelligence (AI) and Autonomous Technologies (AAT) to prevent or minimize the risks to:\r\n(1) Health; \r\n(2) Safety; and/or \r\n(3) Fundamental rights?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

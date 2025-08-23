@@ -1,0 +1,39 @@
+id: 74fb9a93-7acc-4404-80f8-8e02bef52b19
+name: Audit Activities
+description: Mechanisms exist to thoughtfully plan audits by including input from operational risk and compliance partners to minimize the impact of audit-related activities on business operations.
+elementType: control
+externalId: CPL-04
+parent: cpl
+controlQuestion: Does the organization thoughtfully plan audits by including input from operational risk and compliance partners to minimize the impact of audit-related activities on business operations?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
