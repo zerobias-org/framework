@@ -1,0 +1,39 @@
+id: 4ec5fe24-c7d8-4f24-a738-3bc41c82efa4
+name: AI TEVV Comparable Deployment Settings
+description: Mechanisms exist to evaluate Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related performance or the assurance criteria demonstrated for conditions similar to deployment settings.
+elementType: enhancement
+externalId: AAT-10.12
+parent: aat-10
+controlQuestion: Does the organization evaluate Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related performance or the assurance criteria demonstrated for conditions similar to deployment settings?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

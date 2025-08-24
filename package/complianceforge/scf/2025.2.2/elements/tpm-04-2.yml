@@ -1,0 +1,39 @@
+id: d62c9dc1-0bc5-4744-8cb8-f11160d86021
+name: External Connectivity Requirements - Identification of Ports, Protocols & Services
+description: Mechanisms exist to require External Service Providers (ESPs) to identify and document the business need for ports, protocols and other services it requires to operate its processes and technologies.
+elementType: enhancement
+externalId: TPM-04.2
+parent: tpm-04
+controlQuestion: Does the organization require External Service Providers (ESPs) to identify and document the business need for ports, protocols and other services it requires to operate its processes and technologies?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

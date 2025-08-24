@@ -1,0 +1,39 @@
+id: bb2e219c-8231-4bd4-810f-ce85c24f0c35
+name: Centralized Collection of Security Event Logs
+description: Mechanisms exist to utilize a Security Incident Event Manager (SIEM), or similar automated tool, to support the centralized collection of security-related event logs.
+elementType: control
+externalId: MON-02
+parent: mon
+controlQuestion: Does the organization utilize a Security Incident Event Manager (SIEM) or similar automated tool, to support the centralized collection of security-related event logs?
+functionGrouping: Detect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

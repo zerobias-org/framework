@@ -1,0 +1,39 @@
+id: 40a3c361-b159-4432-bc95-8da827947786
+name: Asset Governance
+description: Mechanisms exist to facilitate an IT Asset Management (ITAM) program to implement and manage asset management controls.
+elementType: control
+externalId: AST-01
+parent: ast
+controlQuestion: Does the organization facilitate an IT Asset Management (ITAM) program to implement and manage asset management controls?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

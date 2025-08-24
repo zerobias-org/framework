@@ -1,0 +1,39 @@
+id: 56c555e7-608b-4767-9463-783c12ef1522
+name: AI TEVV Model Collapse Mitigations
+description: "Mechanisms exist to mitigate concerns of model collapse by:\r\n(1) Assessing the proportion of synthetic to non-synthetic training data; and\r\n(2) Verifying training data is not overly homogenous or Artificial Intelligence (AI) and Autonomous Technologies (AAT) system-produced."
+elementType: enhancement
+externalId: AAT-10.18
+parent: aat-10
+controlQuestion: "Does the organization mitigate concerns of model collapse by:\r\n(1) Assessing the proportion of synthetic to non-synthetic training data; and\r\n(2) Verifying training data is not overly homogenous or Artificial Intelligence (AI) and Autonomous Technologies (AAT) system-produced?"
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
