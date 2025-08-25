@@ -1,0 +1,39 @@
+id: d6c4d92f-d667-4783-88ec-05f46bad1853
+name: Prevent Program Execution
+description: Automated mechanisms exist to prevent the execution of unauthorized software programs.
+elementType: control
+externalId: SEA-06
+parent: sea
+controlQuestion: Does the organization use automated mechanisms to prevent the execution of unauthorized software programs?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

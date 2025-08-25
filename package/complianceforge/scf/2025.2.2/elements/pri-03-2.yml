@@ -1,0 +1,39 @@
+id: c31f648c-5ff4-4363-9798-a18b06df22d4
+name: Just-In-Time Notice & Updated Consent
+description: "Mechanisms exist to present data subjects with a new or updated consent request to process, store and/or share Personal Data (PD) in conjunction with the data action, when:\r\n(1) The original circumstances under which an individual gave consent have changed; or\r\n(2) A significant amount of time has passed since an individual gave consent."
+elementType: enhancement
+externalId: PRI-03.2
+parent: pri-03
+controlQuestion: "Does the organization present data subjects with a new or updated consent request to process, store and/or share Personal Data (PD) in conjunction with the data action, when:\r\n (1) The original circumstances under which an individual gave consent have changed; or\r\n (2) A significant amount of time has passed since an individual gave consent/"
+functionGrouping: Identify
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

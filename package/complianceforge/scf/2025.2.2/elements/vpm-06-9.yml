@@ -1,0 +1,39 @@
+id: b7ad0e78-10d6-458f-932c-49dc164e0490
+name: Correlate Scanning Information
+description: Automated mechanisms exist to correlate the output from vulnerability scanning tools to determine the presence of multi-vulnerability/multi-hop attack vectors.
+elementType: enhancement
+externalId: VPM-06.9
+parent: vpm-06
+controlQuestion: Does the organization use automated mechanisms to correlate the output from vulnerability scanning tools to determine the presence of multi-vulnerability/multi-hop attack vectors?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

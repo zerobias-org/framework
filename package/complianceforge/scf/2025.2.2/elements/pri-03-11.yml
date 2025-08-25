@@ -1,0 +1,39 @@
+id: dceaffe3-e18f-4dfe-894d-4144c0288d2b
+name: Communicating Processing Changes
+description: "Mechanisms exist to notify data subjects of processing changes affecting their Personal Data (PD), including:\r\n(1) Erasure of PD;\r\n(2) Remediation of incorrect PD; and/or\r\n(3) Processing restrictions affecting their PD."
+elementType: enhancement
+externalId: PRI-03.11
+parent: pri-03
+controlQuestion: "Does the organization notify data subjects of processing changes affecting their Personal Data (PD), including:\r\n (1) Erasure of PD;\r\n (2) Remediation of incorrect PD; and/or\r\n (3) Processing restrictions affecting their PD?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

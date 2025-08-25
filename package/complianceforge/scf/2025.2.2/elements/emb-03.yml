@@ -1,0 +1,39 @@
+id: 8f2680bb-6255-480a-a8f1-0991129756e0
+name: Operational Technology (OT)
+description: Mechanisms exist to proactively manage the cybersecurity & data privacy risks associated with Operational Technology (OT).
+elementType: control
+externalId: EMB-03
+parent: emb
+controlQuestion: Does the organization proactively manage the cybersecurity & data privacy risks associated with Operational Technology (OT)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

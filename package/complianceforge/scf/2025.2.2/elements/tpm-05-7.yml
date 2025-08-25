@@ -1,0 +1,39 @@
+id: 3cb81d9a-d4b7-4079-8537-cad66ef053d6
+name: Break Clauses
+description: Mechanisms exist to include "break clauses" within contracts for failure to meet contract criteria for cybersecurity and/or data privacy controls.
+elementType: enhancement
+externalId: TPM-05.7
+parent: tpm-05
+controlQuestion: Does the organization include "break clauses" within contracts for failure to meet contract criteria for cybersecurity and/or data privacy controls?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 17e53784-a2d5-4743-b48a-cc628e0d4367
+name: Analyze Traffic for Covert Exfiltration
+description: Automated mechanisms exist to analyze network traffic to detect covert data exfiltration.
+elementType: enhancement
+externalId: MON-11.1
+parent: mon-11
+controlQuestion: Does the organization use automated mechanisms to analyze network traffic to detect covert data exfiltration?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
