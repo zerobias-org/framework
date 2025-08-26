@@ -1,0 +1,39 @@
+id: f56fc567-3ff2-445c-934f-ec9ee2eafbf7
+name: Dual Authorization for Privileged Commands
+description: Automated mechanisms exist to enforce dual authorization for privileged commands.
+elementType: enhancement
+externalId: IAC-20.5
+parent: iac-20
+controlQuestion: Does the organization use automated mechanisms to enforce dual authorization for privileged commands?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

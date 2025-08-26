@@ -1,0 +1,39 @@
+id: f824cf39-04fc-4351-89a6-79dd8217b996
+name: Regional Delivery
+description: Mechanisms exist to support operations that are geographically dispersed via regional delivery of technological services.
+elementType: control
+externalId: CAP-06
+parent: cap
+controlQuestion: Does the organization support operations that are geographically dispersed via regional delivery of technological services?
+functionGrouping: Govern
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

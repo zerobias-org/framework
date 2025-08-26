@@ -1,0 +1,39 @@
+id: c9e3347e-0ae8-4bd2-9e45-1dd8e190d741
+name: Adequate Supply
+description: Mechanisms exist to develop and implement a spare parts strategy to ensure that an adequate supply of critical components is available to meet operational needs.
+elementType: enhancement
+externalId: TPM-03.4
+parent: tpm-03
+controlQuestion: Does the organization develop and implement a spare parts strategy to ensure that an adequate supply of critical components is available to meet operational needs?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

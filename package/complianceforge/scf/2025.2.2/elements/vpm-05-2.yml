@@ -1,0 +1,39 @@
+id: c89645a5-4fc0-427e-bfd8-35de8d5d36d8
+name: Automated Remediation Status
+description: Automated mechanisms exist to determine the state of system components with regard to flaw remediation.
+elementType: enhancement
+externalId: VPM-05.2
+parent: vpm-05
+controlQuestion: Does the organization use automated mechanisms to determine the state of system components with regard to flaw remediation?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

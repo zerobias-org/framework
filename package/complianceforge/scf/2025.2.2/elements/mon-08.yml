@@ -1,0 +1,39 @@
+id: 2c056a1a-76a6-4d96-9754-0b682dfebf5d
+name: Protection of Event Logs
+description: Mechanisms exist to protect event logs and audit tools from unauthorized access, modification and deletion.
+elementType: control
+externalId: MON-08
+parent: mon
+controlQuestion: Does the organization protect event logs and audit tools from unauthorized access, modification and deletion?
+functionGrouping: Detect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

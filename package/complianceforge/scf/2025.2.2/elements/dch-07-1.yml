@@ -1,0 +1,39 @@
+id: daf48019-b858-4d09-814b-a242c0ec433b
+name: Custodians
+description: Mechanisms exist to identify custodians throughout the transport of digital or non-digital media.
+elementType: enhancement
+externalId: DCH-07.1
+parent: dch-07
+controlQuestion: Does the organization identify custodians throughout the transport of digital or non-digital media?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

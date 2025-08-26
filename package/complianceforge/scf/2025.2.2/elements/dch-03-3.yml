@@ -1,0 +1,39 @@
+id: 46f2810d-d2d3-4049-b00c-c3b4a1f2b1ce
+name: Controlled Release
+description: Automated mechanisms exist to validate cybersecurity & data privacy attributes prior to releasing information to external systems.
+elementType: enhancement
+externalId: DCH-03.3
+parent: dch-03
+controlQuestion: Does the organization use automated mechanisms to validate cybersecurity & data privacy attributes prior to releasing information to external systems?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

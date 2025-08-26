@@ -1,0 +1,39 @@
+id: 47af065d-8fde-4ae7-add2-ecd96774493a
+name: Covert Channel Analysis
+description: Mechanisms exist to conduct covert channel analysis to identify aspects of communications that are potential avenues for covert channels.
+elementType: control
+externalId: MON-15
+parent: mon
+controlQuestion: Does the organization conduct covert channel analysis to identify aspects of communications that are potential avenues for covert channels?
+functionGrouping: Detect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

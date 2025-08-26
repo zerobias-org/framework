@@ -1,0 +1,39 @@
+id: 4d6cf547-ad59-4060-9acc-aa4d6030d08e
+name: Content Check for Encrypted Data
+description: Mechanisms exist to prevent encrypted data from bypassing content-checking mechanisms.
+elementType: enhancement
+externalId: NET-04.3
+parent: net-04
+controlQuestion: Does the organization prevent encrypted data from bypassing content-checking mechanisms?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

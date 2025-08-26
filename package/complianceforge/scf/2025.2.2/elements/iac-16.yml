@@ -1,0 +1,39 @@
+id: 3ab66641-edd5-40e2-86e6-5245f5977610
+name: Privileged Account Management (PAM)
+description: Mechanisms exist to restrict and control privileged access rights for users and services.
+elementType: control
+externalId: IAC-16
+parent: iac
+controlQuestion: Does the organization restrict and control privileged access rights for users and services?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
