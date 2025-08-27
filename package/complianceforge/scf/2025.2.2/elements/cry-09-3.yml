@@ -1,0 +1,39 @@
+id: c0ff7343-2f4e-493a-a6d8-0a1145ea7c15
+name: Cryptographic Key Loss or Change
+description: Mechanisms exist to ensure the availability of information in the event of the loss of cryptographic keys by individual users.
+elementType: enhancement
+externalId: CRY-09.3
+parent: cry-09
+controlQuestion: Does the organization ensure the availability of information in the event of the loss of cryptographic keys by individual users?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

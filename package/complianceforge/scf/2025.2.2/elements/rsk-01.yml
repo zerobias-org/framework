@@ -1,0 +1,39 @@
+id: ce891dd2-8433-4cc3-b36f-bde97f547d02
+name: Risk Management Program
+description: Mechanisms exist to facilitate the implementation of strategic, operational and tactical risk management controls.
+elementType: control
+externalId: RSK-01
+parent: rsk
+controlQuestion: Does the organization facilitate the implementation of strategic, operational and tactical risk management controls?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

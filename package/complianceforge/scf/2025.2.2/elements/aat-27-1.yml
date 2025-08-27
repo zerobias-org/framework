@@ -1,0 +1,39 @@
+id: 5675ae65-6104-4da1-a592-c0552bb87c8f
+name: Human Moderation
+description: Mechanisms exist to assign personnel to review Artificial Intelligence (AI) and Autonomous Technologies (AAT)-generated content for alignment with culturally accepted norms.
+elementType: enhancement
+externalId: AAT-27.1
+parent: aat-27
+controlQuestion: Does the organization assign personnel to review Artificial Intelligence (AI) and Autonomous Technologies (AAT)-generated content for alignment with culturally accepted norms?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

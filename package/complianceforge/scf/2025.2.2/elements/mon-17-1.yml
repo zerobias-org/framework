@@ -1,0 +1,39 @@
+id: 68cc9360-5037-4caf-9fa1-adfae6f77ce6
+name: Event Log Review Escalation Matrix
+description: Mechanisms exist to make event log review processes more efficient and effective by developing and maintaining an incident response escalation matrix.
+elementType: enhancement
+externalId: MON-17.1
+parent: mon-17
+controlQuestion: Does the organization make event log review processes more efficient and effective by developing and maintaining an incident response escalation matrix?
+functionGrouping: Detect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 7dcc837f-a429-4d0a-99fe-f00ff689c63e
+name: Review Historical event logs
+description: Mechanisms exist to review historical event logs to determine if identified vulnerabilities have been previously exploited.
+elementType: enhancement
+externalId: VPM-06.5
+parent: vpm-06
+controlQuestion: Does the organization review historical event logs to determine if identified vulnerabilities have been previously exploited?
+functionGrouping: Detect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
