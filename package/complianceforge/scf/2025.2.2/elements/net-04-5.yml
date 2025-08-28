@@ -1,0 +1,39 @@
+id: bb0d2864-dd76-40ba-b25d-03b280bd8d04
+name: Metadata
+description: Mechanisms exist to enforce information flow controls based on metadata.
+elementType: enhancement
+externalId: NET-04.5
+parent: net-04
+controlQuestion: Does the organization enforce information flow controls based on metadata?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

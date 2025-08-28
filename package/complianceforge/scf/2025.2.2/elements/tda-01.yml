@@ -1,0 +1,39 @@
+id: 0fa8a1cf-eb20-4efd-a25f-861a47c47f93
+name: Technology Development & Acquisition
+description: Mechanisms exist to facilitate the implementation of tailored development and acquisition strategies, contract tools and procurement methods to meet unique business needs.
+elementType: control
+externalId: TDA-01
+parent: tda
+controlQuestion: Does the organization facilitate the implementation of tailored development and acquisition strategies, contract tools and procurement methods to meet unique business needs?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

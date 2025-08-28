@@ -1,0 +1,39 @@
+id: c5cdc5ec-ffb0-441d-8e4c-37236f68c961
+name: Software Firewall
+description: Mechanisms exist to utilize host-based firewall software, or a similar technology, on all information systems, where technically feasible.
+elementType: control
+externalId: END-05
+parent: end
+controlQuestion: Does the organization utilize host-based firewall software, or a similar technology, on all information systems, where technically feasible?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

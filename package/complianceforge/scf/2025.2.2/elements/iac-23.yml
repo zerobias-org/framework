@@ -1,0 +1,39 @@
+id: 9ba14a56-df3e-48b2-b631-e6ada7dc183d
+name: Concurrent Session Control
+description: Mechanisms exist to limit the number of concurrent sessions for each system account.
+elementType: control
+externalId: IAC-23
+parent: iac
+controlQuestion: Does the organization limit the number of concurrent sessions for each system account?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

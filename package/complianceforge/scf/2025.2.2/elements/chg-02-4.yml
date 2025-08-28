@@ -1,0 +1,39 @@
+id: ec8a9f57-1312-4301-954e-698d00f1de37
+name: Automated Security Response
+description: Automated mechanisms exist to implement remediation actions upon the detection of unauthorized baseline configurations change(s).
+elementType: enhancement
+externalId: CHG-02.4
+parent: chg-02
+controlQuestion: Does the organization use automated mechanisms to implement remediation actions upon the detection of unauthorized baseline configurations change(s)?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

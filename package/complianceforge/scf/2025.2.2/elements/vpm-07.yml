@@ -1,0 +1,39 @@
+id: 14b4563f-9b2d-42ef-9fd7-49b818bbd184
+name: Penetration Testing
+description: Mechanisms exist to conduct penetration testing on systems and web applications.
+elementType: control
+externalId: VPM-07
+parent: vpm
+controlQuestion: Does the organization conduct penetration testing on systems and web applications?
+functionGrouping: Detect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

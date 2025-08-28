@@ -1,0 +1,39 @@
+id: 05cb2b4b-c658-4733-a4db-73edbf65d803
+name: Automatic Voltage Controls
+description: Facility security mechanisms exist to utilize automatic voltage controls for critical system components.
+elementType: enhancement
+externalId: PES-07.1
+parent: pes-07
+controlQuestion: Does the organization utilize automatic voltage controls for critical system components?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
