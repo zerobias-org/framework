@@ -1,0 +1,39 @@
+id: 7701b195-1efb-4fa9-8724-882e3d395fb5
+name: Maintenance Tools
+description: Mechanisms exist to control and monitor the use of system maintenance tools.
+elementType: control
+externalId: MNT-04
+parent: mnt
+controlQuestion: Does the organization control and monitor the use of system maintenance tools?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

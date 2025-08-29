@@ -1,0 +1,39 @@
+id: 4de6fffe-db1b-4c66-a8c7-907789759806
+name: Non-Compliance Oversight
+description: Mechanisms exist to document and review instances of non-compliance with statutory, regulatory and/or contractual obligations to develop appropriate risk mitigation actions.
+elementType: enhancement
+externalId: CPL-01.1
+parent: cpl-01
+controlQuestion: Does the organization document and review instances of non-compliance with statutory, regulatory and/or contractual obligations to develop appropriate risk mitigation actions?
+functionGrouping: Respond
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

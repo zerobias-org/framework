@@ -1,0 +1,39 @@
+id: b3efc254-0c46-4d2d-b8f4-2d91270b03b0
+name: Privacy Act Statements
+description: "Mechanisms exist to provide additional formal notice to individuals from whom the information is being collected that includes:\r\n(1) Notice of the authority of organizations to collect Personal Data (PD); \r\n(2) Whether providing PD is mandatory or optional; \r\n(3) The principal purpose or purposes for which the PD is to be used; \r\n(4) The intended disclosures or routine uses of the information; and \r\n(5) The consequences of not providing all or some portion of the information requested."
+elementType: enhancement
+externalId: PRI-01.2
+parent: pri-01
+controlQuestion: "Does the organization provide additional formal notice to individuals from whom the information is being collected that includes:\r\n (1) Notice of the authority of organizations to collect Personal Data (PD); \r\n (2) Whether providing PD is mandatory or optional; \r\n (3) The principal purpose or purposes for which the PD is to be used; \r\n (4) The intended disclosures or routine uses of the information; and \r\n (5) The consequences of not providing all or some portion of the information requested?"
+functionGrouping: Identify
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: bc4a3727-52a4-4851-bc9f-d9bdb3d52bb0
+name: End-User Messaging Technologies
+description: Mechanisms exist to prohibit the transmission of unprotected sensitive/regulated data by end-user messaging technologies.
+elementType: enhancement
+externalId: NET-12.2
+parent: net-12
+controlQuestion: Does the organization prohibit the transmission of unprotected sensitive/regulated data by end-user messaging technologies?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

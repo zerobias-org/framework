@@ -1,0 +1,39 @@
+id: 0d47b3fa-165d-4114-98f6-47857e496708
+name: Use of Cryptographic Controls
+description: Mechanisms exist to facilitate the implementation of cryptographic protections controls using known public standards and trusted cryptographic technologies.
+elementType: control
+externalId: CRY-01
+parent: cry
+controlQuestion: Does the organization facilitate the implementation of cryptographic protections controls using known public standards and trusted cryptographic technologies?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

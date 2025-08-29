@@ -1,0 +1,39 @@
+id: 345ea005-1d3b-4662-ad55-9bd5965c06b5
+name: Technology Use Restrictions
+description: Mechanisms exist to establish usage restrictions and implementation guidance for organizational technologies based on the potential to cause damage to systems, if used maliciously.
+elementType: enhancement
+externalId: HRS-05.3
+parent: hrs-05
+controlQuestion: Does the organization establish usage restrictions and implementation guidance for communications technologies based on the potential to cause damage to systems, if used maliciously?
+functionGrouping: Identify
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

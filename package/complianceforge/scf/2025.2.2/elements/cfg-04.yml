@@ -1,0 +1,39 @@
+id: db6856c5-0a21-4c1b-8116-86dafbe221f3
+name: Software Usage Restrictions
+description: Mechanisms exist to enforce software usage restrictions to comply with applicable contract agreements and copyright laws.
+elementType: control
+externalId: CFG-04
+parent: cfg
+controlQuestion: Does the organization enforce software usage restrictions to comply with applicable contract agreements and copyright laws?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

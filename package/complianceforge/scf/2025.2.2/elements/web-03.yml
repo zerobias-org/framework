@@ -1,0 +1,39 @@
+id: 509b5b7f-b255-49fc-94c2-3e3a6944c9c6
+name: Web Application Firewall (WAF)
+description: Mechanisms exist to deploy Web Application Firewalls (WAFs) to provide defense-in-depth protection for application-specific threats.
+elementType: control
+externalId: WEB-03
+parent: web
+controlQuestion: Does the organization deploy Web Application Firewalls (WAFs) to provide defense-in-depth protection for application-specific threats?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
