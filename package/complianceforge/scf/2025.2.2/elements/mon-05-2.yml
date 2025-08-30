@@ -1,0 +1,39 @@
+id: 6331a81f-764a-4112-91d2-af514b76eb29
+name: Event Log Storage Capacity Alerting
+description: Automated mechanisms exist to alert appropriate personnel when the allocated volume reaches an organization-defined percentage of maximum event log storage capacity.
+elementType: enhancement
+externalId: MON-05.2
+parent: mon-05
+controlQuestion: Does the organization use automated mechanisms to alert appropriate personnel when the allocated volume reaches an organization-defined percentage of maximum event log storage capacity?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

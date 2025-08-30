@@ -1,0 +1,39 @@
+id: e646152d-8d42-4f8a-b767-25fea341f370
+name: Automated Response to Suspicious Events
+description: Mechanisms exist to automatically implement pre-determined corrective actions in response to detected events that have security incident implications.
+elementType: enhancement
+externalId: MON-01.11
+parent: mon-01
+controlQuestion: Does the organization automatically implement pre-determined corrective actions in response to detected events that have security incident implications?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

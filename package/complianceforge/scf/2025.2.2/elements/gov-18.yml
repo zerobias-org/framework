@@ -1,0 +1,39 @@
+id: a1a560bf-c643-4f06-994c-9fbf3e5f2886
+name: Quality Management System (QMS)
+description: Mechanisms exist to govern a Quality Management System (QMS) to ensure cybersecurity and data protection processes conform with applicable statutory, regulatory and/or contractual obligations.
+elementType: control
+externalId: GOV-18
+parent: gov
+controlQuestion: Does the organization govern a Quality Management System (QMS) to ensure cybersecurity and data protection processes conform with applicable statutory, regulatory and/or contractual obligations?
+functionGrouping: Govern
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

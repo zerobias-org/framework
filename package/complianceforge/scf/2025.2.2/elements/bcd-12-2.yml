@@ -1,0 +1,39 @@
+id: 3662963e-963b-4c5f-9759-77657838237c
+name: Failover Capability
+description: Mechanisms exist to implement real-time or near-real-time failover capability to maintain availability of critical systems, applications and/or services.
+elementType: enhancement
+externalId: BCD-12.2
+parent: bcd-12
+controlQuestion: Does the organization implement real-time or near-real-time failover capability to maintain availability of critical systems, applications and/or services?
+functionGrouping: Recover
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

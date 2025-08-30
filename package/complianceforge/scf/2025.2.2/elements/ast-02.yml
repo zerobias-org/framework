@@ -1,0 +1,39 @@
+id: 3c9118ab-cb58-444b-9cd0-73560cf56711
+name: Asset Inventories
+description: "Mechanisms exist to perform inventories of technology assets that:\r\n(1) Accurately reflects the current systems, applications and services in use; \r\n(2) Identifies authorized software products, including business justification details;\r\n(3) Is at the level of granularity deemed necessary for tracking and reporting;\r\n(4) Includes organization-defined information deemed necessary to achieve effective property accountability; and\r\n(5) Is available for review and audit by designated organizational personnel."
+elementType: control
+externalId: AST-02
+parent: ast
+controlQuestion: "Does the organization perform inventories of technology assets that:\r\n (1) Accurately reflects the current systems, applications and services in use; \r\n (2) Identifies authorized software products, including business justification details;\r\n (3) Is at the level of granularity deemed necessary for tracking and reporting;\r\n (4) Includes organization-defined information deemed necessary to achieve effective property accountability; and\r\n (5) Is available for review and audit by designated organizational personnel?"
+functionGrouping: Identify
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

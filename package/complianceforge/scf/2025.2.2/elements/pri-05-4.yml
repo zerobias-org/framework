@@ -1,0 +1,39 @@
+id: 72710de0-9136-4b8e-bf23-056636dee084
+name: Usage Restrictions of Personal Data (PD)
+description: "Mechanisms exist to restrict collecting, receiving, processing, storing, transmitting, updating and/or sharing Personal Data (PD) to:\r\n(1) The purpose(s) originally collected, consistent with the data privacy notice(s);\r\n(2) What is authorized by the data subject, or authorized agent; and\r\n(3) What is consistent with applicable laws, regulations and contractual obligations."
+elementType: enhancement
+externalId: PRI-05.4
+parent: pri-05
+controlQuestion: "Does the organization restrict collecting, receiving, processing, storing, transmitting, updating and/or sharing Personal Data (PD) to:\r\n (1) The purpose(s) originally collected, consistent with the data privacy notice(s);\r\n (2) What is authorized by the data subject, or authorized agent; and\r\n (3) What is consistent with applicable laws, regulations and contractual obligations?"
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

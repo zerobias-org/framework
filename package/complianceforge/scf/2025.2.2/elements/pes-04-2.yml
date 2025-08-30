@@ -1,0 +1,39 @@
+id: 966340e1-7cb3-4a4d-875f-e1c86c14b788
+name: Searches
+description: Physical access control mechanisms exist to inspect personnel and their personal effects (e.g., personal property ordinarily worn or carried by the individual, including vehicles) to prevent the unauthorized exfiltration of data and technology assets.
+elementType: enhancement
+externalId: PES-04.2
+parent: pes-04
+controlQuestion: Does the organization inspect personnel and their personal effects (e.g., personal property ordinarily worn or carried by the individual, including vehicles) to prevent the unauthorized exfiltration of data and technology assets?
+functionGrouping: Detect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

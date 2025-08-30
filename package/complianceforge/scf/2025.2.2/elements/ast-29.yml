@@ -1,0 +1,39 @@
+id: 087c497c-3a0e-40c4-a932-8242aa336292
+name: Radio Frequency Identification (RFID) Security
+description: Mechanisms exist to securely govern Radio Frequency Identification (RFID) deployments to ensure RFID is used safely and securely to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.
+elementType: control
+externalId: AST-29
+parent: ast
+controlQuestion: Does the organization securely govern Radio Frequency Identification (RFID) deployments to ensure RFID is used safely and securely to protect the confidentiality and integrity of data and prevent the compromise of secure spaces?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

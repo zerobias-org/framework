@@ -1,0 +1,39 @@
+id: cc60163f-5624-4676-bdd5-64b19e457661
+name: Elastic Expansion
+description: Mechanisms exist to automatically scale the resources available for services, as demand conditions change.
+elementType: control
+externalId: CAP-05
+parent: cap
+controlQuestion: Does the organization automatically scale the resources available for services, as demand conditions change?
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

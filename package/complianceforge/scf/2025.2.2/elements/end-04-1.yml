@@ -1,0 +1,39 @@
+id: eb217c9d-6753-4bfd-bdbe-8272521705ec
+name: Automatic Antimalware Signature Updates
+description: Mechanisms exist to automatically update antimalware technologies, including signature definitions.
+elementType: enhancement
+externalId: END-04.1
+parent: end-04
+controlQuestion: Does the organization automatically update antimalware technologies, including signature definitions?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

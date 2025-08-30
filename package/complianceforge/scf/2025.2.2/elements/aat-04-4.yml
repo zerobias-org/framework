@@ -1,0 +1,39 @@
+id: 14faec3e-07e1-42c7-a65d-28b95e777a83
+name: AI & Autonomous Technologies Cost / Benefit Mapping
+description: Mechanisms exist to map risks and benefits for all components of Artificial Intelligence (AI) and Autonomous Technologies (AAT), including third-party software and data.
+elementType: enhancement
+externalId: AAT-04.4
+parent: aat-04
+controlQuestion: Does the organization map risks and benefits for all components of Artificial Intelligence (AI) and Autonomous Technologies (AAT), including third-party software and data?
+functionGrouping: Identify
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

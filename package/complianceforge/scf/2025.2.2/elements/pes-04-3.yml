@@ -1,0 +1,39 @@
+id: ddbb352a-0e92-43a9-851e-ad7bb3e6198b
+name: Temporary Storage
+description: Physical access control mechanisms exist to temporarily store undelivered packages or deliveries in a dedicated, secure area (e.g., security cage, secure room) that is locked, access-controlled and monitored with surveillance cameras and/or security guards.
+elementType: enhancement
+externalId: PES-04.3
+parent: pes-04
+controlQuestion: Does the organization temporarily store undelivered packages or deliveries in a dedicated, secure area (e.g., security cage, secure room) that is locked, access-controlled and monitored with surveillance cameras and/or security guards?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

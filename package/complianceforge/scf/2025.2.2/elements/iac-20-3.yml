@@ -1,0 +1,39 @@
+id: f7429d8e-e9a4-4d2a-a10a-7c0d36ce878f
+name: Use of Privileged Utility Programs
+description: Mechanisms exist to restrict and tightly control utility programs that are capable of overriding system and application controls.
+elementType: enhancement
+externalId: IAC-20.3
+parent: iac-20
+controlQuestion: Does the organization restrict and tightly control utility programs that are capable of overriding system and application controls?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

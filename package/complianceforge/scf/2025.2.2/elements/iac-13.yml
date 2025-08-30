@@ -1,0 +1,39 @@
+id: 2a88b67f-5ca1-4761-86c2-e95812c9ab42
+name: Adaptive Identification & Authentication
+description: Mechanisms exist to allow individuals to utilize alternative methods of authentication under specific circumstances or situations.
+elementType: control
+externalId: IAC-13
+parent: iac
+controlQuestion: Does the organization allow individuals to utilize alternative methods of authentication under specific circumstances or situations?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

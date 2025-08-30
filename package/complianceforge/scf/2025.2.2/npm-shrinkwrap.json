@@ -1,0 +1,17 @@
+{
+  "name": "@zerobias-org/framework-complianceforge-scf-2025.2.2",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-complianceforge-scf-2025.2.2",
+      "version": "1.0.0",
+      "license": "MIT",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}
