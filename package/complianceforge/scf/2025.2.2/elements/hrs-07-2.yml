@@ -1,0 +1,39 @@
+id: e09a219a-4d9d-402d-bae7-c0386d7159ea
+name: Updating Disciplinary Processes
+description: "Mechanisms exist to periodically review and, where appropriate, update disciplinary practices due to:\r\n(1) Legal changes;\r\n(2) Significant changes to operations; and\r\n(3) Applicable threats and risks."
+elementType: enhancement
+externalId: HRS-07.2
+parent: hrs-07
+controlQuestion: "Does the organization periodically review and, where appropriate, update disciplinary practices due to:\r\n(1) Legal changes;\r\n(2) Significant changes to operations; and\r\n(3) Applicable threats and risks?"
+functionGrouping: Identify
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

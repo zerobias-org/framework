@@ -1,0 +1,39 @@
+id: 161aa02a-fbb0-4a50-b3c4-ac2828aca078
+name: Adaptive Email Protections
+description: Mechanisms exist to utilize adaptive email protections that involve employing risk-based analysis in the application and enforcement of email protections.
+elementType: enhancement
+externalId: NET-20.7
+parent: net-20
+controlQuestion: Does the organization utilize adaptive email protections that involve employing risk-based analysis in the application and enforcement of email protections?
+functionGrouping: Protect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

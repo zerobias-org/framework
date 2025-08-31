@@ -1,0 +1,39 @@
+id: 09510c74-c55c-461e-9230-fe0405eecfa9
+name: Isolation of Information System Components
+description: Mechanisms exist to employ boundary protections to isolate systems, services and processes that support critical missions and/or business functions.
+elementType: enhancement
+externalId: NET-03.7
+parent: net-03
+controlQuestion: Does the organization employ boundary protections to isolate systems, services and processes that support critical missions and/or business functions?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

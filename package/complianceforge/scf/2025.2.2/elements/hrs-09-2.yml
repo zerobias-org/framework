@@ -1,0 +1,39 @@
+id: b9173c38-6ccd-4198-a87b-70fa7236e187
+name: High-Risk Terminations
+description: Mechanisms exist to expedite the process of removing "high risk" individual’s access to systems and applications upon termination, as determined by management.
+elementType: enhancement
+externalId: HRS-09.2
+parent: hrs-09
+controlQuestion: Does the organization expedite the process of removing "high risk" individual’s access to systems and applications upon termination, as determined by management?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

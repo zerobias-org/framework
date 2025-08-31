@@ -1,0 +1,39 @@
+id: 3da84f48-40ea-45ab-b684-2a50cba36f5c
+name: System-Wide / Time-Correlated Audit Trail
+description: Automated mechanisms exist to compile audit records into an organization-wide audit trail that is time-correlated.
+elementType: enhancement
+externalId: MON-02.7
+parent: mon-02
+controlQuestion: Does the organization use automated mechanisms to compile audit records into an organization-wide audit trail that is time-correlated?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

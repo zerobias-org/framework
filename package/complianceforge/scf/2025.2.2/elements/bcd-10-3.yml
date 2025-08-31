@@ -1,0 +1,39 @@
+id: d26eea9f-9092-47e6-b7a2-f90e5fbaabc2
+name: Provider Contingency Plan
+description: Mechanisms exist to contractually-require external service providers to have contingency plans that meet organizational contingency requirements.
+elementType: enhancement
+externalId: BCD-10.3
+parent: bcd-10
+controlQuestion: Does the organization contractually-require external service providers to have contingency plans that meet organizational contingency requirements?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

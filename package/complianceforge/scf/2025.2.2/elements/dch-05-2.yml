@@ -1,0 +1,39 @@
+id: 1191259a-65e9-4070-a412-62da65502d16
+name: Attribute Value Changes By Authorized Individuals
+description: Mechanisms exist to provide authorized individuals (or processes acting on behalf of individuals) the capability to define or change the value of associated cybersecurity & data privacy attributes.
+elementType: enhancement
+externalId: DCH-05.2
+parent: dch-05
+controlQuestion: Does the organization provide authorized individuals (or processes acting on behalf of individuals) the capability to define or change the value of associated cybersecurity & data privacy attributes?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

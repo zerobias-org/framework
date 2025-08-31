@@ -1,0 +1,39 @@
+id: 15f6c999-5c96-43a0-b597-d6941e0a113a
+name: Database Encryption
+description: Mechanisms exist to ensure that database servers utilize encryption to protect the confidentiality of the data within the databases.
+elementType: enhancement
+externalId: CRY-05.3
+parent: cry-05
+controlQuestion: Does the organization ensure that database servers utilize encryption to protect the confidentiality of the data within the databases?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
