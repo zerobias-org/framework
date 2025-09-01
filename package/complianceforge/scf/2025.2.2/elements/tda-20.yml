@@ -1,0 +1,39 @@
+id: 1631373a-df12-4fdf-9b64-f184c31a6df7
+name: Access to Program Source Code
+description: Mechanisms exist to limit privileges to change software resident within software libraries.
+elementType: control
+externalId: TDA-20
+parent: tda
+controlQuestion: Does the organization limit privileges to change software resident within software libraries?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

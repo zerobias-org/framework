@@ -1,0 +1,39 @@
+id: d0c35aa6-6180-4ed6-ba84-fcabd9e9d99d
+name: Decomposition Into Policy-Related Subcomponents
+description: Automated mechanisms exist to decompose information into policy-relevant subcomponents for submission to policy enforcement mechanisms, when transferring information between different security domains.
+elementType: enhancement
+externalId: NET-04.9
+parent: net-04
+controlQuestion: Does the organization use automated mechanisms to decompose information into policy-relevant subcomponents for submission to policy enforcement mechanisms, when transferring information between different security domains?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

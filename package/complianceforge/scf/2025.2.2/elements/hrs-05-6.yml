@@ -1,0 +1,39 @@
+id: c9c94a61-5dc2-4ac6-8470-a90439f40414
+name: Security-Minded Dress Code
+description: Mechanisms exist to prohibit the use of oversized clothing (e.g., baggy pants, oversized hooded sweatshirts, etc.) to prevent the unauthorized exfiltration of data and technology assets.
+elementType: enhancement
+externalId: HRS-05.6
+parent: hrs-05
+controlQuestion: Does the organization prohibit the use of oversized clothing (e.g., baggy pants, oversized hooded sweatshirts, etc.) to prevent the unauthorized exfiltration of data and technology assets?
+functionGrouping: Protect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

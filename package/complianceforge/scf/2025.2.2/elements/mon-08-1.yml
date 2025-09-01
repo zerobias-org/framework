@@ -1,0 +1,39 @@
+id: 510a5bd4-4606-4eb0-a4a0-ff3f581a8f57
+name: Event Log Backup on Separate Physical Systems / Components
+description: Mechanisms exist to back up event logs onto a physically different system or system component than the Security Incident Event Manager (SIEM) or similar automated tool.
+elementType: enhancement
+externalId: MON-08.1
+parent: mon-08
+controlQuestion: Does the organization back up event logs onto a physically different system or system component than the Security Incident Event Manager (SIEM) or similar automated tool?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

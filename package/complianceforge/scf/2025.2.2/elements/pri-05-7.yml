@@ -1,0 +1,39 @@
+id: 8a8675f6-c7f4-4fec-8f89-0fb28b0a06d3
+name: Personal Data (PD) Categories
+description: Mechanisms exist to define and implement data handling and protection requirements for specific categories of sensitive Personal Data (PD).
+elementType: enhancement
+externalId: PRI-05.7
+parent: pri-05
+controlQuestion: Does the organization define and implement data handling and protection requirements for specific categories of sensitive Personal Data (PD)?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

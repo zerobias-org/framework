@@ -1,0 +1,39 @@
+id: 3082fd12-e634-48a0-a7f8-1cec1e455345
+name: Security Authorization
+description: Mechanisms exist to ensure systems, projects and services are officially authorized prior to "go live" in a production environment.
+elementType: control
+externalId: IAO-07
+parent: iao
+controlQuestion: Does the organization ensure systems, projects and services are officially authorized prior to "go live" in a production environment?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

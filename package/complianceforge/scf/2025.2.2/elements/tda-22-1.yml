@@ -1,0 +1,39 @@
+id: f4ec9f9d-3ff1-4ac7-ab14-d749c7f40ab2
+name: Product-Specific Risk Assessment Artifacts
+description: Mechanisms exist to include a detailed cybersecurity risk assessment in the technical documentation for products and/or services to demonstrate applicable risks in approved use cases.
+elementType: enhancement
+externalId: TDA-22.1
+parent: tda-22
+controlQuestion: Does the organization include a detailed cybersecurity risk assessment in the technical documentation for products and/or services to demonstrate applicable risks in approved use cases?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 22258d34-ef50-43fc-8076-469930acf755
+name: Account Disabling for High Risk Individuals
+description: Mechanisms exist to disable accounts immediately upon notification for users posing a significant risk to the organization.
+elementType: enhancement
+externalId: IAC-15.6
+parent: iac-15
+controlQuestion: Does the organization disable accounts immediately upon notification for users posing a significant risk to the organization?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 9720ab0e-dafc-4327-a362-b6eddbdba21e
+name: Event Log Storage Capacity
+description: Mechanisms exist to allocate and proactively manage sufficient event log storage capacity to reduce the likelihood of such capacity being exceeded.
+elementType: control
+externalId: MON-04
+parent: mon
+controlQuestion: Does the organization allocate and proactively manage sufficient event log storage capacity to reduce the likelihood of such capacity being exceeded?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

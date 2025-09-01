@@ -1,0 +1,39 @@
+id: d6a5f39a-1cdd-4b81-82ec-fc26957a3ea1
+name: AI & Autonomous Technologies Human Subject Protections
+description: Mechanisms exist to protect human subjects from harm.
+elementType: enhancement
+externalId: AAT-17.1
+parent: aat-17
+controlQuestion: Does the organization protect human subjects from harm?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
