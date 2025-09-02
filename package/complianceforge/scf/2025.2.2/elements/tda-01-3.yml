@@ -1,0 +1,39 @@
+id: 8b147870-61a8-4801-95b4-b6278c7feae9
+name: Malware Testing Prior to Release
+description: Mechanisms exist to utilize at least one(1) malware detection tool to identify if any known malware exists in the final binaries of the product or security update.
+elementType: enhancement
+externalId: TDA-01.3
+parent: tda-01
+controlQuestion: Does the organization utilize at least one (1) malware detection tool to identify if any known malware exists in the final binaries of the product or security update?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

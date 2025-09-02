@@ -1,0 +1,39 @@
+id: da164bd2-a5bc-4c99-b5d2-cd76815a3868
+name: Process Isolation
+description: Mechanisms exist to implement a separate execution domain for each executing process.
+elementType: control
+externalId: SEA-04
+parent: sea
+controlQuestion: Does the organization implement a separate execution domain for each executing process?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

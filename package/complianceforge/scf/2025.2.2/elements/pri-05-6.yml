@@ -1,0 +1,39 @@
+id: 24f5d03f-17fa-4c20-922f-5e3f938394e5
+name: Personal Data (PD) Inventory Automation Support
+description: Automated mechanisms exist to determine if Personal Data (PD) is maintained in electronic form.
+elementType: enhancement
+externalId: PRI-05.6
+parent: pri-05
+controlQuestion: Does the organization use automated mechanisms to determine if Personal Data (PD) is maintained in electronic form?
+functionGrouping: Identify
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: c40d9ec4-1d80-4a55-b3af-d167efcd63c8
+name: Continued Use of Personal Data (PD)
+description: "Mechanisms exist to govern the continued use of Personal Data (PD) as it is collected, received, processed, stored, transmitted and/or shared until:\r\n(1) Disposal of PD occurs when there is no longer a legitimate business purpose;\r\n(2) Disposal of PD occurs when the data retention timeline for the use case is met; and/or\r\n(3) Continued use of PD is prohibited upon withdrawal of data subject consent."
+elementType: enhancement
+externalId: PRI-03.9
+parent: pri-03
+controlQuestion: "Does the organization govern the continued use of Personal Data (PD) as it is collected, received, processed, stored, transmitted and/or shared until:\r\n (1) Disposal of PD occurs when there is no longer a legitimate business purpose;\r\n (2) Disposal of PD occurs when the data retention timeline for the use case is met; and/or\r\n (3) Continued use of PD is prohibited upon withdrawal of data subject consent?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
