@@ -1,0 +1,39 @@
+id: 72e99d08-871f-486c-83d3-3b153f908169
+name: Identify Critical Skills & Gaps
+description: Mechanisms exist to evaluate the critical cybersecurity & data privacy skills needed to support the organization's mission and identify gaps that exist.
+elementType: control
+externalId: HRS-13
+parent: hrs
+controlQuestion: Does the organization evaluate the critical cybersecurity & data privacy skills needed to support its mission and identify gaps that exist?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

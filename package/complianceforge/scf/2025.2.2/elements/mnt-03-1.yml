@@ -1,0 +1,39 @@
+id: d78c9a7f-8ccc-456a-956c-7c6ec297a932
+name: Preventative Maintenance
+description: Mechanisms exist to perform preventive maintenance on critical systems, applications and services.
+elementType: enhancement
+externalId: MNT-03.1
+parent: mnt-03
+controlQuestion: Does the organization perform preventive maintenance on critical systems, applications and services?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

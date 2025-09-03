@@ -1,0 +1,39 @@
+id: beb7b0d6-3d8b-467a-b5ef-f84f31f8c6d1
+name: Alternate Work Site
+description: Physical security mechanisms exist to utilize appropriate management, operational and technical controls at alternate work sites.
+elementType: control
+externalId: PES-11
+parent: pes
+controlQuestion: Does the organization utilize appropriate management, operational and technical controls at alternate work sites?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

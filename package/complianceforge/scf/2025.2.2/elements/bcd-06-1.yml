@@ -1,0 +1,39 @@
+id: 191f2b97-cca2-4a52-a217-b68f3b119202
+name: Contingency Planning Components
+description: "Mechanisms exist to identify components that potentially impact the organization's ability to execute contingency plans, including changes to:\r\n(1) Personnel roles;\r\n(2) Business processes (including the use of third-party services);\r\n(3) Deployed technologies; \r\n(4) Data repositories and/or data flows; and/or\r\n(5) Physical infrastructure."
+elementType: enhancement
+externalId: BCD-06.1
+parent: bcd-06
+controlQuestion: "Does the organization identify components that potentially impact the organization's ability to execute contingency plans, including changes to:\r\n(1) Personnel roles;\r\n(2) Business processes (including the use of third-party services);\r\n(3) Deployed technologies; \r\n(4) Data repositories and/or data flows; and/or\r\n(5) Physical infrastructure?"
+functionGrouping: Recover
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

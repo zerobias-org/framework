@@ -1,0 +1,39 @@
+id: dd0fe8e0-3760-49f1-9dff-b93509263d29
+name: Position Categorization
+description: Mechanisms exist to manage personnel security risk by assigning a risk designation to all positions and establishing screening criteria for individuals filling those positions.
+elementType: control
+externalId: HRS-02
+parent: hrs
+controlQuestion: Does the organization manage personnel security risk by assigning a risk designation to all positions and establishing screening criteria for individuals filling those positions?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

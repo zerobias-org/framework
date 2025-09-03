@@ -1,0 +1,39 @@
+id: a99fb6a6-7bf0-405b-8078-4a34d26c09ec
+name: Identification Requirement
+description: Physical access control mechanisms exist to requires at least one(1) form of government-issued or organization-issued photo identification to authenticate individuals before they can gain access to the facility.
+elementType: enhancement
+externalId: PES-06.2
+parent: pes-06
+controlQuestion: Does the organization require at least one (1) form of government-issued or organization-issued photo identification to authenticate individuals before they can gain access to the facility?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

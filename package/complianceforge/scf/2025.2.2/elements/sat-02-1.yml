@@ -1,0 +1,39 @@
+id: cf5ce601-60f7-49a2-9b75-583af1e18910
+name: Simulated Cyber Attack Scenario Training
+description: Mechanisms exist to include simulated actual cyber-attacks through practical exercises that are aligned with current threat scenarios.
+elementType: enhancement
+externalId: SAT-02.1
+parent: sat-02
+controlQuestion: Does the organization include simulated actual cyber-attacks through practical exercises that are aligned with current threat scenarios?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

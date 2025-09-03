@@ -1,0 +1,39 @@
+id: a5fc31cc-dded-491e-81d4-419138e49ecd
+name: Identifier Management (User Names)
+description: Mechanisms exist to govern naming standards for usernames and systems.
+elementType: control
+externalId: IAC-09
+parent: iac
+controlQuestion: Does the organization govern naming standards for usernames and systems?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
