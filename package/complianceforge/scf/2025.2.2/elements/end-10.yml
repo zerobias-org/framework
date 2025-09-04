@@ -1,0 +1,39 @@
+id: 7facc7bc-2c62-405e-975f-c5385c2da51f
+name: Mobile Code
+description: Mechanisms exist to address mobile code / operating system-independent applications.
+elementType: control
+externalId: END-10
+parent: end
+controlQuestion: Does the organization address mobile code / operating system-independent applications?
+functionGrouping: Detect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

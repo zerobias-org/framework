@@ -1,0 +1,39 @@
+id: fffa06a3-648d-4d7d-b309-99a28f7b0635
+name: Risk Catalog
+description: Mechanisms exist to develop and keep current a catalog of applicable risks associated with the organization's business operations and technologies in use.
+elementType: enhancement
+externalId: RSK-03.1
+parent: rsk-03
+controlQuestion: Does the organization develop and keep current a catalog of applicable risks associated with its business operations and technologies in use?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: eb66dbb9-8a1a-4e87-9c86-0559b8ba82cf
+name: Approved Technologies
+description: Mechanisms exist to maintain a current list of approved technologies (hardware and software).
+elementType: enhancement
+externalId: AST-01.4
+parent: ast-01
+controlQuestion: Does the organization maintain a current list of approved technologies (hardware and software)?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: beaaf0cf-96d0-4366-ac8d-59fd5c0c50a2
+name: Trusted Path
+description: Mechanisms exist to establish a trusted communications path between the user and the security functions of the operating system.
+elementType: control
+externalId: END-09
+parent: end
+controlQuestion: Does the organization establish a trusted communications path between the user and the security functions of the operating system?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

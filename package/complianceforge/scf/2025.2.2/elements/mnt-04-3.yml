@@ -1,0 +1,39 @@
+id: c68e4841-c171-479c-96a1-6095de75af26
+name: Prevent Unauthorized Removal
+description: Mechanisms exist to prevent or control the removal of equipment undergoing maintenance that containing organizational information.
+elementType: enhancement
+externalId: MNT-04.3
+parent: mnt-04
+controlQuestion: Does the organization prevent or control the removal of equipment undergoing maintenance that containing organizational information?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

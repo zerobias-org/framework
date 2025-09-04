@@ -1,0 +1,39 @@
+id: a6bbda6f-fb1b-4576-b8b5-847ed2535d14
+name: Sensor Delivery Verification
+description: Mechanisms exist to verify embedded technology sensors are configured so that data collected by the sensor(s) is only reported to authorized individuals or roles.
+elementType: enhancement
+externalId: END-13.4
+parent: end-13
+controlQuestion: Does the organization verify embedded technology sensors are configured so that data collected by the sensor(s) is only reported to authorized individuals or roles?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

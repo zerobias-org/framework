@@ -1,0 +1,39 @@
+id: 2f0006ef-9998-42dc-b5f0-d82b3d8a9c53
+name: Attribute Reassignment
+description: Mechanisms exist to reclassify data as required, due to changing business/technical requirements.
+elementType: enhancement
+externalId: DCH-05.9
+parent: dch-05
+controlQuestion: Does the organization reclassify data as required, due to changing business/technical requirements?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
