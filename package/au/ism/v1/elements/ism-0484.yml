@@ -1,0 +1,26 @@
+id: 9c5602c1-fe51-4838-a17a-b049e83cff12
+externalId: ISM-0484
+name: ISM-0484
+description: "The SSH daemon is configured to:\r
+
+  · \tonly listen on the required interfaces (ListenAddress xxx.xxx.xxx.xxx)\r
+
+  · \thave a suitable login banner (Banner x)\r
+
+  · \thave a login authentication timeout of no more than 60 seconds
+  (LoginGraceTime 60)\r
+
+  · \tdisable host-based authentication (HostbasedAuthentication no)\r
+
+  · \tdisable rhosts-based authentication (IgnoreRhosts yes)\r
+
+  · \tdisable the ability to login directly as root (PermitRootLogin no)\r
+
+  · \tdisable empty passwords (PermitEmptyPasswords no)\r
+
+  · \tdisable connection forwarding (AllowTCPForwarding no)\r
+
+  · \tdisable gateway ports (GatewayPorts no)\r
+
+  · \tdisable X11 forwarding (X11Forwarding no)."
+elementType: control

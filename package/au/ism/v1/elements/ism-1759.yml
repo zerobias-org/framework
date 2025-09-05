@@ -1,0 +1,6 @@
+id: 252a57e5-87e1-4a5a-8c9b-8a0768c6fb5f
+externalId: ISM-1759
+name: ISM-1759
+description: When using DH for agreeing on encryption session keys, a modulus of
+  at least 3072 bits is used, preferably 3072 bits.
+elementType: control

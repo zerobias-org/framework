@@ -1,0 +1,7 @@
+id: 1f3ce042-af6f-4605-9042-cf5f3caa5fdc
+externalId: ISM-0476
+name: ISM-0476
+description: When using RSA for digital signatures, and passing encryption
+  session keys or similar keys, a modulus of at least 2048 bits is used,
+  preferably 3072 bits.
+elementType: control

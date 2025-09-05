@@ -1,0 +1,16 @@
+id: bd0b6abb-b9b5-4c9a-b4be-8ae0ce63bb3c
+externalId: ISM-1491
+name: ISM-1491
+description: "Unprivileged users are prevented from running script execution
+  engines, including:\r
+
+  · \tWindows Script Host (cscript.exe and wscript.exe)\r
+
+  · \tPowerShell (powershell.exe, powershell_ise.exe and pwsh.exe)\r
+
+  · \tCommand Prompt (cmd.exe)\r
+
+  · \tWindows Management Instrumentation (wmic.exe)\r
+
+  · \tMicrosoft Hypertext Markup Language (HTML) Application Host (mshta.exe)."
+elementType: control
