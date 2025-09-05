@@ -1,0 +1,11 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.1.0-rc.0 (2025-09-05)
+
+
+### Features
+
+* **framework:** update au/aee/v1 ([#121](https://github.com/zerobias-org/framework/issues/121)) ([b641a41](https://github.com/zerobias-org/framework/commit/b641a41af4b5d0a36f1996e5dc6efea4d69ac7b4))
