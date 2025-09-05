@@ -1,0 +1,39 @@
+id: a30a01ea-ae12-4afc-bcc0-3b388721cf02
+name: Personal Data (PD) Formats
+description: Mechanisms exist to retain Personal Data (PD) in a format permitting data subject identification for no longer than is necessary for legitimate business purposes.
+elementType: enhancement
+externalId: PRI-05.8
+parent: pri-05
+controlQuestion: Does the organization retain Personal Data (PD) in a format permitting data subject identification for no longer than is necessary for legitimate business purposes?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: c6081f3e-92c4-4e0e-a910-7951aa1e5232
+name: AI & Autonomous Technologies Registration
+description: Mechanisms exist to maintain a current registration for Artificial Intelligence (AI) and Autonomous Technologies (AAT) with the appropriate governing body, as required by statutory or regulatory requirements.
+elementType: control
+externalId: AAT-21
+parent: aat
+controlQuestion: Does the organization maintain a current registration for Artificial Intelligence (AI) and Autonomous Technologies (AAT) with the appropriate governing body, as required by statutory or regulatory requirements?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

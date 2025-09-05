@@ -1,0 +1,39 @@
+id: 8443a829-27e1-476b-b995-a90d67780643
+name: Data Subject Attribute Associations
+description: Mechanisms exist to require personnel to associate and maintain the association of cybersecurity & data privacy attributes with individuals and objects in accordance with cybersecurity and data privacy policies.
+elementType: enhancement
+externalId: DCH-05.6
+parent: dch-05
+controlQuestion: Does the organization require personnel to associate and maintain the association of cybersecurity & data privacy attributes with individuals and objects in accordance with cybersecurity and data privacy policies?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

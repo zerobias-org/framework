@@ -1,0 +1,39 @@
+id: 34c31948-103f-42a0-9f8b-3f5cd259cb80
+name: Account Creation and Modification Logging
+description: Automated mechanisms exist to generate event logs for permissions changes to privileged accounts and/or groups.
+elementType: enhancement
+externalId: MON-16.4
+parent: mon-16
+controlQuestion: Does the organization use automated mechanisms to generate event logs for permissions changes to privileged accounts and/or groups?
+functionGrouping: Detect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

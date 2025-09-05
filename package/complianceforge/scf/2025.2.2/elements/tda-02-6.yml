@@ -1,0 +1,39 @@
+id: 5cbe195a-c0ad-4300-82c6-3c47937ae52a
+name: Insecure Ports, Protocols & Services
+description: Mechanisms exist to mitigate the risk associated with the use of insecure ports, protocols and services necessary to operate technology solutions.
+elementType: enhancement
+externalId: TDA-02.6
+parent: tda-02
+controlQuestion: Does the organization mitigate the risk associated with the use of insecure ports, protocols and services necessary to operate technology solutions?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

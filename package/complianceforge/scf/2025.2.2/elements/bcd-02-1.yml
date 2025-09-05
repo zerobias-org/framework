@@ -1,0 +1,39 @@
+id: 8da9c2f9-7ca0-430c-8da7-0bde7202cf21
+name: Resume All Missions & Business Functions
+description: Mechanisms exist to resume all missions and business functions within Recovery Time Objectives (RTOs) of the contingency plan's activation.
+elementType: enhancement
+externalId: BCD-02.1
+parent: bcd-02
+controlQuestion: Does the organization resume all missions and business functions within Recovery Time Objectives (RTOs) of the contingency plan's activation?
+functionGrouping: Recover
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

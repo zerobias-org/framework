@@ -1,0 +1,39 @@
+id: 138f1b49-99f3-4c32-970d-651c4212dd4c
+name: Automatic Disabling of System
+description: Mechanisms exist to automatically disable systems, upon detection of a possible incident that meets organizational criteria, which allows for forensic analysis to be performed.
+elementType: enhancement
+externalId: IRO-02.6
+parent: iro-02
+controlQuestion: Does the organization automatically disable systems, upon detection of a possible incident that meets organizational criteria, which allows for forensic analysis to be performed?
+functionGrouping: Respond
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

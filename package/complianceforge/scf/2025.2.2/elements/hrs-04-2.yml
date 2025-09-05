@@ -1,0 +1,39 @@
+id: e863c7fe-463f-495b-bd8f-95f3c7ec495d
+name: Formal Indoctrination
+description: Mechanisms exist to formally educate authorized users on proper data handling practices for all the relevant types of data to which they have access.
+elementType: enhancement
+externalId: HRS-04.2
+parent: hrs-04
+controlQuestion: Does the organization formally educate authorized users on proper data handling practices for all the relevant types of data to which they have access?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 6b1c8f6f-28c4-4a99-8cf0-3f1c08c1751a
+name: Alternate Event Logging Capability
+description: Mechanisms exist to provide an alternate event logging capability in the event of a failure in primary audit capability.
+elementType: control
+externalId: MON-13
+parent: mon
+controlQuestion: Does the organization provide an alternate event logging capability in the event of a failure in primary audit capability?
+functionGrouping: Detect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

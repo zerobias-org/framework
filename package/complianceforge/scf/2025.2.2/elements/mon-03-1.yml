@@ -1,0 +1,39 @@
+id: 4d91e02d-5cf0-4cac-8c78-02e78c59c685
+name: Sensitive Audit Information
+description: Mechanisms exist to protect sensitive/regulated data contained in log files.
+elementType: enhancement
+externalId: MON-03.1
+parent: mon-03
+controlQuestion: Does the organization protect sensitive/regulated data contained in log files?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

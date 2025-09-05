@@ -1,0 +1,39 @@
+id: a90d378d-7bc4-43a6-b117-1d4d16e07f46
+name: Outsourcing Non-Essential Functions or Services
+description: Mechanisms exist to identify non-essential functions or services that are capable of being outsourced to external service providers and align with the organization's enterprise architecture and security standards.
+elementType: enhancement
+externalId: SEA-02.2
+parent: sea-02
+controlQuestion: Does the organization identify non-essential functions or services that are capable of being outsourced to external service providers and align with its enterprise architecture and security standards?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 6b689b53-fa29-4bfd-ac57-02cdb178cc3b
+name: Strong Customer Authentication (SCA)
+description: Mechanisms exist to implement Strong Customer Authentication (SCA) for consumers to reasonably prove their identity.
+elementType: control
+externalId: WEB-06
+parent: web
+controlQuestion: Does the organization implement Strong Customer Authentication (SCA) for consumers to reasonably prove their identity?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

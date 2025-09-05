@@ -1,0 +1,39 @@
+id: 2a51fbb3-dc5f-467b-a735-ce1508f78819
+name: Testing, Training & Monitoring
+description: Mechanisms exist to conduct cybersecurity & data privacy testing, training and monitoring activities
+elementType: control
+externalId: PRI-08
+parent: pri
+controlQuestion: Does the organization conduct cybersecurity & data privacy testing, training and monitoring activities
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

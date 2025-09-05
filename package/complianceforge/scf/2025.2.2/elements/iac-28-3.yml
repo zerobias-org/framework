@@ -1,0 +1,39 @@
+id: 52dd54dd-7b6e-4d9f-bd63-813cd54fda99
+name: Identity Evidence Validation & Verification
+description: Mechanisms exist to require that the presented identity evidence be validated and verified through organizational-defined methods of validation and verification.
+elementType: enhancement
+externalId: IAC-28.3
+parent: iac-28
+controlQuestion: Does the organization require that the presented identity evidence be validated and verified through organizational-defined methods of validation and verification?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
