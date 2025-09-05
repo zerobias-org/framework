@@ -1,0 +1,21 @@
+id: 716a689b-8df3-47e2-b8ef-be829be42efc
+externalId: 3.2.6
+name: Security vulnerabilities are remediated
+description: "To ensure security vulnerabilities are well managed, FRFIs
+  should:\r
+
+  \r
+
+  Maintain capabilities to ensure timely risk-based patching of vulnerabilities,
+  in vendor software and internal applications, that considers the severity of
+  the threat and vulnerability of the exposed systems;\r
+
+  Apply patches at the earliest opportunity, commensurate with risk and in
+  accordance with established timelines;\r
+
+  Implement compensating controls as needed to sufficiently mitigate risks when
+  remediation options are not available  (e.g., “zero-day” attacks); and\r
+
+  Regularly monitor and report on patching status and vulnerability remediation
+  against defined timelines, including any backlog and exceptions."
+elementType: control
