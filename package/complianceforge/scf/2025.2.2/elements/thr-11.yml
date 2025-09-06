@@ -1,0 +1,39 @@
+id: 927d06bc-81f0-4b1e-9ccc-f7ef2224a2f9
+name: Behavioral Baselining
+description: Automated mechanisms exist to establish behavioral baselines that capture information about user and entity behavior to enable dynamic threat discovery.
+elementType: control
+externalId: THR-11
+parent: thr
+controlQuestion: Does the organization use automated mechanisms to establish behavioral baselines that capture information about user and entity behavior to enable dynamic threat discovery?
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

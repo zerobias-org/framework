@@ -1,0 +1,39 @@
+id: ea9a8918-c0e7-495e-9679-c5142beefdfe
+name: Binary or Machine-Executable Code
+description: Mechanisms exist to prohibit the use of binary or machine-executable code from sources with limited or no warranty and without access to source code.
+elementType: enhancement
+externalId: END-06.7
+parent: end-06
+controlQuestion: Does the organization prohibit the use of binary or machine-executable code from sources with limited or no warranty and without access to source code?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 2a11fa62-45ff-4a25-9bd5-4ba4674eac9f
+name: Remote Maintenance Pre-Approval
+description: Mechanisms exist to require maintenance personnel to obtain pre-approval and scheduling for remote, non-local maintenance sessions.
+elementType: enhancement
+externalId: MNT-05.5
+parent: mnt-05
+controlQuestion: Does the organization require maintenance personnel to obtain pre-approval and scheduling for remote, non-local maintenance sessions?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

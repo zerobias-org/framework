@@ -1,0 +1,6 @@
+id: 102d0f14-51d6-4905-9aa6-1254f9c2156e
+name: Continuous Monitoring
+description: Maintain situational awareness of security-related events through the centralized collection and analysis of event logs from systems, applications and services.
+elementType: domain
+externalId: MON
+intent: Organizations establish and maintain ongoing situational awareness across the enterprise through the centralized collection and review of security-related event logs. Without comprehensive visibility into infrastructure, operating system, database, application and other logs, the organization will have “blind spots” in its situational awareness that could lead to system compromise, data exfiltration, or unavailability of needed computing resources.

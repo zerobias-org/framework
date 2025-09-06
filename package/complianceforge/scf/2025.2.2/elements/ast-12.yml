@@ -1,0 +1,39 @@
+id: 68c814ce-9c29-436a-a0dc-a61598c8ab97
+name: Use of Personal Devices
+description: Mechanisms exist to restrict the possession and usage of personally-owned technology devices within organization-controlled facilities.
+elementType: control
+externalId: AST-12
+parent: ast
+controlQuestion: Does the organization restrict the possession and usage of personally-owned technology devices within organization-controlled facilities?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

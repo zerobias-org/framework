@@ -1,0 +1,39 @@
+id: 30be893b-6ba0-42ca-810b-9febb03f8605
+name: Conspicuous Link To Data Privacy Notice
+description: Mechanisms exist to include a conspicuous link to the organization's data privacy notice on all consumer-facing websites and mobile applications.
+elementType: enhancement
+externalId: PRI-17.1
+parent: pri-17
+controlQuestion: Does the organization include a conspicuous link to its data privacy notice on all consumer-facing websites and mobile applications?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

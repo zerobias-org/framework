@@ -1,0 +1,39 @@
+id: 64632fa0-f70a-421e-ac9f-a1e7175dc3c2
+name: Risk Identification
+description: Mechanisms exist to identify and document risks, both internal and external.
+elementType: control
+externalId: RSK-03
+parent: rsk
+controlQuestion: Does the organization identify and document risks, both internal and external?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: c7c8dd1e-c6dd-4d0d-98bd-b0392552a20a
+name: Third-Party Contract Requirements
+description: Mechanisms exist to require contractual requirements for cybersecurity & data privacy requirements with third-parties, reflecting the organization's needs to protect its systems, processes and data.
+elementType: control
+externalId: TPM-05
+parent: tpm
+controlQuestion: Does the organization require contractual requirements for cybersecurity & data privacy requirements with third-parties, reflecting its needs to protect its systems, processes and data?
+functionGrouping: Identify
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

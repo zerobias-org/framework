@@ -1,0 +1,39 @@
+id: 412e9b90-9c58-4f1d-93d3-9bb93f3d2854
+name: Declaration of Conformity
+description: "Mechanisms exist to generate a declaration of conformity for each conformity assessment, where the document:\r\n(1) Is concise;\r\n(2) Unambiguously reflects the current status;\r\n(3) Is physically or electronically signed; and\r\n(4) Where possible, is machine readable."
+elementType: enhancement
+externalId: CPL-01.5
+parent: cpl-01
+controlQuestion: "Does the organization generate a declaration of conformity for each conformity assessment, where the document:\r\n(1) Is concise;\r\n(2) Unambiguously reflects the current status;\r\n(3) Is physically or electronically signed; and\r\n(4) Where possible, is machine readable?"
+functionGrouping: Govern
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

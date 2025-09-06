@@ -1,0 +1,39 @@
+id: 818a03e7-a57e-4cc9-a1ea-d2da35f7f80e
+name: Database Management System (DBMS)
+description: Mechanisms exist to implement and maintain Database Management Systems (DBMSs), where applicable.
+elementType: enhancement
+externalId: AST-28.1
+parent: ast-28
+controlQuestion: Does the organization implement and maintain Database Management Systems (DBMSs), where applicable?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
