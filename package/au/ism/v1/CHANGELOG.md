@@ -1,0 +1,11 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.1.0-rc.0 (2025-09-05)
+
+
+### Features
+
+* **framework:** update au/ism/v1 ([#120](https://github.com/zerobias-org/framework/issues/120)) ([bb1dfb7](https://github.com/zerobias-org/framework/commit/bb1dfb7cb89c465dcff0aef2970be49bf3d8a363))

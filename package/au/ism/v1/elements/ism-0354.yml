@@ -1,0 +1,7 @@
+id: efb2fe57-494f-443a-8275-d420ae121939
+externalId: ISM-0354
+name: ISM-0354
+description: Non-volatile magnetic media is sanitised by overwriting it at least
+  once (or three times if pre-2001 or under 15 GB) in its entirety with a random
+  pattern followed by a read back for verification.
+elementType: control

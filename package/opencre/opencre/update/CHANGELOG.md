@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.3-rc.0 (2025-09-04)
+
+**Note:** Version bump only for package @zerobias-org/framework-opencre-opencre-update
+
+
+
+
+
 ## 1.0.2 (2025-07-21)
 
 **Note:** Version bump only for package @zerobias-org/framework-opencre-opencre-update

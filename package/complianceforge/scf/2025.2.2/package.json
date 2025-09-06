@@ -1,0 +1,36 @@
+{
+  "name": "@zerobias-org/framework-complianceforge-scf-2025.2.2",
+  "version": "1.0.1-rc.0",
+  "description": "ComplianceForge SCF 2025.2.2 Controls",
+  "author": "ZeroBias Organization",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerobias-org/framework.git",
+    "directory": "package/complianceforge/scf/2025.2.2/"
+  },
+  "auditmation": {
+    "package": "complianceforge.scf.2025_2_2.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.29.26"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines/**",
+    "elements/**",
+    "mappings/**"
+  ],
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  }
+}

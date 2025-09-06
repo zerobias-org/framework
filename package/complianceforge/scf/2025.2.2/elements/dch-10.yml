@@ -1,0 +1,39 @@
+id: 3fdd57ef-fcab-462f-9ae7-07f570d0e5db
+name: Media Use
+description: Mechanisms exist to restrict the use of types of digital media on systems or system components.
+elementType: control
+externalId: DCH-10
+parent: dch
+controlQuestion: Does the organization restrict the use of types of digital media on systems or system components?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
