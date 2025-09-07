@@ -1,0 +1,27 @@
+id: 56940091-5a41-4203-a5d2-213246ac5c14
+externalId: 5.13.3
+name: Wireless Device Risk Mitigations
+description: "Organizations shall, at a minimum, ensure that wireless devices:\r
+
+  1. Apply available critical patches and upgrades to the operating system as
+  soon as they become available for the device and after necessary testing as
+  described in Section 5.10.4.1.\r
+
+  2. Are configured for local device authentication (see Section 5.13.7.1).\r
+
+  3. Use advanced authentication or CSO approved compensating controls as per
+  Section 5.13.7.2.1.\r
+
+  4. Encrypt all CJI resident on the device.\r
+
+  5. Erase cached information, to include authenticators (see Section 5.6.2.1)
+  in applications, when session is terminated.\r
+
+  6. Employ personal firewalls on full-featured operating system devices or run
+  a Mobile Device Management (MDM) system that facilitates the ability to
+  provide firewall services from the agency level.\r
+
+  7. Employ malicious code protection on full-featured operating system devices
+  or run a MDM system that facilitates the ability to provide anti-malware
+  services from the agency level."
+elementType: control

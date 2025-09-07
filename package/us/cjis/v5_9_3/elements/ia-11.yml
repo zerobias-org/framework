@@ -1,0 +1,7 @@
+id: 9194f9d8-b1e0-43c0-928d-8881ca0482fd
+externalId: IA-11
+name: RE-AUTHENTICATION
+description: "Require users to re-authenticate when: roles, authenticators, or
+  credentials change, security categories of systems change, the execution of
+  privileged functions occur, or every 12 hours."
+elementType: control

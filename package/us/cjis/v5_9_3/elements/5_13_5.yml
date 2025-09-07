@@ -1,0 +1,30 @@
+id: 73d86e1f-dc8b-4daf-965a-827d404cbb60
+externalId: 5.13.5
+name: Incident Response
+description: "In addition to the requirements in Section 5.3 Incident Response,
+  agencies shall develop additional or enhanced incident reporting and handling
+  procedures to address mobile device operating scenarios. Rapid response to
+  mobile device related incidents can significantly mitigate the risks
+  associated with illicit data access either on the device itself or within
+  online data resources associated with the device through an application or
+  specialized interface.\r
+
+  Special reporting procedures for mobile devices shall apply in any of the
+  following situations:\r
+
+  1. Loss of device control. For example:\r
+
+  a. Device known to be locked, minimal duration of loss\r
+
+  b. Device lock state unknown, minimal duration of loss\r
+
+  c. Device lock state unknown, extended duration of loss\r
+
+  d. Device known to be unlocked, more than momentary duration of loss\r
+
+  2. Total loss of device\r
+
+  3. Device compromise\r
+
+  4. Device loss or compromise outside the United States"
+elementType: control

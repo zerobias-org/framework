@@ -1,0 +1,13 @@
+id: 3128bcbb-7f4c-4d0c-babb-ee177c8aba80
+externalId: 5.13.1.2.1
+name: Cellular Service Abroad
+description: "Certain internal functions on cellular devices may be modified or
+  compromised by the cellular carrier during international use as the devices
+  are intended to have certain parameters configured by the cellular provider
+  which is considered a “trusted” entity by the device.\r
+
+  When devices are authorized to access CJI outside the U.S., agencies shall
+  perform an inspection to ensure that all controls are in place and functioning
+  properly in accordance with the agency’s policies prior to and after
+  deployment outside of the U.S."
+elementType: control
