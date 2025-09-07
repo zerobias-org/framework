@@ -1,0 +1,39 @@
+id: 7d6219bf-e4bc-4e03-9908-62b8590c6163
+name: Refresh from Trusted Sources
+description: Mechanisms exist to ensure that software and data needed for information system component and service refreshes are obtained from trusted sources.
+elementType: enhancement
+externalId: SEA-08.1
+parent: sea-08
+controlQuestion: Does the organization ensure that software and data needed for information system component and service refreshes are obtained from trusted sources?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

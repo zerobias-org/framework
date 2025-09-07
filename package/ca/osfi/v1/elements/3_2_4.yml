@@ -1,0 +1,28 @@
+id: 9f7b3593-72a1-4a33-9dc6-a63b571f2636
+externalId: 3.2.4
+name: Cyber security controls are layered
+description: "FRFIs should implement and maintain multiple layers of cyber
+  security controls and defend against cyber security threats at every stage of
+  the attack life cycle (e.g., from reconnaissance and initial access to
+  executing on objectives). FRFIs should also ensure resilience against current
+  and emerging cyber threats by maintaining defence controls and tools. This
+  includes ensuring continuous operational effectiveness of controls by
+  minimizing false positives. Where feasible, FRFIs should:\r
+
+  \r
+
+  Protect networks, including external-facing services, from threats by
+  minimizing its attack surface;\r
+
+  Define authorized logical network zones and apply controls to segregate and
+  limit, or block access and traffic to and from network zones;\r
+
+  Leverage a combination of allow/deny lists, including file integrity checks
+  (e.g., file hash/signature) and indicators of compromise, in addition to
+  advanced behaviour-based protection capabilities that are continuously
+  updated; and\r
+
+  Apply defence controls and capabilities for intrusion prevention and detection
+  on its network perimeter in addition to controls for data loss, malware and
+  viruses."
+elementType: control

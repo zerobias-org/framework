@@ -1,0 +1,14 @@
+id: 6faa8a8d-74c5-4949-a7e9-5a12d539a3e6
+externalId: ISM-1847
+name: ISM-1847
+description: "Credentials for the Kerberos Key Distribution Center’s service
+  account (KRBTGT) are changed twice, allowing for replication to all Microsoft
+  Active Directory Domain Services domain controllers in-between each change,
+  if:\r
+
+  · \tthe domain has been directly compromised\r
+
+  · \tthe domain is suspected of being compromised\r
+
+  · \tthey have not been changed in the past 12 months."
+elementType: control

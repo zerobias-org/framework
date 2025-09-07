@@ -1,0 +1,39 @@
+id: 72a3c56e-8d7b-4c66-a736-2151d98bb5e5
+name: Web Security
+description: Mechanisms exist to facilitate the implementation of an enterprise-wide web management policy, as well as associated standards, controls and procedures.
+elementType: control
+externalId: WEB-01
+parent: web
+controlQuestion: Does the organization facilitate the implementation of an enterprise-wide web management policy, as well as associated standards, controls and procedures?
+functionGrouping: Govern
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 86983c20-c197-46a6-ad83-e06d48096e20
+name: Prohibition of Selling, Processing and/or Sharing Personal Data (PD)
+description: "Mechanisms exist to prevent the sale, processing and/or sharing of Personal Data (PD) when:\r\n(1) Instructed by the data subject; or\r\n(2) The data subject is a minor, where selling and/or sharing PD is legally prohibited."
+elementType: enhancement
+externalId: PRI-03.3
+parent: pri-03
+controlQuestion: "Does the organization prevent the sale, processing and/or sharing of Personal Data (PD) when:\r\n (1) Instructed by the data subject; or\r\n (2) The data subject is a minor, where selling and/or sharing PD is legally prohibited?"
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 4074cc2e-16fe-461d-8eb0-ef3056052f8f
+name: Security of Assets & Media
+description: Mechanisms exist to maintain strict control over the internal or external distribution of any kind of sensitive/regulated media.
+elementType: control
+externalId: AST-05
+parent: ast
+controlQuestion: Does the organization maintain strict control over the internal or external distribution of any kind of sensitive/regulated media?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

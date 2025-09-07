@@ -1,0 +1,39 @@
+id: 5e2769d6-0c7c-43df-ad99-0a0fa87fc439
+name: Incident Response Testing
+description: Mechanisms exist to formally test incident response capabilities through realistic exercises to determine the operational effectiveness of those capabilities.
+elementType: control
+externalId: IRO-06
+parent: iro
+controlQuestion: Does the organization formally test incident response capabilities through realistic exercises to determine the operational effectiveness of those capabilities?
+functionGrouping: Respond
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
