@@ -1,0 +1,9 @@
+id: 10ec25d1-0839-4933-8f8b-4ecf52fd870e
+externalId: CM-7(7)
+name: Least Functionality | Code Execution in Protected Environments
+description: "Allow execution of binary or machine-executable code only in
+  confined physical or virtual machine environments and with the explicit
+  approval of [Assignment: organization-defined personnel or roles] when such
+  code is:a. Obtained from sources with limited or no warranty; and/orb. Without
+  the provision of source code."
+elementType: control

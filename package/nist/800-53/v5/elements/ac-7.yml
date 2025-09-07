@@ -1,0 +1,12 @@
+id: da89ec95-bd35-4fcb-b25f-2092f6b98780
+externalId: AC-7
+name: Unsuccessful Logon Attempts
+description: "a. Enforce a limit of [Assignment: organization-defined number]
+  consecutive invalid logon attempts by a user during a [Assignment:
+  organization-defined time period]; andb. Automatically [Selection (one or
+  more): lock the account or node for an [Assignment: organization-defined time
+  period]; lock the account or node until released by an administrator; delay
+  next logon prompt per [Assignment: organization-defined delay algorithm];
+  notify system administrator; take other [Assignment: organization-defined
+  action]] when the maximum number of unsuccessful attempts is exceeded."
+elementType: control

@@ -1,0 +1,8 @@
+id: ebfb5de0-ef7f-48bc-9ee4-eab446a75e05
+externalId: AC-6(2)
+name: Least Privilege | Non-privileged Access for Nonsecurity Functions
+description: "Require that users of system accounts (or roles) with access to
+  [Assignment: organization-defined security functions or security-relevant
+  information] use non-privileged accounts or roles, when accessing nonsecurity
+  functions."
+elementType: control

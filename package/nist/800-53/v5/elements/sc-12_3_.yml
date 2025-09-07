@@ -1,0 +1,10 @@
+id: 6f473352-c5b9-4af4-bee6-62642ae28dfc
+externalId: SC-12(3)
+name: Cryptographic Key Establishment and Management | Asymmetric Keys
+description: "Produce, control, and distribute asymmetric cryptographic keys
+  using [Selection (one): NSA-approved key management technology and processes;
+  prepositioned keying material; DoD-approved or DoD-issued Medium Assurance PKI
+  certificates; DoD-approved or DoD-issued Medium Hardware Assurance PKI
+  certificates and hardware security tokens that protect the user’s private key;
+  certificates issued in accordance with organization-defined requirements]."
+elementType: control

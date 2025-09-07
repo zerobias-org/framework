@@ -1,0 +1,11 @@
+id: a93636b9-6bd1-470d-b4a2-26424f5ce7c3
+externalId: SC-20
+name: Secure Name/address Resolution Service (authoritative Source)
+description: a. Provide additional data origin authentication and integrity
+  verification artifacts along with the authoritative name resolution data the
+  system returns in response to external name/address resolution queries; andb.
+  Provide the means to indicate the security status of child zones and (if the
+  child supports secure resolution services) to enable verification of a chain
+  of trust among parent and child domains, when operating as part of a
+  distributed, hierarchical namespace.
+elementType: control

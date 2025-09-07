@@ -1,0 +1,11 @@
+id: 51482bac-410b-4ca9-a30f-2051b43bd621
+externalId: IA-5(2)
+name: Authenticator Management | Public Key-based Authentication
+description: a. For public key-based authentication:1. Enforce authorized access
+  to the corresponding private key; and2. Map the authenticated identity to the
+  account of the individual or group; andb. When public key infrastructure (PKI)
+  is used:1. Validate certificates by constructing and verifying a certification
+  path to an accepted trust anchor, including checking certificate status
+  information; and2. Implement a local cache of revocation data to support path
+  discovery and validation.
+elementType: control
