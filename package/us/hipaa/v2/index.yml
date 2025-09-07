@@ -1,0 +1,17 @@
+id: 1b24836c-7f15-416a-ab88-6313e6dce37f
+name: HIPAA Security Rule (includes mapping to NIST SP 800-66 R2)
+externalId: US HIPAA V2
+description: HIPAA Security Rule (includes mapping to NIST SP 800-66 R2)
+code: us_hipaa_v2_scf
+status: approved
+url: "https://www.hhs.gov/hipaa/for-professionals/security/index.html "
+version: v2
+external: true
+internal: false
+elementTypes:
+  - id: 0453b3dd-b28a-42bf-9425-f449696b223b
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
