@@ -1,0 +1,20 @@
+id: 5e82d632-9c88-4af8-8c6a-8a2506f61382
+externalId: CIP-006-6 1.10
+name: CIP-006-6 Table R1 – Physical Security Plan
+description: "Restrict physical access to cabling and other nonprogrammable
+  communication components used for connection between applicable Cyber Assets
+  within the same Electronic Security Perimeter in those instances when such
+  cabling and components are located outside of a Physical Security Perimeter.
+  Where physical access restrictions to such cabling and components are not
+  implemented, the Responsible Entity shall document and implement one or more
+  of the following:\r
+
+  \  • encryption of data that transits such cabling and components; or\r
+
+  \  • monitoring the status of the communication link composed of such cabling
+  and components and issuing an alarm or alert in response to detected
+  communication failures to the personnel identified in the BES Cyber Security
+  Incident response plan within 15 minutes of detection; or\r
+
+  \  • an equally effective logical protection."
+elementType: control
