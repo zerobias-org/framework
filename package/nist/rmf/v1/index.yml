@@ -1,0 +1,17 @@
+id: d9cbbc78-2d8d-48d8-b288-e731b78e536c
+name: NIST Artificial Intelligence Risk Management Framework (AI RMF)
+externalId: NIST RMF V1
+description: NIST Artificial Intelligence Risk Management Framework (AI RMF)
+code: nist_rmf_v1_scf
+status: approved
+url: https://www.nist.gov/itl/ai-risk-management-framework
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 08b4181a-8093-433b-9587-0a75412bff14
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
