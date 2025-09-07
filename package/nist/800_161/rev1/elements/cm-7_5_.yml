@@ -1,0 +1,11 @@
+id: 70cf21b9-ec3f-4e35-af55-f3ebd5fab59e
+externalId: CM-7(5)
+name: Least Functionality | Authorized Software — Allow-by-exception
+description: Enterprises should define requirements and deploy appropriate
+  processes to specify allowable software. This can be aided by defining a
+  requirement to use only reputable software. This can also include requirements
+  for alerts when new software and updates to software are introduced into the
+  enterprise’s environment. An example of such requirements is to allow open
+  source software only if the code is available for an enterprise’s evaluation
+  and determined to be acceptable for use
+elementType: control

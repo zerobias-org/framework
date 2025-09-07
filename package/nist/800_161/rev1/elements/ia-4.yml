@@ -1,0 +1,30 @@
+id: 6c028c42-1b0f-45d4-b2e3-244524d25905
+externalId: IA-4
+name: Identifier Management
+description: "Identifiers allow for greater discoverability and traceability.
+  Within the enterprise’s supply chain, identifiers should be assigned to
+  systems, individuals, documentation, devices, and components. In some cases,
+  identifiers may be maintained throughout a system’s life cycle – from concept
+  to retirement – but, at a minimum, throughout the system’s life within the
+  enterprise. \r
+
+  \r
+
+  For software development, identifiers should be assigned for those components
+  that have achieved configuration item recognition. For devices and operational
+  systems, identifiers should be assigned when the items enter the enterprise’s
+  supply chain, such as when they are transferred to the enterprise’s ownership
+  or control through shipping and receiving or via download.\r
+
+  \r
+
+  Suppliers, developers, system integrators, external system service providers,
+  and other ICT/OT-related service providers typically use their own identifiers
+  for tracking purposes within their own supply chain. Enterprises should
+  correlate those identifiers with the enterprise-assigned identifiers for
+  traceability and accountability. Enterprises should require their prime
+  contractors to implement this control and flow down this requirement to
+  relevant sub-tier contractors. Departments and agencies should refer to
+  Appendix F to implement this guidance in accordance with Executive Order
+  14028, Improving the Nation’s Cybersecurity."
+elementType: control

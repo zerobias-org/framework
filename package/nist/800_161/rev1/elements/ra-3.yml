@@ -1,0 +1,16 @@
+id: f720f9b6-620c-4c65-8117-a09d397cf183
+externalId: RA-3
+name: Risk Assessment
+description: Risk assessments should include an analysis of criticality,
+  threats, vulnerabilities, likelihood, and impact, as described in detail in
+  Appendix C. The data to be reviewed and collected includes C-SCRM-specific
+  roles, processes, and the results of system/component and services
+  acquisitions, implementation, and integration. Risk assessments should be
+  performed at Levels 1, 2, and 3. Risk assessments at higher levels should
+  consist primarily of a synthesis of various risk assessments performed at
+  lower levels and used for understanding the overall impact with the level
+  (e.g., at the enterprise or mission/function levels). C-SCRM risk assessments
+  should complement and inform risk assessments, which are performed as ongoing
+  activities throughout the SDLC, and processes should be appropriately aligned
+  with or integrated into ERM processes and governance.
+elementType: control

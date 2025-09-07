@@ -1,0 +1,15 @@
+id: b0d335b5-9236-4a28-a898-bbc702570b63
+externalId: CM-7
+name: Least Functionality
+description: Least functionality reduces the attack surface. Enterprises should
+  select components that allow the flexibility to specify and implement least
+  functionality. Enterprises should ensure least functionality in their
+  information systems and networks and throughout the SDLC. NIST SP 800-53, Rev.
+  5 control enhancement CM-7 (9) mechanism can be used to protect information
+  systems and networks from vulnerabilities that may be introduced by the use of
+  unauthorized hardware being connected to enterprise systems. Enterprises
+  should require their prime contractors to implement this control and flow down
+  this requirement to relevant sub-tier contractors. Departments and agencies
+  should refer to Appendix F to implement this guidance in accordance with
+  Executive Order 14028, Improving the Nation’s Cybersecurity.
+elementType: control

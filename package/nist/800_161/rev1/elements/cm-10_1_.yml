@@ -1,0 +1,32 @@
+id: eecf00f3-cb76-4d28-8061-0455f65db2dc
+externalId: CM-10(1)
+name: Software Usage Restrictions | Open-source Software
+description: "When considering software, enterprises should review all options
+  and corresponding risks, including open source or commercially licensed
+  components. When using open source software (OSS), the enterprise should
+  understand and review the open source\r
+
+  community’s typical procedures regarding provenance, configuration management,
+  sources, binaries, reusable frameworks, reusable libraries’ availability for
+  testing and use, and any other information that may impact levels of exposure
+  to cybersecurity risks throughout the supply chain. Numerous open source
+  solutions are currently in use by enterprises, including in integrated
+  development environments (IDEs) and web servers. The enterprise should:\r
+
+  a. Track the use of OSS and associated documentation,\r
+
+  b. Ensure that the use of OSS adheres to the licensing terms and that these
+  terms are acceptable to the enterprise,\r
+
+  c. Document and monitor the distribution of software as it relates to the
+  licensing agreement to control copying and distribution, and\r
+
+  d. Evaluate and periodically audit the OSS’s supply chain as provided by the
+  open source developer (e.g., information regarding provenance, configuration
+  management, use of reusable libraries, etc.). This evaluation can be done
+  through obtaining existing and often public documents, as well as using
+  experience based on software update and download processes in which the
+  enterprise may\r
+
+  have participated."
+elementType: control

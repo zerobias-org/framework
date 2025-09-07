@@ -1,0 +1,21 @@
+id: d75dd2d2-c0ed-454d-a48c-9f800f7f80ee
+externalId: SC-8
+name: Transmission Confidentiality and Integrity
+description: "The requirements for transmission confidentiality and integrity
+  should be integrated into agreements with suppliers, developers, system
+  integrators, external system service providers, and other ICT/OT-related
+  service providers. Acquirers, suppliers, developers, system integrators,
+  external system service providers, and other ICT/OT-related service providers
+  may repurpose existing security mechanisms (e.g., authentication,
+  authorization, or encryption) to achieve enterprise confidentiality and
+  integrity requirements. The degree of protection should be based on the
+  sensitivity of information to be transmitted and the relationship between the
+  enterprise and the suppliers, developers, system integrators, external system
+  service providers, and other ICT/OT-related service providers. Enterprises
+  should require their prime contractors to implement this control and flow down
+  this requirement to relevant sub-tier\r
+
+  contractors. Departments and agencies should refer to Appendix F to implement
+  this guidance in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity."
+elementType: control

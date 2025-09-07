@@ -1,0 +1,9 @@
+id: f4b59345-6696-4908-82cf-7820d768f2a6
+externalId: AC-4(19)
+name: Information Flow Enforcement | Validation of Metadata
+description: For C-SCRM, the validation of data and the relationship to its
+  metadata are critical. Much of the data transmitted through the supply chain
+  is validated with the verification of the associated metadata that is bound to
+  it. Ensure that proper filtering and inspection is put in place for validation
+  before allowing payloads into the supply chain
+elementType: control

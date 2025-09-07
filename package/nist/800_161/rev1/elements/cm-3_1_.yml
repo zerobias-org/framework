@@ -1,0 +1,13 @@
+id: 6c49132e-6bd2-426c-b091-8859c0c393db
+externalId: CM-3(1)
+name: Configuration Change Control | Automated Documentation, Notification, and
+  Prohibition of Changes
+description: Enterprises should define a set of system changes that are critical
+  to the protection of the information system and the underlying or
+  interoperating systems and networks. These changes may be defined based on a
+  criticality analysis (including components, processes, and functions) and
+  where vulnerabilities exist that are not yet remediated (e.g., due to resource
+  constraints). The change control process should also monitor for changes that
+  may affect an existing security control to ensure that this control continues
+  to function as required.
+elementType: control

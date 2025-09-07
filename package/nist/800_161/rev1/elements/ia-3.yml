@@ -1,0 +1,12 @@
+id: 7d0696a6-3297-476a-9d4c-49b0f1f78674
+externalId: IA-3
+name: Device Identification and Authentication
+description: Enterprises should implement capabilities to distinctly and
+  positively identify devices and software within their supply chain and, once
+  identified, verify that the identity is authentic. Devices that require unique
+  device-to-device identification and authentication should be defined by type,
+  device, or a combination of type and device. Software that requires
+  authentication should be identified through a software identification tag
+  (SWID) that enables verification of the software package and authentication of
+  the enterprise releasing the software package.
+elementType: control
