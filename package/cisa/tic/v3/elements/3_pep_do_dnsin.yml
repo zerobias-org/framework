@@ -1,0 +1,7 @@
+id: 71e616f8-aaa1-41b7-8025-bc08a1cc9fc3
+externalId: 3.PEP.DO.DNSIN
+name: Domain Name Sinkholing
+description: Domain name sinkholing protections are a form of denylisting that
+  protect clients from accessing malicious domains by responding to DNS queries
+  for those domains.
+elementType: control
