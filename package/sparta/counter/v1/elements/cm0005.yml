@@ -1,0 +1,16 @@
+id: 13ad6f41-0195-452e-9976-31c167d5f431
+externalId: CM0005
+name: Ground-based Countermeasures
+description: This countermeasure is focused on the protection of terrestrial
+  assets like ground networks and development environments/contractor networks,
+  etc. Traditional detection technologies and capabilities would be applicable
+  here. Utilizing resources from NIST CSF to properly secure these environments
+  using identify, protect, detect, recover, and respond is likely warranted.
+  Additionally, NISTIR 8401 may provide resources as well since it was developed
+  to focus on ground-based security for space systems
+  (https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8401.ipd.pdf). Furthermore,
+  the MITRE ATT&CK framework provides IT focused TTPs and their mitigations
+  https://attack.mitre.org/mitigations/enterprise/. Several recommended NIST
+  800-53 Rev5 controls are provided for reference when designing ground
+  systems/networks.
+elementType: control

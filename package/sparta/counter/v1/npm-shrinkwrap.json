@@ -1,0 +1,43 @@
+{
+  "name": "@zerobias-org/framework-sparta-counter-v1",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-sparta-counter-v1",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-sparta-counter": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-sparta-counter": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-sparta-counter/-/suite-sparta-counter-1.0.2.tgz",
+      "integrity": "sha512-kU1QyFWbw3JDLROjejWcDs8Opnl3ZjcrD3GyUOq8vV2oU/NZoeStmuWTLGoR8vlink6iDT7i3/x5wUWUJAcMkw==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-sparta": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-sparta": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-sparta/-/vendor-sparta-1.0.2.tgz",
+      "integrity": "sha512-gzP56NrPEoG1CnnyUmeULfUUp7SMnOWKjHoLaSA5DWrpBJYADzOmF2Jfvxayq2//K7S9yfMs+ipJvxWQ6n6fXw==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}

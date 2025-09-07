@@ -1,0 +1,28 @@
+id: 698ccbe8-9a13-42fa-9e6c-639dd1bf784d
+externalId: CM0001
+name: Protect Sensitive Information
+description: "Organizations should look to identify and properly classify
+  mission sensitive design/operations information (e.g., fault management
+  approach) and apply access control accordingly. Any location (ground system,
+  contractor networks, etc.) storing design information needs to ensure design
+  info is protected from exposure, exfiltration, etc. Space system sensitive
+  information may be classified as Controlled Unclassified Information (CUI) or
+  Company Proprietary. Space system sensitive information can typically include
+  a wide range of candidate material: the functional and performance
+  specifications, any ICDs (like radio frequency, ground-to-space, etc.),
+  command and telemetry databases, scripts, simulation and rehearsal
+  results/reports, descriptions of uplink protection including any
+  disabling/bypass features, failure/anomaly resolution, and any other sensitive
+  information related to architecture, software, and flight/ground /mission
+  operations. This could all need protection at the appropriate level (e.g.,
+  unclassified, CUI, proprietary, classified, etc.) to mitigate levels of cyber
+  intrusions that may be conducted against the project’s networks. Stand-alone
+  systems and/or separate database encryption may be needed with controlled
+  access and on-going Configuration Management to ensure changes in command
+  procedures and critical database areas are tracked, controlled, and fully
+  tested to avoid loss of science or the entire mission. Sensitive documentation
+  should only be accessed by personnel with defined roles and a need to know.
+  Well established access controls (roles, encryption at rest and transit, etc.)
+  and data loss prevention (DLP) technology are key countermeasures. The DLP
+  should be configured for the specific data types in question."
+elementType: control
