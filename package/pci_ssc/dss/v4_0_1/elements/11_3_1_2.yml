@@ -1,0 +1,15 @@
+id: c2096854-58e1-4676-846c-a4d14cddb35a
+externalId: 11.3.1.2
+name: 11.3.1.2
+description: "Internal vulnerability scans are performed via authenticated
+  scanning as follows:\r
+
+  ▪ Systems that are unable to accept credentials for authenticated scanning are
+  documented.\r
+
+  ▪ Sufficient privileges are used for those systems that accept credentials for
+  scanning.\r
+
+  ▪ If accounts used for authenticated scanning can be used for interactive
+  login, they are managed in accordance with Requirement 8.2.2."
+elementType: control
