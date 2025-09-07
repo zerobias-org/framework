@@ -1,0 +1,19 @@
+id: ed6b9a11-c862-47a1-b972-9911d630c28a
+name: 27002 - Information security, cybersecurity and privacy protection -
+  Information security controls
+externalId: ISO 27002 2022
+description: 27002 - Information security, cybersecurity and privacy protection
+  - Information security controls
+code: iso_27002_2022_scf
+status: approved
+url: https://www.iso.org/standard/75652.html
+version: "2022"
+external: true
+internal: false
+elementTypes:
+  - id: ecce74e1-dd43-4ede-b806-a9dd2542f419
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
