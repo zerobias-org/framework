@@ -1,0 +1,37 @@
+{
+  "name": "@zerobias-org/framework-ca-pci-v10_171",
+  "version": "1.0.0",
+  "description": "Protecting controlled information in non-Government of Canada systems and organizations (ITSP.10.171)",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/ca/pci/v10_171/"
+  },
+  "auditmation": {
+    "package": "ca.pci.v10_171.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-ca-pci": "latest"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  }
+}
