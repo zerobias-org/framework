@@ -1,0 +1,10 @@
+id: 7634a904-b434-4dd3-9192-3e1806554097
+externalId: MS-2.11-001
+name: MS-2.11-001
+description: Apply use-case appropriate benchmarks (e.g., Bias Benchmark
+  Questions, Real Hateful or Harmful Prompts, Winogender Schemas15) to quantify
+  systemic bias, stereotyping, denigration, and hateful content in GAI system
+  outputs; Document assumptions and limitations of benchmarks, including any
+  actual or possible training/test data cross contamination, relative to
+  in-context deployment environment.
+elementType: control
