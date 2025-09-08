@@ -12,7 +12,8 @@
   "auditmation": {
     "package": "eu.gpdr.v1.framework",
     "import-artifact": "framework",
-    "dataloader-version": "3.13.8"
+    "dataloader-version": "3.13.8",
+    "deprecated": true
   },
   "engines": {
     "node": ">=16.11.0",

@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-eu-gpdr-v1",
-  "version": "1.0.0",
+  "version": "1.1.0-rc.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-eu-gpdr-v1",
-      "version": "1.0.0",
+      "version": "1.1.0-rc.0",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/suite-eu-gpdr": "latest"
