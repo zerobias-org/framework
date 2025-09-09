@@ -1,0 +1,7 @@
+id: e32951ee-98cc-424e-95b2-2c1f096d6b58
+externalId: "2.0"
+name: Conditional Authorization (Users, NPEs, M2M)
+description: The ability to grant authorization to a resource contingent upon
+  the continued trustworthiness of the supplicant. This trustworthiness can
+  affect by the device hygiene, user and entity behavior, and other factors.
+elementType: control

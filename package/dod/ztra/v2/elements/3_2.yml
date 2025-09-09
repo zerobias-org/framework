@@ -1,0 +1,13 @@
+id: cabe66fc-6643-4707-9224-b452b176bf51
+externalId: "3.2"
+name: Micro-segmentation
+description: Micro-segmentation is the practice of dividing (isolating) the
+  network into small logical segments by enabling granular access control,
+  whereby users, applications, workloads and devices are segmented based on
+  logical, not physical, attributes. This also provides an advantage over
+  traditional perimeter security, as the smaller segments present a reduced
+  attack surface (for malicious actors). In a ZT Architecture, security settings
+  can be applied to different types of traffic, creating policies that limit
+  network and application flows between workloads to those that are explicitly
+  permitted.
+elementType: control
