@@ -1,0 +1,17 @@
+id: 4276a086-26b6-4a11-8301-fd06859468d6
+name: Farm Credit Administration (FCA) Cyber Risk Management
+externalId: US FCA V1
+description: Farm Credit Administration (FCA) Cyber Risk Management
+code: us_fca_v1_scf
+status: approved
+url: https://www.federalregister.gov/documents/2023/12/11/2023-27102/cyber-risk-management#sectno-citation-609.905
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 8638f14d-9a9c-4d12-8bfd-edf11c19bc4b
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

@@ -1,0 +1,15 @@
+id: 1de58e89-4b44-4a14-b354-97e618b3f83c
+externalId: 8.3.10.1
+name: 8.3.10.1
+description: "Additional requirement for service providers only: If
+  passwords/passphrases are used as the only authentication factor for customer
+  user access (i.e., in any single-factor authentication implementation) then
+  either:\r
+
+  ▪ Passwords/passphrases are changed at least once every 90 days,\r
+
+  OR\r
+
+  ▪ The security posture of accounts is dynamically analyzed, and real-time
+  access to resources is automatically determined accordingly."
+elementType: control

@@ -1,0 +1,7 @@
+id: 3bbc2398-7219-4c31-8c23-6a385102758e
+externalId: SC-23(5)
+name: Session Authenticity | Allowed Certificate Authorities
+description: "Only allow the use of [Assignment: organization-defined
+  certificate authorities] for verification of the establishment of protected
+  sessions."
+elementType: control

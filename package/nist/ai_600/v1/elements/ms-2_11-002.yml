@@ -1,0 +1,17 @@
+id: 8b4ff107-a093-459c-9e48-488781875f32
+externalId: MS-2.11-002
+name: MS-2.11-002
+description: Conduct fairness assessments to measure systemic bias. Measure GAI
+  system performance across demographic groups and subgroups, addressing both
+  quality of service and any allocation of services and resources. Quantify
+  harms using ﬁeld testing with sub-group populations to determine likelihood of
+  exposure to generated content exhibiting harmful bias, AI red-teaming with
+  counterfactual and low-context (e.g., “leader,” “bad guys”) prompts. For ML
+  pipelines or business processes with categorical or numeric outcomes that rely
+  on GAI, apply general fairness metrics (e.g., demographic parity, equalized
+  odds, equal opportunity, statistical hypothesis tests), to the pipeline or
+  business outcome where appropriate; Custom, context-speciﬁc metrics developed
+  in collaboration with domain experts and aﬀected communities; Measurements of
+  the prevalence of denigration in generated content in deployment (e.g., sub-
+  sampling a fraction of traﬃc and manually annotating denigrating content).
+elementType: control

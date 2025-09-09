@@ -1,0 +1,7 @@
+id: b6afdc41-45f8-4414-873c-1c1e23bf4b4d
+externalId: CM-4(1)
+name: Impact Analyses | Separate Test Environments
+description: Analyze changes to the system in a separate test environment before
+  implementation in an operational environment, looking for security and privacy
+  impacts due to flaws, weaknesses, incompatibility, or intentional malice.
+elementType: control

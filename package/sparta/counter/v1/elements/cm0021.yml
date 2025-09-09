@@ -1,0 +1,7 @@
+id: 2ca535dc-d28d-4ade-937f-09251f07fb9e
+externalId: CM0021
+name: Software Digital Signature
+description: Prevent the installation of Flight Software without verification
+  that the component has been digitally signed using a certificate that is
+  recognized and approved by the mission.
+elementType: control

@@ -1,0 +1,14 @@
+id: 8a312b4c-f44d-44ed-8a73-ea0e563e5da4
+externalId: SI-4
+name: System Monitoring
+description: This control includes monitoring vulnerabilities that result from
+  past supply chain cybersecurity compromises, such as malicious code implanted
+  during software development and set to activate after deployment. System
+  monitoring is frequently performed by external service providers.
+  Service-level agreements with these providers should be structured to
+  appropriately reflect this control. Enterprises should require their prime
+  contractors to implement this control and flow down this requirement to
+  relevant sub-tier contractors. Departments and agencies should refer to
+  Appendix F to implement this guidance in accordance with Executive Order
+  14028, Improving the Nation’s Cybersecurity.
+elementType: control

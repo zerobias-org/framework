@@ -1,0 +1,9 @@
+id: b114f23c-66d6-459e-aa63-b545fbe83799
+externalId: "2420"
+name: Authentication Feedback
+description: The Supplier shall configure systems to minimise feedback
+  information from failed logons to ensure that the system does not provide any
+  information that would allow unauthorised individuals to compromise
+  authentication mechanisms. e.g. explicitly stating that the password is the
+  incorrect authentication component.
+elementType: control

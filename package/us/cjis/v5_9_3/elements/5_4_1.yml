@@ -1,0 +1,18 @@
+id: a612089f-7500-4f73-af0d-9e6918cb082c
+externalId: 5.4.1
+name: Auditable Events and Content (Information Systems)
+description: "The agency’s information system shall generate audit records for
+  defined events. These defined events include identifying significant events
+  which need to be audited as relevant to the security of the information
+  system. The agency shall specify which information system components carry out
+  auditing activities. Auditing activity can affect information system
+  performance and this issue must be considered as a separate factor during the
+  acquisition of information systems.\r
+
+  The agency’s information system shall produce, at the application and/or
+  operating system level, audit records containing sufficient information to
+  establish what events occurred, the sources of the events, and the outcomes of
+  the events. The agency shall periodically review and update the list of
+  agency-defined auditable events. In the event an agency does not use an
+  automated system, manual recording of activities shall still take place."
+elementType: control

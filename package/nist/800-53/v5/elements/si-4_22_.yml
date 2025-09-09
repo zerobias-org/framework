@@ -1,0 +1,8 @@
+id: 1d60b3cf-2b9e-4664-8d36-ac18d3b74712
+externalId: SI-4(22)
+name: System Monitoring | Unauthorized Network Services
+description: "a. Detect network services that have not been authorized or
+  approved by [Assignment: organization-defined authorization or approval
+  processes]; andb. [Selection (one or more): Audit; Alert [Assignment:
+  organization-defined personnel or roles]] when detected."
+elementType: control

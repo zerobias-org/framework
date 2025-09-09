@@ -1,0 +1,17 @@
+id: bc0f3511-237a-473b-9b47-8b675f46364b
+externalId: AU-16(2)
+name: Cross-organizational Audit Logging | Sharing of Audit Information
+description: Whether managing a distributed audit environment or an audit
+  datasharing environment between enterprises and its system integrators or
+  external services providers, enterprises should establish a set of
+  requirements for the process of sharing audit information. In the case of the
+  system integrator and external service provider and the enterprise, a
+  service-level agreement of the type of audit data required versus what can be
+  provided must be agreed to in advance to ensure that the enterprise obtains
+  the relevant audit information needed to ensure that appropriate protections
+  are in place to meet its mission operation protection needs. Ensure that
+  coverage of both the information systems and supply chain network are
+  addressed for the collection and sharing of audit information. Enterprises
+  should require their prime contractors to implement this control and flow down
+  this requirement to relevant sub-level contractors.
+elementType: control

@@ -1,0 +1,21 @@
+id: fbf717f9-8ac0-4070-9f9e-481e72d09489
+externalId: NFO - SA-10
+name: NFO - SA-10
+description: "The organization requires the developer of the information system,
+  system component, or information system service to:\r
+
+  a. Perform configuration management during system, component, or service
+  [Selection (one or more): design; development; implementation; operation];\r
+
+  b. Document, manage, and control the integrity of changes to [Assignment:
+  organization-defined configuration items under configuration management];\r
+
+  c. Implement only organization-approved changes to the system, component, or
+  service;\r
+
+  d. Document approved changes to the system, component, or service and the
+  potential security impacts of such changes; and\r
+
+  e. Track security flaws and flaw resolution within the system, component, or
+  service and report findings to [Assignment: organization-defined personnel]."
+elementType: control

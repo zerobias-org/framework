@@ -1,0 +1,17 @@
+id: 41693fe2-9705-4ef1-9d06-c914be01a063
+name: BOE-A-2022-7191
+externalId: Spain BOE-A-2022-7191
+description: BOE-A-2022-7191
+code: es_boe_v2022_scf
+status: approved
+url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-7191
+version: v2022
+external: true
+internal: false
+elementTypes:
+  - id: fbb168a3-e2de-4621-bf80-c71522ed6add
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

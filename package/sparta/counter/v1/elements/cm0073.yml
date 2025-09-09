@@ -1,0 +1,13 @@
+id: 9a0e1c63-1acc-49f8-acf5-f38ba63ac6fc
+externalId: CM0073
+name: Traffic Flow Analysis Defense
+description: Utilizing techniques to assure traffic flow security and
+  confidentiality to mitigate or defeat traffic analysis attacks or reduce the
+  value of any indicators or adversary inferences. This may be a subset of
+  COMSEC protections, but the techniques would be applied where required to
+  links that carry TT&C and/or data transmissions (to include on-board the
+  spacecraft) where applicable given value and attacker capability. Techniques
+  may include but are not limited to methods to pad or otherwise obfuscate
+  traffic volumes/duration and/or periodicity, concealment of routing
+  information and/or endpoints, or methods to frustrate statistical analysis.
+elementType: control

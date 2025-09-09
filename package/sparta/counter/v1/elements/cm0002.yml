@@ -1,0 +1,17 @@
+id: ba0cf809-2972-4ac1-9507-eea1d17c4fce
+externalId: CM0002
+name: COMSEC
+description: A component of cybersecurity to deny unauthorized persons
+  information derived from telecommunications and to ensure the authenticity of
+  such telecommunications. COMSEC includes cryptographic security, transmission
+  security, emissions security, and physical security of COMSEC material. It is
+  imperative to utilize secure communication protocols with strong cryptographic
+  mechanisms to prevent unauthorized disclosure of, and detect changes to,
+  information during transmission. Systems should also maintain the
+  confidentiality and integrity of information during preparation for
+  transmission and during reception. Spacecraft should not employ a mode of
+  operations where cryptography on the TT&C link can be disabled (i.e.,
+  crypto-bypass mode). The cryptographic mechanisms should identify and reject
+  wireless transmissions that are deliberate attempts to achieve imitative or
+  manipulative communications deception based on signal parameters.
+elementType: control

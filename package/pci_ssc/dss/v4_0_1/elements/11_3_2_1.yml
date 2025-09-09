@@ -1,0 +1,13 @@
+id: 8f8a7b92-346c-4aab-baf6-10dece737df1
+externalId: 11.3.2.1
+name: 11.3.2.1
+description: "External vulnerability scans are performed after any significant
+  change as follows:\r
+
+  ▪ Vulnerabilities that are scored 4.0 or higher by the CVSS are resolved.\r
+
+  ▪ Rescans are conducted as needed.\r
+
+  ▪ Scans are performed by qualified personnel and organizational independence
+  of the tester exists (not required to be a QSA or ASV)."
+elementType: control

@@ -1,0 +1,8 @@
+id: 5bb878ad-0bf5-4b49-a232-f03e86c85828
+externalId: AC-6(2)
+name: LEAST PRIVILEGE | NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS
+description: Require that users of system accounts (or roles) with access to
+  privileged security functions or security-relevant information (e.g., audit
+  logs), use non-privileged accounts or roles, when accessing non-security
+  functions.
+elementType: control

@@ -1,0 +1,16 @@
+id: 6cf778b6-1e98-4498-8181-c53b9aee2d5e
+externalId: 3.6.1
+name: 3.6.1
+description: "Procedures are defined and implemented to protect cryptographic
+  keys used to protect stored account data against disclosure and misuse that
+  include:\r
+
+  ▪ Access to keys is restricted to the fewest number of custodians necessary.\r
+
+  ▪ Key-encrypting keys are at least as strong as the data-encrypting keys they
+  protect.\r
+
+  ▪ Key-encrypting keys are stored separately from data-encrypting keys.\r
+
+  ▪ Keys are stored securely in the fewest possible locations and forms."
+elementType: control

@@ -1,0 +1,21 @@
+id: f35758a0-bd5c-4c9a-a7dd-8a6d83e710ce
+externalId: AC-11
+name: DEVICE LOCK
+description: "a. Prevent further access to the system by initiating a device
+  lock after a maximum of 30 minutes of inactivity and requiring the user to
+  initiate a device lock before leaving the system unattended.\r
+
+  NOTE: In the interest of safety, devices that are: (1) part of a criminal
+  justice conveyance; or \r
+
+  (2) used to perform dispatch functions and located within a physically secure
+  location; or\r
+
+  (3) terminals designated solely for the purpose of receiving alert
+  notifications (i.e., receive only terminals or ROT) used within physically
+  secure location facilities that remain staffed when in operation, are exempt
+  from this requirement.\r
+
+  b. Retain the device lock until the user reestablishes access using
+  established identification and authentication procedures."
+elementType: control

@@ -1,0 +1,10 @@
+id: 4e307b37-d440-4618-bfd8-4777ac69f429
+externalId: CM-7(4)
+name: Least Functionality | Unauthorized Software — Deny-by-exception
+description: Enterprises should define requirements and deploy appropriate
+  processes to specify and detect software that is not allowed. This can be
+  aided by defining a requirement to, at a minimum, not use disreputable or
+  unauthorized software. Enterprises should require their prime contractors to
+  implement this control and flow down this requirement to relevant sub-tier
+  contractors
+elementType: control

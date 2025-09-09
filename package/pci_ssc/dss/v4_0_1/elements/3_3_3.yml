@@ -1,0 +1,13 @@
+id: 923c1ad2-94c9-49bc-b3d7-006ff00b6be0
+externalId: 3.3.3
+name: 3.3.3
+description: "Additional requirement for issuers and companies that support
+  issuing services and store sensitive authentication data: Any storage of
+  sensitive authentication data is:\r
+
+  ▪   Limited to that which is needed for a legitimate issuing business need and
+  is secured.\r
+
+  ▪   Encrypted using strong cryptography. This bullet is a best practice until
+  its effective date; refer to Applicability Notes below for details."
+elementType: control

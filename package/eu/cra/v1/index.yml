@@ -1,0 +1,17 @@
+id: 05bc8add-fe67-4b97-ab35-73c1706a10c6
+name: EU Cyber Resilience Act
+externalId: EU Cyber Resilience Act
+description: EU Cyber Resilience Act
+code: eu_cra_v1_scf
+status: approved
+url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52022PC0454
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 49773734-d706-43e3-811c-2b7c8c20f548
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

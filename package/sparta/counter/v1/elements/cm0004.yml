@@ -1,0 +1,15 @@
+id: 3fb5862c-cce5-4e6b-b319-05549e84d927
+externalId: CM0004
+name: Development Environment Security
+description: In order to secure the development environment, the first step is
+  understanding all the devices and people who interact with it. Maintain an
+  accurate inventory of all people and assets that touch the development
+  environment. Ensure strong multi-factor authentication is used across the
+  development environment, especially for code repositories, as threat actors
+  may attempt to sneak malicious code into software that's being built without
+  being detected. Use zero-trust access controls to the code repositories where
+  possible. For example, ensure the main branches in repositories are protected
+  from injecting malicious code. A secure development environment requires
+  change management, privilege management, auditing and in-depth monitoring
+  across the environment.
+elementType: control

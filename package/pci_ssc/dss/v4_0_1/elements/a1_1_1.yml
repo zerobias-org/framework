@@ -1,0 +1,10 @@
+id: c2bd6c3e-1f3e-4450-9402-7ee3f8ef762c
+externalId: A1.1.1
+name: A1.1.1
+description: "Logical separation is implemented as follows:\r
+
+  ▪ The provider cannot access its customers’ environments without
+  authorization.\r
+
+  ▪ Customers cannot access the provider’s environment without authorization."
+elementType: control

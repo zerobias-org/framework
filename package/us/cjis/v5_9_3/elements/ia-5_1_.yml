@@ -1,0 +1,33 @@
+id: 3c270ca2-d74f-4d93-a343-800902cc5255
+externalId: IA-5(1)
+name: AUTHENTICATOR MANAGEMENT | AUTHENTICATOR TYPES
+description: "(a) Memorized Secret Authenticators and Verifiers:\r
+
+  1. Maintain a list of commonly-used, expected, or compromised passwords and
+  update the list quarterly and when organizational passwords are suspected to
+  have been compromised directly or indirectly;\r
+
+  2. Require immediate selection of a new password upon account recovery;3\r
+
+  3. Allow user selection of long passwords and passphrases, including spaces
+  and all printable characters;3\r
+
+  4. Employ automated tools to assist the user in selecting strong password
+  authenticators;3\r
+
+  5. Enforce the following composition and complexity rules when agencies elect
+  to follow basic password standards:\r
+
+  (a) Not be a proper name.\r
+
+  (b) Not be the same as the Userid.\r
+
+  (c) Expire within a maximum of 90 calendar days.\r
+
+  (d) Not be identical to the previous ten (10) passwords.\r
+
+  (e) Not be displayed when entered.\r
+
+  6. If chosen by the subscriber, memorized secrets SHALL be at least 8
+  characters in length."
+elementType: control

@@ -1,0 +1,7 @@
+id: 138a9fbf-fd63-4a46-b45d-1a651281adb1
+externalId: "2315"
+name: Email Authentication Methods
+description: The Supplier shall implement Domain-based Message Authentication,
+  Reporting and Conformance (DMARC), DomainKeys Identified Mail (DKIM) and
+  Sender Policy Framework (SPF) to verify the authenticity of an email's source.
+elementType: control

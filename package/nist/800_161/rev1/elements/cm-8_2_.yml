@@ -1,0 +1,13 @@
+id: 7f360137-e362-4c7e-9eed-f1e35ce21342
+externalId: CM-8(2)
+name: System Component Inventory | Automated Maintenance
+description: The enterprise should implement automated maintenance mechanisms to
+  ensure that changes to component inventory for the information systems and
+  networks are monitored for installation, update, and removal. When automated
+  maintenance is performed with a predefined frequency and with the automated
+  collation of relevant inventory information about each defined component, the
+  enterprise should ensure that updates are available to relevant stakeholders
+  for evaluation. Predefined frequencies for data collection should be less
+  predictable in order to reduce the risk of an insider threat bypassing
+  security mechanisms.
+elementType: control

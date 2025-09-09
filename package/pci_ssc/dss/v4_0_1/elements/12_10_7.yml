@@ -1,0 +1,18 @@
+id: 03c19512-2f1c-4461-a62b-7582206c79dd
+externalId: 12.10.7
+name: 12.10.7
+description: "Incident response procedures are in place, to be initiated upon
+  the detection of stored PAN anywhere it is not expected, and include:\r
+
+  ▪ Determining what to do if PAN is discovered outside the CDE, including its
+  retrieval, secure deletion, and/or migration into the currently defined CDE,
+  as applicable.\r
+
+  ▪ Identifying whether sensitive authentication data is stored with PAN.\r
+
+  ▪ Determining where the account data came from and how it ended up where it
+  was not expected.\r
+
+  ▪ Remediating data leaks or process gaps that resulted in the account data
+  being where it was not expected."
+elementType: control

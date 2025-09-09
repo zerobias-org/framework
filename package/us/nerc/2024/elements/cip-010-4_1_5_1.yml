@@ -1,0 +1,9 @@
+id: 8b566155-56a9-40de-b92d-e8cbe6318fe1
+externalId: CIP-010-4 1.5.1
+name: CIP-010-4 Table R1 – Configuration Change Management
+description: Prior to implementing any change in the production environment,
+  test the changes in a test environment or test the changes in a production
+  environment where the test is performed in a manner that minimizes adverse
+  effects, that models the baseline configuration to ensure that required cyber
+  security controls in CIP-005 and CIP-007 are not adversely affected; and
+elementType: control

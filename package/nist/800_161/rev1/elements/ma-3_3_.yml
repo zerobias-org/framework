@@ -1,0 +1,19 @@
+id: 9ae491ca-741f-44b5-bd5f-09309185ba7f
+externalId: MA-3(3)
+name: Maintenance Tools | Prevent Unauthorized Removal
+description: The unauthorized removal of systems and network maintenance tools
+  from the supply chain may introduce supply chain risks, such as unauthorized
+  modification, replacement with counterfeit, or malware insertion while the
+  tool is outside of the enterprise’s control. Systems and network maintenance
+  tools can include an integrated development environment (IDE), testing, or
+  vulnerability scanning. For C-SCRM, it is important that enterprises should
+  explicitly authorize, track, and audit any removal of maintenance tools. Once
+  systems and network tools are allowed access to an enterprise/information
+  system, they should remain the property/asset of the system owner and tracked
+  if removed and used elsewhere in the enterprise. ICT maintenance tools either
+  currently in use or in storage should not be allowed to leave the enterprise’s
+  premises until they are properly vetted for removal (i.e., maintenance tool
+  removal should not exceed in scope what was authorized for removal and should
+  be completed in accordance with the enterprise’s established policies and
+  procedures).
+elementType: control

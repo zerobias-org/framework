@@ -1,0 +1,19 @@
+id: c9f62711-d685-467d-b565-ed3da8e610af
+externalId: A3.2.5.2
+name: A3.2.5.2
+description: "Response procedures are implemented to be initiated upon the
+  detection of cleartext PAN outside the CDE to include:\r
+
+  ▪ Determining what to do if cleartext PAN is discovered outside the CDE,
+  including its retrieval, secure deletion, and/or migration into the currently
+  defined CDE, as applicable.\r
+
+  ▪ Determining how the data ended up outside the CDE.\r
+
+  ▪ Remediating data leaks or process gaps that resulted in the data being
+  outside the CDE.\r
+
+  ▪ Identifying the source of the data.\r
+
+  ▪ Identifying whether any track data is stored with the PANs."
+elementType: control

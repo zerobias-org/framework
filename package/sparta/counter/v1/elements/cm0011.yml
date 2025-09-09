@@ -1,0 +1,13 @@
+id: 09e002db-e3c3-475a-bcb3-3c68cb4101b9
+externalId: CM0011
+name: Vulnerability Scanning
+description: "Vulnerability scanning is used to identify known software
+  vulnerabilities (excluding custom-developed software - ex: COTS and
+  Open-Source). Utilize scanning tools to identify vulnerabilities in
+  dependencies and outdated software (i.e., software composition analysis).
+  Ensure that vulnerability scanning tools and techniques are employed that
+  facilitate interoperability among tools and automate parts of the
+  vulnerability management process by using standards for: (1) Enumerating
+  platforms, custom software flaws, and improper configurations; (2) Formatting
+  checklists and test procedures; and (3) Measuring vulnerability impact."
+elementType: control

@@ -1,0 +1,6 @@
+id: a6d3ee62-693b-4ba9-a879-0c593d46a84a
+externalId: A.03.01.08.a
+name: Unsuccessful Logon Attempts
+description: "a limit of <A.03.01.08.ODP[01]: number> consecutive invalid logon
+  attempts by a user during <A.03.01.08.ODP[02]: time period> is enforced."
+elementType: control

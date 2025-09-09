@@ -1,0 +1,14 @@
+id: fdd4a140-b68b-413c-bddd-d0f4eba0292e
+externalId: "2305"
+name: Remote Access - VPN (Virtual Private Network)
+description: "The Supplier shall ensure the following controls are enforced for
+  staff to connect to organisational networks and systems using Remote Access
+  technologies, for example VPN:\r
+
+  i) Enable MFA prior to establishing a remote connection to the network\r
+
+  ii) Encrypt all data transmitted over a VPN connection\r
+
+  iii) Disable split-tunnelling to ensure all Data is only transmitted via
+  organisation controlled channels."
+elementType: control

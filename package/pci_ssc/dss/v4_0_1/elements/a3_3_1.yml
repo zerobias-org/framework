@@ -1,0 +1,30 @@
+id: 3f388724-3478-4af4-8f3a-f97a87ad603a
+externalId: A3.3.1
+name: A3.3.1
+description: "Failures of critical security control systems are detected,
+  alerted, and addressed promptly, including but not limited to failure of:\r
+
+  ▪ Network security controls\r
+
+  ▪ IDS/IPS\r
+
+  ▪ FIM\r
+
+  ▪ Anti-malware solutions\r
+
+  ▪ Physical access controls\r
+
+  ▪ Logical access controls\r
+
+  ▪ Audit logging mechanisms\r
+
+  ▪ Segmentation controls (if used)\r
+
+  ▪ Automated audit log review mechanisms. This bullet is a best practice until
+  its effective date; refer to Applicability Notes below for details.\r
+
+  ▪ Automated code review tools (if used). This bullet is a best practice until
+  its effective date; refer to Applicability Notes below for details.\r
+
+  PCI DSS Reference: Requirements 1-12"
+elementType: control

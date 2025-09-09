@@ -1,0 +1,9 @@
+id: cf279115-aaa5-451f-b244-99df70257e0b
+externalId: MA-4(4)
+name: Nonlocal Maintenance | Authentication and Separation of Maintenance Sessions
+description: "Protect nonlocal maintenance sessions by:a. Employing [Assignment:
+  organization-defined authenticators that are replay resistant]; andb.
+  Separating the maintenance sessions from other network sessions with the
+  system by either:1. Physically separated communications paths; or2. Logically
+  separated communications paths."
+elementType: control

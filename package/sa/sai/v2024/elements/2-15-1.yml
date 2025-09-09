@@ -1,0 +1,16 @@
+id: ea56f6ef-f9ab-4d8d-9787-728f9c0d0e64
+externalId: 2-15-1
+name: 2-15-1
+description: "Utilize hardware that embeds cybersecurity functions at the
+  component level, to maintain protection and integrity of the device, and it is
+  advised to implement the following requirements to secure IoT hardware
+  components, where applicable:\r
+
+  ▪ Deploy a Hardware Root of Trust component, which helps in authenticating
+  hardware, firmware, and software components before loading them. It also helps
+  in establishing trust in the boot environment.\r
+
+  ▪ Include only essential physical external ports that are necessary for the
+  IoT device to function and enable only trusted connections to access and
+  function on the physical ports."
+elementType: control

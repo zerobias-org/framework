@@ -1,0 +1,8 @@
+id: 27b89b39-e1e8-4a1d-a48a-0d42e730ec6d
+externalId: CM0012
+name: Software Bill of Materials
+description: Generate Software Bill of Materials (SBOM) against the entire
+  software supply chain and cross correlate with known vulnerabilities (e.g.,
+  Common Vulnerabilities and Exposures) to mitigate known vulnerabilities.
+  Protect the SBOM according to countermeasures in CM0001.
+elementType: control
