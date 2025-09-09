@@ -1,0 +1,17 @@
+id: 0be72a1e-84ba-4ad1-8be7-9d25595a09dd
+name: Information Protection Act
+externalId: Information Protection Act
+description: Information Protection Act
+code: us-tn_ipa_v1_scf
+status: approved
+url: https://www.capitol.tn.gov/Bills/113/Amend/HA0348.pdf
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 457ed976-a308-483b-98fc-c455fd98ae71
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
