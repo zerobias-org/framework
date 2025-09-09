@@ -1,0 +1,17 @@
+id: fd8943d8-df02-4ae8-b8b1-b71c00dc6c00
+name: TISAX ISA
+externalId: TISAX ISA
+description: TISAX ISA
+code: tisax_isa_v6-0-3_scf
+status: approved
+url: https://portal.enx.com/en-us/TISAX/downloads/
+version: v6_0_3
+external: true
+internal: false
+elementTypes:
+  - id: 3cc5c36d-5f55-44f7-b628-73b964f8ebfe
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

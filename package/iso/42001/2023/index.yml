@@ -1,0 +1,20 @@
+id: ac43dedc-c3f0-4985-9fdd-2b594b1919b5
+name: ISO/IEC 42001:2023 - Information technology - Artificial intelligence -
+  Management system
+externalId: ISO/IEC 42001:2023 - Information technology - Artificial
+  intelligence - Management system
+description: ISO/IEC 42001:2023 - Information technology - Artificial
+  intelligence - Management system
+code: iso_42001_2023_scf
+status: approved
+url: https://www.iso.org/standard/81230.html
+version: "2023"
+external: true
+internal: false
+elementTypes:
+  - id: a7086d23-15df-49d1-858a-e6e0d69d951a
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
