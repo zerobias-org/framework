@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-ca-pci-v10_171",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-ca-pci-v10_171",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/suite-ca-pci": "latest"

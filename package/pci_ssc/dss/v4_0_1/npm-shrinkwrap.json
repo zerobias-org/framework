@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-pci_ssc-dss-v4_0_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-pci_ssc-dss-v4_0_1",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/suite-pci_ssc-dss": "latest"
