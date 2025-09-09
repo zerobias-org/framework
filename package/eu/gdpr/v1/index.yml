@@ -1,0 +1,17 @@
+id: eae1b8fb-e831-486c-b5e7-2eb26a45614b
+name: General Data Protection Regulation (GDPR)
+externalId: EU GDPR V1
+description: General Data Protection Regulation (GDPR)
+code: eu_gdpr_v1_scf
+status: approved
+url: http://ec.europa.eu/justice/data-protection/reform/index_en.htm
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 88b97296-a6ee-4f10-883f-8904bfa7ccc4
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

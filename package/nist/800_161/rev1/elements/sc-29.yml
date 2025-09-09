@@ -1,0 +1,13 @@
+id: 98589bfa-620c-4942-99f3-5206bf9970a2
+externalId: SC-29
+name: Heterogeneity
+description: Heterogeneity techniques include the use of different operating
+  systems, virtualization techniques, and multiple sources of supply. Multiple
+  sources of supply can improve component availability and reduce the impact of
+  a supply chain cybersecurity compromise. In case of a supply chain
+  cybersecurity compromise, an alternative source of supply will allow the
+  enterprises to more rapidly switch to an alternative system/component that may
+  not be affected by the compromise. Addtionally, heterogeneous components
+  decrease the attack surface by limiting the impact to the subset of the
+  infrastructure that is using vulnerable components.
+elementType: control

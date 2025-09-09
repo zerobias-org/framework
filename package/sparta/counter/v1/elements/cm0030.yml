@@ -1,0 +1,11 @@
+id: 9098f324-17ab-45fb-a69c-2579902e4473
+externalId: CM0030
+name: Crypto Key Management
+description: Leverage best practices for crypto key management as defined by
+  organization like NIST or the National Security Agency. Leverage only approved
+  cryptographic algorithms, cryptographic key generation algorithms or key
+  distribution techniques, authentication techniques, or evaluation criteria.
+  Encryption key handling should be performed outside of the onboard software
+  and protected using cryptography. Encryption keys should be restricted so that
+  they cannot be read via any telecommands.
+elementType: control

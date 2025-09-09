@@ -1,0 +1,35 @@
+id: 1ff9e9ad-6217-4c4f-9e35-f20299bf3a8b
+externalId: IA-5
+name: AUTHENTICATOR MANAGEMENT
+description: "Manage system authenticators by:\r
+
+  a. Verifying, as part of the initial authenticator distribution, the identity
+  of the individual, group, role, service, or device receiving the
+  authenticator;3\r
+
+  b. Establishing initial authenticator content for any authenticators issued by
+  the organization;\r
+
+  c. Ensuring that authenticators have sufficient strength of mechanism for
+  their intended use;3\r
+
+  d. Establishing and implementing administrative procedures for initial
+  authenticator distribution, for lost or compromised or damaged authenticators,
+  and for revoking authenticators;\r
+
+  e. Changing default authenticators prior to first use;\r
+
+  f. Changing or refreshing authenticators annually or when there is evidence of
+  authenticator compromise;\r
+
+  g. Protecting authenticator content from unauthorized disclosure and
+  modification;\r
+
+  h. Requiring individuals to take, and having devices implement, specific
+  controls to protect authenticators; and3\r
+
+  i. Changing authenticators for group or role accounts when membership to those
+  accounts changes.3\r
+
+  j. AAL2 Specific Requirements"
+elementType: control

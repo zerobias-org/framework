@@ -1,0 +1,9 @@
+id: 371aa2a6-e8f4-4a97-a4d0-6ad5797ce90b
+externalId: AU-12(1)
+name: Audit Record Generation | System-wide and Time-correlated Audit Trail
+description: "Compile audit records from [Assignment: organization-defined
+  system components] into a system-wide (logical or physical) audit trail that
+  is time-correlated to within [Assignment: organization-defined level of
+  tolerance for the relationship between time stamps of individual records in
+  the audit trail]."
+elementType: control

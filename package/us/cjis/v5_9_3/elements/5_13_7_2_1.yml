@@ -1,0 +1,43 @@
+id: cad7400f-c89c-44ad-ac4d-01fca6f40d60
+externalId: 5.13.7.2.1
+name: Compensating Controls
+description: "CSO approved compensating controls to meet the AA requirement on
+  agency-issued smartphones and tablets with limited-feature operating systems
+  are permitted. Compensating controls are temporary control measures that are
+  implemented in lieu of the required AA control measures when an agency cannot
+  meet a requirement due to legitimate technical or business constraints. Before
+  CSOs consider approval of compensating controls, Mobile Device Management
+  (MDM) shall be implemented per Section 5.13.2. The compensating controls
+  shall:\r
+
+  1. Meet the intent of the CJIS Security Policy AA requirement\r
+
+  2. Provide a similar level of protection or security as the original AA
+  requirement\r
+
+  3. Not rely upon the existing requirements for AA as compensating controls\r
+
+  4. Expire upon the CSO approved date or when a compliant AA solution is
+  implemented.\r
+
+  Additionally, compensating controls may rely upon other, non-AA, existing
+  requirements as compensating controls and/or be combined with new controls to
+  create compensating controls.\r
+
+  The compensating controls for AA are a combination of controls providing
+  acceptable assurance only the authorized user is authenticating and not an
+  impersonator or (in the case of agency-issued device used by multiple users)
+  controls that reduce the risk of exposure if information is accessed by an
+  unauthorized party.\r
+
+  The following minimum controls shall be implemented as part of the CSO
+  approved compensating controls:\r
+
+  - Possession and registration of an agency issued smartphone or tablet as an
+  indication it is the authorized user\r
+
+  - Use of device certificates per Section 5.13.7.3 Device Certificates\r
+
+  - Implemented CJIS Security Policy compliant standard authenticator protection
+  on the secure location where CJI is stored"
+elementType: control

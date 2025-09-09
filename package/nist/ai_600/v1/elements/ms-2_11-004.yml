@@ -1,0 +1,16 @@
+id: 1fe883d1-379d-4fe0-af5d-6ee69a1ec8fb
+externalId: MS-2.11-004
+name: MS-2.11-004
+description: Review, document, and measure sources of bias in GAI training and
+  TEVV dataDiﬀerences in distributions of outcomes across and within groups,
+  including intersecting groups; Completeness, representativeness, and balance
+  of data sources; demographic group and subgroup coverage in GAI system
+  training data; Forms of latent systemic bias in images, text, audio,
+  embeddings, or other complex or unstructured data; Input data features that
+  may serve as proxies for demographic group membership (i.e., image metadata,
+  language dialect) or otherwise give rise to emergent bias within GAI systems;
+  The extent to which the digital divide may negatively impact
+  representativeness in GAI system training and TEVV data; Filtering of hate
+  speech or content in GAI system training data; Prevalence of GAI-generated
+  data in GAI system training data.
+elementType: control

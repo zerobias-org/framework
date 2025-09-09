@@ -1,0 +1,31 @@
+id: 9b9422e3-8fee-4bd2-9d00-60179151900c
+externalId: CA-3
+name: Information Exchange
+description: "The exchange of information or data between the system and other
+  systems requires scrutiny from a supply chain perspective. This includes
+  understanding the interface characteristics and connections of those
+  components/systems that are directly interconnected or the data that is shared
+  through those components/systems with developers, system integrators, external
+  system service providers, other ICT/OT-related service providers, and – in
+  some cases – suppliers. Proper servicelevel agreements should be in place to
+  ensure compliance to system information exchange requirements defined by the
+  enterprise, as the transfer of information between systems in different
+  security or privacy domains with different security or privacy policies
+  introduces the risk that such transfers violate one or more domain security or
+  privacy policies. Examples of such interconnections can include:\r
+
+  \r
+
+  a. A shared development and operational environment between the enterprise and
+  system integrator\r
+
+  b. Product update/patch management connection to an off-the-shelf supplier\r
+
+  c. Data request and retrieval transactions in a processing system that resides
+  on an external service provider shared environment.\r
+
+  \r
+
+  Enterprises should require their prime contractors to implement this control
+  and flow down this requirement to relevant sub-tier contractors."
+elementType: control

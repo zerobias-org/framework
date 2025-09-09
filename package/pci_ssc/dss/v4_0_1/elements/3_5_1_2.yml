@@ -1,0 +1,14 @@
+id: 07d40ce6-5eed-4c64-b190-dc9b9c820336
+externalId: 3.5.1.2
+name: 3.5.1.2
+description: "If disk-level or partition-level encryption (rather than file-,
+  column-, or field-level database encryption) is used to render PAN unreadable,
+  it is implemented only as follows:\r
+
+  ▪ On removable electronic media\r
+
+  OR\r
+
+  ▪ If used for non-removable electronic media, PAN is also rendered unreadable
+  via another mechanism that meets Requirement 3.5.1."
+elementType: control

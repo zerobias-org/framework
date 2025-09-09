@@ -1,0 +1,12 @@
+id: 9bc68b35-7e9c-4523-99df-e88c7325d425
+externalId: MA-2(2)
+name: Controlled Maintenance | Automated Maintenance Activities
+description: Enterprises should ensure that all automated maintenance activities
+  for supply chain systems and networks are controlled and managed according to
+  the maintenance policy. Examples of automated maintenance activities can
+  include COTS product patch updates, call home features with failure
+  notification feedback, etc. Managing these activities may require establishing
+  staging processes with appropriate supporting mechanisms to provide vetting or
+  filtering as appropriate. Staging processes may be especially important for
+  critical systems and components.
+elementType: control

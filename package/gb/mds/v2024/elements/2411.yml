@@ -1,0 +1,28 @@
+id: d2f9b7e0-fb9b-442b-9285-32297a7c54ce
+externalId: "2411"
+name: Secured Internet Access
+description: "The Supplier shall ensure the following internet controls are
+  enforced on endpoints:\r
+
+  i) Technical controls to prevent malware infection from internet browsing are
+  in place\r
+
+  ii) Block undesirable websites from being accessed (e.g. malicious sites,
+  inappropriate content etc.)\r
+
+  iii) Prevent code being launched on the corporate host\r
+
+  iv) Prevent downloads to the corporate host from the internet without
+  sandboxing and anti-malware scan\r
+
+  v) Automatically block suspicious traffic and communications\r
+
+  vi) Terminate network connections associated with communications sessions at
+  the end of the sessions or after a defined period of inactivity.\r
+
+  Ensure auditing is enabled for these controls and security operators are
+  notified of the attempted above actions. Where users have a necessity to
+  perform the above activities, ensure a robust model and supporting processes
+  and technologies are employed to mitigate the additional risk (e.g.
+  allow/block listing, network monitoring, vulnerability scanning etc.)"
+elementType: control

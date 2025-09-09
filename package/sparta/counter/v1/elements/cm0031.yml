@@ -1,0 +1,9 @@
+id: 22d0a633-c8cb-4bb9-a2c5-b523501aa338
+externalId: CM0031
+name: Authentication
+description: Authenticate all communication sessions (crosslink and ground
+  stations) for all commands before establishing remote connections using
+  bidirectional authentication that is cryptographically based. Adding
+  authentication on the spacecraft bus and communications on-board the
+  spacecraft is also recommended.
+elementType: control

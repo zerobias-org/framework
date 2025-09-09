@@ -1,0 +1,8 @@
+id: 1ea6235d-d5f3-4eff-a9b4-d970e00a841d
+externalId: MS-2.12-003
+name: MS-2.12-003
+description: Measure or estimate environmental impacts (e.g., energy and water
+  consumption) for training, ﬁne tuning, and deploying models Verify tradeoﬀs
+  between resources used at inference time versus additional resources required
+  at training time.
+elementType: control

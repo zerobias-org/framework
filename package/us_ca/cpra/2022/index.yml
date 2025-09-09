@@ -1,0 +1,17 @@
+id: 037ae8b3-50a2-4342-94e7-72e1589bff2c
+name: Privacy Rights Act (CPRA) - November 2022 version
+externalId: US CA CPRA 2022
+description: Privacy Rights Act (CPRA) - November 2022 version
+code: us-ca_cpra_2022_scf
+status: approved
+url: https://cppa.ca.gov/regulations/pdf/20221102_mod_text.pdf
+version: "2022"
+external: true
+internal: false
+elementTypes:
+  - id: 9ac57418-f479-453e-a602-5bdc10eb4875
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

@@ -1,0 +1,8 @@
+id: 3327aa58-9740-4d72-ae82-d06771788e3e
+externalId: "2.6"
+name: Allowlist Authorized Libraries
+description: Use technical controls to ensure that only authorized software
+  libraries, such as specific .dll, .ocx,  and .so files, are allowed to load
+  into a system process. Block unauthorized libraries from loading into a system
+  process. Reassess bi-annually, or more frequently.
+elementType: control

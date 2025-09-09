@@ -1,0 +1,7 @@
+id: 23de44c0-2710-43c1-ba88-9bd7913565c4
+externalId: SC-7(7)
+name: Boundary Protection | Split Tunneling for Remote Devices
+description: "Prevent split tunneling for remote devices connecting to
+  organizational systems unless the split tunnel is securely provisioned using
+  [Assignment: organization-defined safeguards]."
+elementType: control

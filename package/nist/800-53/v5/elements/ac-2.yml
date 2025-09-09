@@ -1,0 +1,27 @@
+id: 3574afa8-d7a0-463c-ab53-9f55c38c1ffa
+externalId: AC-2
+name: Account Management
+description: "a. Define and document the types of accounts allowed and
+  specifically prohibited for use within the system;b. Assign account
+  managers;c. Require [Assignment: organization-defined prerequisites and
+  criteria] for group and role membership;d. Specify:1. Authorized users of the
+  system;2. Group and role membership; and3. Access authorizations (i.e.,
+  privileges) and [Assignment: organization-defined attributes (as required)]
+  for each account;e. Require approvals by [Assignment: organization-defined
+  personnel or roles] for requests to create accounts;f. Create, enable, modify,
+  disable, and remove accounts in accordance with [Assignment:
+  organization-defined policy, procedures, prerequisites, and criteria];g.
+  Monitor the use of accounts;h. Notify account managers and [Assignment:
+  organization-defined personnel or roles] within:1. [Assignment:
+  organization-defined time period] when accounts are no longer required;2.
+  [Assignment: organization-defined time period] when users are terminated or
+  transferred; and3. [Assignment: organization-defined time period] when system
+  usage or need-to-know changes for an individual;i. Authorize access to the
+  system based on:1. A valid access authorization;2. Intended system usage;
+  and3. [Assignment: organization-defined attributes (as required)];j. Review
+  accounts for compliance with account management requirements [Assignment:
+  organization-defined frequency];k. Establish and implement a process for
+  changing shared or group account authenticators (if deployed) when individuals
+  are removed from the group; andl. Align account management processes with
+  personnel termination and transfer processes."
+elementType: control

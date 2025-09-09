@@ -1,0 +1,12 @@
+id: 545ad870-9d41-478c-a72e-a4f1e6c9ea6a
+externalId: 5.13.4.1
+name: Patching/Updates
+description: "Based on the varying connection methods for mobile devices, an
+  always on connection cannot be guaranteed for patching and updating. Devices
+  without always-on cellular connections may not be reachable for extended
+  periods of time by the MDM or solution either to report status or initiate
+  patching.\r
+
+  Agencies shall monitor mobile devices to ensure their patch and update state
+  is current."
+elementType: control

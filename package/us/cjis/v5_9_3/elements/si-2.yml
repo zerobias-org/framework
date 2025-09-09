@@ -1,0 +1,22 @@
+id: ce5d11b9-925e-4057-a1fa-f8b1a4ff0042
+externalId: SI-2
+name: FLAW REMEDIATION
+description: "a. Identify, report, and correct system flaws;\r
+
+  b. Test software and firmware updates related to flaw remediation for
+  effectiveness and potential side effects before installation; 2\r
+
+  c. Install security-relevant software and firmware updates within the number
+  of days listed after the release of the updates;5\r
+
+  • Critical – 15 days\r
+
+  • High – 30 days\r
+
+  • Medium – 60 days\r
+
+  • Low – 90 days; and\r
+
+  d. Incorporate flaw remediation into the organizational configuration
+  management process."
+elementType: control

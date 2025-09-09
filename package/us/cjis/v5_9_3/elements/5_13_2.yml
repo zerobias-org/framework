@@ -1,0 +1,57 @@
+id: 329d3fdb-f63e-4b39-bcf2-2653807b858b
+externalId: 5.13.2
+name: Mobile Device Management (MDM)
+description: "Mobile Device Management (MDM) facilitates the implementation of
+  sound security controls for mobile devices and allows for centralized
+  oversight of configuration control, application usage, and device protection
+  and recovery, if so desired by the agency.\r
+
+  Due to the potential for inconsistent network access or monitoring capability
+  on mobile devices, methods used to monitor and manage the configuration of
+  full-featured operating systems may not function properly on devices with
+  limited-feature operating systems. MDM systems and applications coupled with
+  device specific technical policy can provide a robust method for device
+  configuration management if properly implemented.\r
+
+  Devices that have had any unauthorized changes made to them (including but not
+  limited to being rooted or jailbroken) shall not be used to process, store, or
+  transmit CJI data at any time. User agencies shall implement the following
+  controls when directly accessing CJI from devices running a limited-feature
+  operating system:\r
+
+  1. Ensure that CJI is only transferred between CJI authorized applications and
+  storage areas of the device.\r
+
+  2. MDM with centralized administration configured and implemented to perform
+  at least the following controls:\r
+
+  a. Remote locking of device\r
+
+  b. Remote wiping of device\r
+
+  c. Setting and locking device configuration\r
+
+  d. Detection of “rooted” and “jailbroken” devices\r
+
+  e. Enforcement of folder or disk level encryption\r
+
+  f. Application of mandatory policy settings on the device\r
+
+  g. Detection of unauthorized configurations\r
+
+  h. Detection of unauthorized software or applications\r
+
+  i. Ability to determine the location of agency-controlled devices\r
+
+  j. Prevention of unpatched devices from accessing CJI or CJI systems\r
+
+  k. Automatic device wiping after a specified number of failed access
+  attempts\r
+
+  EXCEPTION: An MDM is not required when receiving CJI from an indirect access
+  information system (i.e., the system provides no capability to conduct
+  transactional activities on state and national repositories, applications or
+  services). However, it is incumbent upon the authorized agency to ensure CJI
+  is delivered to the appropriate requesting agency or individual. The CSO will
+  make the final determination of whether access is considered indirect."
+elementType: control

@@ -1,0 +1,68 @@
+id: 5f740bff-7181-4c0d-94af-b129e55e3668
+externalId: 5.13.1.1
+name: 802.11 Wireless Protocols
+description: "Wired Equivalent Privacy (WEP) and Wi-Fi Protected Access (WPA)
+  cryptographic algorithms, used by all pre-802.11i protocols, do not meet the
+  requirements for FIPS 140-2 and shall not be used.\r
+
+  Agencies shall implement the following controls for all agency-managed
+  wireless access points with access to an agency’s network that processes
+  unencrypted CJI:\r
+
+  1. Perform validation testing to ensure rogue APs (Access Points) do not exist
+  in the 802.11 Wireless Local Area Network (WLAN) and to fully understand the
+  wireless network security posture.\r
+
+  2. Maintain a complete inventory of all Access Points (APs) and 802.11
+  wireless devices.\r
+
+  3. Place APs in secured areas to prevent unauthorized physical access and user
+  manipulation.\r
+
+  4. Test AP range boundaries to determine the precise extent of the wireless
+  coverage and design the AP wireless coverage to limit the coverage area to
+  only what is needed for operational purposes.\r
+
+  5. Enable user authentication and encryption mechanisms for the management
+  interface of the AP.\r
+
+  6. Ensure that all APs have strong administrative passwords and ensure that
+  all passwords are changed in accordance with Section 5.6.2.1.\r
+
+  7. Ensure the reset function on APs is used only when needed and is only
+  invoked by authorized personnel. Restore the APs to the latest security
+  settings, when the reset functions are used, to ensure the factory default
+  settings are not utilized.\r
+
+  8. Change the default service set identifier (SSID) in the APs. Disable the
+  broadcast SSID feature so that the client SSID must match that of the AP.
+  Validate that the SSID character string does not contain any agency
+  identifiable information (division, department, street, etc.) or services.\r
+
+  9. Enable all security features of the wireless product, including the
+  cryptographic authentication, firewall, and other available privacy
+  features.\r
+
+  10. Ensure that encryption key sizes are at least 128-bits and the default
+  shared keys are replaced by unique keys.\r
+
+  11. Ensure that the ad hoc mode has been disabled.\r
+
+  12. Disable all nonessential management protocols on the APs.\r
+
+  13. Ensure all management access and authentication occurs via FIPS compliant
+  secure protocols (e.g., SFTP, HTTPS, SNMP over TLS, etc.). Disable non-FIPS
+  compliant secure access to the management interface.\r
+
+  14. Enable logging (if supported) and review the logs on a recurring basis per
+  local policy. At a minimum, logs shall be reviewed monthly.\r
+
+  15. Insulate, virtually (e.g., virtual local area network (VLAN) and ACLs) or
+  physically (e.g., firewalls), the wireless network from the operational wired
+  infrastructure. Limit access between wireless networks and the wired network
+  to only operational needs.\r
+
+  16. When disposing of access points that will no longer be used by the agency,
+  clear access point configuration to prevent disclosure of network
+  configuration, keys, passwords, etc."
+elementType: control

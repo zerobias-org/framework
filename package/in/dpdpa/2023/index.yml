@@ -1,0 +1,17 @@
+id: 74f7e3dd-c86a-47f9-ab36-6c82200db3f1
+name: Digital Personal Data Protection Act, 2023
+externalId: India DPDPA 2023
+description: Digital Personal Data Protection Act, 2023
+code: in_dpdpa_2023_scf
+status: approved
+url: https://www.meity.gov.in/writereaddata/files/DPDP_Act_2023.pdf
+version: "2023"
+external: true
+internal: false
+elementTypes:
+  - id: b78f267a-592e-466b-90c0-a2f0917af322
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

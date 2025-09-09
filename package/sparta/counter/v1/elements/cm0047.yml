@@ -1,0 +1,10 @@
+id: 0a3fd66e-b806-4271-a0ea-eb8994277e5f
+externalId: CM0047
+name: Operating System Security
+description: Ensure spacecraft's operating system is scrutinized/whitelisted and
+  has received adequate software assurance previously. The operating system
+  should be analyzed for its attack surface and non-utilized features should be
+  stripped from the operating system. Many real-time operating systems contain
+  features that are not necessary for spacecraft operations and only increase
+  the attack surface.
+elementType: control

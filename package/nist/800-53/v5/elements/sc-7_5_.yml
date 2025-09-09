@@ -1,0 +1,7 @@
+id: 7c8accc4-f7b3-448d-8c85-0dc45ce4a6dd
+externalId: SC-7(5)
+name: Boundary Protection | Deny by Default — Allow by Exception
+description: "Deny network communications traffic by default and allow network
+  communications traffic by exception [Selection (one or more): at managed
+  interfaces; for [Assignment: organization-defined systems]]."
+elementType: control

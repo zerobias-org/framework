@@ -1,0 +1,17 @@
+id: e6bb03e0-2112-477c-bbd9-24db9a5c193c
+name: Ministry of Defence Standard 05-138 (14 May 2024)
+externalId: GB MDS 2024
+description: Ministry of Defence Standard 05-138 (14 May 2024)
+code: gb_mds_v2024_scf
+status: approved
+url: https://www.gov.uk/government/publications/cyber-security-for-defence-suppliers-def-stan-05-138-issue-4
+version: v2024
+external: true
+internal: false
+elementTypes:
+  - id: cbfff100-4608-43ee-abcb-8535c99e0ab0
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

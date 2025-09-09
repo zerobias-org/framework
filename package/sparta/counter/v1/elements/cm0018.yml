@@ -1,0 +1,15 @@
+id: c4f66975-8c07-4119-ad96-a66eff60fe1a
+externalId: CM0018
+name: Dynamic Analysis
+description: Employ dynamic analysis (e.g., using simulation, penetration
+  testing, fuzzing, etc.) to identify software/firmware weaknesses and
+  vulnerabilities in developed and incorporated code (open source, commercial,
+  or third-party developed code). Testing should occur (1) on potential system
+  elements before acceptance; (2) as a realistic simulation of known adversary
+  tactics, techniques, procedures (TTPs), and tools; and (3) throughout the
+  lifecycle on physical and logical systems, elements, and processes. FLATSATs
+  as well as digital twins can be used to perform the dynamic analysis depending
+  on the TTPs being executed. Digital twins via instruction set simulation
+  (i.e., emulation) can provide robust environment for dynamic analysis and TTP
+  execution.
+elementType: control

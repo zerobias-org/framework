@@ -1,0 +1,37 @@
+id: d1a10a3d-4f72-46b9-bce5-e262f0e4ab5c
+externalId: 5.10.1.4
+name: Cloud Computing
+description: "Organizations transitioning to a cloud environment are presented
+  unique opportunities and challenges (e.g., purported cost savings and
+  increased efficiencies versus a loss of control over the data). Reviewing the
+  cloud computing white paper (Appendix G.3), the cloud assessment located
+  within the security policy resource center on FBI.gov, NIST Special
+  Publications (800-144, 800-145, and 800-146), as well as the cloud provider’s
+  policies and capabilities will enable organizations to make informed decisions
+  on whether or not the cloud provider can offer service that maintains
+  compliance with the requirements of the CJIS Security Policy.\r
+
+  The storage of CJI, regardless of encryption status, shall only be permitted
+  in cloud environments (e.g., government or third-party/commercial datacenters,
+  etc.) which reside within the physical boundaries of APB-member country (i.e.,
+  U.S., U.S. territories, Indian Tribes, and Canada) and legal authority of an
+  APB-member agency (i.e., U.S. – federal/state/territory, Indian Tribe, or the
+  Royal Canadian Mounted Police (RCMP)).\r
+
+  Note: This restriction does not apply to exchanges of CJI with foreign
+  government agencies under international exchange agreements (i.e., the
+  Preventing and Combating Serious Crime (PCSC) agreements, fugitive extracts,
+  and exchanges made for humanitarian and criminal investigatory purposes in
+  particular circumstances).\r
+
+  Metadata derived from unencrypted CJI shall be protected in the same manner as
+  CJI and shall not be used for any advertising or other commercial purposes by
+  any cloud service provider or other associated entity.\r
+
+  The agency may permit limited use of metadata derived from unencrypted CJI
+  when specifically approved by the agency and its “intended use” is detailed
+  within the service agreement. Such authorized uses of metadata may include,
+  but are not limited to the following: spam and spyware filtering, data loss
+  prevention, spillage reporting, transaction logs (events and content – similar
+  to Section 5.4), data usage/indexing metrics, and diagnostic/syslog data."
+elementType: control

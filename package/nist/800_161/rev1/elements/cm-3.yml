@@ -1,0 +1,14 @@
+id: 2d8b0b8b-c986-473e-aab5-7de95a0a2417
+externalId: CM-3
+name: Configuration Change Control
+description: Enterprises should determine, implement, monitor, and audit
+  configuration settings and change controls within the information systems and
+  networks and throughout the SDLC. This control supports traceability for
+  C-SCRM. The below NIST SP 800-53, Rev. 5 control enhancements – CM-3 (1), (2),
+  (4), and (8) – are mechanisms that can be used for C-SCRM to collect and
+  manage change control data. Enterprises should require their prime contractors
+  to implement this control and flow down this requirement to relevant sub-tier
+  contractors. Departments and agencies should refer to Appendix F to implement
+  this guidance in accordance with Executive Order 14028, Improving the Nation’s
+  Cybersecurity.
+elementType: control

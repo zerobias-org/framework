@@ -1,0 +1,7 @@
+id: c266ceb4-e8d7-4f11-9e88-db0603907d4f
+externalId: 3.PEP.WE.DRESF
+name: Domain Resolution Filtering
+description: Domain resolution filtering prevents entities from using
+  unauthorized DNS resolution services over the DNS-over-Hypertext Transfer
+  Protocol Secure (HTTPS) domain resolution protocol.
+elementType: control

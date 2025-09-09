@@ -1,0 +1,9 @@
+id: e3d85d97-2b7d-4c03-8ce2-bff2c1bde811
+externalId: AC-7
+name: UNSUCCESSFUL LOGON ATTEMPTS
+description: "a. Enforce a limit of five (5) consecutive invalid logon attempts
+  by a user during a 15-minute time period; and3\r
+
+  b. Automatically lock the account or node until released by an administrator
+  when the maximum number of unsuccessful attempts is exceeded."
+elementType: control

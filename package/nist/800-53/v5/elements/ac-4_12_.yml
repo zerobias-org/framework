@@ -1,0 +1,7 @@
+id: 7063e4ef-437d-4436-9690-98ee98453779
+externalId: AC-4(12)
+name: Information Flow Enforcement | Data Type Identifiers
+description: "When transferring information between different security domains,
+  use [Assignment: organization-defined data type identifiers] to validate data
+  essential for information flow decisions."
+elementType: control

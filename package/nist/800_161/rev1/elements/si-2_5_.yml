@@ -1,0 +1,16 @@
+id: cbb5a23d-6ad1-42dd-9dba-aa58b6491678
+externalId: SI-2(5)
+name: Flaw Remediation | Automatic Software and Firmware Updates
+description: The enterprise should specify the various software assets within
+  its information systems and networks that require automated updates (both
+  indirect and direct). This specification of assets should be defined from
+  criticality analysis results, which provide information on critical and
+  non-critical functions and components (see Section 2 and Appendix C). A
+  centralized patch management process may be employed for evaluating and
+  managing updates prior to deployment. Those software assets that require
+  direct updates from a supplier should only accept updates that originate
+  directly from the OEM unless specifically deployed by the acquirer, such as
+  with a centralized patch management process. Departments and agencies should
+  refer to Appendix F to implement this guidance in accordance with Executive
+  Order 14028, Improving the Nation’s Cybersecurity.
+elementType: control

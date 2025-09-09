@@ -1,0 +1,17 @@
+id: aaa62882-3e82-4c2e-b6e1-c325553b8a93
+name: UAE National Information Assurance Framework (NIAF)
+externalId: UAE NIAF V1
+description: UAE National Information Assurance Framework (NIAF)
+code: uae_niaf_v1_scf
+status: approved
+url: https://u.ae/-/media/Documents-2023/National-Information-Assurance-Framework-NIAF.pdf
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 7c33bccb-7f81-45c3-aed7-8d14d94b2887
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
