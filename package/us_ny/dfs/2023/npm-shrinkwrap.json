@@ -1,0 +1,43 @@
+{
+  "name": "@zerobias-org/framework-us_ny-dfs-2023",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-us_ny-dfs-2023",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-us_ny-dfs": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-us_ny-dfs": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-us_ny-dfs/-/suite-us_ny-dfs-1.0.2.tgz",
+      "integrity": "sha512-o6813qG4F4WIjce9yDRAIsoNU0rbn5NulrbdgXasQGX35wtjNVHX3Bz8Kl7KTwYAZbtLNiDUVs+74bKMyGz/5A==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-us_ny": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-us_ny": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-us_ny/-/vendor-us_ny-1.0.2.tgz",
+      "integrity": "sha512-VCmsygNG8hk0qvZLs8L6iKL8ioSYSVk8TjaDXv3tD7wcAdqw3WLEKgs4vkSH7SDuGAydZ4mOGsBboHuLw38tFA==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}

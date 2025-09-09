@@ -1,0 +1,20 @@
+id: f40ccd95-0fd2-428f-a705-88e9f707fddd
+name: Cybersecurity Requirements for Financial Services Companies (DFS 23
+  NYCRR500) - 2023 Amendment 2
+externalId: Cybersecurity Requirements for Financial Services Companies (DFS 23
+  NYCRR500) - 2023 Amendment 2
+description: Cybersecurity Requirements for Financial Services Companies (DFS 23
+  NYCRR500) - 2023 Amendment 2
+code: us-ny_dfs_2023_scf
+status: approved
+url: https://www.dfs.ny.gov/system/files/documents/2023/12/rf23_nycrr_part_500_amend02_20231101.pdf
+version: "2023"
+external: true
+internal: false
+elementTypes:
+  - id: 369c0a34-22e4-4257-881d-8a765a62f72f
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
