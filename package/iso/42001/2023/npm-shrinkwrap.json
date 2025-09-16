@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-iso-42001-2023",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-iso-42001-2023",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/suite-iso-42001": "latest"
