@@ -1,0 +1,17 @@
+id: 7e24a3b1-d1b0-4a3e-bad9-6222cfe367f8
+name: Insurance Data Security Model Law (MDL-668)
+externalId: Insurance Data Security Model Law (MDL-668)
+description: Insurance Data Security Model Law (MDL-668)
+code: naic_mdl_v1_scf
+status: approved
+url: https://www.naic.org/store/free/MDL-668.pdf
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: fb1688eb-c60d-4469-8f78-0c513a855019
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

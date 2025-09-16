@@ -1,0 +1,17 @@
+id: 56a3bf25-2bf5-420a-b9cd-0fbf4de83198
+name: DOD Zero Trust Reference Architecture (ZTRA)
+externalId: DOD Zero Trust Reference Architecture (ZTRA)
+description: DOD Zero Trust Reference Architecture (ZTRA)
+code: dod_ztra_v2_scf
+status: approved
+url: https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf
+version: v2
+external: true
+internal: false
+elementTypes:
+  - id: 5ff8bb4c-2a82-468e-8f4b-103dcfe26e3e
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
