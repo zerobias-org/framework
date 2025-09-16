@@ -1,0 +1,17 @@
+id: d410a1d3-ce08-4c75-99fc-846da531f8f0
+name: Food & Drug Administration (FDA)
+externalId: Food & Drug Administration (FDA)
+description: Food & Drug Administration (FDA)
+code: us_fda_v21_scf
+status: approved
+url: https://www.gpo.gov/fdsys/pkg/CFR-2012-title21-vol1/pdf/CFR-2012-title21-vol1-part11.pdf
+version: v21
+external: true
+internal: false
+elementTypes:
+  - id: c3287c5d-2a6e-44ab-883b-a89f01cfcfd4
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

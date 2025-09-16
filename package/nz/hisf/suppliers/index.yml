@@ -1,0 +1,17 @@
+id: 448e4636-676c-4f39-b876-6db78ce2d25e
+name: NZ Health Information Security Framework for Suppliers
+externalId: NZ Health Information Security Framework for Suppliers
+description: NZ Health Information Security Framework for Suppliers
+code: nz_hisf_suppliers_scf
+status: approved
+url: https://www.tewhatuora.govt.nz/assets/Uploads/Health-Information-Security-Framework-for-Suppliers.pdf
+version: suppliers
+external: true
+internal: false
+elementTypes:
+  - id: c68ae4e6-0bc2-415c-9688-8431e33702a3
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

@@ -1,0 +1,17 @@
+id: a2ae0e7f-b498-4061-bfd5-41d5d08f7a1f
+name: US Centers for Medicare & Medicaid Services MARS-E Document Suite, Version 2.0
+externalId: US Centers for Medicare & Medicaid Services MARS-E Document Suite, Version 2.0
+description: US Centers for Medicare & Medicaid Services MARS-E Document Suite, Version 2.0
+code: us_mars-e_v2_scf
+status: approved
+url: https://www.cms.gov/CCIIO/Resources/Regulations-and-Guidance/Downloads/3-MARS-E-v2-0-Catalog-of-Security-and-Privacy-Controls-11102015.pdf
+version: v2
+external: true
+internal: false
+elementTypes:
+  - id: 844a810e-ddc6-4d98-9c42-b6f0b3435217
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

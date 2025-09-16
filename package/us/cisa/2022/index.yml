@@ -1,0 +1,17 @@
+id: ea99c16d-8e2e-47e3-8408-fab71735c0cd
+name: CISA Cross-Sector Cybersecurity Performance Goals (CPG)
+externalId: CISA Cross-Sector Cybersecurity Performance Goals (CPG)
+description: CISA Cross-Sector Cybersecurity Performance Goals (CPG)
+code: us_cisa_2022_scf
+status: approved
+url: https://www.cisa.gov/cpg
+version: "2022"
+external: true
+internal: false
+elementTypes:
+  - id: 4b83a21d-509d-4a08-94bb-24924a3492a3
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

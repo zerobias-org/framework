@@ -1,0 +1,43 @@
+{
+  "name": "@zerobias-org/framework-naic-mdl-v1",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-naic-mdl-v1",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-naic-mdl": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-naic-mdl": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-naic-mdl/-/suite-naic-mdl-1.0.2.tgz",
+      "integrity": "sha512-rGppekHVSIKhj3lmgSB2HyJVcI7e2LS3X5KqJXDNF4LI3Hi0ZFcXTcC9D8HptimW74vA7M7+skj1M0r6Itq7UQ==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-naic": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-naic": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-naic/-/vendor-naic-1.0.2.tgz",
+      "integrity": "sha512-N8QzWqxa+Meu6kij2rBVWjCGgWo5hXf32sw2kyHOqTbzl2nkfw7ktndlQSSTmioz3J20MFtMhJRDnE53ul1lvQ==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    }
+  }
+}

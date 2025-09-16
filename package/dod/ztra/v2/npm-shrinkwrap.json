@@ -1,0 +1,39 @@
+{
+  "name": "@zerobias-org/framework-dod-ztra-v2",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-dod-ztra-v2",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-dod-ztra": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/suite-dod-ztra": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-dod-ztra/-/suite-dod-ztra-1.0.2.tgz",
+      "integrity": "sha512-3yv8jHtTAEwaCK0hrpN3FZVnq9MWuVUfqlcSsgCImJHD/HwxsisbFqDL95qsvqimVY6uItFP+OlB3VxusgNWzA==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-dod": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-dod": {
+      "version": "0.1.4",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-dod/-/vendor-dod-0.1.4.tgz",
+      "integrity": "sha512-VJjv4bQArqUvSMzn0mShQmf1jmrmeVuacFWS2XD8CS8gQJNo1E+5LVo7br7FiisDvbXJPKdNZY8/9bk7eHKRpQ==",
+      "license": "ISC"
+    }
+  }
+}

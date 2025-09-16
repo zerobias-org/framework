@@ -1,0 +1,8 @@
+id: 5e377d08-175b-4a07-87b5-0a7706cd050b
+externalId: 5.1.1
+name: Encryption In Transit
+description: The ability to protect data if communications are intercepted while
+  data moves between sites or services. This protection is achieved by
+  encrypting the data before transmission; authenticating the endpoints; and
+  decrypting and verifying the data on arrival.
+elementType: control

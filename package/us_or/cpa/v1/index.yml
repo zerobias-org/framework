@@ -1,0 +1,17 @@
+id: 876f73f1-1b0a-41fd-b5b0-e8720521e665
+name: OR - Consumer Privacy Act (SB 619)
+externalId: OR - Consumer Privacy Act (SB 619)
+description: OR - Consumer Privacy Act (SB 619)
+code: us-or_cpa_v1_scf
+status: approved
+url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB619/Enrolled
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 9f34b21c-837c-45b3-813b-7630f4c22168
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

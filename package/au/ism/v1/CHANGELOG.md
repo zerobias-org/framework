@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1-rc.1](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-au-ism-v1@1.1.0...@zerobias-org/framework-au-ism-v1@1.1.1-rc.1) (2025-09-16)
+
+**Note:** Version bump only for package @zerobias-org/framework-au-ism-v1
+
+
+
+
+
+## [1.1.1-rc.0](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-au-ism-v1@1.1.0...@zerobias-org/framework-au-ism-v1@1.1.1-rc.0) (2025-09-16)
+
+
+### Bug Fixes
+
+* code ([f7cf8e0](https://github.com/zerobias-org/framework/commit/f7cf8e0bdbb8ec9a6ce3eaebf0d2bbfa3f53a05d))
+
+
+
+
+
 # 1.1.0 (2025-09-07)
 
 **Note:** Version bump only for package @zerobias-org/framework-au-ism-v1
