@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-eu-enisa-v1@1.1.0...@zerobias-org/framework-eu-enisa-v1@1.1.1) (2025-09-17)
+
+
+### Bug Fixes
+
+* code ([15d9f89](https://github.com/zerobias-org/framework/commit/15d9f89a7fe1877bf031249c385855158ad8f5f1))
+
+
+
+
+
 # 1.1.0 (2025-09-09)
 
 **Note:** Version bump only for package @zerobias-org/framework-eu-enisa-v1
