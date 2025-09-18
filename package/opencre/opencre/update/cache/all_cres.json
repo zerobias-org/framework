@@ -3884,8 +3884,8 @@
             "section": "Username Hash Found in WebSocket message",
             "sectionID": "110007",
             "tags": [
-              "110007",
-              "WebSocket Passive"
+              "WebSocket Passive",
+              "110007"
             ],
             "tooltype": "Offensive"
           },
@@ -3918,8 +3918,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -7619,8 +7619,8 @@
             "section": "GET for POST",
             "sectionID": "10058",
             "tags": [
-              "Active",
-              "10058"
+              "10058",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -8386,8 +8386,8 @@
             "section": "Strict-Transport-Security Max-Age Malformed (Non-compliant with Spec)",
             "sectionID": "10035-7",
             "tags": [
-              "Passive",
-              "10035-7"
+              "10035-7",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -8403,8 +8403,8 @@
             "section": "Strict-Transport-Security Header Not Set",
             "sectionID": "10035-1",
             "tags": [
-              "10035-1",
-              "Passive"
+              "Passive",
+              "10035-1"
             ],
             "tooltype": "Offensive"
           },
@@ -8420,8 +8420,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -8437,8 +8437,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -8454,8 +8454,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -8471,8 +8471,8 @@
             "section": "Strict-Transport-Security Multiple Header Entries (Non-compliant with Spec)",
             "sectionID": "10035-3",
             "tags": [
-              "Passive",
-              "10035-3"
+              "10035-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -8488,8 +8488,8 @@
             "section": "Strict-Transport-Security Missing Max-Age (Non-compliant with Spec)",
             "sectionID": "10035-5",
             "tags": [
-              "10035-5",
-              "Passive"
+              "Passive",
+              "10035-5"
             ],
             "tooltype": "Offensive"
           },
@@ -8522,8 +8522,8 @@
             "section": "Strict-Transport-Security Defined via META (Non-compliant with Spec)",
             "sectionID": "10035-6",
             "tags": [
-              "Passive",
-              "10035-6"
+              "10035-6",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -8556,8 +8556,8 @@
             "section": "HTTP to HTTPS Insecure Transition in Form Post",
             "sectionID": "10041",
             "tags": [
-              "10041",
-              "Passive"
+              "Passive",
+              "10041"
             ],
             "tooltype": "Offensive"
           },
@@ -9803,8 +9803,8 @@
             "section": "GET for POST",
             "sectionID": "10058",
             "tags": [
-              "Active",
-              "10058"
+              "10058",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -10121,8 +10121,8 @@
             "section": "Buffer Overflow",
             "sectionID": "30001",
             "tags": [
-              "30001",
-              "Active"
+              "Active",
+              "30001"
             ],
             "tooltype": "Offensive"
           },
@@ -15948,8 +15948,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -18066,8 +18066,8 @@
             "section": "Strict-Transport-Security Max-Age Malformed (Non-compliant with Spec)",
             "sectionID": "10035-7",
             "tags": [
-              "Passive",
-              "10035-7"
+              "10035-7",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -18083,8 +18083,8 @@
             "section": "Strict-Transport-Security Header Not Set",
             "sectionID": "10035-1",
             "tags": [
-              "10035-1",
-              "Passive"
+              "Passive",
+              "10035-1"
             ],
             "tooltype": "Offensive"
           },
@@ -18100,8 +18100,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -18117,8 +18117,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -18134,8 +18134,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -18151,8 +18151,8 @@
             "section": "Strict-Transport-Security Multiple Header Entries (Non-compliant with Spec)",
             "sectionID": "10035-3",
             "tags": [
-              "Passive",
-              "10035-3"
+              "10035-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -18168,8 +18168,8 @@
             "section": "Strict-Transport-Security Missing Max-Age (Non-compliant with Spec)",
             "sectionID": "10035-5",
             "tags": [
-              "10035-5",
-              "Passive"
+              "Passive",
+              "10035-5"
             ],
             "tooltype": "Offensive"
           },
@@ -18202,8 +18202,8 @@
             "section": "Strict-Transport-Security Defined via META (Non-compliant with Spec)",
             "sectionID": "10035-6",
             "tags": [
-              "Passive",
-              "10035-6"
+              "10035-6",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -18236,8 +18236,8 @@
             "section": "HTTP to HTTPS Insecure Transition in Form Post",
             "sectionID": "10041",
             "tags": [
-              "10041",
-              "Passive"
+              "Passive",
+              "10041"
             ],
             "tooltype": "Offensive"
           },
@@ -21228,8 +21228,8 @@
             "section": "GET for POST",
             "sectionID": "10058",
             "tags": [
-              "Active",
-              "10058"
+              "10058",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -21344,8 +21344,8 @@
             "section": "Server Side Request Forgery",
             "sectionID": "40046",
             "tags": [
-              "40046",
-              "Active"
+              "Active",
+              "40046"
             ],
             "tooltype": "Offensive"
           },
@@ -23932,8 +23932,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -27929,8 +27929,8 @@
             "section": "Properties File Disclosure - /WEB-INF folder",
             "sectionID": "10045-2",
             "tags": [
-              "Active",
-              "10045-2"
+              "10045-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -27963,8 +27963,8 @@
             "section": "Timestamp Disclosure - Unix",
             "sectionID": "10096",
             "tags": [
-              "Passive",
-              "10096"
+              "10096",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -27980,8 +27980,8 @@
             "section": "Source Code Disclosure - SVN",
             "sectionID": "42",
             "tags": [
-              "42",
-              "Active"
+              "Active",
+              "42"
             ],
             "tooltype": "Offensive"
           },
@@ -28031,8 +28031,8 @@
             "section": "Hash Disclosure - MD4 / MD5",
             "sectionID": "10097",
             "tags": [
-              "10097",
-              "Passive"
+              "Passive",
+              "10097"
             ],
             "tooltype": "Offensive"
           },
@@ -28048,8 +28048,8 @@
             "section": "Image Exposes Location or Privacy Data",
             "sectionID": "10103",
             "tags": [
-              "10103",
-              "Passive"
+              "Passive",
+              "10103"
             ],
             "tooltype": "Offensive"
           },
@@ -28082,8 +28082,8 @@
             "section": "Base64 Disclosure",
             "sectionID": "10094-3",
             "tags": [
-              "Passive",
-              "10094-3"
+              "10094-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -28116,8 +28116,8 @@
             "section": "Source Code Disclosure - /WEB-INF Folder",
             "sectionID": "10045-1",
             "tags": [
-              "10045-1",
-              "Active"
+              "Active",
+              "10045-1"
             ],
             "tooltype": "Offensive"
           },
@@ -28133,8 +28133,8 @@
             "section": "Source Code Disclosure - PHP",
             "sectionID": "10099",
             "tags": [
-              "10099",
-              "Passive"
+              "Passive",
+              "10099"
             ],
             "tooltype": "Offensive"
           },
@@ -28167,8 +28167,8 @@
             "section": "Session ID in URL Rewrite",
             "sectionID": "3-1",
             "tags": [
-              "3-1",
-              "Passive"
+              "Passive",
+              "3-1"
             ],
             "tooltype": "Offensive"
           },
@@ -28184,8 +28184,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser localStorage",
             "sectionID": "120001-1",
             "tags": [
-              "120001-1",
-              "Client Passive"
+              "Client Passive",
+              "120001-1"
             ],
             "tooltype": "Offensive"
           },
@@ -28337,8 +28337,8 @@
             "section": "Trace.axd Information Leak",
             "sectionID": "40029",
             "tags": [
-              "Active",
-              "40029"
+              "40029",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -28371,8 +28371,8 @@
             "section": "X-ChromeLogger-Data (XCOLD) Header Information Leak",
             "sectionID": "10052",
             "tags": [
-              "10052",
-              "Passive"
+              "Passive",
+              "10052"
             ],
             "tooltype": "Offensive"
           },
@@ -28388,8 +28388,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser sessionStorage",
             "sectionID": "120001-2",
             "tags": [
-              "120001-2",
-              "Client Passive"
+              "Client Passive",
+              "120001-2"
             ],
             "tooltype": "Offensive"
           },
@@ -28422,8 +28422,8 @@
             "section": "Server Leaks its Webserver Application via \\Server\\ HTTP Response Header Field",
             "sectionID": "10036-1",
             "tags": [
-              "Passive",
-              "10036-1"
+              "10036-1",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -28439,8 +28439,8 @@
             "section": "Information Disclosure - Debug Error Messages",
             "sectionID": "10023",
             "tags": [
-              "10023",
-              "Passive"
+              "Passive",
+              "10023"
             ],
             "tooltype": "Offensive"
           },
@@ -28473,8 +28473,8 @@
             "section": "X-Debug-Token Information Leak",
             "sectionID": "10056",
             "tags": [
-              "Passive",
-              "10056"
+              "10056",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -28524,8 +28524,8 @@
             "section": "Server Leaks Information via \\X-Powered-By\\ HTTP Response Header Field(s)",
             "sectionID": "10037",
             "tags": [
-              "10037",
-              "Passive"
+              "Passive",
+              "10037"
             ],
             "tooltype": "Offensive"
           },
@@ -28558,8 +28558,8 @@
             "section": "X-Backend-Server Header Information Leak",
             "sectionID": "10039",
             "tags": [
-              "10039",
-              "Passive"
+              "Passive",
+              "10039"
             ],
             "tooltype": "Offensive"
           },
@@ -28575,8 +28575,8 @@
             "section": "Information Disclosure - JWT in Browser sessionStorage",
             "sectionID": "120002-2",
             "tags": [
-              "120002-2",
-              "Client Passive"
+              "Client Passive",
+              "120002-2"
             ],
             "tooltype": "Offensive"
           },
@@ -28626,8 +28626,8 @@
             "section": "Hidden File Found",
             "sectionID": "40035",
             "tags": [
-              "40035",
-              "Active"
+              "Active",
+              "40035"
             ],
             "tooltype": "Offensive"
           },
@@ -30595,8 +30595,8 @@
             "section": "NoSQL Injection - MongoDB",
             "sectionID": "40033",
             "tags": [
-              "Active",
-              "40033"
+              "40033",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -32521,8 +32521,8 @@
             "section": "Server Side Request Forgery",
             "sectionID": "40046",
             "tags": [
-              "40046",
-              "Active"
+              "Active",
+              "40046"
             ],
             "tooltype": "Offensive"
           },
@@ -32760,8 +32760,8 @@
             "section": "Remote OS Command Injection",
             "sectionID": "90020",
             "tags": [
-              "90020",
-              "Active"
+              "Active",
+              "90020"
             ],
             "tooltype": "Offensive"
           },
@@ -33178,8 +33178,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -33319,8 +33319,8 @@
             "section": "Path Traversal",
             "sectionID": "6-5",
             "tags": [
-              "Active",
-              "6-5"
+              "6-5",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -33353,8 +33353,8 @@
             "section": "Path Traversal",
             "sectionID": "6-4",
             "tags": [
-              "Active",
-              "6-4"
+              "6-4",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -33888,8 +33888,8 @@
             "section": "Backup File Disclosure",
             "sectionID": "10095",
             "tags": [
-              "10095",
-              "Active"
+              "Active",
+              "10095"
             ],
             "tooltype": "Offensive"
           },
@@ -34147,8 +34147,8 @@
             "section": "Backup File Disclosure",
             "sectionID": "10095",
             "tags": [
-              "10095",
-              "Active"
+              "Active",
+              "10095"
             ],
             "tooltype": "Offensive"
           },
@@ -34989,8 +34989,8 @@
             "section": "Apache Range Header DoS (CVE-2011-3192)",
             "sectionID": "10053",
             "tags": [
-              "10053",
-              "Active"
+              "Active",
+              "10053"
             ],
             "tooltype": "Offensive"
           },
@@ -38495,8 +38495,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -38529,8 +38529,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -38546,8 +38546,8 @@
             "section": "User Controllable JavaScript Event (XSS)",
             "sectionID": "10043",
             "tags": [
-              "Passive",
-              "10043"
+              "10043",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -38580,8 +38580,8 @@
             "section": "Remote Code Execution - CVE-2012-1823",
             "sectionID": "20018",
             "tags": [
-              "20018",
-              "Active"
+              "Active",
+              "20018"
             ],
             "tooltype": "Offensive"
           },
@@ -38597,8 +38597,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -38614,8 +38614,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -39566,8 +39566,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -39600,8 +39600,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -39617,8 +39617,8 @@
             "section": "User Controllable JavaScript Event (XSS)",
             "sectionID": "10043",
             "tags": [
-              "Passive",
-              "10043"
+              "10043",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -39651,8 +39651,8 @@
             "section": "Remote Code Execution - CVE-2012-1823",
             "sectionID": "20018",
             "tags": [
-              "20018",
-              "Active"
+              "Active",
+              "20018"
             ],
             "tooltype": "Offensive"
           },
@@ -39668,8 +39668,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -39685,8 +39685,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -39807,8 +39807,8 @@
             "section": "External Redirect",
             "sectionID": "20019-2",
             "tags": [
-              "Active",
-              "20019-2"
+              "20019-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -39841,8 +39841,8 @@
             "section": "Open Redirect",
             "sectionID": "10028",
             "tags": [
-              "Passive",
-              "10028"
+              "10028",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -40693,8 +40693,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -40727,8 +40727,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -40744,8 +40744,8 @@
             "section": "User Controllable JavaScript Event (XSS)",
             "sectionID": "10043",
             "tags": [
-              "Passive",
-              "10043"
+              "10043",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -40778,8 +40778,8 @@
             "section": "Remote Code Execution - CVE-2012-1823",
             "sectionID": "20018",
             "tags": [
-              "20018",
-              "Active"
+              "Active",
+              "20018"
             ],
             "tooltype": "Offensive"
           },
@@ -40795,8 +40795,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -40812,8 +40812,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -40994,8 +40994,8 @@
             "section": "X-Frame-Options Defined via META (Non-compliant with Spec)",
             "sectionID": "10020-3",
             "tags": [
-              "Passive",
-              "10020-3"
+              "10020-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -41028,8 +41028,8 @@
             "section": "X-Frame-Options Setting Malformed",
             "sectionID": "10020-4",
             "tags": [
-              "10020-4",
-              "Passive"
+              "Passive",
+              "10020-4"
             ],
             "tooltype": "Offensive"
           },
@@ -41296,8 +41296,8 @@
             "section": "Log4Shell (CVE-2021-44228)",
             "sectionID": "40043-1",
             "tags": [
-              "Active",
-              "40043-1"
+              "40043-1",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -41491,8 +41491,8 @@
             "section": "Format String Error",
             "sectionID": "30002",
             "tags": [
-              "30002",
-              "Active"
+              "Active",
+              "30002"
             ],
             "tooltype": "Offensive"
           },
@@ -41714,8 +41714,8 @@
             "section": "Buffer Overflow",
             "sectionID": "30001",
             "tags": [
-              "30001",
-              "Active"
+              "Active",
+              "30001"
             ],
             "tooltype": "Offensive"
           },
@@ -42057,8 +42057,8 @@
             "section": "SQL Injection - PostgreSQL",
             "sectionID": "40022",
             "tags": [
-              "40022",
-              "Active"
+              "Active",
+              "40022"
             ],
             "tooltype": "Offensive"
           },
@@ -42091,8 +42091,8 @@
             "section": "SQL Injection - Hypersonic SQL",
             "sectionID": "40020",
             "tags": [
-              "40020",
-              "Active"
+              "Active",
+              "40020"
             ],
             "tooltype": "Offensive"
           },
@@ -42831,8 +42831,8 @@
             "section": "Cross Site Scripting (DOM Based)",
             "sectionID": "40026",
             "tags": [
-              "40026",
-              "Active"
+              "Active",
+              "40026"
             ],
             "tooltype": "Offensive"
           },
@@ -42880,8 +42880,8 @@
             "section": "Cross Site Scripting (Persistent) - Prime",
             "sectionID": "40016",
             "tags": [
-              "40016",
-              "Active"
+              "Active",
+              "40016"
             ],
             "tooltype": "Offensive"
           },
@@ -42897,8 +42897,8 @@
             "section": "Cross Site Scripting (Persistent)",
             "sectionID": "40014",
             "tags": [
-              "40014",
-              "Active"
+              "Active",
+              "40014"
             ],
             "tooltype": "Offensive"
           },
@@ -43361,8 +43361,8 @@
             "section": "SQL Injection - PostgreSQL",
             "sectionID": "40022",
             "tags": [
-              "40022",
-              "Active"
+              "Active",
+              "40022"
             ],
             "tooltype": "Offensive"
           },
@@ -43395,8 +43395,8 @@
             "section": "SQL Injection - Hypersonic SQL",
             "sectionID": "40020",
             "tags": [
-              "40020",
-              "Active"
+              "Active",
+              "40020"
             ],
             "tooltype": "Offensive"
           },
@@ -44022,8 +44022,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -44241,8 +44241,8 @@
             "section": "Remote OS Command Injection",
             "sectionID": "90020",
             "tags": [
-              "90020",
-              "Active"
+              "Active",
+              "90020"
             ],
             "tooltype": "Offensive"
           },
@@ -44386,8 +44386,8 @@
             "section": "XPath Injection",
             "sectionID": "90021",
             "tags": [
-              "90021",
-              "Active"
+              "Active",
+              "90021"
             ],
             "tooltype": "Offensive"
           },
@@ -45666,8 +45666,8 @@
             "section": "Server Side Template Injection",
             "sectionID": "90035",
             "tags": [
-              "90035",
-              "Active"
+              "Active",
+              "90035"
             ],
             "tooltype": "Offensive"
           },
@@ -46085,8 +46085,8 @@
             "section": "Server Side Template Injection",
             "sectionID": "90035",
             "tags": [
-              "90035",
-              "Active"
+              "Active",
+              "90035"
             ],
             "tooltype": "Offensive"
           },
@@ -46553,8 +46553,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -48034,8 +48034,8 @@
             "section": "Properties File Disclosure - /WEB-INF folder",
             "sectionID": "10045-2",
             "tags": [
-              "Active",
-              "10045-2"
+              "10045-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48068,8 +48068,8 @@
             "section": "Timestamp Disclosure - Unix",
             "sectionID": "10096",
             "tags": [
-              "Passive",
-              "10096"
+              "10096",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -48085,8 +48085,8 @@
             "section": "Source Code Disclosure - SVN",
             "sectionID": "42",
             "tags": [
-              "42",
-              "Active"
+              "Active",
+              "42"
             ],
             "tooltype": "Offensive"
           },
@@ -48136,8 +48136,8 @@
             "section": "Hash Disclosure - MD4 / MD5",
             "sectionID": "10097",
             "tags": [
-              "10097",
-              "Passive"
+              "Passive",
+              "10097"
             ],
             "tooltype": "Offensive"
           },
@@ -48153,8 +48153,8 @@
             "section": "Image Exposes Location or Privacy Data",
             "sectionID": "10103",
             "tags": [
-              "10103",
-              "Passive"
+              "Passive",
+              "10103"
             ],
             "tooltype": "Offensive"
           },
@@ -48187,8 +48187,8 @@
             "section": "Base64 Disclosure",
             "sectionID": "10094-3",
             "tags": [
-              "Passive",
-              "10094-3"
+              "10094-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -48221,8 +48221,8 @@
             "section": "Source Code Disclosure - /WEB-INF Folder",
             "sectionID": "10045-1",
             "tags": [
-              "10045-1",
-              "Active"
+              "Active",
+              "10045-1"
             ],
             "tooltype": "Offensive"
           },
@@ -48238,8 +48238,8 @@
             "section": "Source Code Disclosure - PHP",
             "sectionID": "10099",
             "tags": [
-              "10099",
-              "Passive"
+              "Passive",
+              "10099"
             ],
             "tooltype": "Offensive"
           },
@@ -48272,8 +48272,8 @@
             "section": "Session ID in URL Rewrite",
             "sectionID": "3-1",
             "tags": [
-              "3-1",
-              "Passive"
+              "Passive",
+              "3-1"
             ],
             "tooltype": "Offensive"
           },
@@ -48289,8 +48289,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser localStorage",
             "sectionID": "120001-1",
             "tags": [
-              "120001-1",
-              "Client Passive"
+              "Client Passive",
+              "120001-1"
             ],
             "tooltype": "Offensive"
           },
@@ -48442,8 +48442,8 @@
             "section": "Trace.axd Information Leak",
             "sectionID": "40029",
             "tags": [
-              "Active",
-              "40029"
+              "40029",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48476,8 +48476,8 @@
             "section": "X-ChromeLogger-Data (XCOLD) Header Information Leak",
             "sectionID": "10052",
             "tags": [
-              "10052",
-              "Passive"
+              "Passive",
+              "10052"
             ],
             "tooltype": "Offensive"
           },
@@ -48493,8 +48493,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser sessionStorage",
             "sectionID": "120001-2",
             "tags": [
-              "120001-2",
-              "Client Passive"
+              "Client Passive",
+              "120001-2"
             ],
             "tooltype": "Offensive"
           },
@@ -48527,8 +48527,8 @@
             "section": "Server Leaks its Webserver Application via \\Server\\ HTTP Response Header Field",
             "sectionID": "10036-1",
             "tags": [
-              "Passive",
-              "10036-1"
+              "10036-1",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -48544,8 +48544,8 @@
             "section": "Information Disclosure - Debug Error Messages",
             "sectionID": "10023",
             "tags": [
-              "10023",
-              "Passive"
+              "Passive",
+              "10023"
             ],
             "tooltype": "Offensive"
           },
@@ -48578,8 +48578,8 @@
             "section": "X-Debug-Token Information Leak",
             "sectionID": "10056",
             "tags": [
-              "Passive",
-              "10056"
+              "10056",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -48629,8 +48629,8 @@
             "section": "Server Leaks Information via \\X-Powered-By\\ HTTP Response Header Field(s)",
             "sectionID": "10037",
             "tags": [
-              "10037",
-              "Passive"
+              "Passive",
+              "10037"
             ],
             "tooltype": "Offensive"
           },
@@ -48663,8 +48663,8 @@
             "section": "X-Backend-Server Header Information Leak",
             "sectionID": "10039",
             "tags": [
-              "10039",
-              "Passive"
+              "Passive",
+              "10039"
             ],
             "tooltype": "Offensive"
           },
@@ -48680,8 +48680,8 @@
             "section": "Information Disclosure - JWT in Browser sessionStorage",
             "sectionID": "120002-2",
             "tags": [
-              "120002-2",
-              "Client Passive"
+              "Client Passive",
+              "120002-2"
             ],
             "tooltype": "Offensive"
           },
@@ -48731,8 +48731,8 @@
             "section": "Hidden File Found",
             "sectionID": "40035",
             "tags": [
-              "40035",
-              "Active"
+              "Active",
+              "40035"
             ],
             "tooltype": "Offensive"
           },
@@ -49288,8 +49288,8 @@
             "section": "X-Frame-Options Defined via META (Non-compliant with Spec)",
             "sectionID": "10020-3",
             "tags": [
-              "Passive",
-              "10020-3"
+              "10020-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -49322,8 +49322,8 @@
             "section": "X-Frame-Options Setting Malformed",
             "sectionID": "10020-4",
             "tags": [
-              "10020-4",
-              "Passive"
+              "Passive",
+              "10020-4"
             ],
             "tooltype": "Offensive"
           },
@@ -49781,8 +49781,8 @@
             "section": "Re-examine Cache-control Directives",
             "sectionID": "10015",
             "tags": [
-              "10015",
-              "Passive"
+              "Passive",
+              "10015"
             ],
             "tooltype": "Offensive"
           },
@@ -50124,8 +50124,8 @@
             "section": "Content-Type Header Empty",
             "sectionID": "10019-2",
             "tags": [
-              "Passive",
-              "10019-2"
+              "10019-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -50141,8 +50141,8 @@
             "section": "Sub Resource Integrity Attribute Missing",
             "sectionID": "90003",
             "tags": [
-              "90003",
-              "Passive"
+              "Passive",
+              "90003"
             ],
             "tooltype": "Offensive"
           },
@@ -50158,8 +50158,8 @@
             "section": "Content-Type Header Missing",
             "sectionID": "10019-1",
             "tags": [
-              "Passive",
-              "10019-1"
+              "10019-1",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -52330,8 +52330,8 @@
             "section": "GET for POST",
             "sectionID": "10058",
             "tags": [
-              "Active",
-              "10058"
+              "10058",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -52479,8 +52479,8 @@
             "section": "Cookie with Invalid SameSite Attribute",
             "sectionID": "10054-3",
             "tags": [
-              "10054-3",
-              "Passive"
+              "Passive",
+              "10054-3"
             ],
             "tooltype": "Offensive"
           },
@@ -52742,8 +52742,8 @@
             "section": "GET for POST",
             "sectionID": "10058",
             "tags": [
-              "Active",
-              "10058"
+              "10058",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -52918,8 +52918,8 @@
             "section": "Sec-Fetch-Dest Header is Missing",
             "sectionID": "90005-3",
             "tags": [
-              "90005-3",
-              "Passive"
+              "Passive",
+              "90005-3"
             ],
             "tooltype": "Offensive"
           },
@@ -52935,8 +52935,8 @@
             "section": "Anti-CSRF Tokens Check",
             "sectionID": "20012",
             "tags": [
-              "20012",
-              "Active"
+              "Active",
+              "20012"
             ],
             "tooltype": "Offensive"
           },
@@ -52969,8 +52969,8 @@
             "section": "Sec-Fetch-User Header Has an Invalid Value",
             "sectionID": "90005-8",
             "tags": [
-              "Passive",
-              "90005-8"
+              "90005-8",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -53037,8 +53037,8 @@
             "section": "Absence of Anti-CSRF Tokens",
             "sectionID": "10202",
             "tags": [
-              "Passive",
-              "10202"
+              "10202",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -53054,8 +53054,8 @@
             "section": "Sec-Fetch-Mode Header is Missing",
             "sectionID": "90005-2",
             "tags": [
-              "90005-2",
-              "Passive"
+              "Passive",
+              "90005-2"
             ],
             "tooltype": "Offensive"
           },
@@ -53224,8 +53224,8 @@
             "section": "Sec-Fetch-Dest Header is Missing",
             "sectionID": "90005-3",
             "tags": [
-              "90005-3",
-              "Passive"
+              "Passive",
+              "90005-3"
             ],
             "tooltype": "Offensive"
           },
@@ -53241,8 +53241,8 @@
             "section": "Anti-CSRF Tokens Check",
             "sectionID": "20012",
             "tags": [
-              "20012",
-              "Active"
+              "Active",
+              "20012"
             ],
             "tooltype": "Offensive"
           },
@@ -53275,8 +53275,8 @@
             "section": "Sec-Fetch-User Header Has an Invalid Value",
             "sectionID": "90005-8",
             "tags": [
-              "Passive",
-              "90005-8"
+              "90005-8",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -53343,8 +53343,8 @@
             "section": "Absence of Anti-CSRF Tokens",
             "sectionID": "10202",
             "tags": [
-              "Passive",
-              "10202"
+              "10202",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -53360,8 +53360,8 @@
             "section": "Sec-Fetch-Mode Header is Missing",
             "sectionID": "90005-2",
             "tags": [
-              "90005-2",
-              "Passive"
+              "Passive",
+              "90005-2"
             ],
             "tooltype": "Offensive"
           },
@@ -56225,8 +56225,8 @@
             "section": "Username Hash Found in WebSocket message",
             "sectionID": "110007",
             "tags": [
-              "110007",
-              "WebSocket Passive"
+              "WebSocket Passive",
+              "110007"
             ],
             "tooltype": "Offensive"
           },
@@ -56259,8 +56259,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -56611,8 +56611,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -56734,8 +56734,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -57115,8 +57115,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -57238,8 +57238,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -57361,8 +57361,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -57981,8 +57981,8 @@
             "section": "Storable and Cacheable Content",
             "sectionID": "10049-3",
             "tags": [
-              "Passive",
-              "10049-3"
+              "10049-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -57998,8 +57998,8 @@
             "section": "Re-examine Cache-control Directives",
             "sectionID": "10015",
             "tags": [
-              "10015",
-              "Passive"
+              "Passive",
+              "10015"
             ],
             "tooltype": "Offensive"
           },
@@ -58014,8 +58014,8 @@
             "section": "Storable but Non-Cacheable Content",
             "sectionID": "10049-2",
             "tags": [
-              "Passive",
-              "10049-2"
+              "10049-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -58031,8 +58031,8 @@
             "section": "Non-Storable Content",
             "sectionID": "10049-1",
             "tags": [
-              "10049-1",
-              "Passive"
+              "Passive",
+              "10049-1"
             ],
             "tooltype": "Offensive"
           },
@@ -58120,8 +58120,8 @@
             "section": "Storable and Cacheable Content",
             "sectionID": "10049-3",
             "tags": [
-              "Passive",
-              "10049-3"
+              "10049-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -58137,8 +58137,8 @@
             "section": "Re-examine Cache-control Directives",
             "sectionID": "10015",
             "tags": [
-              "10015",
-              "Passive"
+              "Passive",
+              "10015"
             ],
             "tooltype": "Offensive"
           },
@@ -58153,8 +58153,8 @@
             "section": "Storable but Non-Cacheable Content",
             "sectionID": "10049-2",
             "tags": [
-              "Passive",
-              "10049-2"
+              "10049-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -58170,8 +58170,8 @@
             "section": "Non-Storable Content",
             "sectionID": "10049-1",
             "tags": [
-              "10049-1",
-              "Passive"
+              "Passive",
+              "10049-1"
             ],
             "tooltype": "Offensive"
           },
@@ -59048,8 +59048,8 @@
             "section": "Strict-Transport-Security Max-Age Malformed (Non-compliant with Spec)",
             "sectionID": "10035-7",
             "tags": [
-              "Passive",
-              "10035-7"
+              "10035-7",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -59065,8 +59065,8 @@
             "section": "Strict-Transport-Security Header Not Set",
             "sectionID": "10035-1",
             "tags": [
-              "10035-1",
-              "Passive"
+              "Passive",
+              "10035-1"
             ],
             "tooltype": "Offensive"
           },
@@ -59082,8 +59082,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -59099,8 +59099,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -59116,8 +59116,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -59133,8 +59133,8 @@
             "section": "Strict-Transport-Security Multiple Header Entries (Non-compliant with Spec)",
             "sectionID": "10035-3",
             "tags": [
-              "Passive",
-              "10035-3"
+              "10035-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -59150,8 +59150,8 @@
             "section": "Strict-Transport-Security Missing Max-Age (Non-compliant with Spec)",
             "sectionID": "10035-5",
             "tags": [
-              "10035-5",
-              "Passive"
+              "Passive",
+              "10035-5"
             ],
             "tooltype": "Offensive"
           },
@@ -59184,8 +59184,8 @@
             "section": "Strict-Transport-Security Defined via META (Non-compliant with Spec)",
             "sectionID": "10035-6",
             "tags": [
-              "Passive",
-              "10035-6"
+              "10035-6",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -59218,8 +59218,8 @@
             "section": "HTTP to HTTPS Insecure Transition in Form Post",
             "sectionID": "10041",
             "tags": [
-              "10041",
-              "Passive"
+              "Passive",
+              "10041"
             ],
             "tooltype": "Offensive"
           },
@@ -59587,8 +59587,8 @@
             "section": "Content-Type Header Empty",
             "sectionID": "10019-2",
             "tags": [
-              "Passive",
-              "10019-2"
+              "10019-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -59604,8 +59604,8 @@
             "section": "Sub Resource Integrity Attribute Missing",
             "sectionID": "90003",
             "tags": [
-              "90003",
-              "Passive"
+              "Passive",
+              "90003"
             ],
             "tooltype": "Offensive"
           },
@@ -59621,8 +59621,8 @@
             "section": "Content-Type Header Missing",
             "sectionID": "10019-1",
             "tags": [
-              "Passive",
-              "10019-1"
+              "10019-1",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -59765,8 +59765,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -60740,8 +60740,8 @@
             "section": "Strict-Transport-Security Max-Age Malformed (Non-compliant with Spec)",
             "sectionID": "10035-7",
             "tags": [
-              "Passive",
-              "10035-7"
+              "10035-7",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -60757,8 +60757,8 @@
             "section": "Strict-Transport-Security Header Not Set",
             "sectionID": "10035-1",
             "tags": [
-              "10035-1",
-              "Passive"
+              "Passive",
+              "10035-1"
             ],
             "tooltype": "Offensive"
           },
@@ -60774,8 +60774,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -60791,8 +60791,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -60808,8 +60808,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -60825,8 +60825,8 @@
             "section": "Strict-Transport-Security Multiple Header Entries (Non-compliant with Spec)",
             "sectionID": "10035-3",
             "tags": [
-              "Passive",
-              "10035-3"
+              "10035-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -60842,8 +60842,8 @@
             "section": "Strict-Transport-Security Missing Max-Age (Non-compliant with Spec)",
             "sectionID": "10035-5",
             "tags": [
-              "10035-5",
-              "Passive"
+              "Passive",
+              "10035-5"
             ],
             "tooltype": "Offensive"
           },
@@ -60876,8 +60876,8 @@
             "section": "Strict-Transport-Security Defined via META (Non-compliant with Spec)",
             "sectionID": "10035-6",
             "tags": [
-              "Passive",
-              "10035-6"
+              "10035-6",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -60910,8 +60910,8 @@
             "section": "HTTP to HTTPS Insecure Transition in Form Post",
             "sectionID": "10041",
             "tags": [
-              "10041",
-              "Passive"
+              "Passive",
+              "10041"
             ],
             "tooltype": "Offensive"
           },
@@ -61049,8 +61049,8 @@
             "section": "Strict-Transport-Security Max-Age Malformed (Non-compliant with Spec)",
             "sectionID": "10035-7",
             "tags": [
-              "Passive",
-              "10035-7"
+              "10035-7",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -61066,8 +61066,8 @@
             "section": "Strict-Transport-Security Header Not Set",
             "sectionID": "10035-1",
             "tags": [
-              "10035-1",
-              "Passive"
+              "Passive",
+              "10035-1"
             ],
             "tooltype": "Offensive"
           },
@@ -61083,8 +61083,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -61100,8 +61100,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -61117,8 +61117,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -61134,8 +61134,8 @@
             "section": "Strict-Transport-Security Multiple Header Entries (Non-compliant with Spec)",
             "sectionID": "10035-3",
             "tags": [
-              "Passive",
-              "10035-3"
+              "10035-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -61151,8 +61151,8 @@
             "section": "Strict-Transport-Security Missing Max-Age (Non-compliant with Spec)",
             "sectionID": "10035-5",
             "tags": [
-              "10035-5",
-              "Passive"
+              "Passive",
+              "10035-5"
             ],
             "tooltype": "Offensive"
           },
@@ -61185,8 +61185,8 @@
             "section": "Strict-Transport-Security Defined via META (Non-compliant with Spec)",
             "sectionID": "10035-6",
             "tags": [
-              "Passive",
-              "10035-6"
+              "10035-6",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -61219,8 +61219,8 @@
             "section": "HTTP to HTTPS Insecure Transition in Form Post",
             "sectionID": "10041",
             "tags": [
-              "10041",
-              "Passive"
+              "Passive",
+              "10041"
             ],
             "tooltype": "Offensive"
           },
@@ -61352,8 +61352,8 @@
             "section": "Weak Authentication Method",
             "sectionID": "10105-2",
             "tags": [
-              "Passive",
-              "10105-2"
+              "10105-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -61542,8 +61542,8 @@
             "section": "Session Fixation",
             "sectionID": "40013",
             "tags": [
-              "Active",
-              "40013"
+              "40013",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -61947,8 +61947,8 @@
             "section": "Secure Pages Include Mixed Content",
             "sectionID": "10040",
             "tags": [
-              "10040",
-              "Passive"
+              "Passive",
+              "10040"
             ],
             "tooltype": "Offensive"
           },
@@ -62233,8 +62233,8 @@
             "section": "Secure Pages Include Mixed Content",
             "sectionID": "10040",
             "tags": [
-              "10040",
-              "Passive"
+              "Passive",
+              "10040"
             ],
             "tooltype": "Offensive"
           },
@@ -62519,8 +62519,8 @@
             "section": "Secure Pages Include Mixed Content",
             "sectionID": "10040",
             "tags": [
-              "10040",
-              "Passive"
+              "Passive",
+              "10040"
             ],
             "tooltype": "Offensive"
           },
@@ -64205,8 +64205,8 @@
             "section": "Content-Type Header Empty",
             "sectionID": "10019-2",
             "tags": [
-              "Passive",
-              "10019-2"
+              "10019-2",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -64222,8 +64222,8 @@
             "section": "Sub Resource Integrity Attribute Missing",
             "sectionID": "90003",
             "tags": [
-              "90003",
-              "Passive"
+              "Passive",
+              "90003"
             ],
             "tooltype": "Offensive"
           },
@@ -64239,8 +64239,8 @@
             "section": "Content-Type Header Missing",
             "sectionID": "10019-1",
             "tags": [
-              "Passive",
-              "10019-1"
+              "10019-1",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -65043,8 +65043,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -65077,8 +65077,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -65094,8 +65094,8 @@
             "section": "User Controllable JavaScript Event (XSS)",
             "sectionID": "10043",
             "tags": [
-              "Passive",
-              "10043"
+              "10043",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -65128,8 +65128,8 @@
             "section": "Remote Code Execution - CVE-2012-1823",
             "sectionID": "20018",
             "tags": [
-              "20018",
-              "Active"
+              "Active",
+              "20018"
             ],
             "tooltype": "Offensive"
           },
@@ -65145,8 +65145,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -65162,8 +65162,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -66703,8 +66703,8 @@
             "section": "Properties File Disclosure - /WEB-INF folder",
             "sectionID": "10045-2",
             "tags": [
-              "Active",
-              "10045-2"
+              "10045-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -66737,8 +66737,8 @@
             "section": "Timestamp Disclosure - Unix",
             "sectionID": "10096",
             "tags": [
-              "Passive",
-              "10096"
+              "10096",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -66754,8 +66754,8 @@
             "section": "Source Code Disclosure - SVN",
             "sectionID": "42",
             "tags": [
-              "42",
-              "Active"
+              "Active",
+              "42"
             ],
             "tooltype": "Offensive"
           },
@@ -66805,8 +66805,8 @@
             "section": "Hash Disclosure - MD4 / MD5",
             "sectionID": "10097",
             "tags": [
-              "10097",
-              "Passive"
+              "Passive",
+              "10097"
             ],
             "tooltype": "Offensive"
           },
@@ -66822,8 +66822,8 @@
             "section": "Image Exposes Location or Privacy Data",
             "sectionID": "10103",
             "tags": [
-              "10103",
-              "Passive"
+              "Passive",
+              "10103"
             ],
             "tooltype": "Offensive"
           },
@@ -66856,8 +66856,8 @@
             "section": "Base64 Disclosure",
             "sectionID": "10094-3",
             "tags": [
-              "Passive",
-              "10094-3"
+              "10094-3",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -66890,8 +66890,8 @@
             "section": "Source Code Disclosure - /WEB-INF Folder",
             "sectionID": "10045-1",
             "tags": [
-              "10045-1",
-              "Active"
+              "Active",
+              "10045-1"
             ],
             "tooltype": "Offensive"
           },
@@ -66907,8 +66907,8 @@
             "section": "Source Code Disclosure - PHP",
             "sectionID": "10099",
             "tags": [
-              "10099",
-              "Passive"
+              "Passive",
+              "10099"
             ],
             "tooltype": "Offensive"
           },
@@ -66941,8 +66941,8 @@
             "section": "Session ID in URL Rewrite",
             "sectionID": "3-1",
             "tags": [
-              "3-1",
-              "Passive"
+              "Passive",
+              "3-1"
             ],
             "tooltype": "Offensive"
           },
@@ -66958,8 +66958,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser localStorage",
             "sectionID": "120001-1",
             "tags": [
-              "120001-1",
-              "Client Passive"
+              "Client Passive",
+              "120001-1"
             ],
             "tooltype": "Offensive"
           },
@@ -67111,8 +67111,8 @@
             "section": "Trace.axd Information Leak",
             "sectionID": "40029",
             "tags": [
-              "Active",
-              "40029"
+              "40029",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -67145,8 +67145,8 @@
             "section": "X-ChromeLogger-Data (XCOLD) Header Information Leak",
             "sectionID": "10052",
             "tags": [
-              "10052",
-              "Passive"
+              "Passive",
+              "10052"
             ],
             "tooltype": "Offensive"
           },
@@ -67162,8 +67162,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser sessionStorage",
             "sectionID": "120001-2",
             "tags": [
-              "120001-2",
-              "Client Passive"
+              "Client Passive",
+              "120001-2"
             ],
             "tooltype": "Offensive"
           },
@@ -67196,8 +67196,8 @@
             "section": "Server Leaks its Webserver Application via \\Server\\ HTTP Response Header Field",
             "sectionID": "10036-1",
             "tags": [
-              "Passive",
-              "10036-1"
+              "10036-1",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -67213,8 +67213,8 @@
             "section": "Information Disclosure - Debug Error Messages",
             "sectionID": "10023",
             "tags": [
-              "10023",
-              "Passive"
+              "Passive",
+              "10023"
             ],
             "tooltype": "Offensive"
           },
@@ -67247,8 +67247,8 @@
             "section": "X-Debug-Token Information Leak",
             "sectionID": "10056",
             "tags": [
-              "Passive",
-              "10056"
+              "10056",
+              "Passive"
             ],
             "tooltype": "Offensive"
           },
@@ -67298,8 +67298,8 @@
             "section": "Server Leaks Information via \\X-Powered-By\\ HTTP Response Header Field(s)",
             "sectionID": "10037",
             "tags": [
-              "10037",
-              "Passive"
+              "Passive",
+              "10037"
             ],
             "tooltype": "Offensive"
           },
@@ -67332,8 +67332,8 @@
             "section": "X-Backend-Server Header Information Leak",
             "sectionID": "10039",
             "tags": [
-              "10039",
-              "Passive"
+              "Passive",
+              "10039"
             ],
             "tooltype": "Offensive"
           },
@@ -67349,8 +67349,8 @@
             "section": "Information Disclosure - JWT in Browser sessionStorage",
             "sectionID": "120002-2",
             "tags": [
-              "120002-2",
-              "Client Passive"
+              "Client Passive",
+              "120002-2"
             ],
             "tooltype": "Offensive"
           },
@@ -67400,8 +67400,8 @@
             "section": "Hidden File Found",
             "sectionID": "40035",
             "tags": [
-              "40035",
-              "Active"
+              "Active",
+              "40035"
             ],
             "tooltype": "Offensive"
           },
@@ -67732,8 +67732,8 @@
             "section": "GET for POST",
             "sectionID": "10058",
             "tags": [
-              "Active",
-              "10058"
+              "10058",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -70336,8 +70336,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -70604,8 +70604,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -71980,8 +71980,8 @@
             "section": "Username Hash Found in WebSocket message",
             "sectionID": "110007",
             "tags": [
-              "110007",
-              "WebSocket Passive"
+              "WebSocket Passive",
+              "110007"
             ],
             "tooltype": "Offensive"
           },
@@ -72014,8 +72014,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
