@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-bundle",
-      "version": "0.0.17",
+      "version": "0.0.18",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/framework-au-aee-v1": "1.1.1",
@@ -53,7 +53,7 @@
         "@zerobias-org/framework-nist-label-2022": "1.0.0",
         "@zerobias-org/framework-nist-rmf-v1": "1.1.0",
         "@zerobias-org/framework-nz-hisf-suppliers": "1.0.1",
-        "@zerobias-org/framework-nz-hisf-v1": "1.1.0",
+        "@zerobias-org/framework-nz-hisf-v1": "1.1.1",
         "@zerobias-org/framework-opencre-opencre-v1": "1.2.2",
         "@zerobias-org/framework-pci_ssc-dss-v4_0_1": "1.1.0",
         "@zerobias-org/framework-sa-pdpl-v1": "1.1.0",
@@ -864,9 +864,9 @@
       }
     },
     "node_modules/@zerobias-org/framework-nz-hisf-v1": {
-      "version": "1.1.0",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-nz-hisf-v1/-/framework-nz-hisf-v1-1.1.0.tgz",
-      "integrity": "sha512-NiQt7mhxK6Pg1wqi5yjL4LGLdduwlLAUEK9bYKum2k2I2Cti7LP2sFfXWKGZ4GYsZyYQ8QC5P+g/ed7jHKbsrw==",
+      "version": "1.1.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-nz-hisf-v1/-/framework-nz-hisf-v1-1.1.1.tgz",
+      "integrity": "sha512-84PjVrOB5DWYXJEGrPaWOQZiH5TdLnkpTyTyQ8lPotiivpl1CAY0B8WByhY7qj1bx10U9K+E0qPznS8nc96qJA==",
       "dependencies": {
         "@zerobias-org/suite-nz-hisf": "latest"
       },
@@ -6138,9 +6138,9 @@
       }
     },
     "@zerobias-org/framework-nz-hisf-v1": {
-      "version": "1.1.0",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-nz-hisf-v1/-/framework-nz-hisf-v1-1.1.0.tgz",
-      "integrity": "sha512-NiQt7mhxK6Pg1wqi5yjL4LGLdduwlLAUEK9bYKum2k2I2Cti7LP2sFfXWKGZ4GYsZyYQ8QC5P+g/ed7jHKbsrw==",
+      "version": "1.1.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-nz-hisf-v1/-/framework-nz-hisf-v1-1.1.1.tgz",
+      "integrity": "sha512-84PjVrOB5DWYXJEGrPaWOQZiH5TdLnkpTyTyQ8lPotiivpl1CAY0B8WByhY7qj1bx10U9K+E0qPznS8nc96qJA==",
       "requires": {
         "@zerobias-org/suite-nz-hisf": "latest"
       }

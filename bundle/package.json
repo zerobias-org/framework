@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -62,7 +62,7 @@
     "@zerobias-org/framework-nist-label-2022": "1.0.0",
     "@zerobias-org/framework-nist-rmf-v1": "1.1.0",
     "@zerobias-org/framework-nz-hisf-suppliers": "1.0.1",
-    "@zerobias-org/framework-nz-hisf-v1": "1.1.0",
+    "@zerobias-org/framework-nz-hisf-v1": "1.1.1",
     "@zerobias-org/framework-opencre-opencre-v1": "1.2.2",
     "@zerobias-org/framework-pci_ssc-dss-v4_0_1": "1.1.0",
     "@zerobias-org/framework-sa-pdpl-v1": "1.1.0",
