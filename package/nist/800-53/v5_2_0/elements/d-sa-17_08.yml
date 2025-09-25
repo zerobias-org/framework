@@ -1,0 +1,4 @@
+id: 57098c31-f5ee-4002-a33a-f0060abd6a11
+name: <p>Security resources that are distributed, located at different layers or in different system elements, or are implemented to support different aspects of trustworthiness can interact in unforeseen or incorrect ways. Adverse consequences can include cascading failures, interference, or coverage gaps. Coordination of the behavior of security resources (e.g., by ensuring that one patch is installed across all resources before making a configuration change that assumes that the patch is propagated) can avert such negative interactions.</p>
+elementType: discussion
+externalId: D-SA-17(08)

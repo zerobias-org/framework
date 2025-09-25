@@ -1,0 +1,13 @@
+id: e9a845f3-b93d-438f-9280-c0d944354c79
+name: |-
+  Suggest change control to - Employ organization-wide identity and authorization servers in managing identities, attributes, and access rights for person and non-person entities (PE, NPE).
+    Rationale - As currently written the control is a statement not a "thing to do"  Also, the point appears to be servers that have broad scope and that is made explicit in the suggested change.
+
+  First enhancement - Suggest delete here and change to enhancement to SC-12 as Cryptographic Key Establishment and Management - Protection of Cryptographic Keys - "Cryptographic keys are protected from disclosure and misuse."
+    Rationale -This is a general requirement for cryptographic keys, not just those protecting 'access tokens'.  And at present there is no NIST control that directly relates to this.  (And if there were, this first enhancement to protect the keys protecting access tokens would be extraneous.  And as to the 'generate and manage' in the current enhancement - there are SC-12 items already requiring that.)
+
+  Second enhancement: Suggest change to: Generate verified identity assertions and access tokens at the time of access prior to granting access to system and information resources.
+    Discussion - Define 'access token' which a term not previously used.
+    Rationale - In line with Zero Trust, suggesting a 'just in time' generation instead of relying on information previously produced that, while no changed (integrity has been maintained), could nonetheless have been stolen.  And using a term (access token) that has not yet been defined.
+elementType: public_comment
+externalId: EC-11

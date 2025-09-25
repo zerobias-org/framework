@@ -1,0 +1,4 @@
+id: 90823a3b-9043-4180-b66e-42175d3af750
+name: <p>Untrusted data injections may be prevented using a parameterized interface or output escaping (output encoding). Parameterized interfaces separate data from code so that injections of malicious or unintended data cannot change the semantics of commands being sent. Output escaping uses specified characters to inform the interpreter’s parser whether data is trusted. Prevention of untrusted data injections are with respect to the information inputs defined by the organization in the base control (<a href="#si-10">SI-10</a>).</p>
+elementType: discussion
+externalId: D-SI-10(06)

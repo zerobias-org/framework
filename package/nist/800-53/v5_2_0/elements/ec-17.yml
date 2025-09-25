@@ -1,0 +1,9 @@
+id: 1c52e3af-2ebb-42bc-bf2a-141fcfa032ff
+name: |-
+  In reference to the addition of "Protection of cryptographic keys" on NIST Risk management Framework SP 800-53, I wanted to say that cryptographic keys that protect access tokens are typically generated and managed by the entity responsible for the issuing the access tokens. This entity is often an authorization server or identity provider in the context of OAuth 2.0 and OpenID Connect, which are commonly used for authentication and authorization in modern web and mobile applications.
+
+  The authorization server is the entity generating and managing the cryptographic keys used to protect access tokens. The client's credentials (client ID and client secret) are often used to authenticate the client to the authorization server and may be considered as keys in the context of this process. The access tokens themselves are protected with the authorization server's private key, and the resource server can verify the authenticity of the access tokens using the authorization server's public key.
+
+  According to the discussion, it looks like it was started by centering the talk around the protection of the keys based on the impact that it could have to a system. Is this really the way that discussion should be worded? Shouldn't we be more concerned about the system(s) involved in the key generation process and protecting the system? We ensure the system is in a verified proven state and protection of the keys is done by the system automatically during generation. I was hoping to see the discussion better centered so that we are not solely basing it on the impact of the system and information resources that can b accessed as a result of the key creation process. If the system is in a known good state then we can trust the process and their protection.
+elementType: public_comment
+externalId: EC-17

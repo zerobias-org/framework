@@ -1,0 +1,4 @@
+id: 7f325f36-bbd1-48f5-94b5-4c42800aae62
+name: <p>Logout messages for web access can be displayed after authenticated sessions have been terminated. However, for certain types of sessions, including file transfer protocol (FTP) sessions, systems typically send logout messages as final messages prior to terminating sessions.</p>
+elementType: discussion
+externalId: D-AC-12(02)

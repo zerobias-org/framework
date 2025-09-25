@@ -1,0 +1,11 @@
+id: a33a48eb-17b5-4a99-982d-7b4b02791519
+name: |-
+  Agree the proposed enhancement is warranted
+
+  The proposed enhancement is calling out a new control specific to Relying Parties that work with Multiple IDP's. We recommend the following:
+
+  a.    Recommendation to add a control for the maintenance of boundaries for issuing to users not associated with an IDP
+
+  b.    Recommendation to add a control for the access of resources not allowed for a specific provider, where the level of access to resources is different between two IDP's.
+elementType: public_comment
+externalId: EC-21

@@ -1,0 +1,4 @@
+id: eafaf557-9a9a-496a-bec1-a8df0a501e64
+name: 'Upon detection of a potential integrity violation, provide the capability to audit the event and initiate the following actions: [Selection (one or more): generate an audit record; alert current user; alert [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined other actions]].'
+elementType: control_statement
+externalId: CST-SI-07(08)

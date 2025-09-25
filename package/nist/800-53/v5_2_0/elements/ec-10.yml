@@ -1,0 +1,4 @@
+id: 04f05edf-faea-4a1f-b693-821c3a643fa5
+name: As the frequency of token-based attacks increases. Is it worthwhile to provide guidelines on the best practices for organizations and auditors to manage the tokens that are stored? For the sake of convenience, many organizations keep tokens stored to expedite the login process for online applications. Do we have a set of recommended settings as far as the storage and deletion of tokens? If not, should there be some mention of the risks of token storage? The most secure scenario would be to not store tokens at all, but this obviously creates inconvenience for the end-users. Would it be beneficial to include a few different examples of most-secure to least-secure and the pros/cons of each?
+elementType: public_comment
+externalId: EC-10
