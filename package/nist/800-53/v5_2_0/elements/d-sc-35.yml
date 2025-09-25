@@ -1,0 +1,4 @@
+id: 6e7a2505-b93c-46be-947e-e8c8039454ef
+name: <p>External malicious code identification differs from decoys in <a href="#sc-26">SC-26</a> in that the components actively probe networks, including the Internet, in search of malicious code contained on external websites. Like decoys, the use of external malicious code identification techniques requires some supporting isolation measures to ensure that any malicious code discovered during the search and subsequently executed does not infect organizational systems. Virtualization is a common technique for achieving such isolation.</p>
+elementType: discussion
+externalId: D-SC-35

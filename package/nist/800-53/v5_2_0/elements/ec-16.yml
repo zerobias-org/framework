@@ -1,0 +1,16 @@
+id: daab5ae6-1461-4b33-b1d3-be451fce24c4
+name: |-
+  I think this is a sensible first step in this direction as, IMHO, 800-53 as written does not have good control coverage for token based authentication (inclusive of both cookies and "access tokens"), leading to weird mappings in some contexts (esp. for cloud services).  Feedback on the control itself:
+
+  1) As written the control seems to be a definition and not a control.  Its not clear if the control] is meant to be limited to access tokens (where the enhancements focus) or would apply to other authentication schemes such as PKI based authentication protocols (e.g. as used in workload/NPE contexts in cloud services).  Its also not clear if its scope is meant to be limited to workload/system2system contexts or is meant to extend to other situations (e.g. web browsers & client software) that also leverage bearer token authenticators. This should be further refined and clarified.
+
+  2. It makes sense to me for there to be some minimum standards for access tokens along with appropriate ODP included in any control around access tokens, for example:
+
+  a) Token length -- there are valid use cases for both short lived access tokens (e.g. OIDC identity tokens, OAuth Authorization Grants, OAuth Access Tokens) and longer lived tokens (e.g. session cookies, OAuth refresh tokens).  The control should state that token validated should be limited pursuant its purpose and organizational risk parameters
+  b) Token replayability -- in some situations replability is desired (e.g. most cookies and access tokens), but in others it is not.  IA-2(8) is limited to the context of an authenticator authenticating as an "account" and doesn't seem to extend to other situations (such as the delegation of privileges in an OAuth2 Auth Grant token)  
+  c) Token Channel Confidentiality -- Controls focusing on passing tokens over secure channels (e.g. not just encrypted but not exposed to end user compromise ala SAML POST Bindings) may be sensible
+  d) Token Binding -- at a minimum, there should be a control enhancement for binding access tokens to the underlying channel to restore the security properties achieved with high assurance authenticators.
+
+  3. The second proposed enhancement ("source and integrity...should be verified") should be extended to include validation of the correct destination (e.g. audience) of the access token, not just the source and integrity.  Lack of audience validation is the cause of numerous security issues (e.g. NTLM replay attacks) and it should be included.
+elementType: public_comment
+externalId: EC-16

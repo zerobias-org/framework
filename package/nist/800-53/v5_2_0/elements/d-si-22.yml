@@ -1,0 +1,4 @@
+id: 5f8163bf-5d49-4a14-9012-1c40bc857cc2
+name: <p>Actions taken by a system service or a function are often driven by the information it receives. Corruption, fabrication, modification, or deletion of that information could impact the ability of the service function to properly carry out its intended actions. By having multiple sources of input, the service or function can continue operation if one source is corrupted or no longer available. It is possible that the alternative sources of information may be less precise or less accurate than the primary source of information. But having such sub-optimal information sources may still provide a sufficient level of quality that the essential service or function can be carried out, even in a degraded or debilitated manner.</p>
+elementType: discussion
+externalId: D-SI-22

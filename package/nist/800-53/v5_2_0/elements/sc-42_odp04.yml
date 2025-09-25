@@ -1,0 +1,5 @@
+id: 6a5d9cd7-936f-4576-9df1-3f1ef3b6a1f4
+name: exceptions where remote activation of sensors is allowed
+description: 'one or more of the following PARAMETER VALUES is/are selected: {the use of devices possessing <SC-42_ODP[02] environmental sensing capabilities> in <SC-42_ODP[03] facilities, areas, or systems>; the remote activation of environmental sensing capabilities on organizational systems or system components with the following exceptions: <SC-42_ODP[04] exceptions where remote activation of sensors is allowed>};'
+elementType: odp
+externalId: SC-42_ODP[04]

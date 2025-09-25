@@ -1,0 +1,7 @@
+id: 6f774a1e-a53a-443d-9220-b1e4a89f00c7
+name: |-
+  Similar to other comments, the control statement for "IDENTITY PROVIDERS AND AUTHORIZATION SERVERS" is a definition and does not indicate what Agencies and systems should be doing other than maybe having an identity provider and/or authorization server.  This control needs to be expanded before it will be reasonable to implement.  For many Agencies, they will be providing a centralized identity provider and/or authorization server, so for many FISMA systems that have to assess themselves against the NIST 800-53 controls this will be inherited.  
+
+  The Control enhancements are fine, but could use additional references, perhaps to 800-63?, to aid in implementation.
+elementType: public_comment
+externalId: EC-22

@@ -1,0 +1,4 @@
+id: b78f7c77-6d57-4cee-b77a-e5fcdbe03e1e
+name: I believe that it is important to add some guidelines on how organizations should store authentication keys and tokens. There is a line between the security and accessibility of these tokens and keys. The more secure it is the harder it becomes to authenticate. I also noticed that there is not a security baseline marked for either "PROTECTION OF CRYPTOGRAPHIC KEYS" or "VERIFICATION OF IDENTITY ASSERTIONS AND ACCESS TOKENS" will want to add some type of baseline to each, either low or medium. Looks like there are some related controls linked to "PROTECTION OF CRYPTOGRAPHIC KEYS" but not "VERIFICATION OF IDENTITY ASSERTIONS AND ACCESS TOKENS" would be useful to find some relations for new readers.
+elementType: public_comment
+externalId: EC-24
