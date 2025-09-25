@@ -1,0 +1,120 @@
+id: c323e2ee-a316-497b-9487-ad3f66696741
+code: nist_800-53_v5_2_0
+name: Security and Privacy Controls for Information Systems and Organizations
+externalId: NIST 800-53 v5.2.0
+description: Security and Privacy Controls for Information Systems and Organizations
+url: https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+status: approved
+external: true
+internal: false
+version: v5_2_0
+elementTypes:
+  # Primary Hierarchy (Structural)
+  - id: baf63fd5-0e7a-4b1b-9215-90d89b1ebb40
+    code: family
+    name: Family
+    description: family element type (20 elements)
+
+  - id: a4cb4b6c-6f8a-44a0-a49e-3306d991d0a5
+    code: control
+    name: Control
+    parent: family
+    description: control element type (324 elements)
+
+  - id: 16ae1f70-753f-49f9-9632-ca7799e1401d
+    code: control_enhancement
+    name: Control Enhancement
+    parent: control
+    description: control_enhancement element type (872 elements)
+
+  - id: 69fd354a-9454-4d61-aa96-33108d7c2d06
+    code: control_statement
+    name: Control Statement
+    parent: control
+    description: control_statement element type (2318 elements)
+
+  # Assessment Elements (SP 800-53A specific)
+  - id: 5ab368d8-b90b-4b2b-92a8-1b486ddbd34e
+    code: determination
+    name: Determination
+    parent: control_statement
+    description: determination element type (2977 elements)
+
+  - id: a62f2ada-082e-460a-aecf-870df704b46f
+    code: examine
+    name: Examine
+    parent: control_statement
+    description: examine element type (1013 elements)
+
+  - id: 534bafee-5f4b-41e6-9422-7c17d2e128f1
+    code: interview
+    name: Interview
+    parent: control_statement
+    description: interview element type (1012 elements)
+
+  - id: f68cd6fb-7e43-41eb-b931-5fa3ab799106
+    code: test
+    name: Test
+    parent: control_statement
+    description: test element type (906 elements)
+
+  # Supporting Elements (can appear at various levels)
+  - id: 7446f36c-e457-464d-9406-523ea2fc55e4
+    code: odp_type
+    name: ODP Type
+    description: odp_type element type (3 elements)
+
+  - id: 3661d737-7ecc-4d4a-88f1-3e40e9c0046c
+    code: odp
+    name: ODP
+    description: odp element type (1465 elements)
+
+  - id: 6e2a3eba-e3a9-4bb8-a0cf-494d4535f11f
+    code: odp_statement
+    name: ODP Statement
+    description: odp_statement element type (1465 elements)
+
+  - id: 26cd3f39-8eef-4a32-aff2-bc9227c32e39
+    code: discussion
+    name: Discussion
+    description: discussion element type (1014 elements)
+
+  - id: d5d0c7b9-fe7c-492f-b0e2-183f0ca81bb9
+    code: reference
+    name: Reference
+    description: reference element type (165 elements)
+
+  - id: ef429d30-7f0d-47fc-abf5-4b7fd5217e5e
+    code: withdraw_reason
+    name: Withdraw Reason
+    description: withdraw_reason element type (182 elements)
+
+  - id: ac030d37-9429-4f3a-81c2-7496a5f84a58
+    code: public_comment
+    name: Public Comment
+    description: public_comment element type (56 elements)
+
+  # Baseline Elements
+  - id: 55f7bbe3-f4b8-4b45-81ce-35f78aefc8d5
+    code: security_baseline
+    name: Security Baseline
+    description: security_baseline element type (4 elements)
+
+  - id: c68ff7dc-d9a5-4867-a842-40e819dba828
+    code: privacy_baseline
+    name: Privacy Baseline
+    description: privacy_baseline element type (2 elements)
+
+  # Metadata Elements (parallel ordering systems)
+  - id: 4bb1c613-7558-4c38-b793-183e46c3d245
+    code: sort
+    name: Sort
+    description: sort element type (1216 elements)
+
+  - id: 86e36da0-af34-4ea5-8970-2c301af425a7
+    code: control_name_sort
+    name: Control Name Sort
+    description: control_name_sort element type (1189 elements)
+mappingTypes:
+  - family
+  - control

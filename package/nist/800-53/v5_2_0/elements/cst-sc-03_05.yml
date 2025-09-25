@@ -1,0 +1,4 @@
+id: 626f6b6d-e1d1-4089-aab6-7c9a46ef3691
+name: Implement security functions as a layered structure minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers.
+elementType: control_statement
+externalId: CST-SC-03(05)

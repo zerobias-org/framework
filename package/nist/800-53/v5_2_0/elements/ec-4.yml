@@ -1,0 +1,15 @@
+id: 2fa2aa2f-3b5c-445b-9d86-5f71ad71fe1e
+name: |-
+  To better define the term secure, we recommend the following additions to the Discussion section:
+
+  - Add language specific to file integrity monitoring or change-detection software to ensure log data cannot be changed without generating an alert.
+  - Add language for a walk the trail test and minimum properties (tamper evidence, time sync, retention, and easy search). Passing that test should be included in the definition of the term compliant.
+
+  To provide additional specificity and support for secure logging, we recommend the following:
+
+  - Map or reference Audit & Accountability, Configuration Management, and System & Information Integrity requirements from NIST 800-171.
+  - Provide a one page content checklist and a quarterly drill scenario auditors can run to confirm the logs actually cut response time.
+  - Encourage developers to avoid logging excessive detail or sensitive information (e.g., personally identifiable information, credentials, or session tokens) to reduce privacy risk, limit log storage overhead, and minimize the chance of data leakage through logs. 
+  - Secure logging guidelines should emphasize data minimization principles and provide concrete examples of appropriate log content by use case.
+elementType: public_comment
+externalId: EC-4

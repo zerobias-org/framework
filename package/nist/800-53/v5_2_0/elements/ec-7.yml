@@ -1,0 +1,19 @@
+id: f7755a05-449f-46fa-af96-45fa80e5ab8c
+name: |-
+  1. Organizations must define and document ways for Utilizing OAuth and OpenID Connect: These open standards for authorization and authentication can securely authenticate users and authorize resource access. This includes considering the following security considerations:
+
+  2. Organizations must define and document ways for to ensure that all communication between your application and the IDP/authorization server is encrypted using secure protocols like HTTPS/TLS to prevent eavesdropping or tampering of sensitive information.
+
+  3. Organizations must define and document ways for Implementing MFA as an additional security measure for user authentication, utilizing factors, biometrics, hardware/software tokens, or push notifications.  Defense and layers of secure should be used to enhance security controls. 
+
+  4. Organizations must define and document ways for to carefully validate received access tokens from the IDP/authorization server before granting access to protected resources by verifying token signatures and expiration times to prevent unauthorized access. 
+  5. Organizations must define and document ways for to establish mechanisms for token revocation in case of compromised user credentials or when access rights are no longer required; this ensures revoked tokens cannot be used for unauthorized access.
+
+  6. Organizations must define and document ways for to implement secure key management practices when handling cryptographic keys associated with your application or service. Store keys securely in hardware security modules (HSMs) or other protected environments to prevent unauthorized use or exposure
+  7. Organizations must define and document ways to periodically rotate cryptographic keys used for signing tokens or encrypting data to mitigate the impact of potential key compromises.
+
+  8. Organizations must define and document ways for to implement comprehensive logging mechanisms to track authentication events, token issuance/renewal activities, and any suspicious activities related to identity assertions or authorization requests.
+
+  9. Organizations must define and document ways to define fine-grained access control policies based on roles and permissions within your application's codebase as well as at the IDP/authorization server level itself.
+elementType: public_comment
+externalId: EC-7

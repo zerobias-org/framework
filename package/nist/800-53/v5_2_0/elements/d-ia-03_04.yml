@@ -1,0 +1,4 @@
+id: f599e21b-3b38-4df6-8c80-cd3e64145df8
+name: <p>Device attestation refers to the identification and authentication of a device based on its configuration and known operating state. Device attestation can be determined via a cryptographic hash of the device. If device attestation is the means of identification and authentication, then it is important that patches and updates to the device are handled via a configuration management process such that the patches and updates are done securely and do not disrupt identification and authentication to other devices.</p>
+elementType: discussion
+externalId: D-IA-03(04)

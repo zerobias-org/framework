@@ -1,0 +1,6 @@
+id: 1ea49eef-6796-4fa2-a160-ceb5a7ddf1be
+name: |-
+  While the emphasis on identity providers and authorization servers is commendable, it might be beneficial to have clearer guidelines on token management, given the concerns raised about token-based attacks. Recommendations on token expiration, renewal processes, and best practices for storage (considering both security and user convenience) would provide organizations with a clearer framework for implementation. It's also imperative to emphasize not just the protection but also the lifecycle management of cryptographic keys. Key rotation, secure storage, and clear guidelines on key renewal, especially in cases of potential breaches, would be beneficial. Additionally, given the rapid evolution of quantum computing, it might be prudent to provide guidelines on quantum-resistant cryptographic algorithms and their adoption timelines.
+  I also think that NIST consider incorporating real-world case studies or examples where possible. This could help organizations understand the practical implications of these controls and how best to implement them in diverse scenarios.
+elementType: public_comment
+externalId: EC-15

@@ -1,0 +1,12 @@
+id: b4b5ba11-abb6-4720-9191-0fc93d6a83a3
+name: |-
+  New Control Enhancement & Assessment Procedure
+
+  Rationale
+  The growing use of AI-powered development and patch automation tools (e.g., GitHub Copilot, AI vulnerability scanners, automated fix generators) introduces the risk of model poisoning or prompt injection during software development and remediation. These threats impact not just the integrity of code but also the cognitive integrity of developers and approvers who rely on these tools.
+
+  Suggested Insertion (Control Discussion):
+
+  Organizations should evaluate cognitive security risks associated with AI-assisted development and remediation tools, such as model poisoning, adversarial prompts, or trust manipulation. These factors can alter human decision-making and undermine the secure software development life cycle (SDLC).
+elementType: public_comment
+externalId: EC-1

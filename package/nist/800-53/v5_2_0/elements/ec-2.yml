@@ -1,0 +1,13 @@
+id: 8066079d-65ec-47b8-8243-e9afea9e2d79
+name: |-
+  Can we leverage some of the security considerations included under EL1 level within M 21-31:
+
+  1. Ensuring that only individuals who have a job-related need can view, access, or modify log files.
+  2. Documenting views and usage of log files and regularly reviewing/auditing the resulting records.
+  3. Confirming that current log files are protected from unauthorized modifications via access control mechanisms, such as virtual or physical segregation.
+  4. Ensuring that current log files are promptly backed up to an authorized source, such as a centralized log server or write-once media.
+  5. Using integrity-verification mechanisms to detect unauthorized changes to event logging configuration and log files that are no longer being written to or are considered closed.
+  6. Conducting integrity checks periodically and upon access against the log hashes throughout their retention period. 
+  7. When logging stops unexpectedly, audit alerts shall be sent in near real-time to any parties responsible for monitoring. The responsible party must promptly investigate the cause of the disruption and take appropriate corrective actions.
+elementType: public_comment
+externalId: EC-2
