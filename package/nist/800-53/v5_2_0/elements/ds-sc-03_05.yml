@@ -1,4 +1,5 @@
 id: ccd4ecb5-9bd6-4c5a-8bfa-081c0b3be5b6
 name: security functions are implemented as a layered structure, minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers.
+description: security functions are implemented as a layered structure, minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers.
 elementType: determination
 externalId: DS-SC-03(05)

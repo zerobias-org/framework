@@ -1,4 +1,5 @@
 id: 0fc4cec7-6101-4aa1-be3d-6f243e786fe9
 name: if no NIAP-approved Protection Profile exists for a specific technology type but a commercially provided information technology product relies on cryptographic functionality to enforce its security policy, that cryptographic module is required to be FIPS-validated or NSA-approved.
+description: if no NIAP-approved Protection Profile exists for a specific technology type but a commercially provided information technology product relies on cryptographic functionality to enforce its security policy, that cryptographic module is required to be FIPS-validated or NSA-approved.
 elementType: determination
 externalId: DS-SA-04(07)(b)

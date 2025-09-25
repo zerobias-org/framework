@@ -1,4 +1,5 @@
 id: ac20fe97-605b-433c-8d7d-3944de4c47d4
 name: timestamps are recorded for audit records that meet <AU-08_ODP granularity of time measurement> and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or include the local time offset as part of the timestamp.
+description: timestamps are recorded for audit records that meet <AU-08_ODP granularity of time measurement> and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or include the local time offset as part of the timestamp.
 elementType: determination
 externalId: DS-AU-08b.

@@ -1,4 +1,5 @@
 id: 62ec7ecd-f535-4be5-903a-94997c7be24a
 name: 'Only allow the use of [Assignment: organization-defined certificate authorities] for verification of the establishment of protected sessions.'
+description: 'Only allow the use of [Assignment: organization-defined certificate authorities] for verification of the establishment of protected sessions.'
 elementType: control_statement
 externalId: CST-SC-23(05)

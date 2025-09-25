@@ -1,4 +1,5 @@
 id: 0947a884-337e-4750-95ea-f236a2599275
 name: 'When transferring information between different security domains, use [Assignment: organization-defined data type identifiers] to validate data essential for information flow decisions.'
+description: 'When transferring information between different security domains, use [Assignment: organization-defined data type identifiers] to validate data essential for information flow decisions.'
 elementType: control_statement
 externalId: CST-AC-04(12)

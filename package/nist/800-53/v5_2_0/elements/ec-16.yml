@@ -1,5 +1,6 @@
 id: daab5ae6-1461-4b33-b1d3-be451fce24c4
 name: |-
+description: |-
   I think this is a sensible first step in this direction as, IMHO, 800-53 as written does not have good control coverage for token based authentication (inclusive of both cookies and "access tokens"), leading to weird mappings in some contexts (esp. for cloud services).  Feedback on the control itself:
 
   1) As written the control seems to be a definition and not a control.  Its not clear if the control] is meant to be limited to access tokens (where the enhancements focus) or would apply to other authentication schemes such as PKI based authentication protocols (e.g. as used in workload/NPE contexts in cloud services).  Its also not clear if its scope is meant to be limited to workload/system2system contexts or is meant to extend to other situations (e.g. web browsers & client software) that also leverage bearer token authenticators. This should be further refined and clarified.

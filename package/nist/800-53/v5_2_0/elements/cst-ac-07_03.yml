@@ -1,4 +1,5 @@
 id: 40f55aff-2846-44c9-991c-efb244f1b57f
 name: 'Limit the number of unsuccessful biometric logon attempts to [Assignment: organization-defined number].'
+description: 'Limit the number of unsuccessful biometric logon attempts to [Assignment: organization-defined number].'
 elementType: control_statement
 externalId: CST-AC-07(03)

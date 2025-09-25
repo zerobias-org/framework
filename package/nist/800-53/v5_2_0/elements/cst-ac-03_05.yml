@@ -1,4 +1,5 @@
 id: 44c64d8b-e66b-4d89-87f8-7b9c075b69a5
 name: 'Prevent access to [Assignment: organization-defined security-relevant information] except during secure, non-operable system states.'
+description: 'Prevent access to [Assignment: organization-defined security-relevant information] except during secure, non-operable system states.'
 elementType: control_statement
 externalId: CST-AC-03(05)

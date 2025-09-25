@@ -1,4 +1,5 @@
 id: 38d85270-c181-4ec1-bb31-d77e909d619f
 name: malicious code protection mechanisms are configured to perform real-time scans of files from external sources at <SI-03_ODP[03] SELECTED PARAMETER VALUES> as the files are downloaded, opened, or executed in accordance with organizational policy;
+description: malicious code protection mechanisms are configured to perform real-time scans of files from external sources at <SI-03_ODP[03] SELECTED PARAMETER VALUES> as the files are downloaded, opened, or executed in accordance with organizational policy;
 elementType: determination
 externalId: DS-SI-03c.01[02]

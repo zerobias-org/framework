@@ -1,4 +1,5 @@
 id: 4c56740b-9216-4ea8-9deb-43b01413a3e0
 name: 'Only allow incoming communications from [Assignment: organization-defined authorized sources] to be routed to [Assignment: organization-defined authorized destinations].'
+description: 'Only allow incoming communications from [Assignment: organization-defined authorized sources] to be routed to [Assignment: organization-defined authorized destinations].'
 elementType: control_statement
 externalId: CST-SC-07(11)

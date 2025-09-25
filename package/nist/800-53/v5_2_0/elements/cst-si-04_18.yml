@@ -1,4 +1,5 @@
 id: 4bd44bc3-2e31-469d-956a-c025aaba8d0b
 name: 'Analyze outbound communications traffic at external interfaces to the system and at the following interior points to detect covert exfiltration of information: [Assignment: organization-defined interior points within the system].'
+description: 'Analyze outbound communications traffic at external interfaces to the system and at the following interior points to detect covert exfiltration of information: [Assignment: organization-defined interior points within the system].'
 elementType: control_statement
 externalId: CST-SI-04(18)

@@ -1,4 +1,5 @@
 id: 24ce6819-0d05-4f83-bcc3-f785805cc4d7
 name: 'Notify the user, upon successful logon, of the number of [Selection (one): successful logons; unsuccessful logon attempts; both] during [Assignment: organization-defined time period].'
+description: 'Notify the user, upon successful logon, of the number of [Selection (one): successful logons; unsuccessful logon attempts; both] during [Assignment: organization-defined time period].'
 elementType: control_statement
 externalId: CST-AC-09(02)
