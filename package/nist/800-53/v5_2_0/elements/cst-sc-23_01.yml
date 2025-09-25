@@ -1,4 +1,5 @@
 id: a0568842-94bd-4cc6-89ed-93fc7c7e80e1
 name: Invalidate session identifiers upon user logout or other session termination.
+description: Invalidate session identifiers upon user logout or other session termination.
 elementType: control_statement
 externalId: CST-SC-23(01)

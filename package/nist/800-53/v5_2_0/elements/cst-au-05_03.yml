@@ -1,4 +1,5 @@
 id: 51f19e94-8ad2-4b03-ba61-33eaddd2e37d
 name: 'Enforce configurable network communications traffic volume thresholds reflecting limits on audit log storage capacity and [Selection: reject; delay] network traffic above those thresholds.'
+description: 'Enforce configurable network communications traffic volume thresholds reflecting limits on audit log storage capacity and [Selection: reject; delay] network traffic above those thresholds.'
 elementType: control_statement
 externalId: CST-AU-05(03)

@@ -1,4 +1,5 @@
 id: f464a5fd-dabf-4b1e-bdb5-5efa42e90537
 name: 'Generate a unique session identifier for each session with [Assignment: organization-defined randomness requirements] and recognize only session identifiers that are system-generated.'
+description: 'Generate a unique session identifier for each session with [Assignment: organization-defined randomness requirements] and recognize only session identifiers that are system-generated.'
 elementType: control_statement
 externalId: CST-SC-23(03)

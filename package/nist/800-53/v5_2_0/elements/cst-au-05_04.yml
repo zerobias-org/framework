@@ -1,4 +1,5 @@
 id: e36dad52-0ddd-4eb8-90da-64a91e492225
 name: 'Invoke a [Selection (one): full system shutdown; partial system shutdown; degraded operational mode with limited mission or business functionality available] in the event of [Assignment: organization-defined audit logging failures], unless an alternate audit logging capability exists.'
+description: 'Invoke a [Selection (one): full system shutdown; partial system shutdown; degraded operational mode with limited mission or business functionality available] in the event of [Assignment: organization-defined audit logging failures], unless an alternate audit logging capability exists.'
 elementType: control_statement
 externalId: CST-AU-05(04)

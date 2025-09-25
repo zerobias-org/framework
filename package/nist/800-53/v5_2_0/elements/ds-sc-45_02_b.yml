@@ -1,4 +1,5 @@
 id: cc7989db-2fad-4b09-bb02-0b1bd2d17939
 name: the internal system clocks are synchronized to the secondary authoritative time source if the primary authoritative time source is unavailable.
+description: the internal system clocks are synchronized to the secondary authoritative time source if the primary authoritative time source is unavailable.
 elementType: determination
 externalId: DS-SC-45(02)(b)

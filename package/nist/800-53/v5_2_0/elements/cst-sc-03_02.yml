@@ -1,4 +1,5 @@
 id: 90512022-0b4c-4e12-b865-ab1dee648045
 name: Isolate security functions enforcing access and information flow control from nonsecurity functions and from other security functions.
+description: Isolate security functions enforcing access and information flow control from nonsecurity functions and from other security functions.
 elementType: control_statement
 externalId: CST-SC-03(02)

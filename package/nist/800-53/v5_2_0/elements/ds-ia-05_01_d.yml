@@ -1,4 +1,5 @@
 id: d08a115a-e7a9-41db-aeca-22bcdc1b68b0
 name: for password-based authentication, passwords are stored using an approved salted key derivation function, preferably using a keyed hash;
+description: for password-based authentication, passwords are stored using an approved salted key derivation function, preferably using a keyed hash;
 elementType: determination
 externalId: DS-IA-05(01)(d)

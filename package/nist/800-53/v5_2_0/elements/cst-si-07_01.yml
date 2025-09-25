@@ -1,4 +1,5 @@
 id: 7f4347d4-4eab-4ed1-bed3-8121e0f6dce6
 name: 'Perform an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]].'
+description: 'Perform an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]].'
 elementType: control_statement
 externalId: CST-SI-07(01)

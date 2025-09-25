@@ -1,4 +1,5 @@
 id: 9a499214-9596-44b3-87d2-ca3fc5a11b79
 name: 'Provide a warning to [Assignment: organization-defined personnel, roles, and/or locations] within [Assignment: organization-defined time period] when allocated audit log storage volume reaches [Assignment: organization-defined percentage] of repository maximum audit log storage capacity.'
+description: 'Provide a warning to [Assignment: organization-defined personnel, roles, and/or locations] within [Assignment: organization-defined time period] when allocated audit log storage volume reaches [Assignment: organization-defined percentage] of repository maximum audit log storage capacity.'
 elementType: control_statement
 externalId: CST-AU-05(01)

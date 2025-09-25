@@ -1,4 +1,5 @@
 id: f90c2336-52f7-4d02-a19c-6e5f15e9344c
 name: <p>Audit records can be generated from many different system components. The event types specified in <a href="#au-2_smt.d">AU-2d</a> are the event types for which audit logs are to be generated and are a subset of all event types for which the system can generate audit records.</p>
+description: <p>Audit records can be generated from many different system components. The event types specified in <a href="#au-2_smt.d">AU-2d</a> are the event types for which audit logs are to be generated and are a subset of all event types for which the system can generate audit records.</p>
 elementType: discussion
 externalId: D-AU-12

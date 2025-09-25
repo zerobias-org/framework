@@ -1,4 +1,5 @@
 id: 33756334-fab2-4abd-b4ba-23ab521525d9
 name: <p>Denying by default and allowing by exception applies to inbound and outbound network communications traffic. A deny-all, permit-by-exception network communications traffic policy ensures that only those system connections that are essential and approved are allowed. Deny by default, allow by exception also applies to a system that is connected to an external system.</p>
+description: <p>Denying by default and allowing by exception applies to inbound and outbound network communications traffic. A deny-all, permit-by-exception network communications traffic policy ensures that only those system connections that are essential and approved are allowed. Deny by default, allow by exception also applies to a system that is connected to an external system.</p>
 elementType: discussion
 externalId: D-SC-07(05)

@@ -1,4 +1,5 @@
 id: bc831f20-db59-4954-b184-bc2f69a5000b
 name: the internal system clocks are synchronized with the authoritative time source when the time difference is greater than <SC-45(01)_ODP[03] time period>.
+description: the internal system clocks are synchronized with the authoritative time source when the time difference is greater than <SC-45(01)_ODP[03] time period>.
 elementType: determination
 externalId: DS-SC-45(01)(b)

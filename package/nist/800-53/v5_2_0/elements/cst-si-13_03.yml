@@ -1,4 +1,5 @@
 id: 91890a69-545f-4173-9ed1-ff82069a9689
 name: 'Manually initiate transfers between active and standby system components when the use of the active component reaches [Assignment: organization-defined percentage] of the mean time to failure.'
+description: 'Manually initiate transfers between active and standby system components when the use of the active component reaches [Assignment: organization-defined percentage] of the mean time to failure.'
 elementType: control_statement
 externalId: CST-SI-13(03)

@@ -1,4 +1,5 @@
 id: 5030fc99-09cd-418c-b071-9874cfd9eeda
 name: <p>Generating unique session identifiers curtails the ability of adversaries to reuse previously valid session IDs. Employing the concept of randomness in the generation of unique session identifiers protects against brute-force attacks to determine future session identifiers.</p>
+description: <p>Generating unique session identifiers curtails the ability of adversaries to reuse previously valid session IDs. Employing the concept of randomness in the generation of unique session identifiers protects against brute-force attacks to determine future session identifiers.</p>
 elementType: discussion
 externalId: D-SC-23(03)

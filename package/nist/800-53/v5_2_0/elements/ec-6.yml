@@ -1,5 +1,6 @@
 id: b9b2b188-c441-4b68-a397-3cd67e90824c
 name: |-
+description: |-
   The long-term utility of NIST SP 800-53 controls relies on describing system functions that, when combined, form a product, feature, or technology. As technology evolves, so do the ways security controls are combined to form new products. NIST shouldn't draft security and privacy controls to chase a particular technology. Case in point: SC-19 (controlling and monitoring VoIP) was withdrawn because it was too "technology-specific."
 
   There's a good chance the existing 800-53 controls used to describe identification, authentication, external system connections, internal system connections, managed access control points, attribute-based access controls, and permission authorizations can "roll up" to describe an ICAM system/ZTA policy definition/enforcement point ("Identity Providers and Authorization Servers").

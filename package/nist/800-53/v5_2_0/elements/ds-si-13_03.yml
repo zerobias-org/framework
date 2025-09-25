@@ -1,4 +1,5 @@
 id: d69cc3ae-53c2-4ad2-8462-8923a9d788ff
 name: transfers are initiated manually between active and standby system components when the use of the active component reaches <SI-13(03)_ODP percentage> of the mean time to failure.
+description: transfers are initiated manually between active and standby system components when the use of the active component reaches <SI-13(03)_ODP percentage> of the mean time to failure.
 elementType: determination
 externalId: DS-SI-13(03)
