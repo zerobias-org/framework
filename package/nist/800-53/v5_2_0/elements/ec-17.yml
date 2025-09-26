@@ -1,5 +1,5 @@
 id: 1c52e3af-2ebb-42bc-bf2a-141fcfa032ff
-name: |-
+name: EC-17
 description: |-
   In reference to the addition of "Protection of cryptographic keys" on NIST Risk management Framework SP 800-53, I wanted to say that cryptographic keys that protect access tokens are typically generated and managed by the entity responsible for the issuing the access tokens. This entity is often an authorization server or identity provider in the context of OAuth 2.0 and OpenID Connect, which are commonly used for authentication and authorization in modern web and mobile applications.
 
