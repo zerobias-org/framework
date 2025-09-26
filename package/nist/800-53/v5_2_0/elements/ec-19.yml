@@ -1,5 +1,5 @@
 id: 34153dbb-c16f-4258-b3d5-8e67e0159005
-name: |-
+name: EC-19
 description: |-
   While it can be inferred that AC-3 should apply to storage of cryptographic keys, I suggest explicitly referencing AC-3, particularly AC-3(3), when discussing storage of cryptographic keys. Realistically, once a key has been created, no user should need to access the cryptographic keys used for authentication or access tokens. Any access should be handled by the authentication and verification systems, and even that should be heavily restricted to the principle of Least Privilege [AC-6]. Specifying that Mandatory Access Controls [AC-3(3)] ought to be applied to cryptographic key storage will help ensure proper interpretation of the proposed control.
   Additionally, there is little elaboration on what constitutes protection from disclosure and misuse. I would like to see a bit more clarity on what is included. Are proper access controls enough, or are they just one of multiple minimum required controls? Should keys be stored in an encrypted state or is it unnecessary to do so? These questions are indicative of further need for clarification.

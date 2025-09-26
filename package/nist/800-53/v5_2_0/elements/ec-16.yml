@@ -1,5 +1,5 @@
 id: daab5ae6-1461-4b33-b1d3-be451fce24c4
-name: |-
+name: EC-16
 description: |-
   I think this is a sensible first step in this direction as, IMHO, 800-53 as written does not have good control coverage for token based authentication (inclusive of both cookies and "access tokens"), leading to weird mappings in some contexts (esp. for cloud services).  Feedback on the control itself:
 
