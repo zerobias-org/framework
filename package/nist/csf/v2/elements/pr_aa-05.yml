@@ -1,5 +1,7 @@
-id: aadc9a30-f596-47f1-86aa-aa501421096d
-externalId: PR.AA-05
+id: 1a15ea51-de5d-47e9-8758-abcdc44eb7cf
+externalId: pr.aa-05
 name: PR.AA-05
-description: Cybersecurity Framework (CSF) 2.0 - PR.AA-05
-elementType: control
+description: Access permissions, entitlements, and authorizations are defined in
+  a policy, managed, enforced, and reviewed, and incorporate the principles of
+  least privilege and separation of duties
+elementType: subcategory
