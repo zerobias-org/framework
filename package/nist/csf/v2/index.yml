@@ -9,9 +9,34 @@ version: v2
 external: true
 internal: false
 elementTypes:
-  - id: a883376e-349e-4c33-8245-358b3e81f7c5
-    code: control
-    name: Control
-    description: Control
+  - id: e0224aeb-072d-4184-a1c1-5835b67a7011
+    code: function
+    name: Function
+    description: function element type mapped to function
+  - id: 94db897f-efe7-4301-8189-457f89190abd
+    code: category
+    name: Category
+    description: category element type mapped to category
+  - id: c9830884-2318-462f-bc1d-b69f9207a15e
+    code: subcategory
+    name: Subcategory
+    description: subcategory element type mapped to subcategory
+  - id: 4e70ba09-ceba-4545-8bf8-ab52ff04be04
+    code: example
+    name: Example
+    description: implementation_example metadata mapped to example
+  - id: 53a4a6d1-a1eb-4e93-8a14-cfed113bfb85
+    code: party
+    name: Party
+    description: party metadata mapped to party
+  - id: e6b65b85-5808-4ba5-8c56-6828f30bb263
+    code: reference_document
+    name: Reference Document
+    description: ref_doc metadata mapped to reference_document
+  - id: 1906388b-d46f-4e5f-9044-936a31d5ebe2
+    code: reference_item
+    name: Reference Item
+    description: ref_item metadata mapped to reference_item
 mappingTypes:
-  - control
+  - category
+  - subcategory
