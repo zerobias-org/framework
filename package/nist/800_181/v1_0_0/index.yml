@@ -1,0 +1,55 @@
+id: b3fec10d-e875-429c-8e23-3aeafb24e529
+code: nist_800-181_v1
+name: Workforce Framework for Cybersecurity (NICE Framework) (NIST SP 800-181 Rev 1)
+externalId: NIST SP 800-181 v1.0.0
+description: Workforce Framework for Cybersecurity (NICE Framework) (NIST SP 800-181 Rev 1)
+url: https://csrc.nist.gov/pubs/sp/800/181/r1/final
+status: approved
+external: true
+internal: false
+version: v1.0.0
+elementTypes:
+    - id: 39a97143-ecda-4cf4-8fac-c448f8c0948f
+      code: category
+      name: Category
+      description: category element type (7 elements)
+    - id: 68cbe7f7-6ac9-4859-a146-1d9782b1d6de
+      code: competency_area
+      name: Competency Area
+      description: competency_area element type (11 elements)
+      parent: category
+    - id: 6e3ee2d3-e13e-4be9-8047-ba115a43be6c
+      code: work_role
+      name: Work Role
+      description: work_role element type (52 elements)
+      parent: competency_area
+    - id: 9605925a-2c12-4805-978c-3428a94f72a2
+      code: task
+      name: Task
+      description: task element type (1084 elements)
+      parent: work_role
+    - id: d53bf102-0f21-45be-8af0-2ed0a8ad1242
+      code: knowledge
+      name: Knowledge
+      description: knowledge element type (640 elements)
+      parent: work_role
+    - id: ca7f6cd4-1efa-4906-9737-73f151fc3789
+      code: skill
+      name: Skill
+      description: skill element type (556 elements)
+      parent: work_role
+    - id: bccc31f4-ca98-4b91-9e01-bf640222d3b6
+      code: opm_code
+      name: Opm Code
+      description: opm_code element type (52 elements)
+      parent: work_role
+    - id: 49a80a9a-2a1b-46da-90bb-6849f5864c30
+      code: sort
+      name: Sort
+      description: sort element type (59 elements)
+mappingTypes:
+  - task
+  - knowledge
+  - skill
+  - work_role
+  - category
