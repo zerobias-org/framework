@@ -1,0 +1,35 @@
+{
+  "name": "@zerobias-org/framework-nist-800_181-v1_0_0",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-nist-800_181-v1_0_0",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-nist-800_181": "latest"
+      }
+    },
+    "node_modules/@zerobias-org/suite-nist-800_181": {
+      "version": "1.1.0-rc.0",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-nist-800_181/-/suite-nist-800_181-1.1.0-rc.0.tgz",
+      "integrity": "sha512-dwAWcGFBR1ChhOCmmGwWi4IkfGG9n8C3yXWKtRGHG45VzsJBaOhYkfAIcPChz/r3+5qD9cYivjoeDzAJaQUY/A==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-nist": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-nist": {
+      "version": "1.0.9",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-nist/-/vendor-nist-1.0.9.tgz",
+      "integrity": "sha512-8o0TO0+3Jq7QjHodevemfWGnqscNhZy/pGVHaI+pF8L/VH3GnTMj7TOlAAitq9ZQM46F30vvHyeMtEZBhuGCbw==",
+      "license": "ISC"
+    }
+  }
+}
