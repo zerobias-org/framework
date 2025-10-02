@@ -1,0 +1,5 @@
+id: 0d7a9f0f-162d-4117-a722-611f99f3ea1b
+name: Limiting access to interfaces reduces the attack surface of the device, giving attackers fewer opportunities to compromise it. For example, unrestricted network access to an IoT device enables attackers to directly interact with the device, which significantly increases the likelihood of the device being compromised.
+description: Limiting access to interfaces reduces the attack surface of the device, giving attackers fewer opportunities to compromise it. For example, unrestricted network access to an IoT device enables attackers to directly interact with the device, which significantly increases the likelihood of the device being compromised.
+elementType: rationale
+externalId: LA-r2

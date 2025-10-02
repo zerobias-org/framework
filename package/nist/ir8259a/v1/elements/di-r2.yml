@@ -1,0 +1,5 @@
+id: 7c788f5f-48f2-47c1-95cf-ba7420d60325
+name: The unique logical identifier can be used to distinguish the device from all others, usually for automated device management and monitoring. This may require that it be immutable to allow for consistent identification using the identifier. The unique logical identifier may also be used for device authentication, but consideration should be made to select an appropriate identifier for the purpose.
+description: The unique logical identifier can be used to distinguish the device from all others, usually for automated device management and monitoring. This may require that it be immutable to allow for consistent identification using the identifier. The unique logical identifier may also be used for device authentication, but consideration should be made to select an appropriate identifier for the purpose.
+elementType: rationale
+externalId: DI-r2

@@ -1,0 +1,5 @@
+id: 67f84898-6145-425a-b2ef-c62bb22d345d
+name: Access to interfaces may be partially or completely limited based on the device’s state. For example, if a device has not been provisioned with proper network credentials, all access to/from network interfaces would be limited if using a secure onboarding scheme.
+description: Access to interfaces may be partially or completely limited based on the device’s state. For example, if a device has not been provisioned with proper network credentials, all access to/from network interfaces would be limited if using a secure onboarding scheme.
+elementType: rationale
+externalId: LA-r3

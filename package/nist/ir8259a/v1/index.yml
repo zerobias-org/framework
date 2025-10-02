@@ -1,0 +1,39 @@
+id: dd3a5cb2-50ef-44db-9477-aea439ab7807
+code: nist_ir8259a_v1
+externalId: NIST IR 8259A
+name: IoT Device Cybersecurity Capability Core Baseline
+description: IoT Device Cybersecurity Capability Core Baseline
+url: https://csrc.nist.gov/publications/detail/nistir/8259a/final
+status: approved
+external: true
+internal: false
+version: v1
+elementTypes:
+  - id: cdc9f9cd-4ffe-4763-b481-b5862a7a2ecd
+    code: capability
+    name: Capability
+    description: capability element type (6 elements)
+  - id: b6bbd34c-8701-4fbc-975d-726b435298f7
+    code: common_element
+    name: Common Element
+    description: common_element element type (24 elements)
+  - id: 0cd5bab8-1be0-419d-89d6-d1625e4d03bc
+    code: rationale
+    name: Rationale
+    description: rationale element type (23 elements)
+  - id: e91559ff-d29a-40d9-ad12-22134885c113
+    code: ref_doc
+    name: Ref Doc
+    description: ref_doc element type (15 elements)
+  - id: 4256d9af-186a-41a2-b7ee-7a11c06b1a21
+    code: ref_item
+    name: Ref Item
+    description: ref_item element type (72 elements)
+    parent: ref_doc
+  - id: d5bb0c82-4f4f-4eac-b98b-cc3bc5e7ebe6
+    code: sort
+    name: Sort
+    description: sort element type (30 elements)
+mappingTypes:
+    - capability
+    - common_element
