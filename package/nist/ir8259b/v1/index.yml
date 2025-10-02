@@ -1,0 +1,39 @@
+id: 08b0ec2c-4869-456d-b11c-6633abd50263
+code: nist_ir8259b_v1
+externalId: NIST IR 8259B
+name: IoT Non-Technical Supporting Capability Core Baseline
+description: IoT Non-Technical Supporting Capability Core Baseline
+url: https://csrc.nist.gov/publications/detail/nistir/8259b/final
+status: approved
+external: true
+internal: false
+version: v1
+elementTypes:
+  - id: ed8d2932-b6ac-4a0b-b59e-c9c4ae5230e6
+    code: capability
+    name: Capability
+    description: capability element type (4 elements)
+  - id: 6ddfa25e-26c0-4f68-b0fe-fc9febcbe419
+    code: common_element
+    name: Common Element
+    description: common_element element type (44 elements)
+  - id: 2518b2bc-33a8-4557-b37b-69e825a5930a
+    code: rationale
+    name: Rationale
+    description: rationale element type (30 elements)
+  - id: 7ea3e6a7-a306-44f4-9c80-aea3e860fe06
+    code: ref_doc
+    name: Ref Doc
+    description: ref_doc element type (5 elements)
+  - id: 4aa3d6dd-7771-4661-a648-568e29560043
+    code: ref_item
+    name: Ref Item
+    description: ref_item element type (18 elements)
+    parent: ref_doc
+  - id: 356da8a1-78e5-484f-a28b-5008e5de21c8
+    code: sort
+    name: Sort
+    description: sort element type (48 elements)
+mappingTypes:
+    - capability
+    - common_element
