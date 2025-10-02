@@ -1,0 +1,33 @@
+{
+  "name": "@zerobias-org/framework-nist-ir8259b-v1",
+  "version": "1.0.0",
+  "description": "IoT Non-Technical Supporting Capability Core Baseline",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/nist/ir8259b/v1"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "auditmation": {
+    "dataloader-version": "3.29.26",
+    "import-artifact": "framework",
+    "package": "nist.ir8259b.v1.framework"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-nist-ir8259b": "1.1.0-rc.2"
+  }
+}
