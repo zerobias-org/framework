@@ -1,0 +1,33 @@
+{
+  "name": "@zerobias-org/framework-nist-privacyframework-v1",
+  "version": "1.0.0",
+  "description": "NIST Privacy Framework: A Tool for Improving Privacy Through Enterprise Risk Management",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/nist/privacyframework/v1"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "auditmation": {
+    "dataloader-version": "3.29.26",
+    "import-artifact": "framework",
+    "package": "nist.privacyframework.v1.framework"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-nist-privacyframework": "latest"
+  }
+}

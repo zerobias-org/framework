@@ -1,0 +1,35 @@
+{
+  "name": "@zerobias-org/framework-nist-privacyframework-v1",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-nist-privacyframework-v1",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-nist-privacyframework": "latest"
+      }
+    },
+    "node_modules/@zerobias-org/suite-nist-privacyframework": {
+      "version": "1.0.2",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-nist-privacyframework/-/suite-nist-privacyframework-1.0.2.tgz",
+      "integrity": "sha512-uZ74sfkJDX2a3zlcOFO+jQT732C/qUOKvZ4K0z1sQAl0IUC0UyrI2u+QGykms6KyOuOcwMuDO4WFFEw+Xou5VA==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-nist": "latest"
+      },
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-nist": {
+      "version": "1.0.9",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-nist/-/vendor-nist-1.0.9.tgz",
+      "integrity": "sha512-8o0TO0+3Jq7QjHodevemfWGnqscNhZy/pGVHaI+pF8L/VH3GnTMj7TOlAAitq9ZQM46F30vvHyeMtEZBhuGCbw==",
+      "license": "ISC"
+    }
+  }
+}

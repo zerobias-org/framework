@@ -1,0 +1,37 @@
+id: 70d5daa3-fbfa-4284-b8b0-c716fc6e9bfe
+code: nist_privacyframework_v1
+externalId: NIST Privacy Framework
+name: "NIST Privacy Framework: A Tool for Improving Privacy Through Enterprise
+  Risk Management"
+description: "NIST Privacy Framework: A Tool for Improving Privacy Through
+  Enterprise Risk Management"
+url: https://csrc.nist.gov/publications/detail/white-paper/2020/01/16/nist-privacy-framework-version-10/final
+status: approved
+external: true
+internal: false
+version: v1
+elementTypes:
+  - id: d47f8248-2d14-40f1-8d19-6a39dc4bc6f7
+    code: function
+    name: Function
+    description: function element type (5 elements)
+  - id: 6b801092-f714-4fc9-b6c1-f1bedb403c59
+    code: category
+    name: Category
+    description: category element type (18 elements)
+    parent: function
+  - id: 4a48785d-499e-4130-99eb-b24f8498f7f6
+    code: subcategory
+    name: Subcategory
+    description: subcategory element type (100 elements)
+    parent: category
+  - id: ee96950f-c024-4575-a709-e8d1ae49cabf
+    code: csf_relationship
+    name: Csf Relationship
+    description: csf_relationship element type (3 elements)
+  - id: d4ae0327-8f26-4121-ab94-254d81e1cc8c
+    code: sort
+    name: Sort
+    description: sort element type (123 elements)
+mappingTypes:
+  - subcategory
