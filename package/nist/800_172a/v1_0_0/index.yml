@@ -1,0 +1,71 @@
+id: eeda5908-039a-4c34-8390-4ba7604a50a4
+code: nist_800-172a_v1
+externalId: NIST 800-172A V1.0.0
+name: Assessing Enhanced Security Requirements for Controlled Unclassified
+  Information
+description: Assessing Enhanced Security Requirements for Controlled
+  Unclassified Information
+url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172A.pdf
+status: approved
+external: true
+internal: false
+version: v1_0_0
+elementTypes:
+  # Top level - Control Families
+  - id: b4c87778-9ba3-4272-9cca-62becf2f84b8
+    code: family
+    name: Family
+    description: family element type (14 elements)
+  - id: 55fff98a-74a9-4eca-8f18-294a891e9e10
+    code: security_requirement
+    name: Security Requirement
+    description: security_requirement element type (34 elements)
+    parent: family
+  # Categorization
+  - id: 72a13de3-ffff-4420-90f4-863d286e8c91
+    code: sort
+    name: Sort
+    description: sort element type (14 elements)
+  # ODP Type (standalone categorization)
+  - id: 37ac2961-bad7-4ce2-af17-fe990680bdfb
+    code: odp_type
+    name: Odp Type
+    description: odp_type element type (3 elements)
+  # Organization Defined Parameters (child of security requirement)
+  - id: 94f4502c-dda6-458a-bb32-fe6405acc25a
+    code: odp
+    name: Odp
+    description: odp element type (36 elements)
+    parent: security_requirement
+  # ODP Statements (child of odp)
+  - id: 9dc49f57-e95f-40d7-b5b1-cc68912ae5ef
+    code: odp_statement
+    name: Odp Statement
+    description: odp_statement element type (36 elements)
+    parent: odp
+  # Assessment Procedures - Examine (child of security requirement)
+  - id: de9d615d-c7cc-4ba5-aec6-a38e10f26d9a
+    code: examine
+    name: Examine
+    description: examine element type (34 elements)
+    parent: security_requirement
+  # Assessment Procedures - Interview (child of security requirement)
+  - id: 0bb86d82-2d73-47bb-819e-658a4f4899cc
+    code: interview
+    name: Interview
+    description: interview element type (34 elements)
+    parent: security_requirement
+  # Assessment Procedures - Test (child of security requirement)
+  - id: 82cd106f-274d-4eb0-8726-8fd9075af369
+    code: test
+    name: Test
+    description: test element type (34 elements)
+    parent: security_requirement
+  # Assessment Determination (child of security requirement)
+  - id: c8d8f49a-7d3b-477e-8bc1-84a208bd1e34
+    code: determination
+    name: Determination
+    description: determination element type (98 elements)
+    parent: security_requirement
+mappingTypes: 
+  - security_requirement
