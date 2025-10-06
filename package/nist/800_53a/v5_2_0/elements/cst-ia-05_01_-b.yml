@@ -1,0 +1,5 @@
+id: 34d7efcb-7b96-47cc-bf94-78e1af5443d0
+name: b
+description: Verify, when users create or update passwords, that the passwords are not found on the list of commonly-used, expected, or compromised passwords in IA-5(1)(a);
+elementType: control_statement
+externalId: CST-IA-05(01)-b

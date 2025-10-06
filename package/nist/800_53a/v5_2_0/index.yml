@@ -1,0 +1,72 @@
+id: 2c058cf4-dbe9-4314-8616-bdda18bae0aa
+code: nist_800-53a_v520
+externalId: NIST 800-53A v5.2.0
+name: Assessing Security and Privacy Controls in Information Systems and
+  Organizations
+description: Assessing Security and Privacy Controls in Information Systems and
+  Organizations
+url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53Ar5.pdf
+status: approved
+external: true
+internal: false
+version: v5_2_0
+elementTypes:
+  - id: 1720793a-47a5-4f99-98e2-da70bca6feb1
+    code: family
+    name: Family
+    description: family element type (20 elements)
+  - id: e4f20d3c-ef4e-4ab2-8816-3fced3476f77
+    code: control
+    name: Control
+    description: control element type (324 elements)
+    parent: family
+  - id: af5d7a81-5565-45f8-b03a-990f4b4deb24
+    code: control_enhancement
+    name: Control Enhancement
+    description: control_enhancement element type (872 elements)
+    parent: control
+  - id: 366b16cc-85f4-41fb-b3d9-897cd9fcfe82
+    code: control_statement
+    name: Control Statement
+    description: control_statement element type (2318 elements)
+    parent: control_enhancement
+  - id: 9d3aef83-b423-4f95-8034-a730b7b74e92
+    code: determination
+    name: Determination
+    description: determination element type (2977 elements)
+    parent: control_statement
+  - id: 7b0076c0-21c0-4e9e-93fb-482fdc3d4bd7
+    code: examine
+    name: Examine
+    description: examine element type (1013 elements)
+    parent: control_statement
+  - id: 017a7a75-e1e3-4841-a4a3-fbdd010130a7
+    code: interview
+    name: Interview
+    description: interview element type (1012 elements)
+    parent: control_statement
+  - id: 5fa5e460-f8df-4cae-aac4-07fb3542f9ff
+    code: test
+    name: Test
+    description: test element type (906 elements)
+    parent: control_statement
+  - id: 73e02e39-00c5-466f-9d2c-af4e3f7fbd80
+    code: odp
+    name: Odp
+    description: odp element type (1465 elements)
+    parent: control_statement
+  - id: d8180586-de92-499c-b931-d7f27f6c6fef
+    code: odp_statement
+    name: Odp Statement
+    description: odp_statement element type (1465 elements)
+    parent: odp
+  - id: 97e99910-cd5c-4849-a009-390afc7563a4
+    code: odp_type
+    name: Odp Type
+    description: odp_type element type (3 elements)
+    parent: odp
+  - id: 3eb2e080-be9e-4dc8-ab97-e7cf2778aa61
+    code: sort
+    name: Sort
+    description: sort element type (1216 elements)
+mappingTypes: []

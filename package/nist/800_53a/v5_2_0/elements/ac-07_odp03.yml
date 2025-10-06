@@ -1,0 +1,5 @@
+id: 33af540c-873a-4077-bacc-e8f8c83e48bd
+name: SELECTED PARAMETER VALUES
+description: 'one or more of the following PARAMETER VALUES is/are selected: {lock the account or node for <AC-07_ODP[04] time period>; lock the account or node until released by an administrator; delay next logon prompt per <AC-07_ODP[05] delay algorithm>; notify system administrator; take other <AC-07_ODP[06] action>};'
+elementType: odp
+externalId: AC-07_ODP[03]

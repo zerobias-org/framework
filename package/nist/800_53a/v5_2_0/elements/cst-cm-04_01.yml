@@ -1,0 +1,5 @@
+id: 572d9eda-4851-4f32-a07b-4110ce7b43f3
+name: Analyze changes to the system in a separate test environment before implementation in an operational environment, looking for security and privacy impacts due to flaws, weaknesses, incompatibility, or intentional malice.
+description: Analyze changes to the system in a separate test environment before implementation in an operational environment, looking for security and privacy impacts due to flaws, weaknesses, incompatibility, or intentional malice.
+elementType: control_statement
+externalId: CST-CM-04(01)

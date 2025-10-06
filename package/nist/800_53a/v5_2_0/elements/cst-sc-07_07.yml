@@ -1,0 +1,5 @@
+id: 93cb49ef-88b5-4633-a7cd-4640a59b542b
+name: 'Prevent split tunneling for remote devices connecting to organizational systems unless the split tunnel is securely provisioned using [Assignment: organization-defined safeguards].'
+description: 'Prevent split tunneling for remote devices connecting to organizational systems unless the split tunnel is securely provisioned using [Assignment: organization-defined safeguards].'
+elementType: control_statement
+externalId: CST-SC-07(07)

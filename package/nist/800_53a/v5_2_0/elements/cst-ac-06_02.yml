@@ -1,0 +1,5 @@
+id: cc28b4e3-5e47-4f27-9618-3f885d00e88f
+name: 'Require that users of system accounts (or roles) with access to [Assignment: organization-defined security functions or security-relevant information] use non-privileged accounts or roles, when accessing nonsecurity functions.'
+description: 'Require that users of system accounts (or roles) with access to [Assignment: organization-defined security functions or security-relevant information] use non-privileged accounts or roles, when accessing nonsecurity functions.'
+elementType: control_statement
+externalId: CST-AC-06(02)
