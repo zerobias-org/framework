@@ -1,0 +1,40 @@
+id: b3871aa9-0969-4a48-832f-433fbb0fcd97
+code: nist_800-53b_v520
+externalId: NIST 800-53B v5.2.0
+name: Control Baselines for Information Systems and Organizations
+description: Control Baselines for Information Systems and Organizations
+url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53B.pdf
+status: approved
+external: true
+internal: false
+version: v5_2_0
+elementTypes:
+  - id: 31afc5e9-cfdd-4147-8a8d-17aaaeb9ab76
+    code: security_baseline
+    name: Security Baseline
+    description: security_baseline element type (4 elements)
+  - id: 35f1a872-8f8f-4950-b3a0-7fde3c72c5f0
+    code: privacy_baseline
+    name: Privacy Baseline
+    description: privacy_baseline element type (2 elements)
+  - id: da7c7d7c-4e71-48ae-87d8-bcf3c972e2d9
+    code: sort
+    name: Sort
+    description: sort element type (1216 elements)
+  - id: 7063c539-1782-44b1-9d86-4cbdf13bd452
+    code: family
+    name: Family
+    description: family element type (20 elements)
+  - id: 99a6d53c-3a62-4352-b7a8-256e4851e04f
+    code: control
+    name: Control
+    description: control element type (324 elements)
+    parent: family
+  - id: 12bfd9eb-f3c2-48eb-84d6-76c60ec0a7b1
+    code: control_enhancement
+    name: Control Enhancement
+    description: control_enhancement element type (872 elements)
+    parent: control
+mappingTypes:
+  - control
+  - control_enhancement
