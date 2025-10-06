@@ -1,0 +1,5 @@
+id: a4da6dfc-843f-44dd-92bd-cf4ee7f92776
+name: Ability to execute the software update mechanism with fault tolerance such that a failed or interrupted update (e.g., loss of communication while downloading, device power loss while installing) does not degrade the IoT device’s cybersecurity state.
+description: Ability to execute the software update mechanism with fault tolerance such that a failed or interrupted update (e.g., loss of communication while downloading, device power loss while installing) does not degrade the IoT device’s cybersecurity state.
+elementType: requirement
+externalId: SU:UPD(7)
