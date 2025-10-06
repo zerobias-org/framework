@@ -1,0 +1,39 @@
+id: a3d7b87b-ecfe-4299-8770-445990c0f9af
+name: Security Disclosure Contact Information
+description: Mechanisms exist to enable public submissions of discovered or potential security vulnerabilities.
+elementType: enhancement
+externalId: THR-06.1
+parent: thr-06
+controlQuestion: Does the organization enable public submissions of discovered or potential security vulnerabilities?
+functionGrouping: Detect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

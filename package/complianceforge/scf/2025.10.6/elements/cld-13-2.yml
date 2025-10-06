@@ -1,0 +1,39 @@
+id: 18b5b0b8-90bd-481c-bec7-2deff212c9cb
+name: Sensitive / Regulated Data On Hosted Assets, Applications & Services
+description: Mechanisms exist to define formal processes to store, process and/or transmit sensitive/regulated data using External Service Providers (ESP) owned, operated and/or maintained external Technology Assets, Applications and/or Services (TAAS), in accordance with all applicable statutory, regulatory and/or contractual obligations.
+elementType: enhancement
+externalId: CLD-13.2
+parent: cld-13
+controlQuestion: Does the organization define formal processes to store, process and/or transmit sensitive/regulated data using External Service Providers (ESP) owned, operated and/or maintained external Technology Assets, Applications and/or Services (TAAS), in accordance with all applicable statutory, regulatory and/or contractual obligations?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

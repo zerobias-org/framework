@@ -1,0 +1,39 @@
+id: 010fe655-a379-4373-a051-374e11bcc8c7
+name: Reviews & Updates
+description: "Mechanisms exist to review and update baseline configurations:\r\n(1) At least annually;\r\n(2) When required due to so; or\r\n(3) As part of system component installations and upgrades."
+elementType: enhancement
+externalId: CFG-02.1
+parent: cfg-02
+controlQuestion: "Does the organization review and update baseline configurations:\r\n (1) At least annually;\r\n (2) When required due to so; or\r\n (3) As part of system component installations and upgrades?"
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

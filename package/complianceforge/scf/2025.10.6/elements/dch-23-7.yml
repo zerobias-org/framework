@@ -1,0 +1,39 @@
+id: 7efbb2fa-3df9-41f7-b3ef-fdd4a9913ea5
+name: Automated De-Identification of Sensitive Data
+description: Mechanisms exist to perform de-identification of sensitive/regulated data, using validated algorithms and software to implement the algorithms.
+elementType: enhancement
+externalId: DCH-23.7
+parent: dch-23
+controlQuestion: Does the organization perform de-identification of sensitive/regulated data, using validated algorithms and software to implement the algorithms?
+functionGrouping: Protect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

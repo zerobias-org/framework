@@ -1,0 +1,39 @@
+id: 9bcbd6d1-a628-4ece-89d4-d7e12c121463
+name: Restrict Tool Usage
+description: Automated mechanisms exist to restrict the use of maintenance tools to authorized maintenance personnel and/or roles.
+elementType: enhancement
+externalId: MNT-04.4
+parent: mnt-04
+controlQuestion: Does the organization use automated mechanisms to restrict the use of maintenance tools to authorized maintenance personnel and/or roles?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

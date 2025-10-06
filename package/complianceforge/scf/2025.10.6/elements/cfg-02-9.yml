@@ -1,0 +1,39 @@
+id: f47e3e42-84ac-4502-8b4d-88c48bcb0215
+name: Baseline Tailoring
+description: "Mechanisms exist to allow baseline controls to be specialized or customized by applying a defined set of tailoring actions that are specific to:\r\n(1) Mission / business functions;\r\n(2) Operational environment;\r\n(3) Specific threats or vulnerabilities; or\r\n(4) Other conditions or situations that could affect mission / business success."
+elementType: enhancement
+externalId: CFG-02.9
+parent: cfg-02
+controlQuestion: "Does the organization allow baseline controls to be specialized or customized by applying a defined set of tailoring actions that are specific to:\r\n (1) Mission / business functions;\r\n (2) Operational environment;\r\n (3) Specific threats or vulnerabilities; or\r\n (4) Other conditions or situations that could affect mission / business success?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

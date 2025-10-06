@@ -1,0 +1,39 @@
+id: 1009d6cc-2027-454f-a014-f84e07f4d15c
+name: Application Partitioning
+description: Mechanisms exist to separate user functionality from system management functionality.
+elementType: enhancement
+externalId: SEA-03.2
+parent: sea-03
+controlQuestion: Does the organization separate user functionality from system management functionality?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

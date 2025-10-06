@@ -1,0 +1,39 @@
+id: 72ba85f3-f12c-49cb-89af-77af25a43c1d
+name: Protection of Authenticators
+description: Mechanisms exist to protect authenticators commensurate with the sensitivity of the information to which use of the authenticator permits access.
+elementType: enhancement
+externalId: IAC-10.5
+parent: iac-10
+controlQuestion: Does the organization protect authenticators commensurate with the sensitivity of the information to which use of the authenticator permits access?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
