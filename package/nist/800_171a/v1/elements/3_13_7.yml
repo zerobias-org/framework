@@ -1,7 +1,5 @@
-id: 577fb176-18b1-459e-8c67-bfa5da7a5906
+id: 88f197cb-9cc1-4078-91e0-f57e29f8a679
+name: Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling).
+description: Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling).
+elementType: security_requirement
 externalId: 3.13.7
-name: 3.13.7
-description: Determine if remote devices are prevented from simultaneously
-  establishing non-remote connections with the system and communicating via some
-  other connection to resources in external networks (i.e., split tunneling).
-elementType: control

@@ -1,7 +1,5 @@
-id: 3fea485e-59e4-4996-9c26-be5a416b1e65
+id: 63c75623-40d0-43a9-a1cf-56529862e49a
+name: Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.
+description: Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.
+elementType: security_requirement
 externalId: 3.5.4
-name: 3.5.4
-description: Determine if replay-resistant authentication mechanisms are
-  implemented for all network account access to privileged and non-privileged
-  accounts.
-elementType: control

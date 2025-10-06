@@ -1,6 +1,5 @@
-id: 578aa72b-8114-4eaf-a1dd-21b43309a073
+id: fe1d2834-6860-4498-addb-2a2adaba1e69
+name: Ensure equipment removed for off-site maintenance is sanitized of any CUI.
+description: Ensure equipment removed for off-site maintenance is sanitized of any CUI.
+elementType: security_requirement
 externalId: 3.7.3
-name: 3.7.3
-description: Determine if equipment to be removed from organizational spaces for
-  off-site maintenance is sanitized of any CUI.
-elementType: control

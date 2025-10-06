@@ -1,7 +1,5 @@
-id: 7e3e1bdf-9262-4bc1-9bb7-42a00aa92e7f
+id: c49ef36d-9fce-4448-8b76-d4f608febcd1
+name: Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems
+description: Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems
+elementType: security_requirement
 externalId: 3.7.4
-name: 3.7.4
-description: Determine if media containing diagnostic and test programs are
-  checked for malicious code before being used in organizational systems that
-  process, store, or transmit CUI.
-elementType: control

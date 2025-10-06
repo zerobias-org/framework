@@ -1,0 +1,5 @@
+id: 45a26edb-eb03-4676-9e85-844a028697d8
+name: Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.
+description: Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.
+elementType: security_requirement
+externalId: 3.7.5
