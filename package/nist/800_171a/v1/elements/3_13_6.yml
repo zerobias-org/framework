@@ -1,0 +1,5 @@
+id: c5918312-c92d-41a8-a697-5063a2e85462
+name: Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).
+description: Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).
+elementType: security_requirement
+externalId: 3.13.6

@@ -1,6 +1,5 @@
-id: 7cce539a-30e9-4bb0-9eac-917b61ba961e
+id: 6bbfc882-2d5b-4028-a985-5042153cf717
+name: Prevent unauthorized and unintended information transfer via shared system resources.
+description: Prevent unauthorized and unintended information transfer via shared system resources.
+elementType: security_requirement
 externalId: 3.13.4
-name: 3.13.4
-description: Determine if unauthorized and unintended information transfer via
-  shared system resources is prevented.
-elementType: control

@@ -1,6 +1,5 @@
-id: 5a03958e-d6f1-4c1f-b34c-6c431e243539
+id: e013b25c-270a-489d-96a8-6cf85f2a0713
+name: Allow temporary password use for system logons with an immediate change to a permanent password
+description: Allow temporary password use for system logons with an immediate change to a permanent password
+elementType: security_requirement
 externalId: 3.5.9
-name: 3.5.9
-description: Determine if an immediate change to a permanent password is
-  required when a temporary password is used for system logon.
-elementType: control

@@ -1,6 +1,5 @@
-id: b0b8c292-2bd1-4a4f-a9e9-3d5c8994c536
+id: bdd0c27b-1670-476b-8711-d7111bd6a24f
+name: Control the use of removable media on system components.
+description: Control the use of removable media on system components.
+elementType: security_requirement
 externalId: 3.8.7
-name: 3.8.7
-description: Determine if the use of removable media on system components
-  containing CUI is controlled.
-elementType: control

@@ -11,9 +11,39 @@ version: v1
 external: true
 internal: false
 elementTypes:
-  - id: f79de47b-fdfd-4dc8-a582-57cf13dd3c31
-    code: control
-    name: Control
-    description: Control
+  - id: 1d410578-110a-4147-a402-84f82a106c80
+    code: family
+    name: Family
+    description: family element type (14 elements)
+  - id: e1ed8065-1a29-4c89-8d5b-8fe537c1bf0b
+    code: security_requirement
+    name: Security Requirement
+    description: security_requirement element type (110 elements)
+    parent: family
+  - id: 034ae4c7-b8ec-4ba6-b292-8a03b7875945
+    code: sort
+    name: Sort
+    description: sort element type (124 elements)
+    parent: security_requirement
+  - id: b5aac356-eac2-4e5b-9c83-ada90fe502b1
+    code: determination
+    name: Determination
+    description: determination element type (320 elements)
+    parent: sort
+  - id: 640606e5-c9eb-4699-9edc-e1acf386521b
+    code: examine
+    name: Examine
+    description: examine element type (110 elements)
+    parent: security_requirement
+  - id: cc049c3b-9743-4876-8a1e-a0a10fb9cf02
+    code: interview
+    name: Interview
+    description: interview element type (110 elements)
+    parent: security_requirement
+  - id: e190a4d8-b310-48a9-9649-3e12c539d24c
+    code: test
+    name: Test
+    description: test element type (110 elements)
+    parent: security_requirement
 mappingTypes:
-  - control
+  - security_requirement``

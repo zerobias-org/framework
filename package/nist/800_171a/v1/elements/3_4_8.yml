@@ -1,0 +1,5 @@
+id: bacc84db-eead-4d3d-bbe4-f830e1ddec00
+name: Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.
+description: Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.
+elementType: security_requirement
+externalId: 3.4.8

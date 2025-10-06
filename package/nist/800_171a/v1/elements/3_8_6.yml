@@ -1,7 +1,5 @@
-id: 40049384-c2e8-43c2-8b5f-af3dfebaf908
+id: 9fba9638-fd19-4009-ab36-d942f32036b7
+name: Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.
+description: Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.
+elementType: security_requirement
 externalId: 3.8.6
-name: 3.8.6
-description: Determine if the confidentiality of CUI stored on digital media is
-  protected during transport using cryptographic mechanisms or alternative
-  physical safeguards.
-elementType: control

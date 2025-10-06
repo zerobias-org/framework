@@ -1,0 +1,5 @@
+id: 5d76f24f-1380-405b-9f25-cd6dabf2e63d
+name: Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.
+description: Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.
+elementType: security_requirement
+externalId: 3.1.7
