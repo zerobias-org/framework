@@ -1,0 +1,5 @@
+id: fea204d6-c648-409c-b7f0-c9a41d54e546
+name: "Ability to configure the cryptographic algorithm to protect data in transit.\r\n              a. Ability to support trusted data exchange with a specified minimum strength cryptography algorithm.\r\n              b. Ability to support data encryption and signing to prevent data from being altered in transit."
+description: "Ability to configure the cryptographic algorithm to protect data in transit.\r\n              a. Ability to support trusted data exchange with a specified minimum strength cryptography algorithm.\r\n              b. Ability to support data encryption and signing to prevent data from being altered in transit."
+elementType: requirement
+externalId: DP:STX(1)

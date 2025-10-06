@@ -1,0 +1,44 @@
+id: a2687a1d-271e-4fc6-ae2c-ba6d573b265b
+code: nist_800_213a_v1
+externalId: NIST SP 800-213A v1
+name: "IoT Device Cybersecurity Guidance for the Federal Government: IoT Device
+  Cybersecurity Requirement Catalog"
+description: "IoT Device Cybersecurity Guidance for the Federal Government: IoT
+  Device Cybersecurity Requirement Catalog"
+url: https://doi.org/10.6028/NIST.SP.800-213A
+status: approved
+external: true
+internal: false
+version: v1
+elementTypes:
+  - id: 4309a6ce-0f5a-4ae7-8667-4185af1fcc98
+    code: type
+    name: Type
+    description: type element type (2 elements)
+  - id: 685ff5c9-a6fc-4894-9290-7ace7c684475
+    code: capability
+    name: Capability
+    description: capability element type (13 elements)
+    parent: type
+  - id: f672da1d-d33a-4219-9c81-ee111dbe083b
+    code: subcapability
+    name: Subcapability
+    description: subcapability element type (54 elements)
+    parent: capability
+  - id: 16a559cd-cf8f-408d-9ab5-f150648a6dc0
+    code: discussion
+    name: Discussion
+    description: discussion element type (65 elements)
+    parent: capability
+  - id: fefeedc4-ceb3-49aa-90cc-39eddedbb4a1
+    code: requirement
+    name: Requirement
+    description: requirement element type (402 elements)
+    parent: subcapability
+  - id: aefa5336-933e-4978-b29a-ff63b92af45c
+    code: sort
+    name: Sort
+    description: sort element type (467 elements)
+    parent: requirement
+mappingTypes: 
+  - requirement

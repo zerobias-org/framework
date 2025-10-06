@@ -1,0 +1,5 @@
+id: 43fec64a-bbbd-4bcc-a490-57db872da2e0
+name: Ability to send alerts that the logs are too big for the device to continue to store (if the predefined amount of time has not yet passed to delete them).
+description: Ability to send alerts that the logs are too big for the device to continue to store (if the predefined amount of time has not yet passed to delete them).
+elementType: requirement
+externalId: CS:LSR(4)

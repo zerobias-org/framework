@@ -1,0 +1,5 @@
+id: 4ecb942c-6f9a-479f-805d-981870b588f0
+name: When logging with time-based information (e.g., a timestamp), having reliable timekeeping is critical to allowing for effective use of the logs when audited. Use of common timekeeping mechanisms (e.g., network time) will suffice for some IoT devices, but other deployments and use cases may require alternative methods to provide reliable time.
+description: When logging with time-based information (e.g., a timestamp), having reliable timekeeping is critical to allowing for effective use of the logs when audited. Use of common timekeeping mechanisms (e.g., network time) will suffice for some IoT devices, but other deployments and use cases may require alternative methods to provide reliable time.
+elementType: discussion
+externalId: D-SRT
