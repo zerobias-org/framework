@@ -1,0 +1,5 @@
+id: 6771629d-b3c6-4eba-a200-b9801cdebd7f
+name: access control decisions are enforced based on <AC-24(02)_ODP[01] security attributes> that do not include the identity of the user or process acting on behalf of the user (if selected);
+description: access control decisions are enforced based on <AC-24(02)_ODP[01] security attributes> that do not include the identity of the user or process acting on behalf of the user (if selected);
+elementType: determination
+externalId: DS-AC-24(02)[01]

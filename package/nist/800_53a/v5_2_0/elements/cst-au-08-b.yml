@@ -1,0 +1,5 @@
+id: cda08042-de1a-44cf-8425-e4f943f9f2f6
+name: b
+description: 'Record time stamps for audit records that meet [Assignment: organization-defined granularity of time measurement] and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or that include the local time offset as part of the time stamp.'
+elementType: control_statement
+externalId: CST-AU-08-b
