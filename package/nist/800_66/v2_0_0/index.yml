@@ -1,0 +1,58 @@
+id: b4785829-1f7e-4568-875a-06df7badfb90
+code: nist_800_66_v2
+externalId: NIST 800-66 r2
+name: "Implementing the Health Insurance Portability and Accountability Act
+  (HIPAA) Security Rule: A Cybersecurity Resource Guide"
+description: "Implementing the Health Insurance Portability and Accountability
+  Act (HIPAA) Security Rule: A Cybersecurity Resource Guide"
+url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-66r2.pdf
+status: approved
+external: true
+internal: false
+version: v2.0.0
+elementTypes:
+  - id: 47d689bb-5302-4838-8f33-d074cd96ba54
+    code: type
+    name: Type
+    description: type element type (2 elements)
+  - id: def418fe-7a60-4f96-9df4-5c8747116872
+    code: security_rule
+    name: Security Rule
+    description: security_rule element type (5 elements)
+    parent: type
+  - id: bed2ede9-fd3d-41fe-9d86-9ff02934bbc4
+    code: nist_standard
+    name: Standard
+    description: standard element type (22 elements)
+    parent: security_rule
+  - id: 1670efa0-3270-4732-b930-f920e1e5158a
+    code: imp_spec
+    name: Imp Spec
+    description: imp_spec element type (53 elements)
+    parent: nist_standard
+  - id: 311a99a8-18e5-456d-8ae5-f1f443212b39
+    code: key_activity
+    name: Key Activity
+    description: key_activity element type (104 elements)
+    parent: imp_spec
+  - id: 61d169a7-5f96-4e3c-8b9e-87e1933e8b8b
+    code: description
+    name: Description
+    description: description element type (309 elements)
+    parent: key_activity
+  - id: eafe259b-0e4f-40b1-85be-958a7b1169e6
+    code: sample_question
+    name: Sample Question
+    description: sample_question element type (501 elements)
+    parent: key_activity
+  - id: dfc069fe-dac1-4810-9e9d-fca7e6d0bad0
+    code: pub_crosswalk
+    name: Pub Crosswalk
+    description: pub_crosswalk element type (107 elements)
+    parent: nist_standard
+  - id: 3208ecb8-45ac-4399-a8a9-b1ec45a15c4a
+    code: footnote
+    name: Footnote
+    description: footnote element type (120 elements)
+mappingTypes:
+  - standard
