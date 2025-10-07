@@ -1,8 +1,5 @@
-id: 155b61d8-5274-4357-a89b-a7bf65213c09
+id: a2bcacea-6f3f-40bb-9c5b-7bb9f6d5f306
+name: Have 1) a qualified person (or people) who were not involved with the design and/or 2) automated processes instantiated in the toolchain review the software design to confirm and enforce that it meets all of the security requirements and satisfactorily addresses the identified risk information.
+description: Have 1) a qualified person (or people) who were not involved with the design and/or 2) automated processes instantiated in the toolchain review the software design to confirm and enforce that it meets all of the security requirements and satisfactorily addresses the identified risk information.
+elementType: task
 externalId: PW.2.1
-name: PW.2.1
-description: Have 1) a qualified person (or people) who were not involved with
-  the design and/or 2) automated processes instantiated in the toolchain review
-  the software design to confirm and enforce that it meets all of the security
-  requirements and satisfactorily addresses the identified risk information.
-elementType: control

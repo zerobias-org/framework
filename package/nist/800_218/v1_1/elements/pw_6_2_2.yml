@@ -1,0 +1,5 @@
+id: a2664a97-493d-429d-99d4-ef4b6b3ec397
+name: 'Example 2:'
+description: Implement the “clean build” concept, where all compiler warnings are treated as errors and eliminated except those determined to be false positives or irrelevant.
+elementType: example
+externalId: PW.6.2.2
