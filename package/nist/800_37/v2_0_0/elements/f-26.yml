@@ -1,0 +1,5 @@
+id: cf5320d7-0d03-4155-a962-d66e0c31a033
+name: The potential inputs for a task may not always be derived from the expected outputs from the previous task. This can occur because the RMF steps are not always executed in sequential order, breaking the sequential dependencies.
+description: The potential inputs for a task may not always be derived from the expected outputs from the previous task. This can occur because the RMF steps are not always executed in sequential order, breaking the sequential dependencies.
+elementType: footnote
+externalId: F-26
