@@ -1,0 +1,89 @@
+id: 28c1dbcc-c21e-48b2-be93-9b7b1584aa62
+code: nist_800_37_v2
+externalId: NIST 800-37 r2
+name: Risk Management Framework for Information Systems and Organizations
+description: Risk Management Framework for Information Systems and Organizations
+url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf
+status: approved
+external: true
+internal: false
+version: v2.0.0
+elementTypes:
+  # Top-level hierarchy
+  - id: 05f9d883-3bc7-4e3d-bf87-2737ed412e8c
+    code: level
+    name: Level
+    description: level element type (2 elements)
+  - id: aa85ed97-c1b9-4bcd-944d-85ea20b5472f
+    code: step
+    name: Step
+    description: step element type (7 elements)
+    parent: level
+  - id: a32a471a-9611-488b-a50a-319d3ddd0899
+    code: task
+    name: Task
+    description: task element type (47 elements)
+    parent: step
+  # Task-level details
+  - id: d4790515-5682-45b1-8b89-2796bc215cb3
+    code: outcome
+    name: Outcome
+    description: outcome element type (59 elements)
+    parent: task
+  - id: bb3d233b-c744-4276-adce-e485a2ff2c09
+    code: expected_output
+    name: Expected Output
+    description: expected_output element type (47 elements)
+    parent: task
+  - id: b86d4439-20c3-4d64-89e3-fa41acfe47b7
+    code: potential_input
+    name: Potential Input
+    description: potential_input element type (47 elements)
+    parent: task
+  - id: e0d158bc-e50b-4ef2-8137-df8162f88e94
+    code: discussion
+    name: Discussion
+    description: discussion element type (137 elements)
+    parent: task
+  - id: 5677de23-9d2e-4672-8f01-a227cd156ba2
+    code: primary_responsibility
+    name: Primary Responsibility
+    description: primary_responsibility element type (93 elements)
+    parent: task
+  - id: bffcd605-8e32-44a7-90f3-788d1c058ecd
+    code: supporting_role
+    name: Supporting Role
+    description: supporting_role element type (273 elements)
+    parent: task
+  - id: 823e2029-5968-4173-ab51-68a21e695cad
+    code: task_ref
+    name: Task Ref
+    description: task_ref element type (251 elements)
+    parent: task
+  # Independent/supporting types
+  - id: deeb8a56-20b3-46d4-80f7-5035e044cde7
+    code: role
+    name: Role
+    description: role element type (23 elements)
+  - id: d52b6047-88e1-45a4-a325-54d6c616254c
+    code: sdlc_phase
+    name: Sdlc Phase
+    description: sdlc_phase element type (8 elements)
+  - id: 587c88b8-617a-40c0-9e18-1da95027f445
+    code: task_ref_type
+    name: Task Ref Type
+    description: task_ref_type element type (39 elements)
+  - id: 1aa4ff97-fd21-4620-9d5e-10b476fdaf1e
+    code: reference_doc
+    name: Reference Doc
+    description: reference_doc element type (30 elements)
+  - id: 9be7f73e-1bb6-4b00-a192-75b6889b403d
+    code: footnote
+    name: Footnote
+    description: footnote element type (169 elements)
+  - id: 77aceaa2-d459-440a-946f-b53f38fcf9c9
+    code: sort
+    name: Sort
+    description: sort element type (54 elements)
+mappingTypes: 
+  - task
