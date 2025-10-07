@@ -4,14 +4,44 @@ externalId: NIST 800-218 V1.1
 description: "SP 800-218 - Secure Software Development Framework (SSDF) Version 1.1:"
 code: nist_800-218_v1.1_scf
 status: approved
-url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf
+url: https://csrc.nist.gov/publications/detail/sp/800-218/final
 version: v1_1
 external: true
 internal: false
 elementTypes:
-  - id: 89ded476-8859-40a1-8345-26cab96d8e76
-    code: control
-    name: Control
-    description: Control
-mappingTypes:
-  - control
+  - id: 99cf4e17-a800-4399-b0ea-7d4f7ac7fbc3
+    code: group
+    name: Group
+    description: group element type (4 elements)
+  - id: 63c2ed47-1154-486a-b232-370cc49a7d77
+    code: practice
+    name: Practice
+    description: practice element type (19 elements)
+    parent: group
+  - id: 7238b472-a427-44b3-b0fe-d7196bd034b6
+    code: task
+    name: Task
+    description: task element type (42 elements)
+    parent: practice
+  - id: a8d92d60-ec93-483f-a7fc-f99e4592f55a
+    code: sort
+    name: Sort
+    description: sort element type (65 elements)
+    parent: practice
+  - id: 14b09a44-57a8-4e92-b5b3-39b9061cb19c
+    code: example
+    name: Example
+    description: example element type (198 elements)
+    parent: task
+  - id: 2ce785aa-79be-4971-b76d-8fb0d868dfb8
+    code: ref_doc
+    name: Ref Doc
+    description: ref_doc element type (29 elements)
+  - id: 3cd77168-df75-46d1-ab62-56a7c967af6a
+    code: ref_item
+    name: Ref Item
+    description: ref_item element type (528 elements)
+    parent: ref_doc
+mappingTypes: 
+  - task
+  - practice
