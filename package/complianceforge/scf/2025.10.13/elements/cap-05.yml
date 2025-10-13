@@ -1,0 +1,39 @@
+id: 6382d46c-91c3-4ba5-8a3a-8f9d7c5cae0c
+name: Elastic Expansion
+description: Mechanisms exist to automatically scale the resources available for Technology Assets, Applications and/or Services (TAAS), as demand conditions change.
+elementType: control
+externalId: CAP-05
+parent: cap
+controlQuestion: Does the organization automatically scale the resources available for Technology Assets, Applications and/or Services (TAAS), as demand conditions change?
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

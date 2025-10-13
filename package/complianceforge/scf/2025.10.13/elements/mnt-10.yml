@@ -1,0 +1,39 @@
+id: c19c28e5-a0b7-475a-931f-a95054d3e787
+name: Maintenance Validation
+description: Mechanisms exist to validate maintenance activities were appropriately performed according to the work order and that security controls are operational.
+elementType: control
+externalId: MNT-10
+parent: mnt
+controlQuestion: Does the organization validate maintenance activities were appropriately performed according to the work order and that security controls are operational?
+functionGrouping: Detect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

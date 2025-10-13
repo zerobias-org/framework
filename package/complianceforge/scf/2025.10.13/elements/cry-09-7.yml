@@ -1,0 +1,39 @@
+id: 4cf4055e-154b-46bd-ad63-3756b012ba09
+name: External System Cryptographic Key Control
+description: Mechanisms exist to maintain control of cryptographic keys for encrypted material stored or transmitted through an external system.
+elementType: enhancement
+externalId: CRY-09.7
+parent: cry-09
+controlQuestion: Does the organization maintain control of cryptographic keys for encrypted material stored or transmitted through an external system?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

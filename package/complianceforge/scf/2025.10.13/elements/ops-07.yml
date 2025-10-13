@@ -1,0 +1,39 @@
+id: d258e5f3-f49d-4d0e-a20d-2104bcdabd9d
+name: Shadow Information Technology Detection
+description: Mechanisms exist to detect the presence of unauthorized Technology Assets, Applications and/or Services (TAAS) in use.
+elementType: control
+externalId: OPS-07
+parent: ops
+controlQuestion: Does the organization detect the presence of unauthorized Technology Assets, Applications and/or Services (TAAS) in use?
+functionGrouping: Govern
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

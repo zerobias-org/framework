@@ -1,0 +1,39 @@
+id: d40f3239-1647-4cb7-9bbe-c9b2adffd924
+name: Representative Powers
+description: Mechanisms exist to contract localized representation to perform specified functions in regard to representing statutory and/or regulatory compliance matters.
+elementType: enhancement
+externalId: CPL-08.1
+parent: cpl-08
+controlQuestion: Does the organization contract localized representation to perform specified functions in regard to representing statutory and/or regulatory compliance matters?
+functionGrouping: Govern
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

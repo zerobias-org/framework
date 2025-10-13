@@ -1,0 +1,39 @@
+id: 75157b02-2b16-43d7-831e-2e281c70afc1
+name: Replay-Resistant Authentication
+description: Automated mechanisms exist to employ replay-resistant authentication.
+elementType: enhancement
+externalId: IAC-02.2
+parent: iac-02
+controlQuestion: Does the organization use automated mechanisms to employ replay-resistant authentication?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

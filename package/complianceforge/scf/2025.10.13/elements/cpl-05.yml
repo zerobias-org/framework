@@ -1,0 +1,39 @@
+id: 4095a6dd-2adf-4d3a-ab64-63ddcf445097
+name: Legal Assessment of Investigative Inquires
+description: Mechanisms exist to determine whether a government agency has an applicable and valid legal basis to request data from the organization and what further steps need to be taken, if necessary.
+elementType: control
+externalId: CPL-05
+parent: cpl
+controlQuestion: Does the organization determine whether a government agency has an applicable and valid legal basis to request data from the organization and what further steps need to be taken, if necessary?
+functionGrouping: Respond
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

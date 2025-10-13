@@ -1,0 +1,39 @@
+id: ebe500ec-fec7-4d94-82ca-1e6e6c56809c
+name: Role-Based Cybersecurity & Data Protection Training
+description: "Mechanisms exist to provide role-based cybersecurity and data protection-related training: \r\n(1) Before authorizing access to the system or performing assigned duties; \r\n(2) When required by system changes; and \r\n(3) Annually thereafter."
+elementType: control
+externalId: SAT-03
+parent: sat
+controlQuestion: "Does the organization provide role-based cybersecurity and data protection-related training: \r\n (1) Before authorizing access to the system or performing assigned duties; \r\n (2) When required by system changes; and \r\n (3) Annually thereafter?"
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

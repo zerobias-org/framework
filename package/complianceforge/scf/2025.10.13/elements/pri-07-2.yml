@@ -1,0 +1,39 @@
+id: a8abcc54-63a0-4017-b14b-3f3be349cedc
+name: Joint Processing of Personal Data (PD)
+description: Mechanisms exist to clearly define and communicate the organization's role in processing Personal Data (PD) in the data processing ecosystem.
+elementType: enhancement
+externalId: PRI-07.2
+parent: pri-07
+controlQuestion: Does the organization clearly define and communicate its role in processing Personal Data (PD) in the data processing ecosystem?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

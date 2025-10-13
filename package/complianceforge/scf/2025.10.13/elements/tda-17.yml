@@ -1,0 +1,39 @@
+id: 3f81e425-5016-41d7-96f1-547966f8a78e
+name: Unsupported Technology Assets, Applications and/or Services (TAAS)
+description: "Mechanisms exist to prevent unsupported Technology Assets, Applications and/or Services (TAAS) by:\r\n(1) Removing and/or replacing TAAS when support for the components is no longer available from the developer, vendor or manufacturer; and\r\n(2) Requiring justification and documented approval for the continued use of unsupported TAAS required to satisfy mission/business needs."
+elementType: control
+externalId: TDA-17
+parent: tda
+controlQuestion: "Does the organization prevent unsupported Technology Assets, Applications and/or Services (TAAS) by:\r\n(1) Removing and/or replacing TAAS when support for the components is no longer available from the developer, vendor or manufacturer; and\r\n(2) Requiring justification and documented approval for the continued use of unsupported TAAS required to satisfy mission/business needs?"
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
