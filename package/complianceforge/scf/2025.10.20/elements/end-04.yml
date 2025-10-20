@@ -1,0 +1,39 @@
+id: 16b4d64f-92a0-418d-a6b9-18050c53a011
+name: Malicious Code Protection (Anti-Malware)
+description: Mechanisms exist to utilize antimalware technologies to detect and eradicate malicious code.
+elementType: control
+externalId: END-04
+parent: end
+controlQuestion: Does the organization utilize antimalware technologies to detect and eradicate malicious code?
+functionGrouping: Detect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

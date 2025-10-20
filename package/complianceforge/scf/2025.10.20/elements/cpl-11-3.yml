@@ -1,0 +1,39 @@
+id: 249fad82-ac67-4620-8ae7-87f4b5ab4697
+name: Export Activities Documentation
+description: "Mechanisms exist to generate detailed logs of export-controlled data including:\r\n(1) Logical and physical access; and\r\n(2) Export activities."
+elementType: enhancement
+externalId: CPL-11.3
+parent: cpl-11
+controlQuestion: "Does the organization generate detailed logs of export-controlled data including:\r\n(1) Logical and physical access; and\r\n(2) Export activities?"
+functionGrouping: Govern
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

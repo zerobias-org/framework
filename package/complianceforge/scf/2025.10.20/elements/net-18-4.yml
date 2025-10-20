@@ -1,0 +1,39 @@
+id: 43a5ab4e-9e56-430d-af38-395258311535
+name: Protocol Compliance Enforcement
+description: Automated mechanisms exist to ensure network traffic complies with Internet Engineering Task Force (IETF) protocol specifications.
+elementType: enhancement
+externalId: NET-18.4
+parent: net-18
+controlQuestion: Does the organization use automated mechanisms to ensure network traffic complies with Internet Engineering Task Force (IETF) protocol specifications?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

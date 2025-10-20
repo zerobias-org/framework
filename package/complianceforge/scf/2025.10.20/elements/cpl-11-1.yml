@@ -1,0 +1,39 @@
+id: 0ae92bc3-2ae0-4869-ba76-0753e0d741ef
+name: USML or CCL Identification
+description: "Mechanisms exist to identify if the organization handles United States Munitions List (USML) or Commerce Control List (CCL):\r\n(1) Items;\r\n(2) Technical data; and/or\r\n(3) Provides defense services."
+elementType: enhancement
+externalId: CPL-11.1
+parent: cpl-11
+controlQuestion: "Does the organization identify if the organization handles United States Munitions List (USML) or Commerce Control List (CCL):\r\n(1) Items;\r\n(2) Technical data; and/or\r\n(3) Provides defense services?"
+functionGrouping: Govern
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

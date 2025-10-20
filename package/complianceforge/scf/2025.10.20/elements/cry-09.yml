@@ -1,0 +1,39 @@
+id: ee7fe35f-51ab-4692-b228-b1cf8d09d193
+name: Cryptographic Key Management
+description: Mechanisms exist to facilitate cryptographic key management controls to protect the confidentiality, integrity and availability of keys.
+elementType: control
+externalId: CRY-09
+parent: cry
+controlQuestion: Does the organization facilitate cryptographic key management controls to protect the confidentiality, integrity and availability of keys?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: b06906a0-34e3-44c5-a89e-a057c9a37e8a
+name: Purging AI Agent Data
+description: Mechanisms exist to restrict purging of any persistent memory or long-term data used by AI agents.
+elementType: enhancement
+externalId: AAT-29.16
+parent: aat-29
+controlQuestion: Does the organization restrict purging of any persistent memory or long-term data used by AI agents?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

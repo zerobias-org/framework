@@ -1,0 +1,39 @@
+id: 2bde0d0f-03b3-4b15-9855-d343ea0b9bdb
+name: Biometric Categorization
+description: "Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that categorize an individual based on their biometric data to deduce, or infer, the individual's:\r\n(1) Race; \r\n(2) Political opinions;\r\n(3) Trade union membership;\r\n(4) Religious or philosophical beliefs; \r\n(5) Sex life or sexual orientation; and/or\r\n(6) Age."
+elementType: enhancement
+externalId: AAT-19.8
+parent: aat-19
+controlQuestion: "Does the organization prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that categorize an individual based on their biometric data to deduce, or infer, the individual's:\r\n(1) Race; \r\n(2) Political opinions;\r\n(3) Trade union membership;\r\n(4) Religious or philosophical beliefs; \r\n(5) Sex life or sexual orientation; and/or\r\n(6) Age?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

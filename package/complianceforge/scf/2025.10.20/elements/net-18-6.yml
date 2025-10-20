@@ -1,0 +1,39 @@
+id: 1b77b3a3-05e2-456d-b4a2-df08699b75e3
+name: Internet Address Denylisting
+description: Mechanisms exist to implement Internet address denylisting protections that blocks traffic received from or destined to a denylisted Internet address.
+elementType: enhancement
+externalId: NET-18.6
+parent: net-18
+controlQuestion: Does the organization implement Internet address denylisting protections that blocks traffic received from or destined to a denylisted Internet address?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

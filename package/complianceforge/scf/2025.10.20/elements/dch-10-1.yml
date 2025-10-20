@@ -1,0 +1,39 @@
+id: 3587cbaf-988e-4738-8528-b7024156b65a
+name: Limitations on Use
+description: Mechanisms exist to restrict the use and distribution of sensitive/regulated data.
+elementType: enhancement
+externalId: DCH-10.1
+parent: dch-10
+controlQuestion: Does the organization restrict the use and distribution of sensitive/regulated data?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

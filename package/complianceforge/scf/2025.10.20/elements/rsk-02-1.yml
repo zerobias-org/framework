@@ -1,0 +1,39 @@
+id: 9e6e2ebf-f977-42ca-bb23-a2f4234a9b99
+name: Impact-Level Prioritization
+description: Mechanisms exist to prioritize the impact level for Technology Assets, Applications and/or Services (TAAS) to prevent potential disruptions.
+elementType: enhancement
+externalId: RSK-02.1
+parent: rsk-02
+controlQuestion: Does the organization prioritize the impact level for Technology Assets, Applications and/or Services (TAAS) to prevent potential disruptions?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

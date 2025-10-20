@@ -1,0 +1,39 @@
+id: 13059543-7232-46c4-b100-9d403c66812d
+name: Time Stamps
+description: Mechanisms exist to configure Technology Assets, Applications and/or Services (TAAS) to use an authoritative time source to generate time stamps for event logs.
+elementType: control
+externalId: MON-07
+parent: mon
+controlQuestion: Does the organization configure Technology Assets, Applications and/or Services (TAAS) to use an authoritative time source to generate time stamps for event logs?
+functionGrouping: Detect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: e14fc209-c18f-4ea1-8538-cb97ea327181
+name: Alternate Sources for Continued Support
+description: Mechanisms exist to provide in-house support or contract external providers for support with unsupported Technology Assets, Applications and/or Services (TAAS).
+elementType: enhancement
+externalId: TDA-17.1
+parent: tda-17
+controlQuestion: Does the organization provide in-house support or contract external providers for support with unsupported Technology Assets, Applications and/or Services (TAAS)?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
