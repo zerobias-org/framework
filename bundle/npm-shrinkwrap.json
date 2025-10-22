@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-bundle",
-      "version": "0.0.20",
+      "version": "0.0.21",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/framework-au-aee-v1": "1.1.1",
@@ -71,12 +71,12 @@
         "@zerobias-org/framework-us-cybersecurity_rule-v1": "1.1.0",
         "@zerobias-org/framework-us-dpf-v1": "1.1.0",
         "@zerobias-org/framework-us-fca-v1": "1.1.0",
-        "@zerobias-org/framework-us-fda-v21": "1.0.1",
+        "@zerobias-org/framework-us-fda-v21": "1.1.1",
         "@zerobias-org/framework-us-glba-2023": "1.1.0",
         "@zerobias-org/framework-us-hicp-v1": "1.1.0",
         "@zerobias-org/framework-us-hipaa-v2": "1.1.0",
         "@zerobias-org/framework-us-hipaa-v2013": "1.1.0",
-        "@zerobias-org/framework-us-mars_e-v2": "1.0.1",
+        "@zerobias-org/framework-us-mars_e-v2": "1.1.1",
         "@zerobias-org/framework-us-nerc-2024": "1.1.0"
       }
     },
@@ -1076,9 +1076,9 @@
       }
     },
     "node_modules/@zerobias-org/framework-us-fda-v21": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-fda-v21/-/framework-us-fda-v21-1.0.1.tgz",
-      "integrity": "sha512-7HcNrcSALyPfa3GJLqy1mRMnGaWUDs7FD1lw7AFqQjhuKVB1iL7tb3Q3F10MHSaXbm3I0Kk4p3LSInaCT6xBog==",
+      "version": "1.1.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-fda-v21/-/framework-us-fda-v21-1.1.1.tgz",
+      "integrity": "sha512-M2EBstJXBB2L0Ew0o3XK6oZwh/ePt+MI1YQJqscaJkYZ+hHBykr9PKQZJ8oqhouLEEY978S+HDspnUlqKM2pWw==",
       "dependencies": {
         "@zerobias-org/suite-us-fda": "latest"
       },
@@ -1136,9 +1136,9 @@
       }
     },
     "node_modules/@zerobias-org/framework-us-mars_e-v2": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-mars_e-v2/-/framework-us-mars_e-v2-1.0.1.tgz",
-      "integrity": "sha512-6yiKjvetDStaO8ao6ltAIKhHIQMatc16oqCP2jkOUH3DaMzZC+GYj01iR0UdLPnigFr1lE5r9FPOtIfKo0MFqA==",
+      "version": "1.1.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-mars_e-v2/-/framework-us-mars_e-v2-1.1.1.tgz",
+      "integrity": "sha512-1l5dnO6XsQqkhM2c4DVIN5K10LYEMcNnu3C45oyXtat6gaXOTQYpIZvSx8/Sqo195RjEEkA4Q/jd8nfgnbu+vg==",
       "dependencies": {
         "@zerobias-org/suite-us-mars_e": "latest"
       },
@@ -6282,9 +6282,9 @@
       }
     },
     "@zerobias-org/framework-us-fda-v21": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-fda-v21/-/framework-us-fda-v21-1.0.1.tgz",
-      "integrity": "sha512-7HcNrcSALyPfa3GJLqy1mRMnGaWUDs7FD1lw7AFqQjhuKVB1iL7tb3Q3F10MHSaXbm3I0Kk4p3LSInaCT6xBog==",
+      "version": "1.1.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-fda-v21/-/framework-us-fda-v21-1.1.1.tgz",
+      "integrity": "sha512-M2EBstJXBB2L0Ew0o3XK6oZwh/ePt+MI1YQJqscaJkYZ+hHBykr9PKQZJ8oqhouLEEY978S+HDspnUlqKM2pWw==",
       "requires": {
         "@zerobias-org/suite-us-fda": "latest"
       }
@@ -6322,9 +6322,9 @@
       }
     },
     "@zerobias-org/framework-us-mars_e-v2": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-mars_e-v2/-/framework-us-mars_e-v2-1.0.1.tgz",
-      "integrity": "sha512-6yiKjvetDStaO8ao6ltAIKhHIQMatc16oqCP2jkOUH3DaMzZC+GYj01iR0UdLPnigFr1lE5r9FPOtIfKo0MFqA==",
+      "version": "1.1.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-us-mars_e-v2/-/framework-us-mars_e-v2-1.1.1.tgz",
+      "integrity": "sha512-1l5dnO6XsQqkhM2c4DVIN5K10LYEMcNnu3C45oyXtat6gaXOTQYpIZvSx8/Sqo195RjEEkA4Q/jd8nfgnbu+vg==",
       "requires": {
         "@zerobias-org/suite-us-mars_e": "latest"
       }
