@@ -1,0 +1,39 @@
+id: e32bfd08-d04d-4acc-a0c0-36cad8becb57
+name: Statistical Disclosure Control
+description: Mechanisms exist to manipulate numerical data, contingency tables and statistical findings so that no person or organization is identifiable in the results of the analysis.
+elementType: enhancement
+externalId: DCH-23.5
+parent: dch-23
+controlQuestion: Does the organization manipulate numerical data, contingency tables and statistical findings so that no person or organization is identifiable in the results of the analysis?
+functionGrouping: Protect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

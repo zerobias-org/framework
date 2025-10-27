@@ -1,0 +1,39 @@
+id: 9985be48-a248-4a13-9602-6dc5dd724f77
+name: Acquired Personal Data (PD)
+description: Mechanisms exist to promptly inform data subjects of the utilization purpose when their Personal Data (PD) is acquired and not received directly from the data subject, except where that utilization purpose was disclosed in advance to the data subject.
+elementType: enhancement
+externalId: PRI-04.4
+parent: pri-04
+controlQuestion: Does the organization promptly inform data subjects of the utilization purpose when their Personal Data (PD) is acquired and not received directly from the data subject, except where that utilization purpose was disclosed in advance to the data subject?
+functionGrouping: Identify
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

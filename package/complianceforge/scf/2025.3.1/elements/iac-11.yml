@@ -1,0 +1,39 @@
+id: 49efb528-89bf-46e8-9260-2e58e5c4cd1c
+name: Authenticator Feedback
+description: Mechanisms exist to obscure the feedback of authentication information during the authentication process to protect the information from possible exploitation/use by unauthorized individuals.
+elementType: control
+externalId: IAC-11
+parent: iac
+controlQuestion: Does the organization obscure the feedback of authentication information during the authentication process to protect the information from possible exploitation/use by unauthorized individuals?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

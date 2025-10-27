@@ -1,0 +1,39 @@
+id: ecf28fab-be30-4cbc-95e6-c1a7f71bba0e
+name: Clock Synchronization
+description: Mechanisms exist to utilize time-synchronization technology to synchronize all critical system clocks.
+elementType: control
+externalId: SEA-20
+parent: sea
+controlQuestion: Does the organization utilize time-synchronization technology to synchronize all critical system clocks?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

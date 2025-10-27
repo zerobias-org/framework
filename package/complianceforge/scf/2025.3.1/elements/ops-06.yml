@@ -1,0 +1,39 @@
+id: 5bb87350-e518-4aaf-a18e-c2cd6b81a0ed
+name: Security Orchestration, Automation, and Response (SOAR)
+description: Mechanisms exist to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+elementType: control
+externalId: OPS-06
+parent: ops
+controlQuestion: Does the organization utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
