@@ -1,0 +1,39 @@
+id: 154670fb-515f-4c37-9daf-d504a2078537
+name: Assurance Levels (AL)
+description: "Mechanisms exist to utilize defined Assurance Levels (AL) for assessment activities to standardize the following assurance attributes:\r\n(1) Depth that addresses the rigor and level of detail of the assessment; and\r\n(2) Coverage that addresses the scope and breadth of the assessment."
+elementType: enhancement
+externalId: GOV-19.1
+parent: gov-19
+controlQuestion: "Does the organization utilize defined Assurance Levels (AL) for assessment activities to standardize the following assurance attributes:\r\n(1) Depth that addresses the rigor and level of detail of the assessment; and\r\n(2) Coverage that addresses the scope and breadth of the assessment?"
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: a1ec0b6b-3638-4658-b60e-83118b43bb5e
+name: Limit Personal Data (PD) Dissemination
+description: Mechanisms exist to limit the dissemination of Personal Data (PD) to organization-defined elements identified in the Data Protection Impact Assessment (DPIA) and consistent with authorized purposes.
+elementType: enhancement
+externalId: SEA-09.1
+parent: sea-09
+controlQuestion: Does the organization limit the dissemination of Personal Data (PD) to organization-defined elements identified in the Data Protection Impact Assessment (DPIA) and consistent with authorized purposes?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

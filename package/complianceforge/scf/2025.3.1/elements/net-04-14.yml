@@ -1,0 +1,39 @@
+id: e4d70c59-1582-4f96-b91d-45163f250b9d
+name: Application Proxy
+description: Mechanisms exist to terminate, inspect, control and reinitiate application traffic, regardless of the user’s location or the security posture of the surrounding network.
+elementType: enhancement
+externalId: NET-04.14
+parent: net-04
+controlQuestion: Does the organization maintain visibility and control over application traffic, regardless of the user’s location or the security posture of the surrounding network?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: d6ff9280-a384-499b-89f9-3a265e14afc5
+name: Sandboxing AI Agents
+description: Mechanisms exist to utilize a "sandbox" capability to restrict AI agents from unrestricted access to both local and remote resources.
+elementType: enhancement
+externalId: AAT-29.11
+parent: aat-29
+controlQuestion: Does the organization utilize a "sandbox" capability to restrict AI agents from unrestricted access to both local and remote resources?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
