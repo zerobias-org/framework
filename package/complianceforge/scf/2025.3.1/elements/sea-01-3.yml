@@ -1,0 +1,39 @@
+id: cc9b2e6b-f858-46ef-a7ba-cd08c220f352
+name: Resilience Capabilities
+description: "Mechanisms exist to ensure cybersecurity and data protection controls are designed and implemented to provide resistance to:\r\n(1) Unintentional errors (by users or software); and \r\n(2) Intentional attack or circumvention."
+elementType: enhancement
+externalId: SEA-01.3
+parent: sea-01
+controlQuestion: "Does the organization ensure cybersecurity and data protection controls are designed and implemented to provide resistance to:\r\n(1) Unintentional errors (by users or software); and \r\n(2) Intentional attack or circumvention?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 02f4cd7f-0088-4b58-b8bb-9456c7281b23
+name: Risk-Based Security Categorization
+description: "Mechanisms exist to categorize Technology Assets, Applications, Services and/or Data (TAASD) in accordance with applicable laws, regulations and contractual obligations that:\r\n(1) Document the security categorization results (including supporting rationale) in the security plan for systems; and\r\n(2) Ensure the security categorization decision is reviewed and approved by the asset owner."
+elementType: control
+externalId: RSK-02
+parent: rsk
+controlQuestion: "Does the organization categorize Technology Assets, Applications, Services and/or Data (TAASD) in accordance with applicable laws, regulations and contractual obligations that:\r\n (1) Document the security categorization results (including supporting rationale) in the security plan for systems; and\r\n (2) Ensure the security categorization decision is reviewed and approved by the asset owner?"
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

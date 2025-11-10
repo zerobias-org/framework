@@ -1,0 +1,39 @@
+id: 89114826-d0a4-49f1-b084-afa56d693ae0
+name: Assurance
+description: Mechanisms exist to define the basis for confidence that implemented practices conform to applicable security, compliance and resilience controls, where the control implementation performs as intended.
+elementType: control
+externalId: GOV-19
+parent: gov
+controlQuestion: Does the organization define the basis for confidence that implemented practices conform to applicable security, compliance and resilience controls, where the control implementation performs as intended?
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

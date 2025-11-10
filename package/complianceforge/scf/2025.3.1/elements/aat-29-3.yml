@@ -1,0 +1,39 @@
+id: 02c388df-e12f-4bf2-b73d-120a8ba70dd2
+name: Tool & API Invocation Controls
+description: "Mechanisms exist to authenticate, authorize, validate and monitor all tool and Application Programming Interface (API) invocations by AI agents, including;\r\n(1) Schema validation;\r\n(2) Rate limiting;\r\n(3) Access controls; and\r\n(4) Output validation."
+elementType: enhancement
+externalId: AAT-29.3
+parent: aat-29
+controlQuestion: "Does the organization authenticate, authorize, validate and monitor all tool and Application Programming Interface (API) invocations by AI agents, including;\r\n(1) Schema validation;\r\n(2) Rate limiting;\r\n(3) Access controls; and\r\n(4) Output validation?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

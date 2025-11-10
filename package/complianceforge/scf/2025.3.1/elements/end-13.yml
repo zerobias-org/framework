@@ -1,0 +1,39 @@
+id: 054e0d47-2b50-4fe7-8f02-0c7183ae2330
+name: Sensor Capability
+description: "Mechanisms exist to configure embedded sensors on systems to: \r\n(1) Prohibit the remote activation of sensing capabilities; and\r\n(2) Provide an explicit indication of sensor use to users."
+elementType: control
+externalId: END-13
+parent: end
+controlQuestion: "Does the organization configure embedded sensors on systems to: \r\n (1) Prohibit the remote activation of sensing capabilities; and\r\n (2) Provide an explicit indication of sensor use to users?"
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

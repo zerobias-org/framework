@@ -1,0 +1,39 @@
+id: b22d60fb-c89c-426e-8896-cf04b31ed63d
+name: Dedicated Administrative Machines
+description: Mechanisms exist to restrict executing administrative tasks or tasks requiring elevated access to a dedicated machine.
+elementType: enhancement
+externalId: IAC-20.4
+parent: iac-20
+controlQuestion: Does the organization restrict executing administrative tasks or tasks requiring elevated access to a dedicated machine?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

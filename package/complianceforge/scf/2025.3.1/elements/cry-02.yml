@@ -1,0 +1,39 @@
+id: 0ff10f1d-70a4-4c08-bce9-52ddaa72ba66
+name: Cryptographic Module Authentication
+description: Automated mechanisms exist to enable systems to authenticate to a cryptographic module.
+elementType: control
+externalId: CRY-02
+parent: cry
+controlQuestion: Does the organization use automated mechanisms to enable systems to authenticate to a cryptographic module?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

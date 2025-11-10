@@ -1,0 +1,39 @@
+id: 6f548875-ec96-4524-8bac-a568d2b81427
+name: Serious Incident Reporting
+description: "Mechanisms exist to report any serious incident involving the organization's Technology Assets, Applications, Services and/or Data (TAASD) to relevant authorities in the locality where the incident occurred, in accordance with mandatory reporting:\r\n(1) Requirements; and\r\n(2) Timelines."
+elementType: enhancement
+externalId: IRO-10.5
+parent: iro-10
+controlQuestion: "Does the organization report any serious incident involving the organization's Technology Assets, Applications and/or Services (TAAS) to relevant authorities in the locality where the incident occurred, in accordance with mandatory reporting:\r\n(1) Requirements; and\r\n(2) Timelines?"
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

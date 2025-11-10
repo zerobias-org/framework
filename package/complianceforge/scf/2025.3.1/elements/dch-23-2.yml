@@ -1,0 +1,39 @@
+id: f576343d-166d-49ce-9688-cfd266ca8e2c
+name: Archiving
+description: Mechanisms exist to refrain from archiving Personal Data (PD) elements if those elements in a dataset will not be needed after the dataset is archived.
+elementType: enhancement
+externalId: DCH-23.2
+parent: dch-23
+controlQuestion: Does the organization refrain from archiving Personal Data (PD) elements if those elements in a dataset will not be needed after the dataset is archived?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

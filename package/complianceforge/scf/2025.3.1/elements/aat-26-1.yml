@@ -1,0 +1,39 @@
+id: 4cebffe8-1bda-4dfd-81c0-e2d737ece97d
+name: Generative Artificial Intelligence (GAI) Identification
+description: Mechanisms exist to develop and implement testing techniques to identify Generative Artificial Intelligence (GAI) produced content (e.g., synthetic media).
+elementType: enhancement
+externalId: AAT-26.1
+parent: aat-26
+controlQuestion: Does the organization develop and implement testing techniques to identify Generative Artificial Intelligence (GAI) produced content (e.g., synthetic media)?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

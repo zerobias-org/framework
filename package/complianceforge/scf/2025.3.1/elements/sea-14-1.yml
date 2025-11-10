@@ -1,0 +1,39 @@
+id: 9015069b-8d0b-4413-85f6-f9bd54c02ef0
+name: Randomness
+description: Automated mechanisms exist to introduce randomness into organizational operations and assets.
+elementType: enhancement
+externalId: SEA-14.1
+parent: sea-14
+controlQuestion: Does the organization use automated mechanisms to introduce randomness into organizational operations and assets?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

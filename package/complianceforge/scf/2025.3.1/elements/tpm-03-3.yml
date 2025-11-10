@@ -1,0 +1,39 @@
+id: c7b05bdf-29e4-4c56-a8ba-f868200d4a18
+name: Processes To Address Weaknesses or Deficiencies
+description: Mechanisms exist to address identified weaknesses or deficiencies in the security of the supply chain
+elementType: enhancement
+externalId: TPM-03.3
+parent: tpm-03
+controlQuestion: Does the organization address identified weaknesses or deficiencies in the security of the supply chain
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

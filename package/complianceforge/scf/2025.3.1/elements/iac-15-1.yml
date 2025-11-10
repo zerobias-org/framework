@@ -1,0 +1,39 @@
+id: 01e2dfb7-689e-47e9-8e51-89ffe879de8a
+name: Automated System Account Management (Directory Services)
+description: Automated mechanisms exist to support the management of system accounts (e.g., directory services).
+elementType: enhancement
+externalId: IAC-15.1
+parent: iac-15
+controlQuestion: Does the organization use automated mechanisms to support the management of system accounts?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
