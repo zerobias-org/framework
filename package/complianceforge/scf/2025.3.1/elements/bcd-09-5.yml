@@ -1,0 +1,39 @@
+id: 44c32d62-e4c0-4517-8dc6-fdcdd8fa1f5b
+name: Inability to Return to Primary Site
+description: Mechanisms exist to plan and prepare for both natural and manmade circumstances that preclude returning to the primary processing site.
+elementType: enhancement
+externalId: BCD-09.5
+parent: bcd-09
+controlQuestion: Does the organization plan and prepare for both natural and manmade circumstances that preclude returning to the primary processing site?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

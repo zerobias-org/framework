@@ -1,0 +1,39 @@
+id: 83967b7c-1332-4674-ada2-2396dbb08ecf
+name: Fire Suppression Devices
+description: Facility security mechanisms exist to utilize fire suppression devices/systems that provide automatic notification of any activation to organizational personnel and emergency responders.
+elementType: enhancement
+externalId: PES-08.2
+parent: pes-08
+controlQuestion: Does the organization utilize fire suppression devices/systems that provide automatic notification of any activation to organizational personnel and emergency responders?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 5e1e1455-e7ad-422d-b85a-2fe7933c6c25
+name: Evidence Request List (ERL)
+description: Mechanisms exist to define an Evidence Request List (ERL) prior to the start of a cybersecurity and/or data protection assessment.
+elementType: enhancement
+externalId: CPL-03.6
+parent: cpl-03
+controlQuestion: Does the organization define an Evidence Request List (ERL) prior to the start of a cybersecurity and/or data protection assessment?
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

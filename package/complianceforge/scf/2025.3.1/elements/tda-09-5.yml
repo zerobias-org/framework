@@ -1,0 +1,39 @@
+id: c499464e-f285-4103-8e92-f100f428ed94
+name: Application Penetration Testing
+description: Mechanisms exist to perform application-level penetration testing of custom-made Technology Assets, Applications and/or Services (TAAS).
+elementType: enhancement
+externalId: TDA-09.5
+parent: tda-09
+controlQuestion: Does the organization perform application-level penetration testing of custom-made Technology Assets, Applications and/or Services (TAAS)?
+functionGrouping: Detect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

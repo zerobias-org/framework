@@ -1,0 +1,39 @@
+id: 8be40133-1b5e-48cb-908d-0bf5de39322e
+name: Automated Network Asset Discovery
+description: "Mechanisms exist to automate network asset discovery through Software Defined Networking (SDN), or similar technologies, that analyzes network traffic to:\r\n(1) Identify;\r\n(2) Document; and \r\n(3) Track devices."
+elementType: control
+externalId: AST-32
+parent: ast
+controlQuestion: "Does the organization automate network asset discovery through Software Defined Networking (SDN), or similar technologies, that analyzes network traffic to:\r\n(1) Identify;\r\n(2) Document; and \r\n(3) Track devices?"
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

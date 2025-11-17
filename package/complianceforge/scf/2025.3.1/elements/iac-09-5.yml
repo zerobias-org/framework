@@ -1,0 +1,39 @@
+id: e20dc6a8-fa8f-419b-a12f-d96a933c3121
+name: Privileged Account Identifiers
+description: Mechanisms exist to uniquely manage privileged accounts to identify the account as a privileged user or service.
+elementType: enhancement
+externalId: IAC-09.5
+parent: iac-09
+controlQuestion: Does the organization uniquely manage privileged accounts to identify the account as a privileged user or service?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

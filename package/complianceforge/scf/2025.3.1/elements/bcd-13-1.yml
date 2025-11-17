@@ -1,0 +1,39 @@
+id: 70cfafd6-3fbd-43ca-9959-5f8f81cd44f1
+name: Restoration Integrity Verification
+description: Mechanisms exist to verify the integrity of backups and other restoration assets prior to using them for restoration.
+elementType: enhancement
+externalId: BCD-13.1
+parent: bcd-13
+controlQuestion: Does the organization verify the integrity of backups and other restoration assets prior to using them for restoration?
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

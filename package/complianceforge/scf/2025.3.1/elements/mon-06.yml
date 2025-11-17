@@ -1,0 +1,39 @@
+id: d502fc11-5f3c-4d14-8e65-e43b6527ee12
+name: Monitoring Reporting
+description: Mechanisms exist to provide an event log report generation capability to aid in detecting and assessing anomalous activities.
+elementType: control
+externalId: MON-06
+parent: mon
+controlQuestion: Does the organization provide an event log report generation capability to aid in detecting and assessing anomalous activities?
+functionGrouping: Detect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

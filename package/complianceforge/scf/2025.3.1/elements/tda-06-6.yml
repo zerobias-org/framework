@@ -1,0 +1,39 @@
+id: bf21b048-d1cd-47e5-aac8-67bddae3cdcc
+name: Software Design Root Cause Analysis
+description: "Mechanisms exist to assess software design processes that includes: \r\n(1) Conducting Root Cause Analysis (RCA) to identify the underlying causes of issues or failures;\r\n(2) Developing actions to address the root cause of the issue or failure; and\r\n(3) Implementing the actions and monitoring the implementation for effectiveness."
+elementType: enhancement
+externalId: TDA-06.6
+parent: tda-06
+controlQuestion: "Does the organization assess software design processes that includes: \r\n(1) Conducting Root Cause Analysis (RCA) to identify the underlying causes of issues or failures;\r\n(2) Developing actions to address the root cause of the issue or failure; and\r\n(3) Implementing the actions and monitoring the implementation for effectiveness?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
