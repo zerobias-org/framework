@@ -1,0 +1,39 @@
+id: d3af2861-6e1d-4e6e-a58c-ed09b4e2285b
+name: Specialized Assessments
+description: "Mechanisms exist to conduct specialized assessments for: \r\n(1) Statutory, regulatory and contractual compliance obligations;\r\n(2) Monitoring capabilities; \r\n(3) Mobile devices;\r\n(4) Databases;\r\n(5) Application security;\r\n(6) Embedded technologies (e.g., IoT, OT, etc.);\r\n(7) Vulnerability management; \r\n(8) Malicious code; \r\n(9) Insider threats;\r\n(10) Performance/load testing; and/or\r\n(11) Artificial Intelligence and Autonomous Technologies (AAT)."
+elementType: enhancement
+externalId: IAO-02.2
+parent: iao-02
+controlQuestion: "Does the organization conduct specialized assessments for: \r\n (1) Statutory, regulatory and contractual compliance obligations;\r\n (2) Monitoring capabilities; \r\n (3) Mobile devices;\r\n (4) Databases;\r\n (5) Application security;\r\n (6) Embedded technologies (e.g., IoT, OT, etc.);\r\n (7) Vulnerability management; \r\n (8) Malicious code; \r\n (9) Insider threats;\r\n (10) Performance/load testing; and/or\r\n (11) Artificial Intelligence and Autonomous Technologies (AAT) testing?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

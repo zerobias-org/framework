@@ -1,0 +1,39 @@
+id: 0ed204f7-2962-4ebe-80d0-3320969b3b77
+name: Post-Employment Requirements Awareness
+description: Mechanisms exist to notify individuals of their applicable, legally-binding post-employment requirements for the protection of sensitive/regulated data.
+elementType: enhancement
+externalId: HRS-06.2
+parent: hrs-06
+controlQuestion: Does the organization notify individuals of their applicable, legally-binding post-employment requirements for the protection of sensitive/regulated data?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

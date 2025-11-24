@@ -1,0 +1,39 @@
+id: 7b2c4307-968f-49ea-bc5e-1797d41b9c48
+name: Manipulative or Deceptive Techniques
+description: Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that utilize manipulative or deceptive techniques (including biased data) to impair an individual's ability to make a reasonably informed decision.
+elementType: enhancement
+externalId: AAT-19.1
+parent: aat-19
+controlQuestion: Does the organization prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that utilize manipulative or deceptive techniques (including biased data) to impair an individual's ability to make a reasonably informed decision?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

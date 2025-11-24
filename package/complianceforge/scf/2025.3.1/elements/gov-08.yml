@@ -1,0 +1,39 @@
+id: 2c584653-7873-4b5e-88ad-ffcc5e199b6d
+name: Defining Business Context & Mission
+description: Mechanisms exist to define the context of its business model and document the organization's mission.
+elementType: control
+externalId: GOV-08
+parent: gov
+controlQuestion: Does the organization define the context of its business model and document the mission of the organization?
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

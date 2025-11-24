@@ -1,0 +1,39 @@
+id: 0a6440f2-3ba7-438e-bb0b-5b141a24d405
+name: Model & AI Agent Documentation
+description: "Mechanisms exist to create, maintain and provide access to documentation artifacts for AI models and agents, including:\r\n(1) Data lineage;\r\n(2) Intended use; and \r\n(3) Limitations."
+elementType: enhancement
+externalId: AAT-03.2
+parent: aat-03
+controlQuestion: "Does the organization create, maintain and provide access to documentation artifacts for AI models and agents, including:\r\n(1) Data lineage;\r\n(2) Intended use; and \r\n(3) Limitations?"
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

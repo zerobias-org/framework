@@ -1,0 +1,39 @@
+id: 0477e269-6d0e-4396-9c88-8cecb0ae11c5
+name: AI & Autonomous Technologies Performance Changes
+description: Mechanisms exist to evaluate performance improvements or declines with domain experts and relevant stakeholders to define context-relevant risks and trustworthiness issues.
+elementType: enhancement
+externalId: AAT-16.6
+parent: aat-16
+controlQuestion: Does the organization evaluate performance improvements or declines with domain experts and relevant stakeholders to define context-relevant risks and trustworthiness issues?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

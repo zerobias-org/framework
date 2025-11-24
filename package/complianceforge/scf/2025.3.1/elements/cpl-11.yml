@@ -1,0 +1,39 @@
+id: 58bdd165-c820-49e2-8178-5b9a4fd22856
+name: Dual Use Technology
+description: "Mechanisms exist to govern technologies and/or data that have potential:\r\n(1) \"Dual-use” capabilities for civil and military;\r\n(2) Use by terrorists; and/or \r\n(3) Weapons of Mass Destruction (WMD) applications."
+elementType: control
+externalId: CPL-11
+parent: cpl
+controlQuestion: "Does the organization govern technologies and/or data that have potential:\r\n(1) \"Dual-use” capabilities for civil and military;\r\n(2) Use by terrorists; and/or \r\n(3) Weapons of Mass Destruction (WMD) applications?"
+functionGrouping: Govern
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

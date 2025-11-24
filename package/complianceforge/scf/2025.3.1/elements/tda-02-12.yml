@@ -1,0 +1,39 @@
+id: efcfaf31-e41c-4354-b144-dd5ffd71e410
+name: Products With Digital Elements
+description: Mechanisms exist to categorize applicable security and resiliency requirements for products and/or services with digital elements.
+elementType: enhancement
+externalId: TDA-02.12
+parent: tda-02
+controlQuestion: Does the organization categorize applicable security and resiliency requirements for products and/or services with digital elements?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

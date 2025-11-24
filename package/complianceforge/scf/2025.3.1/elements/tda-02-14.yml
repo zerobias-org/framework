@@ -1,0 +1,39 @@
+id: 6bad3d0f-c759-4e72-a953-78ab88e00cec
+name: Logging Syntax
+description: Mechanisms exist to require system developers to use an industry-defined secure logging format to generate event logs for specified event types at organization-defined level of detail.
+elementType: enhancement
+externalId: TDA-02.14
+parent: tda-02
+controlQuestion: Does the organization require system developers to use an industry-defined secure logging format to generate event logs for specified event types at organization-defined level of detail?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

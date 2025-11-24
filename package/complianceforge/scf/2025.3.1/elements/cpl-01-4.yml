@@ -1,0 +1,39 @@
+id: f5403742-49e8-4b85-9ffb-a407056c6422
+name: Conformity Assessment
+description: Mechanisms exist to conduct assessments to demonstrate conformity with applicable cybersecurity and data protection laws, regulations and/or contractual obligations.
+elementType: enhancement
+externalId: CPL-01.4
+parent: cpl-01
+controlQuestion: Does the organization conduct assessments to demonstrate conformity with applicable cybersecurity and data protection laws, regulations and/or contractual obligations?
+functionGrouping: Govern
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

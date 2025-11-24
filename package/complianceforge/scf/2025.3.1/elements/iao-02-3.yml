@@ -1,0 +1,39 @@
+id: 028a19c7-719c-4bf3-a12a-4466010467d8
+name: Third-Party Assessments
+description: Mechanisms exist to accept and respond to the results of external assessments that are performed by impartial, external organizations.
+elementType: enhancement
+externalId: IAO-02.3
+parent: iao-02
+controlQuestion: Does the organization accept and respond to the results of external assessments that are performed by impartial, external organizations?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

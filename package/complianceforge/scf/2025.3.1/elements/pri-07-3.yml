@@ -1,0 +1,39 @@
+id: aef77524-4a01-48b0-9cf1-7b60e7183bbb
+name: Obligation To Inform Third-Parties
+description: Mechanisms exist to inform applicable third-parties of any modification, deletion or other change that affects shared Personal Data (PD).
+elementType: enhancement
+externalId: PRI-07.3
+parent: pri-07
+controlQuestion: Does the organization inform applicable third-parties of any modification, deletion or other change that affects shared Personal Data (PD)?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

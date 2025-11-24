@@ -1,0 +1,39 @@
+id: 4d1ab4a3-1e6a-4ecf-8fc2-dbf733e8cda6
+name: Internal Audit Function
+description: Mechanisms exist to implement an internal audit function that is capable of providing senior organization management with insights into the appropriateness of the organization's technology and information governance processes.
+elementType: enhancement
+externalId: CPL-02.1
+parent: cpl-02
+controlQuestion: Does the organization implement an internal audit function that is capable of providing senior organization management with insights into the appropriateness of its technology and information governance processes?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

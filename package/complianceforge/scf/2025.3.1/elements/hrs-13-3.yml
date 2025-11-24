@@ -1,0 +1,39 @@
+id: 14f6a047-1a63-47d1-b5f4-d63e4164ff3b
+name: Establish Redundancy for Vital Cybersecurity & Data Privacy Staff
+description: Mechanisms exist to establish redundancy for vital cybersecurity and data privacy staff.
+elementType: enhancement
+externalId: HRS-13.3
+parent: hrs-13
+controlQuestion: Does the organization establish redundancy for vital cybersecurity and data privacy staff?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
