@@ -1,0 +1,9 @@
+id: b68e8519-b6c8-4156-9844-5a206753c255 # Unique UUID
+name: Monitor Communications for Attacks
+description: Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.
+elementType: cmmc_requirement
+externalId: SI.L2-3.14.6
+aliases:
+  - si_l2_3_14_6
+  - Requirement SI.L2-3.14.6
+parent: si

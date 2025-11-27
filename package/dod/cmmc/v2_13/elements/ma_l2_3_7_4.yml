@@ -1,0 +1,9 @@
+id: e684ff8c-aa14-4182-893a-2987a924e7a1 # Unique UUID
+name: Media Inspection
+description: Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems.
+elementType: cmmc_requirement
+externalId: MA.L2-3.7.4
+aliases:
+  - ma_l2_3_7_4
+  - Requirement MA.L2-3.7.4
+parent: ma

@@ -1,0 +1,9 @@
+id: 6bc3d30f-694b-49b0-8d2b-b9a39addf6bd # Unique UUID
+name: Password Complexity
+description: Enforce a minimum password complexity and change of characters when new passwords are created.
+elementType: cmmc_requirement
+externalId: IA.L2-3.5.7
+aliases:
+  - ia_l2_3_5_7
+  - Requirement IA.L2-3.5.7
+parent: ia

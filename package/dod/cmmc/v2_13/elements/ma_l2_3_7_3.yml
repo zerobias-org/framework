@@ -1,0 +1,9 @@
+id: ca178442-83b5-466f-b8d0-c35b494c619a # Unique UUID
+name: Equipment Sanitization
+description: Sanitize equipment removed for off-site maintenance of any CUI.
+elementType: cmmc_requirement
+externalId: MA.L2-3.7.3
+aliases:
+  - ma_l2_3_7_3
+  - Requirement MA.L2-3.7.3
+parent: ma

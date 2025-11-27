@@ -1,0 +1,9 @@
+id: c0afbef4-ba28-4145-b8cd-0dd7cb9b1703 # Unique UUID
+name: Maintenance Personnel
+description: Supervise the maintenance activities of maintenance personnel without required access authorization.
+elementType: cmmc_requirement
+externalId: MA.L2-3.7.6
+aliases:
+  - ma_l2_3_7_6
+  - Requirement MA.L2-3.7.6
+parent: ma

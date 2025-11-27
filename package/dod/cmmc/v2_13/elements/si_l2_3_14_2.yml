@@ -1,0 +1,9 @@
+id: 8c741bc9-04b1-4d2e-b91f-0b283e0ee14c # Unique UUID
+name: Malicious Code Protection [CUI Data]
+description: Provide protection from malicious code at designated locations within organizational systems.
+elementType: cmmc_requirement
+externalId: SI.L2-3.14.2
+aliases:
+  - si_l2_3_14_2
+  - Requirement SI.L2-3.14.2
+parent: si

@@ -1,0 +1,9 @@
+id: 002aca9a-91b6-4e00-a677-1e7f11a099b0 # Unique UUID
+name: Flaw Remediation [CUI Data]
+description: Identify, report, and correct system flaws in a timely manner.
+elementType: cmmc_requirement
+externalId: SI.L2-3.14.1
+aliases:
+  - si_l2_3_14_1
+  - Requirement SI.L2-3.14.1
+parent: si

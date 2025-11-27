@@ -1,0 +1,9 @@
+id: 6b991cbd-30d2-4581-a1b2-87412474d169 # Unique UUID
+name: Temporary Passwords
+description: Allow temporary password use for system logons with an immediate change to a permanent password.
+elementType: cmmc_requirement
+externalId: IA.L2-3.5.9
+aliases:
+  - ia_l2_3_5_9
+  - Requirement IA.L2-3.5.9
+parent: ia

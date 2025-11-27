@@ -1,0 +1,9 @@
+id: 819204a0-b6cb-4874-9420-ff4d867f94b4 # Unique UUID
+name: Update Malicious Code Protection [FCI Data]
+description: Update malicious code protection mechanisms when new releases are available.
+elementType: cmmc_requirement
+externalId: SI.L1-b.1.xiv
+aliases:
+  - si_l1_b_1_xiv
+  - Requirement SI.L1-b.1.xiv
+parent: si

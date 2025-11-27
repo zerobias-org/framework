@@ -1,0 +1,9 @@
+id: d19cba9a-f766-41cb-982e-7b1a2e889a98 # Unique UUID
+name: Remote Access Confidentiality
+description: Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.13
+aliases:
+  - ac_l2_3_1_13
+  - Requirement AC.L2-3.1.13
+parent: ac

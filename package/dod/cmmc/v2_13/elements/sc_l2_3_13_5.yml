@@ -1,0 +1,9 @@
+id: 84d245f9-e616-4cb8-8c3c-90544e93a405 # Unique UUID
+name: Public-Access System Separation [CUI Data]
+description: Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.5
+aliases:
+  - sc_l2_3_13_5
+  - Requirement SC.L2-3.13.5
+parent: sc

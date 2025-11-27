@@ -1,0 +1,9 @@
+id: 91952a5e-2c84-467d-b0bf-a7d10d30c9a3 # Unique UUID
+name: Cryptographically-Protected Passwords
+description: Store and transmit only cryptographically protected passwords.
+elementType: cmmc_requirement
+externalId: IA.L2-3.5.10
+aliases:
+  - ia_l2_3_5_10
+  - Requirement IA.L2-3.5.10
+parent: ia

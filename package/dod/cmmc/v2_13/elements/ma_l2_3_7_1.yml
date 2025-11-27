@@ -1,0 +1,9 @@
+id: 16ddd192-f5b3-4119-804e-8039d47bb40d # Unique UUID
+name: Perform Maintenance
+description: Perform maintenance on organizational systems.
+elementType: cmmc_requirement
+externalId: MA.L2-3.7.1
+aliases:
+  - ma_l2_3_7_1
+  - Requirement MA.L2-3.7.1
+parent: ma

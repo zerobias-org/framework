@@ -1,0 +1,9 @@
+id: 56a4ee1a-baca-4d8e-9100-f21972dcba0f # Unique UUID
+name: Advanced Threat Awareness
+description: Provide awareness training upon initial hire, following a significant cyber event, and at least annually, focused on recognizing and responding to threats from social engineering, advanced persistent threat actors, breaches, and suspicious behaviors; update the training at least annually or when there are significant changes to the threat.
+elementType: cmmc_requirement
+externalId: AT.L3-3.2.1e
+aliases:
+  - at_l3_3_2_1e
+  - Requirement AT.L3-3.2.1e
+parent: at

@@ -1,0 +1,9 @@
+id: 9579ae59-0355-4176-8101-2cdc5d3b2be9 # Unique UUID
+name: Personnel Actions
+description: Protect organizational systems containing CUI during and after personnel actions such as terminations and transfers.
+elementType: cmmc_requirement
+externalId: PS.L2-3.9.2
+aliases:
+  - ps_l2_3_9_2
+  - Requirement PS.L2-3.9.2
+parent: ps

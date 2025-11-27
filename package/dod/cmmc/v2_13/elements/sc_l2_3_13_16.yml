@@ -1,0 +1,9 @@
+id: eb8a517d-93f4-44b7-a009-6729e32e4e68 # Unique UUID
+name: Data at Rest
+description: Protect the confidentiality of CUI at rest.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.16
+aliases:
+  - sc_l2_3_13_16
+  - Requirement SC.L2-3.13.16
+parent: sc

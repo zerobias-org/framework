@@ -1,0 +1,9 @@
+id: 7fa74cf4-8731-4fc8-93d5-957e25473dc3 # Unique UUID
+name: Privileged Remote Access
+description: Authorize remote execution of privileged commands and remote access to security-relevant information.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.15
+aliases:
+  - ac_l2_3_1_15
+  - Requirement AC.L2-3.1.15
+parent: ac

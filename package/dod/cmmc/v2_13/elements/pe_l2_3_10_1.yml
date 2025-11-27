@@ -1,0 +1,9 @@
+id: d85fe0fd-fae0-4da2-bcc7-57af3c4267d6 # Unique UUID
+name: Limit Physical Access [CUI Data]
+description: Limit physical access to organizational systems, equipment, and the respective operating environments to authorized individuals.
+elementType: cmmc_requirement
+externalId: PE.L2-3.10.1
+aliases:
+  - pe_l2_3_10_1
+  - Requirement PE.L2-3.10.1
+parent: pe

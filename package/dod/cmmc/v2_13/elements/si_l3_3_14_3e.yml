@@ -1,0 +1,9 @@
+id: 91aa25b3-5a41-4c9b-a1ea-08a31a453fe4 # Unique UUID
+name: Specialized Asset Security
+description: Include specialized assets such as IoT, IIoT, OT, GFE, Restricted Information Systems and test equipment in the scope of the specified enhanced security requirements or are segregated in purpose-specific networks.
+elementType: cmmc_requirement
+externalId: SI.L3-3.14.3e
+aliases:
+  - si_l3_3_14_3e
+  - Requirement SI.L3-3.14.3e
+parent: si

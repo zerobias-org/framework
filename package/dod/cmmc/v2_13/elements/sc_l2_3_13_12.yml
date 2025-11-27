@@ -1,0 +1,9 @@
+id: f55c232d-81ba-431e-8f25-161f253a78bc # Unique UUID
+name: Collaborative Device Control
+description: Prohibit remote activation of collaborative computing devices and provide indication of devices in use to users present at the device.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.12
+aliases:
+  - sc_l2_3_13_12
+  - Requirement SC.L2-3.13.12
+parent: sc

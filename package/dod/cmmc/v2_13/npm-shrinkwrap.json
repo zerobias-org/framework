@@ -1,0 +1,31 @@
+{
+  "name": "@zerobias-org/framework-dod-cmmc-v2_13",
+  "version": "1.0.0-rc.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/framework-dod-cmmc-v2_13",
+      "version": "1.0.0-rc.0",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/suite-dod-cmmc": "latest"
+      }
+    },
+    "node_modules/@zerobias-org/suite-dod-cmmc": {
+      "version": "0.1.4",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/suite-dod-cmmc/-/suite-dod-cmmc-0.1.4.tgz",
+      "integrity": "sha512-qAw+pkaubBEoydRX1Lb3YS74Fp+iAlpryTVtX08fQLOaDaxsEk2H1D8KX3xdhNonkyegcscZ+l1wzCSv75b8mA==",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/vendor-dod": "latest"
+      }
+    },
+    "node_modules/@zerobias-org/vendor-dod": {
+      "version": "0.1.6",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/vendor-dod/-/vendor-dod-0.1.6.tgz",
+      "integrity": "sha512-wLJO+3YrvhSyaB/bPIIRwPh0JAFlolnJnYIjGB/La2VzSyAKfTS2Z5fNkCgep0fd6zxX57nTCwdIZPc5OdV/Og==",
+      "license": "ISC"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+id: 10ed66ca-7d33-4f9e-9c84-76b0660963bd # Unique UUID
+name: Threat-Informed Risk Assessment
+description: Employ threat intelligence, at a minimum from open or commercial sources, and any DoD-provided sources, as part of a risk assessment to guide and inform the development of organizational systems, security architectures, selection of security solutions, monitoring, threat hunting, and response and recovery activities.
+elementType: cmmc_requirement
+externalId: RA.L3-3.11.1e
+aliases:
+  - ra_l3_3_11_1e
+  - Requirement RA.L3-3.11.1e
+parent: ra

@@ -1,0 +1,8 @@
+id: 00b40735-5a22-499c-9c21-7d28a96edeec # Unique UUID
+name: Physical Protection
+description: CMMC Domain 10
+elementType: cmmc_domain
+externalId: PE
+aliases:
+  - pe
+  - Domain PE

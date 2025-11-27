@@ -1,0 +1,9 @@
+id: 9d86fbe3-f0c9-43b0-93df-ddcc5ec3cb5d # Unique UUID
+name: Vulnerability Remediation
+description: Remediate vulnerabilities in accordance with risk assessments.
+elementType: cmmc_requirement
+externalId: RA.L2-3.11.3
+aliases:
+  - ra_l2_3_11_3
+  - Requirement RA.L2-3.11.3
+parent: ra

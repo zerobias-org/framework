@@ -1,0 +1,9 @@
+id: 3a4b0072-c268-473f-ba3e-356cdfca962e # Unique UUID
+name: Identification [CUI Data]
+description: Identify system users, processes acting on behalf of users, and devices.
+elementType: cmmc_requirement
+externalId: IA.L2-3.5.1
+aliases:
+  - ia_l2_3_5_1
+  - Requirement IA.L2-3.5.1
+parent: ia

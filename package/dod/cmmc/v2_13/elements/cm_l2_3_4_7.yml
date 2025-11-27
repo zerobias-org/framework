@@ -1,0 +1,9 @@
+id: 83e97909-2450-426e-b5ad-031be0f0909c # Unique UUID
+name: Nonessential Functionality
+description: Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols, and services.
+elementType: cmmc_requirement
+externalId: CM.L2-3.4.7
+aliases:
+  - cm_l2_3_4_7
+  - Requirement CM.L2-3.4.7
+parent: cm

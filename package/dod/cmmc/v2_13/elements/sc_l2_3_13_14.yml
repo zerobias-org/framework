@@ -1,0 +1,9 @@
+id: 7d7c1c6b-f760-49e4-9288-458879c950b5 # Unique UUID
+name: Voice over Internet Protocol
+description: Control and monitor the use of Voice over Internet Protocol (VoIP) technologies.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.14
+aliases:
+  - sc_l2_3_13_14
+  - Requirement SC.L2-3.13.14
+parent: sc

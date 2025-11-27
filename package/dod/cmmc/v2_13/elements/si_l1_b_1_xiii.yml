@@ -1,0 +1,9 @@
+id: a4ad8e49-6a42-4c86-8cfc-fdcbf6be25ab # Unique UUID
+name: Malicious Code Protection [FCI Data]
+description: Provide protection from malicious code at appropriate locations within organizational information systems.
+elementType: cmmc_requirement
+externalId: SI.L1-b.1.xiii
+aliases:
+  - si_l1_b_1_xiii
+  - Requirement SI.L1-b.1.xiii
+parent: si

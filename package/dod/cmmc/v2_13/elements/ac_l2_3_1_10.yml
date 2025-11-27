@@ -1,0 +1,9 @@
+id: 1bd710e1-9915-4e89-909a-5b8f7173c6ff # Unique UUID
+name: Session Lock
+description: Use session lock with pattern-hiding displays to prevent access and viewing of data after a period of inactivity.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.10
+aliases:
+  - ac_l2_3_1_10
+  - Requirement AC.L2-3.1.10
+parent: ac

@@ -1,0 +1,9 @@
+id: 3ceaeec9-7459-49cb-a7ed-bfe057dd2232 # Unique UUID
+name: Security Control Assessment
+description: Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.
+elementType: cmmc_requirement
+externalId: CA.L2-3.12.1
+aliases:
+  - ca_l2_3_12_1
+  - Requirement CA.L2-3.12.1
+parent: ca
