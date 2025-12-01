@@ -1,0 +1,39 @@
+id: 7ee14450-0c2c-4671-b640-1904d4f63fea
+name: Removal of Temporary / Emergency Accounts
+description: Automated mechanisms exist to disable or remove temporary and emergency accounts after an organization-defined time period for each type of account.
+elementType: enhancement
+externalId: IAC-15.2
+parent: iac-15
+controlQuestion: Does the organization use automated mechanisms to disable or remove temporary and emergency accounts after an organization-defined time period for each type of account?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

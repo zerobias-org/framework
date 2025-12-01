@@ -1,0 +1,39 @@
+id: 036ed1f6-a22b-4d66-8c59-8fd783b48c4f
+name: Zone-Based Physical Security
+description: Mechanisms exist to implement a zone-based approach to physical security.
+elementType: enhancement
+externalId: PES-01.2
+parent: pes-01
+controlQuestion: Does the organization implement a zone-based approach to physical security?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 0c0c5c37-31e1-4af3-9e35-a9da2be7ed85
+name: Maintenance of Attribute Associations By System
+description: Mechanisms exist to maintain the association and integrity of cybersecurity and data protection attributes to individuals and objects.
+elementType: enhancement
+externalId: DCH-05.3
+parent: dch-05
+controlQuestion: Does the organization maintain the association and integrity of cybersecurity and data protection attributes to individuals and objects?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

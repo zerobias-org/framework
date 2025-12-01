@@ -1,0 +1,39 @@
+id: 7b0dca3a-4204-4b67-80b3-751971312a2f
+name: Export-Controlled Access Restrictions
+description: "Mechanisms exist to restrict logical and physical access to United States (US) export-controlled data to US: \r\n(1) Citizens; and/or\r\n(2) Green Card holders."
+elementType: enhancement
+externalId: CPL-11.2
+parent: cpl-11
+controlQuestion: "Does the organization restrict logical and physical access to United States (US) export-controlled data to US: \r\n(1) Citizens; and/or\r\n(2) Green Card holders?"
+functionGrouping: Govern
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

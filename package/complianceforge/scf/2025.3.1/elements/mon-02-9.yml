@@ -1,0 +1,39 @@
+id: b914a9d8-8509-4897-8279-624adafb7c3b
+name: Inventory of Technology Asset Event Logging
+description: Mechanisms exist to maintain a current and accurate inventory of technology-related Technology Assets, Applications and/or Services (TAAS) being logged.
+elementType: enhancement
+externalId: MON-02.9
+parent: mon-02
+controlQuestion: Does the organization maintain a current and accurate inventory of technology-related Technology Assets, Applications and/or Services (TAAS) being logged?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

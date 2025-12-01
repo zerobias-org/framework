@@ -937,8 +937,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -960,8 +960,8 @@
             "id": "384-344",
             "name": "Store and serve user-uploaded files such that they cannot execute/damage server or client",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -983,8 +983,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -995,8 +995,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -1368,8 +1368,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -1402,8 +1402,8 @@
             "id": "384-344",
             "name": "Store and serve user-uploaded files such that they cannot execute/damage server or client",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -1414,8 +1414,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -1426,8 +1426,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Related"
@@ -2655,8 +2655,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -3884,8 +3884,8 @@
             "section": "Username Hash Found in WebSocket message",
             "sectionID": "110007",
             "tags": [
-              "110007",
-              "WebSocket Passive"
+              "WebSocket Passive",
+              "110007"
             ],
             "tooltype": "Offensive"
           },
@@ -3901,8 +3901,8 @@
             "section": "Username Hash Found",
             "sectionID": "10057",
             "tags": [
-              "10057",
-              "Passive"
+              "Passive",
+              "10057"
             ],
             "tooltype": "Offensive"
           },
@@ -3918,8 +3918,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -7602,8 +7602,8 @@
             "section": "Deprecated Feature Policy Header Set",
             "sectionID": "10063-2",
             "tags": [
-              "10063-2",
-              "Passive"
+              "Passive",
+              "10063-2"
             ],
             "tooltype": "Offensive"
           },
@@ -8139,8 +8139,8 @@
             "section": "XML External Entity Attack",
             "sectionID": "90023",
             "tags": [
-              "Active",
-              "90023"
+              "90023",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -8420,8 +8420,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -8437,8 +8437,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -8454,8 +8454,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -8505,8 +8505,8 @@
             "section": "Cookie Without Secure Flag",
             "sectionID": "10011",
             "tags": [
-              "10011",
-              "Passive"
+              "Passive",
+              "10011"
             ],
             "tooltype": "Offensive"
           },
@@ -8744,8 +8744,8 @@
             "section": "Directory Browsing",
             "sectionID": "10033",
             "tags": [
-              "10033",
-              "Passive"
+              "Passive",
+              "10033"
             ],
             "tooltype": "Offensive"
           },
@@ -9786,8 +9786,8 @@
             "section": "Deprecated Feature Policy Header Set",
             "sectionID": "10063-2",
             "tags": [
-              "10063-2",
-              "Passive"
+              "Passive",
+              "10063-2"
             ],
             "tooltype": "Offensive"
           },
@@ -13721,8 +13721,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -14272,8 +14272,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -15235,8 +15235,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -16678,8 +16678,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -17442,8 +17442,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -18100,8 +18100,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -18117,8 +18117,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -18134,8 +18134,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -18185,8 +18185,8 @@
             "section": "Cookie Without Secure Flag",
             "sectionID": "10011",
             "tags": [
-              "10011",
-              "Passive"
+              "Passive",
+              "10011"
             ],
             "tooltype": "Offensive"
           },
@@ -19532,8 +19532,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -20250,8 +20250,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Contains"
@@ -20273,8 +20273,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Contains"
@@ -20296,8 +20296,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Contains"
@@ -21211,8 +21211,8 @@
             "section": "Deprecated Feature Policy Header Set",
             "sectionID": "10063-2",
             "tags": [
-              "10063-2",
-              "Passive"
+              "Passive",
+              "10063-2"
             ],
             "tooltype": "Offensive"
           },
@@ -23932,8 +23932,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -27895,8 +27895,8 @@
             "section": "Information Disclosure - JWT in Browser localStorage",
             "sectionID": "120002-1",
             "tags": [
-              "120002-1",
-              "Client Passive"
+              "Client Passive",
+              "120002-1"
             ],
             "tooltype": "Offensive"
           },
@@ -27929,8 +27929,8 @@
             "section": "Properties File Disclosure - /WEB-INF folder",
             "sectionID": "10045-2",
             "tags": [
-              "Active",
-              "10045-2"
+              "10045-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -27997,8 +27997,8 @@
             "section": "Source Code Disclosure - File Inclusion",
             "sectionID": "43",
             "tags": [
-              "Active",
-              "43"
+              "43",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -28014,8 +28014,8 @@
             "section": "PII Disclosure",
             "sectionID": "10062",
             "tags": [
-              "10062",
-              "Passive"
+              "Passive",
+              "10062"
             ],
             "tooltype": "Offensive"
           },
@@ -28065,8 +28065,8 @@
             "section": "Application Error Disclosure",
             "sectionID": "90022",
             "tags": [
-              "90022",
-              "Passive"
+              "Passive",
+              "90022"
             ],
             "tooltype": "Offensive"
           },
@@ -28133,8 +28133,8 @@
             "section": "Source Code Disclosure - PHP",
             "sectionID": "10099",
             "tags": [
-              "10099",
-              "Passive"
+              "Passive",
+              "10099"
             ],
             "tooltype": "Offensive"
           },
@@ -28167,8 +28167,8 @@
             "section": "Session ID in URL Rewrite",
             "sectionID": "3-1",
             "tags": [
-              "3-1",
-              "Passive"
+              "Passive",
+              "3-1"
             ],
             "tooltype": "Offensive"
           },
@@ -28184,8 +28184,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser localStorage",
             "sectionID": "120001-1",
             "tags": [
-              "120001-1",
-              "Client Passive"
+              "Client Passive",
+              "120001-1"
             ],
             "tooltype": "Offensive"
           },
@@ -28201,8 +28201,8 @@
             "section": "Information Disclosure - Suspicious Comments",
             "sectionID": "10027",
             "tags": [
-              "10027",
-              "Passive"
+              "Passive",
+              "10027"
             ],
             "tooltype": "Offensive"
           },
@@ -28235,8 +28235,8 @@
             "section": "Directory Browsing",
             "sectionID": "10033",
             "tags": [
-              "10033",
-              "Passive"
+              "Passive",
+              "10033"
             ],
             "tooltype": "Offensive"
           },
@@ -28269,8 +28269,8 @@
             "section": "Insecure HTTP Method",
             "sectionID": "90028",
             "tags": [
-              "Active",
-              "90028"
+              "90028",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -28286,8 +28286,8 @@
             "section": "Source Code Disclosure - Git ",
             "sectionID": "41",
             "tags": [
-              "Active",
-              "41"
+              "41",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -28303,8 +28303,8 @@
             "section": ".env Information Leak",
             "sectionID": "40034",
             "tags": [
-              "40034",
-              "Active"
+              "Active",
+              "40034"
             ],
             "tooltype": "Offensive"
           },
@@ -28320,8 +28320,8 @@
             "section": "Referer Exposes Session ID",
             "sectionID": "3-3",
             "tags": [
-              "3-3",
-              "Passive"
+              "Passive",
+              "3-3"
             ],
             "tooltype": "Offensive"
           },
@@ -28337,8 +28337,8 @@
             "section": "Trace.axd Information Leak",
             "sectionID": "40029",
             "tags": [
-              "Active",
-              "40029"
+              "40029",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -28354,8 +28354,8 @@
             "section": "Information Disclosure - Information in Browser sessionStorage",
             "sectionID": "120000-2",
             "tags": [
-              "120000-2",
-              "Client Passive"
+              "Client Passive",
+              "120000-2"
             ],
             "tooltype": "Offensive"
           },
@@ -28388,8 +28388,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser sessionStorage",
             "sectionID": "120001-2",
             "tags": [
-              "120001-2",
-              "Client Passive"
+              "Client Passive",
+              "120001-2"
             ],
             "tooltype": "Offensive"
           },
@@ -28439,8 +28439,8 @@
             "section": "Information Disclosure - Debug Error Messages",
             "sectionID": "10023",
             "tags": [
-              "10023",
-              "Passive"
+              "Passive",
+              "10023"
             ],
             "tooltype": "Offensive"
           },
@@ -28456,8 +28456,8 @@
             "section": "Private IP Disclosure",
             "sectionID": "2",
             "tags": [
-              "2",
-              "Passive"
+              "Passive",
+              "2"
             ],
             "tooltype": "Offensive"
           },
@@ -28490,8 +28490,8 @@
             "section": "Server Leaks Version Information via \\Server\\ HTTP Response Header Field",
             "sectionID": "10036-2",
             "tags": [
-              "10036-2",
-              "Passive"
+              "Passive",
+              "10036-2"
             ],
             "tooltype": "Offensive"
           },
@@ -28541,8 +28541,8 @@
             "section": "Proxy Disclosure",
             "sectionID": "40025",
             "tags": [
-              "Active",
-              "40025"
+              "40025",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -28558,8 +28558,8 @@
             "section": "X-Backend-Server Header Information Leak",
             "sectionID": "10039",
             "tags": [
-              "10039",
-              "Passive"
+              "Passive",
+              "10039"
             ],
             "tooltype": "Offensive"
           },
@@ -28626,8 +28626,8 @@
             "section": "Hidden File Found",
             "sectionID": "40035",
             "tags": [
-              "40035",
-              "Active"
+              "Active",
+              "40035"
             ],
             "tooltype": "Offensive"
           },
@@ -28643,8 +28643,8 @@
             "section": "ASP.NET ViewState Disclosure",
             "sectionID": "10094-1",
             "tags": [
-              "10094-1",
-              "Passive"
+              "Passive",
+              "10094-1"
             ],
             "tooltype": "Offensive"
           },
@@ -28660,8 +28660,8 @@
             "section": "In Page Banner Information Leak",
             "sectionID": "10009",
             "tags": [
-              "10009",
-              "Passive"
+              "Passive",
+              "10009"
             ],
             "tooltype": "Offensive"
           },
@@ -30595,8 +30595,8 @@
             "section": "NoSQL Injection - MongoDB",
             "sectionID": "40033",
             "tags": [
-              "Active",
-              "40033"
+              "40033",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -30612,8 +30612,8 @@
             "section": "NoSQL Injection - MongoDB (Time Based)",
             "sectionID": "90039",
             "tags": [
-              "Active",
-              "90039"
+              "90039",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -30629,8 +30629,8 @@
             "section": "LDAP Injection",
             "sectionID": "40015",
             "tags": [
-              "Active",
-              "40015"
+              "40015",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -31293,8 +31293,8 @@
       ],
       "name": "Input validation",
       "tags": [
-        "Injection protection",
-        "XSS protection"
+        "XSS protection",
+        "Injection protection"
       ]
     },
     {
@@ -31495,8 +31495,8 @@
       ],
       "name": "Output encoding and injection prevention",
       "tags": [
-        "Injection protection",
-        "XSS protection"
+        "XSS protection",
+        "Injection protection"
       ]
     },
     {
@@ -31614,8 +31614,8 @@
       ],
       "name": "Sanitization and sandboxing",
       "tags": [
-        "Injection protection",
-        "XSS protection"
+        "XSS protection",
+        "Injection protection"
       ]
     },
     {
@@ -32394,8 +32394,8 @@
             "section": "Remote File Inclusion",
             "sectionID": "7",
             "tags": [
-              "Active",
-              "7"
+              "7",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -32542,8 +32542,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -32726,8 +32726,8 @@
             "section": "Spring4Shell",
             "sectionID": "40045",
             "tags": [
-              "Active",
-              "40045"
+              "40045",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -32743,8 +32743,8 @@
             "section": "Remote Code Execution - Shell Shock",
             "sectionID": "10048-2",
             "tags": [
-              "Active",
-              "10048-2"
+              "10048-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -32760,8 +32760,8 @@
             "section": "Remote OS Command Injection",
             "sectionID": "90020",
             "tags": [
-              "90020",
-              "Active"
+              "Active",
+              "90020"
             ],
             "tooltype": "Offensive"
           },
@@ -33178,8 +33178,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -33195,8 +33195,8 @@
             "section": "Vulnerable JS Library",
             "sectionID": "10003",
             "tags": [
-              "10003",
-              "Passive"
+              "Passive",
+              "10003"
             ],
             "tooltype": "Offensive"
           },
@@ -33319,8 +33319,8 @@
             "section": "Path Traversal",
             "sectionID": "6-5",
             "tags": [
-              "Active",
-              "6-5"
+              "6-5",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -33336,8 +33336,8 @@
             "section": "Path Traversal",
             "sectionID": "6-2",
             "tags": [
-              "6-2",
-              "Active"
+              "Active",
+              "6-2"
             ],
             "tooltype": "Offensive"
           },
@@ -33353,8 +33353,8 @@
             "section": "Path Traversal",
             "sectionID": "6-4",
             "tags": [
-              "Active",
-              "6-4"
+              "6-4",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -33627,8 +33627,8 @@
             "id": "384-344",
             "name": "Store and serve user-uploaded files such that they cannot execute/damage server or client",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Contains"
@@ -33888,8 +33888,8 @@
             "section": "Backup File Disclosure",
             "sectionID": "10095",
             "tags": [
-              "10095",
-              "Active"
+              "Active",
+              "10095"
             ],
             "tooltype": "Offensive"
           },
@@ -34147,8 +34147,8 @@
             "section": "Backup File Disclosure",
             "sectionID": "10095",
             "tags": [
-              "10095",
-              "Active"
+              "Active",
+              "10095"
             ],
             "tooltype": "Offensive"
           },
@@ -34650,8 +34650,8 @@
       ],
       "name": "Store and serve user-uploaded files such that they cannot execute/damage server or client",
       "tags": [
-        "Injection protection",
-        "XSS protection"
+        "XSS protection",
+        "Injection protection"
       ]
     },
     {
@@ -35317,8 +35317,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -35620,8 +35620,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -38478,8 +38478,8 @@
             "section": "HTTP Parameter Override",
             "sectionID": "10026",
             "tags": [
-              "10026",
-              "Passive"
+              "Passive",
+              "10026"
             ],
             "tooltype": "Offensive"
           },
@@ -38495,8 +38495,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -38529,8 +38529,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -38563,8 +38563,8 @@
             "section": "HTTP Parameter Pollution",
             "sectionID": "20014",
             "tags": [
-              "Active",
-              "20014"
+              "20014",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -38597,8 +38597,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -38614,8 +38614,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -38627,8 +38627,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -38688,8 +38688,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -38761,8 +38761,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -39549,8 +39549,8 @@
             "section": "HTTP Parameter Override",
             "sectionID": "10026",
             "tags": [
-              "10026",
-              "Passive"
+              "Passive",
+              "10026"
             ],
             "tooltype": "Offensive"
           },
@@ -39566,8 +39566,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -39600,8 +39600,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -39634,8 +39634,8 @@
             "section": "HTTP Parameter Pollution",
             "sectionID": "20014",
             "tags": [
-              "Active",
-              "20014"
+              "20014",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -39668,8 +39668,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -39685,8 +39685,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -39698,8 +39698,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -39807,8 +39807,8 @@
             "section": "External Redirect",
             "sectionID": "20019-2",
             "tags": [
-              "Active",
-              "20019-2"
+              "20019-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -39824,8 +39824,8 @@
             "section": "External Redirect",
             "sectionID": "20019-3",
             "tags": [
-              "Active",
-              "20019-3"
+              "20019-3",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -39858,8 +39858,8 @@
             "section": "External Redirect",
             "sectionID": "20019-1",
             "tags": [
-              "Active",
-              "20019-1"
+              "20019-1",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -39888,8 +39888,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -40676,8 +40676,8 @@
             "section": "HTTP Parameter Override",
             "sectionID": "10026",
             "tags": [
-              "10026",
-              "Passive"
+              "Passive",
+              "10026"
             ],
             "tooltype": "Offensive"
           },
@@ -40693,8 +40693,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -40727,8 +40727,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -40761,8 +40761,8 @@
             "section": "HTTP Parameter Pollution",
             "sectionID": "20014",
             "tags": [
-              "Active",
-              "20014"
+              "20014",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -40795,8 +40795,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -40812,8 +40812,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -40825,8 +40825,8 @@
             "id": "010-308",
             "name": "Input validation",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -41028,8 +41028,8 @@
             "section": "X-Frame-Options Setting Malformed",
             "sectionID": "10020-4",
             "tags": [
-              "10020-4",
-              "Passive"
+              "Passive",
+              "10020-4"
             ],
             "tooltype": "Offensive"
           },
@@ -41045,8 +41045,8 @@
             "section": "Missing Anti-clickjacking Header",
             "sectionID": "10020-1",
             "tags": [
-              "10020-1",
-              "Passive"
+              "Passive",
+              "10020-1"
             ],
             "tooltype": "Offensive"
           },
@@ -41296,8 +41296,8 @@
             "section": "Log4Shell (CVE-2021-44228)",
             "sectionID": "40043-1",
             "tags": [
-              "Active",
-              "40043-1"
+              "40043-1",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -41313,8 +41313,8 @@
             "section": "Log4Shell (CVE-2021-45046)",
             "sectionID": "40043-2",
             "tags": [
-              "Active",
-              "40043-2"
+              "40043-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -41410,8 +41410,8 @@
             "section": "Integer Overflow Error",
             "sectionID": "30003",
             "tags": [
-              "Active",
-              "30003"
+              "30003",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -42074,8 +42074,8 @@
             "section": "SQL Injection - MySQL",
             "sectionID": "40019",
             "tags": [
-              "Active",
-              "40019"
+              "40019",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -42142,8 +42142,8 @@
             "section": "Advanced SQL Injection",
             "sectionID": "90018",
             "tags": [
-              "Active",
-              "90018"
+              "90018",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -42155,8 +42155,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -42285,8 +42285,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -42508,8 +42508,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -42814,8 +42814,8 @@
             "section": "Out of Band XSS",
             "sectionID": "40031",
             "tags": [
-              "Active",
-              "40031"
+              "40031",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -42847,8 +42847,8 @@
             "section": "Cross Site Scripting (Persistent) - Spider",
             "sectionID": "40017",
             "tags": [
-              "Active",
-              "40017"
+              "40017",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -42864,8 +42864,8 @@
             "section": "Cross Site Scripting (Reflected)",
             "sectionID": "40012",
             "tags": [
-              "Active",
-              "40012"
+              "40012",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -42897,8 +42897,8 @@
             "section": "Cross Site Scripting (Persistent)",
             "sectionID": "40014",
             "tags": [
-              "40014",
-              "Active"
+              "Active",
+              "40014"
             ],
             "tooltype": "Offensive"
           },
@@ -42910,8 +42910,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -43180,8 +43180,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -43378,8 +43378,8 @@
             "section": "SQL Injection - MySQL",
             "sectionID": "40019",
             "tags": [
-              "Active",
-              "40019"
+              "40019",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -43446,8 +43446,8 @@
             "section": "Advanced SQL Injection",
             "sectionID": "90018",
             "tags": [
-              "Active",
-              "90018"
+              "90018",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -43459,8 +43459,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -43670,8 +43670,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -43757,8 +43757,8 @@
             "section": "LDAP Injection",
             "sectionID": "40015",
             "tags": [
-              "Active",
-              "40015"
+              "40015",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -43770,8 +43770,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -44022,8 +44022,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -44039,8 +44039,8 @@
             "section": "Vulnerable JS Library",
             "sectionID": "10003",
             "tags": [
-              "10003",
-              "Passive"
+              "Passive",
+              "10003"
             ],
             "tooltype": "Offensive"
           },
@@ -44052,8 +44052,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -44207,8 +44207,8 @@
             "section": "Spring4Shell",
             "sectionID": "40045",
             "tags": [
-              "Active",
-              "40045"
+              "40045",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -44224,8 +44224,8 @@
             "section": "Remote Code Execution - Shell Shock",
             "sectionID": "10048-2",
             "tags": [
-              "Active",
-              "10048-2"
+              "10048-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -44241,8 +44241,8 @@
             "section": "Remote OS Command Injection",
             "sectionID": "90020",
             "tags": [
-              "90020",
-              "Active"
+              "Active",
+              "90020"
             ],
             "tooltype": "Offensive"
           },
@@ -44271,8 +44271,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -44399,8 +44399,8 @@
             "id": "161-451",
             "name": "Output encoding and injection prevention",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -44502,8 +44502,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -45112,8 +45112,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -45272,8 +45272,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -45375,8 +45375,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -45598,8 +45598,8 @@
             "section": "Server Side Include",
             "sectionID": "40009",
             "tags": [
-              "Active",
-              "40009"
+              "40009",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -45615,8 +45615,8 @@
             "section": "Server Side Code Injection - PHP Code Injection",
             "sectionID": "90019-1",
             "tags": [
-              "90019-1",
-              "Active"
+              "Active",
+              "90019-1"
             ],
             "tooltype": "Offensive"
           },
@@ -45666,8 +45666,8 @@
             "section": "Server Side Template Injection",
             "sectionID": "90035",
             "tags": [
-              "90035",
-              "Active"
+              "Active",
+              "90035"
             ],
             "tooltype": "Offensive"
           },
@@ -45683,8 +45683,8 @@
             "section": ".htaccess Information Leak",
             "sectionID": "40032",
             "tags": [
-              "Active",
-              "40032"
+              "40032",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -45713,8 +45713,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -45794,8 +45794,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -46017,8 +46017,8 @@
             "section": "Server Side Include",
             "sectionID": "40009",
             "tags": [
-              "Active",
-              "40009"
+              "40009",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -46034,8 +46034,8 @@
             "section": "Server Side Code Injection - PHP Code Injection",
             "sectionID": "90019-1",
             "tags": [
-              "90019-1",
-              "Active"
+              "Active",
+              "90019-1"
             ],
             "tooltype": "Offensive"
           },
@@ -46085,8 +46085,8 @@
             "section": "Server Side Template Injection",
             "sectionID": "90035",
             "tags": [
-              "90035",
-              "Active"
+              "Active",
+              "90035"
             ],
             "tooltype": "Offensive"
           },
@@ -46102,8 +46102,8 @@
             "section": ".htaccess Information Leak",
             "sectionID": "40032",
             "tags": [
-              "Active",
-              "40032"
+              "40032",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -46132,8 +46132,8 @@
             "id": "764-765",
             "name": "Sanitization and sandboxing",
             "tags": [
-              "Injection protection",
-              "XSS protection"
+              "XSS protection",
+              "Injection protection"
             ]
           },
           "ltype": "Is Part Of"
@@ -46553,8 +46553,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -48000,8 +48000,8 @@
             "section": "Information Disclosure - JWT in Browser localStorage",
             "sectionID": "120002-1",
             "tags": [
-              "120002-1",
-              "Client Passive"
+              "Client Passive",
+              "120002-1"
             ],
             "tooltype": "Offensive"
           },
@@ -48034,8 +48034,8 @@
             "section": "Properties File Disclosure - /WEB-INF folder",
             "sectionID": "10045-2",
             "tags": [
-              "Active",
-              "10045-2"
+              "10045-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48102,8 +48102,8 @@
             "section": "Source Code Disclosure - File Inclusion",
             "sectionID": "43",
             "tags": [
-              "Active",
-              "43"
+              "43",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48119,8 +48119,8 @@
             "section": "PII Disclosure",
             "sectionID": "10062",
             "tags": [
-              "10062",
-              "Passive"
+              "Passive",
+              "10062"
             ],
             "tooltype": "Offensive"
           },
@@ -48170,8 +48170,8 @@
             "section": "Application Error Disclosure",
             "sectionID": "90022",
             "tags": [
-              "90022",
-              "Passive"
+              "Passive",
+              "90022"
             ],
             "tooltype": "Offensive"
           },
@@ -48238,8 +48238,8 @@
             "section": "Source Code Disclosure - PHP",
             "sectionID": "10099",
             "tags": [
-              "10099",
-              "Passive"
+              "Passive",
+              "10099"
             ],
             "tooltype": "Offensive"
           },
@@ -48272,8 +48272,8 @@
             "section": "Session ID in URL Rewrite",
             "sectionID": "3-1",
             "tags": [
-              "3-1",
-              "Passive"
+              "Passive",
+              "3-1"
             ],
             "tooltype": "Offensive"
           },
@@ -48289,8 +48289,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser localStorage",
             "sectionID": "120001-1",
             "tags": [
-              "120001-1",
-              "Client Passive"
+              "Client Passive",
+              "120001-1"
             ],
             "tooltype": "Offensive"
           },
@@ -48306,8 +48306,8 @@
             "section": "Information Disclosure - Suspicious Comments",
             "sectionID": "10027",
             "tags": [
-              "10027",
-              "Passive"
+              "Passive",
+              "10027"
             ],
             "tooltype": "Offensive"
           },
@@ -48340,8 +48340,8 @@
             "section": "Directory Browsing",
             "sectionID": "10033",
             "tags": [
-              "10033",
-              "Passive"
+              "Passive",
+              "10033"
             ],
             "tooltype": "Offensive"
           },
@@ -48374,8 +48374,8 @@
             "section": "Insecure HTTP Method",
             "sectionID": "90028",
             "tags": [
-              "Active",
-              "90028"
+              "90028",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48391,8 +48391,8 @@
             "section": "Source Code Disclosure - Git ",
             "sectionID": "41",
             "tags": [
-              "Active",
-              "41"
+              "41",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48408,8 +48408,8 @@
             "section": ".env Information Leak",
             "sectionID": "40034",
             "tags": [
-              "40034",
-              "Active"
+              "Active",
+              "40034"
             ],
             "tooltype": "Offensive"
           },
@@ -48425,8 +48425,8 @@
             "section": "Referer Exposes Session ID",
             "sectionID": "3-3",
             "tags": [
-              "3-3",
-              "Passive"
+              "Passive",
+              "3-3"
             ],
             "tooltype": "Offensive"
           },
@@ -48442,8 +48442,8 @@
             "section": "Trace.axd Information Leak",
             "sectionID": "40029",
             "tags": [
-              "Active",
-              "40029"
+              "40029",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48459,8 +48459,8 @@
             "section": "Information Disclosure - Information in Browser sessionStorage",
             "sectionID": "120000-2",
             "tags": [
-              "120000-2",
-              "Client Passive"
+              "Client Passive",
+              "120000-2"
             ],
             "tooltype": "Offensive"
           },
@@ -48493,8 +48493,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser sessionStorage",
             "sectionID": "120001-2",
             "tags": [
-              "120001-2",
-              "Client Passive"
+              "Client Passive",
+              "120001-2"
             ],
             "tooltype": "Offensive"
           },
@@ -48544,8 +48544,8 @@
             "section": "Information Disclosure - Debug Error Messages",
             "sectionID": "10023",
             "tags": [
-              "10023",
-              "Passive"
+              "Passive",
+              "10023"
             ],
             "tooltype": "Offensive"
           },
@@ -48561,8 +48561,8 @@
             "section": "Private IP Disclosure",
             "sectionID": "2",
             "tags": [
-              "2",
-              "Passive"
+              "Passive",
+              "2"
             ],
             "tooltype": "Offensive"
           },
@@ -48595,8 +48595,8 @@
             "section": "Server Leaks Version Information via \\Server\\ HTTP Response Header Field",
             "sectionID": "10036-2",
             "tags": [
-              "10036-2",
-              "Passive"
+              "Passive",
+              "10036-2"
             ],
             "tooltype": "Offensive"
           },
@@ -48646,8 +48646,8 @@
             "section": "Proxy Disclosure",
             "sectionID": "40025",
             "tags": [
-              "Active",
-              "40025"
+              "40025",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -48663,8 +48663,8 @@
             "section": "X-Backend-Server Header Information Leak",
             "sectionID": "10039",
             "tags": [
-              "10039",
-              "Passive"
+              "Passive",
+              "10039"
             ],
             "tooltype": "Offensive"
           },
@@ -48731,8 +48731,8 @@
             "section": "Hidden File Found",
             "sectionID": "40035",
             "tags": [
-              "40035",
-              "Active"
+              "Active",
+              "40035"
             ],
             "tooltype": "Offensive"
           },
@@ -48748,8 +48748,8 @@
             "section": "ASP.NET ViewState Disclosure",
             "sectionID": "10094-1",
             "tags": [
-              "10094-1",
-              "Passive"
+              "Passive",
+              "10094-1"
             ],
             "tooltype": "Offensive"
           },
@@ -48765,8 +48765,8 @@
             "section": "In Page Banner Information Leak",
             "sectionID": "10009",
             "tags": [
-              "10009",
-              "Passive"
+              "Passive",
+              "10009"
             ],
             "tooltype": "Offensive"
           },
@@ -49322,8 +49322,8 @@
             "section": "X-Frame-Options Setting Malformed",
             "sectionID": "10020-4",
             "tags": [
-              "10020-4",
-              "Passive"
+              "Passive",
+              "10020-4"
             ],
             "tooltype": "Offensive"
           },
@@ -49339,8 +49339,8 @@
             "section": "Missing Anti-clickjacking Header",
             "sectionID": "10020-1",
             "tags": [
-              "10020-1",
-              "Passive"
+              "Passive",
+              "10020-1"
             ],
             "tooltype": "Offensive"
           },
@@ -49781,8 +49781,8 @@
             "section": "Re-examine Cache-control Directives",
             "sectionID": "10015",
             "tags": [
-              "10015",
-              "Passive"
+              "Passive",
+              "10015"
             ],
             "tooltype": "Offensive"
           },
@@ -50141,8 +50141,8 @@
             "section": "Sub Resource Integrity Attribute Missing",
             "sectionID": "90003",
             "tags": [
-              "90003",
-              "Passive"
+              "Passive",
+              "90003"
             ],
             "tooltype": "Offensive"
           },
@@ -51553,8 +51553,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -52313,8 +52313,8 @@
             "section": "Deprecated Feature Policy Header Set",
             "sectionID": "10063-2",
             "tags": [
-              "10063-2",
-              "Passive"
+              "Passive",
+              "10063-2"
             ],
             "tooltype": "Offensive"
           },
@@ -52496,8 +52496,8 @@
             "section": "Cookie without SameSite Attribute",
             "sectionID": "10054-1",
             "tags": [
-              "10054-1",
-              "Passive"
+              "Passive",
+              "10054-1"
             ],
             "tooltype": "Offensive"
           },
@@ -52622,8 +52622,8 @@
             "section": "Cookie Without Secure Flag",
             "sectionID": "10011",
             "tags": [
-              "10011",
-              "Passive"
+              "Passive",
+              "10011"
             ],
             "tooltype": "Offensive"
           },
@@ -52725,8 +52725,8 @@
             "section": "Deprecated Feature Policy Header Set",
             "sectionID": "10063-2",
             "tags": [
-              "10063-2",
-              "Passive"
+              "Passive",
+              "10063-2"
             ],
             "tooltype": "Offensive"
           },
@@ -52918,8 +52918,8 @@
             "section": "Sec-Fetch-Dest Header is Missing",
             "sectionID": "90005-3",
             "tags": [
-              "90005-3",
-              "Passive"
+              "Passive",
+              "90005-3"
             ],
             "tooltype": "Offensive"
           },
@@ -52952,8 +52952,8 @@
             "section": "Sec-Fetch-Mode Header Has an Invalid Value",
             "sectionID": "90005-6",
             "tags": [
-              "90005-6",
-              "Passive"
+              "Passive",
+              "90005-6"
             ],
             "tooltype": "Offensive"
           },
@@ -53020,8 +53020,8 @@
             "section": "Sec-Fetch-Site Header Has an Invalid Value",
             "sectionID": "90005-5",
             "tags": [
-              "90005-5",
-              "Passive"
+              "Passive",
+              "90005-5"
             ],
             "tooltype": "Offensive"
           },
@@ -53054,8 +53054,8 @@
             "section": "Sec-Fetch-Mode Header is Missing",
             "sectionID": "90005-2",
             "tags": [
-              "90005-2",
-              "Passive"
+              "Passive",
+              "90005-2"
             ],
             "tooltype": "Offensive"
           },
@@ -53224,8 +53224,8 @@
             "section": "Sec-Fetch-Dest Header is Missing",
             "sectionID": "90005-3",
             "tags": [
-              "90005-3",
-              "Passive"
+              "Passive",
+              "90005-3"
             ],
             "tooltype": "Offensive"
           },
@@ -53258,8 +53258,8 @@
             "section": "Sec-Fetch-Mode Header Has an Invalid Value",
             "sectionID": "90005-6",
             "tags": [
-              "90005-6",
-              "Passive"
+              "Passive",
+              "90005-6"
             ],
             "tooltype": "Offensive"
           },
@@ -53326,8 +53326,8 @@
             "section": "Sec-Fetch-Site Header Has an Invalid Value",
             "sectionID": "90005-5",
             "tags": [
-              "90005-5",
-              "Passive"
+              "Passive",
+              "90005-5"
             ],
             "tooltype": "Offensive"
           },
@@ -53360,8 +53360,8 @@
             "section": "Sec-Fetch-Mode Header is Missing",
             "sectionID": "90005-2",
             "tags": [
-              "90005-2",
-              "Passive"
+              "Passive",
+              "90005-2"
             ],
             "tooltype": "Offensive"
           },
@@ -53524,8 +53524,8 @@
             "section": "Charset Mismatch",
             "sectionID": "90011",
             "tags": [
-              "90011",
-              "Passive"
+              "Passive",
+              "90011"
             ],
             "tooltype": "Offensive"
           },
@@ -56225,8 +56225,8 @@
             "section": "Username Hash Found in WebSocket message",
             "sectionID": "110007",
             "tags": [
-              "110007",
-              "WebSocket Passive"
+              "WebSocket Passive",
+              "110007"
             ],
             "tooltype": "Offensive"
           },
@@ -56242,8 +56242,8 @@
             "section": "Username Hash Found",
             "sectionID": "10057",
             "tags": [
-              "10057",
-              "Passive"
+              "Passive",
+              "10057"
             ],
             "tooltype": "Offensive"
           },
@@ -56259,8 +56259,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },
@@ -57998,8 +57998,8 @@
             "section": "Re-examine Cache-control Directives",
             "sectionID": "10015",
             "tags": [
-              "10015",
-              "Passive"
+              "Passive",
+              "10015"
             ],
             "tooltype": "Offensive"
           },
@@ -58137,8 +58137,8 @@
             "section": "Re-examine Cache-control Directives",
             "sectionID": "10015",
             "tags": [
-              "10015",
-              "Passive"
+              "Passive",
+              "10015"
             ],
             "tooltype": "Offensive"
           },
@@ -58871,8 +58871,8 @@
             "section": "Authentication Credentials Captured",
             "sectionID": "10105-1",
             "tags": [
-              "10105-1",
-              "Passive"
+              "Passive",
+              "10105-1"
             ],
             "tooltype": "Offensive"
           },
@@ -59082,8 +59082,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -59099,8 +59099,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -59116,8 +59116,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -59167,8 +59167,8 @@
             "section": "Cookie Without Secure Flag",
             "sectionID": "10011",
             "tags": [
-              "10011",
-              "Passive"
+              "Passive",
+              "10011"
             ],
             "tooltype": "Offensive"
           },
@@ -59604,8 +59604,8 @@
             "section": "Sub Resource Integrity Attribute Missing",
             "sectionID": "90003",
             "tags": [
-              "90003",
-              "Passive"
+              "Passive",
+              "90003"
             ],
             "tooltype": "Offensive"
           },
@@ -60774,8 +60774,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -60791,8 +60791,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -60808,8 +60808,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -60859,8 +60859,8 @@
             "section": "Cookie Without Secure Flag",
             "sectionID": "10011",
             "tags": [
-              "10011",
-              "Passive"
+              "Passive",
+              "10011"
             ],
             "tooltype": "Offensive"
           },
@@ -61083,8 +61083,8 @@
             "section": "Strict-Transport-Security Header on Plain HTTP Response",
             "sectionID": "10035-4",
             "tags": [
-              "10035-4",
-              "Passive"
+              "Passive",
+              "10035-4"
             ],
             "tooltype": "Offensive"
           },
@@ -61100,8 +61100,8 @@
             "section": "Strict-Transport-Security Disabled",
             "sectionID": "10035-2",
             "tags": [
-              "10035-2",
-              "Passive"
+              "Passive",
+              "10035-2"
             ],
             "tooltype": "Offensive"
           },
@@ -61117,8 +61117,8 @@
             "section": "Strict-Transport-Security Malformed Content (Non-compliant with Spec)",
             "sectionID": "10035-8",
             "tags": [
-              "10035-8",
-              "Passive"
+              "Passive",
+              "10035-8"
             ],
             "tooltype": "Offensive"
           },
@@ -61168,8 +61168,8 @@
             "section": "Cookie Without Secure Flag",
             "sectionID": "10011",
             "tags": [
-              "10011",
-              "Passive"
+              "Passive",
+              "10011"
             ],
             "tooltype": "Offensive"
           },
@@ -61542,8 +61542,8 @@
             "section": "Session Fixation",
             "sectionID": "40013",
             "tags": [
-              "Active",
-              "40013"
+              "40013",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -61930,8 +61930,8 @@
             "section": "HTTP Only Site",
             "sectionID": "10106",
             "tags": [
-              "Active",
-              "10106"
+              "10106",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -61947,8 +61947,8 @@
             "section": "Secure Pages Include Mixed Content",
             "sectionID": "10040",
             "tags": [
-              "10040",
-              "Passive"
+              "Passive",
+              "10040"
             ],
             "tooltype": "Offensive"
           },
@@ -62216,8 +62216,8 @@
             "section": "HTTP Only Site",
             "sectionID": "10106",
             "tags": [
-              "Active",
-              "10106"
+              "10106",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -62233,8 +62233,8 @@
             "section": "Secure Pages Include Mixed Content",
             "sectionID": "10040",
             "tags": [
-              "10040",
-              "Passive"
+              "Passive",
+              "10040"
             ],
             "tooltype": "Offensive"
           },
@@ -62502,8 +62502,8 @@
             "section": "HTTP Only Site",
             "sectionID": "10106",
             "tags": [
-              "Active",
-              "10106"
+              "10106",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -62519,8 +62519,8 @@
             "section": "Secure Pages Include Mixed Content",
             "sectionID": "10040",
             "tags": [
-              "10040",
-              "Passive"
+              "Passive",
+              "10040"
             ],
             "tooltype": "Offensive"
           },
@@ -64222,8 +64222,8 @@
             "section": "Sub Resource Integrity Attribute Missing",
             "sectionID": "90003",
             "tags": [
-              "90003",
-              "Passive"
+              "Passive",
+              "90003"
             ],
             "tooltype": "Offensive"
           },
@@ -65026,8 +65026,8 @@
             "section": "HTTP Parameter Override",
             "sectionID": "10026",
             "tags": [
-              "10026",
-              "Passive"
+              "Passive",
+              "10026"
             ],
             "tooltype": "Offensive"
           },
@@ -65043,8 +65043,8 @@
             "section": "Httpoxy - Proxy Header Misuse",
             "sectionID": "10107",
             "tags": [
-              "10107",
-              "Active"
+              "Active",
+              "10107"
             ],
             "tooltype": "Offensive"
           },
@@ -65077,8 +65077,8 @@
             "section": "User Controllable HTML Element Attribute (Potential XSS)",
             "sectionID": "10031",
             "tags": [
-              "10031",
-              "Passive"
+              "Passive",
+              "10031"
             ],
             "tooltype": "Offensive"
           },
@@ -65111,8 +65111,8 @@
             "section": "HTTP Parameter Pollution",
             "sectionID": "20014",
             "tags": [
-              "Active",
-              "20014"
+              "20014",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -65145,8 +65145,8 @@
             "section": "Relative Path Confusion",
             "sectionID": "10051",
             "tags": [
-              "Active",
-              "10051"
+              "10051",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -65162,8 +65162,8 @@
             "section": "Source Code Disclosure - CVE-2012-1823",
             "sectionID": "20017",
             "tags": [
-              "20017",
-              "Active"
+              "Active",
+              "20017"
             ],
             "tooltype": "Offensive"
           },
@@ -65652,8 +65652,8 @@
             "section": "Directory Browsing",
             "sectionID": "10033",
             "tags": [
-              "10033",
-              "Passive"
+              "Passive",
+              "10033"
             ],
             "tooltype": "Offensive"
           },
@@ -66669,8 +66669,8 @@
             "section": "Information Disclosure - JWT in Browser localStorage",
             "sectionID": "120002-1",
             "tags": [
-              "120002-1",
-              "Client Passive"
+              "Client Passive",
+              "120002-1"
             ],
             "tooltype": "Offensive"
           },
@@ -66703,8 +66703,8 @@
             "section": "Properties File Disclosure - /WEB-INF folder",
             "sectionID": "10045-2",
             "tags": [
-              "Active",
-              "10045-2"
+              "10045-2",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -66771,8 +66771,8 @@
             "section": "Source Code Disclosure - File Inclusion",
             "sectionID": "43",
             "tags": [
-              "Active",
-              "43"
+              "43",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -66788,8 +66788,8 @@
             "section": "PII Disclosure",
             "sectionID": "10062",
             "tags": [
-              "10062",
-              "Passive"
+              "Passive",
+              "10062"
             ],
             "tooltype": "Offensive"
           },
@@ -66839,8 +66839,8 @@
             "section": "Application Error Disclosure",
             "sectionID": "90022",
             "tags": [
-              "90022",
-              "Passive"
+              "Passive",
+              "90022"
             ],
             "tooltype": "Offensive"
           },
@@ -66907,8 +66907,8 @@
             "section": "Source Code Disclosure - PHP",
             "sectionID": "10099",
             "tags": [
-              "10099",
-              "Passive"
+              "Passive",
+              "10099"
             ],
             "tooltype": "Offensive"
           },
@@ -66941,8 +66941,8 @@
             "section": "Session ID in URL Rewrite",
             "sectionID": "3-1",
             "tags": [
-              "3-1",
-              "Passive"
+              "Passive",
+              "3-1"
             ],
             "tooltype": "Offensive"
           },
@@ -66958,8 +66958,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser localStorage",
             "sectionID": "120001-1",
             "tags": [
-              "120001-1",
-              "Client Passive"
+              "Client Passive",
+              "120001-1"
             ],
             "tooltype": "Offensive"
           },
@@ -66975,8 +66975,8 @@
             "section": "Information Disclosure - Suspicious Comments",
             "sectionID": "10027",
             "tags": [
-              "10027",
-              "Passive"
+              "Passive",
+              "10027"
             ],
             "tooltype": "Offensive"
           },
@@ -67009,8 +67009,8 @@
             "section": "Directory Browsing",
             "sectionID": "10033",
             "tags": [
-              "10033",
-              "Passive"
+              "Passive",
+              "10033"
             ],
             "tooltype": "Offensive"
           },
@@ -67043,8 +67043,8 @@
             "section": "Insecure HTTP Method",
             "sectionID": "90028",
             "tags": [
-              "Active",
-              "90028"
+              "90028",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -67060,8 +67060,8 @@
             "section": "Source Code Disclosure - Git ",
             "sectionID": "41",
             "tags": [
-              "Active",
-              "41"
+              "41",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -67077,8 +67077,8 @@
             "section": ".env Information Leak",
             "sectionID": "40034",
             "tags": [
-              "40034",
-              "Active"
+              "Active",
+              "40034"
             ],
             "tooltype": "Offensive"
           },
@@ -67094,8 +67094,8 @@
             "section": "Referer Exposes Session ID",
             "sectionID": "3-3",
             "tags": [
-              "3-3",
-              "Passive"
+              "Passive",
+              "3-3"
             ],
             "tooltype": "Offensive"
           },
@@ -67111,8 +67111,8 @@
             "section": "Trace.axd Information Leak",
             "sectionID": "40029",
             "tags": [
-              "Active",
-              "40029"
+              "40029",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -67128,8 +67128,8 @@
             "section": "Information Disclosure - Information in Browser sessionStorage",
             "sectionID": "120000-2",
             "tags": [
-              "120000-2",
-              "Client Passive"
+              "Client Passive",
+              "120000-2"
             ],
             "tooltype": "Offensive"
           },
@@ -67162,8 +67162,8 @@
             "section": "Information Disclosure - Sensitive Information in Browser sessionStorage",
             "sectionID": "120001-2",
             "tags": [
-              "120001-2",
-              "Client Passive"
+              "Client Passive",
+              "120001-2"
             ],
             "tooltype": "Offensive"
           },
@@ -67213,8 +67213,8 @@
             "section": "Information Disclosure - Debug Error Messages",
             "sectionID": "10023",
             "tags": [
-              "10023",
-              "Passive"
+              "Passive",
+              "10023"
             ],
             "tooltype": "Offensive"
           },
@@ -67230,8 +67230,8 @@
             "section": "Private IP Disclosure",
             "sectionID": "2",
             "tags": [
-              "2",
-              "Passive"
+              "Passive",
+              "2"
             ],
             "tooltype": "Offensive"
           },
@@ -67264,8 +67264,8 @@
             "section": "Server Leaks Version Information via \\Server\\ HTTP Response Header Field",
             "sectionID": "10036-2",
             "tags": [
-              "10036-2",
-              "Passive"
+              "Passive",
+              "10036-2"
             ],
             "tooltype": "Offensive"
           },
@@ -67315,8 +67315,8 @@
             "section": "Proxy Disclosure",
             "sectionID": "40025",
             "tags": [
-              "Active",
-              "40025"
+              "40025",
+              "Active"
             ],
             "tooltype": "Offensive"
           },
@@ -67332,8 +67332,8 @@
             "section": "X-Backend-Server Header Information Leak",
             "sectionID": "10039",
             "tags": [
-              "10039",
-              "Passive"
+              "Passive",
+              "10039"
             ],
             "tooltype": "Offensive"
           },
@@ -67400,8 +67400,8 @@
             "section": "Hidden File Found",
             "sectionID": "40035",
             "tags": [
-              "40035",
-              "Active"
+              "Active",
+              "40035"
             ],
             "tooltype": "Offensive"
           },
@@ -67417,8 +67417,8 @@
             "section": "ASP.NET ViewState Disclosure",
             "sectionID": "10094-1",
             "tags": [
-              "10094-1",
-              "Passive"
+              "Passive",
+              "10094-1"
             ],
             "tooltype": "Offensive"
           },
@@ -67434,8 +67434,8 @@
             "section": "In Page Banner Information Leak",
             "sectionID": "10009",
             "tags": [
-              "10009",
-              "Passive"
+              "Passive",
+              "10009"
             ],
             "tooltype": "Offensive"
           },
@@ -67715,8 +67715,8 @@
             "section": "Deprecated Feature Policy Header Set",
             "sectionID": "10063-2",
             "tags": [
-              "10063-2",
-              "Passive"
+              "Passive",
+              "10063-2"
             ],
             "tooltype": "Offensive"
           },
@@ -69950,8 +69950,8 @@
             "section": "PII Disclosure",
             "sectionID": "10062",
             "tags": [
-              "10062",
-              "Passive"
+              "Passive",
+              "10062"
             ],
             "tooltype": "Offensive"
           },
@@ -70336,8 +70336,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -70353,8 +70353,8 @@
             "section": "Vulnerable JS Library",
             "sectionID": "10003",
             "tags": [
-              "10003",
-              "Passive"
+              "Passive",
+              "10003"
             ],
             "tooltype": "Offensive"
           },
@@ -70604,8 +70604,8 @@
             "section": "Cross-Domain JavaScript Source File Inclusion",
             "sectionID": "10017",
             "tags": [
-              "10017",
-              "Passive"
+              "Passive",
+              "10017"
             ],
             "tooltype": "Offensive"
           },
@@ -70621,8 +70621,8 @@
             "section": "Vulnerable JS Library",
             "sectionID": "10003",
             "tags": [
-              "10003",
-              "Passive"
+              "Passive",
+              "10003"
             ],
             "tooltype": "Offensive"
           },
@@ -71980,8 +71980,8 @@
             "section": "Username Hash Found in WebSocket message",
             "sectionID": "110007",
             "tags": [
-              "110007",
-              "WebSocket Passive"
+              "WebSocket Passive",
+              "110007"
             ],
             "tooltype": "Offensive"
           },
@@ -71997,8 +71997,8 @@
             "section": "Username Hash Found",
             "sectionID": "10057",
             "tags": [
-              "10057",
-              "Passive"
+              "Passive",
+              "10057"
             ],
             "tooltype": "Offensive"
           },
@@ -72014,8 +72014,8 @@
             "section": "Dangerous JS Functions",
             "sectionID": "10110",
             "tags": [
-              "10110",
-              "Passive"
+              "Passive",
+              "10110"
             ],
             "tooltype": "Offensive"
           },

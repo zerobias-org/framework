@@ -1,0 +1,39 @@
+id: c68263f7-06e9-4d0a-9b9a-10f2a486985b
+name: Controlled Maintenance
+description: Mechanisms exist to conduct controlled maintenance activities throughout the lifecycle of the Technology Asset, Application and/or Service (TAAS).
+elementType: control
+externalId: MNT-02
+parent: mnt
+controlQuestion: Does the organization conduct controlled maintenance activities throughout the lifecycle of theTechnology Asset, Application and/or Service (TAAS)?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

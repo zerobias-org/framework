@@ -1,0 +1,39 @@
+id: 15cc6e5d-5503-4bda-8c05-bc80530d6246
+name: Status Reporting To Governing Body
+description: Mechanisms exist to provide governance oversight reporting and recommendations to those entrusted to make executive decisions about matters considered material to the organization's cybersecurity and data protection program.
+elementType: enhancement
+externalId: GOV-01.2
+parent: gov-01
+controlQuestion: Does the organization provide governance oversight reporting and recommendations to those entrusted to make executive decisions about matters considered material to its cybersecurity and data protection program?
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 57abad92-91f7-4013-b6e1-8da422768d94
+name: External Telecommunications Services
+description: Mechanisms exist to maintain a managed interface for each external telecommunication service that protects the confidentiality and integrity of the information being transmitted across each interface.
+elementType: enhancement
+externalId: NET-03.2
+parent: net-03
+controlQuestion: Does the organization maintain a managed interface for each external telecommunication service that protects the confidentiality and integrity of the information being transmitted across each interface?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

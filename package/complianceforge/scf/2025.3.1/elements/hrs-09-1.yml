@@ -1,0 +1,39 @@
+id: 28750ec1-6308-4a6b-9175-9a0e6d9459d4
+name: Asset Collection
+description: Mechanisms exist to retrieve organization-owned assets upon termination of an individual's employment.
+elementType: enhancement
+externalId: HRS-09.1
+parent: hrs-09
+controlQuestion: Does the organization retrieve organization-owned assets upon termination of an individual's employment?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

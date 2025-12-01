@@ -1,0 +1,39 @@
+id: 3ecc9d74-2326-4b76-8b2e-15536cef4856
+name: Delivery & Removal
+description: Physical security mechanisms exist to isolate information processing facilities from points such as delivery and loading areas and other points to avoid unauthorized access.
+elementType: control
+externalId: PES-10
+parent: pes
+controlQuestion: Does the organization isolate information processing facilities from points such as delivery and loading areas and other points to avoid unauthorized access?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

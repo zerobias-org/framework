@@ -1,0 +1,39 @@
+id: c9f4d9f1-d5af-4036-80c3-5aea1ae891b5
+name: De-Identify Dataset Upon Collection
+description: Mechanisms exist to de-identify the dataset upon collection by not collecting Personal Data (PD).
+elementType: enhancement
+externalId: DCH-23.1
+parent: dch-23
+controlQuestion: Does the organization de-identify the dataset upon collection by not collecting Personal Data (PD)?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 1eca75d8-0e17-45e8-9430-299d94385170
+name: AI & Autonomous Technologies Internal Controls
+description: Mechanisms exist to identify and document internal cybersecurity and data protection controls for Artificial Intelligence (AI) and Autonomous Technologies (AAT).
+elementType: enhancement
+externalId: AAT-02.2
+parent: aat-02
+controlQuestion: Does the organization identify and document internal cybersecurity and data protection controls for Artificial Intelligence (AI) and Autonomous Technologies (AAT)?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
