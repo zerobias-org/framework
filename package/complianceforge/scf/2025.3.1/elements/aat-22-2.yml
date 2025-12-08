@@ -1,0 +1,39 @@
+id: 8eec134e-dcc8-405c-b520-75065c741838
+name: AI & Autonomous Technologies Oversight Measures
+description: "Mechanisms exist to ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) oversight measures are commensurate with the:\r\n(1) Assessed risk(s); \r\n(2) Level of autonomy; and \r\n(3) Context of use."
+elementType: enhancement
+externalId: AAT-22.2
+parent: aat-22
+controlQuestion: "Does the organization ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) oversight measures are commensurate with the:\r\n(1) Assessed risk(s); \r\n(2) Level of autonomy; and \r\n(3) Context of use?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

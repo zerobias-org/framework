@@ -1,0 +1,39 @@
+id: cd1f8e48-fbda-4081-bab4-b7ae8f619b12
+name: Password-Based Authentication
+description: Mechanisms exist to enforce complexity, length and lifespan considerations to ensure strong criteria for password-based authentication.
+elementType: enhancement
+externalId: IAC-10.1
+parent: iac-10
+controlQuestion: Does the organization enforce complexity, length and lifespan considerations to ensure strong criteria for password-based authentication?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

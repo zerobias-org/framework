@@ -1,0 +1,39 @@
+id: 4d910d81-e7f2-498d-86e4-7d4c7d33120a
+name: Temperature & Humidity Controls
+description: Facility security mechanisms exist to maintain and monitor temperature and humidity levels within the facility.
+elementType: control
+externalId: PES-09
+parent: pes
+controlQuestion: Does the organization maintain and monitor temperature and humidity levels within the facility?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

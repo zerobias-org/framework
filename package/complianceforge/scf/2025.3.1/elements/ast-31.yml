@@ -1,0 +1,39 @@
+id: caed90ad-418c-4203-98b3-1ed7e9220d83
+name: Asset Categorization
+description: Mechanisms exist to categorize Technology Assets, Applications and/or Services (TAAS).
+elementType: control
+externalId: AST-31
+parent: ast
+controlQuestion: Does the organization categorize Technology Assets, Applications and/or Services (TAAS)?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

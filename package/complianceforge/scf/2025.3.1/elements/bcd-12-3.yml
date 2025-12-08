@@ -1,0 +1,39 @@
+id: 1a4ada80-ee19-4a74-8c6d-f3e3edb9a232
+name: Electronic Discovery (eDiscovery)
+description: Mechanisms exist to utilize electronic discovery (eDiscovery) that covers current and archived communication transactions.
+elementType: enhancement
+externalId: BCD-12.3
+parent: bcd-12
+controlQuestion: Does the organization utilize electronic discovery (eDiscovery) that covers current and archived communication transactions?
+functionGrouping: Respond
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

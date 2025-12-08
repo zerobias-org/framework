@@ -1,0 +1,39 @@
+id: 257729ca-788c-48d7-8aa9-cac899f9d975
+name: Sharing of Event Logs
+description: Mechanisms exist to share event logs with third-party organizations based on specific cross-organizational sharing agreements.
+elementType: enhancement
+externalId: MON-14.1
+parent: mon-14
+controlQuestion: Does the organization share event logs with third-party organizations based on specific cross-organizational sharing agreements?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

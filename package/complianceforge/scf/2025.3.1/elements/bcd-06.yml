@@ -1,0 +1,39 @@
+id: c0a72806-4e02-4772-bc37-1fae3f4f9bc6
+name: Ongoing Contingency Planning
+description: "Mechanisms exist to update contingency plans due to changes affecting:\r\n(1) People (e.g., personnel changes);\r\n(2) Processes (e.g., new, altered or decommissioned business practices, including third-party services)\r\n(3) Technologies (e.g., new, altered or decommissioned technologies);\r\n(4) Data (e.g., changes to data flows and/or data repositories);\r\n(5) Facilities (e.g., new, altered or decommissioned physical infrastructure); and/or\r\n(6) Feedback from contingency plan testing activities."
+elementType: control
+externalId: BCD-06
+parent: bcd
+controlQuestion: "Does the organization update contingency plans due to changes affecting:\r\n(1) People (e.g., personnel changes);\r\n(2) Processes (e.g., new, altered or decommissioned business practices, including third-party services)\r\n(3) Technologies (e.g., new, altered or decommissioned technologies);\r\n(4) Data (e.g., changes to data flows and/or data repositories);\r\n(5) Facilities (e.g., new, altered or decommissioned physical infrastructure); and/or\r\n(6) Feedback from contingency plan testing activities?"
+functionGrouping: Recover
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

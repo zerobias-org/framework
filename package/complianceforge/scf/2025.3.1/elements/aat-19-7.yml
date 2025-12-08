@@ -1,0 +1,39 @@
+id: b724735c-ca8e-4646-8e48-46a61e003e69
+name: Emotion Inference
+description: Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that infer human emotions of an individual based on observed characteristics.
+elementType: enhancement
+externalId: AAT-19.7
+parent: aat-19
+controlQuestion: Does the organization prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that infer human emotions of an individual based on observed characteristics?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

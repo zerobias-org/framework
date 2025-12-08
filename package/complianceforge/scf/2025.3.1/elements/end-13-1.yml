@@ -1,0 +1,39 @@
+id: e4fe0529-d6c3-440c-bf88-871e12207ffa
+name: Authorized Use
+description: Mechanisms exist to utilize organization-defined measures so that data or information collected by sensors is only used for authorized purposes.
+elementType: enhancement
+externalId: END-13.1
+parent: end-13
+controlQuestion: Does the organization utilize organization-defined measures so that data or information collected by sensors is only used for authorized purposes?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

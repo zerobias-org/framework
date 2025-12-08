@@ -1,0 +1,39 @@
+id: 763a14fa-10a9-4e94-97cd-c398ae37c309
+name: Asset Attributes
+description: Mechanisms exist to dynamically associate asset-specific attributes to enable Attribute-Based Access Control (ABAC).
+elementType: enhancement
+externalId: AST-31.3
+parent: ast-31
+controlQuestion: Does the organization dynamically associate asset-specific attributes to enable Attribute-Based Access Control (ABAC)?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

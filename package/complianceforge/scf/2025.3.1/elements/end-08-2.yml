@@ -1,0 +1,39 @@
+id: e43fe958-0289-4e37-89b2-4168a9842978
+name: Automatic Spam and Phishing Protection Updates
+description: Mechanisms exist to automatically update anti-phishing and spam protection technologies when new releases are available in accordance with configuration and change management practices.
+elementType: enhancement
+externalId: END-08.2
+parent: end-08
+controlQuestion: Does the organization automatically update anti-phishing and spam protection technologies when new releases are available in accordance with configuration and change management practices?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 675e78b8-3ce2-45cd-b9bd-6d327ca317a5
+name: Resource Exhaustion & DoS Resilience
+description: "Mechanisms exist to monitor and prevent resource overload or Denial of Service (DoS) conditions through:\r\n(1) Enforcement of quotas;\r\n(2) Workload controls; and \r\n(3) Auto-suspension of runaway AI agent processes."
+elementType: enhancement
+externalId: AAT-28.3
+parent: aat-28
+controlQuestion: "Does the organization monitor and prevent resource overload or Denial of Service (DoS) conditions through:\r\n(1) Enforcement of quotas;\r\n(2) Workload controls; and \r\n(3) Auto-suspension of runaway AI agent processes?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
