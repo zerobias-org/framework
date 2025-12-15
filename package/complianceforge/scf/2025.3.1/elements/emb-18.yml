@@ -1,0 +1,39 @@
+id: a4e4da13-ad1a-42bd-90ba-f299b46361f7
+name: Real-Time Operating System (RTOS) Security
+description: Mechanisms exist to ensure embedded technologies utilize a securely configured Real-Time Operating System (RTOS).
+elementType: control
+externalId: EMB-18
+parent: emb
+controlQuestion: Does the organization ensure embedded technologies utilize a securely configured Real-Time Operating System (RTOS)?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

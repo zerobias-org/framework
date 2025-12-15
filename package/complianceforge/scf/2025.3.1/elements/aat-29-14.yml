@@ -1,0 +1,39 @@
+id: 2e589ac9-eefc-44c4-ba6b-071356ef2cbd
+name: Adversarial & Red Team Testing
+description: Mechanisms exist to regularly conduct adversarial testing that simulates attacks against AI agents to identify and mitigate vulnerabilities.
+elementType: enhancement
+externalId: AAT-29.14
+parent: aat-29
+controlQuestion: Does the organization regularly conduct adversarial testing that simulates attacks against AI agents to identify and mitigate vulnerabilities?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

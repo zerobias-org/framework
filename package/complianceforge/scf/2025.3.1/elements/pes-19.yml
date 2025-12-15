@@ -1,0 +1,39 @@
+id: b4441ace-ed29-4f81-bdf5-b3acaa4ec476
+name: Physical Access Device Inventories
+description: Mechanisms exist to maintain an accurate inventory of all physical access devices (e.g., RFID cards, access fobs, door keys, etc.).
+elementType: control
+externalId: PES-19
+parent: pes
+controlQuestion: Does the organization maintain an accurate inventory of all physical access devices (e.g., RFID cards, access fobs, door keys, etc.)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 05d1efa4-c9a6-42ad-9db2-51f12862547e
+name: Automation
+description: Automated mechanisms exist to support the evaluation of data quality across the information lifecycle.
+elementType: enhancement
+externalId: PRI-10.1
+parent: pri-10
+controlQuestion: Does the organization use automated mechanisms to support the evaluation of data quality across the information lifecycle?
+functionGrouping: Identify
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

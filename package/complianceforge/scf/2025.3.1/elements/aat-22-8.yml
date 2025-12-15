@@ -1,0 +1,39 @@
+id: 56708b70-ea93-44a9-b0b7-24a49e081156
+name: AI & Autonomous Technologies Use Notification To Users
+description: "Mechanisms exist to ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) that make decisions, or assist in making decisions, inform the people in a clear manner that they are:\r\n(1) Utilizing an AAT solution; and\r\n(2) Expected to validate the output for relevance and accuracy."
+elementType: enhancement
+externalId: AAT-22.8
+parent: aat-22
+controlQuestion: "Does the organization ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) that make decisions, or assist in making decisions, inform the people in a clear manner that they are:\r\n(1) Utilizing an AAT solution; and\r\n(2) Expected to validate the output for relevance and accuracy?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

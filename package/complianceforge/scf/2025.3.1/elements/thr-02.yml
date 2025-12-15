@@ -1,0 +1,39 @@
+id: 6f488a39-3c5d-41f5-bcb1-3d2557cd20b9
+name: Indicators of Exposure (IOE)
+description: Mechanisms exist to develop Indicators of Exposure (IOE) to understand the potential attack vectors that attackers could use to attack the organization.
+elementType: control
+externalId: THR-02
+parent: thr
+controlQuestion: Does the organization develop Indicators of Exposure (IOE) to understand the potential attack vectors that attackers could use to attack the organization?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 891d15c3-1484-4a95-a47d-dbfe7bd400bb
+name: Expiration of Cached Authenticators
+description: Automated mechanisms exist to prohibit the use of cached authenticators after organization-defined time period.
+elementType: enhancement
+externalId: IAC-10.10
+parent: iac-10
+controlQuestion: Does the organization use automated mechanisms to prohibit the use of cached authenticators after organization-defined time period?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

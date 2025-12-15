@@ -1,0 +1,39 @@
+id: 57bd469f-0a76-4fb6-b6de-c1e9122d2f18
+name: Sharing Identification & Authentication Information
+description: Mechanisms exist to ensure external service providers provide current and accurate information for any third-party user with access to the organization's data or assets.
+elementType: enhancement
+externalId: IAC-05.1
+parent: iac-05
+controlQuestion: Does the organization ensure external service providers provide current and accurate information for any third-party user with access to its data or assets?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

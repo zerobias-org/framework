@@ -1,0 +1,39 @@
+id: 6ed961ce-0d8b-43c7-87c0-405381f51dfa
+name: Storage Media
+description: Cryptographic mechanisms exist to protect the confidentiality and integrity of sensitive/regulated data residing on storage media.
+elementType: enhancement
+externalId: CRY-05.1
+parent: cry-05
+controlQuestion: Are cryptographic mechanisms utilized to protect the confidentiality and integrity of sensitive/regulated data residing on storage media?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

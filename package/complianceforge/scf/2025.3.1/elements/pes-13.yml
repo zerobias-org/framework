@@ -1,0 +1,39 @@
+id: c73d3e37-0461-4d37-9769-abe03818cb47
+name: Information Leakage Due To Electromagnetic Signals Emanations
+description: Facility security mechanisms exist to protect the system from information leakage due to electromagnetic signals emanations.
+elementType: control
+externalId: PES-13
+parent: pes
+controlQuestion: Does the organization protect the system from information leakage due to electromagnetic signals emanations?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

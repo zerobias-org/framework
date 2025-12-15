@@ -1,0 +1,39 @@
+id: c0cb8292-0198-4f4e-89f7-fe3dfabfebdc
+name: Transparency & Audit
+description: "Mechanisms exist to provide comprehensive audit trails of AI agent actions including:\r\n(1) Rationales; and \r\n(2) User/trigger mappings."
+elementType: enhancement
+externalId: AAT-29.20
+parent: aat-29
+controlQuestion: "Does the organization provide comprehensive audit trails of AI agent actions including:\r\n(1) Rationales; and \r\n(2) User/trigger mappings?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

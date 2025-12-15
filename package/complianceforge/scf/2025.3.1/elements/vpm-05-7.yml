@@ -1,0 +1,39 @@
+id: 2bf1ccae-7d14-40ea-897d-c80f7d658579
+name: Out-of-Cycle Patching
+description: Mechanisms exist to perform out-of-cycle software and/or firmware updates to address time-sensitive remediations.
+elementType: enhancement
+externalId: VPM-05.7
+parent: vpm-05
+controlQuestion: Does the organization perform out-of-cycle software and/or firmware updates to address time-sensitive remediations?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
