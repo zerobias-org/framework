@@ -1,0 +1,39 @@
+id: c4fb1df4-89ba-4074-b049-ab14b26317e7
+name: Transmission Integrity
+description: Cryptographic mechanisms exist to protect the integrity of data being transmitted.
+elementType: control
+externalId: CRY-04
+parent: cry
+controlQuestion: Are cryptographic mechanisms utilized to protect the integrity of data being transmitted?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

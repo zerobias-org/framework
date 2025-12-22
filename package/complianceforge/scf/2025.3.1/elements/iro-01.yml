@@ -1,0 +1,39 @@
+id: f8d93668-2630-453b-8f04-62ed9f085206
+name: Incident Response Operations
+description: Mechanisms exist to implement and govern processes and documentation to facilitate an organization-wide response capability for cybersecurity and data protection-related incidents.
+elementType: control
+externalId: IRO-01
+parent: iro
+controlQuestion: Does the organization implement and govern processes and documentation to facilitate an organization-wide response capability for cybersecurity and data protection-related incidents?
+functionGrouping: Govern
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

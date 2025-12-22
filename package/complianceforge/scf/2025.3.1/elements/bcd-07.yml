@@ -1,0 +1,39 @@
+id: 04c9417c-4e2a-42c4-b4db-0a8510f2b35e
+name: Alternative Security Measures
+description: Mechanisms exist to implement alternative or compensating controls to satisfy security functions when the primary means of implementing the security function is unavailable or compromised.
+elementType: control
+externalId: BCD-07
+parent: bcd
+controlQuestion: Does the organization implement alternative or compensating controls to satisfy security functions when the primary means of implementing the security function is unavailable or compromised?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

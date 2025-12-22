@@ -1,0 +1,39 @@
+id: 08b6c9d5-17e9-4c58-b452-c45f89af9a2c
+name: Novel Risk Assessment Methods & Technologies
+description: "Mechanisms exist to utilize novel methods and technologies for the measurement of Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to evaluate, if applicable:\r\n(1) Content provenance;\r\n(2) Oﬀensive cyber capabilities; \r\n(3) Chemical, Biological, Radiological or Nuclear (CBRN) weapons; and/or \r\n(4) Other dangerous materials or agents."
+elementType: enhancement
+externalId: AAT-17.4
+parent: aat-17
+controlQuestion: "Does the organization utilize novel methods and technologies for the measurement of Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to evaluate, if applicable:\r\n(1) Content provenance;\r\n(2) Oﬀensive cyber capabilities; \r\n(3) Chemical, Biological, Radiological or Nuclear (CBRN) weapons; and/or \r\n(4) Other dangerous materials or agents?"
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: efaa474a-e029-47ae-9ae7-e269ce0a9204
+name: Independent Assessors
+description: Mechanisms exist to utilize independent assessors to evaluate cybersecurity and data protection controls at planned intervals or when the Technology Asset, Application and/or Service (TAAS) undergoes significant changes.
+elementType: enhancement
+externalId: CPL-03.1
+parent: cpl-03
+controlQuestion: Does the organization utilize independent assessors to evaluate cybersecurity and data protection controls at planned intervals or when the Technology Asset, Application and/or Service (TAAS) undergoes significant changes?
+functionGrouping: Detect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

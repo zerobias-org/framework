@@ -1,0 +1,39 @@
+id: 7d207890-805e-4efd-ac55-54dd3cb10388
+name: User Feedback Management
+description: Mechanisms exist to maintain a process to efficiently and effectively respond to complaints, concerns or questions from authenticated data subjects about how the organization collects, receives, processes, stores, transmits, shares, updates and/or disposes of their Personal Data (PD).
+elementType: enhancement
+externalId: PRI-06.4
+parent: pri-06
+controlQuestion: Does the organization maintain a process to efficiently and effectively respond to complaints, concerns or questions from authenticated data subjects about how it collects, receives, processes, stores, transmits, shares, updates and/or disposes of their Personal Data (PD)?
+functionGrouping: Respond
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

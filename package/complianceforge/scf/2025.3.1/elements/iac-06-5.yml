@@ -1,0 +1,39 @@
+id: 2cb03c42-0102-47f5-b0ad-66e326b6a954
+name: Alternative Multi-Factor Authentication
+description: Mechanisms exist to enable alternative Multi-Factor Authentication (MFA) tokens when the primary MFA solution is not able to be used.
+elementType: enhancement
+externalId: IAC-06.5
+parent: iac-06
+controlQuestion: Does the organization enable alternative Multi-Factor Authentication (MFA) tokens when the primary MFA solution is not able to be used?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

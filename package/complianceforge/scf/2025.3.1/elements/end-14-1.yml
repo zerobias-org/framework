@@ -1,0 +1,39 @@
+id: 59367fcb-9c09-49d5-971b-a1bb993768fd
+name: Disabling / Removal In Secure Work Areas
+description: Mechanisms exist to disable or remove collaborative computing devices from critical systems and secure work areas.
+elementType: enhancement
+externalId: END-14.1
+parent: end-14
+controlQuestion: Does the organization disable or remove collaborative computing devices from critical systems and secure work areas?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

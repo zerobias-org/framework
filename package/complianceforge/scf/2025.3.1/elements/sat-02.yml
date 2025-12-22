@@ -1,0 +1,39 @@
+id: a082cb95-2b42-45ca-9d71-ff0d70489429
+name: Cybersecurity & Data Protection Awareness Training
+description: Mechanisms exist to provide all employees and contractors appropriate awareness education and training that is relevant for their job function.
+elementType: control
+externalId: SAT-02
+parent: sat
+controlQuestion: Does the organization provide all employees and contractors appropriate awareness education and training that is relevant for their job function?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

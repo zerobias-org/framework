@@ -1,0 +1,39 @@
+id: f53d414c-011c-442c-8150-a629342e3f0c
+name: Hosted Assets, Applications & Services
+description: Mechanisms exist to specify applicable cybersecurity and data protection controls that must be implemented on external Technology Assets, Applications and/or Services (TAAS), consistent with the contractual obligations established with the External Service Providers (ESP) owning, operating and/or maintaining external TAAS.
+elementType: control
+externalId: CLD-13
+parent: cld
+controlQuestion: Does the organization specify applicable cybersecurity and data protection controls that must be implemented on external Technology Assets, Applications and/or Services (TAAS), consistent with the contractual obligations established with the External Service Providers (ESP) owning, operating and/or maintaining external TAAS?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

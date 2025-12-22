@@ -1,0 +1,39 @@
+id: 3d451fc5-5efb-470f-9a24-02c1f09ca1b5
+name: High-Risk Asset Categorization
+description: "Mechanisms exist to categorize a system and/or service as \"High Risk\" if it poses a significant risk of harm to an individual's:\r\n(1) Health;\r\n(2) Safety; and/or \r\n(3) Fundamental human rights."
+elementType: enhancement
+externalId: AST-31.2
+parent: ast-31
+controlQuestion: "Does the organization categorize a system and/or service as \"High Risk\" if it poses a significant risk of harm to an individual's:\r\n(1) Health;\r\n(2) Safety; and/or \r\n(3) Fundamental human rights?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

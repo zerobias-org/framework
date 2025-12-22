@@ -1,0 +1,39 @@
+id: 006c5be3-6f83-4fb1-a157-9c2a55073d3b
+name: Multi-Factor Authentication (MFA)
+description: "Automated mechanisms exist to enforce Multi-Factor Authentication (MFA) for:\r\n(1) Remote network access; \r\n(2) Third-party Technology Assets, Applications and/or Services (TAAS); and/ or\r\n(3) Non-console access to critical TAAS that store, transmit and/or process sensitive/regulated data."
+elementType: control
+externalId: IAC-06
+parent: iac
+controlQuestion: "Does the organization use automated mechanisms to enforce Multi-Factor Authentication (MFA) for:\r\n (1) Remote network access; \r\n (2) Third-party Technology Assets, Applications and/or Services (TAAS); and/ or\r\n (3) Non-console access to critical TAAS that store, transmit and/or process sensitive/regulated data?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

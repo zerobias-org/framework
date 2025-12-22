@@ -1,0 +1,39 @@
+id: 252e1507-7aef-4035-b812-13b889ef1a07
+name: Wireless Access Authentication & Encryption
+description: Mechanisms exist to protect the confidentiality and integrity of wireless networking technologies by implementing authentication and strong encryption.
+elementType: control
+externalId: CRY-07
+parent: cry
+controlQuestion: Does the organization protect the confidentiality and integrity of wireless networking technologies by implementing authentication and strong encryption?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
