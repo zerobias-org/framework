@@ -1,0 +1,39 @@
+id: 17929df5-fb78-422c-9b1c-ce51d2f3ee26
+name: Access Profile Rules
+description: Mechanisms exist to develop access profile rules for sensitive/regulated Technology Assets, Applications, Services and/or Data (TAASD) access based on User, Data, Network, Environment & Device attributes.
+elementType: enhancement
+externalId: IAC-29.2
+parent: iac-29
+controlQuestion: Does the organization develop access profile rules for sensitive/regulated Technology Assets, Applications, Services and/or Data (TAASD) access based on User, Data, Network, Environment & Device attributes?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

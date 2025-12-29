@@ -1,0 +1,39 @@
+id: 57372862-a3e7-495f-88d3-a61ba7c18aaf
+name: Dedicated Privileged Account
+description: Mechanisms exist to assign dedicated privileged user accounts to be used solely for duties requiring privileged access.
+elementType: enhancement
+externalId: IAC-16.4
+parent: iac-16
+controlQuestion: Does the organization assign dedicated privileged user accounts to be used solely for duties requiring privileged access?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

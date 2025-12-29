@@ -1,0 +1,39 @@
+id: 98d357dc-12d7-438e-8627-8ef59437c280
+name: Standardized Microsoft Windows Banner
+description: Mechanisms exist to configure Microsoft Windows-based systems to display an approved logon banner before granting access to the system that provides cybersecurity and data protection notices.
+elementType: enhancement
+externalId: SEA-18.1
+parent: sea-18
+controlQuestion: Does the organization configure Microsoft Windows-based systems to display an approved logon banner before granting access to the system that provides cybersecurity and data protection notices?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 0be331b8-4608-4af2-aa42-5f8596fa0f1b
+name: File Activity Monitoring (FAM)
+description: Automated mechanisms exist to monitor sensitive/regulated data in Technology Assets, Applications and/or Services (TAAS) and data repositories.
+elementType: control
+externalId: MON-18
+parent: mon
+controlQuestion: Does the organization use automated tools to monitor sensitive/regulated data in Technology Assets, Applications and/or Services (TAAS) and data repositories?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
