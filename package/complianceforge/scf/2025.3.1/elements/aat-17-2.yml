@@ -1,0 +1,39 @@
+id: fb48d550-efda-47b3-b521-02d2e47af490
+name: AI & Autonomous Technologies Environmental Impact & Sustainability
+description: Mechanisms exist to assess and document the environmental impacts and sustainability of Artificial Intelligence (AI) and Autonomous Technologies (AAT).
+elementType: enhancement
+externalId: AAT-17.2
+parent: aat-17
+controlQuestion: Does the organization assess and document the environmental impacts and sustainability of Artificial Intelligence (AI) and Autonomous Technologies (AAT)?
+functionGrouping: Govern
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

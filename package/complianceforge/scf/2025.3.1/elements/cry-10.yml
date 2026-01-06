@@ -1,0 +1,39 @@
+id: 835dfe78-5bcf-4fa2-875d-1d0f5013d89a
+name: Transmission of Cybersecurity & Data Protection Attributes
+description: Mechanisms exist to associate Technology Assets, Applications and/or Services (TAAS) security attributes with information exchanged between TAAS.
+elementType: control
+externalId: CRY-10
+parent: cry
+controlQuestion: Does the organization associate Technology Assets, Applications and/or Services (TAAS) security attributes with information exchanged between TAAS?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
