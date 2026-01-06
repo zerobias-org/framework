@@ -1,0 +1,39 @@
+id: 0baea618-4378-4003-a3f0-7ac9379f42ab
+name: Application Programming Interface (API) Security
+description: Mechanisms exist to ensure support for secure interoperability between components with Application Programming Interfaces (APIs).
+elementType: control
+externalId: CLD-04
+parent: cld
+controlQuestion: Does the organization ensure support for secure interoperability between components with Application Programming Interfaces (APIs)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

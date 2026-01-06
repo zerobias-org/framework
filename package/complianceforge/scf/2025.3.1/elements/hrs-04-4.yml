@@ -1,0 +1,39 @@
+id: 7faa8a30-cb5a-466c-a8e4-12eb7d0f67e3
+name: Citizenship Identification
+description: Mechanisms exist to identify foreign nationals, including by their specific citizenship.
+elementType: enhancement
+externalId: HRS-04.4
+parent: hrs-04
+controlQuestion: Does the organization identify foreign nationals, including by their specific citizenship?
+functionGrouping: Identify
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

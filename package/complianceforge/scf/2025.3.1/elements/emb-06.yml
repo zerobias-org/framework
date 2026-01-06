@@ -1,0 +1,39 @@
+id: d71c0d80-67e8-458f-8902-4a65ed99e8da
+name: Prevent Alterations
+description: Mechanisms exist to protect embedded devices by preventing the unauthorized installation and execution of software.
+elementType: control
+externalId: EMB-06
+parent: emb
+controlQuestion: Does the organization protect embedded devices by preventing the unauthorized installation and execution of software?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

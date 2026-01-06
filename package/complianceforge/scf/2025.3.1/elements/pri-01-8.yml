@@ -1,0 +1,39 @@
+id: 25c1e664-ec14-4be9-83df-c9ea8a7e11c7
+name: Data Fiduciary
+description: "Mechanisms exist to appoint an individual to determine the following criteria about Personal Data (PD):\r\n(1) The purpose why PD is necessary; \r\n(2) Authorized methods to collect, receive, process, store, transmit and dispose PD; and\r\n(3) Authorized parties PD may be shared with."
+elementType: enhancement
+externalId: PRI-01.8
+parent: pri-01
+controlQuestion: "Does the organization appoint an individual to determine the following criteria about Personal Data (PD):\r\n(1) The purpose why PD is necessary; \r\n(2) Authorized methods to collect, receive, process, store, transmit and dispose PD; and\r\n(3) Authorized parties PD may be shared with?"
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

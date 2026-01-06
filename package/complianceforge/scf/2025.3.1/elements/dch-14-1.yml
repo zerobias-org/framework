@@ -1,0 +1,39 @@
+id: f3d9a40d-192c-4527-b044-7a30b3688a66
+name: Information Search & Retrieval
+description: Mechanisms exist to ensure Technology Assets, Applications and/or Services (TAAS) implement data search and retrieval functions that properly enforce data protection / sharing restrictions.
+elementType: enhancement
+externalId: DCH-14.1
+parent: dch-14
+controlQuestion: Does the organization ensure Technology Assets, Applications and/or Services (TAAS) implement data search and retrieval functions that properly enforce data protection / sharing restrictions?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
