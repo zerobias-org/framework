@@ -1,0 +1,39 @@
+id: 6e5318fe-2453-4f9d-92d8-96bc321a18d9
+name: Information Assurance (IA) Operations
+description: Mechanisms exist to facilitate the implementation of cybersecurity and data protection assessment and authorization controls.
+elementType: control
+externalId: IAO-01
+parent: iao
+controlQuestion: Does the organization facilitate the implementation of cybersecurity and data protection assessment and authorization controls?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

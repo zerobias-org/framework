@@ -1,0 +1,39 @@
+id: d8c08b79-d863-40ed-8e77-1819f306cc81
+name: Secure Development Environments
+description: Mechanisms exist to maintain a segmented development network to ensure a secure development environment.
+elementType: control
+externalId: TDA-07
+parent: tda
+controlQuestion: Does the organization maintain a segmented development network to ensure a secure development environment?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
