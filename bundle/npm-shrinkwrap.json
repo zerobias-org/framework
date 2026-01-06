@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-bundle",
-      "version": "0.0.21",
+      "version": "0.0.22",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/framework-au-aee-v1": "1.1.1",
@@ -20,6 +20,7 @@
         "@zerobias-org/framework-cncf-sscp-v1": "1.0.0",
         "@zerobias-org/framework-complianceforge-scf-2025.2.1": "1.0.1",
         "@zerobias-org/framework-complianceforge-scf-2025.2.2": "1.0.1",
+        "@zerobias-org/framework-complianceforge-scf-2025.3.1": "1.0.1",
         "@zerobias-org/framework-dod-ztra-v2": "1.3.1",
         "@zerobias-org/framework-es-boe-v2022": "1.1.0",
         "@zerobias-org/framework-es-royaldecree-2022": "1.1.0",
@@ -470,6 +471,16 @@
       "version": "1.0.1",
       "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-complianceforge-scf-2025.2.2/-/framework-complianceforge-scf-2025.2.2-1.0.1.tgz",
       "integrity": "sha512-ILus+PRi9eLvao9B8tsQhsAYNYczuRj08v9RfBSKePrFVfENmL/GPBcSqDf45fkII1fxlc1wIYVo+ZaXcuhH6g==",
+      "engines": {
+        "node": ">=16.11.0",
+        "npm": ">=8.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/framework-complianceforge-scf-2025.3.1": {
+      "version": "1.0.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-complianceforge-scf-2025.3.1/-/framework-complianceforge-scf-2025.3.1-1.0.1.tgz",
+      "integrity": "sha512-lfd2hYQzPTD8Ao01Myay35xHZXP7lVrwFNjnW/yJLmLpIIy5qI69rxIxzW7uDv6tw1V/YrRAxLWZAnK3/BaVAQ==",
+      "license": "MIT",
       "engines": {
         "node": ">=16.11.0",
         "npm": ">=8.0.0"
@@ -5872,6 +5883,11 @@
       "version": "1.0.1",
       "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-complianceforge-scf-2025.2.2/-/framework-complianceforge-scf-2025.2.2-1.0.1.tgz",
       "integrity": "sha512-ILus+PRi9eLvao9B8tsQhsAYNYczuRj08v9RfBSKePrFVfENmL/GPBcSqDf45fkII1fxlc1wIYVo+ZaXcuhH6g=="
+    },
+    "@zerobias-org/framework-complianceforge-scf-2025.3.1": {
+      "version": "1.0.1",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/framework-complianceforge-scf-2025.3.1/-/framework-complianceforge-scf-2025.3.1-1.0.1.tgz",
+      "integrity": "sha512-lfd2hYQzPTD8Ao01Myay35xHZXP7lVrwFNjnW/yJLmLpIIy5qI69rxIxzW7uDv6tw1V/YrRAxLWZAnK3/BaVAQ=="
     },
     "@zerobias-org/framework-dod-ztra-v2": {
       "version": "1.3.1",
