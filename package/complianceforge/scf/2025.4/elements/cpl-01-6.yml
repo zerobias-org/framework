@@ -1,0 +1,39 @@
+id: 2b84c2ee-644e-438a-ba71-33e97389fc25
+name: Assessment Team Subject Matter Expertise
+description: "Mechanisms exist to ensure individuals performing audits and/or assessments have reasonable:\r\n(1) Professional qualifications to perform the audit and/or assessment; and\r\n(2) Subject matter expertise to perform review, interview and test activities for in-scope People, Processes, Technologies, Data and/or Facilities (PPTDF)."
+elementType: enhancement
+externalId: CPL-01.6
+parent: cpl-01
+controlQuestion: "Does the organization ensure individuals performing audits and/or assessments have reasonable:\r\n(1) Professional qualifications to perform the audit and/or assessment; and\r\n(2) Subject matter expertise to perform review, interview and test activities for in-scope People, Processes, Technologies, Data and/or Facilities (PPTDF)?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

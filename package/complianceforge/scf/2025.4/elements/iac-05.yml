@@ -1,0 +1,39 @@
+id: 5bd8821b-de63-4fb5-8b43-58978638785e
+name: Identification & Authentication for Third-Party Technology Assets, Applications and/or Services (TAAS)
+description: Mechanisms exist to identify and authenticate third-party Technology Assets, Applications and/or Services (TAAS).
+elementType: control
+externalId: IAC-05
+parent: iac
+controlQuestion: Does the organization identify and authenticate third-party Technology Assets, Applications and/or Services (TAAS)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

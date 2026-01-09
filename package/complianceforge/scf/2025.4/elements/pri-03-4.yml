@@ -1,0 +1,39 @@
+id: 190ec1d8-df10-4a8c-af15-d5be1dd58857
+name: Revoke Consent
+description: Mechanisms exist to allow data subjects to revoke consent to collect, receive, process, store, transmit, share and/or update their Personal Data (PD).
+elementType: enhancement
+externalId: PRI-03.4
+parent: pri-03
+controlQuestion: Does the organization allow data subjects to revoke consent to collect, receive, process, store, transmit, share and/or update their Personal Data (PD)?
+functionGrouping: Respond
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

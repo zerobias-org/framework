@@ -1,0 +1,39 @@
+id: e56ec603-66d0-41de-b226-1fe4a6bc59b4
+name: Data Management Board
+description: Mechanisms exist to establish a written charter for a Data Management Board (DMB) and assigned organization-defined roles to the DMB.
+elementType: control
+externalId: PRI-13
+parent: pri
+controlQuestion: Does the organization establish a written charter for a Data Management Board (DMB) and assigned organization-defined roles to the DMB?
+functionGrouping: Identify
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

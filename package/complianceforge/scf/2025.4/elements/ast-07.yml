@@ -1,0 +1,39 @@
+id: 5dfe5d80-08f7-486b-b3b1-96a53b1d99d6
+name: Kiosks & Point of Interaction (PoI) Devices
+description: Mechanisms exist to appropriately protect devices that capture sensitive/regulated data via direct physical interaction from tampering and substitution.
+elementType: control
+externalId: AST-07
+parent: ast
+controlQuestion: Does the organization appropriately protect devices that capture sensitive/regulated data via direct physical interaction from tampering and substitution?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

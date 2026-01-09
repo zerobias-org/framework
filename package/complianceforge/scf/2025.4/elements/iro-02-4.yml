@@ -1,0 +1,39 @@
+id: 0fff2a60-e68b-4bd3-8528-2560eadd9c8e
+name: Incident Classification & Prioritization
+description: Mechanisms exist to identify classes of incidents and actions to take to ensure the continuation of organizational missions and business functions.
+elementType: enhancement
+externalId: IRO-02.4
+parent: iro-02
+controlQuestion: Does the organization identify classes of incidents and actions to take to ensure the continuation of organizational missions and business functions?
+functionGrouping: Respond
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 056c57bb-237e-42dc-b1b7-b26bd85f4b43
+name: Instances Requiring A Risk Assessment
+description: Mechanisms exist to define instances that require a risk assessment to be performed.
+elementType: enhancement
+externalId: RSK-04.3
+parent: rsk-04
+controlQuestion: Does the organization define instances that require a risk assessment to be performed?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: e4374a98-7ed3-44a1-910b-1293cdcbf25d
+name: Prevent Unauthorized Software Execution
+description: Mechanisms exist to configure systems to prevent the execution of unauthorized software programs.
+elementType: enhancement
+externalId: CFG-03.2
+parent: cfg-03
+controlQuestion: Does the organization configure systems to prevent the execution of unauthorized software programs?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

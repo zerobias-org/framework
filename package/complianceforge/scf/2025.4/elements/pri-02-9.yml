@@ -1,0 +1,39 @@
+id: 3c12059e-2ed2-4999-8f0d-a8ce55eb2730
+name: Privacy Notice Formatting
+description: "Mechanisms exist to reasonably accommodate data privacy notice formatting for consumers requiring alternative formatting due to accessibility needs through:\r\n(1) Screen resolution / screen sizes;\r\n(2) Multilingual support; and/or\r\n(3) Disability-specific concessions."
+elementType: enhancement
+externalId: PRI-02.9
+parent: pri-02
+controlQuestion: "Does the organization reasonably accommodate data privacy notice formatting for consumers requiring alternative formatting due to accessibility needs through:\r\n(1) Screen resolution / screen sizes;\r\n(2) Multilingual support; and/or\r\n(3) Disability-specific concessions?"
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 60cc2356-8a46-41bf-a3ad-5df79808c6ee
+name: Mergers, Acquisitions & Divestitures (MA&D)
+description: Mechanisms exist to define standardized practices to conduct Mergers, Acquisitions and Divestiture (MA&D) activities.
+elementType: control
+externalId: GOV-20
+parent: gov
+controlQuestion: Does the organization define standardized practices to conduct Mergers, Acquisitions and Divestiture (MA&D) activities?
+functionGrouping: Govern
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

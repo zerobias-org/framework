@@ -1,0 +1,39 @@
+id: 3358a851-0326-4afd-bdd1-181f50fbf418
+name: Onboarding, Transferring & Offboarding Personnel
+description: "Mechanisms exist to proactively govern the following personnel management actions:\r\n(1) Onboarding new personnel (e.g., new hires);\r\n(2) Transferring personnel into new roles within the organization; and \r\n(3) Offboarding personnel (e.g., termination of employment)."
+elementType: enhancement
+externalId: HRS-01.1
+parent: hrs-01
+controlQuestion: "Does the organization proactively govern the following personnel management actions:\r\n(1) Onboarding new personnel (e.g., new hires);\r\n(2) Transferring personnel into new roles within the organization; and \r\n(3) Offboarding personnel (e.g., termination of employment)?"
+functionGrouping: Govern
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

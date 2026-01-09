@@ -1,0 +1,39 @@
+id: f6bed1db-b871-43d2-9476-3cb1213a528f
+name: Ethics, Fairness & Bias Detection
+description: Mechanisms exist to detect unfair, unethical or biased AI agent actions.
+elementType: enhancement
+externalId: AAT-29.22
+parent: aat-29
+controlQuestion: Does the organization detect unfair, unethical or biased AI agent actions?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

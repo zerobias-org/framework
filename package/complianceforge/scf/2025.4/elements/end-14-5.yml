@@ -1,0 +1,39 @@
+id: ded09d97-bdff-47dc-8329-96fd198a6fa4
+name: Malicious Link & File Protections
+description: Automated mechanisms exist to detect malicious links and/or files in communications and prevent users from accessing those malicious links and/or files.
+elementType: enhancement
+externalId: END-14.5
+parent: end-14
+controlQuestion: Does the organization use automated mechanisms to detect malicious links and/or files in communications and prevent users from accessing those malicious links and/or files?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

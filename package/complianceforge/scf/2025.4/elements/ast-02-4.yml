@@ -1,0 +1,39 @@
+id: 71b3e22a-1124-4cd7-8bc6-a7c0d114d81c
+name: Approved Baseline Deviations
+description: Mechanisms exist to document and govern instances of approved deviations from established baseline configurations.
+elementType: enhancement
+externalId: AST-02.4
+parent: ast-02
+controlQuestion: Does the organization document and govern instances of approved deviations from established baseline configurations?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
