@@ -47,19 +47,31 @@ export class ExcelParser {
 
   private extractVersion(filePath: string): string {
     const filename = filePath.split('/').pop() || '';
-    
-    // Try old pattern: "secure-controls-framework-scf-2025-2-1.xlsx"
+
+    // Try 3-part version pattern: "secure-controls-framework-scf-2025-2-1.xlsx"
     let match = filename.match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/i);
     if (match) {
       return `${match[1]}.${match[2]}.${match[3]}`;
     }
-    
-    // Try new pattern: "Secure.Controls.Framework.SCF.-.2025.2.2.xlsx"
+
+    // Try 2-part version pattern: "secure-controls-framework-scf-2025-4.xlsx"
+    match = filename.match(/scf-(\d+)-(\d+)\.xlsx$/i);
+    if (match) {
+      return `${match[1]}.${match[2]}`;
+    }
+
+    // Try 3-part dot pattern: "Secure.Controls.Framework.SCF.-.2025.2.2.xlsx"
     match = filename.match(/(\d{4})\.(\d+)\.(\d+)\.xlsx$/i);
     if (match) {
       return `${match[1]}.${match[2]}.${match[3]}`;
     }
-    
+
+    // Try 2-part dot pattern: "...2025.4.xlsx"
+    match = filename.match(/(\d{4})\.(\d+)\.xlsx$/i);
+    if (match) {
+      return `${match[1]}.${match[2]}`;
+    }
+
     // Fallback to current date-based version
     const date = new Date();
     return `${date.getFullYear()}.${date.getMonth() + 1}.${date.getDate()}`;
@@ -89,25 +101,46 @@ export class ExcelParser {
       throw new Error('Workbook not loaded');
     }
 
-    // Create dynamic search keywords based on version
+    // First, try to find an exact match for "SCF {version}" worksheet (e.g., "SCF 2025.4")
+    // This is the format used in newer SCF releases where controls are in a version-specific sheet
+    const exactVersionSheet = this.workbook.SheetNames.find(name => {
+      const lowerName = name.toLowerCase().trim();
+      const versionMatch = `scf ${version}`.toLowerCase();
+      return lowerName === versionMatch;
+    });
+
+    if (exactVersionSheet) {
+      logger.info(`Found exact version controls worksheet: ${exactVersionSheet}`);
+      const worksheet = this.workbook.Sheets[exactVersionSheet];
+      const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+      return this.processControlData(jsonData as any[][]);
+    }
+
+    // Create dynamic search keywords based on version, excluding domains-related sheets
     const versionKeywords = [
       `scf ${version}`,
       `scf ${version.split('.')[0]}`, // e.g., "scf 2025" from "2025.2.1"
-      'scf',
-      'controls',
-      'framework'
     ];
-    
+
     // Look for the main SCF controls worksheet with dynamic version matching
-    const controlSheetName = this.findSheetByName(versionKeywords);
+    // Exclude sheets that contain "domains" or "principles" as those are domain sheets
+    const controlSheetName = this.findControlSheetByName(versionKeywords);
     if (!controlSheetName) {
+      // Fallback: look for any sheet with SCF controls structure by checking headers
+      const sheetWithControls = this.findSheetWithControlHeaders();
+      if (sheetWithControls) {
+        logger.info(`Found controls worksheet by header detection: ${sheetWithControls}`);
+        const worksheet = this.workbook.Sheets[sheetWithControls];
+        const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+        return this.processControlData(jsonData as any[][]);
+      }
       throw new Error('No SCF controls worksheet found');
     }
 
     logger.info(`Found controls worksheet: ${controlSheetName}`);
     const worksheet = this.workbook.Sheets[controlSheetName];
     const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
-    
+
     return this.processControlData(jsonData as any[][]);
   }
 
@@ -130,6 +163,67 @@ export class ExcelParser {
         if (lowerSheetName.includes(keyword.toLowerCase())) {
           return sheetName;
         }
+      }
+    }
+    return null;
+  }
+
+  /**
+   * Finds a control sheet by name, excluding domain-related sheets.
+   * This prevents accidentally selecting "SCF Domains & Principles" when looking for controls.
+   */
+  private findControlSheetByName(keywords: string[]): string | null {
+    if (!this.workbook) return null;
+
+    const excludePatterns = ['domains', 'principles', 'authoritative', 'assessment', 'evidence', 'risk', 'threat', 'lists', 'privacy'];
+
+    // Try exact matches first
+    for (const keyword of keywords) {
+      for (const sheetName of this.workbook.SheetNames) {
+        const lowerSheetName = sheetName.toLowerCase();
+        // Skip excluded sheets
+        if (excludePatterns.some(pattern => lowerSheetName.includes(pattern))) {
+          continue;
+        }
+        if (lowerSheetName === keyword.toLowerCase()) {
+          return sheetName;
+        }
+      }
+    }
+
+    // Then try partial matches, still excluding domain sheets
+    for (const keyword of keywords) {
+      for (const sheetName of this.workbook.SheetNames) {
+        const lowerSheetName = sheetName.toLowerCase();
+        // Skip excluded sheets
+        if (excludePatterns.some(pattern => lowerSheetName.includes(pattern))) {
+          continue;
+        }
+        if (lowerSheetName.includes(keyword.toLowerCase())) {
+          return sheetName;
+        }
+      }
+    }
+    return null;
+  }
+
+  /**
+   * Finds a worksheet that contains the expected control headers.
+   * This is a fallback method when name-based matching fails.
+   */
+  private findSheetWithControlHeaders(): string | null {
+    if (!this.workbook) return null;
+
+    const controlHeaders = ['SCF #', 'SCF Control'];
+
+    for (const sheetName of this.workbook.SheetNames) {
+      const worksheet = this.workbook.Sheets[sheetName];
+      const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 }) as any[][];
+
+      // Check first 10 rows for headers
+      const headerRow = this.findHeaderRow(jsonData, controlHeaders);
+      if (headerRow !== -1) {
+        return sheetName;
       }
     }
     return null;

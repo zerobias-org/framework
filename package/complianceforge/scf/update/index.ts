@@ -444,7 +444,7 @@ class SCFUpdater {
 
   private getCurrentVersion(): string | undefined {
     if (!fs.existsSync(this.config.localCachePath)) return undefined;
-    
+
     const excelFiles = fs.readdirSync(this.config.localCachePath)
       .filter(file => {
         const fileLower = file.toLowerCase();
@@ -454,28 +454,40 @@ class SCFUpdater {
           fileLower.includes('scf')
         );
       });
-    
+
     if (excelFiles.length === 0) return undefined;
-    
+
     // Try multiple version extraction patterns
     const filename = excelFiles[0];
-    
-    // Pattern 1: "secure-controls-framework-scf-2025-2-1.xlsx"
+
+    // Pattern 1: 3-part version "secure-controls-framework-scf-2025-2-1.xlsx"
     let match = filename.match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/i);
     if (match) return `${match[1]}.${match[2]}.${match[3]}`;
-    
-    // Pattern 2: "Secure Controls Framework (SCF) - 2025.2.2.xlsx"
+
+    // Pattern 2: 2-part version "secure-controls-framework-scf-2025-4.xlsx"
+    match = filename.match(/scf-(\d+)-(\d+)\.xlsx$/i);
+    if (match) return `${match[1]}.${match[2]}`;
+
+    // Pattern 3: "Secure Controls Framework (SCF) - 2025.2.2.xlsx" (3-part)
     match = filename.match(/(\d{4})\.(\d+)\.(\d+)\.xlsx$/i);
     if (match) return `${match[1]}.${match[2]}.${match[3]}`;
-    
-    // Pattern 3: Version in parentheses or after hyphen "SCF - 2025.2.2.xlsx" or "(2025.2.2)"
+
+    // Pattern 4: "...2025.4.xlsx" (2-part)
+    match = filename.match(/(\d{4})\.(\d+)\.xlsx$/i);
+    if (match) return `${match[1]}.${match[2]}`;
+
+    // Pattern 5: Version in parentheses or after hyphen "SCF - 2025.2.2.xlsx" or "(2025.2.2)"
     match = filename.match(/[\s\-\(](\d{4})\.(\d+)\.(\d+)/i);
     if (match) return `${match[1]}.${match[2]}.${match[3]}`;
-    
-    // Pattern 4: Version with underscores "scf_2025_2_2.xlsx"
+
+    // Pattern 6: 2-part version in parentheses "SCF - 2025.4.xlsx"
+    match = filename.match(/[\s\-\(](\d{4})\.(\d+)/i);
+    if (match) return `${match[1]}.${match[2]}`;
+
+    // Pattern 7: Version with underscores "scf_2025_2_2.xlsx"
     match = filename.match(/(\d{4})[_\.](\d+)[_\.](\d+)/i);
     if (match) return `${match[1]}.${match[2]}.${match[3]}`;
-    
+
     logger.warning(`Could not extract version from filename: ${filename}`);
     return undefined;
   }
