@@ -1,0 +1,39 @@
+id: 077b7ad8-fb02-4bc1-9af8-64930044ae50
+name: Notice of Correction or Processing Change
+description: Mechanisms exist to notify affected data subjects if their Personal Data (PD) has been corrected, amended or deleted.
+elementType: enhancement
+externalId: PRI-06.2
+parent: pri-06
+controlQuestion: Does the organization notify affected data subjects if their Personal Data (PD) has been corrected, amended or deleted?
+functionGrouping: Respond
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

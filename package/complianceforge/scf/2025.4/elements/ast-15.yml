@@ -1,0 +1,39 @@
+id: 73992fe4-d51a-4fac-bb06-d7bec0da4856
+name: Logical Tampering Protection
+description: "Mechanisms exist to assess the integrity of critical Technology Assets, Applications and/or Services (TAAS) to detect evidence of tampering, where:\r\n(1)\tLogical assessments evaluate the integrity of critical components (e.g., configuration settings); and\r\n(2)\tPhysical assessments evaluate assets for evidence of unauthorized access and/or modifications."
+elementType: control
+externalId: AST-15
+parent: ast
+controlQuestion: "Does the organization assess the integrity of critical Technology Assets, Applications and/or Services (TAAS) to detect evidence of tampering, where:\r\n(1)\tLogical assessments evaluate the integrity of critical components (e.g., configuration settings); and\r\n(2)\tPhysical assessments evaluate assets for evidence of unauthorized access and/or modifications?"
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

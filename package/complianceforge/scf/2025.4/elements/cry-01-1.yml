@@ -1,0 +1,39 @@
+id: c60a6ca5-da92-4631-bf8a-b2dbe2982fd7
+name: Alternate Physical Protection
+description: Cryptographic mechanisms exist to prevent unauthorized disclosure of information as an alternative to physical safeguards.
+elementType: enhancement
+externalId: CRY-01.1
+parent: cry-01
+controlQuestion: Are cryptographic mechanisms utilized to prevent unauthorized disclosure of information as an alternative to physical safeguards?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

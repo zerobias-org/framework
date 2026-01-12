@@ -1,0 +1,39 @@
+id: e754d870-34ba-44f5-aa14-182768c0ba5c
+name: Acceptance of PIV Credentials from Other Organizations
+description: Mechanisms exist to accept and electronically verify Personal Identity Verification (PIV) credentials from third-parties.
+elementType: enhancement
+externalId: IAC-03.1
+parent: iac-03
+controlQuestion: Does the organization accept and electronically verify Personal Identity Verification (PIV) credentials from third-parties?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 82cc861c-0108-41d7-824b-c4b06fb41c9f
+name: Identifying Authorized Work Locations
+description: "Mechanisms exist to identify and document authorized working locations, including:\r\n(1) Designated on-premises, organization-controlled work locations; and\r\n(2) Other off-premises locations not under organization-control (e.g., work from home)."
+elementType: control
+externalId: HRS-14
+parent: hrs
+controlQuestion: "Does the organization identity and document authorized working locations, including:\r\n(1) Designated on-premises, organization-controlled work locations; and\r\n(2) Other off-premises locations not under organization-control (e.g., work from home)?"
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

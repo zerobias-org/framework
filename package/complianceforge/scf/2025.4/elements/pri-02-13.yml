@@ -1,0 +1,39 @@
+id: e9107157-d032-4c0d-bb3e-a1b2d3793d2d
+name: Notice of Right To Limit
+description: "Mechanisms exist to include within the data privacy notice a notification to data subjects of:\r\n(1) Their right to limit the use and disclosure of their sensitive Personal Data (sPD); and\r\n(2) The methods available to exercise that right."
+elementType: enhancement
+externalId: PRI-02.13
+parent: pri-02
+controlQuestion: "Does the organization include within the data privacy notice a notification to data subjects of:\r\n(1) Their right to limit the use and disclosure of their sensitive Personal Data (sPD); and\r\n(2) The methods available to exercise that right?"
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

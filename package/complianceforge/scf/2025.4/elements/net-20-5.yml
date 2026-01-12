@@ -1,0 +1,39 @@
+id: 00a3c732-02a0-4b3a-a421-16414ca73e70
+name: User Digital Signatures for Outgoing Email
+description: Mechanisms exist to enable users to digitally sign their emails, allowing external parties to authenticate the email’s sender and its contents according to the Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication protocol.
+elementType: enhancement
+externalId: NET-20.5
+parent: net-20
+controlQuestion: Does the organization enable users to digitally sign their emails, allowing external parties to authenticate the email’s sender and its contents according to the Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication protocol?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

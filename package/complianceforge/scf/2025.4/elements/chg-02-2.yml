@@ -1,0 +1,39 @@
+id: 03a8c93b-75ae-470a-aa93-1c452867902d
+name: Test, Validate & Document Changes
+description: Mechanisms exist to appropriately test and document proposed changes in a non-production environment before changes are implemented in a production environment.
+elementType: enhancement
+externalId: CHG-02.2
+parent: chg-02
+controlQuestion: Does the organization appropriately test and document proposed changes in a non-production environment before changes are implemented in a production environment?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

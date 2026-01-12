@@ -1,0 +1,39 @@
+id: 1a3ae7e3-ad38-4504-8461-3cc647df6c50
+name: Return of Assets
+description: Mechanisms exist to ensure that employees and third-party users return all organizational assets in their possession upon termination of employment, contract or agreement.
+elementType: control
+externalId: AST-10
+parent: ast
+controlQuestion: Does the organization ensure that employees and third-party users return all organizational assets in their possession upon termination of employment, contract or agreement?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

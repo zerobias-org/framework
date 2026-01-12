@@ -1,0 +1,39 @@
+id: 3dd4c1f6-189b-411b-94b8-6d83d4b7bcf9
+name: Cloud Infrastructure Onboarding
+description: Mechanisms exist to ensure cloud services are designed and configured so Technology Assets, Applications and/or Services (TAAS) are secured in accordance with applicable organizational standards, as well as statutory, regulatory and contractual obligations.
+elementType: enhancement
+externalId: CLD-01.1
+parent: cld-01
+controlQuestion: Does the organization ensure cloud services are designed and configured so Technology Assets, Applications and/or Services (TAAS) are secured in accordance with applicable organizational standards, as well as statutory, regulatory and contractual obligations?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
