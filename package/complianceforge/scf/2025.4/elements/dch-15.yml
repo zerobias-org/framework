@@ -1,0 +1,39 @@
+id: 4712171c-ea0b-48e9-bb6a-3a1f8cb8579d
+name: Publicly Accessible Content
+description: Mechanisms exist to control publicly-accessible content.
+elementType: control
+externalId: DCH-15
+parent: dch
+controlQuestion: Does the organization control publicly-accessible content?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 37c592d7-9ee4-4711-8096-9f294150a080
+name: Software / Firmware Integrity Verification
+description: Mechanisms exist to require developers of Technology Assets, Applications and/or Services (TAAS) to enable integrity verification of software and firmware components.
+elementType: enhancement
+externalId: TDA-14.1
+parent: tda-14
+controlQuestion: Does the organization require developers of Technology Assets, Applications and/or Services (TAAS) to enable integrity verification of software and firmware components?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

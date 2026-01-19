@@ -1,0 +1,39 @@
+id: 463069e3-fc16-4b6f-a7d6-58fad2c093bf
+name: Risk Treatment Options
+description: Mechanisms exist to select appropriate risk treatment options, based on applicable risk assessment findings.
+elementType: enhancement
+externalId: RSK-06.3
+parent: rsk-06
+controlQuestion: Does the organization select appropriate risk treatment options, based on applicable risk assessment findings?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

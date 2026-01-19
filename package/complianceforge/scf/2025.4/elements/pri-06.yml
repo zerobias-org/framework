@@ -1,0 +1,39 @@
+id: 7ba23f0f-e377-4a96-87d9-fe41ef01e410
+name: Data Subject Empowerment
+description: "Mechanisms exist to provide authenticated data subjects the ability to:\r\n(1) Access their Personal Data (PD) that is being processed, stored and shared, except where the burden, risk or expense of providing access would be disproportionate to the benefit offered to the data subject through granting access;\r\n(2) Obtain answers on the specifics of how their PD is collected, received, processed, stored, transmitted, shared, updated and/or disposed; \r\n(3) Obtain the source(s) of their PD; \r\n(4) Obtain the categories of their PD being collected, received, processed, stored and shared; \r\n(5) Request correction to their PD due to inaccuracies;\r\n(6) Request erasure of their PD; and\r\n(7) Restrict the further collecting, receiving, processing, storing, transmitting, updated and/or sharing of their PD."
+elementType: control
+externalId: PRI-06
+parent: pri
+controlQuestion: "Does the organization provide authenticated data subjects the ability to:\r\n (1) Access their Personal Data (PD) that is being processed, stored and shared, except where the burden, risk or expense of providing access would be disproportionate to the benefit offered to the data subject through granting access;\r\n (2) Obtain answers on the specifics of how their PD is collected, received, processed, stored, transmitted, shared, updated and/or disposed; \r\n (3) Obtain the source(s) of their PD; \r\n (4) Obtain the categories of their PD being collected, received, processed, stored and shared; \r\n (5) Request correction to their PD due to inaccuracies;\r\n (6) Request erasure of their PD; and\r\n (7) Restrict the further collecting, receiving, processing, storing, transmitting, updated and/or sharing of their PD?"
+functionGrouping: Identify
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 304eb782-17bb-4c94-94fe-9e186e6f46ac
+name: Unattended End-User Equipment
+description: Mechanisms exist to implement enhanced protection measures for unattended technology assets to protect against tampering and unauthorized access.
+elementType: control
+externalId: AST-06
+parent: ast
+controlQuestion: Does the organization implement enhanced protection measures for unattended technology assets to protect against tampering and unauthorized access?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

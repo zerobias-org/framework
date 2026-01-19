@@ -1,0 +1,39 @@
+id: 0fe52349-41e9-457e-b62c-62c482eb9ded
+name: Functional Review Of Cybersecurity & Data Protection Controls
+description: Mechanisms exist to regularly review Technology Assets, Applications and/or Services (TAAS) for adherence to the organization's cybersecurity and data protection policies and standards.
+elementType: enhancement
+externalId: CPL-03.2
+parent: cpl-03
+controlQuestion: Does the organization regularly review Technology Assets, Applications and/or Services (TAAS) for adherence to its cybersecurity and data protection policies and standards?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
