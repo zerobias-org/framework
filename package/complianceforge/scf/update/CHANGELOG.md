@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.3-rc.0 (2026-01-20)
+
+
+### Bug Fixes
+
+* **scf-update:** handle SCF 2025.4 Excel format changes ([aeca670](https://github.com/zerobias-org/framework/commit/aeca670eb21c8c4101e6d39ade4f3e0ac956aea7))
+
+
+
+
+
 ## 1.1.2 (2026-01-09)
 
 
