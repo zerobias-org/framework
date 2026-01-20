@@ -1,0 +1,39 @@
+id: 95f0ac13-98b2-4d38-be38-963bffce8fb0
+name: Updating Personal Data (PD) Process
+description: "Mechanisms exist to identify and record:\r\n(1) The process(es) used to update Personal Data (PD); and\r\n(2) The frequency that such updates occur."
+elementType: control
+externalId: PRI-12
+parent: pri
+controlQuestion: "Does the organization identify and record:\r\n(1) The process(es) used to update Personal Data (PD); and\r\n(2) The frequency that such updates occur?"
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

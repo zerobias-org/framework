@@ -1,0 +1,39 @@
+id: fb3dc3f6-9d72-408a-b7c9-1a3e588fccf1
+name: Insider Threats
+description: Mechanisms exist to monitor internal personnel activity for potential security incidents.
+elementType: enhancement
+externalId: MON-16.1
+parent: mon-16
+controlQuestion: Does the organization monitor internal personnel activity for potential security incidents?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

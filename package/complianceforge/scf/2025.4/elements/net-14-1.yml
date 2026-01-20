@@ -1,0 +1,39 @@
+id: 462bca5e-c405-416b-8598-de8b681b5526
+name: Automated Monitoring & Control
+description: Automated mechanisms exist to monitor and control remote access sessions.
+elementType: enhancement
+externalId: NET-14.1
+parent: net-14
+controlQuestion: Does the organization use automated mechanisms to monitor and control remote access sessions?
+functionGrouping: Detect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

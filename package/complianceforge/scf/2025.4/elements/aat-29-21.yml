@@ -1,0 +1,39 @@
+id: 505cf180-5d0a-4555-a3d0-eb41d3c95e02
+name: Explainability
+description: "Mechanisms exist to:\r\n(1) Provide human-understandable explanations for significant AI agent actions or decisions; and \r\n(2) Enable users to contest outcomes."
+elementType: enhancement
+externalId: AAT-29.21
+parent: aat-29
+controlQuestion: "Does the organization:\r\n(1) Provide human-understandable explanations for significant AI agent actions or decisions; and \r\n(2) Enable users to contest outcomes?"
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

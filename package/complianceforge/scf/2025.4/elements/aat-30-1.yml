@@ -1,0 +1,39 @@
+id: 521f53e7-699b-4e3e-976a-a01eab57cf54
+name: AI Agent Logging
+description: Mechanisms exist to generate event logs for Artificial Intelligence (AI) and Autonomous Technologies (AAT) actions to ensure transparency and auditability.
+elementType: enhancement
+externalId: AAT-30.1
+parent: aat-30
+controlQuestion: Does the organization generate event logs for Artificial Intelligence (AI) and Autonomous Technologies (AAT) actions to ensure transparency and auditability?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

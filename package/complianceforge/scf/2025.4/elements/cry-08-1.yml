@@ -1,0 +1,39 @@
+id: b9443f74-83ef-4dd1-a383-ef57c1b7a422
+name: Availability
+description: Resiliency mechanisms exist to ensure the availability of data in the event of the loss of cryptographic keys.
+elementType: enhancement
+externalId: CRY-08.1
+parent: cry-08
+controlQuestion: Does the organization ensure the availability of data in the event of the loss of cryptographic keys?
+functionGrouping: Recover
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 6f8344e8-bf28-4162-9806-883e3bbc1df5
+name: Software Defined Storage (SDS)
+description: Automated mechanisms exist to utilize Software Defined Storage (SDS) to scale access management permissions to Technology Assets, Applications, Services and/or Data (TAASD).
+elementType: control
+externalId: CLD-15
+parent: cld
+controlQuestion: Does the organization utilize Software Defined Storage (SDS) to scale access management permissions to Technology Assets, Applications, Services and/or Data (TAASD)?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

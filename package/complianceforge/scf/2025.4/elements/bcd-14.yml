@@ -1,0 +1,39 @@
+id: 257a07a7-3c93-4c2b-bcc2-0bc8b7d6cf55
+name: Isolated Recovery Environment
+description: Mechanisms exist to utilize an isolated, non-production environment to perform data backup and recovery operations through offline, cloud or off-site capabilities.
+elementType: control
+externalId: BCD-14
+parent: bcd
+controlQuestion: Does the organization utilize an isolated, non-production environment to perform data backup and recovery operations through offline, cloud or off-site capabilities?
+functionGrouping: Recover
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

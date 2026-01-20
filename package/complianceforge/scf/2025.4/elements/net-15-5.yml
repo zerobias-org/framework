@@ -1,0 +1,39 @@
+id: fb42912b-a8cb-4c4a-83c2-ce093aa3f36f
+name: Rogue Wireless Detection
+description: Mechanisms exist to test for the presence of Wireless Access Points (WAPs) and identify all authorized and unauthorized WAPs within the facility(ies).
+elementType: enhancement
+externalId: NET-15.5
+parent: net-15
+controlQuestion: Does the organization test for the presence of Wireless Access Points (WAPs) and identify all authorized and unauthorized WAPs within the facility(ies)?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

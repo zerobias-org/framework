@@ -1,0 +1,39 @@
+id: 3afea3f3-ab86-4813-83da-4f780b94aa09
+name: Product Conformity Governance
+description: "Mechanisms exist to ensure developed Technology Assets, Applications and/or Services (TAAS) conform to applicable statutory and regulatory requirements, based on the product's and/or service's:\r\n(1) Use case(s); and\r\n(2) Geographic markets."
+elementType: control
+externalId: TDA-21
+parent: tda
+controlQuestion: "Does the organization ensure developed Technology Assets, Applications and/or Services (TAAS) conform to applicable statutory and regulatory requirements, based on the product's and/or service's:\r\n(1) Use case(s); and\r\n(2) Geographic markets?"
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
