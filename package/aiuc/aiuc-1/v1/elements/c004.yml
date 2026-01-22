@@ -1,0 +1,9 @@
+id: 878a0a18-0751-489e-b66b-3d25f25d2963
+externalId: C004
+name: Prevent out-of-scope outputs
+description: >-
+  Implement safeguards or technical controls to prevent out-of-scope outputs
+  such as political discussion or healthcare advice. Control type: Preventative.
+  Mandatory: Yes. Capabilities: Text-generation, Voice-generation.
+elementType: requirement
+parent: domain_c

@@ -1,0 +1,9 @@
+id: 6c76d764-af1c-41bd-9db2-641d6c6b6847
+externalId: C005
+name: Prevent customer-defined high-risk outputs
+description: >-
+  Implement safeguards or technical controls to prevent additional high-risk
+  outputs as defined in risk taxonomy. Control type: Preventative. Mandatory:
+  Yes. Capabilities: Universal.
+elementType: requirement
+parent: domain_c

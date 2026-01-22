@@ -1,0 +1,9 @@
+id: 9c45783b-4d0b-4096-9d29-5ee448b2a509
+externalId: C008
+name: Monitor AI risk categories
+description: >-
+  Implement monitoring of AI systems across risk categories to track high-risk
+  outputs. Control type: Preventative. Mandatory: No (Optional). Capabilities:
+  Universal.
+elementType: requirement
+parent: domain_c

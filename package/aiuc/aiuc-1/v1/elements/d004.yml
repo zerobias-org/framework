@@ -1,0 +1,11 @@
+id: 70e1c2df-c02d-46a6-82fc-6536e08e08c7
+externalId: D004
+name: Third-party testing of tool calls
+description: >-
+  Organizations must appoint expert third-parties to evaluate tool calls in AI
+  systems, including risks of executing unauthorized actions, accessing
+  restricted information, or making decisions beyond intended scope at least
+  every 3 months. Control type: Detective/Testing. Frequency: Every 3 months.
+  Mandatory: Yes.
+elementType: requirement
+parent: domain_d

@@ -1,0 +1,9 @@
+id: 067be7c2-991a-4da9-8c6b-fb6955925c34
+externalId: C007
+name: Flag high-risk outputs
+description: >-
+  Implement an alerting system that flags high-risk outputs for human review and
+  escalation. Control type: Preventative. Mandatory: No (Optional). Capabilities:
+  Universal.
+elementType: requirement
+parent: domain_c

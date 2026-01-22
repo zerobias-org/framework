@@ -1,0 +1,9 @@
+id: 54fc1129-33cf-4647-8357-3a1729819117
+externalId: B002
+name: Detect adversarial input
+description: >-
+  Implement monitoring capabilities to identify and respond to adversarial
+  inputs and prompt injection attempts in real-time. Control type: Detective.
+  Frequency: Ongoing. Mandatory: No (Optional). Applicability: Universal.
+elementType: requirement
+parent: domain_b
