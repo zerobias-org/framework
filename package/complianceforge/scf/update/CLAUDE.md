@@ -18,7 +18,7 @@ This directory contains the automated update system for the Secure Controls Fram
 ✅ **Robust Download System** - Retry logic, timeout handling, and caching  
 ✅ **Excel Processing** - Comprehensive parsing of SCF domains and controls  
 ✅ **Framework Generation** - Complete package structure with proper metadata  
-✅ **Logging System** - Structured logging with `@auditmation/util-logger`  
+✅ **Logging System** - Structured logging with `@zerobias-org/logger`  
 ✅ **Version Management** - Intelligent version comparison and change detection  
 ✅ **Element Processing** - Domains, controls, enhancements with CMM levels  
 ✅ **Package Management** - NPM shrinkwrap and dependency management  
@@ -237,8 +237,8 @@ The system uses configuration from `package.json` and runtime config:
   "version": "1.0.1",
   "private": true,
   "dependencies": {
-    "@auditmation/types-core-js": "^4.9.11",
-    "@auditmation/util-logger": "^4.0.9",
+    "@zerobias-org/types-core-js": "^4.9.11",
+    "@zerobias-org/logger": "^4.0.9",
     "axios": "^0.27.2",
     "exceljs": "^4.4.0",
     "js-yaml": "^4.1.0",
@@ -273,10 +273,10 @@ const CONFIG: SCFUpdateConfig = {
     "url": "https://github.com/zerobias-org/framework.git",
     "directory": "package/complianceforge/scf/2025.2.1/"
   },
-  "auditmation": {
+  "zerobias": {
     "package": "complianceforge.scf.2025_2_1.framework",
     "import-artifact": "framework",
-    "dataloader-version": "3.29.26"
+    "dataloader-version": "1.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -316,7 +316,7 @@ mappingTypes:
 ## Error Handling & Logging
 
 ### Logging System
-Uses `@auditmation/util-logger` for structured logging:
+Uses `@zerobias-org/logger` for structured logging:
 ```typescript
 const logger = getLogger('scf-updater');
 logger.info('Starting SCF framework update...');
@@ -343,14 +343,14 @@ The system integrates with the broader zerobias-org/framework monorepo:
 - **Validation scripts**: Framework structure validation
 - **Dependency management**: Automated dependency updates
 
-### Auditmation Integration
-Generated packages include Auditmation-specific metadata:
+### ZeroBias Integration
+Generated packages include ZeroBias-specific metadata:
 ```json
 {
-  "auditmation": {
+  "zerobias": {
     "package": "complianceforge.scf.2025_2_1.framework",
     "import-artifact": "framework",
-    "dataloader-version": "3.29.26"
+    "dataloader-version": "1.0.0"
   }
 }
 ```
