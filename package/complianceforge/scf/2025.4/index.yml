@@ -1,4 +1,4 @@
-id: bac22fbb-d075-4303-90c8-edb3c5e244be
+id: d37bc327-81b5-450f-b728-26c9a44e3d33
 name: Secure Controls Framework 2025.4
 description: ComplianceForge Secure Controls Framework 2025.4
 externalId: SCF-2025.4
@@ -9,15 +9,15 @@ version: '2025.4'
 external: true
 internal: true
 elementTypes:
-  - id: 0b66c9c5-92a9-4b7c-a8fd-b66a0c8f3fb3
+  - id: e29a8a7b-d335-413e-8635-659436b6dd5b
     code: domain
     name: Domain
     description: SCF Security Domain
-  - id: 89093a9c-3965-4006-80ab-ac5649983f3e
+  - id: ce827223-5dd0-4138-9f13-27e51d0531c5
     code: control
     name: Control
     description: SCF Security Control
-  - id: b2cea8b3-d4e3-4e90-826a-ade3c03a6c5d
+  - id: 5461c5c0-3f8f-4527-84d4-242a1f3365ac
     code: enhancement
     name: Enhancement
     description: SCF Control Enhancement
