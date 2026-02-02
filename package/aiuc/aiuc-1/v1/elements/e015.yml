@@ -1,0 +1,10 @@
+id: 48eef9ec-c078-434c-a5e6-7d8475ece96d
+externalId: E015
+name: Log model activity
+description: >-
+  Maintain logs of AI system processes, actions, and outputs supporting incident
+  investigation, auditing, and behavioral explanation where permitted. Control
+  type: Audit/Monitoring. Frequency: Ongoing. Mandatory: Yes. Applies to:
+  Universal capability.
+elementType: requirement
+parent: domain_e

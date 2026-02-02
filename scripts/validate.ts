@@ -2,8 +2,29 @@
 import fs from 'fs/promises';
 import path from 'path';
 import yaml from 'yaml';
-import { UUID, URL } from '@auditmation/types-core-js';
-import { StandardStatus, StandardCategory } from '@auditmation/module-auditmation-auditmation-portal';
+import { UUID, URL } from '@zerobias-org/types-core-js';
+
+// Local enum for standard status validation
+const StandardStatus = {
+  values: ['active', 'approved', 'deprecated', 'draft', 'inactive', 'superseded'] as const,
+  from(value: string): string {
+    if (!this.values.includes(value as any)) {
+      throw new Error(`Invalid StandardStatus: ${value}. Valid values: ${this.values.join(', ')}`);
+    }
+    return value;
+  }
+};
+
+// Local enum for standard category validation
+const StandardCategory = {
+  values: ['benchmark', 'certification', 'clinical', 'framework', 'law', 'regulation', 'standard'] as const,
+  from(value: string): string {
+    if (!this.values.includes(value as any)) {
+      throw new Error(`Invalid StandardCategory: ${value}. Valid values: ${this.values.join(', ')}`);
+    }
+    return value;
+  }
+};
 
 const elementTypes: string[] = [];
 const elements: string[] = [];
@@ -59,7 +80,16 @@ function processPackageJson(packageFile: Record<string, any>, code: string): voi
   }
 
   codeSplit[codeSplit.length - 1] = codeSplit[codeSplit.length - 1].replace('.', '_')
-  if (packageFile.auditmation && typeof packageFile.auditmation === 'object') {
+  if (packageFile.zerobias && typeof packageFile.zerobias === 'object') {
+    const zerobias = packageFile.zerobias;
+    check = zerobias['import-artifact'] !== undefined && zerobias['import-artifact'] !== null && zerobias['import-artifact'] === 'framework'
+      ? true : new Error('package.json zerobias section missing import-artifact or not set to framework');
+    check = zerobias.package !== undefined && zerobias.package !== null && zerobias.package === `zerobias.${codeSplit.join('.')}.framework`
+      ? true : new Error(`package.json zerobias section missing package or not set to zerobias.${codeSplit.join('.')}.framework`);
+    check = zerobias['dataloader-version'] !== undefined && zerobias['dataloader-version'] !== null ? true
+      : new Error('package.json zerobias section missing dataloader-version');
+  } else if (packageFile.auditmation && typeof packageFile.auditmation === 'object') {
+    // Support legacy auditmation key for existing packages
     const auditmation = packageFile.auditmation;
     check = auditmation['import-artifact'] !== undefined && auditmation['import-artifact'] !== null && auditmation['import-artifact'] === 'framework'
       ? true : new Error('package.json auditmation section missing import-artifact or not set to framework');
@@ -68,7 +98,7 @@ function processPackageJson(packageFile: Record<string, any>, code: string): voi
     check = auditmation['dataloader-version'] !== undefined && auditmation['dataloader-version'] !== null ? true
       : new Error('package.json auditmation section missing dataloader-version');
   } else {
-    throw new Error(`package.json missing auditmation section`);
+    throw new Error(`package.json missing zerobias section`);
   }
 
   codeSplit.splice(codeSplit.length - 1);
@@ -128,7 +158,7 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<string> 
       throw new Error('aliases in index.yml needs to be a string[]');
     }
   }
- 
+
   const eTypes = indexFile.elementTypes !== undefined && indexFile.elementTypes !== null ? indexFile.elementTypes : [];
   if (!Array.isArray(eTypes)) {
     throw new Error('elementTypes in index.yml must be an array');
@@ -212,7 +242,7 @@ async function processElements(directory: string, elementCodes: string[]): Promi
         throw new Error(`aliases in elements/${code}.yml needs to be a string[]`);
       }
     }
-  
+
     const elementType = elementYml.elementType !== undefined && elementYml.elementType !== null ? elementYml.elementType
       : new Error(`elementType not found in elements/${code}.yml`);
     if (typeof elementType !== 'string' || elementType === '{elementType}') {
@@ -222,7 +252,7 @@ async function processElements(directory: string, elementCodes: string[]): Promi
     if (!elementTypes.includes(elementType)) {
       throw new Error(`elementType ${elementType} does not exist in index.yml defined element type codes.`);
     }
-  
+
     const parent = elementYml.parent !== undefined && elementYml.parent !== null ? elementYml.parent: undefined;
     if (parent && typeof parent !== 'string') {
       throw new Error(`parent in elements/${code}.yml must be a string`);

@@ -1,0 +1,19 @@
+id: e5132320-59f7-47b3-9015-dca967b96fae
+externalId: A004
+name: Protect IP & trade secrets
+description: >-
+  Organizations must implement safeguards or technical controls preventing AI
+  systems from leaking company intellectual property or confidential
+  information. Control type: Preventative. Frequency: Every 12 months.
+  Mandatory: Yes. Shoulds: Provide user guidance on protecting confidential
+  information by instructing against inputting trade secrets, proprietary code,
+  or confidential business information into AI systems, communicating data
+  handling policies, and establishing clear guidelines on shareable information.
+  Mays: Leverage foundation model provider protections using providers with zero
+  data retention policies or contractual commitments that inputs are not used
+  for training. Implement technical controls detecting proprietary information
+  in outputs. Establish output monitoring for high-risk scenarios logging
+  responses accessing confidential sources and implementing human review
+  workflows for flagged outputs.
+elementType: requirement
+parent: domain_a

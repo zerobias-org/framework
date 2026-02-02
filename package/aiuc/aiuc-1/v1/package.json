@@ -1,0 +1,37 @@
+{
+  "name": "@zerobias-org/framework-aiuc-aiuc-1-v1",
+  "version": "0.0.0",
+  "description": "AIUC-1 AI Agent Standard - The world's first AI agent standard for enterprise compliance",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/aiuc/aiuc-1/v1/"
+  },
+  "auditmation": {
+    "package": "aiuc.aiuc-1.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-aiuc-aiuc-1": "latest"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  }
+}

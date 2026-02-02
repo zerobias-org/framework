@@ -170,6 +170,76 @@ When working in a specific framework package:
 - **Update failures**: Review workflow logs for specific package errors
 - **PR creation**: Uses GitHub CLI with default GITHUB_TOKEN permissions
 
+## ZeroBias Task Integration
+
+For creating frameworks from ZeroBias tasks, use the skill:
+
+```
+/create-framework [task-id]
+```
+
+See **[.claude/skills/create-framework.md](.claude/skills/create-framework.md)** for the complete workflow.
+
+### Quick Reference
+
+**Orchestration Documentation:**
+- [Meta-repo: DEPENDENCY_CHAIN.md](../../docs/orchestration/DEPENDENCY_CHAIN.md) - **STRICT dependency rules**
+- [Meta-repo: TASK_MANAGEMENT.md](../../docs/orchestration/TASK_MANAGEMENT.md) - Task API patterns
+- [Meta-repo: API_REFERENCE.md](../../docs/orchestration/API_REFERENCE.md) - Quick API reference
+
+**Additional Resources:**
+- [.claude/workflows/artifact-creation.md](.claude/workflows/artifact-creation.md) - Detailed creation workflow
+- [.claude/workflows/task-management.md](.claude/workflows/task-management.md) - Task management patterns
+
+**Dependency Chain:**
+```
+vendor → suite → framework
+```
+
+**CRITICAL:** Frameworks require BOTH vendor AND suite. Check/create them first.
+
+### Key APIs
+
+```javascript
+// Check dependencies exist (REQUIRED before framework)
+zerobias_execute("portal.Vendor.search", { searchVendorBody: { search: "vendor" }})
+zerobias_execute("portal.Suite.search", { searchSuiteBody: { search: "vendor suite" }})
+
+// Check if framework exists
+zerobias_execute("portal.Framework.search", { searchFrameworkBody: { search: "framework" }})
+
+// Get your party ID for assignment
+zerobias_execute("platform.Party.getMyParty", {})
+
+// Transition task to in_progress (use transitionId, NOT status)
+zerobias_execute("platform.Task.update", {
+  id: taskId,
+  updateTask: {
+    assigned: partyId,
+    transitionId: "7f140bbe-4c10-54ac-922c-460c66392fad"
+  }
+})
+
+// Link tasks together
+zerobias_execute("platform.Resource.linkResources", {
+  fromResource: sourceTaskId,
+  toResource: targetTaskId,  // Note: toResource, NOT toResourceId
+  linkType: "b8bd95d0-b33c-11f0-8af3-dfaccf31600e"  // relates_to
+})
+```
+
+### Workflow Transitions
+
+| Transition | Target Status | ID |
+|------------|---------------|-----|
+| Start | in_progress | `7f140bbe-4c10-54ac-922c-460c66392fad` |
+| Peer Review | awaiting_approval | `f017a447-0994-594d-9417-39cbc9a4de88` |
+| Accept | released | `1d2e9381-f609-5e26-8bc6-7bbb65a9048d` |
+
+**Note:** Always get actual IDs from `task.nextTransitions`.
+
+---
+
 ## Important Notes
 - Always run `npm install` in root directory first to setup husky hooks
 - PRs must target the `dev` branch (not `main`)

@@ -1,0 +1,9 @@
+id: d2f09b4c-fc7d-49a2-9695-9dc08c77321a
+externalId: B008
+name: Protect model deployment environment
+description: >-
+  Implement security measures for AI model deployment environments including
+  encryption, access controls, and authorization mechanisms. Control type:
+  Preventative. Frequency: Ongoing. Mandatory: Yes. Applicability: Universal.
+elementType: requirement
+parent: domain_b

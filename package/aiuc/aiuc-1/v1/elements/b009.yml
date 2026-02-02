@@ -1,0 +1,10 @@
+id: c31c9ff5-5d3c-4972-a382-50c0087acda6
+externalId: B009
+name: Limit output over-exposure
+description: >-
+  Implement output limitations and obfuscation techniques to safeguard against
+  information leakage through response filtering and fidelity reduction. Control
+  type: Preventative. Frequency: Ongoing. Mandatory: Yes. Applicability:
+  Text-generation, Voice-generation.
+elementType: requirement
+parent: domain_b

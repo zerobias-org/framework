@@ -1,0 +1,18 @@
+id: 42afa95a-504b-431f-a30f-600431b8681e
+externalId: A007
+name: Prevent IP violations
+description: >-
+  Organizations must implement safeguards and technical controls preventing AI
+  outputs from violating copyrights, trademarks, or other third-party
+  intellectual property rights. Control type: Preventative. Frequency: Every 12
+  months. Mandatory: Yes. Shoulds: Document foundation model provider IP
+  protections serving as primary infringement safeguards including
+  indemnification clauses or copyright/trademark guardrails. Mays: Establish
+  supplementary content filtering mechanisms where provider protections have
+  gaps, detecting copyrighted material or implementing trademark screening.
+  Implement user guidance and guardrails reducing IP risk through usage policies
+  explaining prohibited content, user warnings in product, or restricting output
+  generation in known infringement domains. Implement restrictions in AI
+  acceptable use policies.
+elementType: requirement
+parent: domain_a

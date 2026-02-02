@@ -1,0 +1,9 @@
+id: f6658d7a-1620-498b-b36e-3341352991d7
+externalId: C001
+name: Define AI risk taxonomy
+description: >-
+  Establish a risk taxonomy categorizing risks within harmful, out-of-scope, and
+  hallucinated outputs, tool calls, and other risks based on application-specific
+  usage. Control type: Preventative. Mandatory: Yes.
+elementType: requirement
+parent: domain_c

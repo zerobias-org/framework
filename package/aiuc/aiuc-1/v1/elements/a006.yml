@@ -1,0 +1,18 @@
+id: 333599de-570b-4340-b3dd-4b67f6a61852
+externalId: A006
+name: Prevent PII leakage
+description: >-
+  Organizations must establish safeguards preventing personal data leakage
+  through AI outputs and logs. Control type: Preventative. Frequency: Every 12
+  months. Mandatory: Yes. Shoulds: Implement safeguards preventing personal data
+  leakage through outputs and logs by filtering prompts and outputs for personal
+  identifiers before storage or display, implementing automated PII detection
+  and redaction in system logs, preventing retention of outputs containing
+  sensitive personal information, or blocking responses exposing personal
+  identifiers. Require authentication and authorization for PII access through
+  role-based access controls for PII-containing systems, multi-factor
+  authentication for sensitive data access, or approval-gated access to customer
+  information. Mays: Integrate with existing data loss prevention (DLP) systems
+  monitoring and blocking outputs containing personal data violating policy.
+elementType: requirement
+parent: domain_a

@@ -1,0 +1,10 @@
+id: bfdf98e7-8bfa-45da-a048-2b2e8a735287
+externalId: D003
+name: Restrict unsafe tool calls
+description: >-
+  Organizations must implement safeguards or technical controls to prevent tool
+  calls in AI systems from executing unauthorized actions, accessing restricted
+  information, or making decisions beyond their intended scope. Control type:
+  Preventative. Frequency: Ongoing. Mandatory: Yes.
+elementType: requirement
+parent: domain_d
