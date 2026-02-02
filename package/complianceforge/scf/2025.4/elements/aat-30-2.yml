@@ -1,4 +1,4 @@
-id: d9ef1370-dd7c-4282-b05a-eff924b6d1c5
+id: 34046361-3e45-4d17-9f38-26362596f3a2
 name: Session Management
 description: "Mechanisms exist to control AI agent sessions by:\r\n(1) Embedding session IDs into the requests to the AI model;\r\n(2) Implementing capabilities to correlate sessions; and\r\n(3) Terminating sessions after a defined time period."
 elementType: enhancement

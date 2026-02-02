@@ -1,4 +1,4 @@
-id: cbff5377-8677-4815-964f-2c1cc077c6f9
+id: ed3af4bf-8560-4e8a-8164-bae9c203f370
 name: Dynamic Isolation & Segregation (Sandboxing)
 description: Automated mechanisms exist to dynamically isolate (e.g., sandbox) untrusted components during runtime, where the component is isolated in a fault-contained environment but it can still collaborate with the application.
 elementType: enhancement

@@ -1,4 +1,4 @@
-id: 04a9918c-04b3-474e-8dda-42e6d164a012
+id: 6b10a674-23e0-49bd-b276-a3c0a3d95bc9
 name: Authenticated Received Chain (ARC)
 description: Mechanisms exist to utilize an authenticated received chain that allows for an intermediary to sign its own authentication of the original email, allowing downstream entities to accept the intermediary’s authentication even if the email was changed.
 elementType: enhancement
