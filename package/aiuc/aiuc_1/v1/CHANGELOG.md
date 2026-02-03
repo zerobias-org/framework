@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>0.0.2 (2026-02-03)</small>
+
+* chore: add missing elements ([0d065b6](https://github.com/zerobias-org/framework/commit/0d065b6))
+
+
+
+
+
 ## <small>0.0.1 (2026-02-03)</small>
 
 * chore(release): bump version ([3a690ba](https://github.com/zerobias-org/framework/commit/3a690ba))
