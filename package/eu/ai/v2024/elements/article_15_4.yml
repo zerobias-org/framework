@@ -1,22 +1,22 @@
 id: 9c1906dd-5a42-4772-af31-33d2963ea22f
 externalId: Article 15.4
+aliases:
+  - article_15_4
+  - article-15-4
+  - Article_15_4
+  - Article-15-4
+  - 15_4
+  - 15-4
 name: Article 15.4
-description: "High-risk AI systems shall be as resilient as possible regarding
-  errors, faults or inconsistencies that may occur within the system or the
-  environment in which the system operates, in particular due to their
-  interaction with natural persons or other systems. Technical and
-  organisational measures shall be taken in this regard. \r
-
-  \r
-
-  The robustness of high-risk AI systems may be achieved through technical
-  redundancy solutions, which may include backup or fail-safe plans. \r
-
-  \r
-
-  High-risk AI systems that continue to learn after being placed on the market
-  or put into service shall be developed in such a way as to eliminate or reduce
-  as far as possible the risk of possibly biased outputs influencing input for
-  future operations (feedback loops), and as to ensure that any such feedback
-  loops are duly addressed with appropriate mitigation measures."
+description: "High-risk AI systems shall be as resilient as possible regarding errors,\
+  \ faults or inconsistencies that may occur within the system or the environment\
+  \ in which the system operates, in particular due to their interaction with natural\
+  \ persons or other systems. Technical and organisational measures shall be taken\
+  \ in this regard. \r\n\r\nThe robustness of high-risk AI systems may be achieved\
+  \ through technical redundancy solutions, which may include backup or fail-safe\
+  \ plans. \r\n\r\nHigh-risk AI systems that continue to learn after being placed\
+  \ on the market or put into service shall be developed in such a way as to eliminate\
+  \ or reduce as far as possible the risk of possibly biased outputs influencing input\
+  \ for future operations (feedback loops), and as to ensure that any such feedback\
+  \ loops are duly addressed with appropriate mitigation measures."
 elementType: control

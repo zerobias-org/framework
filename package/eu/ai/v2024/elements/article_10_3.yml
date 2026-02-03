@@ -1,11 +1,18 @@
 id: 51e47599-86b0-46e5-b7bc-2a512ae5dc33
 externalId: Article 10.3
+aliases:
+  - article_10_3
+  - article-10-3
+  - Article_10_3
+  - Article-10-3
+  - 10_3
+  - 10-3
 name: Article 10.3
-description: Training, validation and testing data sets shall be relevant,
-  sufficiently representative, and to the best extent possible, free of errors
-  and complete in view of the intended purpose. They shall have the appropriate
-  statistical properties, including, where applicable, as regards the persons or
-  groups of persons in relation to whom the high-risk AI system is intended to
-  be used. Those characteristics of the data sets may be met at the level of
-  individual data sets or at the level of a combination thereof.
+description: Training, validation and testing data sets shall be relevant, sufficiently
+  representative, and to the best extent possible, free of errors and complete in
+  view of the intended purpose. They shall have the appropriate statistical properties,
+  including, where applicable, as regards the persons or groups of persons in relation
+  to whom the high-risk AI system is intended to be used. Those characteristics of
+  the data sets may be met at the level of individual data sets or at the level of
+  a combination thereof.
 elementType: control
