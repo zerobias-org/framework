@@ -1,9 +1,0 @@
-id: 8a558621-14f5-4847-98da-fd8291ee1eca
-externalId: B006
-name: Prevent unauthorized AI agent actions
-description: >-
-  Implement safeguards ensuring AI agents cannot perform actions beyond intended
-  scope and authorized privileges. Control type: Preventative. Frequency:
-  Ongoing. Mandatory: Yes. Applicability: Automation.
-elementType: requirement
-parent: domain_b
