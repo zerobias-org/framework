@@ -1,0 +1,10 @@
+id: 514fdf32-9392-4a36-b707-3a4024044fdb
+externalId: B005
+name: Implement real-time input filtering
+description: >-
+  Deploy real-time input filtering using automated moderation tools to block
+  prompt injections, jailbreak attempts, and adversarial content. Control type:
+  Preventative. Frequency: Ongoing. Mandatory: No (Optional). Applicability:
+  Text-generation, Voice-generation, Image-generation.
+elementType: requirement
+parent: domain_b

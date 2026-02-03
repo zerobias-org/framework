@@ -1,0 +1,10 @@
+id: 09223d7f-fe4c-4b1b-8d29-5efa13775fc0
+externalId: E003
+name: AI failure plan for hallucinations
+description: >-
+  Document processes addressing hallucinated outputs causing substantial
+  financial customer loss, assigning accountability and remediation protocols.
+  Control type: Incident Response. Frequency: Every 12 months. Mandatory: Yes.
+  Applies to: Text and voice generation capabilities.
+elementType: requirement
+parent: domain_e

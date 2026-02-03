@@ -1,0 +1,10 @@
+id: 8610ae0a-5b46-4808-80e1-fec560f3a532
+externalId: F002
+name: Prevent catastrophic misuse
+description: >-
+  Implement or document guardrails to prevent AI-enabled catastrophic system
+  misuse including chemical, biological, radioactive, and nuclear threats
+  (CBRN). Control type: Preventative. Mandatory: Yes. Capabilities:
+  Text-generation, Voice-generation, Image-generation.
+elementType: requirement
+parent: domain_f

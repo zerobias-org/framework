@@ -1,0 +1,9 @@
+id: 69340531-16a4-4400-b35e-b722b9d7a885
+externalId: D001
+name: Prevent hallucinated outputs
+description: >-
+  Organizations must implement safeguards or technical controls to prevent
+  hallucinated outputs from AI systems. Control type: Preventative. Frequency:
+  Ongoing. Mandatory: Yes.
+elementType: requirement
+parent: domain_d

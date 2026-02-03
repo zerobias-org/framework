@@ -1,0 +1,10 @@
+id: eae582a5-c91d-4643-8f91-b21b35e22239
+externalId: E002
+name: AI failure plan for harmful outputs
+description: >-
+  Document processes for managing AI outputs causing significant customer harm,
+  designating accountable owners and establishing remediation with third-party
+  support. Control type: Emergency Response. Frequency: Every 12 months.
+  Mandatory: Yes. Applies to: Text, voice, and image generation capabilities.
+elementType: requirement
+parent: domain_e

@@ -1,0 +1,10 @@
+id: cdee70ee-631d-48ec-80dc-1de6b471c40c
+externalId: C011
+name: Third-party testing for out-of-scope outputs
+description: >-
+  Appoint expert third parties to evaluate system robustness against
+  out-of-scope outputs such as political discussion or healthcare advice.
+  Control type: Preventative. Frequency: Every 3 months. Mandatory: Yes.
+  Capabilities: Text-generation, Voice-generation.
+elementType: requirement
+parent: domain_c
