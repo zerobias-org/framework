@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -32,6 +32,7 @@
     "@zerobias-org/framework-complianceforge-scf-2025.2.2": "1.0.1",
     "@zerobias-org/framework-complianceforge-scf-2025.3.1": "1.0.1",
     "@zerobias-org/framework-complianceforge-scf-2025.4": "1.0.1",
+    "@zerobias-org/framework-csa-aicm-v1": "0.0.2",
     "@zerobias-org/framework-dod-ztra-v2": "1.3.1",
     "@zerobias-org/framework-es-boe-v2022": "1.1.0",
     "@zerobias-org/framework-es-royaldecree-2022": "1.1.0",
