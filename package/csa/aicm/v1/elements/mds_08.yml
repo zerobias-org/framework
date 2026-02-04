@@ -1,0 +1,7 @@
+id: f911a0be-c583-41b4-9eff-15d871d9f97e
+externalId: MDS-08
+name: Model Integrity Checks
+description: >-
+  Regularly calculate and compare checksums using cryptographic hashes of model checkpoints to detect unauthorized modifications. Apply at least annually based on the level of risk, or after any change of hands.
+elementType: control
+parent: domain_mds

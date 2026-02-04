@@ -1,0 +1,7 @@
+id: 2878c5bd-d24d-4f41-9e9a-54ae9efd305c
+externalId: CCC-09
+name: Change Restoration
+description: >-
+  Define and implement a process to proactively roll back changes to a previous known good state in case of errors or security concerns.
+elementType: control
+parent: domain_ccc

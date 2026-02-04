@@ -1,0 +1,7 @@
+id: d19e5a0d-39ad-4fc8-9bb0-12d741a73ca4
+externalId: CEK-11
+name: Key Purpose
+description: >-
+  Manage cryptographic secret and private keys that are provisioned for a unique purpose.
+elementType: control
+parent: domain_cek

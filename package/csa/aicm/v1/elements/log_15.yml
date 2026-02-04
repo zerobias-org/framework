@@ -1,0 +1,7 @@
+id: 45f849d7-6a0b-46fd-88b5-5b9e01f95f43
+externalId: LOG-15
+name: Output Monitoring
+description: >-
+  Log and monitor all output events (content and metadata) to enable auditing and reporting on usage of AI models.
+elementType: control
+parent: domain_log

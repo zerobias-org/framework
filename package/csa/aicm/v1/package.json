@@ -1,0 +1,32 @@
+{
+  "name": "@zerobias-org/framework-csa-aicm-v1",
+  "version": "0.0.1",
+  "description": "CSA AI Controls Matrix v1 - A vendor-agnostic framework for cloud-based AI systems",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/csa/aicm/v1/"
+  },
+  "auditmation": {
+    "package": "csa.aicm.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-csa-aicm": "latest"
+  },
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
+    "validate": "tsx ../../../../scripts/validate.ts"
+  }
+}

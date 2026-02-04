@@ -1,0 +1,7 @@
+id: 1027b885-f6ef-4686-8ec5-305badf5fde4
+externalId: IAM-18
+name: Output Modification and Special Authorization
+description: >-
+  When allowing model output modification of AI generated output, establish a role for this access and allow changes only by authorized identities.
+elementType: control
+parent: domain_iam

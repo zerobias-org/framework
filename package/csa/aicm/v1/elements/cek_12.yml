@@ -1,0 +1,7 @@
+id: 4a64d7ae-6a95-455e-a3d1-0293297050c9
+externalId: CEK-12
+name: Key Rotation
+description: >-
+  Rotate cryptographic keys in accordance with the calculated cryptoperiod, which includes provisions for considering the risk of information disclosure and legal and regulatory requirements.
+elementType: control
+parent: domain_cek

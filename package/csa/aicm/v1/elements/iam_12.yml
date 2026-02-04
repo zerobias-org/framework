@@ -1,0 +1,7 @@
+id: 7acda052-4d56-4e68-81ad-ded53f277bcb
+externalId: IAM-12
+name: Safeguard Logs Integrity
+description: >-
+  Define, implement and evaluate processes, procedures and technical measures to ensure the logging infrastructure is read-only for all with  write access, including privileged access roles, and that the ability to  disable it is controlled through a procedure that ensures the segregation of  duties and break glass procedures.
+elementType: control
+parent: domain_iam

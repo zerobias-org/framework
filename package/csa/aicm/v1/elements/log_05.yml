@@ -1,0 +1,7 @@
+id: e1c4d9bd-45ad-4d19-90f1-14157201fe64
+externalId: LOG-05
+name: Audit Logs Monitoring and Response
+description: >-
+  Monitor security audit logs to detect activity outside of typical or expected patterns. Establish and follow a defined process to review and take appropriate and timely actions on detected anomalies.
+elementType: control
+parent: domain_log

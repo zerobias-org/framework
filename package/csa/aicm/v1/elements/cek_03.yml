@@ -1,0 +1,7 @@
+id: 573260c6-e40f-4f47-8e38-5e3684003258
+externalId: CEK-03
+name: Data Encryption
+description: >-
+  Provide data protection at-rest, in-transit and, where applicable, in-use by using cryptographic libraries certified to approved standards.
+elementType: control
+parent: domain_cek

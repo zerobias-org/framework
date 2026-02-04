@@ -1,0 +1,7 @@
+id: 6ad4c9ec-e0f9-4eec-bc51-22598b3b3487
+externalId: DSP-15
+name: Limitation of Production Data Use
+description: >-
+  Obtain authorization from data owners, and manage associated risk before replicating or using production data in non-production environments.
+elementType: control
+parent: domain_dsp

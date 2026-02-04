@@ -1,0 +1,7 @@
+id: 6e8c8f80-1054-40c9-a1ce-5e99bc498622
+externalId: CEK-19
+name: Key Compromise
+description: >-
+  Define, implement and evaluate processes, procedures and technical measures to use compromised keys to encrypt information only in  controlled circumstance, and thereafter exclusively for decrypting data  and never for encrypting data, which include provisions for legal and  regulatory requirements.
+elementType: control
+parent: domain_cek

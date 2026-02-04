@@ -1,0 +1,7 @@
+id: 99ba24c2-c4b6-4501-a549-c94089b9269c
+externalId: MDS-09
+name: Model Signing/Ownership Verification
+description: >-
+  Sign models cryptographically and verify signatures to ensure model provenance and ownership, any time the model changes hands or is loaded from storage.
+elementType: control
+parent: domain_mds

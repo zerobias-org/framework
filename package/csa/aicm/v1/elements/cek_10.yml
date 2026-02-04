@@ -1,0 +1,7 @@
+id: 146e22d7-3f8b-4778-a69e-1092a5381287
+externalId: CEK-10
+name: Key Generation
+description: >-
+  Generate Cryptographic keys using industry accepted cryptographic libraries specifying the algorithm strength and the random number  generator used.
+elementType: control
+parent: domain_cek

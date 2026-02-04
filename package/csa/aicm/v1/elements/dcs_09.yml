@@ -1,0 +1,7 @@
+id: 0de855db-2723-47b4-ac99-bfc43f43e6d6
+externalId: DCS-09
+name: Secure Area Authorization
+description: >-
+  Allow only authorized personnel access to secure areas, with all ingress and egress points restricted, documented, and monitored by  physical access control mechanisms. Retain access control records on a  periodic basis as deemed appropriate by the organization.
+elementType: control
+parent: domain_dcs

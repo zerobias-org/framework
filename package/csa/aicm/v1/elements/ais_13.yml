@@ -1,0 +1,7 @@
+id: 02fe9b40-2f57-4922-9eb8-16cc371c5d65
+externalId: AIS-13
+name: AI Sandboxing
+description: >-
+  Implement sandboxing techniques to execute AI tools and  plugins in isolated environments to prevent unintended  interactions with critical systems or data and limit the  possibility of lateral movement.
+elementType: control
+parent: domain_ais

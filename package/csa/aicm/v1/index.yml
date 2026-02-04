@@ -1,0 +1,27 @@
+id: fb188d24-6062-403e-88e2-8d24cc7335c5
+name: CSA AI Controls Matrix v1
+externalId: CSA AICM
+description: >-
+  The CSA AI Controls Matrix (AICM) is a first-of-its-kind vendor-agnostic
+  framework for cloud-based AI systems. It provides 243 control objectives
+  distributed across 18 security domains, covering the entire spectrum of AI
+  security concerns from traditional areas like Identity & Access Management
+  to AI-specific domains like Model Security. The framework is aligned with
+  ISO 42001, ISO 27001, NIST AI RMF 1.0, and BSI AIC4.
+code: csa_aicm_v1
+status: approved
+url: https://cloudsecurityalliance.org/artifacts/ai-controls-matrix
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 1ac549cf-9f37-4ffd-8394-f20a70f2c5c0
+    code: domain
+    name: Domain
+    description: Security domain category
+  - id: 088c9c1f-bcd7-419e-8f0a-d613ced0b9fd
+    code: control
+    name: Control Objective
+    description: Control objective within a domain
+mappingTypes:
+  - control

@@ -1,0 +1,7 @@
+id: 30f231c6-4655-449d-a093-36fccf2a4623
+externalId: IAM-19
+name: Agent Access Restriction
+description: >-
+  Restrict agents' access to the tools and plugins necessary for the activity or use case at hand, ensuring adherence to the principles of need-to-know and least privilege.
+elementType: control
+parent: domain_iam
