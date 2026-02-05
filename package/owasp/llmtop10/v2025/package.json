@@ -1,0 +1,37 @@
+{
+  "name": "@zerobias-org/framework-owasp-llmtop10-v2025",
+  "version": "0.0.1",
+  "description": "OWASP Top 10 for Large Language Model Applications - Security vulnerabilities in LLM systems",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/owasp/llmtop10/v2025/"
+  },
+  "auditmation": {
+    "package": "owasp.llmtop10.v2025.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "3.13.8"
+  },
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-owasp-llmtop10": "latest"
+  },
+  "scripts": {
+    "nx:publish": "../../../../scripts/publish.sh",
+    "prepublishtest": "../../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../../scripts/validate.ts"
+  }
+}

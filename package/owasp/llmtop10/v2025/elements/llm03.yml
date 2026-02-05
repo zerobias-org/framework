@@ -1,0 +1,8 @@
+id: 1e8eaa92-5729-43e7-b570-a48d52717e4c
+externalId: LLM03
+name: Training Data Poisoning
+description: >-
+  Training Data Poisoning occurs when the data used to train or fine-tune an LLM is
+  manipulated to introduce vulnerabilities, backdoors, or biases that compromise the
+  model's security, effectiveness, or ethical behavior.
+elementType: vulnerability

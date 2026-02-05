@@ -1,0 +1,8 @@
+id: c3d41a35-14de-4349-98e2-a60a81567be0
+externalId: LLM02
+name: Insecure Output Handling
+description: >-
+  Insecure Output Handling refers to vulnerabilities where LLM outputs are passed to
+  downstream components without proper validation, potentially enabling XSS, CSRF,
+  SSRF, privilege escalation, or remote code execution.
+elementType: vulnerability

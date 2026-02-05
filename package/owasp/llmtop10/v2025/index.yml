@@ -1,0 +1,20 @@
+id: 6b9c7a36-63a3-4eb7-b182-ae177b703a8f
+name: OWASP Top 10 for LLM Applications
+externalId: OWASP-LLM-Top10-2025
+description: >-
+  The OWASP Top 10 for Large Language Model Applications identifies the most
+  critical security vulnerabilities in LLM-based systems. It provides guidance
+  for developers and security professionals to build secure AI applications.
+code: owasp.llmtop10.v2025
+status: approved
+url: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+version: v2025
+external: true
+internal: false
+elementTypes:
+  - id: a1f5e8d3-7c92-4b61-8f4a-3e9d0c8b2a71
+    code: vulnerability
+    name: Vulnerability
+    description: LLM security vulnerability category
+mappingTypes:
+  - vulnerability

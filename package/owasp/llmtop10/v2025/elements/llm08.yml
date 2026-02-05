@@ -1,0 +1,8 @@
+id: 78591fa0-4aec-4396-bb42-ec12cd0cc67c
+externalId: LLM08
+name: Excessive Agency
+description: >-
+  Excessive Agency occurs when an LLM-based system is granted too many capabilities,
+  permissions, or autonomy, enabling the model to perform harmful actions beyond its
+  intended scope due to erroneous outputs or prompt injection.
+elementType: vulnerability

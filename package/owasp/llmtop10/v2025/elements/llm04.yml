@@ -1,0 +1,8 @@
+id: f6eec325-16aa-4e68-9c0b-dacbece9e131
+externalId: LLM04
+name: Model Denial of Service
+description: >-
+  Model Denial of Service attacks aim to consume excessive computational resources,
+  making the LLM unavailable or degrading its performance. This includes resource-heavy
+  queries, context window exhaustion, and recursive expansion attacks.
+elementType: vulnerability

@@ -1,0 +1,8 @@
+id: d9b8da65-659c-4ae5-923d-ff6b9662b568
+externalId: LLM07
+name: Insecure Plugin Design
+description: >-
+  Insecure Plugin Design refers to vulnerabilities in LLM plugins that can be exploited
+  through malicious requests, insufficient access controls, or failure to validate inputs,
+  potentially leading to data exfiltration or code execution.
+elementType: vulnerability

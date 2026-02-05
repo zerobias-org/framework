@@ -1,0 +1,8 @@
+id: f7436ebe-29cc-451e-922d-0cf5b61dea50
+externalId: LLM06
+name: Sensitive Information Disclosure
+description: >-
+  Sensitive Information Disclosure occurs when an LLM inadvertently reveals confidential
+  data through its responses, including PII, proprietary algorithms, credentials, or
+  other sensitive information from training data or prompts.
+elementType: vulnerability
