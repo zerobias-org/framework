@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/framework-bundle",
-      "version": "0.0.26",
+      "version": "0.0.27",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/framework-aiuc-aiuc_1-v1": "0.0.2",
@@ -59,6 +59,7 @@
         "@zerobias-org/framework-nz-hisf-suppliers": "1.0.1",
         "@zerobias-org/framework-nz-hisf-v1": "1.1.1",
         "@zerobias-org/framework-opencre-opencre-v1": "1.2.2",
+        "@zerobias-org/framework-owasp-llmtop10-v2025": "0.0.2",
         "@zerobias-org/framework-pci_ssc-dss-v4_0_1": "1.1.0",
         "@zerobias-org/framework-sa-pdpl-v1": "1.1.0",
         "@zerobias-org/framework-sa-sai-v2024": "1.1.0",
