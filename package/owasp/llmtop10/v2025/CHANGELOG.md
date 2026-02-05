@@ -1,3 +1,16 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## <small>0.0.2 (2026-02-05)</small>
+
+* feat(owasp): add OWASP LLM Top 10 v2025 framework ([a67d49c](https://github.com/zerobias-org/framework/commit/a67d49c))
+
+
+
+
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
