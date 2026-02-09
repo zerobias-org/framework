@@ -4,16 +4,15 @@
   "description": "NIST Label 2022 Framework",
   "author": "team@zerobias.com",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git@github.com:zerobias-org/standard.git",
     "directory": "package/nist/label/2022/"
   },
   "scripts": {
-    "nx:publish": "../../../../scripts/publish.sh",
-    "prepublishtest": "../../../../scripts/prepublish.sh",
-    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
-    "validate": "ts-node ../../../../scripts/validate.ts"
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
+    "validate": "tsx ../../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -21,14 +20,15 @@
   "files": [
     "index.yml",
     "baselines/**",
-    "elements/**"
+    "elements/**",
+    "mappings/**"
   ],
-  "auditmation": {
-    "dataloader-version": "3.29.26",
+  "zerobias": {
+    "dataloader-version": "1.0.0",
     "import-artifact": "framework",
-    "package": "nist.label.2022.framework"
+    "package": "zerobias.nist.label.2022.framework"
   },
   "dependencies": {
-    "@auditlogic/suite-nist-label": "latest"
+    "@zerobias-org/suite-nist-label": "latest"
   }
 }

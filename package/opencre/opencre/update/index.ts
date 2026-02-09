@@ -1,13 +1,12 @@
-import { UUID } from '@auditmation/types-core-js';
-import { getLogger } from '@auditmation/util-logger';
+import { UUID } from '@zerobias-org/types-core-js';
+import { LoggerEngine } from '@zerobias-org/logger';
 import fs from 'fs';
 import yml from 'js-yaml';
 import path from 'path';
-import { cwd } from 'process';
 import https from 'https';
 import crypto from 'crypto';
 
-const logger = getLogger('opencre-update');
+const logger = LoggerEngine.root().get('opencre-update');
 
 interface OpenCREData {
   data: any[];
@@ -79,7 +78,7 @@ class OpenCREUpdater {
       logger.info('Changes detected in OpenCRE data');
       return true;
     } catch (error) {
-      logger.error('Error checking for updates:', error);
+      logger.error('Error checking for updates:', error as Error);
       throw error;
     }
   }
@@ -91,7 +90,7 @@ class OpenCREUpdater {
       const apiData = await this.fetchFromUrl(this.config.apiUrl);
       return apiData;
     } catch (apiError) {
-      logger.warning('API fetch failed, trying GitHub fallback:', String(apiError));
+      logger.warning('API fetch failed, trying GitHub fallback:', apiError as Error);
       
       // Fallback to GitHub
       try {
@@ -99,15 +98,25 @@ class OpenCREUpdater {
         const githubData = await this.fetchFromUrl(this.config.githubUrl);
         return githubData;
       } catch (githubError) {
-        logger.error('GitHub fallback also failed:', String(githubError));
+        logger.error('GitHub fallback also failed:', githubError as Error);
         throw new Error(`Both API and GitHub fallback failed: API(${String(apiError)}), GitHub(${String(githubError)})`);
       }
     }
   }
 
-  private fetchFromUrl(url: string): Promise<OpenCREData> {
+  private fetchFromUrl(url: string, redirectCount = 0): Promise<OpenCREData> {
+    if (redirectCount > 5) {
+      return Promise.reject(new Error('Too many redirects'));
+    }
+
     return new Promise((resolve, reject) => {
       const request = https.get(url, (response) => {
+        // Handle redirects
+        if (response.statusCode && response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
+          resolve(this.fetchFromUrl(response.headers.location, redirectCount + 1));
+          return;
+        }
+
         if (response.statusCode !== 200) {
           reject(new Error(`HTTP ${response.statusCode}: ${response.statusMessage}`));
           return;
@@ -152,14 +161,9 @@ class OpenCREUpdater {
       const newHash = crypto.createHash('sha256').update(JSON.stringify(newData.data || newData)).digest('hex');
       return existingHash !== newHash;
     } catch (error) {
-      logger.warning('Error comparing data, assuming changed:', String(error));
+      logger.warning('Error comparing data, assuming changed:', error as Error);
       return true;
     }
-  }
-
-  private processDataInMemory(data: OpenCREData): void {
-    // This method is intentionally empty as processing happens in processElements
-    logger.info(`Loaded ${Array.isArray(data.data) ? data.data.length : Array.isArray(data) ? data.length : 0} CRE elements for processing`);
   }
 
   private linkToPackageCode(document: Document, elementId: string): string {
@@ -274,7 +278,7 @@ class OpenCREUpdater {
         processedIds.add(element.externalId);
         savedCount++;
       } catch (error) {
-        logger.error(`Error saving element ${element.externalId}:`, String(error));
+        logger.error(`Error saving element ${element.externalId}:`, error as Error);
       }
     }
 
@@ -303,7 +307,7 @@ class OpenCREUpdater {
           logger.info(`Removed orphaned element: ${file}`);
         }
       } catch (error) {
-        logger.warning(`Error checking file ${file}:`, String(error));
+        logger.warning(`Error checking file ${file}:`, error as Error);
       }
     }
 
@@ -327,13 +331,10 @@ class OpenCREUpdater {
       }
 
       const processedElements: any[] = [];
-      let processedCount = 0;
-      let errorCount = 0;
 
       for (const e of elementsData) {
         try {
           if (!e.id || !e.name) {
-            errorCount++;
             continue;
           }
 
@@ -358,13 +359,10 @@ class OpenCREUpdater {
             const processedElement = this.processElementInMemory(element);
             if (processedElement) {
               processedElements.push(processedElement);
-              processedCount++;
             }
-          } else {
-            errorCount++;
           }
         } catch (error) {
-          errorCount++;
+          // Skip elements that fail processing
         }
       }
 
@@ -421,6 +419,10 @@ class OpenCREUpdater {
       await this.saveElementsToFiles(elements);
       
       // Save the new data to local cache
+      const cacheDir = path.dirname(this.config.localDataPath);
+      if (!fs.existsSync(cacheDir)) {
+        fs.mkdirSync(cacheDir, { recursive: true });
+      }
       fs.writeFileSync(this.config.localDataPath, JSON.stringify(newData, null, 2), 'utf8');
       
       logger.info(`Successfully processed ${elements.length} elements`);
@@ -445,7 +447,7 @@ async function main() {
     const result = await updater.run(forceUpdate);
     logger.info(`Update completed successfully. Processed ${result.elements.length} elements.`);
   } catch (error) {
-    logger.error('Update failed:', String(error));
+    logger.error('Update failed:', error as Error);
     console.error('Update failed:', String(error));
     process.exit(1);
   }
