@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.4 (2026-02-09)</small>
+
+* chore: modernize a-c framework packages ([0a3ccfa](https://github.com/zerobias-org/framework/commit/0a3ccfa))
+* chore(release): bump version ([f6d8eee](https://github.com/zerobias-org/framework/commit/f6d8eee))
+* fix(scf): fix version detection and modernize update package ([ba06f9a](https://github.com/zerobias-org/framework/commit/ba06f9a))
+* fix(scf): replace xlsx with exceljs, fix header parsing and update deps ([b0dc763](https://github.com/zerobias-org/framework/commit/b0dc763))
+
+
+
+
+
 ## [1.1.3](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-complianceforge-scf-update@1.1.3-rc.0...@zerobias-org/framework-complianceforge-scf-update@1.1.3) (2026-01-20)
 
 **Note:** Version bump only for package @zerobias-org/framework-complianceforge-scf-update
