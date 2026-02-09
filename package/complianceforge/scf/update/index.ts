@@ -1,11 +1,11 @@
-import { UUID } from '@auditmation/types-core-js';
-import { getLogger } from '@auditmation/util-logger';
-import * as fs from 'fs';
-import * as yml from 'js-yaml';
-import * as path from 'path';
+import { UUID } from '@zerobias-org/types-core-js';
+import { LoggerEngine } from '@zerobias-org/logger';
+import fs from 'fs';
+import yml from 'js-yaml';
+import path from 'path';
 
-import { GitHubClient } from './github-client';
-import { ExcelParser } from './excel-parser';
+import { GitHubClient } from './github-client.js';
+import { ExcelParser } from './excel-parser.js';
 import {
   SCFUpdateConfig,
   SCFVersionInfo,
@@ -15,9 +15,9 @@ import {
   SCFElementType,
   SCFMaturityLevel,
   UpdateResult
-} from './types';
+} from './types.js';
 
-const logger = getLogger('scf-updater');
+const logger = LoggerEngine.root().get('scf-updater');
 
 const CONFIG: SCFUpdateConfig = {
   githubRepo: 'securecontrolsframework/securecontrolsframework',
@@ -45,7 +45,6 @@ class SCFUpdater {
   async checkForUpdates(): Promise<boolean> {
     try {
       const versionInfo = await this.githubClient.checkForNewVersion(this.currentVersion);
-      
       if (!versionInfo) {
         return false;
       }
@@ -120,7 +119,7 @@ class SCFUpdater {
         elementsProcessed
       };
     } catch (error) {
-      logger.error('Update failed:', String(error));
+      logger.error('Update failed:', error as Error);
       return {
         success: false,
         error: String(error)
@@ -170,10 +169,10 @@ class SCFUpdater {
     
     // Copy .npmrc from root
     await this.copyNpmrc(versionDir);
-    
-    // Run npm shrinkwrap
-    await this.runNpmShrinkwrap(versionDir);
-    
+
+    // Install dependencies
+    await this.runNpmInstall(versionDir);
+
     // Process domains
     const domainElements = this.processDomains(scfData.domains);
     
@@ -396,7 +395,7 @@ class SCFUpdater {
         fs.writeFileSync(filepath, yamlContent, 'utf8');
         savedCount++;
       } catch (error) {
-        logger.error(`Error saving element ${element.externalId}:`, String(error));
+        logger.error(`Error saving element ${element.externalId}:`, error as Error);
       }
     }
     
@@ -421,7 +420,7 @@ class SCFUpdater {
           removedCount++;
         }
       } catch (error) {
-        logger.warning(`Error checking file ${file}:`, String(error));
+        logger.warning(`Error checking file ${file}:`, error as Error);
       }
     }
 
@@ -442,26 +441,11 @@ class SCFUpdater {
     return cleaned;
   }
 
-  private getCurrentVersion(): string | undefined {
-    if (!fs.existsSync(this.config.localCachePath)) return undefined;
-
-    const excelFiles = fs.readdirSync(this.config.localCachePath)
-      .filter(file => {
-        const fileLower = file.toLowerCase();
-        return fileLower.endsWith('.xlsx') && (
-          fileLower.includes('secure-controls-framework') ||
-          fileLower.includes('secure controls framework') ||
-          fileLower.includes('scf')
-        );
-      });
-
-    if (excelFiles.length === 0) return undefined;
-
-    // Try multiple version extraction patterns
-    const filename = excelFiles[0];
+  private extractVersionFromFilename(filename: string): string | undefined {
+    let match;
 
     // Pattern 1: 3-part version "secure-controls-framework-scf-2025-2-1.xlsx"
-    let match = filename.match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/i);
+    match = filename.match(/scf-(\d+)-(\d+)-(\d+)\.xlsx$/i);
     if (match) return `${match[1]}.${match[2]}.${match[3]}`;
 
     // Pattern 2: 2-part version "secure-controls-framework-scf-2025-4.xlsx"
@@ -488,8 +472,51 @@ class SCFUpdater {
     match = filename.match(/(\d{4})[_\.](\d+)[_\.](\d+)/i);
     if (match) return `${match[1]}.${match[2]}.${match[3]}`;
 
-    logger.warning(`Could not extract version from filename: ${filename}`);
     return undefined;
+  }
+
+  private compareVersions(version1: string, version2: string): number {
+    const v1Parts = version1.split('.').map(Number);
+    const v2Parts = version2.split('.').map(Number);
+    const maxLength = Math.max(v1Parts.length, v2Parts.length);
+    for (let i = 0; i < maxLength; i++) {
+      const v1Part = v1Parts[i] || 0;
+      const v2Part = v2Parts[i] || 0;
+      if (v1Part > v2Part) return 1;
+      if (v1Part < v2Part) return -1;
+    }
+    return 0;
+  }
+
+  private getCurrentVersion(): string | undefined {
+    if (!fs.existsSync(this.config.localCachePath)) return undefined;
+
+    const excelFiles = fs.readdirSync(this.config.localCachePath)
+      .filter(file => {
+        const fileLower = file.toLowerCase();
+        return fileLower.endsWith('.xlsx') && (
+          fileLower.includes('secure-controls-framework') ||
+          fileLower.includes('secure controls framework') ||
+          fileLower.includes('scf')
+        );
+      });
+
+    if (excelFiles.length === 0) return undefined;
+
+    // Extract versions from all cached files and return the highest
+    let highestVersion: string | undefined;
+    for (const filename of excelFiles) {
+      const version = this.extractVersionFromFilename(filename);
+      if (version) {
+        if (!highestVersion || this.compareVersions(version, highestVersion) > 0) {
+          highestVersion = version;
+        }
+      } else {
+        logger.warning(`Could not extract version from filename: ${filename}`);
+      }
+    }
+
+    return highestVersion;
   }
 
 
@@ -509,17 +536,17 @@ class SCFUpdater {
     }
   }
 
-  private async runNpmShrinkwrap(versionDir: string): Promise<void> {
+  private async runNpmInstall(versionDir: string): Promise<void> {
     try {
       const { exec } = require('child_process');
       const { promisify } = require('util');
       const execAsync = promisify(exec);
-      
-      logger.info(`Running npm shrinkwrap in ${versionDir}`);
-      await execAsync('npm shrinkwrap', { cwd: versionDir });
-      logger.info('npm shrinkwrap completed successfully');
+
+      logger.info(`Running npm install in ${versionDir}`);
+      await execAsync('npm install', { cwd: versionDir });
+      logger.info('npm install completed successfully');
     } catch (error) {
-      logger.error(`Error running npm shrinkwrap: ${String(error)}`);
+      logger.error(`Error running npm install: ${String(error)}`);
     }
   }
 
@@ -559,12 +586,11 @@ async function main() {
         logger.info(`Update completed successfully. Processed ${result.elementsProcessed} elements for SCF ${result.version}.`);
       }
     } else {
-      logger.error('Update failed:', result.error);
+      logger.error('Update failed:', new Error(result.error));
       process.exit(1);
     }
   } catch (error) {
-    logger.error('Update failed:', String(error));
-    console.error('Update failed:', String(error));
+    logger.error('Update failed:', error as Error);
     process.exit(1);
   }
 }

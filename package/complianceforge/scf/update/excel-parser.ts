@@ -1,8 +1,8 @@
-import { getLogger } from '@auditmation/util-logger';
-import * as XLSX from 'xlsx';
-import { SCFDomainData, SCFControlData, SCFProcessedData } from './types';
+import { LoggerEngine } from '@zerobias-org/logger';
+import XLSX from 'xlsx';
+import { SCFDomainData, SCFControlData, SCFProcessedData } from './types.js';
 
-const logger = getLogger('scf-excel-parser');
+const logger = LoggerEngine.root().get('scf-excel-parser');
 
 export class ExcelParser {
   private workbook: XLSX.WorkBook | null = null;

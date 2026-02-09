@@ -1,10 +1,10 @@
-import { getLogger } from '@auditmation/util-logger';
+import { LoggerEngine } from '@zerobias-org/logger';
 import axios from 'axios';
-import * as fs from 'fs';
-import * as path from 'path';
-import { GitHubRelease, SCFVersionInfo, SCFUpdateConfig } from './types';
+import fs from 'fs';
+import path from 'path';
+import { GitHubRelease, SCFVersionInfo, SCFUpdateConfig } from './types.js';
 
-const logger = getLogger('scf-github-client');
+const logger = LoggerEngine.root().get('scf-github-client');
 
 export class GitHubClient {
   private config: SCFUpdateConfig;
