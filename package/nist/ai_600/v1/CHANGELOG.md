@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.1 (2026-02-09)</small>
+
+* chore: modernize n-o framework packages and opencre update script ([68be651](https://github.com/zerobias-org/framework/commit/68be651))
+
+
+
+
+
 # 1.1.0 (2025-09-09)
 
 **Note:** Version bump only for package @zerobias-org/framework-nist-ai_600-v1

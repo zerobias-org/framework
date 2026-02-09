@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.3 (2026-02-09)</small>
+
+* chore: modernize n-o framework packages and opencre update script ([68be651](https://github.com/zerobias-org/framework/commit/68be651))
+* chore(release): bump version ([f6d8eee](https://github.com/zerobias-org/framework/commit/f6d8eee))
+
+
+
+
+
 ## [1.1.2](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-opencre-opencre-update@1.1.2-rc.0...@zerobias-org/framework-opencre-opencre-update@1.1.2) (2026-01-20)
 
 **Note:** Version bump only for package @zerobias-org/framework-opencre-opencre-update

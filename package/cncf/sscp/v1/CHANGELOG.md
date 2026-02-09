@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.0.2 (2026-02-09)</small>
+
+* chore: modernize p-z framework packages ([7ef010f](https://github.com/zerobias-org/standard/commit/7ef010f))
+
+
+
+
+
 ## <small>1.0.1 (2026-02-09)</small>
 
 * chore: modernize a-c framework packages ([0a3ccfa](https://github.com/zerobias-org/standard/commit/0a3ccfa))

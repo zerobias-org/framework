@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.0.1 (2026-02-09)</small>
+
+* chore: modernize n-o framework packages and opencre update script ([68be651](https://github.com/zerobias-org/standard/commit/68be651))
+
+
+
+
+
 # 1.0.0 (2025-06-19)
 
 **Note:** Version bump only for package @zerobias-org/framework-nist-ir8397-v1
