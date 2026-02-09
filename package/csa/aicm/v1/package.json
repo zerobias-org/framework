@@ -10,23 +10,25 @@
     "url": "git@github.com:zerobias-org/framework.git",
     "directory": "package/csa/aicm/v1/"
   },
-  "auditmation": {
-    "package": "csa.aicm.v1.framework",
-    "import-artifact": "framework",
-    "dataloader-version": "1.0.0"
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
+    "validate": "tsx ../../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "files": [
     "index.yml",
-    "elements/**"
+    "baselines/**",
+    "elements/**",
+    "mappings/**"
   ],
+  "zerobias": {
+    "package": "zerobias.csa.aicm.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  },
   "dependencies": {
     "@zerobias-org/suite-csa-aicm": "latest"
-  },
-  "scripts": {
-    "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
-    "validate": "tsx ../../../../scripts/validate.ts"
   }
 }

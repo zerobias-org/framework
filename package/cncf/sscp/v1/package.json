@@ -4,16 +4,15 @@
   "description": "CNCF SSCP v1 Framework",
   "author": "team@zerobias.com",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git@github.com:zerobias-org/standard.git",
     "directory": "package/cncf/sscp/v1/"
   },
   "scripts": {
-    "nx:publish": "../../../../scripts/publish.sh",
-    "prepublishtest": "../../../../scripts/prepublish.sh",
-    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
-    "validate": "ts-node ../../../../scripts/validate.ts"
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
+    "validate": "tsx ../../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -21,17 +20,13 @@
   "files": [
     "index.yml",
     "baselines/**",
-    "elements/**"
+    "elements/**",
+    "mappings/**"
   ],
-  "auditmation": {
-    "dataloader-version": "3.29.26",
+  "zerobias": {
+    "dataloader-version": "1.0.0",
     "import-artifact": "framework",
-    "package": "cncf.sscp.v1.framework"
-  },
-  "devDependencies": {
-    "@auditmation/types-core-js": "^4.9.8",
-    "js-yaml": "^4.1.0",
-    "md-2-json": "^2.0.0"
+    "package": "zerobias.cncf.sscp.v1.framework"
   },
   "dependencies": {
     "markdown-json": "latest"
