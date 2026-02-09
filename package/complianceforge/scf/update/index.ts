@@ -283,20 +283,20 @@ class SCFUpdater {
       const element: SCFElement = {
         id: UUID.generateV4().toString(),
         name: control['SCF Control'].trim(),
-        description: control['Secure Controls Framework (SCF)\r\nControl Description']?.trim() || control['SCF Control'].trim(),
+        description: control['Secure Controls Framework (SCF)\nControl Description']?.trim() || control['SCF Control'].trim(),
         elementType: controlCode.includes('.') ? 'enhancement' : 'control',
         externalId: control['SCF #'].trim(),
         parent,
         controlQuestion: control['SCF Control Question']?.trim(),
         methodsToComply: control['Methods To Comply With SCF Controls']?.trim(),
-        functionGrouping: control['NIST CSF\r\nFunction Grouping']?.trim(),
+        functionGrouping: control['NIST CSF\nFunction Grouping']?.trim(),
         controlWeighting: control['Relative Control Weighting']?.trim(),
-        cmm_0: this.createMaturityLevel(0, control['SP-CMM 0\r\nNot Performed']),
-        cmm_1: this.createMaturityLevel(1, control['SP-CMM 1\r\nPerformed Informally']),
-        cmm_2: this.createMaturityLevel(2, control['SP-CMM 2\r\nPlanned & Tracked']),
-        cmm_3: this.createMaturityLevel(3, control['SP-CMM 3\r\nWell Defined']),
-        cmm_4: this.createMaturityLevel(4, control['SP-CMM 4\r\nQuantitatively Controlled']),
-        cmm_5: this.createMaturityLevel(5, control['SP-CMM 5\r\nContinuously Improving'])
+        cmm_0: this.createMaturityLevel(0, control['C|P-CMM 0\nNot Performed']),
+        cmm_1: this.createMaturityLevel(1, control['C|P-CMM 1\nPerformed Informally']),
+        cmm_2: this.createMaturityLevel(2, control['C|P-CMM 2\nPlanned & Tracked']),
+        cmm_3: this.createMaturityLevel(3, control['C|P-CMM 3\nWell Defined']),
+        cmm_4: this.createMaturityLevel(4, control['C|P-CMM 4\nQuantitatively Controlled']),
+        cmm_5: this.createMaturityLevel(5, control['C|P-CMM 5\nContinuously Improving'])
       };
       
       elements.push(element);
@@ -315,7 +315,7 @@ class SCFUpdater {
       'Continuously Improving'
     ];
     
-    const isAvailable = Boolean(description && !description.includes(`SP-CMM${level} is N/A`));
+    const isAvailable = Boolean(description && !description.includes(`CMM${level} is N/A`) && !description.includes(`CMM ${level} is N/A`));
     
     return {
       name: levelNames[level] || `Level ${level}`,
@@ -340,21 +340,17 @@ class SCFUpdater {
       name: `@zerobias-org/framework-complianceforge-scf-${scfData.version}`,
       version: "1.0.0",
       description: `ComplianceForge SCF ${scfData.version} Controls`,
-      author: "ZeroBias Organization",
-      license: "MIT",
+      author: "team@zerobias.com",
+      license: "ISC",
       repository: {
         type: "git",
-        url: "https://github.com/zerobias-org/framework.git",
+        url: "git@github.com:zerobias-org/framework.git",
         directory: `package/complianceforge/scf/${scfData.version}/`
       },
-      auditmation: {
+      zerobias: {
         package: `complianceforge.scf.${scfData.version.replace(/\./g, '_')}.framework`,
         "import-artifact": "framework",
-        "dataloader-version": "3.29.26"
-      },
-      engines: {
-        node: ">=16.11.0",
-        npm: ">=8.0.0"
+        "dataloader-version": "1.0.0"
       },
       publishConfig: {
         registry: "https://npm.pkg.github.com/"
@@ -365,11 +361,12 @@ class SCFUpdater {
         "elements/**",
         "mappings/**"
       ],
+      dependencies: {
+        "@zerobias-org/suite-complianceforge-scf": "latest"
+      },
       scripts: {
-        "nx:publish": "../../../../scripts/publish.sh",
-        prepublishtest: "../../../../scripts/prepublish.sh",
-        "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
-        validate: "ts-node ../../../../scripts/validate.ts"
+        "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
+        validate: "tsx ../../../../scripts/validate.ts"
       }
     };
 

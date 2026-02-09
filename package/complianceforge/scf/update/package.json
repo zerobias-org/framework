@@ -17,16 +17,15 @@
   },
   "dependencies": {
     "@zerobias-org/logger": "^2.0.33",
-    "@zerobias-org/types-core-js": "^1.2.12",
-    "axios": "^0.27.2",
+    "@zerobias-org/types-core-js": "^1.2.18",
+    "axios": "^1.13.5",
     "exceljs": "^4.4.0",
-    "js-yaml": "^4.1.0",
-    "tsx": "^4.0.0",
-    "xlsx": "^0.18.5"
+    "js-yaml": "^4.1.1",
+    "tsx": "^4.21.0"
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",
-    "@types/node": "^20.0.0",
-    "typescript": "^5.0.0"
+    "@types/node": "^25.2.2",
+    "typescript": "^5.9.3"
   }
 }
