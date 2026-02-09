@@ -27,8 +27,5 @@
     "dataloader-version": "1.0.0",
     "import-artifact": "framework",
     "package": "zerobias.cncf.sscp.v1.framework"
-  },
-  "dependencies": {
-    "markdown-json": "latest"
   }
 }

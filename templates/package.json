@@ -29,9 +29,5 @@
   },
   "dependencies": {
     "@zerobias-org/suite-{vendor}-{suite}": "latest"
-  },
-  "engines": {
-    "node": ">=22.0.0",
-    "npm": ">=10.0.0"
   }
 }

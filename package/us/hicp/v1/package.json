@@ -2,36 +2,33 @@
   "name": "@zerobias-org/framework-us-hicp-v1",
   "version": "1.1.0",
   "description": "Health Industry Cybersecurity Practices (HICP)",
-  "author": "team@neverfail.com",
+  "author": "team@zerobias.com",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git@github.com:zerobias-org/framework.git",
     "directory": "package/us/hicp/v1/"
   },
-  "auditmation": {
-    "package": "us.hicp.v1.framework",
-    "import-artifact": "framework",
-    "dataloader-version": "3.13.8"
-  },
-  "engines": {
-    "node": ">=16.11.0",
-    "npm": ">=8.0.0"
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
+    "validate": "tsx ../../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "files": [
     "index.yml",
-    "elements/**"
+    "baselines/**",
+    "elements/**",
+    "mappings/**"
   ],
+  "zerobias": {
+    "package": "zerobias.us.hicp.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  },
   "dependencies": {
     "@zerobias-org/suite-us-hicp": "latest"
-  },
-  "scripts": {
-    "nx:publish": "../../../../scripts/publish.sh",
-    "prepublishtest": "../../../../scripts/prepublish.sh",
-    "correct:deps": "ts-node ../../../../scripts/correctDeps.ts",
-    "validate": "ts-node ../../../../scripts/validate.ts"
   }
 }
