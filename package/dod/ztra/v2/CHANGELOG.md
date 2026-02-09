@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.3.2 (2026-02-09)</small>
+
+* chore: modernize d-i framework packages ([8df660e](https://github.com/zerobias-org/framework/commit/8df660e))
+
+
+
+
+
 ## [1.3.1](https://github.com/zerobias-org/framework/compare/@zerobias-org/framework-dod-ztra-v2@1.1.0...@zerobias-org/framework-dod-ztra-v2@1.3.1) (2025-10-22)
 
 **Note:** Version bump only for package @zerobias-org/framework-dod-ztra-v2
