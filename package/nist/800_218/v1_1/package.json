@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.nist.800_218.v1_1.framework",
+    "package": "nist.800_218.v1_1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

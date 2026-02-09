@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.iso.42001.2023.framework",
+    "package": "iso.42001.2023.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

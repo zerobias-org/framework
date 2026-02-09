@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.us.cisa.2022.framework",
+    "package": "us.cisa.2022.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

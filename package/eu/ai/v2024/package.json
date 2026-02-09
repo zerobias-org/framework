@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.eu.ai.v2024.framework",
+    "package": "eu.ai.v2024.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

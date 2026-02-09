@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.pci_ssc.dss.v4_0_1.framework",
+    "package": "pci_ssc.dss.v4_0_1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.cisa.ssdaf.v1.framework",
+    "package": "cisa.ssdaf.v1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

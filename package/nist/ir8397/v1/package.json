@@ -26,7 +26,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "framework",
-    "package": "zerobias.nist.ir8397.v1.framework"
+    "package": "nist.ir8397.v1.framework"
   },
   "dependencies": {
     "@zerobias-org/suite-nist-ir8397": "latest"

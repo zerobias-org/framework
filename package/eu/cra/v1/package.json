@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.eu.cra.v1.framework",
+    "package": "eu.cra.v1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

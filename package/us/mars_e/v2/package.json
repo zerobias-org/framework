@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.us.mars_e.v2.framework",
+    "package": "us.mars_e.v2.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

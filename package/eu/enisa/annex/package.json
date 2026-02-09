@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.eu.enisa.annex.framework",
+    "package": "eu.enisa.annex.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

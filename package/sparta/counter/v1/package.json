@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.sparta.counter.v1.framework",
+    "package": "sparta.counter.v1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

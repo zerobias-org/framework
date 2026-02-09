@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.sa.sai.v2024.framework",
+    "package": "sa.sai.v2024.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

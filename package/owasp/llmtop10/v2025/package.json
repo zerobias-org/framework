@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.owasp.llmtop10.v2025.framework",
+    "package": "owasp.llmtop10.v2025.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

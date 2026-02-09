@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.aiuc.aiuc_1.v1.framework",
+    "package": "aiuc.aiuc_1.v1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

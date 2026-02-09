@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.complianceforge.scf.2025_2_1.framework",
+    "package": "complianceforge.scf.2025_2_1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   }

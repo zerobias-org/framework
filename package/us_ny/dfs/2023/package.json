@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.us_ny.dfs.2023.framework",
+    "package": "us_ny.dfs.2023.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

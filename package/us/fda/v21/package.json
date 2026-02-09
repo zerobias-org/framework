@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.us.fda.v21.framework",
+    "package": "us.fda.v21.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

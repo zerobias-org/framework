@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.nz.hisf.suppliers.framework",
+    "package": "nz.hisf.suppliers.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

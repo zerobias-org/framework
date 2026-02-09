@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.us.cjis.v5_9_3.framework",
+    "package": "us.cjis.v5_9_3.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

@@ -26,7 +26,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "framework",
-    "package": "zerobias.nist.label.2022.framework"
+    "package": "nist.label.2022.framework"
   },
   "dependencies": {
     "@zerobias-org/suite-nist-label": "latest"

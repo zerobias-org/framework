@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.us_ca.cpra.2022.framework",
+    "package": "us_ca.cpra.2022.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

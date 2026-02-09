@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.au.ism.v1.framework",
+    "package": "au.ism.v1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },

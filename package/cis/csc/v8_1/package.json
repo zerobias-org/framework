@@ -24,7 +24,7 @@
     "mappings/**"
   ],
   "zerobias": {
-    "package": "zerobias.cis.csc.v8_1.framework",
+    "package": "cis.csc.v8_1.framework",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
   },
