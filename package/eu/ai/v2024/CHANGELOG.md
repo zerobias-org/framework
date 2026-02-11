@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.5 (2026-02-11)</small>
+
+* chore(eu-ai): rename zerobias section to auditmation in package.json ([4c416db](https://github.com/zerobias-org/framework/commit/4c416db))
+
+
+
+
+
 ## <small>1.1.4 (2026-02-11)</small>
 
 * fix(eu-ai): correct description and typos in EU AI Act framework ([076bc74](https://github.com/zerobias-org/framework/commit/076bc74))
