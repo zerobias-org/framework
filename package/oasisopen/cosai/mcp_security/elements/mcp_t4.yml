@@ -1,0 +1,10 @@
+id: 7c4a2118-b4c9-4780-a7d3-c5e55af85d80
+externalId: MCP-T4
+name: Input/Instruction Boundary Distinction Failure
+description: >-
+  MCP does not enforce a distinction between trusted instructions and untrusted
+  data, creating risks of indirect prompt injection where attacker-controlled
+  data in MCP tool responses or resources is interpreted as instructions by
+  the LLM, leading to unauthorized actions.
+elementType: threat_category
+parent: mcp_specific_threats

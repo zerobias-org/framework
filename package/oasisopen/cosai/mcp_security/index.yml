@@ -1,0 +1,27 @@
+id: 61cac656-3ed6-4b7e-add4-1b4893f8d09f
+name: CoSAI MCP Security
+externalId: CoSAI-MCP-Security
+description: >-
+  The CoSAI MCP Security framework provides a systematic threat analysis and
+  security control mapping for the Model Context Protocol (MCP). It identifies
+  12 threat categories across MCP-specific, contextualized, and conventional
+  security domains, along with 11 security controls for mitigating risks in
+  agentic AI systems that use MCP for tool integration.
+code: oasisopen_cosai_mcp_security
+status: approved
+url: https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 5ab45d54-3fe5-4e68-ab12-d9b99ceaf042
+    code: threat_category
+    name: Threat Category
+    description: MCP security threat category identifying specific attack vectors and vulnerabilities
+  - id: b7467c4e-ece2-41b8-b2d9-871c29e0c7dd
+    code: control
+    name: Control
+    description: Security control or mitigation measure for MCP threat categories
+mappingTypes:
+  - threat_category
+  - control

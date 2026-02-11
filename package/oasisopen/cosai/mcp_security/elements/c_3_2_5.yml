@@ -1,0 +1,9 @@
+id: 9f295d1a-b849-4069-8542-7db5dbbfa9b8
+externalId: C-3.2.5
+name: Sandboxing and Isolation
+description: >-
+  Deploy MCP servers and tool executions within sandboxed environments with
+  strict resource isolation. Use containerization, process isolation, and
+  network segmentation to contain potential compromises and prevent lateral
+  movement between MCP components.
+elementType: control

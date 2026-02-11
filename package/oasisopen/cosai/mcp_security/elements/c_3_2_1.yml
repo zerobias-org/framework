@@ -1,0 +1,9 @@
+id: f6f2e846-fd4c-4fad-94af-3334a12ceb4b
+externalId: C-3.2.1
+name: Agent Identity
+description: >-
+  Establish and verify agent identity through robust authentication mechanisms
+  including OAuth 2.1 with PKCE, mutual TLS, or equivalent protocols. Ensure
+  MCP clients and servers can authenticate each other and maintain verifiable
+  identity chains across tool invocations.
+elementType: control

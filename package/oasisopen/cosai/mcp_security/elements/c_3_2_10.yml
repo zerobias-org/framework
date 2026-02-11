@@ -1,0 +1,9 @@
+id: ec35102f-f3e5-4d19-a972-1988df22868a
+externalId: C-3.2.10
+name: Logging
+description: >-
+  Implement comprehensive logging for all MCP operations including tool
+  invocations, resource access, authentication events, and error conditions.
+  Ensure logs capture sufficient context for incident investigation, compliance
+  auditing, and anomaly detection in MCP-connected systems.
+elementType: control

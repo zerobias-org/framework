@@ -1,0 +1,10 @@
+id: 6932f3b8-36a3-4408-b8ee-2ad727b243f6
+externalId: MCP-T3
+name: Input Validation/Sanitization Failures
+description: >-
+  Insufficient validation and sanitization of inputs flowing through MCP tool
+  calls, prompts, and resource URIs, enabling injection attacks including
+  command injection, path traversal, SQL injection, and cross-site scripting
+  through MCP message payloads.
+elementType: threat_category
+parent: mcp_specific_threats

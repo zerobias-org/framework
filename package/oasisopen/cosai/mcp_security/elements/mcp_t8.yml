@@ -1,0 +1,10 @@
+id: 7ad89a00-dacd-440b-9b22-bea827f87f1f
+externalId: MCP-T8
+name: Network Binding/Isolation Failures
+description: >-
+  MCP servers binding to network interfaces without proper isolation controls,
+  enabling unauthorized access from other processes or network hosts. This is
+  particularly critical for local MCP servers using SSE transport that may
+  inadvertently expose services beyond localhost.
+elementType: threat_category
+parent: contextualized_threats

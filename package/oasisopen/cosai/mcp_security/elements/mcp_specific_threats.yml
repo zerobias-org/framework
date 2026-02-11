@@ -1,0 +1,8 @@
+id: f4ad2465-e058-4100-96d0-bd42f6db08b3
+externalId: MCP-Specific-Threats
+name: MCP-Specific Threats
+description: >-
+  Threats that are unique to MCP's architecture and protocol design, including
+  authentication, access control, input validation, and instruction boundary
+  failures specific to the MCP protocol.
+elementType: threat_category
