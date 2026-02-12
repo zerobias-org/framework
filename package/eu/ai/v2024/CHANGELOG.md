@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.6 (2026-02-12)</small>
+
+**Note:** Version bump only for package @zerobias-org/framework-eu-ai-v2024
+
+
+
+
+
 ## <small>1.1.5 (2026-02-11)</small>
 
 * chore(eu-ai): rename zerobias section to auditmation in package.json ([4c416db](https://github.com/zerobias-org/framework/commit/4c416db))

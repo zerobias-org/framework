@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.0.5 (2026-02-12)</small>
+
+**Note:** Version bump only for package @zerobias-org/framework-complianceforge-scf-2025.4
+
+
+
+
+
 ## <small>1.0.4 (2026-02-09)</small>
 
 * chore: trigger bundle update ([9aa53c3](https://github.com/zerobias-org/framework/commit/9aa53c3))
