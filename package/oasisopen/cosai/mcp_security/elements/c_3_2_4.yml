@@ -1,0 +1,9 @@
+id: c55cb584-df61-4c28-9458-12e1d7f806cd
+externalId: C-3.2.4
+name: Cryptographic Integrity and Remote Attestation
+description: >-
+  Use cryptographic signatures and remote attestation to verify the integrity
+  of MCP tool definitions, server responses, and resource content. Implement
+  hash-based verification, signed manifests, and attestation protocols to
+  detect tampering.
+elementType: control

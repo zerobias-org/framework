@@ -1,0 +1,10 @@
+id: a9c951ed-babd-433b-8c6c-7987055f47ea
+externalId: MCP-T2
+name: Missing or Improper Access Control
+description: >-
+  MCP does not define access control mechanisms, leaving authorization decisions
+  to implementations. This can lead to excessive permissions, privilege escalation,
+  unauthorized resource access, and failure to enforce least-privilege principles
+  across MCP tool invocations.
+elementType: threat_category
+parent: mcp_specific_threats

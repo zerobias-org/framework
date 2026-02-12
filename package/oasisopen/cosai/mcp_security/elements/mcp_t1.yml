@@ -1,0 +1,10 @@
+id: 245400ea-413f-4020-b57e-82cd0b995cd6
+externalId: MCP-T1
+name: Improper Authentication and Identity Management
+description: >-
+  MCP lacks a built-in authentication framework, leaving identity verification
+  to individual implementations. This creates risks of unauthenticated access,
+  identity spoofing, and credential theft across MCP clients, servers, and
+  transport layers.
+elementType: threat_category
+parent: mcp_specific_threats

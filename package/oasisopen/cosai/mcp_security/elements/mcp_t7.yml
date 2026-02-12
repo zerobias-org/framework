@@ -1,0 +1,10 @@
+id: 85c3a468-76be-4954-ad7f-d88db4ad3716
+externalId: MCP-T7
+name: Session and Transport Security Failures
+description: >-
+  Vulnerabilities in MCP session management and transport layer security,
+  including session hijacking, token theft, replay attacks, and inadequate
+  encryption of MCP communications across both stdio and HTTP/SSE transport
+  mechanisms.
+elementType: threat_category
+parent: contextualized_threats

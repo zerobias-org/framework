@@ -1,0 +1,9 @@
+id: 9c7f2a03-aea3-41a1-8a6c-7e44d33f9727
+externalId: C-3.2.2
+name: Secure Delegation and Access Control
+description: >-
+  Implement fine-grained access control and secure delegation mechanisms for
+  MCP tool invocations. Enforce least-privilege principles, scope-based
+  permissions, and capability-based authorization to prevent privilege
+  escalation and unauthorized resource access.
+elementType: control

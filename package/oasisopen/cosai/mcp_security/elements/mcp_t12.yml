@@ -1,0 +1,10 @@
+id: e1035e3f-c509-41f5-b5ce-32f1db2225eb
+externalId: MCP-T12
+name: Insufficient Logging, Monitoring, and Auditability
+description: >-
+  Inadequate logging and monitoring capabilities in MCP implementations,
+  making it difficult to detect security incidents, trace tool invocations,
+  audit data access patterns, and maintain accountability for actions taken
+  through MCP-connected AI systems.
+elementType: threat_category
+parent: conventional_threats

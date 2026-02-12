@@ -1,0 +1,10 @@
+id: 419b2671-d695-4c5b-87ed-efdf9f02efa1
+externalId: MCP-T6
+name: Missing Integrity/Verification Controls
+description: >-
+  MCP lacks built-in integrity verification mechanisms for tool definitions,
+  resource content, and server responses, enabling tool definition tampering,
+  response manipulation, and man-in-the-middle attacks that can alter the
+  behavior of MCP-connected AI systems.
+elementType: threat_category
+parent: contextualized_threats

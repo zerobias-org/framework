@@ -1,0 +1,9 @@
+id: 47b501ab-ddf7-43b0-aad8-9f7fc18ec2f4
+externalId: C-3.2.7
+name: Transport Layer Security
+description: >-
+  Enforce TLS 1.3 or equivalent encryption for all MCP network communications.
+  Implement certificate validation, certificate pinning where appropriate,
+  and secure configuration of both HTTP/SSE and stdio transport mechanisms
+  to protect data in transit.
+elementType: control

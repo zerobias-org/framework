@@ -1,0 +1,9 @@
+id: 6cb05192-c713-4545-a523-11c966c5eb95
+externalId: C-3.2.6
+name: Cryptographic Verification of Resources
+description: >-
+  Implement cryptographic verification for MCP resources including server
+  packages, tool definitions, and data sources. Use code signing, package
+  integrity checks, and trusted registries to ensure resource authenticity
+  and prevent supply chain attacks.
+elementType: control
