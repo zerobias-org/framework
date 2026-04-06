@@ -1,0 +1,45 @@
+id: b4cc8437-938c-42cb-862c-12c9011c4813
+name: Ownership Change Provisions
+description: |-
+  Mechanisms exist to contractually impose safeguards (e.g., additional controls, access modification, contract termination, etc.) from Foreign Ownership, Control or Influence (FOCI) concerns to ensure that:
+  (1) Unauthorized access to sensitive and/or regulated data is prevented; and 
+  (2) Performance of contracts is not adversely affected.
+elementType: enhancement
+externalId: TPM-12.2
+parent: tpm-12
+controlQuestion: |-
+  Does the organization contractually impose safeguards (e.g., additional controls, access modification, contract termination, etc.) from Foreign Ownership, Control or Influence (FOCI) concerns  to ensure that:
+  (1) Unauthorized access to sensitive and/or regulated data is prevented; and 
+  (2) Performance of contracts is not adversely affected?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

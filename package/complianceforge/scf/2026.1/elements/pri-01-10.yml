@@ -1,0 +1,39 @@
+id: 72ebd0b4-0350-4051-9b12-b869bb5e9f3d
+name: Financial Incentives For Personal Data (PD)
+description: Mechanisms exist to strictly govern financial incentives offered to data subjects for Personal Data (PD) to ensure compliance with applicable legal and regulatory requirements.
+elementType: enhancement
+externalId: PRI-01.10
+parent: pri-01
+controlQuestion: Does the organization strictly govern financial incentives offered to data subjects for Personal Data (PD) to ensure compliance with applicable legal and regulatory requirements?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

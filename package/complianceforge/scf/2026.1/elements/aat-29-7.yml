@@ -1,0 +1,39 @@
+id: 04655ebe-6761-4514-a176-4c4eecce6f0c
+name: AI Agent Data Access Restrictions
+description: Mechanisms exist to restrict agent access to sensitive/regulated data so that AI agents cannot ingest, generate or act on unauthorized data.
+elementType: enhancement
+externalId: AAT-29.7
+parent: aat-29
+controlQuestion: Does the organization restrict agent access to sensitive/regulated data so that AI agents cannot ingest, generate or act on unauthorized data?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

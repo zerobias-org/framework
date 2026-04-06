@@ -1,0 +1,47 @@
+id: c68ac7e9-0efc-40a7-aba1-47be15a4704c
+name: Incident Pattern Analysis
+description: |-
+  Mechanisms exist to analyze historical incidents in aggregate to identify:
+  (1) Patterns;
+  (2) Trends; and 
+  (3) Other common root causes in order to address the vulnerability and risk.
+elementType: enhancement
+externalId: IRO-09.4
+parent: iro-09
+controlQuestion: |-
+  Does the organization analyze historical incidents in aggregate to identify:
+  (1) Patterns;
+  (2) Trends; and 
+  (3) Other common root causes in order to address the vulnerability and risk?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

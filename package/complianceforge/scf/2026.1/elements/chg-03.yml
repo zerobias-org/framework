@@ -1,0 +1,39 @@
+id: c2c387a4-45c3-4359-9a17-9ae9ee038fe0
+name: Security Impact Analysis for Changes
+description: Mechanisms exist to analyze proposed changes for potential security impacts, prior to the implementation of the change.
+elementType: control
+externalId: CHG-03
+parent: chg
+controlQuestion: Does the organization analyze proposed changes for potential security impacts, prior to the implementation of the change?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

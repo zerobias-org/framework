@@ -1,0 +1,39 @@
+id: ffd6b150-d2df-4d41-bcde-289e29834554
+name: Assessment Rigor
+description: Mechanisms exist to define the level of assessment rigor necessary to conduct a cybersecurity and/or data protection assessment.
+elementType: enhancement
+externalId: CPL-03.5
+parent: cpl-03
+controlQuestion: Does the organization define the level of assessment rigor necessary to conduct a cybersecurity and/or data protection assessment?
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

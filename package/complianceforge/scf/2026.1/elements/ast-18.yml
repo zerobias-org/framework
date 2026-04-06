@@ -1,0 +1,39 @@
+id: d8e6e80d-fef7-477b-ac5c-2bff26593ca8
+name: Roots of Trust Protection
+description: Mechanisms exist to provision and protect the confidentiality, integrity and authenticity of product supplier keys and data that can be used as a “roots of trust” basis for integrity verification.
+elementType: control
+externalId: AST-18
+parent: ast
+controlQuestion: Does the organization provision and protect the confidentiality, integrity and authenticity of product supplier keys and data that can be used as a “roots of trust” basis for integrity verification?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 4c592507-c880-4285-a5ff-1e2b1d89b6f4
+name: Privileged Command Execution
+description: Mechanisms exist to ensure privilege change requests require additional levels of authentication.
+elementType: enhancement
+externalId: IAC-16.3
+parent: iac-16
+controlQuestion: Does the organization ensure privilege change requests require additional levels of authentication?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

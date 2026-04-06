@@ -1,0 +1,39 @@
+id: 11e2544a-f6fd-4954-b2c3-2476a588aafe
+name: Route Privileged Network Access
+description: Automated mechanisms exist to route networked, privileged accesses through a dedicated, managed interface for purposes of access control and auditing.
+elementType: enhancement
+externalId: NET-18.3
+parent: net-18
+controlQuestion: Does the organization use automated mechanisms to route networked, privileged accesses through a dedicated, managed interface for purposes of access control and auditing?
+functionGrouping: Detect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

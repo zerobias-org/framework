@@ -1,0 +1,39 @@
+id: 60392aed-5b0c-4a0e-aab0-8df2e6906e2a
+name: Choice Architecture
+description: Mechanisms exist to avoid choice architecture that impairs, interferes with or subverts a consumer’s ability to make well-informed choices.
+elementType: enhancement
+externalId: PRI-02.11
+parent: pri-02
+controlQuestion: Does the organization avoid choice architecture that impairs, interferes with or subverts a consumer’s ability to make well-informed choices?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

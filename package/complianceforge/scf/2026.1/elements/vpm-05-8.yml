@@ -1,0 +1,45 @@
+id: d717272a-0889-45f7-8eab-53b613b9b33c
+name: Software Patch Integrity
+description: |-
+  Mechanisms exist to ensure software and/or firmware patches are:
+  (1) Obtained from trusted sources; and 
+  (2) Checked for integrity.
+elementType: enhancement
+externalId: VPM-05.8
+parent: vpm-05
+controlQuestion: |-
+  Does the organization ensure software and/or firmware patches are:
+  (1) Obtained from trusted sources; and 
+  (2) Checked for integrity?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: c23ad506-5816-4b05-9194-3689ddeef2a5
+name: Insider Threat Program
+description: Mechanisms exist to implement an insider threat program that includes a cross-discipline insider threat incident handling team.
+elementType: control
+externalId: THR-04
+parent: thr
+controlQuestion: Does the organization implement an insider threat program that includes a cross-discipline insider threat incident handling team?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

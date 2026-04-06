@@ -1,0 +1,51 @@
+id: 84b30138-2c42-4cfc-8233-44fcc3507c9e
+name: Asset Inventories
+description: |-
+  Mechanisms exist to perform inventories of Technology Assets, Applications, Services and/or Data (TAASD) that:
+  (1) Accurately reflects the current TAASD in use; 
+  (2) Identifies authorized software products, including business justification details;
+  (3) Is at the level of granularity deemed necessary for tracking and reporting;
+  (4) Includes organization-defined information deemed necessary to achieve effective property accountability; and
+  (5) Is available for review and audit by designated organizational personnel.
+elementType: control
+externalId: AST-02
+parent: ast
+controlQuestion: |-
+  Does the organization perform inventories of Technology Assets, Applications, Services and/or Data (TAASD) that:
+   (1) Accurately reflects the current TAASD in use; 
+   (2) Identifies authorized software products, including business justification details;
+   (3) Is at the level of granularity deemed necessary for tracking and reporting;
+   (4) Includes organization-defined information deemed necessary to achieve effective property accountability; and
+   (5) Is available for review and audit by designated organizational personnel?
+functionGrouping: Identify
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

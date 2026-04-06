@@ -1,0 +1,39 @@
+id: e7c92f01-952e-4c0f-bccb-78f631837749
+name: Choice Architecture Testing
+description: Mechanisms exist to perform testing of choice architecture to ensure it does not undermine a consumer’s ability to submit choice selections.
+elementType: enhancement
+externalId: PRI-02.12
+parent: pri-02
+controlQuestion: Does the organization perform testing of choice architecture to ensure it does not undermine a consumer’s ability to submit choice selections?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 50fefdee-22ba-45d4-9db8-75406b45ad3f
+name: Re-Validate Collected Personal Data (PD)
+description: Mechanisms exist to ensure that the data subject, or authorized representative, re-validate that Personal Data (PD) acquired during the collection process is still accurate.
+elementType: enhancement
+externalId: PRI-04.6
+parent: pri-04
+controlQuestion: Does the organization ensure that the data subject, or authorized representative, re-validate that Personal Data (PD) acquired during the collection process is still accurate?
+functionGrouping: Identify
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

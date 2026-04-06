@@ -1,0 +1,39 @@
+id: ea22f94a-34cf-44f4-9900-b88ca545b077
+name: Evidence Sampling
+description: Mechanisms exist to define evidence sampling criteria for cybersecurity and/or data protection assessments.
+elementType: enhancement
+externalId: CPL-03.7
+parent: cpl-03
+controlQuestion: Does the organization define evidence sampling criteria for cybersecurity and/or data protection assessments?
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

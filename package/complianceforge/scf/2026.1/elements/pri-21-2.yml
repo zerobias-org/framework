@@ -1,0 +1,45 @@
+id: c7dba43f-d3d5-4018-bb53-9690ce31cc8b
+name: Alternative Out-Out Link
+description: |-
+  Mechanisms exist to publish a single, clearly-labeled link that allows data subjects to efficiently exercise their opt-out rights to:
+  (1) Limit the collection and/or use of Personal Data (PD); and
+  (2) Not sell or share PD.
+elementType: enhancement
+externalId: PRI-21.2
+parent: pri-21
+controlQuestion: |-
+  Does the organization publish a single, clearly-labeled link that allows data subjects to efficiently exercise their opt-out rights to:
+  (1) Limit the collection and/or use of Personal Data (PD); and
+  (2) Not sell or share PD?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

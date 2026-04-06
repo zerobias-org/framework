@@ -1,0 +1,45 @@
+id: d28b57b6-d62f-4a88-9c88-2b175c78a020
+name: Wireless Network Monitoring
+description: |-
+  Mechanisms exist to monitor wireless network segments for:
+  (1) Rogue wireless devices; and
+  (2) Anomalous and/or hostile activities.
+elementType: enhancement
+externalId: MON-01.5
+parent: mon-01
+controlQuestion: |-
+  Does the organization monitor wireless network segments for:
+  (1) Rogue wireless devices; and
+  (2) Anomalous and/or hostile activities?
+functionGrouping: Detect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

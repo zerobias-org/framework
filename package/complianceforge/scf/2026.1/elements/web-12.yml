@@ -1,0 +1,39 @@
+id: a39aa81e-61e2-4d23-a515-dd50d8f97fa3
+name: Web Browser Security
+description: Mechanisms exist to ensure web applications implement Content-Security-Policy, HSTS and X-Frame-Options response headers to protect both the web application and its users.
+elementType: control
+externalId: WEB-12
+parent: web
+controlQuestion: Does the organization ensure web applications implement Content-Security-Policy, HSTS and X-Frame-Options response headers to protect both the web application and its users?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

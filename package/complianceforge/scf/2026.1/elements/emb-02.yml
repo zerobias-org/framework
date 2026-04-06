@@ -1,0 +1,39 @@
+id: 9d62cddd-7c1e-4b93-af69-5736f7076d89
+name: Internet of Things (IOT)
+description: Mechanisms exist to proactively manage the security, compliance and resilience risks associated with Internet of Things (IoT).
+elementType: control
+externalId: EMB-02
+parent: emb
+controlQuestion: Does the organization proactively manage the security, compliance and resilience risks associated with Internet of Things (IoT)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
