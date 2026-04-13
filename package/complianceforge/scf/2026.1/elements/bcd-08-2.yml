@@ -1,0 +1,39 @@
+id: 76c9c165-e39f-40e2-aef0-1102d5e24efd
+name: Primary Storage Site Accessibility
+description: Mechanisms exist to identify and mitigate potential accessibility problems to the alternate storage sites in the event of an area-wide disruption or disaster.
+elementType: enhancement
+externalId: BCD-08.2
+parent: bcd-08
+controlQuestion: Does the organization identify and mitigate potential accessibility problems to the alternate storage site in the event of an area-wide disruption or disaster?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

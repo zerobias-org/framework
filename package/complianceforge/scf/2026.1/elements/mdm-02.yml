@@ -1,0 +1,39 @@
+id: dc36f0c8-8ea4-4311-84b1-3933e52e3e16
+name: Access Control For Mobile Devices
+description: Mechanisms exist to enforce access control requirements for the connection of mobile devices to organizational Technology Assets, Applications and/or Services (TAAS).
+elementType: control
+externalId: MDM-02
+parent: mdm
+controlQuestion: Does the organization enforce access control requirements for the connection of mobile devices to organizational Technology Assets, Applications and/or Services (TAAS)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

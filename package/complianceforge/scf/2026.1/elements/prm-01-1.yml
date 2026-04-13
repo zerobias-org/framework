@@ -1,0 +1,45 @@
+id: d0458aac-b10c-43bb-9b06-31a52e6ebc97
+name: Strategic Plan & Objectives
+description: |-
+  Mechanisms exist to establish a:
+  (1) Strategic security, compliance and resilience-specific business plan; and 
+  (2) Set of objectives to achieve that plan.
+elementType: enhancement
+externalId: PRM-01.1
+parent: prm-01
+controlQuestion: |-
+  Does the organization establish a:
+  (1) Strategic security, compliance and resilience-specific business plan; and 
+  (2) Set of objectives to achieve that plan?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

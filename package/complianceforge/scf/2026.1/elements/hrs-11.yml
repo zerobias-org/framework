@@ -1,0 +1,39 @@
+id: bfb4a954-6fca-47ca-8571-11be273e756d
+name: Separation of Duties (SoD)
+description: Mechanisms exist to implement and maintain Separation of Duties (SoD) to prevent potential inappropriate activity without collusion.
+elementType: control
+externalId: HRS-11
+parent: hrs
+controlQuestion: Does the organization implement and maintain Separation of Duties (SoD) to prevent potential inappropriate activity without collusion?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

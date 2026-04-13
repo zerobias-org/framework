@@ -1,0 +1,39 @@
+id: bee92fa4-7e0e-4184-8a6d-48a43e1d339c
+name: Business As Usual (BAU) Security, Compliance & Resilience Practices
+description: Mechanisms exist to incorporate security, compliance and resilience principles into Business As Usual (BAU) practices through executive leadership involvement.
+elementType: control
+externalId: GOV-14
+parent: gov
+controlQuestion: Does the organization  incorporate security, compliance and resilience principles into Business As Usual (BAU) practices through executive leadership involvement?
+functionGrouping: Govern
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

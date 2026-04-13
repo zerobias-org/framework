@@ -1,0 +1,39 @@
+id: 1865abd1-1dd1-407d-813e-44f222af5907
+name: Session Termination
+description: Automated mechanisms exist to log out users, both locally on the network and for remote sessions, at the end of the session or after an organization-defined period of inactivity.
+elementType: control
+externalId: IAC-25
+parent: iac
+controlQuestion: Does the organization use automated mechanisms to log out users, both locally on the network and for remote sessions, at the end of the session or after an organization-defined period of inactivity?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

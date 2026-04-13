@@ -1,0 +1,39 @@
+id: 0d237751-8b9f-4394-807d-44a14d90e21f
+name: Dual Authorization for Change
+description: Mechanisms exist to enforce a two-person rule for implementing changes to critical Technology Assets, Applications and/or Services (TAAS).
+elementType: enhancement
+externalId: CHG-04.3
+parent: chg-04
+controlQuestion: Does the organization enforce a two-person rule for implementing changes to critical Technology Assets, Applications and/or Services (TAAS)?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

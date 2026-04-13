@@ -1,0 +1,47 @@
+id: 8754ef93-add6-4dc7-9c70-9df238816b7e
+name: AI & Autonomous Technologies High Risk Designations
+description: |-
+  Mechanisms exist to designate Artificial Intelligence (AI) and Autonomous Technologies (AAT) "High Risk" if one(1), or more, of the following criteria are met:
+  (1) AAT is used as a safety component of a product or service;
+  (2) AAT poses a significant risk of harm to an individual's health, safety or fundamental rights; and/or
+  (3) AAT materially influences the outcome of an individual's decision making.
+elementType: enhancement
+externalId: AAT-09.1
+parent: aat-09
+controlQuestion: |-
+  Does the organization designate Artificial Intelligence (AI) and Autonomous Technologies (AAT) "High Risk" if one(1), or more, of the following criteria are met:
+  (1) AAT is used as a safety component of a product or service;
+  (2) AAT poses a significant risk of harm to an individual's health, safety or fundamental rights; and/or
+  (3) AAT materially influences the outcome of an individual's decision making?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

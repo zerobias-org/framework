@@ -1,0 +1,39 @@
+id: 863ace28-c6f0-42af-a5be-cb52dbc5470a
+name: AI & Autonomous Technologies Production Monitoring
+description: Mechanisms exist to monitor the functionality and behavior of the deployed Artificial Intelligence (AI) and Autonomous Technologies (AAT).
+elementType: control
+externalId: AAT-16
+parent: aat
+controlQuestion: Does the organization monitor the functionality and behavior of the deployed Artificial Intelligence (AI) and Autonomous Technologies (AAT)?
+functionGrouping: Detect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

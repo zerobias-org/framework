@@ -1,0 +1,39 @@
+id: fdf1507c-8f75-46e8-957a-1f71d67217b6
+name: Business Process Task Enumeration
+description: Mechanisms exist to identify and enumerate business process task activities that can be executed both manually and in an automated fashion.
+elementType: enhancement
+externalId: AAT-32.1
+parent: aat-32
+controlQuestion: Does the organization identify and enumerate business process task activities that can be executed both manually and in an automated fashion?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

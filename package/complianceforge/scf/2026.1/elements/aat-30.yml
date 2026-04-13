@@ -1,0 +1,39 @@
+id: 1a643955-6e32-4951-90fe-ed95ca806957
+name: Agentic Output Traceability & Repudiation
+description: Mechanisms exist to ensure AI agent actions offer non-repudiation and enable forensic examination to determine accountability.
+elementType: control
+externalId: AAT-30
+parent: aat
+controlQuestion: Does the organization ensure AI agent actions offer non-repudiation and enable forensic examination to determine accountability?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

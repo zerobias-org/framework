@@ -1,0 +1,39 @@
+id: 44bcbea3-9fa0-4578-b349-619a93fab524
+name: Adequate Protections For AI & Autonomous Technologies
+description: Mechanisms exist to ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) include reasonable security, compliance and resilience protections that are commensurate with assessed risks and threats.
+elementType: enhancement
+externalId: AAT-02.3
+parent: aat-02
+controlQuestion: Does the organization ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) include reasonable security, compliance and resilience protections that are commensurate with assessed risks and threats?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

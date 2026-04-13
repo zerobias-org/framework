@@ -1,0 +1,39 @@
+id: d56d8bfa-a008-4f7e-a94b-f2fa6cf48a67
+name: Control Reciprocity
+description: Mechanisms exist to define instances of control reciprocity within assessment boundaries.
+elementType: control
+externalId: CPL-09
+parent: cpl
+controlQuestion: Does the organization define instances of control reciprocity within assessment boundaries?
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
