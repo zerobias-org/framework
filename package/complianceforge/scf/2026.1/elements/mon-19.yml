@@ -1,0 +1,39 @@
+id: 03f5e263-a5c4-4c7b-9b88-a63603609a39
+name: Write Once Read Many (WORM) Event Log Generation
+description: Mechanisms exist to produce event logs on hardware-enforced, write-once media (e.g., Write Once Read Many (WORM) technologies).
+elementType: control
+externalId: MON-19
+parent: mon
+controlQuestion: Does the organization produce event logs on hardware-enforced, write-once media (e.g., Write Once Read Many (WORM) technologies)?
+functionGrouping: Identify
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

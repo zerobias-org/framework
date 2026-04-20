@@ -5,18 +5,16 @@ externalId: 146-706
 elementType: cre
 links:
   demonstrates:
-    - CWE-20
     - owasp.asvs.v4_0_3.framework/13.2.2
+    - CWE-1173
+    - CWE-20
     - OWASP Cheat Sheets/REST Assessment Cheat Sheet
     - OWASP Cheat Sheets/REST Security Cheat Sheet
     - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet
-    - CWE-1173
     - CWE-1285
     - CWE-1286
     - CWE-1288
     - CWE-622
-    - CWE-1174
-    - CWE-554
     - CAPEC-10
     - CAPEC-101
     - CAPEC-104

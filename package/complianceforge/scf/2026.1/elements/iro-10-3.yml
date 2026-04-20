@@ -1,0 +1,39 @@
+id: 606bf2c4-5292-4084-8691-42fea733faf8
+name: Vulnerabilities Related To Incidents
+description: Mechanisms exist to report system vulnerabilities associated with reported cybersecurity and data protection incidents to organization-defined personnel or roles.
+elementType: enhancement
+externalId: IRO-10.3
+parent: iro-10
+controlQuestion: Does the organization report system vulnerabilities associated with reported cybersecurity and data protection incidents to organization-defined personnel or roles?
+functionGrouping: Respond
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

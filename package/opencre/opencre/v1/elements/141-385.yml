@@ -1,0 +1,15 @@
+id: 8174a77a-e2ce-4a35-ab0d-305d0d244a72
+name: Model exfiltration
+description: Model exfiltration
+externalId: 141-385
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.1
+    - OWASP Top10 for ML/ML05:2023
+    - MITRE ATLAS/AML.T0024.002
+    - 'BIML/BIML-78(2020): model:5'
+    - OWASP AI Exchange/modelexfiltration
+    - NIST AI 100-2/Sec. 2.4.3
+    - 'ENISA/Table 3:'
+parent: 267-786

@@ -1,0 +1,39 @@
+id: a12ef8a1-676b-4408-8356-7e2770ba855b
+name: Validate Collected Personal Data (PD)
+description: Mechanisms exist to ensure that the data subject, or authorized representative, validate Personal Data (PD) during the collection process.
+elementType: enhancement
+externalId: PRI-04.5
+parent: pri-04
+controlQuestion: Does the organization ensure that the data subject, or authorized representative, validate Personal Data (PD) during the collection process?
+functionGrouping: Identify
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

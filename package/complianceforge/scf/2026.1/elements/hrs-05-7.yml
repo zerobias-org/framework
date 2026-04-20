@@ -1,0 +1,39 @@
+id: acbb7d07-b0c6-4405-86d5-02559ad3eb7c
+name: Policy Familiarization & Acknowledgement
+description: Mechanisms exist to ensure personnel receive recurring familiarization with the organization's security, compliance and resilience policies and provide acknowledgement.
+elementType: enhancement
+externalId: HRS-05.7
+parent: hrs-05
+controlQuestion: Does the organization ensure personnel receive recurring familiarization with the organization's security, compliance and resilience policies and provide acknowledgement?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

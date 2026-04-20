@@ -1,0 +1,39 @@
+id: d78d08cc-2dcc-4b09-b4cc-014f1ed28df4
+name: Symmetry In Choice
+description: Mechanisms exist to ensure symmetry in choice, where options presented to consumers for more protective options are not longer, more difficult, nor more time-consuming than less protective options.
+elementType: enhancement
+externalId: PRI-02.10
+parent: pri-02
+controlQuestion: Does the organization ensure symmetry in choice, where options presented to consumers for more protective options are not longer, more difficult, nor more time-consuming than less protective options?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

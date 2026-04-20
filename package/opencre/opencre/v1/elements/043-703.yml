@@ -1,0 +1,11 @@
+id: 7e86af33-8d83-4aa7-a9bb-253df3c6d005
+name: Testing against sensitive data extraction by inference
+description: Testing against sensitive data extraction by inference
+externalId: 043-703
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0008
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.2.4
+parent: 364-516

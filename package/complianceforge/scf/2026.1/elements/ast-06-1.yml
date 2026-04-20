@@ -1,0 +1,39 @@
+id: 5388693c-70e3-415e-8253-d903e81c19d3
+name: Asset Storage In Automobiles
+description: Mechanisms exist to educate users on the need to physically secure laptops and other mobile devices out of sight when traveling, preferably in the trunk of a vehicle.
+elementType: enhancement
+externalId: AST-06.1
+parent: ast-06
+controlQuestion: Does the organization educate users on the need to physically secure laptops and other mobile devices out of sight when traveling, preferably in the trunk of a vehicle?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

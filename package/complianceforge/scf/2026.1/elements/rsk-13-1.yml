@@ -1,0 +1,49 @@
+id: 5e697a88-f5df-4cac-8d7d-12158503e237
+name: Documented Alternatives
+description: |-
+  Mechanisms exist to document alternative courses of action to ensure executive leadership is reasonably informed of options to manage material risks, including potential:
+  (1) Benefits;
+  (2) Drawbacks (including technical limitations);
+  (3) Costs; and
+  (4) Timelines.
+elementType: enhancement
+externalId: RSK-13.1
+parent: rsk-13
+controlQuestion: |-
+  Does the organization document alternative courses of action to ensure executive leadership is reasonably informed of options to manage material risks, including potential:
+  (1) Benefits;
+  (2) Drawbacks (including technical limitations);
+  (3) Costs; and
+  (4) Timelines?
+functionGrouping: Govern
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

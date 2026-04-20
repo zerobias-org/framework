@@ -1,0 +1,15 @@
+id: 800d7fd0-f4fa-46fd-b5ba-fae4e0fa14d8
+name: Direct runtime model leak
+description: Direct runtime model leak
+externalId: 182-732
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.1
+    - OWASP Top10 for ML/ML05:2023
+    - MITRE ATLAS/AML.T0035
+    - 'BIML/BIML-24(LLM): inference:9'
+    - OWASP AI Exchange/runtimemodelleak
+    - NIST AI 100-2/Sec. 2.4.3
+    - 'ENISA/Table 3:'
+parent: 267-786

@@ -1,0 +1,11 @@
+id: 78f2c4bb-45c0-4e44-bfd3-48fc38c26e55
+name: Augmentation data leak
+description: Augmentation data leak
+externalId: 173-554
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.T0036
+    - OWASP AI Exchange/augmentationdataleak
+    - NIST AI 100-2/Sec. 3.2.2
+parent: 738-144

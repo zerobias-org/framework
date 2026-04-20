@@ -1,0 +1,11 @@
+id: c6167391-d83f-4e57-95ff-1cdae6d1f94c
+name: Automated AI oversight
+description: Automated AI oversight
+externalId: 205-522
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0020
+    - OWASP AI Exchange/oversight
+    - NIST AI 100-2/Sec. 3.4.5
+parent: 333-480

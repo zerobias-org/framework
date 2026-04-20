@@ -1,0 +1,11 @@
+id: 8bf38776-9c38-4ac4-9e42-e7720ab98eba
+name: Training data obfuscation
+description: Training data obfuscation
+externalId: 488-626
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.4.2
+    - 'ENISA/Table 5:'
+    - OWASP AI Exchange/obfuscatetrainingdata
+parent: 563-186

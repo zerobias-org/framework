@@ -6,10 +6,9 @@ elementType: cre
 links:
   demonstrates:
     - OWASP Proactive Controls/C2
-    - CWE-265
-    - owasp.asvs.v4_0_3.framework/14.2.6
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
     - OWASP Cheat Sheets/Vulnerable Dependency Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/14.2.6
     - CWE-250
     - CAPEC-104
     - CAPEC-470

@@ -5,8 +5,8 @@ externalId: 113-133
 elementType: cre
 links:
   demonstrates:
-    - CWE-306
     - owasp.asvs.v4_0_3.framework/1.2.3
+    - CWE-306
     - CAPEC-12
     - CAPEC-166
     - CAPEC-216

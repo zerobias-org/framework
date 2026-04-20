@@ -5,8 +5,8 @@ externalId: 027-555
 elementType: cre
 links:
   demonstrates:
-    - NIST 800-63/5.1.1.2
     - OWASP Proactive Controls/C6
+    - NIST 800-63/5.1.1.2
     - CWE-521
     - owasp.asvs.v4_0_3.framework/2.1.1
     - CAPEC-112

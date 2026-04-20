@@ -1,0 +1,10 @@
+id: b69254cd-cff7-40cc-8b46-124983786af6
+name: AI resource exhaustion input handling
+description: AI resource exhaustion input handling
+externalId: 108-316
+elementType: cre
+links:
+  demonstrates:
+    - NIST AI 100-2/Sec. 3.4.1
+    - OWASP AI Exchange/dosinputvalidation
+parent: 802-101

@@ -1,0 +1,39 @@
+id: 0d5c15de-40e8-4e95-81e4-34e10a995476
+name: Test Data Integrity
+description: Mechanisms exist to ensure the integrity of test data through existing security, compliance and resilience controls.
+elementType: enhancement
+externalId: TDA-10.1
+parent: tda-10
+controlQuestion: Does the organization ensure the integrity of test data through existing security, compliance and resilience controls?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

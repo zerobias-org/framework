@@ -6,8 +6,8 @@ elementType: cre
 links:
   demonstrates:
     - owasp.wstg.v5.benchmark/wstg-clnt-07
-    - owasp.asvs.v4_0_3.framework/14.5.3
     - CWE-346
+    - owasp.asvs.v4_0_3.framework/14.5.3
     - CWE-1385
     - CAPEC-111
     - CAPEC-141

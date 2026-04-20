@@ -1,0 +1,13 @@
+id: e49018b9-6ecd-41cb-81d3-3d9bbac4844d
+name: Model action privilege minimization
+description: Model action privilege minimization
+externalId: 220-442
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0028
+    - MITRE ATLAS/AML.M0026
+    - MITRE ATLAS/AML.M0027
+    - 'ENISA/Table 5:'
+    - OWASP AI Exchange/leastmodelprivilege
+parent: 333-480

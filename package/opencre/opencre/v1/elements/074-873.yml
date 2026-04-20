@@ -5,8 +5,10 @@ externalId: 074-873
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/8.1
+    - iso.27001.2013.framework/8.10
+    - owasp.samm.v1_0.framework/o-om-a
     - nist.80053.rev5.framework/pm-17
     - nist.80053.rev5.framework/pm-23
-    - owasp.samm.v1_0.framework/o-om-a
+    - DevSecOps Maturity Model (DSOMM)/72737130-472c-4984-80f8-9ab2f1c2ed5d
+    - DevSecOps Maturity Model (DSOMM)/613a73dc-4f60-49db-a6ce-4fb7bf8519f9
 parent: 287-823

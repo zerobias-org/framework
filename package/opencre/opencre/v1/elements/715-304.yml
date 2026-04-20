@@ -5,8 +5,8 @@ externalId: 715-304
 elementType: cre
 links:
   demonstrates:
-    - CWE-226
     - owasp.asvs.v4_0_3.framework/8.3.6
+    - CWE-226
     - CWE-1301
     - CAPEC-37
 parent: 208-830

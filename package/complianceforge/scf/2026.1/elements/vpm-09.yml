@@ -1,0 +1,39 @@
+id: 589e7369-ecc8-4211-87c0-9a4420a1f4ec
+name: Reviewing Vulnerability Scanner Usage
+description: Mechanisms exist to monitor logs associated with scanning activities and associated administrator accounts to ensure that those activities are limited to the timeframes of legitimate scans.
+elementType: control
+externalId: VPM-09
+parent: vpm
+controlQuestion: Does the organization monitor logs associated with scanning activities and associated administrator accounts to ensure that those activities are limited to the timeframes of legitimate scans?
+functionGrouping: Detect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,14 @@
+id: c4e38e46-6511-4262-bbd4-c068cd7e5870
+name: Direct prompt injection
+description: Direct prompt injection
+externalId: 686-110
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM01:2025
+    - MITRE ATLAS/AML.T0051.000
+    - 'ENISA/Table 3:'
+    - 'BIML/BIML-24(LLM): input:2'
+    - OWASP AI Exchange/directpromptinjection
+    - NIST AI 100-2/Sec. 3.3
+parent: 073-507

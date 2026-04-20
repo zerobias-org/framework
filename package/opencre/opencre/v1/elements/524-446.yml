@@ -5,9 +5,9 @@ externalId: 524-446
 elementType: cre
 links:
   demonstrates:
-    - CWE-308
     - NIST 800-63/5.2.8
     - owasp.asvs.v4_0_3.framework/2.2.6
+    - CWE-308
     - OWASP Cheat Sheets/Authentication Cheat Sheet
     - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
     - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet

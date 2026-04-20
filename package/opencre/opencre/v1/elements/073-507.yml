@@ -1,0 +1,10 @@
+id: 97ee5f94-e732-438c-85fb-ed6ac893d533
+name: AI model behaviour integrity threats through inference
+description: AI model behaviour integrity threats through inference
+externalId: 073-507
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 3:'
+    - ENISA/Use of adversarial examples crafted in white or grey box conditions (e.g. FGSM...)
+parent: 061-753

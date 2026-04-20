@@ -1,0 +1,13 @@
+id: d73f1cce-7d09-4563-8e96-ca1f0e9b91b0
+name: Benign fine-tuning and pruning
+description: Benign fine-tuning and pruning
+externalId: 854-183
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/5.3.2
+    - ETSI/Retraining
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.3.3
+    - OWASP AI Exchange/poisonrobustmodel
+parent: 234-123

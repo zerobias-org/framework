@@ -1,0 +1,53 @@
+id: 4643d0ba-f06d-4e55-a3ac-332df9d0c4b5
+name: Data Privacy Notice
+description: |-
+  Mechanisms exist to:
+  (1) Make data privacy notice(s) available to individuals upon first interacting with an organization and subsequently as necessary; 
+  (2) Ensure that data privacy notices are clear and easy-to-understand, expressing relevant information about how Personal Data (PD) is collected, received, processed, stored, transmitted, shared, updated and/or disposed;
+  (3) Contain all necessary notice-related criteria required by applicable statutory, regulatory and contractual obligations;
+  (4) Define the scope of PD processing activities, including the geographic locations and third-party recipients that process the PD within the scope of the data privacy notice;
+  (5) Periodically, review and update the content of the privacy notice, as necessary; and
+  (6) Retain prior versions of the privacy notice, in accordance with data retention requirements.
+elementType: control
+externalId: PRI-02
+parent: pri
+controlQuestion: |-
+  Does the organization:
+  (1) Make data privacy notice(s) available to individuals upon first interacting with an organization and subsequently as necessary; 
+  (2) Ensure that data privacy notices are clear and easy-to-understand, expressing relevant information about how Personal Data (PD) is collected, received, processed, stored, transmitted, shared, updated and/or disposed;
+  (3) Contain all necessary notice-related criteria required by applicable statutory, regulatory and contractual obligations;
+  (4) Define the scope of PD processing activities, including the geographic locations and third-party recipients that process the PD within the scope of the data privacy notice;
+  (5) Periodically, review and update the content of the privacy notice, as necessary; and
+  (6) Retain prior versions of the privacy notice, in accordance with data retention requirements?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

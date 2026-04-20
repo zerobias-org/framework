@@ -1,0 +1,39 @@
+id: db84bf1d-ee46-4b63-b88e-a0e8c069f657
+name: Endpoint Detection & Response (EDR)
+description: Mechanisms exist to detect and respond to unauthorized configuration changes as cybersecurity incidents.
+elementType: enhancement
+externalId: END-06.2
+parent: end-06
+controlQuestion: Does the organization detect and respond to unauthorized configuration changes as cybersecurity incidents?
+functionGrouping: Respond
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

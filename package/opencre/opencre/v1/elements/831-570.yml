@@ -5,8 +5,8 @@ externalId: 831-570
 elementType: cre
 links:
   demonstrates:
-    - CWE-120
     - owasp.wstg.v5.benchmark/wstg-inpv-13
+    - CWE-120
     - owasp.asvs.v4_0_3.framework/5.4.1
     - CAPEC-10
     - CAPEC-100
