@@ -1,0 +1,39 @@
+id: 427eaf4b-c47e-4bb8-8d5d-0f7301b6c162
+name: Direct Internet Access Restrictions
+description: Mechanisms exist to prohibit, or strictly-control, Internet access from sensitive/regulated data enclaves (secure zones).
+elementType: enhancement
+externalId: NET-06.5
+parent: net-06
+controlQuestion: Does the organization prohibit, or strictly-control, Internet access from sensitive/regulated data enclaves (secure zones)?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

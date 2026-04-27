@@ -1,0 +1,47 @@
+id: 6bb81326-ccbc-4ce5-b7bf-bbbca03ca2f7
+name: Choice & Consent
+description: |-
+  Mechanisms exist to enable data subjects to authorize the collection, receiving, processing, storage, transmission, sharing, updating and/or disposal of their Personal Data (PD), where prior to collection the data subject is provided with:
+  (1) Plain language to illustrate the potential data privacy risks of the authorization; 
+  (2) A means for users to decline the authorization; and
+  (3) All necessary choice and consent-related criteria required by applicable statutory, regulatory and contractual obligations.
+elementType: control
+externalId: PRI-03
+parent: pri
+controlQuestion: |-
+  Does the organization enable data subjects to authorize the collection, receiving, processing, storage, transmission, sharing, updating and/or disposal of their Personal Data (PD), where prior to collection the data subject is provided with:
+  (1) Plain language to illustrate the potential data privacy risks of the authorization; 
+  (2) A means for users to decline the authorization; and
+  (3) All necessary choice and consent-related criteria required by applicable statutory, regulatory and contractual obligations?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

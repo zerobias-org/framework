@@ -1,0 +1,39 @@
+id: 014c6267-66dc-410a-aac6-ffdf8461e9d4
+name: Adequate Security for Sensitive / Regulated Data In Support of Contracts
+description: Mechanisms exist to protect sensitive/regulated data that is collected, developed, received, transmitted, used or stored in support of the performance of a contract.
+elementType: enhancement
+externalId: IAO-03.2
+parent: iao-03
+controlQuestion: Does the organization protect sensitive/regulated data that is collected, developed, received, transmitted, used or stored in support of the performance of a contract?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

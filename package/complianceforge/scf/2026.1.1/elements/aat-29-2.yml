@@ -1,0 +1,45 @@
+id: 2860d4f1-4302-475d-b594-3cec754b51b5
+name: AI Agent Limitations
+description: |-
+  Mechanisms exist to implement limitations for AI agents according to:
+  (1) Least privileges, where the AI agent operates with the minimal permissions necessary to perform designated tasks; and
+  (2) Least functionality, where the AI agent is restricted to communicate with the minimal Technology Assets, Applications and/or Services (TAAS) and networks necessary to perform designated tasks.
+elementType: enhancement
+externalId: AAT-29.2
+parent: aat-29
+controlQuestion: |-
+  Does the organization implement limitations for AI agents according to:
+  (1) Least privileges, where the AI agent operates with the minimal permissions necessary to perform designated tasks; and
+  (2) Least functionality, where the AI agent is restricted to communicate with the minimal Technology Assets, Applications and/or Services (TAAS) and networks necessary to perform designated tasks?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

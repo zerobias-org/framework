@@ -1,0 +1,57 @@
+id: 6d2aef9f-824d-47cb-9bfb-2208a339713e
+name: AI & Autonomous Technologies Implementation Documentation
+description: |-
+  Mechanisms exist to ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) include clear and concise documentation that is relevant, accessible and comprehensible to personnel implementing and maintaining the AAT that, at a minimum, provides: 
+  (1) Contact details of the provider; 
+  (2) Characteristics, capabilities and limitations of performance of the AAT;
+  (3) Errata from the AAT's initial conformity assessment;
+  (4) Details necessary to interpret the outputs of the AAT;
+  (5) Human oversight measures necessary to facilitate the interpretation of the outputs of the AAT;
+  (6) Computational and hardware resources needed to operate the AAT;
+  (7) Projected useable lifetime of the AAT; and
+  (8) A description of the mechanisms included within the AAT system to properly collect, store and interpret event logs.
+elementType: enhancement
+externalId: AAT-20.2
+parent: aat-20
+controlQuestion: |-
+  Does the organization ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) include clear and concise documentation that is relevant, accessible and comprehensible to personnel implementing and maintaining the AAT that, at a minimum, provides: 
+  (1) Contact details of the provider; 
+  (2) Characteristics, capabilities and limitations of performance of the AAT;
+  (3) Errata from the AAT's initial conformity assessment;
+  (4) Details necessary to interpret the outputs of the AAT;
+  (5) Human oversight measures necessary to facilitate the interpretation of the outputs of the AAT;
+  (6) Computational and hardware resources needed to operate the AAT;
+  (7) Projected useable lifetime of the AAT; and
+  (8) A description of the mechanisms included within the AAT system to properly collect, store and interpret event logs?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

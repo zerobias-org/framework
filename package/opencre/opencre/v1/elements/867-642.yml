@@ -1,0 +1,19 @@
+id: c39446e8-83fe-464c-ac06-4e6d4f3d5ee2
+name: Direct development-time model poisoning
+description: Direct development-time model poisoning
+externalId: 867-642
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM04:2025
+    - MITRE ATLAS/AML.T0018.000
+    - ETSI/5.1
+    - ETSI/5.2
+    - 'ENISA/Table 3:'
+    - OWASP Top10 for ML/ML10:2023
+    - 'BIML/BIML-78(2020): alg:9'
+    - BIML/inference:4
+    - BIML/alg:11
+    - OWASP AI Exchange/devmodelpoison
+    - NIST AI 100-2/Sec. 2.3.4
+parent: 481-710

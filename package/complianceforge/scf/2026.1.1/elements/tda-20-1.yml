@@ -1,0 +1,39 @@
+id: 0b739365-14f6-42b3-a7f7-b2ea762bdea4
+name: Software Release Integrity Verification
+description: Mechanisms exist to publish integrity verification information for software releases.
+elementType: enhancement
+externalId: TDA-20.1
+parent: tda-20
+controlQuestion: Does the organization publish integrity verification information for software releases?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

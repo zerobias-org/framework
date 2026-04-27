@@ -1,0 +1,39 @@
+id: 2f8fc54e-1d8f-47d8-9429-1303a71c35a9
+name: Manual Override
+description: Mechanisms exist to enable a manual override of the current account privileges to enable the timely response to unusual conditions without terminating the current session and establishing a new session as a higher-privileged user.
+elementType: enhancement
+externalId: IAC-16.5
+parent: iac-16
+controlQuestion: Does the organization enable a manual override of the current account privileges to enable the timely response to unusual conditions without terminating the current session and establishing a new session as a higher-privileged user?
+functionGrouping: Protect
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

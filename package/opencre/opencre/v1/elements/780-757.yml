@@ -1,0 +1,11 @@
+id: 8a0e909d-745e-4404-9dec-a81f8ab5fda7
+name: Model output contains conventional injection
+description: Model output contains conventional injection
+externalId: 780-757
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM05:2025
+    - MITRE ATLAS/AML.T0051
+    - OWASP AI Exchange/outputcontainsconventionalinjection
+parent: 738-144

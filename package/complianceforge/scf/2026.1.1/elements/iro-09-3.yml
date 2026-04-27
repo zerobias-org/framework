@@ -1,0 +1,47 @@
+id: 7823a8d1-7168-4e74-8afa-66f621df611c
+name: Incident Tracking Repository
+description: |-
+  Mechanisms exist to maintain a repository of cybersecurity events and incidents that documents:
+  (1) Details of the incident (e.g., category, severity, affected parties, etc.);
+  (2) Remediation actions taken through incident closure; and
+  (3) A summary from the Root Cause Analysis (RCA), if applicable.
+elementType: enhancement
+externalId: IRO-09.3
+parent: iro-09
+controlQuestion: |-
+  Does the organization maintain a repository of cybersecurity events and incidents that documents:
+  (1) Details of the incident (e.g., category, severity, affected parties, etc.);
+  (2) Remediation actions taken through incident closure; and
+  (3) A summary from the Root Cause Analysis (RCA), if applicable?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

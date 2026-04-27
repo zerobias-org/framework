@@ -1,0 +1,9 @@
+id: a4c5f39a-79be-4f45-8509-c67357bb4d72
+name: Limit inference resources
+description: Limit inference resources
+externalId: 886-662
+elementType: cre
+links:
+  demonstrates:
+    - OWASP AI Exchange/limitresources
+parent: 382-481

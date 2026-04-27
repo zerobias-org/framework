@@ -1,0 +1,22 @@
+id: dd6b01a3-cd9b-4911-b00c-02c94c9b79a0
+name: Model inversion / Membership inference
+description: Model inversion / Membership inference
+externalId: 034-540
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM02:2025
+    - MITRE ATLAS/AML.T0024.001
+    - MITRE ATLAS/AML.T0024.000
+    - ETSI/6.4.1
+    - ETSI/6.4.2
+    - ETSI/6.4.3
+    - ETSI/6.4.1
+    - OWASP Top10 for ML/ML03:2023
+    - OWASP Top10 for ML/ML04:2023
+    - 'BIML/BIML-24(LLM): model:6'
+    - 'BIML/BIML-78(2020): model:4'
+    - OWASP AI Exchange/modelinversionandmembership
+    - NIST AI 100-2/Sec 2.4.2
+    - 'ENISA/Table 3:'
+parent: 475-586

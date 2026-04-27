@@ -1,0 +1,14 @@
+id: 0e79a2d1-d2c3-40eb-8c30-75562acf1aa3
+name: Data quality control
+description: Data quality control
+externalId: 041-188
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/5.2.2
+    - ETSI/Data sanitisation
+    - 'ENISA/Table 5:'
+    - ENISA/Control all data used by the ML model
+    - MITRE ATLAS/AML.M0007
+    - OWASP AI Exchange/dataqualitycontrol
+parent: 041-173

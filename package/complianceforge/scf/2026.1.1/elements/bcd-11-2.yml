@@ -1,0 +1,39 @@
+id: c48d5fe4-ae09-4224-8d5d-f36b9c81e29f
+name: Separate Storage for Critical Information
+description: Mechanisms exist to store backup copies of critical software and other security-related information in a separate facility or in a fire-rated container that is not collocated with the system being backed up.
+elementType: enhancement
+externalId: BCD-11.2
+parent: bcd-11
+controlQuestion: Does the organization store backup copies of critical software and other security-related information in a separate facility or in a fire-rated container that is not collocated with the system being backed up?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

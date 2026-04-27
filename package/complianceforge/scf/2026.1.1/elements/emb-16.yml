@@ -1,0 +1,39 @@
+id: 17c31eac-9055-4920-9ccd-1eea496cba6b
+name: Certificate-Based Authentication
+description: Mechanisms exist to enforce certificate-based authentication for embedded technologies (e.g., IoT, OT, etc.) and their supporting services.
+elementType: control
+externalId: EMB-16
+parent: emb
+controlQuestion: Does the organization enforce certificate-based authentication for embedded technologies (e.g., IoT, OT, etc.) and their supporting services?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: a4214f2a-585a-4199-a2bb-a607d3b80adf
+name: Statement of Applicability (SOA)
+description: Mechanisms exist to produce a Statement of Applicability (SOA), or similar document, for compliance-related scoping activities.
+elementType: control
+externalId: CPL-12
+parent: cpl
+controlQuestion: Does the organization produce a Statement of Applicability (SOA), or similar document, for compliance-related scoping activities?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,45 @@
+id: f590ac53-23b2-4e98-9154-4b095db4aa64
+name: Events Requiring Authenticator Change
+description: |-
+  Mechanisms exist to change authentication credentials:
+  (1) At predefined intervals; and/or
+  (2) Upon suspicion of credential compromise.
+elementType: enhancement
+externalId: IAC-10.13
+parent: iac-10
+controlQuestion: |-
+  Does the organization change authentication credentials:
+  (1) At predefined intervals; and/or
+  (2) Upon suspicion of credential compromise?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

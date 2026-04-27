@@ -5,21 +5,20 @@ externalId: 433-442
 elementType: cre
 links:
   demonstrates:
-    - csa.ccm.v4_0_12.framework/sta
-    - csa.ccm.v4_0_12.framework/ais-05
     - iso.27001.2013.framework/8.29
     - iso.27001.2013.framework/8.33
-    - nist.80053.rev5.framework/sa-11
     - owasp.samm.v1_0.framework/v-st-a
     - owasp.samm.v1_0.framework/v-st-b
     - owasp.samm.v1_0.framework/v-rt-a
-    - nist.800218.v1_1.framework/po_4_1
     - owasp.samm.v1_0.framework/v-rt-b
+    - csa.ccm.v4_0_12.framework/sta
+    - csa.ccm.v4_0_12.framework/ais-05
+    - nist.800218.v1_1.framework/po_4_1
     - nist.800218.v1_1.framework/po_4_2
     - nist.800218.v1_1.framework/rv_1_2
-    - DevSecOps Maturity Model (DSOMM)/a511799b-045e-4b96-9843-7d63d8c1e2ad
+    - nist.80053.rev5.framework/sa-11
+    - DevSecOps Maturity Model (DSOMM)/0a929c3e-ab9a-4206-8761-adf84b74622e
     - DevSecOps Maturity Model (DSOMM)/7121b0c7-6ace-4d6b-95d0-94535dbccb57
-    - DevSecOps Maturity Model (DSOMM)/948a4d51-ceb5-4ebd-bdc7-d74ea25e171c
     - DevSecOps Maturity Model (DSOMM)/517b0957-4981-4ac0-b4c7-0d8d1934c474
     - DevSecOps Maturity Model (DSOMM)/67667c97-c33e-4306-a4e5-e7b1d8e10c5a
     - DevSecOps Maturity Model (DSOMM)/f57d55f2-dc05-4b34-9d1f-f8ce5bfb0715
@@ -34,31 +33,35 @@ links:
     - DevSecOps Maturity Model (DSOMM)/07796811-37f9-467c-9ff2-48f346e77ff3
     - DevSecOps Maturity Model (DSOMM)/65a2d7d9-5441-46bf-a4e3-f76919857750
     - DevSecOps Maturity Model (DSOMM)/5b5a1eb2-113f-41fb-a3d6-06af4fdc9cea
-    - DevSecOps Maturity Model (DSOMM)/ab5725aa-4d53-47b9-96df-c14b3fa93bcd
     - DevSecOps Maturity Model (DSOMM)/a6c4cefb-a0b7-4787-8cc7-a0f96b4b00d8
     - DevSecOps Maturity Model (DSOMM)/6532c1fe-9d23-4228-8722-558ddabca7d4
     - DevSecOps Maturity Model (DSOMM)/6d2c3ac6-8afc-4af6-a5e9-6188341aca01
     - DevSecOps Maturity Model (DSOMM)/7bb70764-9392-4462-935d-e55b2e148199
     - DevSecOps Maturity Model (DSOMM)/61e10f9c-e126-4ffa-af12-fdbe0d0a831f
-    - DevSecOps Maturity Model (DSOMM)/017d9e26-42b5-49a4-b945-9f59b308fb99
     - DevSecOps Maturity Model (DSOMM)/d17dbff0-1f10-492a-b4c7-17bb59a0a711
-    - DevSecOps Maturity Model (DSOMM)/d17dbff0-1f10-492a-b4c7-17bb59a0a711
+    - DevSecOps Maturity Model (DSOMM)/87b54313-fafd-4860-930f-5ef132b3e4ad
+    - DevSecOps Maturity Model (DSOMM)/13af1227-3dd1-4d4f-a9e9-53deb793c18f
+    - DevSecOps Maturity Model (DSOMM)/0cb2c39a-3cec-4353-b3ab-8d70daf4c9d2
+    - DevSecOps Maturity Model (DSOMM)/a8d7d1f1-fc24-49ab-8fb6-f3a03da9c61d
     - DevSecOps Maturity Model (DSOMM)/6e180abc-7c98-4265-b4e9-852cb91b067b
-    - DevSecOps Maturity Model (DSOMM)/07fe8c4f-ae33-4409-b1b2-cf64cfccea86
-    - DevSecOps Maturity Model (DSOMM)/d918cd44-a972-43e9-a974-eff3f4a5dcfe
+    - DevSecOps Maturity Model (DSOMM)/017d9e26-42b5-49a4-b945-9f59b308fb99
     - DevSecOps Maturity Model (DSOMM)/f4ff841d-3b2a-45d9-853e-5ec7ecbcb054
     - DevSecOps Maturity Model (DSOMM)/ee68331f-9b1d-4f61-844b-b2ea04753a84
     - DevSecOps Maturity Model (DSOMM)/e237176b-bec5-447d-a926-e37d6dd60e4b
     - DevSecOps Maturity Model (DSOMM)/6c05c837-8c99-46e2-828b-7c903e27dba4
     - DevSecOps Maturity Model (DSOMM)/efa52cc8-6c5c-4ba2-a3d2-7164b0402f34
+    - DevSecOps Maturity Model (DSOMM)/f2f0f274-c1a0-4501-92fe-7fc4452bc8ad
+    - DevSecOps Maturity Model (DSOMM)/07fe8c4f-ae33-4409-b1b2-cf64cfccea86
+    - DevSecOps Maturity Model (DSOMM)/d918cd44-a972-43e9-a974-eff3f4a5dcfe
     - DevSecOps Maturity Model (DSOMM)/297be001-8d94-41ee-ab29-207020d423c0
-    - DevSecOps Maturity Model (DSOMM)/7de0ae33-6538-45cd-8222-a1475647ba58
-    - DevSecOps Maturity Model (DSOMM)/621fb6a5-5c0a-4408-826a-068868bb031b
     - DevSecOps Maturity Model (DSOMM)/ddfe7c3c-b7a4-4cba-9041-b044d4a34e5b
     - DevSecOps Maturity Model (DSOMM)/26e1c6d5-5632-4ec7-80d2-e564b98732ad
     - DevSecOps Maturity Model (DSOMM)/837f8f90-adc2-4e6b-9ebb-60c2ee29494d
     - DevSecOps Maturity Model (DSOMM)/cb6321aa-0fbf-4996-9e08-05ab26ef4c1e
+    - DevSecOps Maturity Model (DSOMM)/7de0ae33-6538-45cd-8222-a1475647ba58
     - DevSecOps Maturity Model (DSOMM)/c6e3c812-56e2-41b0-ae01-b7afc41a004c
+    - DevSecOps Maturity Model (DSOMM)/d5e6303c-d5c6-4d59-b258-a3b9de38a07f
+    - DevSecOps Maturity Model (DSOMM)/621fb6a5-5c0a-4408-826a-068868bb031b
     - DevSecOps Maturity Model (DSOMM)/13367d8f-e37f-4197-a610-9ffca4fde261
     - DevSecOps Maturity Model (DSOMM)/58825d22-1ce6-4748-af81-0ec9956e4129
     - DevSecOps Maturity Model (DSOMM)/46d6a2a8-f9dc-4c15-9fc8-1723cfecbddc
@@ -67,4 +70,5 @@ links:
     - DevSecOps Maturity Model (DSOMM)/1bd78cdd-ef11-4bb5-9b58-5af2e25fe1c5
     - DevSecOps Maturity Model (DSOMM)/ab0a4b51-3b18-43f1-a6fc-a98e4b28453d
     - DevSecOps Maturity Model (DSOMM)/2ebfc421-8c76-415c-a3b0-fa518915bd10
+    - DevSecOps Maturity Model (DSOMM)/598897a2-358e-441f-984c-e12ec4f6110a
 parent: 616-305

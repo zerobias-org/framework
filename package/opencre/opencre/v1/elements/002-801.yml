@@ -5,11 +5,11 @@ externalId: 002-801
 elementType: cre
 links:
   demonstrates:
-    - NIST 800-63/5.1.7.2
     - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
-    - CWE-327
-    - owasp.asvs.v4_0_3.framework/2.9.3
     - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - NIST 800-63/5.1.7.2
+    - owasp.asvs.v4_0_3.framework/2.9.3
+    - CWE-327
     - CWE-1240
     - CWE-780
     - CAPEC-20

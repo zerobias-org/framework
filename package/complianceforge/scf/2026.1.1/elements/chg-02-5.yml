@@ -1,0 +1,39 @@
+id: 70f794db-9849-4f86-b304-3a39c1ea8bab
+name: Cryptographic Management
+description: Mechanisms exist to govern assets involved in providing cryptographic protections according to the organization's configuration management processes.
+elementType: enhancement
+externalId: CHG-02.5
+parent: chg-02
+controlQuestion: Does the organization govern assets involved in providing cryptographic protections according to its configuration management processes?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

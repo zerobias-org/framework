@@ -1,0 +1,39 @@
+id: f8973b36-192a-4fb8-97ae-49084a54273b
+name: Change Management Program
+description: Mechanisms exist to facilitate the implementation of a change management program.
+elementType: control
+externalId: CHG-01
+parent: chg
+controlQuestion: Does the organization facilitate the implementation of a change management program?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

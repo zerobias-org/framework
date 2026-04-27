@@ -1,0 +1,39 @@
+id: 51192abd-b41a-4e19-9393-19785432b344
+name: Appeal Adverse Decision
+description: Mechanisms exist to maintain a process for data subjects to appeal an adverse decision.
+elementType: enhancement
+externalId: PRI-06.3
+parent: pri-06
+controlQuestion: Does the organization maintain a process for data subjects to appeal an adverse decision?
+functionGrouping: Respond
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

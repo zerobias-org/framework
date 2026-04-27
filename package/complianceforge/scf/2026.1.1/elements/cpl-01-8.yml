@@ -1,0 +1,39 @@
+id: b4d764f3-7d68-4d3d-8443-f56f0a7aba24
+name: Conformity Attestations
+description: Mechanisms exist for the certifying official to attest to the accuracy of conformity attestations, based on applicable laws, regulations and/or contractual criteria.
+elementType: enhancement
+externalId: CPL-01.8
+parent: cpl-01
+controlQuestion: Does the organization's certifying official attest to the accuracy of conformity attestations, based on applicable laws, regulations and/or contractual criteria
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,11 @@
+id: cbf0bddb-026a-4afd-bcd5-b768c9e74a65
+name: Runtime model confidentiality controls
+description: Runtime model confidentiality controls
+externalId: 805-126
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.3.1
+    - 'ENISA/Table 5:'
+    - OWASP AI Exchange/runtimemodelconfidentiality
+parent: 582-035

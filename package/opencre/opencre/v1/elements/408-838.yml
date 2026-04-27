@@ -1,0 +1,12 @@
+id: 9b9f1e63-ea5b-4b3a-876b-54c8c1b9f219
+name: Adversarial training
+description: Adversarial training
+externalId: 408-838
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.2.2
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.2.4
+    - OWASP AI Exchange/trainadversarial
+parent: 384-015

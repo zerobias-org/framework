@@ -6,9 +6,9 @@ elementType: cre
 links:
   demonstrates:
     - NIST 800-63/6.1.2.3
-    - owasp.wstg.v5.benchmark/wstg-athn-02
-    - CWE-304
     - OWASP Cheat Sheets/Choosing and Using Security Questions Cheat Sheet
     - OWASP Cheat Sheets/Forgot Password Cheat Sheet
+    - owasp.wstg.v5.benchmark/wstg-athn-02
+    - CWE-304
     - owasp.asvs.v4_0_3.framework/2.5.5
 parent: 586-842

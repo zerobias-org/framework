@@ -1,0 +1,12 @@
+id: 690b9fee-5fe4-4f72-8330-a922f1d12eed
+name: Encode model output
+description: Encode model output
+externalId: 430-722
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - MITRE ATLAS/AML.M0002
+    - NIST AI 100-2/Sec. 2.4.5
+    - OWASP AI Exchange/encodemodeloutput
+parent: 582-035

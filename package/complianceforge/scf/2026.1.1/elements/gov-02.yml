@@ -1,0 +1,39 @@
+id: b7d90de4-e764-4fd4-8876-bf70b4cde374
+name: Publishing Security, Compliance & Resilience Documentation
+description: Mechanisms exist to establish, maintain and disseminate policies, standards and procedures necessary for secure, compliant and resilient capabilities.
+elementType: control
+externalId: GOV-02
+parent: gov
+controlQuestion: Does the organization  establish, maintain and disseminate policies, standards and procedures necessary for secure, compliant and resilient capabilities?
+functionGrouping: Govern
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

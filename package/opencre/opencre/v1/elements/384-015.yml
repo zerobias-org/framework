@@ -1,0 +1,11 @@
+id: 13c8c4fe-9e8d-4243-83fc-49f3dfa89630
+name: Evasion-preventing training
+description: Evasion-preventing training
+externalId: 384-015
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.2.2
+    - MITRE ATLAS/AML.M0003
+    - OWASP AI Exchange/evasionrobustmodel
+parent: 041-173

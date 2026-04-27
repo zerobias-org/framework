@@ -1,0 +1,12 @@
+id: 8b8fb2e5-30b6-4b8c-babf-8d934f7273f2
+name: GenAI model alignment
+description: GenAI model alignment
+externalId: 860-723
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0021
+    - MITRE ATLAS/AML.M0022
+    - NIST AI 100-2/Sec. 3.3.2
+    - OWASP AI Exchange/modelalignment
+parent: 041-173

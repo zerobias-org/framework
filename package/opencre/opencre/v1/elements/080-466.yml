@@ -5,7 +5,8 @@ externalId: 080-466
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/8.4
-    - nist.80053.rev5.framework/sa-10
     - nist.800218.v1_1.framework/ps_1_1
+    - iso.27001.2013.framework/8.4
+    - nist.800218.v1_1.framework/code, executable code, and configuration-as-code – based on the principle of least privilege so that only authorized personnel, tools, services, etc_ have access_
+    - nist.80053.rev5.framework/sa-10
 parent: 124-564

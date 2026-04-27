@@ -1,0 +1,45 @@
+id: e0951d0d-b4ce-423c-bbe6-13e4ab53a893
+name: Session Audit
+description: |-
+  Mechanisms exist to provide session audit capabilities that can: 
+  (1) Capture and log all content related to a user session; and
+  (2) Remotely view all content related to an established user session in real time.
+elementType: control
+externalId: MON-12
+parent: mon
+controlQuestion: |-
+  Does the organization provide session audit capabilities that can: 
+   (1) Capture and log all content related to a user session; and
+   (2) Remotely view all content related to an established user session in real time?
+functionGrouping: Detect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

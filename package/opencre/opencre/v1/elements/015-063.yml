@@ -5,7 +5,7 @@ externalId: 015-063
 elementType: cre
 links:
   demonstrates:
-    - owasp.asvs.v4_0_3.framework/8.3.5
     - CWE-532
+    - owasp.asvs.v4_0_3.framework/8.3.5
     - CAPEC-215
 parent: 402-706

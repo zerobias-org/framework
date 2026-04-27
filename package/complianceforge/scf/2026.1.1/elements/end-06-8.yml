@@ -1,0 +1,53 @@
+id: 72d24e24-527c-4ed2-a204-0a165bb89ec1
+name: Extended Detection & Response (XDR)
+description: |-
+  Mechanisms exist to implement Extended Detection & Response (XDR) technologies to correlate data and respond to threats across multiple security layers, including:
+  (1) Endpoints;
+  (2) On-premises networks; 
+  (3) Cloud-based networks;
+  (4) Electronic communications; 
+  (5) Applications; and
+  (6) Services.
+elementType: enhancement
+externalId: END-06.8
+parent: end-06
+controlQuestion: |-
+  Does the organization implement Extended Detection & Response (XDR) technologies to correlate data and respond to threats across multiple security layers, including:
+  (1) Endpoints;
+  (2) On-premises networks; 
+  (3) Cloud-based networks;
+  (4) Electronic communications; 
+  (5) Applications; and
+  (6) Services?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 09b5b1f5-4cfd-4847-8ac2-a4add4c75921
+name: Vendor Security, Compliance & Resilience Training
+description: Mechanisms exist to incorporate vendor-specific security, compliance and resilience training in support of new technology initiatives.
+elementType: enhancement
+externalId: SAT-03.4
+parent: sat-03
+controlQuestion: Does the organization incorporate vendor-specific security, compliance and resilience training in support of new technology initiatives?
+functionGrouping: Protect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

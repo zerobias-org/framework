@@ -1,0 +1,39 @@
+id: 60974f9c-ae92-4eee-9beb-19219d038a18
+name: Report Verification Results
+description: Mechanisms exist to report the results of security, compliance and resilience capability verification to appropriate organizational management.
+elementType: enhancement
+externalId: CHG-06.1
+parent: chg-06
+controlQuestion: Does the organization report the results of cybersecurity and data protection function verification to appropriate organizational management?
+functionGrouping: Identify
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -5,10 +5,10 @@ externalId: 577-260
 elementType: cre
 links:
   demonstrates:
-    - CWE-829
-    - owasp.asvs.v4_0_3.framework/14.2.3
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
     - OWASP Cheat Sheets/Vulnerable Dependency Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/14.2.3
+    - CWE-829
     - CWE-830
     - CAPEC-175
     - CAPEC-201

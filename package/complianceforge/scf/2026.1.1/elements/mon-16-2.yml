@@ -1,0 +1,39 @@
+id: 3d1a5c81-d340-48d7-90d0-d44d13bd6b5a
+name: Third-Party Threats
+description: Mechanisms exist to monitor third-party personnel activity for potential security incidents.
+elementType: enhancement
+externalId: MON-16.2
+parent: mon-16
+controlQuestion: Does the organization monitor third-party personnel activity for potential security incidents?
+functionGrouping: Detect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
