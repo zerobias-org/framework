@@ -1,0 +1,10 @@
+id: f2439f69-c406-440b-8543-4aa07d6e96a6
+name: Testing against evasion
+description: Testing against evasion
+externalId: 011-322
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0008
+    - NIST AI 100-2/Sec. 2.2.4
+parent: 364-516

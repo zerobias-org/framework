@@ -5,10 +5,9 @@ externalId: 462-245
 elementType: cre
 links:
   demonstrates:
-    - CWE-1002
     - owasp.wstg.v5.benchmark/wstg-conf-04
-    - owasp.asvs.v4_0_3.framework/14.2.2
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
     - OWASP Cheat Sheets/Vulnerable Dependency Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/14.2.2
     - CWE-16
 parent: 613-285

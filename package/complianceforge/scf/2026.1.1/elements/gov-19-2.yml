@@ -1,0 +1,39 @@
+id: fc7c03bd-c32b-456f-b775-314343eefc28
+name: Assessment Objectives (AO)
+description: Mechanisms exist to utilize defined Assessment Objectives (AO) to assess the implementation of requirements, when available.
+elementType: enhancement
+externalId: GOV-19.2
+parent: gov-19
+controlQuestion: Does the organization utilize defined Assessment Objectives (AO) to assess the implementation of requirements, when available?
+functionGrouping: Govern
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

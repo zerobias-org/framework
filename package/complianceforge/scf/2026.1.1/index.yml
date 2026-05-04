@@ -1,0 +1,26 @@
+id: 32001678-6367-4ebf-a05c-de8887718b98
+name: Secure Controls Framework 2026.1.1
+description: ComplianceForge Secure Controls Framework 2026.1.1
+externalId: SCF-2026.1.1
+code: scf_2026_1_1
+status: approved
+url: https://securecontrolsframework.com/
+version: 2026.1.1
+external: true
+internal: true
+elementTypes:
+  - id: 21bd2b9e-71c4-499a-8da0-415e21b2135d
+    code: domain
+    name: Domain
+    description: SCF Security Domain
+  - id: ef64b773-9b08-42f9-bde1-2a2918a9d92c
+    code: control
+    name: Control
+    description: SCF Security Control
+  - id: 72d79b8c-2e41-4d5c-a5aa-7ab301edd419
+    code: enhancement
+    name: Enhancement
+    description: SCF Control Enhancement
+mappingTypes:
+  - control
+  - enhancement

@@ -5,10 +5,10 @@ externalId: 145-310
 elementType: cre
 links:
   demonstrates:
-    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
-    - owasp.asvs.v4_0_3.framework/5.2.7
     - CWE-159
+    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
     - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/5.2.7
     - OWASP Cheat Sheets/Cross Site Scripting Prevention Cheat Sheet
     - OWASP Cheat Sheets/DOM based XSS Prevention Cheat Sheet
 parent: 764-765

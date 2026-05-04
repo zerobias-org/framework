@@ -1,0 +1,47 @@
+id: 914a5008-8428-45a0-875c-e1132ed0b5ac
+name: Materially Distorting Behaviors
+description: |-
+  Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that exploit a human subject to materially affect a targeted behavior due to their:
+  (1) Age;
+  (2) Disability; or 
+  (3) Specific social or economic situation.
+elementType: enhancement
+externalId: AAT-19.2
+parent: aat-19
+controlQuestion: |-
+  Does the organization prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that exploit a human subject to materially affect a targeted behavior due to their:
+  (1) Age;
+  (2) Disability; or 
+  (3) Specific social or economic situation?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

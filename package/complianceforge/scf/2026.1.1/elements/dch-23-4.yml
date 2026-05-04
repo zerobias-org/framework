@@ -1,0 +1,39 @@
+id: da291424-7e8f-4da8-bf04-4eac6c839e84
+name: Removal, Masking, Encryption, Hashing or Replacement of Direct Identifiers
+description: Mechanisms exist to remove, mask, encrypt, hash or replace direct identifiers in a dataset.
+elementType: enhancement
+externalId: DCH-23.4
+parent: dch-23
+controlQuestion: Does the organization remove, mask, encrypt, hash or replace direct identifiers in a dataset?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

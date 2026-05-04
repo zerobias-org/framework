@@ -1,0 +1,49 @@
+id: 1dd3ef93-2677-4975-9b7e-c7f3f3f8aad8
+name: Third-Party Scope Review
+description: |-
+  Mechanisms exist to perform recurring validation of the Responsible, Accountable, Supportive, Consulted & Informed (RASCI) matrix, or similar documentation, to ensure security, compliance and resilience control assignments accurately reflect current:
+  (1) Contractual obligations for the External Service Provider (ESP);
+  (2) Business practices;
+  (3) Applicable stakeholders; and
+  (4) Deployed Technology Assets, Applications and/or Services (TAAS).
+elementType: enhancement
+externalId: TPM-05.5
+parent: tpm-05
+controlQuestion: |-
+  Does the organization perform recurring validation of the Responsible, Accountable, Supportive, Consulted & Informed (RASCI) matrix, or similar documentation, to ensure security, compliance and resilience control assignments accurately reflect current:
+  (1) Contractual obligations for the External Service Provider (ESP);
+  (2) Business practices;
+  (3) Applicable stakeholders; and
+  (4) Deployed Technology Assets, Applications and/or Services (TAAS)?
+functionGrouping: Identify
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

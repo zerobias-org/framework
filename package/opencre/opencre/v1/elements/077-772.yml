@@ -1,0 +1,13 @@
+id: 27dc63a6-fce9-42e1-a538-ac898f52af56
+name: Direct training or test data leak
+description: Direct training or test data leak
+externalId: 077-772
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM02:2025
+    - MITRE ATLAS/AML.T0036
+    - ETSI/6.1
+    - 'ENISA/Table 3:'
+    - OWASP AI Exchange/devdataleak
+parent: 220-870

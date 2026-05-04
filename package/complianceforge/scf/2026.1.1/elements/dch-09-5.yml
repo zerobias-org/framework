@@ -1,0 +1,39 @@
+id: b9c8d57d-89e6-48dd-a58a-a7d0e13f54e5
+name: Dual Authorization for Sensitive Data Destruction
+description: Mechanisms exist to enforce dual authorization for the destruction, disposal or sanitization of digital media that contains sensitive/regulated data.
+elementType: enhancement
+externalId: DCH-09.5
+parent: dch-09
+controlQuestion: Does the organization enforce dual authorization for the destruction, disposal or sanitization of digital media that contains sensitive/regulated data?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

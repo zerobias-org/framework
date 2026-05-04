@@ -7,5 +7,10 @@ links:
   demonstrates:
     - owasp.asvs.v4_0_3.framework/8.3.2
     - CWE-212
+    - CWE-1258
+    - CAPEC-150
     - CAPEC-168
+    - CAPEC-204
+    - CAPEC-37
+    - CAPEC-545
 parent: 447-083

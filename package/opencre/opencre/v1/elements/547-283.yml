@@ -5,8 +5,8 @@ externalId: 547-283
 elementType: cre
 links:
   demonstrates:
-    - CWE-829
     - owasp.wstg.v5.benchmark/wstg-inpv-11
+    - CWE-829
     - owasp.asvs.v4_0_3.framework/5.3.9
     - OWASP Cheat Sheets/File Upload Cheat Sheet
     - OWASP Cheat Sheets/Injection Prevention Cheat Sheet

@@ -5,11 +5,11 @@ externalId: 314-131
 elementType: cre
 links:
   demonstrates:
-    - CWE-120
-    - owasp.asvs.v4_0_3.framework/14.1.2
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
     - nist.800218.v1_1.framework/pw_6_1
     - nist.800218.v1_1.framework/pw_6_2
+    - owasp.asvs.v4_0_3.framework/14.1.2
+    - CWE-120
     - CAPEC-10
     - CAPEC-100
     - CAPEC-14

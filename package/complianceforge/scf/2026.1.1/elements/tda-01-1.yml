@@ -1,0 +1,49 @@
+id: c07b6adf-b8d1-4a02-9571-4d63a6570d5b
+name: Product Management
+description: |-
+  Mechanisms exist to design and implement product management processes to proactively govern the design, development and production of Technology Assets, Applications and/or Services (TAAS) across the System Development Life Cycle (SDLC) to:
+  (1) Improve functionality;
+  (2) Enhance security and resiliency capabilities; 
+  (3) Correct security deficiencies; and
+  (4) Conform with applicable statutory, regulatory and/or contractual obligations.
+elementType: enhancement
+externalId: TDA-01.1
+parent: tda-01
+controlQuestion: |-
+  Does the organization design and implement product management processes to proactively govern the design, development and production of Technology Assets, Applications and/or Services (TAAS) across the System Development Life Cycle (SDLC) to:
+  (1) Improve functionality;
+  (2) Enhance security and resiliency capabilities; 
+  (3) Correct security deficiencies; and
+  (4) Conform with applicable statutory, regulatory and/or contractual obligations?
+functionGrouping: Protect
+controlWeighting: '10'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

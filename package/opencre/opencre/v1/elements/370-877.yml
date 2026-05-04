@@ -1,0 +1,15 @@
+id: 2b127741-c274-48ca-93bd-03535c8e212f
+name: Evasion (e.g. adversarial examples)
+description: Evasion (e.g. adversarial examples)
+externalId: 370-877
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.T0015
+    - ETSI/6.1
+    - 'ENISA/Table 3:'
+    - OWASP Top10 for ML/ML01:2023
+    - 'BIML/BIML-78(2020): input:1'
+    - OWASP AI Exchange/evasion
+    - NIST AI 100-2/Sec. 2.2
+parent: 073-507

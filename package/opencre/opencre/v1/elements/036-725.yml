@@ -5,8 +5,8 @@ externalId: 036-725
 elementType: cre
 links:
   demonstrates:
-    - owasp.asvs.v4_0_3.framework/14.4.1
     - CWE-173
+    - owasp.asvs.v4_0_3.framework/14.4.1
     - OWASP Cheat Sheets/Content Security Policy Cheat Sheet
     - CAPEC-120
     - CAPEC-267

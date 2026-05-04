@@ -7,10 +7,10 @@ links:
   demonstrates:
     - owasp.wstg.v5.benchmark/wstg-conf-10
     - csa.ccm.v4_0_12.framework/ivs-05
-    - CWE-350
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
     - owasp.asvs.v4_0_3.framework/10.3.3
-    - iso.27001.2013.framework/8.2
+    - CWE-350
+    - iso.27001.2013.framework/8.20
     - CAPEC-142
     - CAPEC-275
     - CAPEC-73

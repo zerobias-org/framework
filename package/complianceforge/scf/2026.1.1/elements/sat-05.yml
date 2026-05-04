@@ -1,0 +1,45 @@
+id: 12b24a8f-b855-4acc-8605-083c2821ff38
+name: Security, Compliance & Resilience Knowledge Sharing
+description: |-
+  Mechanisms exist to improve knowledge sharing across security, compliance and resilience personnel allowing for:
+  (1) Efficient operations; and
+  (2) Rapid and effective response to incidents.
+elementType: control
+externalId: SAT-05
+parent: sat
+controlQuestion: |-
+  Does the organization improve knowledge sharing across security, compliance and resilience personnel allowing for:
+  (1) Efficient operations; and
+  (2) Rapid and effective response to incidents?
+functionGrouping: Identify
+controlWeighting: '3'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,9 @@
+id: 2a9b3953-a76d-41a8-bd6a-decd898f19db
+name: Testing against indirect prompt injection
+description: Testing against indirect prompt injection
+externalId: 483-253
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0015
+parent: 364-516

@@ -1,0 +1,11 @@
+id: ffee0d3a-a6a7-4535-a762-adb1992257f7
+name: Augmentation data manipulation
+description: Augmentation data manipulation
+externalId: 217-163
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.T0070
+    - OWASP AI Exchange/augmentationdatamanipulation
+    - NIST AI 100-2/Sec. 3.4.2
+parent: 738-144

@@ -1,0 +1,12 @@
+id: f79e2ba1-2b85-4bd8-9f97-8f2f06f88ae1
+name: Train data distortion
+description: Train data distortion
+externalId: 567-025
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/5.2.2
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.3.1
+    - OWASP AI Exchange/traindatadistortion
+parent: 234-123

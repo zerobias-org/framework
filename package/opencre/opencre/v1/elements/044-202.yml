@@ -1,0 +1,19 @@
+id: b8529e4a-5ddd-4f63-9dda-b07d89367383
+name: Data disclosure in model output
+description: Data disclosure in model output
+externalId: 044-202
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM02:2025
+    - OWASP Top10 for LLM/LLM05:2025
+    - MITRE ATLAS/AML.T0057
+    - 'ENISA/Table 3:'
+    - 'BIML/BIML-24(LLM): raw:5'
+    - BIML/output:4
+    - BIML/inference:9
+    - 'BIML/BIML-78(2020): raw:1'
+    - BIML/raw:3
+    - OWASP AI Exchange/disclosureinoutput
+    - NIST AI 100-2/Sec. 2.4.1
+parent: 475-586

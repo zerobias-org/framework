@@ -1,0 +1,14 @@
+id: 4dc64e96-6d5d-4ee2-83f3-2ab29c4547b8
+name: AI supply chain management
+description: AI supply chain management
+externalId: 881-234
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - ENISA/Ensure ML applications comply with third parties' security requirements
+    - MITRE ATLAS/AML.M0014
+    - MITRE ATLAS/AML.M0023
+    - NIST AI 100-2/Sec. 3.2
+    - OWASP AI Exchange/supplychainmanage
+parent: 041-173

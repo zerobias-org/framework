@@ -1,0 +1,14 @@
+id: c46fd22b-79f8-4d51-90b1-da8ef7cdce7a
+name: AI model performance validation
+description: AI model performance validation
+externalId: 547-824
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0008
+    - 'ENISA/Table 5:'
+    - 'ENISA/Table 5:'
+    - ENISA/Ensure that models are unbiased
+    - OWASP AI Exchange/continuousvalidation
+    - OWASP AI Exchange/unwantedbiastesting
+parent: 364-516

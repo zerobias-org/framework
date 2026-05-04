@@ -1,0 +1,39 @@
+id: 897c7129-791c-4eff-920d-bfcb1d7dac4e
+name: Defensible Evidence of Due Diligence
+description: Mechanisms exist to produce evidence of due diligence activities performed, capable of withstanding external audit or regulatory scrutiny.
+elementType: enhancement
+externalId: CPL-13.1
+parent: cpl-13
+controlQuestion: Does the organization produce evidence of due diligence activities performed, capable of withstanding external audit or regulatory scrutiny?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

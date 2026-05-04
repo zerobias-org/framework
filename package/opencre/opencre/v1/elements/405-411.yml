@@ -5,8 +5,8 @@ externalId: 405-411
 elementType: cre
 links:
   demonstrates:
-    - owasp.asvs.v4_0_3.framework/14.5.2
     - CWE-346
+    - owasp.asvs.v4_0_3.framework/14.5.2
     - CWE-1385
     - CAPEC-111
     - CAPEC-141

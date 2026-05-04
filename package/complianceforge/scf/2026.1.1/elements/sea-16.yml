@@ -1,0 +1,39 @@
+id: 7157c190-af68-4c89-a7d5-db9d73386707
+name: Non-Modifiable Executable Programs
+description: Mechanisms exist to utilize non-modifiable executable programs that load and execute the operating environment and applications from hardware-enforced, read-only media.
+elementType: control
+externalId: SEA-16
+parent: sea
+controlQuestion: Does the organization utilize non-modifiable executable programs that load and execute the operating environment and applications from hardware-enforced, read-only media?
+functionGrouping: Protect
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,47 @@
+id: 53155a16-267d-409e-bce8-dc7572120e97
+name: Session Management
+description: |-
+  Mechanisms exist to control AI agent sessions by:
+  (1) Embedding session IDs into the requests to the AI model;
+  (2) Implementing capabilities to correlate sessions; and
+  (3) Terminating sessions after a defined time period.
+elementType: enhancement
+externalId: AAT-30.2
+parent: aat-30
+controlQuestion: |-
+  Does the organization control AI agent sessions by:
+  (1) Embedding session IDs into the requests to the AI model;
+  (2) Implementing capabilities to correlate sessions; and
+  (3) Terminating sessions after a defined time period?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

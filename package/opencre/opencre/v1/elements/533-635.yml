@@ -1,0 +1,11 @@
+id: 4868132c-f7b4-4063-ba73-9e1028b268e6
+name: AI security Education
+description: AI security Education
+externalId: 533-635
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0018
+    - 'ENISA/Table 5:'
+    - OWASP AI Exchange/seceducate
+parent: 755-340

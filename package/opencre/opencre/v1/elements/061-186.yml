@@ -5,8 +5,8 @@ externalId: 061-186
 elementType: cre
 links:
   demonstrates:
-    - owasp.asvs.v4_0_3.framework/13.1.1
     - CWE-116
+    - owasp.asvs.v4_0_3.framework/13.1.1
     - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
     - OWASP Cheat Sheets/Web Service Security Cheat Sheet
     - CWE-644

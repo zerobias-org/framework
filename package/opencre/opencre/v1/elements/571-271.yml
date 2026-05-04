@@ -5,8 +5,8 @@ externalId: 571-271
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/5.1
-    - iso.27001.2013.framework/5.1
+    - iso.27001.2013.framework/5.10
+    - iso.27001.2013.framework/5.10
     - iso.27001.2013.framework/5.8
     - nist.80053.rev5.framework/pl-9
     - nist.80053.rev5.framework/pm-1
@@ -17,5 +17,4 @@ links:
     - nist.80053.rev5.framework/pm-4
     - nist.80053.rev5.framework/sc-1
     - nist.80053.rev5.framework/si-1
-    - DevSecOps Maturity Model (DSOMM)/1b9281b9-48e2-4c01-9ac6-9db9931c4885
 parent: 563-088

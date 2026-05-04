@@ -1,0 +1,11 @@
+id: 795038f4-04a8-47ca-ac01-3541f0fcfcfe
+name: Model input leak
+description: Model input leak
+externalId: 077-235
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.T0037
+    - OWASP AI Exchange/inputdataleak
+    - NIST AI 100-2/Sec. 2.4
+parent: 738-144

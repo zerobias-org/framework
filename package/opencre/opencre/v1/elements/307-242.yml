@@ -5,6 +5,7 @@ externalId: 307-242
 elementType: cre
 links:
   demonstrates:
+    - owasp.samm.v1_0.framework/d-ta-a
     - nist.80053.rev5.framework/ra-1
     - nist.80053.rev5.framework/ra-2
     - nist.80053.rev5.framework/ra-3
@@ -17,5 +18,6 @@ links:
     - nist.80053.rev5.framework/pm-28
     - nist.80053.rev5.framework/pm-8
     - nist.80053.rev5.framework/pm-9
-    - owasp.samm.v1_0.framework/d-ta-a
+    - DevSecOps Maturity Model (DSOMM)/2858ac12-0179-40d9-9acf-1b839c030473
+    - DevSecOps Maturity Model (DSOMM)/48f97f31-931c-46eb-9b3e-e2fec0cd0426
 parent: 766-162

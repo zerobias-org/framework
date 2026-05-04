@@ -1,0 +1,11 @@
+id: 68104796-12ed-424c-8e2d-f4ab21cd0e82
+name: AI model poisoning
+description: AI model poisoning
+externalId: 481-710
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM04:2025
+    - MITRE ATLAS/AML.T0020
+    - 'ENISA/Table 3:'
+parent: 061-753

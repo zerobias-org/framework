@@ -1,0 +1,9 @@
+id: 3a63509c-3826-46b0-81a7-06fb770de892
+name: Testing against backdoor poisoning
+description: Testing against backdoor poisoning
+externalId: 555-083
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0008
+parent: 364-516

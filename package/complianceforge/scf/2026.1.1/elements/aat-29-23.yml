@@ -1,0 +1,45 @@
+id: aa8d3e38-b92e-443a-a55d-66b7363c1c56
+name: Agent Output Integrity & Verification
+description: |-
+  Mechanisms exist to validate AI agent-generated outputs through the use of:
+  (1) Content scanning; and
+  (2) Output vetting through human approvals, where appropriate.
+elementType: enhancement
+externalId: AAT-29.23
+parent: aat-29
+controlQuestion: |-
+  Does the organization validate AI agent-generated outputs through the use of:
+  (1) Content scanning; and
+  (2) Output vetting through human approvals, where appropriate?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

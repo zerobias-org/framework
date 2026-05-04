@@ -1,0 +1,39 @@
+id: 50b90c8c-5ada-4bcb-98d5-28ed53b4687f
+name: Automated Training Environments
+description: Automated mechanisms exist to provide a more thorough and realistic contingency training environment.
+elementType: enhancement
+externalId: BCD-03.2
+parent: bcd-03
+controlQuestion: Does the organization use automated mechanisms to provide a more thorough and realistic contingency training environment?
+functionGrouping: Recover
+controlWeighting: '1'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 0ea94037-fef7-4b0c-b795-eda904d0a21d
+name: Executive Leadership Approval For Managing Material Risk
+description: Mechanisms exist to obtain executive leadership approval for risk management decisions involving material risk.
+elementType: control
+externalId: RSK-13
+parent: rsk
+controlQuestion: Does the organization obtain executive leadership approval for risk management decisions involving material risk?
+functionGrouping: Govern
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

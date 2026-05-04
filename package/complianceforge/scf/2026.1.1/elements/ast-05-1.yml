@@ -1,0 +1,39 @@
+id: fd70ce35-d464-4cd8-adab-d8bd993f71b2
+name: Management Approval For External Media Transfer
+description: Mechanisms exist to obtain management approval for any sensitive/regulated media that is transferred outside of the organization's facilities.
+elementType: enhancement
+externalId: AST-05.1
+parent: ast-05
+controlQuestion: Does the organization obtain management approval for any sensitive/regulated media that is transferred outside of its facilities?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

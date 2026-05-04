@@ -1,0 +1,39 @@
+id: f5687193-63a8-430f-ad88-70bb5a2aad72
+name: Automated Tools to Support Information Location
+description: Automated mechanisms exist to identify by data classification type to ensure adequate security, compliance and resilience controls are in place to protect organizational information and individual data protection.
+elementType: enhancement
+externalId: DCH-24.1
+parent: dch-24
+controlQuestion: Does the organization identify by data classification type to ensure adequate security, compliance and resilience controls are in place to protect organizational information and individual data protection?
+functionGrouping: Identify
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

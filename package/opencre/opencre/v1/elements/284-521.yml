@@ -5,10 +5,10 @@ externalId: 284-521
 elementType: cre
 links:
   demonstrates:
+    - CWE-1004
     - OWASP Cheat Sheets/REST Assessment Cheat Sheet
     - CWE-732
     - owasp.asvs.v4_0_3.framework/4.3.3
-    - CWE-1004
     - CWE-277
     - CWE-278
     - CWE-279

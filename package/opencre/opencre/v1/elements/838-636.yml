@@ -5,8 +5,8 @@ externalId: 838-636
 elementType: cre
 links:
   demonstrates:
-    - CWE-507
     - owasp.asvs.v4_0_3.framework/10.2.3
+    - CWE-507
     - CWE-508
     - CWE-509
     - CAPEC-698

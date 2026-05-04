@@ -1,0 +1,11 @@
+id: 55b26cdb-2fce-4eff-ab5f-0e0203b932f4
+name: Sensitive AI output handling
+description: Sensitive AI output handling
+externalId: 204-272
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - MITRE ATLAS/AML.M0020
+    - OWASP AI Exchange/sensitiveoutputhandling
+parent: 802-101

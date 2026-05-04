@@ -1,0 +1,51 @@
+id: e6ad148a-a8bf-4805-bf58-ccfdd230659a
+name: AI & Autonomous Technologies Context Definition
+description: |-
+  Mechanisms exist to establish and document the context surrounding Artificial Intelligence (AI) and Autonomous Technologies (AAT), including:
+  (1) Intended purposes;
+  (2) Potentially beneficial uses;
+  (3) Context-specific laws and regulations;
+  (4) Norms and expectations; and
+  (5) Prospective settings in which the system(s) will be deployed.
+elementType: control
+externalId: AAT-03
+parent: aat
+controlQuestion: |-
+  Does the organization establish and document the context surrounding Artificial Intelligence (AI) and Autonomous Technologies (AAT), including:
+   (1) Intended purposes;
+   (2) Potentially beneficial uses;
+   (3) Context-specific laws and regulations;
+   (4) Norms and expectations; and
+   (5) Prospective settings in which the system(s) will be deployed?
+functionGrouping: Identify
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

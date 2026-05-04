@@ -6,8 +6,8 @@ elementType: cre
 links:
   demonstrates:
     - owasp.asvs.v4_0_3.framework/1.1.1
-    - csa.ccm.v4_0_12.framework/ais-04
     - iso.27001.2013.framework/8.25
+    - csa.ccm.v4_0_12.framework/ais-04
     - nist.80053.rev5.framework/sa-15
     - nist.80053.rev5.framework/sa-3
     - nist.80053.rev5.framework/sa-8

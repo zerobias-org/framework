@@ -5,7 +5,7 @@ externalId: 456-535
 elementType: cre
 links:
   demonstrates:
-    - owasp.asvs.v4_0_3.framework/11.1.2
     - CWE-799
+    - owasp.asvs.v4_0_3.framework/11.1.2
     - CWE-837
 parent: 552-588

@@ -1,0 +1,12 @@
+id: 98fc4b51-7153-4d22-bfdb-ca0586ac1260
+name: Augmentation data integrity controls
+description: Augmentation data integrity controls
+externalId: 088-316
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - ENISA/Control all data used by the ML model
+    - MITRE ATLAS/AML.M0007
+    - OWASP AI Exchange/augmentationdataintegrity
+parent: 582-035

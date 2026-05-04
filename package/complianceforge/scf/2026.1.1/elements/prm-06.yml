@@ -1,0 +1,45 @@
+id: d5e95d06-df1f-44da-a5cd-16f104a9c4ef
+name: Business Process Definition
+description: |-
+  Mechanisms exist to define business processes with consideration for security, compliance and resilience that determines: 
+  (1) The resulting risk to organizational operations, assets, individuals and other organizations; and
+  (2) Information protection needs arising from the defined business processes and revises the processes as necessary, until an achievable set of protection needs is obtained.
+elementType: control
+externalId: PRM-06
+parent: prm
+controlQuestion: |-
+  Does the organization define business processes with consideration for security, compliance and resilience that determines: 
+  (1) The resulting risk to organizational operations, assets, individuals and other organizations; and
+  (2) Information protection needs arising from the defined business processes and revises the processes as necessary, until an achievable set of protection needs is obtained?
+functionGrouping: Identify
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
