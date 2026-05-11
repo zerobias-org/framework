@@ -1,0 +1,12 @@
+id: 93d1cdb8-afff-4d1b-9331-5870291b9f42
+name: Data supply chain management
+description: Data supply chain management
+externalId: 423-055
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - ENISA/Ensure reliable sources are used
+    - MITRE ATLAS/AML.M0025
+    - NIST AI 100-2/Sec. 3.2.3
+parent: 881-234

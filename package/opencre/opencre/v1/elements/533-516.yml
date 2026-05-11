@@ -5,8 +5,8 @@ externalId: 533-516
 elementType: cre
 links:
   demonstrates:
-    - OWASP Proactive Controls/C4
     - owasp.wstg.v5.benchmark/wstg-appe-d
+    - OWASP Proactive Controls/C4
     - owasp.asvs.v4_0_3.framework/5.3.2
     - CWE-176
     - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet

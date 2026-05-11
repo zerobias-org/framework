@@ -6,7 +6,7 @@ elementType: cre
 links:
   demonstrates:
     - owasp.wstg.v5.benchmark/wstg-athn-06
-    - CWE-525
     - owasp.asvs.v4_0_3.framework/8.2.1
+    - CWE-525
     - CAPEC-37
 parent: 208-830

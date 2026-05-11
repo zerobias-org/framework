@@ -1,0 +1,10 @@
+id: 5bee1d98-e73e-43d6-bb6b-21922b289ee0
+name: Runtime model io integrity controls
+description: Runtime model io integrity controls
+externalId: 130-171
+elementType: cre
+links:
+  demonstrates:
+    - OWASP AI Exchange/runtimemodeliointegrity
+    - NIST AI 100-2/Sec. 2.2.4
+parent: 582-035

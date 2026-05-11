@@ -1,0 +1,47 @@
+id: ff7e095b-cb11-416b-9f5f-8aca7a5f8b0a
+name: Documentation Requirements
+description: |-
+  Mechanisms exist to obtain, protect and distribute administrator documentation for Technology Assets, Applications and/or Services (TAAS) that describe:
+  (1) Secure configuration, installation and operation of the TAAS;
+  (2) Effective use and maintenance of security features/functions; and
+  (3) Known vulnerabilities regarding configuration and use of administrative (e.g., privileged) functions.
+elementType: control
+externalId: TDA-04
+parent: tda
+controlQuestion: |-
+  Does the organization obtain, protect and distribute administrator documentation for Technology Assets, Applications and/or Services (TAAS) that describe:
+   (1) Secure configuration, installation and operation of the TAAS;
+   (2) Effective use and maintenance of security features/functions; and
+   (3) Known vulnerabilities regarding configuration and use of administrative (e.g., privileged) functions?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

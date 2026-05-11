@@ -1,0 +1,12 @@
+id: 6231bd3c-e5b6-402b-a853-7475725d6617
+name: Prompt injection I/O handling
+description: Prompt injection I/O handling
+externalId: 843-475
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.2.3
+    - NIST AI 100-2/Sec. 3.3.2
+    - MITRE ATLAS/AML.M0015
+    - OWASP AI Exchange/promptinjectioniohandling
+parent: 802-101

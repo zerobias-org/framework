@@ -1,0 +1,11 @@
+id: 869aecec-95e5-46c7-be8e-929549327670
+name: Access control to AI inference
+description: Access control to AI inference
+externalId: 715-644
+elementType: cre
+links:
+  demonstrates:
+    - OWASP AI Exchange/modelaccesscontrol
+    - 'ENISA/Table 5:'
+    - MITRE ATLAS/AML.M0019
+parent: 989-492

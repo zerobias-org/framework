@@ -1,0 +1,63 @@
+id: b61642c7-7f48-43a5-958b-5a16862f5c14
+name: Specialized Assessments
+description: |-
+  Mechanisms exist to conduct specialized assessments for: 
+  (1) Statutory, regulatory and contractual compliance obligations;
+  (2) Monitoring capabilities; 
+  (3) Mobile devices;
+  (4) Databases;
+  (5) Application security;
+  (6) Embedded technologies (e.g., IoT, OT, etc.);
+  (7) Vulnerability management; 
+  (8) Malicious code; 
+  (9) Insider threats;
+  (10) Performance/load testing; and/or
+  (11) Artificial Intelligence and Autonomous Technologies (AAT).
+elementType: enhancement
+externalId: IAO-02.2
+parent: iao-02
+controlQuestion: |-
+  Does the organization conduct specialized assessments for: 
+   (1) Statutory, regulatory and contractual compliance obligations;
+   (2) Monitoring capabilities; 
+   (3) Mobile devices;
+   (4) Databases;
+   (5) Application security;
+   (6) Embedded technologies (e.g., IoT, OT, etc.);
+   (7) Vulnerability management; 
+   (8) Malicious code; 
+   (9) Insider threats;
+   (10) Performance/load testing; and/or
+   (11) Artificial Intelligence and Autonomous Technologies (AAT) testing?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

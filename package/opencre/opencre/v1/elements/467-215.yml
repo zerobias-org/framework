@@ -1,0 +1,12 @@
+id: 7c9ba1f2-9786-4bb7-866d-3c1a296157bc
+name: Adversarial robust distillation
+description: Adversarial robust distillation
+externalId: 467-215
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.2.2
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.2.4
+    - OWASP AI Exchange/adversarialrobustdistillation
+parent: 384-015

@@ -1,0 +1,18 @@
+id: f68661c8-7324-4d61-bf6a-85ecdd7e05a4
+name: Data poisoning of train/finetune/augmentation data
+description: Data poisoning of train/finetune/augmentation data
+externalId: 615-663
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM04:2025
+    - MITRE ATLAS/AML.T0020
+    - ETSI/5.1
+    - ETSI/5.2
+    - 'ENISA/Table 3:'
+    - ENISA/Label modification
+    - OWASP Top10 for ML/ML02:2023
+    - 'BIML/BIML-78(2020): data:1'
+    - OWASP AI Exchange/datapoison
+    - NIST AI 100-2/Sec. 2.3.2
+parent: 481-710

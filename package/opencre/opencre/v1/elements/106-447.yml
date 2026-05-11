@@ -1,0 +1,10 @@
+id: bad9680a-ceed-459e-9e42-4ebe64c5ce0a
+name: Prompt input segregation
+description: Prompt input segregation
+externalId: 106-447
+elementType: cre
+links:
+  demonstrates:
+    - NIST AI 100-2/Sec. 3.4.5
+    - OWASP AI Exchange/inputsegregation
+parent: 382-481

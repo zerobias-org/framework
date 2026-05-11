@@ -1,0 +1,10 @@
+id: 366bf6be-2971-41a5-8998-ae54e455be75
+name: Runtime model integrity controls
+description: Runtime model integrity controls
+externalId: 276-748
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - OWASP AI Exchange/runtimemodelintegrity
+parent: 582-035

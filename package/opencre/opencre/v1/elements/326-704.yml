@@ -5,6 +5,7 @@ externalId: 326-704
 elementType: cre
 links:
   demonstrates:
+    - owasp.samm.v1_0.framework/d-sa-a
     - iso.27001.2013.framework/8.27
     - nist.80053.rev5.framework/pl-8
     - nist.80053.rev5.framework/sa-17
@@ -12,5 +13,4 @@ links:
     - nist.80053.rev5.framework/sc-27
     - nist.80053.rev5.framework/sc-29
     - nist.80053.rev5.framework/sa-23
-    - owasp.samm.v1_0.framework/d-sa-a
 parent: 616-305

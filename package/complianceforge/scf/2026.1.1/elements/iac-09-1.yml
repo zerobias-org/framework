@@ -1,0 +1,39 @@
+id: f8005fd0-cbf2-45ce-8cce-c0b4d1441d82
+name: User Identity (ID) Management
+description: Mechanisms exist to ensure proper user identification management for non-consumer users and administrators.
+elementType: enhancement
+externalId: IAC-09.1
+parent: iac-09
+controlQuestion: Does the organization ensure proper user identification management for non-consumer users and administrators?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

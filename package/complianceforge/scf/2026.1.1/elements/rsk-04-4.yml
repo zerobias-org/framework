@@ -1,0 +1,47 @@
+id: 1ba24fce-d13f-4e19-aed0-093577c97857
+name: Risk Assessment Stakeholder Involvement
+description: |-
+  Mechanisms exist to:
+  (1) Define applicable stakeholders for each risk assessment;
+  (2) Involve identified stakeholders in the risk assessment process; and
+  (3) Provide identified stakeholders with results of the risk assessment, upon completion.
+elementType: enhancement
+externalId: RSK-04.4
+parent: rsk-04
+controlQuestion: |-
+  Does the organization:
+  (1) Define applicable stakeholders for each risk assessment;
+  (2) Involve identified stakeholders in the risk assessment process; and
+  (3) Provide identified stakeholders with results of the risk assessment, upon completion?
+functionGrouping: Protect
+controlWeighting: '8'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

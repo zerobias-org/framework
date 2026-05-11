@@ -1,0 +1,13 @@
+id: bd986cbd-cdce-495e-afa5-66bdc6d3f3bd
+name: AI resource exhaustion attack
+description: AI resource exhaustion attack
+externalId: 230-318
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM10:2025
+    - MITRE ATLAS/AML.T0029
+    - OWASP AI Exchange/airesourceexhaustion
+    - NIST AI 100-2/Sec. 3.4.1
+    - 'ENISA/Table 3:'
+parent: 803-457

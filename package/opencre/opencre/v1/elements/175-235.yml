@@ -6,8 +6,8 @@ elementType: cre
 links:
   demonstrates:
     - OWASP Cheat Sheets/Third Party Javascript Management Cheat Sheet
-    - owasp.asvs.v4_0_3.framework/12.2.1
     - CWE-434
+    - owasp.asvs.v4_0_3.framework/12.2.1
     - OWASP Cheat Sheets/File Upload Cheat Sheet
     - CAPEC-1
 parent: 130-550

@@ -6,6 +6,7 @@ elementType: cre
 links:
   demonstrates:
     - csa.ccm.v4_0_12.framework/ais-03
+    - nist.800218.v1_1.framework/po_3_3
     - nist.80053.rev5.framework/ca-1
     - nist.80053.rev5.framework/ca-2
     - nist.80053.rev5.framework/ca-5
@@ -16,5 +17,4 @@ links:
     - nist.80053.rev5.framework/si-5
     - nist.80053.rev5.framework/pm-6
     - nist.80053.rev5.framework/pm-31
-    - nist.800218.v1_1.framework/po_3_3
 parent: 567-755

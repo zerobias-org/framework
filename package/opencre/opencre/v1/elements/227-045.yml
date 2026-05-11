@@ -6,10 +6,10 @@ elementType: cre
 links:
   demonstrates:
     - OWASP Proactive Controls/C8
-    - CWE-200
     - iso.27001.2013.framework/5.32
     - iso.27001.2013.framework/5.33
     - owasp.asvs.v4_0_3.framework/8.3.4
+    - CWE-200
     - nist.80053.rev5.framework/si-12
     - CWE-1273
     - CWE-213
@@ -17,10 +17,6 @@ links:
     - CWE-359
     - CWE-497
     - CWE-538
-    - CWE-214
-    - CWE-540
-    - CWE-548
-    - CWE-651
     - CAPEC-116
     - CAPEC-13
     - CAPEC-169
@@ -87,6 +83,4 @@ links:
     - CAPEC-694
     - CAPEC-79
     - CAPEC-95
-    - CWE-531
-    - CWE-541
 parent: 074-873

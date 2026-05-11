@@ -5,10 +5,10 @@ externalId: 240-464
 elementType: cre
 links:
   demonstrates:
-    - csa.ccm.v4_0_12.framework/bcr
     - iso.27001.2013.framework/8.14
     - iso.27001.2013.framework/5.29
-    - iso.27001.2013.framework/5.3
+    - iso.27001.2013.framework/5.30
+    - csa.ccm.v4_0_12.framework/bcr
     - nist.80053.rev5.framework/cp-1
     - nist.80053.rev5.framework/cp-10
     - nist.80053.rev5.framework/cp-11
@@ -22,6 +22,4 @@ links:
     - nist.80053.rev5.framework/cp-8
     - nist.80053.rev5.framework/cp-9
     - nist.80053.rev5.framework/si-13
-    - DevSecOps Maturity Model (DSOMM)/3f63bdbc-c75f-4780-a941-e6ad42e894e1
-    - DevSecOps Maturity Model (DSOMM)/c72da779-86cc-45b1-a339-190ce5093171
 parent: 766-162

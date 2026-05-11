@@ -1,0 +1,12 @@
+id: b6b09d21-bb03-4589-b696-90ee40d35e22
+name: Obscuring confidence in AI output
+description: Obscuring confidence in AI output
+externalId: 010-108
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.4.3
+    - 'ENISA/Table 5:'
+    - MITRE ATLAS/AML.M0002
+    - OWASP AI Exchange/obscureconfidence
+parent: 382-481

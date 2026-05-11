@@ -1,0 +1,10 @@
+id: 0e6fba0b-486f-49a4-a92c-38aa0e4162d5
+name: Testing against direct prompt injection
+description: Testing against direct prompt injection
+externalId: 536-158
+elementType: cre
+links:
+  demonstrates:
+    - MITRE ATLAS/AML.M0015
+    - NIST AI 100-2/Sec. 2.2.4
+parent: 364-516

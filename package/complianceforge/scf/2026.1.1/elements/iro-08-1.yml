@@ -1,0 +1,39 @@
+id: e38fc0f4-11c7-4724-aed3-f74ac5c72842
+name: Licensed Forensic Investigators
+description: Mechanisms exist to utilize licensed forensic investigators to perform data analysis for evidentiary purposes that may be used in legal proceedings or to prove wrongdoing.
+elementType: enhancement
+externalId: IRO-08.1
+parent: iro-08
+controlQuestion: Does the organization utilize licensed forensic investigators to perform data analysis for evidentiary purposes that may be used in legal proceedings or to prove wrongdoing?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

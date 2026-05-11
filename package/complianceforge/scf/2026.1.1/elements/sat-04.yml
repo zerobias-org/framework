@@ -1,0 +1,47 @@
+id: 2c9ecdea-e53c-4675-98c1-42bb8c507912
+name: Security, Compliance & Resilience Training Records
+description: |-
+  Mechanisms exist to document, retain and monitor individual training activities, including:
+  (1) Initial security, compliance and resilience awareness training;
+  (2) Recurring awareness training; and
+  (3) Technology Assets, Applications and/or Services (TAAS)-specific training.
+elementType: control
+externalId: SAT-04
+parent: sat
+controlQuestion: |-
+  Does the organization document, retain and monitor individual training activities, including:
+  (1) Initial security, compliance and resilience awareness training;
+  (2) Recurring awareness training; and
+  (3) Technology Assets, Applications and/or Services (TAAS)-specific training?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

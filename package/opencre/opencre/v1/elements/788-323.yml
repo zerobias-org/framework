@@ -1,0 +1,11 @@
+id: 77f1cf05-dc83-444e-acbf-200b7a45bcf6
+name: Model size reduction
+description: Model size reduction
+externalId: 788-323
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/5.3.2
+    - NIST AI 100-2/Sec. 2.3.3
+    - OWASP AI Exchange/smallmodel
+parent: 234-123

@@ -5,10 +5,10 @@ externalId: 307-507
 elementType: cre
 links:
   demonstrates:
-    - CWE-353
     - owasp.asvs.v4_0_3.framework/10.3.2
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
     - nist.800218.v1_1.framework/ps_2_1
+    - CWE-353
     - CAPEC-13
     - CAPEC-14
     - CAPEC-389

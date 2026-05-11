@@ -1,0 +1,39 @@
+id: 946fa974-5b3b-424e-b62f-b3a67b6c9b1f
+name: Purpose Compatibility
+description: Mechanisms exist to periodically assess disclosed purposes for which Personal Data (PD) is collected, received, processed, stored, transmitted and/or shared to ensure compatibility with reasonable consumer expectations.
+elementType: enhancement
+externalId: PRI-02.8
+parent: pri-02
+controlQuestion: Does the organization periodically assess disclosed purposes for which Personal Data (PD) is collected, received, processed, stored, transmitted and/or shared to ensure compatibility with reasonable consumer expectations?
+functionGrouping: Protect
+controlWeighting: '4'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

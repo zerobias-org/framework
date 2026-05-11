@@ -1,0 +1,11 @@
+id: 1bc5f253-0685-4858-9c12-86615f27fe7e
+name: Benign train data increase
+description: Benign train data increase
+externalId: 444-058
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.3.1
+    - OWASP AI Exchange/moretraindata
+parent: 234-123

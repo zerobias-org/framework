@@ -1,0 +1,45 @@
+id: eb1e439c-8683-45d0-b89d-f2e54194d132
+name: Supply Chain Risk Management (SCRM)
+description: |-
+  Mechanisms exist to:
+  (1) Evaluate security risks and threats associated with Technology Assets, Applications and/or Services (TAAS) supply chains; and
+  (2) Take appropriate remediation actions to minimize the organization's exposure to those risks and threats, as necessary.
+elementType: control
+externalId: TPM-03
+parent: tpm
+controlQuestion: |-
+  Does the organization:
+  (1) Evaluate security risks and threats associated with Technology Assets, Applications and/or Services (TAAS) supply chains; and
+  (2) Take appropriate remediation actions to minimize the organization's exposure to those risks and threats, as necessary?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

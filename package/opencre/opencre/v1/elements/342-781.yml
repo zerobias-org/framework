@@ -1,0 +1,14 @@
+id: 6f5fd976-e7ab-40cb-9975-b389762f75ce
+name: Direct development-time model leak
+description: Direct development-time model leak
+externalId: 342-781
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.1
+    - OWASP Top10 for ML/ML05:2023
+    - MITRE ATLAS/AML.T0035
+    - OWASP AI Exchange/devmodelleak
+    - NIST AI 100-2/Sec. 2.4.3
+    - 'ENISA/Table 3:'
+parent: 267-786

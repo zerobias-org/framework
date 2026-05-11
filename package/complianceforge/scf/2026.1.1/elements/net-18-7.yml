@@ -1,0 +1,39 @@
+id: d443d999-ffc0-40a8-b011-e4f7ee410c25
+name: Bandwidth Control
+description: Mechanisms exist to implement bandwidth control technologies to limit the amount of bandwidth used by categories of domains that are bandwidth-intensive.
+elementType: enhancement
+externalId: NET-18.7
+parent: net-18
+controlQuestion: Does the organization implement bandwidth control technologies to limit the amount of bandwidth used by categories of domains that are bandwidth-intensive?
+functionGrouping: Protect
+controlWeighting: '2'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

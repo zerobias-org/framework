@@ -5,12 +5,12 @@ externalId: 247-250
 elementType: cre
 links:
   demonstrates:
-    - csa.ccm.v4_0_12.framework/iam
     - iso.27001.2013.framework/5.15
     - iso.27001.2013.framework/5.18
     - iso.27001.2013.framework/5.16
     - iso.27001.2013.framework/5.3
     - iso.27001.2013.framework/8.3
+    - csa.ccm.v4_0_12.framework/iam
     - nist.80053.rev5.framework/ac-1
     - nist.80053.rev5.framework/pm-10
     - nist.80053.rev5.framework/ac-20
