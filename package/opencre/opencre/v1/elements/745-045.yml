@@ -7,11 +7,12 @@ links:
   demonstrates:
     - OWASP Proactive Controls/C8
     - CWE-319
-    - owasp.wstg.v5.benchmark/wstg-cryp-01
     - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
+    - owasp.wstg.v5.benchmark/wstg-cryp-01
     - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
     - owasp.asvs.v4_0_3.framework/9.1.1
     - OWASP Cheat Sheets/HTTP Strict Transport Security Cheat Sheet
+    - CWE-1428
     - CWE-5
     - CWE-614
     - CAPEC-102

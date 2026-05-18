@@ -5,8 +5,8 @@ externalId: 166-151
 elementType: cre
 links:
   demonstrates:
-    - CWE-285
     - OWASP Proactive Controls/C10
+    - CWE-285
     - owasp.wstg.v5.benchmark/wstg-errh-01
     - owasp.asvs.v4_0_3.framework/4.1.5
     - OWASP Cheat Sheets/Access Control Cheat Sheet
@@ -15,8 +15,6 @@ links:
     - CWE-1256
     - CWE-1297
     - CWE-926
-    - CWE-202
-    - CWE-612
     - CAPEC-1
     - CAPEC-104
     - CAPEC-127

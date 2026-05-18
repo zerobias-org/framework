@@ -1,0 +1,39 @@
+id: 8f602a45-355b-491f-a0cb-7297980fde82
+name: Transfer to Alternate Processing / Storage Site
+description: Mechanisms exist to redeploy personnel to other roles during a disruptive event or in the execution of a continuity plan.
+elementType: enhancement
+externalId: BCD-01.3
+parent: bcd-01
+controlQuestion: Does the organization redeploy personnel to other roles during a disruptive event or in the execution of a continuity plan?
+functionGrouping: Recover
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

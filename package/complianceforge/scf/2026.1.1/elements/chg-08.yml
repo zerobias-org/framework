@@ -1,0 +1,45 @@
+id: a0a84b37-aa97-4b61-b78b-f217d54742ca
+name: Dual Approval For High-Impact Environments
+description: |-
+  Mechanisms exist to require dual approval for any changes that might result in a serious incident that could adversely impact:
+  (1) Business processes; and/or
+  (2) Technology Assets, Applications, Services and/or Data (TAASD).
+elementType: control
+externalId: CHG-08
+parent: chg
+controlQuestion: |-
+  Does the organization require dual approval for any changes that might result in a serious, but adverse impact to:
+  (1) Business processes; and/or
+  (2)  Technology Assets, Applications, Services and/or Data (TAASD)?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

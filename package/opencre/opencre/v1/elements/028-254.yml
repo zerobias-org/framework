@@ -5,7 +5,6 @@ externalId: 028-254
 elementType: cre
 links:
   demonstrates:
-    - CWE-16
     - owasp.asvs.v4_0_3.framework/10.3.1
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
     - CWE-494

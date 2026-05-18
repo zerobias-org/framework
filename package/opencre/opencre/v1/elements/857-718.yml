@@ -5,10 +5,10 @@ externalId: 857-718
 elementType: cre
 links:
   demonstrates:
-    - OWASP Proactive Controls/C4
     - owasp.wstg.v5.benchmark/wstg-inpv-12
-    - CWE-78
+    - OWASP Proactive Controls/C4
     - owasp.asvs.v4_0_3.framework/5.3.8
+    - CWE-78
     - OWASP Cheat Sheets/Injection Prevention Cheat Sheet
     - OWASP Cheat Sheets/Injection Prevention in Java Cheat Sheet
     - OWASP Cheat Sheets/OS Command Injection Defense Cheat Sheet

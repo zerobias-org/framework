@@ -5,19 +5,20 @@ externalId: 473-177
 elementType: cre
 links:
   demonstrates:
-    - csa.ccm.v4_0_12.framework/ais-06
-    - nist.80053.rev5.framework/sc-34
     - owasp.samm.v1_0.framework/i-sb-a
     - owasp.samm.v1_0.framework/i-sd-a
+    - csa.ccm.v4_0_12.framework/ais-06
+    - nist.80053.rev5.framework/sc-34
     - DevSecOps Maturity Model (DSOMM)/a340f46b-6360-4cb8-847b-a0d3483d09d3
     - DevSecOps Maturity Model (DSOMM)/f6f7737f-25a9-4317-8de2-09bf59f29b5b
-    - DevSecOps Maturity Model (DSOMM)/f3c4971e-9f4d-4e59-8ed0-f0bdb6262477
     - DevSecOps Maturity Model (DSOMM)/5786959d-0c6f-46a6-8e1c-a32ff1a50222
     - DevSecOps Maturity Model (DSOMM)/9f107927-61e9-4574-85ad-3f2b4bca8665
+    - DevSecOps Maturity Model (DSOMM)/0cb2626b-fb0d-4a0f-9688-57f787310d97
     - DevSecOps Maturity Model (DSOMM)/74938a3f-1269-49b9-9d0f-c43a79a1985a
-    - DevSecOps Maturity Model (DSOMM)/13e9757e-58e2-4277-bc0f-eadc674891e6
-    - DevSecOps Maturity Model (DSOMM)/83057028-0b77-4d2e-8135-40969768ae88
+    - DevSecOps Maturity Model (DSOMM)/67e1a9aa-9fbf-4ec5-a2de-400f01960c51
     - DevSecOps Maturity Model (DSOMM)/85d52588-f542-4225-a338-20dc22a5508d
     - DevSecOps Maturity Model (DSOMM)/a854b48d-83bd-4f8d-8621-a0bdd470837f
+    - DevSecOps Maturity Model (DSOMM)/a511799b-045e-4b96-9843-7d63d8c1e2ad
+    - DevSecOps Maturity Model (DSOMM)/066084c6-1135-4635-9cc5-9e75c7c5459f
     - DevSecOps Maturity Model (DSOMM)/598897a2-358e-441f-984c-e12ec4f6110a
 parent: 616-305

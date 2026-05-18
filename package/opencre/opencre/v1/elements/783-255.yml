@@ -5,9 +5,9 @@ externalId: 783-255
 elementType: cre
 links:
   demonstrates:
-    - CWE-320
-    - NIST 800-63/5.1.7.2
     - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
+    - NIST 800-63/5.1.7.2
+    - CWE-320
     - OWASP Cheat Sheets/Key Management Cheat Sheet
     - owasp.asvs.v4_0_3.framework/2.9.1
 parent: 223-780

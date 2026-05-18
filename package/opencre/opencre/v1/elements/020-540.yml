@@ -1,0 +1,18 @@
+id: 299c6e9e-1644-49b1-ba80-5c8e2166135a
+name: Direct runtime model poisoning
+description: Direct runtime model poisoning
+externalId: 020-540
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM04:2025
+    - MITRE ATLAS/AML.T0018.000
+    - ETSI/5.1
+    - 'ENISA/Table 3:'
+    - OWASP Top10 for ML/ML10:2023
+    - 'BIML/BIML-78(2020): system:8'
+    - BIML/input:2
+    - BIML/output:2
+    - OWASP AI Exchange/runtimemodelpoison
+    - NIST AI 100-2/Sec. 2.3.4
+parent: 481-710

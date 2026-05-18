@@ -5,8 +5,8 @@ externalId: 746-705
 elementType: cre
 links:
   demonstrates:
-    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
     - owasp.wstg.v5.benchmark/wstg-busl-$$
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
     - CWE-770
     - owasp.asvs.v4_0_3.framework/11.1.3
     - CWE-774

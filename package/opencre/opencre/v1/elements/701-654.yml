@@ -1,0 +1,16 @@
+id: 80e895fd-0584-46b4-ac0a-a26628b4b9e2
+name: Supply-chain model poisoning
+description: Supply-chain model poisoning
+externalId: 701-654
+elementType: cre
+links:
+  demonstrates:
+    - OWASP Top10 for LLM/LLM03:2025
+    - MITRE ATLAS/AML.T0010.003
+    - 'ENISA/Table 3:'
+    - OWASP Top10 for ML/ML06:2023
+    - 'BIML/BIML-78(2020): data:2'
+    - BIML/model:2
+    - OWASP AI Exchange/supplymodelpoison
+    - NIST AI 100-2/Sec. 3.2.2
+parent: 481-710

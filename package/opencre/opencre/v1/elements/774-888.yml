@@ -5,8 +5,8 @@ externalId: 774-888
 elementType: cre
 links:
   demonstrates:
-    - CWE-798
     - owasp.asvs.v4_0_3.framework/2.10.4
+    - CWE-798
     - CAPEC-191
     - CAPEC-70
 parent: 223-780

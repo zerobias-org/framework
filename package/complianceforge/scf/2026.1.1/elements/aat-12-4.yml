@@ -1,0 +1,45 @@
+id: 031d7c8d-3b69-4c15-b119-a6596f824fe1
+name: Digital Content Modification Logging
+description: |-
+  Mechanisms exist to ensure Artificial Intelligence and Autonomous Technologies (AAT):
+  (1) Enable auditing of content modifications; and 
+  (2) Generate event logs for content-related changes.
+elementType: enhancement
+externalId: AAT-12.4
+parent: aat-12
+controlQuestion: |-
+  Does the organization ensure Artificial Intelligence and Autonomous Technologies (AAT):
+  (1) Enable auditing of content modifications; and 
+  (2) Generate event logs for content-related changes?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

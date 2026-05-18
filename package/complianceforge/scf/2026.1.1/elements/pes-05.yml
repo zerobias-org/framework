@@ -1,0 +1,39 @@
+id: 4f45889d-16a3-4f12-9eaa-86b2dc734964
+name: Monitoring Physical Access
+description: Physical access control mechanisms exist to monitor for, detect and respond to physical security incidents.
+elementType: control
+externalId: PES-05
+parent: pes
+controlQuestion: Does the organization monitor for, detect and respond to physical security incidents?
+functionGrouping: Detect
+controlWeighting: '7'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

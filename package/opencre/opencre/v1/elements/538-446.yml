@@ -7,8 +7,8 @@ links:
   demonstrates:
     - owasp.wstg.v5.benchmark/wstg-inpv-00
     - owasp.asvs.v4_0_3.framework/5.2.2
-    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
     - CWE-138
+    - OWASP Cheat Sheets/Server Side Request Forgery Prevention Cheat Sheet
     - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet
     - OWASP Cheat Sheets/Cross Site Scripting Prevention Cheat Sheet
     - OWASP Cheat Sheets/DOM based XSS Prevention Cheat Sheet
@@ -31,14 +31,6 @@ links:
     - CWE-164
     - CWE-464
     - CWE-790
-    - CWE-141
-    - CWE-142
-    - CWE-143
-    - CWE-146
-    - CWE-161
-    - CWE-163
-    - CWE-165
-    - CWE-791
     - CAPEC-105
     - CAPEC-134
     - CAPEC-15
@@ -48,14 +40,7 @@ links:
     - CAPEC-468
     - CAPEC-52
     - CAPEC-53
-    - CAPEC-6
     - CAPEC-635
     - CAPEC-81
     - CAPEC-93
-    - CWE-792
-    - CWE-795
-    - CWE-793
-    - CWE-794
-    - CWE-796
-    - CWE-797
 parent: 764-765

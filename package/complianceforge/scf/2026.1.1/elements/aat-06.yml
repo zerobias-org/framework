@@ -1,0 +1,39 @@
+id: 874a6923-f2cb-4971-862d-7dac80736474
+name: AI & Autonomous Technologies Fairness & Bias
+description: Mechanisms exist to prevent Artificial Intelligence (AI) and Autonomous Technologies (AAT) from unfairly identifying, profiling and/or statistically singling out a segmented population defined by race, religion, gender identity, national origin, religion, disability or any other politically-charged identifier.
+elementType: control
+externalId: AAT-06
+parent: aat
+controlQuestion: Does the organization prevent Artificial Intelligence (AI) and Autonomous Technologies (AAT) from unfairly identifying, profiling and/or statistically singling out a segmented population defined by race, religion, gender identity, national origin, religion, disability or any other politically-charged identifier?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5
