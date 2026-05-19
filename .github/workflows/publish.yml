@@ -1,23 +1,27 @@
-name: Publish
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+name: Publish Framework
 
-concurrency:
-  group: publish-${{ github.ref }}
-  cancel-in-progress: true
+on:
+  push:
+    branches: [main, qa, dev, uat]
+    paths:
+      - 'package/**'
+      - '.github/workflows/publish.yml'
+  workflow_dispatch:
+    inputs:
+      framework:
+        description: 'Framework to publish (e.g. cis/csc/v8_1). Leave blank for all changed.'
+        required: false
 
 permissions:
   contents: write
-  id-token: write
   packages: write
-  pull-requests: write
+  id-token: write
 
 jobs:
   publish:
-    uses: zerobias-org/devops/.github/workflows/publish-reusable-nx.yml@main
-    secrets: inherit
+    uses: zerobias-org/devops/.github/workflows/zbb-publish-reusable.yml@main
     with:
-      skip-publish-announcement: 'false'
+      ghcr-namespace: zerobias-org
+      dispatch-input-name: framework
+      dispatch-input-value: ${{ inputs.framework }}
+    secrets: inherit
