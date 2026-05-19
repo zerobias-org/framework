@@ -56,15 +56,25 @@ extra["contentValidator"] = { proj: org.gradle.api.Project ->
     require(projectDir.resolve(".npmrc").isFile)       { "$tag .npmrc missing in ${projectDir.path}" }
 
     // ── 1. Filesystem ↔ npm ↔ zerobias-block triangulation ──
+    //
+    // Dots-in-version carve-out: a handful of frameworks use dotted
+    // semver-style version directories (e.g. complianceforge/scf/2025.2.1).
+    // npm names allow dots and keep them literal. But zerobias.package is
+    // a dot-separated path the dataloader uses as a hierarchical key —
+    // literal dots in a version segment would parse as extra segments and
+    // break the format. So zerobias.package replaces those dots with
+    // underscores in the version segment only (e.g. 2025_2_1). Same kind
+    // of normalization suite uses for its nist/800-53 hyphens.
     val version = projectDir.name
     val frameworkCode = projectDir.parentFile.name
     val authority = projectDir.parentFile.parentFile.name
+    val packageVersion = version.replace(".", "_")
 
     val pkgDoc = SchemaPrimitives.parseJson(projectDir.resolve("package.json"))
     SchemaPrimitives.requirePackageIdentity(
         pkgDoc,
         expectedNpmName = "@zerobias-org/framework-$authority-$frameworkCode-$version",
-        expectedZerobiasPackage = "$authority.$frameworkCode.$version.framework",
+        expectedZerobiasPackage = "$authority.$frameworkCode.$packageVersion.framework",
         field = "$tag package.json",
     )
     require(SchemaPrimitives.getPath(pkgDoc, "zerobias.import-artifact") == "framework" ||
