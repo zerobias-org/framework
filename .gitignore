@@ -84,3 +84,9 @@ dbz-config.json
 
 scripts/clean**
 .nx/
+# Gradle / zbb
+build/
+.gradle
+.zbb-monorepo/
+.zbb-gradle/
+gradle-local.properties
