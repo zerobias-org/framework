@@ -2,201 +2,175 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Common Development Commands
+## Repository Overview
 
-### Setup and Installation
-- **Initial setup**: `npm install` (run in root directory first to setup husky hooks)
-- **Bootstrap all packages**: `npm run bootstrap`
-- **Install dependencies**: `npm install` (in individual package directories)
+Monorepo of ZeroBias compliance framework artifacts. Each `package/<authority>/<framework>/<version>/` directory is one publishable framework package (e.g. `cis/csc/v8_1`, `nist/800_207/v1`, `iso/iec_27001/2022`).
 
-### Building and Testing
-- **Build all packages**: `npm run build`
-- **Validate frameworks**: `npm run validate`
-- **Run tests**: `npm run lerna:test`
-- **Clean build artifacts**: `npm run clean`
-- **Full reset**: `npm run reset` (clean, correct deps, bootstrap, build)
+The repo is on the **gradle + [zbb publish reusable workflow](https://github.com/zerobias-org/devops/blob/main/.github/workflows/zbb-publish-reusable.yml)** pipeline. Lerna and nx were removed in the post-bootstrap cleanup. See `org/vendor`, `org/suite`, `com/tag`, and `org/product` for sibling reference shapes.
 
-### Lerna Operations
-- **Dry run version bump**: `npm run lerna:dry-run`
-- **Version packages**: `npm run lerna:version`
-- **Publish packages**: `npm run lerna:publish`
+## Development Commands
 
-### Individual Package Commands
-When working in a specific framework package (e.g., `package/opencre/opencre/v1/`):
-- **Validate framework**: `npm run validate`
-- **Correct dependencies**: `npm run correct:deps`
-- **Prepare for publish**: `npm run prepublishtest`
+### Per-package
 
-## Repository Architecture
+```bash
+# File-shape validation only (validator philosophy: only checks what dataloader can't):
+./gradlew :<authority>:<framework>:<version>:validateContent
 
-### Monorepo Structure
-This is a Lerna-managed monorepo containing security framework packages. The key directories are:
+# Full gate — validate → lint → compile → buildArtifacts → testIntegrationDataloader → writeGateStamp:
+./gradlew :<authority>:<framework>:<version>:gate
+```
 
-- **`package/`**: Contains all framework packages organized by vendor/suite/version
-  - Structure: `package/{vendor}/{suite}/{version}/`
-  - Example: `package/opencre/opencre/v1/`, `package/nist/800-218/v1.1/`
-- **`scripts/`**: Build and utility scripts
-- **`templates/`**: Template files for creating new frameworks
-- **`bundle/`**: Bundled package artifacts
+`gate` writes `package/<a>/<f>/<v>/gate-stamp.json`. The publish workflow's preflight rejects any package without a committed stamp.
 
-### Framework Package Structure
-Each framework package follows this structure:
-- **`index.yml`**: Main framework definition (metadata, element types, mapping types)
-- **`elements/`**: Individual framework elements (controls, requirements) as YAML files
-- **`baselines/`**: Optional baseline definitions for different coverage levels
-- **`package.json`**: NPM package configuration with specific naming conventions
-- **`.npmrc`**: NPM registry configuration
+`testIntegrationDataloader` runs the dataloader against an ephemeral Neon Postgres branch. Without `NEON_API_KEY` / `NEON_PROJECT_ID` in env (vault refs in `zbb.yaml`), it's skipped locally; CI runs it on push against an ephemeral branch.
 
-### Technology Stack
-- **Lerna**: Monorepo management and versioning
-- **Nx**: Build system and caching
-- **TypeScript**: Validation scripts and tooling
-- **YAML**: Framework definition format
-- **Husky**: Git hooks for commit validation
+### Per-package helper
 
-## Framework Development Workflow
+```bash
+# Reset all `dependencies` versions in a package.json to "latest" (replaces lerna sync):
+cd package/<a>/<f>/<v>
+npm run correct:deps
+```
 
-### Creating a New Framework
-1. Use the creation script: `scripts/createNewFramework.sh <standard_category> <publisher> <category> <version>`
-2. Update placeholders in `index.yml` (replace `{field}` values)
-3. Add elements to `elements/` directory
-4. Optionally add baselines to `baselines/` directory
-5. Run validation: `npm run validate`
+### Repo-wide
 
-### Framework Validation Rules
-- Package names must follow format: `@zerobias-org/framework-{code-with-dashes}`
-- Element/baseline codes must be lowercase alphanumeric with _ or - only
-- All framework elements must reference valid element types defined in `index.yml`
-- Parent-child relationships must reference existing elements
-- Baselines must reference existing elements
+```bash
+# Cross-cut: fail if two yml files (index.yml or any elements/*.yml) share an id UUID
+./gradlew validateUniqueIds
 
-### Commit and Versioning
-- Follow Conventional Commits specification
-- Commit messages format: `<type>(<scope>): <subject>`
-- Types: feat, fix, docs, style, refactor, perf, test, chore
-- Lerna automatically handles versioning and changelog generation
-- No manual version bumps in pull requests
+# Info tasks (zbb CLI helpers):
+./gradlew projectPaths       # emit project-to-directory mapping
+./gradlew changedModules     # list packages changed since last tag
+```
 
-## Authentication and Registry
-- Set `ZB_TOKEN` environment variable for NPM registry authentication
-- Packages publish to GitHub Package Registry: `https://npm.pkg.github.com/`
-- ZB_TOKEN should be an API key from ZeroBias platform
+## Package Structure
 
-## Framework Definition Schema
+Framework is **depth 4**:
 
-### Core Framework Structure
-Each framework must contain these required files:
-- **`index.yml`**: Framework metadata with required fields:
-  - `id`: UUID for the framework
-  - `name`: Human-readable framework name
-  - `description`: Framework description
-  - `code`: Unique framework code (format: `{vendor}_{suite}_{version}`)
-  - `externalId`: External identifier for the framework
-  - `url`: Framework's official URL
-  - `elementTypes`: Array of element type definitions
-  - `mappingTypes`: Array of mappable element types
-- **`package.json`**: NPM package with specific naming: `@zerobias-org/framework-{code-with-dashes}`
-- **`.npmrc`**: Registry configuration for GitHub Package Registry
+| Path | Sample | npm name | `zerobias.package` |
+|---|---|---|---|
+| `package/<a>/<f>/<v>/` | `cis/csc/v8_1` | `@zerobias-org/framework-<a>-<f>-<v>` | `<a>.<f>.<v>.framework` |
 
-### Element Structure
-Elements in the `elements/` directory must follow:
-- Filename format: lowercase alphanumeric with `_` or `-` only
-- Required fields: `id`, `name`, `description`, `externalId`, `elementType`
-- Optional fields: `parent`, `aliases`
-- Parent-child relationships must reference existing elements
+The `.framework` suffix on `zerobias.package` mirrors tag's `.tag` suffix — same disambiguation pattern.
 
-### Baseline Structure
-Baselines in the `baselines/` directory define coverage levels:
-- Required fields: `id`, `name`, `description`, `elements`
-- Elements map with `mandatory` boolean flag
-- All referenced elements must exist in the framework
+### Required files per package
 
-## Validation and Quality Assurance
+- `index.yml` — framework metadata (id, name, code, externalId, version, elementTypes, mappingTypes)
+- `elements/<elementCode>.yml` — one yaml per requirement / control (must declare `id`, `name`, `description`, `elementType`)
+- `package.json` — npm name + `zerobias` block + the single `correct:deps` script
+- `.npmrc` — artifact-private registry config
+- `build.gradle.kts` — `plugins { id("zb.content") }` (one-liner; validator handles the depth)
+- `baselines/` (optional), `mappings/` (optional)
 
-### Validation Script (`scripts/validate.ts`)
-The validation script performs comprehensive checks:
-- Framework metadata validation
-- Package.json compliance with naming conventions
-- Element type consistency
-- Parent-child relationship integrity
-- Baseline element references
-- UUID format validation
-- Code format validation (lowercase alphanumeric with _ or -)
+### package.json shape (per package)
 
-### Dependency Management
-- **`scripts/correctDeps.ts`**: Automatically updates dependencies to `latest` (except RC versions)
-- Run `npm run correct:deps` to update dependencies across all packages
+```jsonc
+{
+  "name": "@zerobias-org/framework-<a>-<f>-<v>",
+  "version": "2.0.x",
+  "files": ["index.yml", "baselines/**", "elements/**", "mappings/**"],
+  "dependencies": {
+    "@zerobias-org/suite-<a>-<f>": "latest"
+  },
+  "zerobias": {
+    "package": "<a>.<f>.<v>.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  },
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
+  }
+}
+```
 
-## Development Workflow
+Legacy `auditmation` metadata key is accepted; prefer `zerobias`.
 
-### Working with Individual Frameworks
-When working in a specific framework package:
-1. Navigate to the framework directory: `cd package/{vendor}/{suite}/{version}/`
-2. Install dependencies: `npm install`
-3. Make your changes to `index.yml`, `elements/`, or `baselines/`
-4. Validate your changes: `npm run validate`
-5. Correct dependencies if needed: `npm run correct:deps`
-6. Run shrinkwrap: `npm shrinkwrap`
+### index.yml shape
 
-### Framework Creation Process
-1. Use creation script: `scripts/createNewFramework.sh <standard_category> <vendor> <suite> <version>`
-2. Replace template placeholders in generated files:
-   - `{id}` → Generate new UUID
-   - `{name}` → Framework name
-   - `{description}` → Framework description
-   - `{externalId}` → External identifier
-   - `{url}` → Framework URL
-   - `{elementType}` → Element type code
-3. Add framework elements to `elements/` directory
-4. Add baselines to `baselines/` directory (if applicable)
-5. Run validation to ensure compliance
+- `id` — UUID, must be unique repo-wide across BOTH `index.yml` AND every `elements/*.yml` (enforced by `validateUniqueIds`)
+- `name`, `code` (e.g. `cis_csc_v8.1_scf`), `externalId` (e.g. `CIS CSC v8.1`), `description`, `url`
+- `version` — semver-like (e.g. `v8.1`)
+- `status: "approved"` typical
+- `external: true`, `internal: false` for industry-published frameworks
+- `elementTypes` — array of `{id, code, name, description}` defining the kinds of elements (e.g. `control`)
+- `mappingTypes` — array of element-type codes that participate in cross-framework mappings
 
-## Automated Daily Updates
+## Validator philosophy
 
-### Daily Update Workflow
-- **Automated workflow**: `.github/workflows/daily-update.yml` runs daily at 2 AM UTC
-- **Process**: Discovers packages with `update` scripts, runs updates, creates PR to `dev` branch
-- **Dependencies**: Root `npm install` required for shared tooling (Lerna, TypeScript, etc.)
-- **Error handling**: Workflow fails fast on package update failures or PR creation issues
-- **Summary**: Each run generates a summary showing updated/failed packages
+The dataloader is the source of truth for schema rules (UUID format, semver, status enum, elementType lookup, baseline shape, description non-blank, etc.). The gate validator (`build.gradle.kts`) only enforces what the dataloader CANNOT or DOES NOT see:
 
-### Dependency Requirements
-- **Root dependencies**: Essential for monorepo tooling and shared TypeScript tools
-- **Package dependencies**: Required for update scripts (e.g., `js-yaml` for YAML processing)
-- **Installation order**: Always install root dependencies first, then package-level dependencies
+1. **Filesystem ↔ npm-name ↔ `zerobias.package` triangulation** — dataloader reads `zerobias.package` but never the npm `name` and has no view of the directory layout
+2. **Repo-wide unique `id` UUIDs** across `index.yml` AND every `elements/*.yml` — dataloader processes one artifact at a time; cross-cuts only surface in DB collisions
 
-### Troubleshooting Updates
-- **Missing modules**: Check package.json for missing dependencies like `js-yaml`
-- **Update failures**: Review workflow logs for specific package errors
-- **PR creation**: Uses GitHub CLI with default GITHUB_TOKEN permissions
+This avoids drift when the dataloader tightens.
+
+## Creating a new framework package
+
+Run the helper:
+
+```bash
+sh scripts/createNewFramework.sh <standard_category> <publisher> <category> <version>
+```
+
+Where:
+- `standard_category` — `cyber` | `technical` | `clinical`
+- `publisher` — the authority that published the framework (e.g. `nist`, `cis`, `iso`)
+- `category` — the framework code (e.g. `800_53`, `csc`)
+- `version` — version string (e.g. `v1`, `2024`, `rev4`)
+
+Then:
+1. Fill in `index.yml` (id, name, code, externalId, url, elementTypes)
+2. Add elements under `elements/`
+3. Drop the gradle marker: `echo 'plugins { id("zb.content") }' > package/<a>/<f>/<v>/build.gradle.kts`
+4. Gate: `./gradlew :<a>:<f>:<v>:gate`
+5. Commit
+
+## Migrating remaining lerna-era packages to gradle
+
+Use the skill: `/migrate-packages [<a>/<f>/<v>...]`. See [.claude/skills/migrate-packages/SKILL.md](.claude/skills/migrate-packages/SKILL.md). The skill drops the marker, runs `:gate`, applies the major bump where needed (`1.x → 2.0`, `0.x → 1.0`, `2.x → no-op`), commits per-package.
+
+## "Update" sub-packages
+
+Two packages under `package/<a>/<f>/update/` (`opencre/opencre/update`, `complianceforge/scf/update`) are private utility/fetcher packages that pull upstream content and regenerate the framework yaml. They have `"private": true`, their own `update` npm script (`tsx index.ts`), and do NOT carry a gradle marker — `settings.gradle.kts` skips them. The daily-update workflow (`.github/workflows/daily-update.yml`) is the trigger.
+
+## Branches
+
+- `main` — default, all PRs target it
+- `dev`, `qa`, `uat` — environment branches kept in sync by the publish workflow's `sync` job
+
+## Commit format
+
+[Conventional Commits](https://www.conventionalcommits.org/), enforced by `commitlint` (`.commitlintrc.json`).
+
+```
+feat(framework-<a>-<f>-<v>): <subject>
+feat(framework-<a>-<f>-<v>)!: <subject> (<oldVer> → <newVer>)
+```
+
+Use `!` for major version bumps. Common scopes: `framework-<...>`, `bundle`, `validator`, `repo-cleanup`.
+
+## CI/CD
+
+Single workflow: `.github/workflows/publish.yml` — a thin wrapper around `zerobias-org/devops/.github/workflows/zbb-publish-reusable.yml@main`. Triggered on `push` to main/qa/dev/uat (paths: `package/**`, `.github/workflows/publish.yml`) and on `workflow_dispatch` (optional `framework` input).
+
+The reusable workflow's jobs:
+1. **detect** — diff to find changed packages
+2. **version** (main only, single-writer) — patch-bump version, commit
+3. **publish** (matrix) — per-package publish to npm + GHCR
+4. **update-bundle** (main only, after publish success) — refresh `bundle/package.json` deps from npm
+5. **sync** — propagate main → uat → qa → dev
+
+For pre-release validation on a feature branch:
+
+```bash
+gh workflow run publish.yml --ref <branch>
+```
 
 ## ZeroBias Task Integration
 
-For creating frameworks from ZeroBias tasks, use the skill:
+For creating frameworks from ZeroBias tasks: `/create-framework [task-id]`.
 
-```
-/create-framework [task-id]
-```
-
-See **[.claude/skills/create-framework.md](.claude/skills/create-framework.md)** for the complete workflow.
-
-### Quick Reference
-
-**Orchestration Documentation:**
-- [Meta-repo: DEPENDENCY_CHAIN.md](../../docs/orchestration/DEPENDENCY_CHAIN.md) - **STRICT dependency rules**
-- [Meta-repo: TASK_MANAGEMENT.md](../../docs/orchestration/TASK_MANAGEMENT.md) - Task API patterns
-- [Meta-repo: API_REFERENCE.md](../../docs/orchestration/API_REFERENCE.md) - Quick API reference
-
-**Additional Resources:**
-- [.claude/workflows/artifact-creation.md](.claude/workflows/artifact-creation.md) - Detailed creation workflow
-- [.claude/workflows/task-management.md](.claude/workflows/task-management.md) - Task management patterns
-
-**Dependency Chain:**
-```
-vendor → suite → framework
-```
-
-**CRITICAL:** Frameworks require BOTH vendor AND suite. Check/create them first.
+**Dependency Chain:** `vendor → suite → framework`. Frameworks require BOTH a vendor AND a suite. Check/create them first.
 
 ### Key APIs
 
@@ -223,7 +197,7 @@ zerobias_execute("platform.Task.update", {
 // Link tasks together
 zerobias_execute("platform.Resource.linkResources", {
   fromResource: sourceTaskId,
-  toResource: targetTaskId,  // Note: toResource, NOT toResourceId
+  toResource: targetTaskId,
   linkType: "b8bd95d0-b33c-11f0-8af3-dfaccf31600e"  // relates_to
 })
 ```
@@ -236,16 +210,20 @@ zerobias_execute("platform.Resource.linkResources", {
 | Peer Review | awaiting_approval | `f017a447-0994-594d-9417-39cbc9a4de88` |
 | Accept | released | `1d2e9381-f609-5e26-8bc6-7bbb65a9048d` |
 
-**Note:** Always get actual IDs from `task.nextTransitions`.
+Always get actual IDs from `task.nextTransitions`.
+
+**Orchestration:**
+- [DEPENDENCY_CHAIN.md](../../docs/orchestration/DEPENDENCY_CHAIN.md) — strict dependency rules
+- [TASK_MANAGEMENT.md](../../docs/orchestration/TASK_MANAGEMENT.md) — task API patterns
+- [API_REFERENCE.md](../../docs/orchestration/API_REFERENCE.md) — quick API reference
 
 ---
 
-## Important Notes
-- Always run `npm install` in root directory first to setup husky hooks
-- PRs must target the `dev` branch (not `main`)
-- Framework versions start at `0.0.0` and are managed by Lerna
-- Use `premajor` label for frameworks graduating to `1.0.0`
-- Validation scripts ensure framework integrity before publication
-- Framework codes must follow format: `{vendor}_{suite}_{version}` (underscores)
-- Package names use dashes: `@zerobias-org/framework-{code-with-dashes}`
-- Element and baseline codes must be lowercase alphanumeric with `_` or `-` only
+## Related Documentation
+
+- [Root CLAUDE.md](../../CLAUDE.md) — meta-repo guidance
+- [ContentArtifacts.md](../../ContentArtifacts.md) — content catalog system
+- [org/vendor/CLAUDE.md](../vendor/CLAUDE.md) — vendor repo (parent dependency in catalog chain)
+- [org/suite/CLAUDE.md](../suite/CLAUDE.md) — suite repo (parent dependency for framework's suite link)
+- [org/product/CLAUDE.md](../product/CLAUDE.md) — sibling repo, same gradle/zbb pattern
+- [com/platform/dataloader/CLAUDE.md](../../com/platform/dataloader/CLAUDE.md) — the dataloader processors (FrameworkArtifactLoader.ts is the source of truth for what the dataloader expects)
