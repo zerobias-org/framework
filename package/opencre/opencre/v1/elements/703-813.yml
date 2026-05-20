@@ -1,0 +1,11 @@
+id: fa268930-90d4-496b-9f1f-67fb425965f0
+name: Monitor inference
+description: Monitor inference
+externalId: 703-813
+elementType: cre
+links:
+  demonstrates:
+    - OWASP AI Exchange/monitoruse
+    - 'ENISA/Table 5:'
+    - MITRE ATLAS/AML.M0024
+parent: 989-492

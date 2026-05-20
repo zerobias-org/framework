@@ -5,8 +5,8 @@ externalId: 622-203
 elementType: cre
 links:
   demonstrates:
-    - NIST 800-63/5.1.1.2
     - OWASP Proactive Controls/C6
+    - NIST 800-63/5.1.1.2
     - CWE-916
     - owasp.asvs.v4_0_3.framework/2.4.1
     - OWASP Cheat Sheets/Password Storage Cheat Sheet

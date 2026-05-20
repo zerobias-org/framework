@@ -5,9 +5,9 @@ externalId: 064-808
 elementType: cre
 links:
   demonstrates:
+    - owasp.wstg.v5.benchmark/wstg-inpv-05
     - OWASP Proactive Controls/C3
     - OWASP Proactive Controls/C4
-    - owasp.wstg.v5.benchmark/wstg-inpv-05
     - owasp.asvs.v4_0_3.framework/5.3.5
     - CWE-89
     - OWASP Cheat Sheets/Unvalidated Redirects and Forwards Cheat Sheet

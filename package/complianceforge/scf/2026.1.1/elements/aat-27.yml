@@ -1,0 +1,51 @@
+id: 82e59367-5689-482b-bb38-a1e65b0c5f39
+name: AI & Autonomous Technologies Output Filtering
+description: |-
+  Mechanisms exist to prevent Artificial Intelligence (AI) and Autonomous Technologies (AAT) from generating content that is:
+  (1) Inappropriate;
+  (2) Harmful;
+  (3) False;
+  (4) Illegal; and/or
+  (5) Violent.
+elementType: control
+externalId: AAT-27
+parent: aat
+controlQuestion: |-
+  Does the organization prevent Artificial Intelligence (AI) and Autonomous Technologies (AAT) from generating content that is:
+  (1) Inappropriate;
+  (2) Harmful;
+  (3) False;
+  (4) Illegal; and/or
+  (5) Violent?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

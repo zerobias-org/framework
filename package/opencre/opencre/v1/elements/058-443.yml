@@ -1,0 +1,11 @@
+id: 6cea8885-4a30-430c-a309-bac4d975befe
+name: Data minimization
+description: Data minimization
+externalId: 058-443
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.4.5
+    - OWASP AI Exchange/dataminimize
+parent: 563-186

@@ -1,0 +1,12 @@
+id: 6f3abc20-1274-4f20-8219-3746d7c69782
+name: Rate limiting against AI input attacks
+description: Rate limiting against AI input attacks
+externalId: 187-083
+elementType: cre
+links:
+  demonstrates:
+    - OWASP AI Exchange/ratelimit
+    - ETSI/6.3.3
+    - NIST AI 100-2/Sec. 2.4.5
+    - MITRE ATLAS/AML.M0004
+parent: 989-492

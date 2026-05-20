@@ -5,8 +5,8 @@ externalId: 046-257
 elementType: cre
 links:
   demonstrates:
-    - owasp.wstg.v5.benchmark/wstg-clnt-12
     - CWE-922
+    - owasp.wstg.v5.benchmark/wstg-clnt-12
     - owasp.asvs.v4_0_3.framework/8.2.3
     - CWE-921
 parent: 208-830

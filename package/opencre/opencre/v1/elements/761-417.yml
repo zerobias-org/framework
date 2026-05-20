@@ -1,0 +1,16 @@
+id: 8f19cba1-fa42-4fdb-8363-b258167a30f6
+name: Evasion attack input handling
+description: Evasion attack input handling
+externalId: 761-417
+elementType: cre
+links:
+  demonstrates:
+    - ETSI/6.2.3
+    - 'ENISA/Table 5:'
+    - 'ENISA/Table 5:'
+    - ENISA/Apply modifications on inputs
+    - ENISA/Implement tools to detect if a data point is an adversarial example or not
+    - MITRE ATLAS/AML.M0010
+    - MITRE ATLAS/AML.M0009
+    - OWASP AI Exchange/evasioninputhandling
+parent: 802-101

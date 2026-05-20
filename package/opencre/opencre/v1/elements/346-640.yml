@@ -6,21 +6,14 @@ elementType: cre
 links:
   demonstrates:
     - NIST 800-63/5.1.2.2
-    - CWE-330
     - owasp.asvs.v4_0_3.framework/2.6.2
+    - CWE-330
     - CWE-1204
     - CWE-1241
     - CWE-334
-    - CWE-340
     - CWE-344
-    - CWE-323
-    - CWE-341
-    - CWE-342
-    - CWE-343
-    - CWE-6
     - CAPEC-112
     - CAPEC-20
-    - CAPEC-21
     - CAPEC-485
     - CAPEC-59
     - CAPEC-97

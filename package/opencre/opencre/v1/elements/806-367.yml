@@ -5,8 +5,8 @@ externalId: 806-367
 elementType: cre
 links:
   demonstrates:
-    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
     - OWASP Proactive Controls/C4
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
     - OWASP Cheat Sheets/Deserialization Cheat Sheet
     - CWE-116
     - owasp.asvs.v4_0_3.framework/1.5.4

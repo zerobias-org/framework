@@ -1,0 +1,47 @@
+id: 3b4cb947-2422-4716-b30c-08edd93926c2
+name: Collaborative Computing Devices
+description: |-
+  Mechanisms exist to unplug or prohibit the remote activation of collaborative computing devices with the following exceptions: 
+  (1) Networked whiteboards; 
+  (2) Video teleconference cameras; and 
+  (3) Teleconference microphones.
+elementType: control
+externalId: END-14
+parent: end
+controlQuestion: |-
+  Does the organization unplug or prohibit the remote activation of collaborative computing devices with the following exceptions: 
+   (1) Networked whiteboards; 
+   (2) Video teleconference cameras; and 
+   (3) Teleconference microphones?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

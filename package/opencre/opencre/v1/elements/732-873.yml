@@ -5,8 +5,8 @@ externalId: 732-873
 elementType: cre
 links:
   demonstrates:
-    - OWASP Proactive Controls/C3
     - owasp.wstg.v5.benchmark/wstg-inpv-05
+    - OWASP Proactive Controls/C3
     - owasp.asvs.v4_0_3.framework/5.3.4
     - CWE-89
     - OWASP Cheat Sheets/Query Parameterization Cheat Sheet

@@ -1,0 +1,39 @@
+id: 5709705d-3515-4e23-93b1-b6c13757a081
+name: Cryptographic Hash
+description: Mechanisms exist to utilize hash algorithms to generate a hash value that can be used to validate the integrity of data and/or software.
+elementType: control
+externalId: CRY-13
+parent: cry
+controlQuestion: Does the organization utilize hash algorithms to generate a hash value that can be used to validate the integrity of data and/or software?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

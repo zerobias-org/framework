@@ -1,0 +1,12 @@
+id: b38acdae-c555-4238-b2c8-4b176466d6d6
+name: Unwanted AI input series handling
+description: Unwanted AI input series handling
+externalId: 576-262
+elementType: cre
+links:
+  demonstrates:
+    - OWASP AI Exchange/unwantedinputserieshandling
+    - ETSI/6.2.3
+    - 'ENISA/Table 5:'
+    - MITRE ATLAS/AML.M0015
+parent: 989-492

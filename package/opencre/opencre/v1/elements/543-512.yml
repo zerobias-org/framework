@@ -5,12 +5,12 @@ externalId: 543-512
 elementType: cre
 links:
   demonstrates:
-    - owasp.asvs.v4_0_3.framework/13.2.5
     - CWE-436
+    - owasp.asvs.v4_0_3.framework/13.2.5
+    - CWE-115
     - OWASP Cheat Sheets/REST Assessment Cheat Sheet
     - OWASP Cheat Sheets/REST Security Cheat Sheet
     - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet
-    - CWE-115
     - CWE-437
     - CWE-650
     - CAPEC-105

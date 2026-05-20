@@ -5,13 +5,13 @@ externalId: 782-234
 elementType: cre
 links:
   demonstrates:
-    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
-    - CWE-1029
-    - owasp.asvs.v4_0_3.framework/1.5.1
     - iso.27001.2013.framework/5.31
-    - OWASP Cheat Sheets/Deserialization Cheat Sheet
+    - OWASP Cheat Sheets/Abuse Case Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/1.5.1
     - CWE-707
+    - OWASP Cheat Sheets/Deserialization Cheat Sheet
     - CWE-138
+    - CWE-1426
     - CWE-74
     - CAPEC-10
     - CAPEC-101
@@ -56,43 +56,4 @@ links:
     - CAPEC-83
     - CAPEC-84
     - CAPEC-9
-    - CWE-140
-    - CWE-147
-    - CWE-148
-    - CWE-149
-    - CWE-150
-    - CWE-151
-    - CWE-152
-    - CWE-153
-    - CWE-154
-    - CWE-155
-    - CWE-156
-    - CWE-157
-    - CWE-158
-    - CWE-159
-    - CWE-160
-    - CWE-162
-    - CWE-164
-    - CWE-464
-    - CWE-75
-    - CWE-790
-    - CWE-943
-    - CAPEC-134
-    - CAPEC-41
-    - CAPEC-460
-    - CAPEC-635
-    - CAPEC-676
-    - CAPEC-81
-    - CAPEC-93
-    - CWE-141
-    - CWE-142
-    - CWE-143
-    - CWE-146
-    - CWE-161
-    - CWE-163
-    - CWE-165
-    - CWE-76
-    - CWE-791
-    - CWE-90
-    - CAPEC-136
 parent: 004-517
