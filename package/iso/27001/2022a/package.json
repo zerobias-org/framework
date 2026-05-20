@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-iso-27001-2022a",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "description": "framework package for iso-27001-2022",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -8,7 +8,7 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:zerobias-org/framework.git",
-    "directory": "package/iso/27001/2022/"
+    "directory": "package/iso/27001/2022a/"
   },
   "scripts": {
     "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
