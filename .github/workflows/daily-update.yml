@@ -31,9 +31,15 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '22'
           registry-url: 'https://npm.pkg.github.com'
           scope: '@zerobias-org'
+
+      - name: Setup Java (for gradle gate)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
 
       - name: Install root dependencies
         run: npm install
@@ -99,15 +105,9 @@ jobs:
             if npm run update; then
               echo "✅ Successfully updated $package_dir"
               updated_packages="$updated_packages $package_dir"
-              
-              # Run validation if available
-              if jq -e '.scripts.validate' package.json > /dev/null 2>&1; then
-                echo "Running validation for $package_dir..."
-                if ! npm run validate; then
-                  echo "❌ Validation failed for $package_dir"
-                  failed_packages="$failed_packages $package_dir(validation)"
-                fi
-              fi
+              # Validation now happens via the gradle gate step below
+              # (./gradlew :<path>:gate), not the deleted lerna-era
+              # `npm run validate` script.
             else
               echo "❌ Failed to update $package_dir"
               failed_packages="$failed_packages $package_dir(update)"
@@ -136,18 +136,58 @@ jobs:
             exit 1
           fi
 
+      - name: Gradle gate changed/new packages
+        if: steps.update.outputs.updated_packages != ''
+        env:
+          # build-tools resolves from GitHub Packages maven; gate writes
+          # gate-stamp.json (testIntegrationDataloader is skipped without
+          # NEON_* — CI re-runs it on push). READ_TOKEN/NPM_TOKEN fall
+          # back to GITHUB_TOKEN in settings.gradle.kts.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          READ_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # The update tools regenerate framework content under package/.
+          # Any package dir that changed (incl. brand-new versions) needs:
+          #   1. a build.gradle.kts marker (so the zbb pipeline discovers it)
+          #   2. a fresh gate-stamp.json (publish preflight rejects without it)
+          # Find every package dir (depth-4: <authority>/<framework>/<version>)
+          # touched by the update, drop the marker if missing, then gate.
+          changed_pkgs=$(git status --porcelain package/ \
+            | awk '{print $2}' \
+            | grep -oE 'package/[^/]+/[^/]+/[^/]+' \
+            | grep -vE '/update$' \
+            | sort -u)
+
+          gate_targets=""
+          for pkg in $changed_pkgs; do
+            [ -f "$pkg/index.yml" ] || continue          # only real framework packages
+            if [ ! -f "$pkg/build.gradle.kts" ]; then
+              printf 'plugins { id("zb.content") }\n' > "$pkg/build.gradle.kts"
+              echo "Added gradle marker to new package: $pkg"
+            fi
+            proj=$(echo "${pkg#package/}" | tr '/' ':')
+            gate_targets="$gate_targets :$proj:gate"
+          done
+
+          if [ -n "$gate_targets" ]; then
+            echo "Gating:$gate_targets"
+            ./gradlew --parallel $gate_targets
+          else
+            echo "No framework packages changed — nothing to gate."
+          fi
+
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet; then
+          if git diff --quiet && [ -z "$(git status --porcelain)" ]; then
             echo "No changes detected"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "Changes detected"
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            
+
             echo "Changed files:"
-            git diff --name-only
+            git status --porcelain | head -50
           fi
 
       - name: Configure Git
@@ -185,12 +225,13 @@ jobs:
           # Store branch name for PR creation
           echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
 
-      - name: Create PR to dev
+      - name: Create PR to main
         if: steps.changes.outputs.has_changes == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Create PR to dev branch
+          # Create PR to main (canonical branch on the gradle/zbb pipeline).
+          # dev/qa/uat are kept in sync downstream by the publish workflow.
           pr_title="chore: 🤖 daily framework updates $(date +%Y-%m-%d)"
           pr_body="Automated daily update of framework packages.
 
@@ -209,7 +250,7 @@ jobs:
           gh pr create \
             --title "$pr_title" \
             --body "$pr_body" \
-            --base dev \
+            --base main \
             --head "${{ env.BRANCH_NAME }}"
 
       - name: Update summary
@@ -234,7 +275,7 @@ jobs:
           
           # Commit status
           if [ "${{ steps.changes.outputs.has_changes }}" == "true" ]; then
-            echo "📝 Changes committed and PR created to \`dev\`" >> $GITHUB_STEP_SUMMARY
+            echo "📝 Changes committed and PR created to \`main\`" >> $GITHUB_STEP_SUMMARY
           else
             echo "ℹ️ No changes - all packages up to date" >> $GITHUB_STEP_SUMMARY
           fi
