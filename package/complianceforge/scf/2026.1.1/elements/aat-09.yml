@@ -1,0 +1,51 @@
+id: 6fadff6b-5646-462b-8ec0-d06d2f10fe42
+name: AI & Autonomous Technologies Risk Profiling
+description: |-
+  Mechanisms exist to document the risks and potential impacts of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that are:
+  (1) Designed;
+  (2) Developed;
+  (3) Deployed;
+  (4) Evaluated; and/or
+  (5) Used.
+elementType: control
+externalId: AAT-09
+parent: aat
+controlQuestion: |-
+  Does the organization document the risks and potential impacts of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that are:
+  (1) Designed;
+  (2) Developed;
+  (3) Deployed;
+  (4) Evaluated; and/or
+  (5) Used?
+functionGrouping: Identify
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

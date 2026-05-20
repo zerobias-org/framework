@@ -5,8 +5,8 @@ externalId: 287-305
 elementType: cre
 links:
   demonstrates:
-    - CWE-320
-    - owasp.asvs.v4_0_3.framework/1.6.1
     - OWASP Cheat Sheets/Cryptographic Storage Cheat Sheet
     - OWASP Cheat Sheets/Key Management Cheat Sheet
+    - owasp.asvs.v4_0_3.framework/1.6.1
+    - CWE-320
 parent: 820-877

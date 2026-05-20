@@ -5,14 +5,12 @@ externalId: 268-272
 elementType: cre
 links:
   demonstrates:
-    - CWE-285
     - owasp.asvs.v4_0_3.framework/8.3.8
+    - CWE-285
     - CWE-1230
     - CWE-1256
     - CWE-1297
     - CWE-926
-    - CWE-202
-    - CWE-612
     - CAPEC-1
     - CAPEC-104
     - CAPEC-127

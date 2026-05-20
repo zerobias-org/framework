@@ -6,8 +6,8 @@ elementType: cre
 links:
   demonstrates:
     - owasp.wstg.v5.benchmark/wstg-sess-05
-    - owasp.asvs.v4_0_3.framework/13.2.3
     - CWE-352
+    - owasp.asvs.v4_0_3.framework/13.2.3
     - OWASP Cheat Sheets/REST Assessment Cheat Sheet
     - OWASP Cheat Sheets/REST Security Cheat Sheet
     - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet

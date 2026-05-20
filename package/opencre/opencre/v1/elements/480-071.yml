@@ -6,8 +6,8 @@ elementType: cre
 links:
   demonstrates:
     - owasp.wstg.v5.benchmark/wstg-clnt-09
-    - owasp.asvs.v4_0_3.framework/14.4.7
     - CWE-1021
+    - owasp.asvs.v4_0_3.framework/14.4.7
     - OWASP Cheat Sheets/Content Security Policy Cheat Sheet
     - CAPEC-103
     - CAPEC-181

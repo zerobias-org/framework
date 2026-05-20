@@ -5,8 +5,8 @@ externalId: 238-346
 elementType: cre
 links:
   demonstrates:
-    - CWE-613
     - owasp.wstg.v5.benchmark/wstg-sess-06
+    - CWE-613
     - owasp.asvs.v4_0_3.framework/3.3.3
     - OWASP Cheat Sheets/Session Management Cheat Sheet
 parent: 470-731

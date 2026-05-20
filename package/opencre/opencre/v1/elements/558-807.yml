@@ -6,11 +6,12 @@ elementType: cre
 links:
   demonstrates:
     - NIST 800-63/5.2.6
-    - CWE-319
     - owasp.asvs.v4_0_3.framework/2.2.5
+    - CWE-319
     - OWASP Cheat Sheets/Authentication Cheat Sheet
     - OWASP Cheat Sheets/Transport Layer Protection Cheat Sheet
     - OWASP Cheat Sheets/TLS Cipher String Cheat Sheet
+    - CWE-1428
     - CWE-5
     - CWE-614
     - CAPEC-102

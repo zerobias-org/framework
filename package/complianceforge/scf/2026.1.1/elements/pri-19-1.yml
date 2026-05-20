@@ -1,0 +1,39 @@
+id: f3d79529-4e18-48a1-a894-3afe9a2237aa
+name: Automated Decision-Making Technology (ADMT) Use Notification
+description: Mechanisms exist to notify data subjects of their rights through a pre-use notice when their Personal Data (PD) will be processed by an Automated Decision-Making Technology (ADMT).
+elementType: enhancement
+externalId: PRI-19.1
+parent: pri-19
+controlQuestion: Does the organization notify data subjects of their rights through a pre-use notice when their Personal Data (PD) will be processed by an Automated Decision-Making Technology (ADMT)?
+functionGrouping: Protect
+controlWeighting: '6'
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: false
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: false
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: false
+  value: 5

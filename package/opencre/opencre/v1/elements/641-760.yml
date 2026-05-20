@@ -1,0 +1,12 @@
+id: 40ad262a-d388-467d-bc16-1cafd7900f03
+name: AI Input distortion
+description: AI Input distortion
+externalId: 641-760
+elementType: cre
+links:
+  demonstrates:
+    - 'ENISA/Table 5:'
+    - NIST AI 100-2/Sec. 2.2.4
+    - MITRE ATLAS/AML.M0010
+    - OWASP AI Exchange/inputdistortion
+parent: 382-481
