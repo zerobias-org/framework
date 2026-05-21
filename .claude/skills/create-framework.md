@@ -1,27 +1,176 @@
 # Create Framework Skill
 
-Create framework packages from ZeroBias tasks with automatic dependency resolution and proper task management.
+Turn a requirements document (a published standard, a URL, or a CSV of controls)
+into a valid ZeroBias **framework** content package and open a pull request for it.
+
+There are two ways to run this skill:
+
+- **Mode A — Document-first** (default; no ZeroBias task required). You have a
+  source — a URL, a pasted list of requirements, or a CSV — and you want a
+  framework package + PR. This is the path for content authors.
+- **Mode B — Task-driven** (for ZeroBias developers working the task system).
+  Driven by a ZeroBias Task UUID/name, with task transitions and comments.
 
 ## Trigger
 
 ```
-/create-framework [task-id]
+/create-framework                       # Mode A — prompts for the source
+/create-framework https://example.com/standard
+/create-framework ./controls.csv
+/create-framework <task-uuid|task-name> # Mode B — task-driven
 ```
 
-**Arguments:**
-- `task-id` (optional): ZeroBias task UUID or task name. If not provided, will prompt for input.
-
-## Examples
-
-```
-/create-framework bbd73958-f3f6-4ec7-a2ed-79cb105c9c19
-/create-framework AIUC-1
-/create-framework
-```
+If the argument is a 36-char UUID or resolves to a ZeroBias task, run **Mode B**.
+Otherwise treat the argument (or prompt) as a document source and run **Mode A**.
 
 ---
 
-## Workflow
+## Prerequisites (read first)
+
+1. **Registry tokens.** `@zerobias-org` packages live on a private registry.
+   You need `ZB_TOKEN` and `NPM_TOKEN` in your environment or the gradle gate
+   and `npm install` will 401. See the meta-repo `docs/RegistrySetup.md`.
+2. **Node 22 + the gradle wrapper.** Validation runs via `./gradlew` from the
+   repo root — no global install needed.
+3. **(Recommended) the `zb` MCP**, configured with a profile (`zb setup`), so
+   the skill can check whether the vendor/suite dependencies already exist in
+   the catalog. Without it, you can still check by reading the `org/vendor` and
+   `org/suite` repos.
+
+> ⚠️ **What this skill does and does NOT do.** It produces a **pull request
+> against `dev`**. It does **not** load content into any environment. After the
+> PR is reviewed and merged, a ZeroBias developer promotes `dev → main`, CI
+> publishes the package, and the environment load happens controlled-side.
+> Content authors' work ends at a green PR.
+
+---
+
+## Mode A — Document-first workflow
+
+### A1. Gather inputs
+
+Collect (prompt for anything missing):
+
+| Input | Example | Notes |
+|-------|---------|-------|
+| standard category | `cyber` \| `technical` \| `clinical` | scaffold arg |
+| publisher / authority | `cis`, `nist`, `complianceforge` | becomes `<a>` in the path |
+| framework code | `csc`, `800_53`, `scf` | becomes `<f>` |
+| version | `v8.1`, `2024`, `2026.1.1` | becomes `<v>` (dots → `_` on disk) |
+| display name | `Critical Security Controls (CSC)` | `index.yml` `name` |
+| externalId | `CIS CSC v8.1` | `index.yml` `externalId` |
+| source URL | `https://www.cisecurity.org/controls/v8/` | `index.yml` `url` |
+| element type(s) | `control` (default) | must match every element's `elementType` |
+| requirements source | URL to fetch / pasted list / CSV path | the actual control content |
+
+### A2. Verify dependencies exist (MANDATORY — do not author an orphan)
+
+Frameworks require a **vendor** AND a **suite** (`vendor → suite → framework`).
+Check before scaffolding:
+
+```javascript
+zerobias_execute("portal.Vendor.search", { searchVendorBody: { search: "<publisher>" }})
+zerobias_execute("portal.Suite.search",  { searchSuiteBody:  { search: "<publisher> <framework>" }})
+```
+
+If either is missing, **stop** and create it first (`/create-vendor`,
+`/create-suite`) or hand off to a developer. Do not proceed — the dataloader
+will reject a framework whose suite doesn't exist.
+
+### A3. Branch off `dev`
+
+```bash
+git checkout dev
+git pull origin dev
+git checkout -b feature/framework-<publisher>-<framework>-<version>
+```
+
+### A4. Scaffold the package
+
+```bash
+sh scripts/createNewFramework.sh <standard_category> <publisher> <framework> <version>
+```
+
+This creates `package/<a>/<f>/<v>/` with `index.yml`, `package.json`, `.npmrc`,
+and template `elements/`/`baselines/`, filling in the package id (`uuidgen`),
+code, and version.
+
+### A5. Fill `index.yml`
+
+The scaffold sets `id`, `code`, `version`. You fill the rest from A1: `name`,
+`externalId`, `url`, `description`, and the `elementTypes` array (`{id, code,
+name, description}` — generate a fresh UUID per type) plus `mappingTypes`
+(the element-type codes that participate in cross-framework mappings).
+
+### A6. Generate elements
+
+Delete the template `elements/example-1.yml`, then:
+
+- **From a CSV** (columns: `externalId,name,description[,elementType,parent]`):
+  ```bash
+  npx tsx scripts/csvToElements.ts <controls.csv> \
+    --output-dir package/<a>/<f>/<v>/elements --element-type control
+  ```
+- **From a document/URL**: parse it into one `elements/<externalId>.yml` per
+  requirement, each with `id` (fresh UUID), `name`, `description`,
+  `elementType` (matching A1), `externalId`. For hierarchy, set `parent` to the
+  parent element's code (its filename without `.yml`).
+
+Every `id` (in `index.yml` and every element) must be **unique repo-wide**.
+
+### A7. Drop the gradle marker
+
+```bash
+echo 'plugins { id("zb.content") }' > package/<a>/<f>/<v>/build.gradle.kts
+```
+
+### A8. Validate
+
+```bash
+# Fast file-shape check (filesystem ↔ npm name ↔ zerobias.package, unique ids):
+./gradlew :<a>:<f>:<v>:validateContent
+
+# Full gate (also runs the dataloader against an ephemeral Neon branch):
+./gradlew :<a>:<f>:<v>:gate
+```
+
+`gate` needs `NEON_API_KEY`/`NEON_PROJECT_ID`; without them the dataloader
+integration step is skipped locally and CI runs it on push. Fix any errors and
+re-run until `validateContent` passes.
+
+### A9. Commit, push, PR (base = `dev`)
+
+```bash
+git add package/<a>/<f>/<v>
+git commit -m "feat(framework-<a>-<f>-<v>): add <name> (<N> elements)
+
+- Source: <sourceUrl>
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+git push origin feature/framework-<publisher>-<framework>-<version>
+gh pr create --base dev \
+  --title "feat(framework-<a>-<f>-<v>): add <name>" \
+  --body "## Summary
+- **Package:** @zerobias-org/framework-<a>-<f>-<v>
+- **Elements:** <N>
+- **Source:** <sourceUrl>
+
+## Validation
+- [x] \`./gradlew :<a>:<f>:<v>:validateContent\` passes
+- [x] All elements have descriptions
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)"
+```
+
+### A10. Report and hand off
+
+Tell the author: PR is open against `dev`. Next steps are out of their hands —
+a developer reviews/merges, promotes `dev → main`, CI publishes, and the
+environment load happens controlled-side.
+
+---
+
+## Mode B — Task-driven workflow
 
 ### Step 1: Get Task Details
 
@@ -187,8 +336,8 @@ const repoMap = {
 **Use the branch name from task:**
 
 ```bash
-git checkout main
-git pull origin main
+git checkout dev
+git pull origin dev
 git checkout -b {task.customFields.branchName}
 ```
 
@@ -219,20 +368,23 @@ For frameworks:
 ### Step 10: Validate
 
 ```bash
-npm run validate
+# Fast file-shape check:
+./gradlew :{vendor}:{suite}:{version}:validateContent
+# Full gate (dataloader against ephemeral Neon branch; needs NEON_* creds):
+./gradlew :{vendor}:{suite}:{version}:gate
 ```
 
 ### Step 11: Commit Using Task Info
 
 ```bash
 git add .
-git commit -m "feat({vendor}-{suite}): ${task.name}
+git commit -m "feat(framework-{vendor}-{suite}-{version}): ${task.name}
 
 - Add ${task.customFields.artifactType} with {N} elements
 - Source: {sourceUrl}
 
 Task: ${task.code}
-Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>"
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 ```
 
 ### Step 12: Push Using Task Branch
@@ -244,8 +396,8 @@ git push origin {task.customFields.branchName}
 ### Step 13: Create Pull Request
 
 ```bash
-gh pr create --base main \
-  --title "feat({vendor}-{suite}): ${task.name}" \
+gh pr create --base dev \
+  --title "feat(framework-{vendor}-{suite}-{version}): ${task.name}" \
   --body "$(cat <<'EOF'
 ## Summary
 - **Task:** ${task.code} - ${task.name}
@@ -264,10 +416,10 @@ ${sourceUrl from task.description}
 - **Boundary:** ${task.boundary.name}
 
 ## Validation
-- [x] `npm run validate` passes
+- [x] `./gradlew :{vendor}:{suite}:{version}:validateContent` passes
 - [x] All elements have descriptions
 
-🤖 Generated with Claude Code
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
 EOF
 )"
 ```

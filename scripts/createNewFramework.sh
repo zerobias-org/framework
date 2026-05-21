@@ -24,12 +24,23 @@ fi
 cp -r $BASE_DIR/../templates/* $FOLDER_PATH
 cp  $BASE_DIR/../.npmrc $FOLDER_PATH
 
-sed -i "s/{vendor}/$VENDOR/g" $FOLDER_PATH/package.json
-sed -i "s/{suite}/$SUITE/g" $FOLDER_PATH/package.json
-sed -i "s/{version}/$EDITED_VERSION/g" $FOLDER_PATH/package.json
+# Portable in-place sed: works on both BSD/macOS and GNU/Linux.
+sed_inplace() {
+  sed -i.bak "$1" "$2" && rm -f "$2.bak"
+}
+
+sed_inplace "s/{vendor}/$VENDOR/g" "$FOLDER_PATH/package.json"
+sed_inplace "s/{suite}/$SUITE/g" "$FOLDER_PATH/package.json"
+sed_inplace "s/{version}/$EDITED_VERSION/g" "$FOLDER_PATH/package.json"
 
 UUID=$(uuidgen)
-sed -i "s/{id}/$UUID/g" $FOLDER_PATH/index.yml
-sed -i "s/{category}/$CATEGORY/g" $FOLDER_PATH/index.yml
-sed -i "s/{code}/$CODE/g" $FOLDER_PATH/index.yml
-sed -i "s/{version}/$VERSION/g" $FOLDER_PATH/index.yml
+sed_inplace "s/{id}/$UUID/g" "$FOLDER_PATH/index.yml"
+sed_inplace "s/{category}/$CATEGORY/g" "$FOLDER_PATH/index.yml"
+sed_inplace "s/{code}/$CODE/g" "$FOLDER_PATH/index.yml"
+sed_inplace "s/{version}/$VERSION/g" "$FOLDER_PATH/index.yml"
+
+# Drop the gradle marker so the package is gateable immediately.
+echo 'plugins { id("zb.content") }' > "$FOLDER_PATH/build.gradle.kts"
+
+echo "Created $FOLDER_PATH"
+echo "Next: fill index.yml, add elements/, then ./gradlew :$VENDOR:$SUITE:$EDITED_VERSION:validateContent"
