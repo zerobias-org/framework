@@ -2,8 +2,8 @@ import { promises as fs } from 'fs';
 import { createReadStream } from 'fs';
 import path from 'path';
 import yaml from 'yaml';
-import { UUID } from '@auditmation/types-core-js';
-import * as parse from 'csv-parser';
+import { randomUUID } from 'node:crypto';
+import { parse } from 'csv-parse';
 
 interface FrameworkElement {
   id: string;
@@ -137,7 +137,7 @@ function parseCsvRow(row: string[]): CsvRecord | null {
 
 function createFrameworkElement(csvRecord: CsvRecord, defaultElementType: string): FrameworkElement {
   const frameworkElement: FrameworkElement = {
-    id: UUID.generateV4().toString(),
+    id: randomUUID(),
     name: csvRecord.name,
     description: csvRecord.description,
     elementType: csvRecord.elementType || defaultElementType,
