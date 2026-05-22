@@ -43,4 +43,4 @@ sed_inplace "s/{version}/$VERSION/g" "$FOLDER_PATH/index.yml"
 echo 'plugins { id("zb.content") }' > "$FOLDER_PATH/build.gradle.kts"
 
 echo "Created $FOLDER_PATH"
-echo "Next: fill index.yml, add elements/, then ./gradlew :$VENDOR:$SUITE:$EDITED_VERSION:validateContent"
+echo "Next: fill index.yml, add elements/, then zbb :$VENDOR:$SUITE:$EDITED_VERSION:validateContent"
