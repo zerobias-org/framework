@@ -1,3 +1,9 @@
+---
+name: create-framework
+description: Turn a requirements document (URL · pasted list · CSV) into a valid ZeroBias framework content package and open a PR against dev. Two modes — Mode A document-first (default; for content authors) and Mode B task-driven (for ZeroBias developers working the task system). Verifies vendor + suite dependencies, scaffolds the package, generates elements (csvToElements), and runs zbb :<a>:<f>:<v>:validateContent / :gate. Produces a PR only — does not load content into any environment.
+argument-hint: "[<task-uuid|task-name> | <url> | <csv-path>]"
+---
+
 # Create Framework Skill
 
 Turn a requirements document (a published standard, a URL, or a CSV of controls)
