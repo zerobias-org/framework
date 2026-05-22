@@ -28,10 +28,13 @@ Otherwise treat the argument (or prompt) as a document source and run **Mode A**
 ## Prerequisites (read first)
 
 1. **Registry tokens.** `@zerobias-org` packages live on a private registry.
-   You need `ZB_TOKEN` and `NPM_TOKEN` in your environment or the gradle gate
-   and `npm install` will 401. See the meta-repo `docs/RegistrySetup.md`.
-2. **Node 22 + the gradle wrapper.** Validation runs via `./gradlew` from the
-   repo root — no global install needed.
+   You need `ZB_TOKEN` and `NPM_TOKEN` in your environment or the gate and
+   `npm install` will 401. See the meta-repo `docs/RegistrySetup.md`.
+2. **Node 22 + `zbb`.** Validation runs via the `zbb` CLI from the repo root.
+   `zbb <gradle-task>` wraps the gradle build but injects the slot/stack
+   environment (Neon creds + tokens from vault), so the gate's dataloader test
+   runs locally instead of being skipped. (Bare `./gradlew` works for
+   `validateContent`, but use `zbb` so the full gate behaves as it does in CI.)
 3. **(Recommended) the `zb` MCP**, configured with a profile (`zb setup`), so
    the skill can check whether the vendor/suite dependencies already exist in
    the catalog. Without it, you can still check by reading the `org/vendor` and
@@ -128,10 +131,10 @@ echo 'plugins { id("zb.content") }' > package/<a>/<f>/<v>/build.gradle.kts
 
 ```bash
 # Fast file-shape check (filesystem ↔ npm name ↔ zerobias.package, unique ids):
-./gradlew :<a>:<f>:<v>:validateContent
+zbb :<a>:<f>:<v>:validateContent
 
 # Full gate (also runs the dataloader against an ephemeral Neon branch):
-./gradlew :<a>:<f>:<v>:gate
+zbb :<a>:<f>:<v>:gate
 ```
 
 `gate` needs `NEON_API_KEY`/`NEON_PROJECT_ID`; without them the dataloader
@@ -156,7 +159,7 @@ gh pr create --base dev \
 - **Source:** <sourceUrl>
 
 ## Validation
-- [x] \`./gradlew :<a>:<f>:<v>:validateContent\` passes
+- [x] \`zbb :<a>:<f>:<v>:validateContent\` passes
 - [x] All elements have descriptions
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)"
@@ -369,9 +372,9 @@ For frameworks:
 
 ```bash
 # Fast file-shape check:
-./gradlew :{vendor}:{suite}:{version}:validateContent
+zbb :{vendor}:{suite}:{version}:validateContent
 # Full gate (dataloader against ephemeral Neon branch; needs NEON_* creds):
-./gradlew :{vendor}:{suite}:{version}:gate
+zbb :{vendor}:{suite}:{version}:gate
 ```
 
 ### Step 11: Commit Using Task Info
@@ -416,7 +419,7 @@ ${sourceUrl from task.description}
 - **Boundary:** ${task.boundary.name}
 
 ## Validation
-- [x] `./gradlew :{vendor}:{suite}:{version}:validateContent` passes
+- [x] `zbb :{vendor}:{suite}:{version}:validateContent` passes
 - [x] All elements have descriptions
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
