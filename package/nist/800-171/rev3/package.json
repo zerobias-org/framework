@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-nist-800-171-rev3",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "NIST SP 800-171 R3",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -25,7 +25,8 @@
   "zerobias": {
     "package": "nist.800-171.rev3.framework",
     "import-artifact": "framework",
-    "dataloader-version": "1.0.0"
+    "dataloader-version": "1.0.0",
+    "deprecated": true
   },
   "dependencies": {
     "@zerobias-org/suite-nist-800-171": "latest"

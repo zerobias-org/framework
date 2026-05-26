@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-iec-60601-2021",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "IEC TR 60601-4-5:2021",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -25,7 +25,8 @@
   "zerobias": {
     "package": "iec.60601.2021.framework",
     "import-artifact": "framework",
-    "dataloader-version": "1.0.0"
+    "dataloader-version": "1.0.0",
+    "deprecated": true
   },
   "dependencies": {
     "@zerobias-org/suite-iec-60601": "latest"
