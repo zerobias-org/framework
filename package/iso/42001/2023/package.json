@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-iso-42001-2023",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "ISO/IEC 42001:2023 - Information technology - Artificial intelligence - Management system",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -25,7 +25,8 @@
   "zerobias": {
     "package": "iso.42001.2023.framework",
     "import-artifact": "framework",
-    "dataloader-version": "1.0.0"
+    "dataloader-version": "1.0.0",
+    "deprecated": true
   },
   "dependencies": {
     "@zerobias-org/suite-iso-42001": "latest"
