@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0-uat.0",
-  "branch": "chore/migrate-all-remaining",
-  "sourceHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "version": "3.0.0-uat.0",
+  "branch": "feat/scf-vendor-migration",
+  "sourceHash": "41eaad525d269807316a6208911dfec850251e8916193c4f936e3e5bba69b5be",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
