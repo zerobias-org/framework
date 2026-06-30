@@ -1,0 +1,33 @@
+{
+  "name": "@zerobias-org/framework-nist-800-171-rev2",
+  "version": "2.0.2",
+  "description": "SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/nist/800-171/rev2/"
+  },
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines/**",
+    "elements/**",
+    "mappings/**"
+  ],
+  "zerobias": {
+    "package": "nist.800-171.rev2.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-nist-800-171": "latest"
+  }
+}
