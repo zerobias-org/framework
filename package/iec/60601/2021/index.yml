@@ -1,0 +1,17 @@
+id: 548936ca-e158-4561-a18a-89df43d4aebc
+name: IEC TR 60601-4-5:2021
+externalId: IEC TR 60601-4-5:2021
+description: IEC TR 60601-4-5:2021
+code: iec_60601_2021_scf
+status: approved
+url: https://webstore.iec.ch/publication/64703
+version: "2021"
+external: true
+internal: false
+elementTypes:
+  - id: 9e2cc30f-a4bb-418f-8acb-6e5364c1c264
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control

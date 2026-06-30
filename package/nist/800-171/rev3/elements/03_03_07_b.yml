@@ -1,0 +1,8 @@
+id: e3c657fa-b6f6-4be7-80d9-d122db6b8ed2
+externalId: 03.03.07.b
+name: Time Stamps
+description: "Record time stamps for audit records that meet [Assignment:
+  organization-defined granularity of time measurement] and that use Coordinated
+  Universal Time (UTC), have a fixed local time offset from UTC, or include the
+  local time offset as part of the time stamp."
+elementType: control
