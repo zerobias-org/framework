@@ -151,7 +151,9 @@ Use `!` for major version bumps. Common scopes: `framework-<...>`, `bundle`, `va
 
 ## CI/CD
 
-Single workflow: `.github/workflows/publish.yml` — a thin wrapper around `zerobias-org/devops/.github/workflows/zbb-publish-reusable.yml@main`. Triggered on `push` to main/qa/dev/uat (paths: `package/**`, `.github/workflows/publish.yml`) and on `workflow_dispatch` (optional `framework` input).
+Publish workflow: `.github/workflows/publish.yml` — a thin wrapper around `zerobias-org/devops/.github/workflows/zbb-publish-reusable.yml@main`. Triggered on `push` to main/qa/dev/uat (paths: `package/**`, `.github/workflows/publish.yml`) and on `workflow_dispatch` (optional `framework` input). This is the only publish/version/sync workflow — the legacy nx-era `publish-pull-request.yml` and `pull-request-target.yml` were removed in the cleanup (the reusable workflow owns the full version → publish → sync lifecycle).
+
+The one other workflow is `.github/workflows/daily-update.yml` — the upstream-content fetcher that runs the two private `package/**/update/` packages, gates any regenerated/new framework packages via `./gradlew :<path>:gate`, and opens a PR to `main`. It is not part of the publish pipeline.
 
 The reusable workflow's jobs:
 1. **detect** — diff to find changed packages
