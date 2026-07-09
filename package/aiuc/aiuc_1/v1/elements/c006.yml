@@ -1,9 +1,0 @@
-id: 002465ed-6727-4b46-9f55-d27d3a504007
-externalId: C006
-name: Prevent output vulnerabilities
-description: >-
-  Implement safeguards to prevent security vulnerabilities in outputs from
-  impacting users, including code injection and data exfiltration risks. Control
-  type: Preventative. Mandatory: Yes. Capabilities: Universal.
-elementType: requirement
-parent: domain_c
