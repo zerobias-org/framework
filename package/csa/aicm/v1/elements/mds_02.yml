@@ -1,7 +1,0 @@
-id: d73a6db5-ecf2-4dc4-afe5-9ab88c6293c7
-externalId: MDS-02
-name: Model Artifact Scanning
-description: >-
-  Define, implement, and evaluate policies, procedures, and technical measures for the scanning of model artifacts for vulnerabilities and attacks, at each step of the service lifecycle and at each hand over point. Regularly review and update policies, procedures and technical measures to address model artifact scanning.
-elementType: control
-parent: domain_mds

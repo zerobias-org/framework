@@ -1,7 +1,0 @@
-id: 31352c39-9b20-4e7e-b7ee-3b2530d106ce
-externalId: CEK-09
-name: Encryption and Key Management Audit
-description: >-
-  Audit encryption and key management systems, policies, and processes with a frequency that is proportional to the risk exposure of the system  with audit occurring preferably continuously but at least annually and after  any security event(s).
-elementType: control
-parent: domain_cek

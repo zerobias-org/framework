@@ -1,7 +1,0 @@
-id: 4072c286-ae25-4db3-95a9-955690f67f27
-externalId: MDS-11
-name: Model Failure
-description: >-
-  Perform a risk-based evaluation of the model and model serving infrastructure for model failure. Define and implement measures to mitigate model and model serving infrastructure failures, and regularly evaluate throughout the AI system's lifecycle.
-elementType: control
-parent: domain_mds

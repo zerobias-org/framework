@@ -1,7 +1,0 @@
-id: 843919f3-7ff1-4230-98e4-e9a7540cb72e
-externalId: LOG-11
-name: Transaction/Activity Logging
-description: >-
-  Log and monitor key lifecycle management events to enable auditing and reporting on usage of cryptographic keys.
-elementType: control
-parent: domain_log

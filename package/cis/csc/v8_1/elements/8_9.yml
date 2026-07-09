@@ -1,8 +1,0 @@
-id: 8968e19d-1411-4271-ab85-0553e17d01bf
-externalId: "8.9"
-name: Centralize Audit Logs
-description: Centralize, to the extent possible, audit log collection and
-  retention across enterprise assets in accordance with the documented audit log
-  management process. Example implementations include leveraging a SIEM tool to
-  centralize multiple log sources.
-elementType: control

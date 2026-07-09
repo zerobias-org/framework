@@ -1,7 +1,0 @@
-id: a1f4eee3-c585-4a32-b3da-835b53797215
-externalId: AIS-15
-name: Prompt Differentation
-description: >-
-  Implement mechanisms enabling the model to clearly distinguish user-provided input instructions from data and system instructions (e.g., system prompts).
-elementType: control
-parent: domain_ais
