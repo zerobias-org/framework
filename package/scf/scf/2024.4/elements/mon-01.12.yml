@@ -1,0 +1,39 @@
+id: 1e805e61-0bef-5222-9e54-252a9ec6bf51
+name: Automated Alerts
+description: Mechanisms exist to automatically alert incident response personnel to inappropriate or anomalous activities that have potential security incident implications.
+elementType: enhancement
+externalId: MON-01.12
+controlQuestion: Does the organization automatically alert incident response personnel to inappropriate or anomalous activities that have potential security incident implications?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

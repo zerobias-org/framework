@@ -1,0 +1,39 @@
+id: 1281dc16-47c5-53c6-a3ff-70d8f191e9b7
+name: Restrict Communications
+description: Mechanisms exist to require embedded technologies to initiate all communications and drop new, incoming communications.
+elementType: control
+externalId: EMB-12
+controlQuestion: Does the organization require embedded technologies to initiate all communications and drop new, incoming communications?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

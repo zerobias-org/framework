@@ -1,0 +1,41 @@
+id: a6160998-44db-5edb-ba6e-c1cda7f0b602
+name: Component Disposal
+description: "[deprecated - incorporated into AST-09]\r\nMechanisms exist to dispose of system components using organization-defined techniques and methods to prevent such components from entering the gray market."
+elementType: enhancement
+externalId: TDA-11.2
+controlQuestion: "[deprecated - incorporated into AST-09]\r\nDoes the organization dispose of system components using organization-defined techniques and methods to prevent such components from entering the gray market?"
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda-11
+cmm_0:
+  name: Not Performed
+  description: |-
+    There is no evidence of a capability to [deprecated - incorporated into AST-09]
+    dispose of system components using organization-defined techniques and methods to prevent such components from entering the gray market.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
+  value: 5

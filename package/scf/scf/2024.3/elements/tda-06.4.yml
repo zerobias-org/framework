@@ -1,0 +1,39 @@
+id: 34a12de7-5736-54a5-ad36-6d907f6692e6
+name: Supporting Toolchain
+description: Automated mechanisms exist to improve the accuracy, consistency and comprehensiveness of secure practices throughout the asset's lifecycle.
+elementType: enhancement
+externalId: TDA-06.4
+controlQuestion: Does the organization use automated mechanisms to improve the accuracy, consistency and comprehensiveness of secure practices throughout the asset's lifecycle?
+functionGrouping: Identify
+controlWeighting: '6'
+parent: tda-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

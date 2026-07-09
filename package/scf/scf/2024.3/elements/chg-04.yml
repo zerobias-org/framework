@@ -1,0 +1,39 @@
+id: 97063d63-bfa7-5e3f-b9bb-f77f3351b266
+name: Access Restriction For Change
+description: Mechanisms exist to enforce configuration restrictions in an effort to restrict the ability of users to conduct unauthorized changes.
+elementType: control
+externalId: CHG-04
+controlQuestion: Does the organization enforce configuration restrictions in an effort to restrict the ability of users to conduct unauthorized changes?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: chg
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: a801076c-7189-53ca-b1d9-a75efcdd5845
+name: Automatic Fire Suppression
+description: Facility security mechanisms exist to employ an automatic fire suppression capability for critical information systems when the facility is not staffed on a continuous basis.
+elementType: enhancement
+externalId: PES-08.3
+controlQuestion: Does the organization employ an automatic fire suppression capability for critical information systems when the facility is not staffed on a continuous basis?
+functionGrouping: Respond
+controlWeighting: '5'
+parent: pes-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

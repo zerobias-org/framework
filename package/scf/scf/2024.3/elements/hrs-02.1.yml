@@ -1,0 +1,39 @@
+id: b7e20229-63d8-565f-b94a-5e5b134dce71
+name: Users With Elevated Privileges
+description: Mechanisms exist to ensure that every user accessing a system that processes, stores, or transmits sensitive information is cleared and regularly trained to handle the information in question.
+elementType: enhancement
+externalId: HRS-02.1
+controlQuestion: Does the organization ensure that every user accessing a system that processes, stores, or transmits sensitive information is cleared and regularly trained to handle the information in question?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: a82a494b-4544-5898-a092-2ef283be6988
+name: Identifiable Image Collection
+description: Mechanisms exist to restrict the collection, processing, storage and sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs.
+elementType: enhancement
+externalId: PRI-04.3
+controlQuestion: Does the organization restrict the collection, processing, storage and sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs?
+functionGrouping: Identify
+controlWeighting: '7'
+parent: pri-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

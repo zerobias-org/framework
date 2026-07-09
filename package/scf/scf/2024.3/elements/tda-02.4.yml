@@ -1,0 +1,39 @@
+id: f0ba4993-1872-5ece-8b3f-d4cf347f77b7
+name: Pre-Established Secure Configurations
+description: "Mechanisms exist to ensure vendors / manufacturers:\r\n ▪ Deliver the system, component, or service with a pre-established, secure configuration implemented; and\r\n ▪ Use the pre-established, secure configuration as the default for any subsequent system, component, or service reinstallation or upgrade."
+elementType: enhancement
+externalId: TDA-02.4
+controlQuestion: "Does the organization ensure vendors / manufacturers:\r\n •Deliver the system, component, or service with a pre-established, secure configuration implemented; and\r\n •Use the pre-established, secure configuration as the default for any subsequent system, component, or service reinstallation or upgrade?"
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tda-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 13e2c55b-f1b7-58e3-a8b8-fe4184a1786b
+name: Vulnerability Scanning
+description: Mechanisms exist to detect vulnerabilities and configuration errors by routine vulnerability scanning of systems and applications.
+elementType: control
+externalId: VPM-06
+controlQuestion: Does the organization detect vulnerabilities and configuration errors by routine vulnerability scanning of systems and applications?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: vpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

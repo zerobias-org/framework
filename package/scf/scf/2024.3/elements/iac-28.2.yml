@@ -1,0 +1,39 @@
+id: 352e1b23-3d97-51fe-a30b-1c56215c0f2f
+name: Identity Evidence
+description: Mechanisms exist to require evidence of individual identification to be presented to the registration authority.
+elementType: enhancement
+externalId: IAC-28.2
+controlQuestion: Does the organization require evidence of individual identification to be presented to the registration authority?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-28
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

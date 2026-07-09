@@ -1,0 +1,39 @@
+id: 60410049-2a97-5d01-9759-fc0d653d3a60
+name: Operationalizing Cybersecurity & Data Protection Practices
+description: Mechanisms exist to compel data and/or process owners to operationalize cybersecurity & data privacy practices for each system, application and/or service under their control.
+elementType: control
+externalId: GOV-15
+controlQuestion: Does the organization compel data and/or process owners to operationalize cybersecurity & data privacy practices for each system, application and/or service under their control?
+functionGrouping: Govern
+controlWeighting: '9'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

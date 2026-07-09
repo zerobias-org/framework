@@ -1,0 +1,39 @@
+id: 4912d281-24e7-52dc-b2b7-2d762caa055b
+name: Session Audit
+description: "Mechanisms exist to provide session audit capabilities that can: \r\n ▪ Capture and log all content related to a user session; and\r\n ▪ Remotely view all content related to an established user session in real time."
+elementType: control
+externalId: MON-12
+controlQuestion: "Does the organization provide session audit capabilities that can: \r\n •Capture and log all content related to a user session; and\r\n •Remotely view all content related to an established user session in real time?"
+functionGrouping: Detect
+controlWeighting: '7'
+parent: mon
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

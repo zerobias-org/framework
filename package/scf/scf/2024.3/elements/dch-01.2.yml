@@ -1,0 +1,39 @@
+id: 7b44652b-e97f-5384-9541-e67d8df2f69b
+name: Sensitive / Regulated Data Protection
+description: Mechanisms exist to protect sensitive/regulated data wherever it is stored.
+elementType: enhancement
+externalId: DCH-01.2
+controlQuestion: Does the organization protect sensitive/regulated data wherever it is stored?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: dch-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

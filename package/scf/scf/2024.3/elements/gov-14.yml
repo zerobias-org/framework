@@ -1,0 +1,39 @@
+id: 198ba3b7-fc6b-5308-b622-e6f1320ca903
+name: Business As Usual (BAU) Secure Practices
+description: Mechanisms exist to incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement.
+elementType: control
+externalId: GOV-14
+controlQuestion: Does the organization incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement?
+functionGrouping: Govern
+controlWeighting: '6'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

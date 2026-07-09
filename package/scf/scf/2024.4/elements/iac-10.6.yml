@@ -1,0 +1,39 @@
+id: fc29c75a-d4bd-5a4b-81d7-47a5e176641c
+name: No Embedded Unencrypted Static Authenticators
+description: Mechanisms exist to ensure that unencrypted, static authenticators are not embedded in applications, scripts or stored on function keys.
+elementType: enhancement
+externalId: IAC-10.6
+controlQuestion: Does the organization ensure that unencrypted, static authenticators are not embedded in applications, scripts or stored on function keys?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

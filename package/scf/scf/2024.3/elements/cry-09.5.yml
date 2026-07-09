@@ -1,0 +1,39 @@
+id: 1360fd95-d320-5341-bc5c-0a7a3bb1c710
+name: Assigned Owners
+description: Mechanisms exist to ensure cryptographic keys are bound to individual identities.
+elementType: enhancement
+externalId: CRY-09.5
+controlQuestion: Does the organization ensure cryptographic keys are bound to individual identities?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cry-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

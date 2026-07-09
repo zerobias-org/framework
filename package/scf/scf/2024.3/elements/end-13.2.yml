@@ -1,0 +1,39 @@
+id: 060e8a4a-bd58-55c5-b18c-039b0966865e
+name: Notice of Collection
+description: Mechanisms exist to notify individuals that Personal Data (PD) is collected by sensors.
+elementType: enhancement
+externalId: END-13.2
+controlQuestion: Does the organization notify individuals that Personal Data (PD) is collected by sensors?
+functionGrouping: Identify
+controlWeighting: '6'
+parent: end-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: d246b440-d9f5-5fd1-bb20-1699b0cb2b2f
+name: Use of Third-Party Devices
+description: Mechanisms exist to reduce the risk associated with third-party assets that are attached to the network from harming organizational assets or exfiltrating organizational data.
+elementType: control
+externalId: AST-13
+controlQuestion: Does the organization reduce the risk associated with third-party assets that are attached to the network from harming organizational assets or exfiltrating organizational data?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

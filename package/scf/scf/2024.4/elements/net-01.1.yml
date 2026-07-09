@@ -1,0 +1,39 @@
+id: f1ab99c0-83ae-54ab-99e6-76a3c62bda98
+name: Zero Trust Architecture (ZTA)
+description: Mechanisms exist to treat all users and devices as potential threats and prevent access to data and resources until the users can be properly authenticated and their access authorized.
+elementType: enhancement
+externalId: NET-01.1
+controlQuestion: Does the organization treat all users and devices as potential threats and prevent access to data and resources until the users can be properly authenticated and their access authorized?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

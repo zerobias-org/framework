@@ -1,0 +1,39 @@
+id: 6a7c892c-93e9-5e04-8c2a-e677dcdc5f51
+name: Explicitly Indicate Current Participants
+description: Automated mechanisms exist to provide an explicit indication of current participants in online meetings and teleconferences.
+elementType: enhancement
+externalId: END-14.2
+controlQuestion: Does the organization use automated mechanisms to provide an explicit indication of current participants in online meetings and teleconferences?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: end-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

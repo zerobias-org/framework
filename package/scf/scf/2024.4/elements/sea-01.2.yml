@@ -1,0 +1,39 @@
+id: a80c4c40-f594-576f-af37-79573d7293ce
+name: Achieving Resilience Requirements
+description: Mechanisms exist to achieve resilience requirements in normal and adverse situations.
+elementType: enhancement
+externalId: SEA-01.2
+controlQuestion: Does the organization achieve resilience requirements in normal and adverse situations?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: sea-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: d5308b71-bca7-51c8-94ac-e4c2378c84bd
+name: Automated Data Management Processes
+description: Automated mechanisms exist to adjust data that is able to be collected, created, used, disseminated, maintained, retained and/or disclosed, based on updated data subject authorization(s).
+elementType: enhancement
+externalId: PRI-02.2
+controlQuestion: Does the organization use automated mechanisms to adjust data that is able to be collected, created, used, disseminated, maintained, retained and/or disclosed, based on updated data subject authorization(s)?
+functionGrouping: Identify
+controlWeighting: '1'
+parent: pri-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

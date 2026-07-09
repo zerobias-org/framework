@@ -1,0 +1,39 @@
+id: 64ac0eb8-32ac-5866-a296-072a62e320a6
+name: Identity User Status
+description: Mechanisms exist to identify contractors and other third-party users through unique username characteristics.
+elementType: enhancement
+externalId: IAC-09.2
+controlQuestion: Does the organization identify contractors and other third-party users through unique username characteristics?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: iac-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 66ff3f1b-d724-54f1-95d2-31f87a60f6c9
+name: Fire Detection Devices
+description: Facility security mechanisms exist to utilize and maintain fire detection devices/systems that activate automatically and notify organizational personnel and emergency responders in the event of a fire.
+elementType: enhancement
+externalId: PES-08.1
+controlQuestion: Does the organization utilize and maintain fire detection devices/systems that activate automatically and notify organizational personnel and emergency responders in the event of a fire?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: pes-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 8748866f-0603-5bda-bf42-7dbd1829ced3
+name: Multiple Information System Accounts
+description: Mechanisms exist to implement security safeguards to manage the risk of compromise due to individuals having accounts on multiple information systems.
+elementType: enhancement
+externalId: IAC-10.9
+controlQuestion: Does the organization implement security safeguards to manage the risk of compromise due to individuals having accounts on multiple information systems?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

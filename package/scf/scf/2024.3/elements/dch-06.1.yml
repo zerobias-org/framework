@@ -1,0 +1,39 @@
+id: 60ade38d-ac39-5589-804c-e534d603352e
+name: Physically Secure All Media
+description: Mechanisms exist to physically secure all media that contains sensitive information.
+elementType: enhancement
+externalId: DCH-06.1
+controlQuestion: Does the organization physically secure all media that contains sensitive information?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: dch-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

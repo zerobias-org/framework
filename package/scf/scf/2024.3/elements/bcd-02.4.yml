@@ -1,0 +1,39 @@
+id: 954d4fa4-5e5c-568b-a336-05ae07b124a2
+name: Data Storage Location Reviews
+description: Mechanisms exist to perform periodic security reviews of storage locations that contain sensitive / regulated data.
+elementType: enhancement
+externalId: BCD-02.4
+controlQuestion: Does the organization perform periodic security reviews of storage locations that contain sensitive / regulated data?
+functionGrouping: Recover
+controlWeighting: '8'
+parent: bcd-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

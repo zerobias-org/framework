@@ -1,0 +1,39 @@
+id: e61068fe-5b36-5ef8-b8ea-3def312ec746
+name: Privileged Access
+description: Mechanisms exist to implement privileged access authorization for selected vulnerability scanning activities.
+elementType: enhancement
+externalId: VPM-06.3
+controlQuestion: Does the organization implement privileged access authorization for selected vulnerability scanning activities?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: vpm-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

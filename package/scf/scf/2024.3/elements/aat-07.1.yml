@@ -1,0 +1,39 @@
+id: 3951a5f1-b982-51e6-8a9e-21a5482ed084
+name: AI & Autonomous Technologies Impact Characterization
+description: Mechanisms exist to characterize the impacts of proposed Artificial Intelligence (AI) and Autonomous Technologies (AAT) on individuals, groups, communities, organizations and society.
+elementType: enhancement
+externalId: AAT-07.1
+controlQuestion: Does the organization characterize the impacts of proposed Artificial Intelligence (AI) and Autonomous Technologies (AAT) on individuals, groups, communities, organizations and society?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: aat-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

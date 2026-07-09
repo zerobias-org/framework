@@ -1,0 +1,39 @@
+id: 03459f41-9f22-5bbe-a091-b04d55f43543
+name: Media Marking
+description: Mechanisms exist to mark media in accordance with data protection requirements so that personnel are alerted to distribution limitations, handling caveats and applicable security requirements.
+elementType: control
+externalId: DCH-04
+controlQuestion: Does the organization mark media in accordance with data protection requirements so that personnel are alerted to distribution limitations, handling caveats and applicable security requirements?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

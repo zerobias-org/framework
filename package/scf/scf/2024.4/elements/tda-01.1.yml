@@ -1,0 +1,39 @@
+id: 285bc1ba-71ac-555a-90bd-79b79eb95651
+name: Product Management
+description: Mechanisms exist to design and implement product management processes to update products, including systems, software and services, to improve functionality and correct security deficiencies.
+elementType: enhancement
+externalId: TDA-01.1
+controlQuestion: Does the organization design and implement product management processes to update products, including systems, software and services, to improve functionality and correct security deficiencies?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: tda-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

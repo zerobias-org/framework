@@ -1,0 +1,39 @@
+id: e9fb9aae-34cc-5094-bda7-2c9c91f9520f
+name: Social Engineering & Mining
+description: Mechanisms exist to include awareness training on recognizing and reporting potential and actual instances of social engineering and social mining.
+elementType: enhancement
+externalId: SAT-02.2
+controlQuestion: Does the organization include awareness training on recognizing and reporting potential and actual instances of social engineering and social mining?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: sat-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

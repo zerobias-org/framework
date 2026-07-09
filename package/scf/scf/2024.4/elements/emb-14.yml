@@ -1,0 +1,39 @@
+id: dfd7b833-a9af-5f7c-a017-f9d20a476632
+name: Operating Environment Certification
+description: Mechanisms exist to determine if embedded technologies are certified for secure use in the proposed operating environment.
+elementType: control
+externalId: EMB-14
+controlQuestion: Does the organization determine if embedded technologies are certified for secure use in the proposed operating environment?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

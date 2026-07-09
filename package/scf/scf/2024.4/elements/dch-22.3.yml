@@ -1,0 +1,39 @@
+id: 23e02c38-a32b-5d95-9e45-5bf5e5742b9e
+name: Primary Source Personal Data (PD) Collection
+description: Mechanisms exist to collect Personal Data (PD) directly from the individual.
+elementType: enhancement
+externalId: DCH-22.3
+controlQuestion: Does the organization collect Personal Data (PD) directly from the individual?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: dch-22
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

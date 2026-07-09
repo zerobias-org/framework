@@ -1,0 +1,39 @@
+id: 6d0b5f85-876b-5788-afca-81c2631ba9f6
+name: Resource Priority
+description: Mechanisms exist to control resource utilization of systems that are susceptible to Denial of Service (DoS) attacks to limit and prioritize the use of resources.
+elementType: control
+externalId: CAP-02
+controlQuestion: Does the organization control resource utilization of systems that are susceptible to Denial of Service (DoS) attacks to limit and prioritize the use of resources?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cap
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

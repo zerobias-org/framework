@@ -1,0 +1,39 @@
+id: 89d977fc-f40f-508d-99cd-393c461630a4
+name: Dissemination of Data Privacy Program Information
+description: "Mechanisms exist to: \r\n ▪ Ensure that the public has access to information about organizational data privacy activities and can communicate with its Chief Privacy Officer (CPO) or similar role;\r\n ▪ Ensure that organizational data privacy practices are publicly available through organizational websites or document repositories; \r\n ▪ Utilize publicly facing email addresses and/or phone lines to enable the public to provide feedback and/or direct questions to data privacy office(s) regarding data privacy practices; and\r\n ▪ Inform data subjects when changes are made to the privacy notice and the nature of such changes."
+elementType: enhancement
+externalId: PRI-01.3
+controlQuestion: "Does the organization: \r\n •Ensure that the public has access to information about organizational data privacy activities and can communicate with its Chief Privacy Officer (CPO) or similar role;\r\n •Ensure that organizational data privacy practices are publicly available through organizational websites or document repositories; \r\n •Utilize publicly facing email addresses and/or phone lines to enable the public to provide feedback and/or direct questions to data privacy office(s) regarding data privacy practices; and\r\n •Inform data subjects when changes are made to the privacy notice and the nature of such changes?"
+functionGrouping: Identify
+controlWeighting: '5'
+parent: pri-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

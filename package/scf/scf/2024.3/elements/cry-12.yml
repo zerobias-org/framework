@@ -1,0 +1,39 @@
+id: 3dc9e6db-c80d-5a64-8f3a-93cdd4b4b985
+name: Certificate Monitoring
+description: Automated mechanisms exist to discover when new certificates are issued for organization-controlled domains.
+elementType: control
+externalId: CRY-12
+controlQuestion: Does the organization use automated mechanisms to discover when new certificates are issued for organization-controlled domains?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: cry
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

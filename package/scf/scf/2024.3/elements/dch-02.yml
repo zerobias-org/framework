@@ -1,0 +1,39 @@
+id: 3908c309-cfed-5335-9834-e114812ccd97
+name: Data & Asset Classification
+description: Mechanisms exist to ensure data and assets are categorized in accordance with applicable statutory, regulatory and contractual requirements.
+elementType: control
+externalId: DCH-02
+controlQuestion: Does the organization ensure data and assets are categorized in accordance with applicable statutory, regulatory and contractual requirements?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

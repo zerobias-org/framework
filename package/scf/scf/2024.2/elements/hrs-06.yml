@@ -1,0 +1,39 @@
+id: 3eea2075-3dd4-52dc-998a-82a34b2f024b
+name: Access Agreements
+description: Mechanisms exist to require internal and third-party users to sign appropriate access agreements prior to being granted access.
+elementType: control
+externalId: HRS-06
+controlQuestion: Does the organization require internal and third-party users to sign appropriate access agreements prior to being granted access?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to require internal and third-party users to sign appropriate access agreements prior to being granted access.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to require internal and third-party users to sign appropriate access agreements prior to being granted access.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Human Resources Security (HRS) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tPersonnel management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for personnel management.\n•\tThe Human Resources (HR) department:\no\tEnsures industry-recognized HR practices are implemented for hiring, managing, training, investigating and terminating employees, contractors and other personnel that work on behalf of the organization.\no\tDefines terms of employment, including acceptable and unacceptable rules of behavior for the use of technologies, including consequences for unacceptable behavior.\n•\tThe responsibility for training users and enforcing policies being assigned to user’s immediate supervisor(s)/manager(s), including the definition and enforcement of the user’s specific role(s) and responsibilities.\n•\tPersonnel managers ensure personnel are routinely made aware of the organization’s cybersecurity / data privacy policies and provide acknowledgement.\n•\tAdministrative processes require all employees and contractors to apply cybersecurity & data privacy principles in their daily work."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Human Resources Security (HRS) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe Human Resources (HR) department:\no\tEnsures industry-recognized HR practices are implemented for hiring, managing, training, investigating and terminating employees, contractors and other personnel that work on behalf of the organization.\no\tEnsures that every user accessing a system that processes, stores, or transmits sensitive/regulated data is cleared and regularly trained in proper data handling practices.\no\tIdentifies and implements industry-recognized HR practices related to cybersecurity & data privacy training and awareness to help ensure secure practices are implemented in personnel operations to help manage risk to both technology assets and data.\no\tManages personnel security risk by assigning a risk designation to all positions and establishing screening criteria for individuals filling those positions.\n•\tAdministrative processes require Non-Disclosure Agreements (NDAs) or similar confidentiality agreements that reflect the needs to protect data and operational details, for both employees and third-parties."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to require internal and third-party users to sign appropriate access agreements prior to being granted access.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to require internal and third-party users to sign appropriate access agreements prior to being granted access.
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: e40eaaa9-fb99-5bf4-8105-f3f89dac18b1
+name: AI & Autonomous Technologies Requirements Definitions
+description: Mechanisms exist to take socio-technical implications into account to address risks associated with Artificial Intelligence (AI) and Autonomous Technologies (AAT).
+elementType: control
+externalId: AAT-14
+controlQuestion: Does the organization take socio-technical implications into account to address risks associated with Artificial Intelligence (AI) and Autonomous Technologies (AAT)?
+functionGrouping: Govern
+controlWeighting: '8'
+parent: aat
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: f323cb28-84d3-554b-8666-36252326d4d5
+name: IRP Update
+description: Mechanisms exist to regularly review and modify incident response practices to incorporate lessons learned, business process changes and industry developments, as necessary.
+elementType: enhancement
+externalId: IRO-04.2
+controlQuestion: Does the organization regularly review and modify incident response practices to incorporate lessons learned, business process changes and industry developments, as necessary?
+functionGrouping: Respond
+controlWeighting: '8'
+parent: iro-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 9e788ef5-f432-5a5a-a448-73de997d5c8b
+name: Permitted Actions Without Identification or Authorization
+description: Mechanisms exist to identify and document the supporting rationale for specific user actions that can be performed on a system without identification or authentication.
+elementType: control
+externalId: IAC-26
+controlQuestion: Does the organization identify and document the supporting rationale for specific user actions that can be performed on a system without identification or authentication?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

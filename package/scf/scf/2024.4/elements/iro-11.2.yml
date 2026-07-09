@@ -1,0 +1,39 @@
+id: 9a2e9955-ab11-58ea-96f8-bc6ff1f93562
+name: Coordination With External Providers
+description: Mechanisms exist to establish a direct, cooperative relationship between the organization's incident response capability and external service providers.
+elementType: enhancement
+externalId: IRO-11.2
+controlQuestion: Does the organization establish a direct, cooperative relationship between the organization's incident response capability and external service providers?
+functionGrouping: Respond
+controlWeighting: '5'
+parent: iro-11
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

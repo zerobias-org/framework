@@ -1,0 +1,39 @@
+id: e1714685-6975-550d-88db-201f7a4cd5d2
+name: Automated Support For Password Strength
+description: Automated mechanisms exist to determine if password authenticators are sufficiently strong enough to satisfy organization-defined password length and complexity requirements.
+elementType: enhancement
+externalId: IAC-10.4
+controlQuestion: Does the organization use automated mechanisms to determine if password authenticators are sufficiently strong enough to satisfy organization-defined password length and complexity requirements?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

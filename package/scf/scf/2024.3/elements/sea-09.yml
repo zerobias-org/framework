@@ -1,0 +1,39 @@
+id: 93697807-cadf-5c66-ab15-50ab8175bbd7
+name: Information Output Filtering
+description: Mechanisms exist to validate information output from software programs and/or applications to ensure that the information is consistent with the expected content.
+elementType: control
+externalId: SEA-09
+controlQuestion: Does the organization validate information output from software programs and/or applications to ensure that the information is consistent with the expected content?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

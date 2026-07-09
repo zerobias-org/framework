@@ -1,0 +1,39 @@
+id: 401480be-a500-5960-ab13-60ea19fe8653
+name: Predictive Maintenance
+description: Mechanisms exist to perform predictive maintenance on critical systems, applications and services.
+elementType: enhancement
+externalId: MNT-03.2
+controlQuestion: Does the organization perform predictive maintenance on critical systems, applications and services?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: mnt-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 6396fcb1-e1bb-5f9d-bf41-649c348e2fa4
+name: Third-Party Services
+description: Mechanisms exist to mitigate the risks associated with third-party access to the organization's systems and data.
+elementType: control
+externalId: TPM-04
+controlQuestion: Does the organization mitigate the risks associated with third-party access to the organization's systems and data?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: tpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

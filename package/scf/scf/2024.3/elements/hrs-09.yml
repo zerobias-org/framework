@@ -1,0 +1,39 @@
+id: f68cfac1-03fc-518a-a3bc-63c7d575e8b0
+name: Personnel Termination
+description: Mechanisms exist to govern the termination of individual employment.
+elementType: control
+externalId: HRS-09
+controlQuestion: Does the organization govern the termination of individual employment?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

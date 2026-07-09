@@ -1,0 +1,39 @@
+id: 5503a137-e2a1-5d7a-b1c3-8a544a458561
+name: Software / Firmware Integrity Verification
+description: Mechanisms exist to require developer of systems, system components or services to enable integrity verification of software and firmware components.
+elementType: enhancement
+externalId: TDA-14.1
+controlQuestion: Does the organization require developer of systems, system components or services to enable integrity verification of software and firmware components?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tda-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

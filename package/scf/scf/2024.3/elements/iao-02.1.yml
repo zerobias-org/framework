@@ -1,0 +1,39 @@
+id: 35652a54-2b93-5cd0-909f-d4c477844e6d
+name: Assessor Independence
+description: Mechanisms exist to ensure assessors or assessment teams have the appropriate independence to conduct cybersecurity & data privacy control assessments.
+elementType: enhancement
+externalId: IAO-02.1
+controlQuestion: Does the organization ensure assessors or assessment teams have the appropriate independence to conduct cybersecurity & data privacy control assessments?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: iao-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

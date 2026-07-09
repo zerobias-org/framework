@@ -1,0 +1,39 @@
+id: 79a583f7-3427-565e-9521-7691f98b791c
+name: Component Marking
+description: Physical security mechanisms exist to mark system hardware components indicating the impact or classification level of the information permitted to be processed, stored or transmitted by the hardware component.
+elementType: control
+externalId: PES-16
+controlQuestion: Does the organization mark system hardware components indicating the impact or classification level of the information permitted to be processed, stored or transmitted by the hardware component?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

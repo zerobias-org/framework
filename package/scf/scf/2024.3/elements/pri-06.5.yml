@@ -1,0 +1,39 @@
+id: 9e066bb3-64be-5cba-8383-162e767c6363
+name: Right to Erasure
+description: Mechanisms exist to erase Personal Data (PD) of a data subject without delay.
+elementType: enhancement
+externalId: PRI-06.5
+controlQuestion: Does the organization erase Personal Data (PD) of a data subject without delay?
+functionGrouping: Respond
+controlWeighting: '5'
+parent: pri-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

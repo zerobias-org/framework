@@ -1,0 +1,39 @@
+id: f0cfe21b-73b7-5322-a9d1-189ca78ef670
+name: Personal Data Exportability
+description: Mechanisms exist to digitally export Personal Data (PD) in a secure manner upon request by the data subject.
+elementType: enhancement
+externalId: PRI-06.7
+controlQuestion: Does the organization digitally export Personal Data (PD) in a secure manner upon request by the data subject?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: pri-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

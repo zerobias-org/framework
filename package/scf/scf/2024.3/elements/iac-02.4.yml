@@ -1,0 +1,39 @@
+id: 11f213e1-dd33-5c79-925e-8828237e3486
+name: Out-of-Band Authentication (OOBA)
+description: Mechanisms exist to implement Out-of-Band Authentication (OOBA) under specific conditions.
+elementType: enhancement
+externalId: IAC-02.4
+controlQuestion: Does the organization implement Out-of-Band Authentication (OOBA) under specific conditions?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

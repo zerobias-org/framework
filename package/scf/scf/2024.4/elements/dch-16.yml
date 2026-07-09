@@ -1,0 +1,39 @@
+id: 77351ff9-4173-5522-9b06-150f85c03120
+name: Data Mining Protection
+description: Mechanisms exist to protect data storage objects against unauthorized data mining and data harvesting techniques.
+elementType: control
+externalId: DCH-16
+controlQuestion: Does the organization protect data storage objects against unauthorized data mining and data harvesting techniques?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

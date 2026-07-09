@@ -1,0 +1,39 @@
+id: 9e4b390b-14a2-537d-a6c5-2a6b2071ee17
+name: Explicit Indication Of Use
+description: Mechanisms exist to configure collaborative computing devices to provide physically-present individuals with an explicit indication of use.
+elementType: enhancement
+externalId: END-14.6
+controlQuestion: Does the organization configure collaborative computing devices to provide physically-present individuals with an explicit indication of use?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: end-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

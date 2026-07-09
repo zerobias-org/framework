@@ -1,0 +1,39 @@
+id: 136308dd-5dea-52b4-b78a-fe14dcb55190
+name: Data Subject Communications
+description: Mechanisms exist to craft disclosures and communications to data subjects such that the material is readily accessible and written in a manner that is concise, unambiguous and understandable by a reasonable person.
+elementType: control
+externalId: PRI-17
+controlQuestion: Does the organization craft disclosures and communications to data subjects such that the material is readily accessible and written in a manner that is concise, unambiguous and understandable by a reasonable person?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

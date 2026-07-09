@@ -1,0 +1,39 @@
+id: 681d55bd-1657-5a57-a28d-30132d147fde
+name: Identify Vital Cybersecurity & Data Privacy Staff
+description: Mechanisms exist to identify vital cybersecurity & data privacy staff.
+elementType: enhancement
+externalId: HRS-13.2
+controlQuestion: Does the organization identify vital cybersecurity & data privacy staff?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: hrs-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

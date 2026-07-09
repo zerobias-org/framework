@@ -1,0 +1,39 @@
+id: e9426553-8027-596e-863e-7ab038356576
+name: Denial of Service (DoS) Protection
+description: Automated mechanisms exist to protect against or limit the effects of denial of service attacks.
+elementType: enhancement
+externalId: NET-02.1
+controlQuestion: Does the organization use automated mechanisms to protect against or limit the effects of denial of service attacks?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: net-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 22e81361-6484-5c7c-8ae3-4b2848393256
+name: Continuous Monitoring
+description: Mechanisms exist to facilitate the implementation of enterprise-wide monitoring controls.
+elementType: control
+externalId: MON-01
+controlQuestion: Does the organization facilitate the implementation of enterprise-wide monitoring controls?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: mon
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: b22962d2-9d75-565f-a315-bd8a63ef9031
+name: Non-Console Administrative Access
+description: Cryptographic mechanisms exist to protect the confidentiality and integrity of non-console administrative access.
+elementType: control
+externalId: CRY-06
+controlQuestion: Are cryptographic mechanisms used to protect the confidentiality and integrity of non-console administrative access?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cry
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to Cryptographic protect the confidentiality and integrity of non-console administrative access.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Cryptographic Protections (CRY) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tNetwork communications containing sensitive/regulated data are protected using a cryptographic mechanism to prevent unauthorized disclosure of information while in transit (e.g., SSH, TLS, VPN, etc.).\n•\tWireless access is protected via secure authentication and encryption."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Cryptographic Protections (CRY) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCryptographic management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for cryptographic management.\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tDecentralized technologies implement cryptographic mechanisms on endpoints to control how sensitive/regulated data is encrypted during transmission and in storage.\n•\tSystems, applications and services that store, process or transmit sensitive/regulated data use cryptographic mechanisms to prevent unauthorized disclosure of information as an alternate to physical safeguards.\n•\tInstances of non-console administrative access use cryptographic mechanisms to protect the confidentiality and integrity of the data being transmitted."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cryptographic Protections (CRY) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tCentrally-managed technologies implement cryptographic mechanisms on endpoints to control how sensitive/regulated data is encrypted during transmission and in storage.\n•\tSystems, applications and services that store, process or transmit sensitive/regulated data use cryptographic mechanisms to prevent unauthorized disclosure of information as an alternate to physical safeguards.\n•\tAn IT infrastructure team, or similar function:\no\tImplements Public Key Infrastructure (PKI) key management controls to protect the confidentiality, integrity and availability of keys.\no\tImplements and maintains an internal PKI infrastructure or obtains PKI services from a reputable PKI service provider.\n•\tInstances of non-console administrative access use cryptographic mechanisms to protect the confidentiality and integrity of the data being transmitted."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to Cryptographic protect the confidentiality and integrity of non-console administrative access.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to Cryptographic protect the confidentiality and integrity of non-console administrative access.
+  available: false
+  value: 5

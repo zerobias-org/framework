@@ -1,0 +1,39 @@
+id: 156801de-3e0e-566c-9aa3-1cc6ac3d168b
+name: Capacity Planning
+description: Mechanisms exist to conduct capacity planning so that necessary capacity for information processing, telecommunications and environmental support will exist during contingency operations.
+elementType: control
+externalId: CAP-03
+controlQuestion: Does the organization conduct capacity planning so that necessary capacity for information processing, telecommunications and environmental support will exist during contingency operations?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cap
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: b5d2e4a5-5372-58e9-8095-0ae26ebb3c7d
+name: Minimize Sensitive & Regulated Data
+description: Mechanisms exist to minimize sensitive/regulated data that is processed, stored and/or transmitted throughout the information lifecycle to only those elements necessary to support necessary business processes.
+elementType: enhancement
+externalId: DCH-18.1
+controlQuestion: Does the organization minimize sensitive/regulated data that is processed, stored and/or transmitted throughout the information lifecycle to only those elements necessary to support necessary business processes?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch-18
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

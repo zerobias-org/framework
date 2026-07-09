@@ -1,0 +1,39 @@
+id: 06fd65bf-d1b1-5fd9-9b4e-04a0d938414e
+name: Test Data Integrity
+description: Mechanisms exist to ensure the integrity of test data through existing cybersecurity & data privacy controls.
+elementType: enhancement
+externalId: TDA-10.1
+controlQuestion: Does the organization ensure the integrity of test data through existing cybersecurity & data privacy controls?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tda-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

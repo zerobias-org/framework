@@ -1,0 +1,39 @@
+id: b0d2bc6a-53f7-52e9-92c6-9d7fc2820218
+name: Resource Containment
+description: Automated mechanisms exist to enforce resource containment protections that remove or quarantine a resource’s access to other resources.
+elementType: enhancement
+externalId: NET-08.4
+controlQuestion: Does the organization use automated mechanisms to enforce resource containment protections that remove or quarantine a resource’s access to other resources?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: net-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

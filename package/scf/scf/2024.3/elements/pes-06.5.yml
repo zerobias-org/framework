@@ -1,0 +1,39 @@
+id: 6a5a96bd-f92b-5a44-8e89-27350d047022
+name: Minimize Visitor Personal Data (PD)
+description: Mechanisms exist to minimize the collection of Personal Data (PD) contained in visitor access records.
+elementType: enhancement
+externalId: PES-06.5
+controlQuestion: Does the organization minimize the collection of Personal Data (PD) contained in visitor access records?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: pes-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 7dd5ab0d-fc02-5428-853e-c770018997d3
+name: Network Connection Termination
+description: Mechanisms exist to terminate network connections at the end of a session or after an organization-defined time period of inactivity.
+elementType: control
+externalId: NET-07
+controlQuestion: Does the organization terminate network connections at the end of a session or after an organization-defined time period of inactivity?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: f69163aa-56fb-5fb1-85d8-822a7066329e
+name: Data Rights Management (DRM)
+description: Mechanisms exist to utilize Data Rights Management (DRM), or similar technologies, to protect Intellectual Property (IP) rights by preventing the unauthorized distribution and/or modification of sensitive IP.
+elementType: control
+externalId: DCH-27
+controlQuestion: Does the organization utilize Data Rights Management (DRM), or similar technologies, to protect Intellectual Property (IP) rights by preventing the unauthorized distribution and/or modification of sensitive IP?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

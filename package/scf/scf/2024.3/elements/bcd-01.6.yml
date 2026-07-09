@@ -1,0 +1,39 @@
+id: cf4f82b7-fa83-54dd-be27-28a4811dc871
+name: Recovery Operations Communications
+description: Mechanisms exist to communicate the status of recovery activities and progress in restoring operational capabilities to designated internal and external stakeholders.
+elementType: enhancement
+externalId: BCD-01.6
+controlQuestion: Does the organization communicate the status of recovery activities and progress in restoring operational capabilities to designated internal and external stakeholders?
+functionGrouping: Govern
+controlWeighting: '3'
+parent: bcd-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

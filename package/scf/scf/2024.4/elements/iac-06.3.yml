@@ -1,0 +1,39 @@
+id: 9722650e-6a73-58f1-83c3-0a8ed3630fc9
+name: Local Access to Privileged Accounts
+description: Mechanisms exist to utilize Multi-Factor Authentication (MFA) to authenticate local access for privileged accounts.
+elementType: enhancement
+externalId: IAC-06.3
+controlQuestion: Does the organization utilize Multi-Factor Authentication (MFA) to authenticate local access for privileged accounts?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 9fee3770-ae8c-5da4-b0c3-3bca6d80bf1e
+name: Disassociability
+description: Mechanisms exist to disassociate user attributes or credential assertion relationships among individuals, credential service providers and relying parties.
+elementType: enhancement
+externalId: IAC-03.4
+controlQuestion: Does the organization disassociate user attributes or credential assertion relationships among individuals, credential service providers and relying parties?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: iac-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

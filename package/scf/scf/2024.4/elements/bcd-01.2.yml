@@ -1,0 +1,39 @@
+id: 2c4a36dc-bf04-5efe-ad7d-986296ae2e8b
+name: Coordinate With External Service Providers
+description: Mechanisms exist to coordinate internal contingency plans with the contingency plans of external service providers to ensure that contingency requirements can be satisfied.
+elementType: enhancement
+externalId: BCD-01.2
+controlQuestion: Does the organization coordinate internal contingency plans with the contingency plans of external service providers to ensure that contingency requirements can be satisfied?
+functionGrouping: Recover
+controlWeighting: '5'
+parent: bcd-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

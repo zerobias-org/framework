@@ -1,0 +1,39 @@
+id: eb518108-4efe-5ffb-a287-1d48b2598c10
+name: System Administrative Processes
+description: Mechanisms exist to develop, implement and govern system administration processes, with corresponding Standardized Operating Procedures (SOP), for operating and maintaining systems, applications and services.
+elementType: control
+externalId: AST-26
+controlQuestion: Does the organization develop, implement and govern system administration processes, with corresponding Standardized Operating Procedures (SOP), for operating and maintaining systems, applications and services?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

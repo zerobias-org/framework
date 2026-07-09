@@ -1,0 +1,39 @@
+id: d041f790-6c4c-5d18-89ce-30f3cb3a37a9
+name: Use of External Information Systems
+description: Mechanisms exist to govern how external parties, systems and services are used to securely store, process and transmit data.
+elementType: control
+externalId: DCH-13
+controlQuestion: Does the organization govern how external parties, systems and services are used to securely store, process and transmit data?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

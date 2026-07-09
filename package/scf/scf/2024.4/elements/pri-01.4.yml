@@ -1,0 +1,39 @@
+id: 95f59b4c-7baf-53b0-b703-96edc057e426
+name: Data Protection Officer (DPO)
+description: "Mechanisms exist to appoint a Data Protection Officer (DPO):\r\n (1) Based on the basis of professional qualities; and\r\n (2) To be involved in all issues related to the protection of personal data."
+elementType: enhancement
+externalId: PRI-01.4
+controlQuestion: "Does the organization appoint a Data Protection Officer (DPO):\r\n (1) Based on the basis of professional qualities; and\r\n (2) To be involved in all issues related to the protection of personal data/"
+functionGrouping: Identify
+controlWeighting: '7'
+parent: pri-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

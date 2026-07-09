@@ -1,0 +1,39 @@
+id: e2ed7315-eabb-5227-84ef-997d4c43bede
+name: Independent Penetration Agent or Team
+description: Mechanisms exist to utilize an independent assessor or penetration team to perform penetration testing.
+elementType: enhancement
+externalId: VPM-07.1
+controlQuestion: Does the organization utilize an independent assessor or penetration team to perform penetration testing?
+functionGrouping: Detect
+controlWeighting: '6'
+parent: vpm-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

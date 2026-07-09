@@ -1,0 +1,39 @@
+id: 81f5b802-b1d2-5c8e-aa12-3d6f1862852f
+name: Third-Party Authentication Practices
+description: Mechanisms exist to ensure External Service Providers (ESPs) use unique authentication factors for each of its customers.
+elementType: enhancement
+externalId: TPM-05.3
+controlQuestion: Does the organization ensure External Service Providers (ESPs) use unique authentication factors for each of its customers?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tpm-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

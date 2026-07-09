@@ -1,0 +1,39 @@
+id: eeb0107f-c636-52d1-8041-657eb10e44e1
+name: Permitted Actions
+description: Mechanisms exist to specify the permitted actions for both users and systems associated with the review, analysis and reporting of audit information.
+elementType: enhancement
+externalId: MON-02.5
+controlQuestion: Does the organization specify the permitted actions for both users and systems associated with the review, analysis and reporting of audit information?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: mon-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

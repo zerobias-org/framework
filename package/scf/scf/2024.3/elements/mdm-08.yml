@@ -1,0 +1,39 @@
+id: 613524da-6446-59d0-b216-3203bdd26f1c
+name: Mobile Device Data Retention Limitations
+description: Mechanisms exist to limit data retention on mobile devices to the smallest usable dataset and timeframe.
+elementType: control
+externalId: MDM-08
+controlQuestion: Does the organization limit data retention on mobile devices to the smallest usable dataset and timeframe?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

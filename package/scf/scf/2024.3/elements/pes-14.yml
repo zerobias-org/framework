@@ -1,0 +1,39 @@
+id: d4e713be-c2e2-57c9-89a2-4475bc1c596a
+name: Asset Monitoring and Tracking
+description: Physical security mechanisms exist to employ asset location technologies that track and monitor the location and movement of organization-defined assets within organization-defined controlled areas.
+elementType: control
+externalId: PES-14
+controlQuestion: Does the organization employ asset location technologies that track and monitor the location and movement of organization-defined assets within organization-defined controlled areas?
+functionGrouping: Detect
+controlWeighting: '6'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

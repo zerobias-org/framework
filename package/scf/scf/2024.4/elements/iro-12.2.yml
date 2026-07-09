@@ -1,0 +1,39 @@
+id: 308cc22a-4f62-5563-b8b6-055b6300257a
+name: Training
+description: Mechanisms exist to ensure incident response training material provides coverage for sensitive information spillage response.
+elementType: enhancement
+externalId: IRO-12.2
+controlQuestion: Does the organization ensure incident response training material provides coverage for sensitive information spillage response?
+functionGrouping: Respond
+controlWeighting: '8'
+parent: iro-12
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

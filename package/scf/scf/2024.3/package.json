@@ -1,0 +1,31 @@
+{
+  "name": "@zerobias-org/framework-scf-scf-2024.3",
+  "version": "3.0.0",
+  "description": "SCF SCF 2024.3 Controls",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerobias-org/framework.git",
+    "directory": "package/scf/scf/2024.3/"
+  },
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines/**",
+    "elements/**",
+    "mappings/**"
+  ],
+  "zerobias": {
+    "package": "scf.scf.2024_3.framework",
+    "migrates-from": "@auditlogic/framework-complianceforge-scf-2024.3",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  }
+}

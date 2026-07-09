@@ -1,0 +1,39 @@
+id: e6bc1965-baa5-560b-bb6b-041570cf94f8
+name: Network Segmentation (macrosegementation)
+description: Mechanisms exist to ensure network architecture utilizes network segmentation to isolate systems, applications and services that protections from other network resources.
+elementType: control
+externalId: NET-06
+controlQuestion: Does the organization ensure network architecture utilizes network segmentation to isolate systems, applications and services that protections from other network resources?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

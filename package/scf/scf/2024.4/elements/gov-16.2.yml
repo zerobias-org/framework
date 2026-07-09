@@ -1,0 +1,39 @@
+id: 3e702708-0caf-52ea-8d15-7f1b7f6d7fba
+name: Material Threats
+description: Mechanisms exist to define criteria necessary to designate a threat as a material threat.
+elementType: enhancement
+externalId: GOV-16.2
+controlQuestion: Does the organization define criteria necessary to designate a threat as a material threat?
+functionGrouping: Govern
+controlWeighting: '7'
+parent: gov-16
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

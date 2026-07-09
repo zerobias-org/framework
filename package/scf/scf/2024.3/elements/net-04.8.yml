@@ -1,0 +1,39 @@
+id: 83adc36b-de6a-53c0-b681-7a003be32e61
+name: Data Type Identifiers
+description: Automated mechanisms exist to utilize data type identifiers to validate data essential for information flow decisions when transferring information between different security domains.
+elementType: enhancement
+externalId: NET-04.8
+controlQuestion: Does the organization use automated mechanisms to utilize data type identifiers to validate data essential for information flow decisions when transferring information between different security domains?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

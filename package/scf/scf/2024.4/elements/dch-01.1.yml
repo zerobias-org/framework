@@ -1,0 +1,39 @@
+id: 3a090d2d-4be9-5216-b579-74bcd488d2c5
+name: Data Stewardship
+description: Mechanisms exist to ensure data stewardship is assigned, documented and communicated.
+elementType: enhancement
+externalId: DCH-01.1
+controlQuestion: Does the organization ensure data stewardship is assigned, documented and communicated?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: dch-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

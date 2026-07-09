@@ -1,0 +1,39 @@
+id: 2c6be501-c643-5b61-a352-a408f813ed6e
+name: Anomalous Behavior
+description: Mechanisms exist to detect and respond to anomalous behavior that could indicate account compromise or other malicious activities.
+elementType: control
+externalId: MON-16
+controlQuestion: Does the organization detect and respond to anomalous behavior that could indicate account compromise or other malicious activities?
+functionGrouping: Detect
+controlWeighting: '10'
+parent: mon
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

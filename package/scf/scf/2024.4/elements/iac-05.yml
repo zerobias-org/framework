@@ -1,0 +1,39 @@
+id: f0fca2c9-213c-5b04-872a-4883ad353d9c
+name: Identification & Authentication for Third Party Systems & Services
+description: Mechanisms exist to identify and authenticate third-party systems and services.
+elementType: control
+externalId: IAC-05
+controlQuestion: Does the organization identify and authenticate third-party systems and services?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

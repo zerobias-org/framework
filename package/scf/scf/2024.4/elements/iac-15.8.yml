@@ -1,0 +1,39 @@
+id: d9125c99-1454-5656-aa5a-e1145b41b407
+name: Usage Conditions
+description: Automated mechanisms exist to enforce usage conditions for users and/or roles.
+elementType: enhancement
+externalId: IAC-15.8
+controlQuestion: Does the organization use automated mechanisms to enforce usage conditions for users and/or roles?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-15
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

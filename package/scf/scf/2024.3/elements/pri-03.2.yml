@@ -1,0 +1,39 @@
+id: b27bd8ef-6a11-5d8b-8089-29edf7b861e3
+name: Just-In-Time Notice & Updated Consent
+description: "Mechanisms exist to present authorizations to process Personal Data (PD) in conjunction with the data action, when:\r\n•The original circumstances under which an individual gave consent have changed; or\r\n•A significant amount of time has passed since an individual gave consent."
+elementType: enhancement
+externalId: PRI-03.2
+controlQuestion: "Does the organization present authorizations to process Personal Data (PD) in conjunction with the data action, when:\r\n•The original circumstances under which an individual gave consent have changed; or\r\n•A significant amount of time has passed since an individual gave consent?"
+functionGrouping: Identify
+controlWeighting: '1'
+parent: pri-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

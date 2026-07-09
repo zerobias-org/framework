@@ -1,0 +1,39 @@
+id: 7ae88bbe-a934-55ff-a56f-944d9ca31855
+name: Expeditious Disconnect / Disable Capability
+description: Mechanisms exist to provide the capability to expeditiously disconnect or disable a user's remote access session.
+elementType: enhancement
+externalId: NET-14.8
+controlQuestion: Does the organization provide the capability to expeditiously disconnect or disable a user's remote access session?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

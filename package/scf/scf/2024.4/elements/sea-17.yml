@@ -1,0 +1,39 @@
+id: 83d1cc0c-7c01-5226-97c5-bc4d5da42379
+name: Secure Log-On Procedures
+description: Mechanisms exist to utilize a trusted communications path between the user and the security functions of the system.
+elementType: control
+externalId: SEA-17
+controlQuestion: Does the organization utilize a trusted communications path between the user and the security functions of the system?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: adfc429a-8509-5b3c-bdf9-f3ae7fa6bed7
+name: Separation of Primary / Alternate Providers
+description: Mechanisms exist to obtain alternate telecommunications services from providers that are separated from primary service providers to reduce susceptibility to the same threats.
+elementType: enhancement
+externalId: BCD-10.2
+controlQuestion: Does the organization obtain alternate telecommunications services from providers that are separated from primary service providers to reduce susceptibility to the same threats?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: bcd-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

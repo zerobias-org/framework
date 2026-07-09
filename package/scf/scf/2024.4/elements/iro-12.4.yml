@@ -1,0 +1,39 @@
+id: fa26a21e-99a8-50c3-93bd-64f49727e005
+name: Exposure to Unauthorized Personnel
+description: Mechanisms exist to address security safeguards for personnel exposed to sensitive information that is not within their assigned access authorizations.
+elementType: enhancement
+externalId: IRO-12.4
+controlQuestion: Does the organization address security safeguards for personnel exposed to sensitive information that is not within their assigned access authorizations?
+functionGrouping: Respond
+controlWeighting: '8'
+parent: iro-12
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

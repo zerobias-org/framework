@@ -1,0 +1,39 @@
+id: 23abfdea-3efe-5a6b-afc6-aec80968ac7f
+name: Monitoring Physical Access To Information Systems
+description: Facility security mechanisms exist to monitor physical access to critical information systems or sensitive/regulated data, in addition to the physical access monitoring of the facility.
+elementType: enhancement
+externalId: PES-05.2
+controlQuestion: Does the organization monitor physical access to critical information systems or sensitive/regulated data, in addition to the physical access monitoring of the facility?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: pes-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 585ecb87-c8cb-516f-8f1d-9e51ffde5c6f
+name: Access Enforcement
+description: Mechanisms exist to enforce Logical Access Control (LAC) permissions that conform to the principle of "least privilege."
+elementType: control
+externalId: IAC-20
+controlQuestion: Does the organization enforce Logical Access Control (LAC) permissions that conform to the principle of "least privilege?"
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

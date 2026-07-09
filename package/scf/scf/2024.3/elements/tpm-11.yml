@@ -1,0 +1,39 @@
+id: 2ccb371c-effb-501a-959d-dbfd1205eb1b
+name: Third-Party Incident Response & Recovery Capabilities
+description: Mechanisms exist to ensure response/recovery planning and testing are conducted with critical suppliers/providers.
+elementType: control
+externalId: TPM-11
+controlQuestion: Does the organization ensure response/recovery planning and testing are conducted with critical suppliers/providers?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: tpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

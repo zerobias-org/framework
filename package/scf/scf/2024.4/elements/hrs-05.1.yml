@@ -1,0 +1,39 @@
+id: a5f4ef09-b812-5a2c-99a2-2d137a4c4898
+name: Rules of Behavior
+description: Mechanisms exist to define acceptable and unacceptable rules of behavior for the use of technologies, including consequences for unacceptable behavior.
+elementType: enhancement
+externalId: HRS-05.1
+controlQuestion: Does the organization define acceptable and unacceptable rules of behavior for the use of technologies, including consequences for unacceptable behavior?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

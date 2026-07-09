@@ -1,0 +1,39 @@
+id: 46964013-c4c3-5462-a2db-8511c97ec8c1
+name: Audit Changes
+description: Mechanisms exist to audit changes to cybersecurity & data privacy attributes and responds to events in accordance with incident response procedures.
+elementType: enhancement
+externalId: DCH-05.11
+controlQuestion: Does the organization audit changes to cybersecurity & data privacy attributes and responds to events in accordance with incident response procedures?
+functionGrouping: Detect
+controlWeighting: '7'
+parent: dch-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

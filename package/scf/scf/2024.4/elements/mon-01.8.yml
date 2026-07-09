@@ -1,0 +1,39 @@
+id: 2b2e9476-48e4-5bd0-982a-1bfa70dbcad8
+name: Reviews & Updates
+description: Mechanisms exist to review event logs on an ongoing basis and escalate incidents in accordance with established timelines and procedures.
+elementType: enhancement
+externalId: MON-01.8
+controlQuestion: Does the organization review event logs on an ongoing basis and escalate incidents in accordance with established timelines and procedures?
+functionGrouping: Detect
+controlWeighting: '10'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

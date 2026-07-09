@@ -1,0 +1,39 @@
+id: d72fc7de-a09f-5691-ba48-45e7dd45fc4f
+name: Targeted Capability Maturity Levels
+description: Mechanisms exist to define and identify targeted capability maturity levels.
+elementType: enhancement
+externalId: PRM-01.2
+controlQuestion: Does the organization define and identify targeted capability maturity levels?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: prm-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 0b5d64a3-df37-51fd-8eb0-e5852893cbac
+name: Authentication & Encryption
+description: Mechanisms exist to protect wireless access through authentication and strong encryption.
+elementType: enhancement
+externalId: NET-15.1
+controlQuestion: Does the organization protect wireless access through authentication and strong encryption?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: net-15
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

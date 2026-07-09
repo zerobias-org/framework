@@ -1,0 +1,39 @@
+id: c715f0b7-c6b2-553b-acb6-a03b82a4b3ff
+name: Validation & Sanitization
+description: Mechanisms exist to ensure all input handled by a web application is validated and/or sanitized.
+elementType: control
+externalId: WEB-09
+controlQuestion: Does the organization ensure all input handled by a web application is validated and/or sanitized?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: web
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

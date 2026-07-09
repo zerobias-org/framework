@@ -1,0 +1,39 @@
+id: ac84ff11-a1c9-58ab-aa41-4205b3948c97
+name: Internal Use of Personal Data For Testing, Training and Research
+description: "Mechanisms exist to address the use of Personal Data (PD) for internal testing, training and research that:\r\n ▪ Takes measures to limit or minimize the amount of PD used for internal testing, training and research purposes; and\r\n ▪ Authorizes the use of PD when such information is required for internal testing, training and research."
+elementType: enhancement
+externalId: PRI-05.1
+controlQuestion: "Does the organization address the use of Personal Data (PD) for internal testing, training and research that:\r\n •Takes measures to limit or minimize the amount of PD used for internal testing, training and research purposes; and\r\n •Authorizes the use of PD when such information is required for internal testing, training and research?"
+functionGrouping: Identify
+controlWeighting: '8'
+parent: pri-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

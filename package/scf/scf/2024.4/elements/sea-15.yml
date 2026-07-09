@@ -1,0 +1,39 @@
+id: ed14ce45-c1a9-5b8c-a5d8-2054af2333f3
+name: Distributed Processing & Storage
+description: Mechanisms exist to distribute processing and storage across multiple physical locations.
+elementType: control
+externalId: SEA-15
+controlQuestion: Does the organization distribute processing and storage across multiple physical locations?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

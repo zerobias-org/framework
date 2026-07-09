@@ -1,0 +1,39 @@
+id: 65861e06-a8ef-5aef-9ff5-aaef2fcd53f8
+name: Detection of Unsanctioned Information
+description: Automated mechanisms exist to implement security policy filters requiring fully enumerated formats that restrict data structure and content, when transferring information between different security domains.
+elementType: enhancement
+externalId: NET-04.10
+controlQuestion: Does the organization use automated mechanisms to implement security policy filters requiring fully enumerated formats that restrict data structure and content, when transferring information between different security domains?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

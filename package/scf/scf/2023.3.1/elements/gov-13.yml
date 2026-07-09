@@ -1,0 +1,40 @@
+id: 289fd7cb-6c70-5cc0-96b5-7713d09d3e3c
+name: State-Sponsored Espionage
+description: Mechanisms exist to constrain the host government's ability to leverage the organization's technology assets for economic or political espionage and/or cyberwarfare activities.
+elementType: control
+externalId: GOV-13
+controlQuestion: Does the organization constrain the host government's ability to leverage the organization's technology assets for economic or political espionage and/or cyberwarfare activities?
+methodsToComply: '- Board of Directors (Bod) Ethics Committee'
+functionGrouping: Protect
+controlWeighting: '10'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to constrain the host government's ability to leverage the organization's technology assets for economic or political espionage and/ or cyberwarfare activities.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to constrain the host government's ability to leverage the organization's technology assets for economic or political espionage and/ or cyberwarfare activities.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to constrain the host government's ability to leverage the organization's technology assets for economic or political espionage and/ or cyberwarfare activities.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cybersecurity & Privacy Governance (GOV) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides scoping guidance to determine control applicability.\n•\tCompliance requirements for cybersecurity & data privacy controls are identified, documented and tested for adherence to internal standards or regulatory requirements.\n•\tProcedures are established for sensitive/regulated obligations and standardized across the organization.\n•\tControls are standardized across the organization to ensure uniformity and consistent execution.\n•\tInternal policies and standards address all statutory, regulatory and contractual obligations for cybersecurity & data privacy.\n•\tDefined roles & responsibilities require data/process owners to define, implement and maintain cybersecurity & data privacy controls for each system, application and/ or service of which they have accountability.\n•\tInstances of client or host-nation requests are formally evaluated to determine the risk impact of the request.\n•\tInstances that could lead to state-sponsored espionage are escalated to executive leadership for review by the Risk Committee."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to constrain the host government's ability to leverage the organization's technology assets for economic or political espionage and/ or cyberwarfare activities.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to constrain the host government's ability to leverage the organization's technology assets for economic or political espionage and/ or cyberwarfare activities.
+  available: false
+  value: 5

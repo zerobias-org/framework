@@ -1,0 +1,39 @@
+id: fc0ad45e-bec4-51a9-9862-0fecb6f802de
+name: Privileged Accounts
+description: Mechanisms exist to restrict the assignment of privileged accounts to management-approved personnel and/or roles.
+elementType: enhancement
+externalId: IAC-21.3
+controlQuestion: Does the organization restrict the assignment of privileged accounts to management-approved personnel and/or roles?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-21
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

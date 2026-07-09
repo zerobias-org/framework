@@ -1,0 +1,39 @@
+id: 99784d33-5e7e-50df-8095-3d15e52a1373
+name: Proximity Sensor
+description: Automated mechanisms exist to monitor physical proximity to robotic or autonomous platforms to reduce applied force or stop the operation when sensors indicate a potentially dangerous scenario.
+elementType: control
+externalId: PES-17
+controlQuestion: Does the organization use automated mechanisms to monitor physical proximity to robotic or autonomous platforms to reduce applied force or stop the operation when sensors indicate a potentially dangerous scenario?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to monitor physical proximity to robotic or autonomous platforms to reduce applied force or stop the operation when sensors indicate a potentially dangerous scenario.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to monitor physical proximity to robotic or autonomous platforms to reduce applied force or stop the operation when sensors indicate a potentially dangerous scenario.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to monitor physical proximity to robotic or autonomous platforms to reduce applied force or stop the operation when sensors indicate a potentially dangerous scenario.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Physical & Environmental Security (PES) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA physical security team, or similar function:\no\tPerforms the centralized-management of physical security controls across the enterprise.\no\tMaintains a current list of personnel with authorized access to organizational facilities and implements physical access management controls.\n•\tA facilities maintenance team, or similar function, manages the operation of environmental protection controls.\n•\tAdministrative processes exist to authorize physical access to facilities based on the position or role of the individual.\n•\tAdministrative processes and physical controls restrict unescorted access to facilities to personnel with required security clearances, formal access authorizations and validated the need for access.\n•\tPhysical proximity to robotic or autonomous platforms is continuously monitored to automatically change the operating state to reduce applied force or stop the operation when physical proximity sensors indicate a dangerous setting."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to monitor physical proximity to robotic or autonomous platforms to reduce applied force or stop the operation when sensors indicate a potentially dangerous scenario.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to monitor physical proximity to robotic or autonomous platforms to reduce applied force or stop the operation when sensors indicate a potentially dangerous scenario.
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 939d3b50-198e-5692-808a-3adbeedee3af
+name: Media Access
+description: Mechanisms exist to control and restrict access to digital and non-digital media to authorized individuals.
+elementType: control
+externalId: DCH-03
+controlQuestion: Does the organization control and restrict access to digital and non-digital media to authorized individuals?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

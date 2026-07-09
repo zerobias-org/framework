@@ -1,0 +1,39 @@
+id: 17d6bd22-c14b-5a91-8009-e1bef96c1315
+name: Insider Threat Awareness
+description: Mechanisms exist to utilize security awareness training on recognizing and reporting potential indicators of insider threat.
+elementType: control
+externalId: THR-05
+controlQuestion: Does the organization utilize security awareness training on recognizing and reporting potential indicators of insider threat?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: thr
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 5fc7db62-7287-5624-8ddc-41f4f9bec91a
+name: Change of Roles & Duties
+description: Mechanisms exist to revoke user access rights following changes in personnel roles and duties, if no longer necessary or permitted.
+elementType: enhancement
+externalId: IAC-07.1
+controlQuestion: Does the organization revoke user access rights following changes in personnel roles and duties, if no longer necessary or permitted?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

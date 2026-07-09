@@ -1,0 +1,39 @@
+id: 8b1f8842-0d48-5517-88f4-ef81325e04ee
+name: Equipment Siting & Protection
+description: Physical security mechanisms exist to locate system components within the facility to minimize potential damage from physical and environmental hazards and to minimize the opportunity for unauthorized access.
+elementType: control
+externalId: PES-12
+controlQuestion: Does the organization locate system components within the facility to minimize potential damage from physical and environmental hazards and to minimize the opportunity for unauthorized access?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: e369447c-9c04-55f7-86bd-65fa6ef51d7f
+name: Zero-Touch Provisioning (ZTP)
+description: Mechanisms exist to implement Zero-Touch Provisioning (ZTP), or similar technology, to automatically and securely configure devices upon being added to a network.
+elementType: control
+externalId: CFG-07
+controlQuestion: Does the organization implement Zero-Touch Provisioning (ZTP), or similar technology, to automatically and securely configure devices upon being added to a network?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cfg
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

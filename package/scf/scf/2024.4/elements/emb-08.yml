@@ -1,0 +1,39 @@
+id: 791d4948-bd6c-5683-97d3-ddfdf4a48f71
+name: Resilience To Outages
+description: Mechanisms exist to configure embedded technology to be resilient to data network and power outages.
+elementType: control
+externalId: EMB-08
+controlQuestion: Does the organization configure embedded technology to be resilient to data network and power outages?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

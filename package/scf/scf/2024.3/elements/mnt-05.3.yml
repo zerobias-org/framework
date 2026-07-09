@@ -1,0 +1,39 @@
+id: 5589e18a-0efe-55e1-a5c7-eeb9221d0b45
+name: Remote Maintenance Cryptographic Protection
+description: Cryptographic mechanisms exist to protect the integrity and confidentiality of remote, non-local maintenance and diagnostic communications.
+elementType: enhancement
+externalId: MNT-05.3
+controlQuestion: Are cryptographic mechanisms utilized to protect the integrity and confidentiality of remote, non-local maintenance and diagnostic communications?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: mnt-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

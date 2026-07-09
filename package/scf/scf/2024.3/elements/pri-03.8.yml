@@ -1,0 +1,39 @@
+id: 56ef049c-8539-5bc7-a19c-6567704fcbec
+name: Global Privacy Control (GPC)
+description: Automated mechanisms exist to provide data subjects with functionality to exercise pre-selected opt-out preferences (e.g., opt-out signal).
+elementType: enhancement
+externalId: PRI-03.8
+controlQuestion: Does the organization use automated mechanisms to provide data subjects with functionality to exercise pre-selected opt-out preferences (e.g., opt-out signal)?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: pri-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

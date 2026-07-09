@@ -1,0 +1,39 @@
+id: b3d4fb4c-c044-5fdc-9d3d-5fd1d2168413
+name: Privileged Account Inventories
+description: Mechanisms exist to inventory all privileged accounts and validate that each person with elevated privileges is authorized by the appropriate level of organizational management.
+elementType: enhancement
+externalId: IAC-16.1
+controlQuestion: Does the organization inventory all privileged accounts and validate that each person with elevated privileges is authorized by the appropriate level of organizational management?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-16
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

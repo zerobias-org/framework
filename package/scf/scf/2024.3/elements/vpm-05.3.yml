@@ -1,0 +1,39 @@
+id: d8579c73-a310-5b09-9e0b-17bee4164fd7
+name: Time To Remediate / Benchmarks For Corrective Action
+description: Mechanisms exist to track the effectiveness of remediation operations through metrics reporting.
+elementType: enhancement
+externalId: VPM-05.3
+controlQuestion: Does the organization track the effectiveness of remediation operations through metrics reporting?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: vpm-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

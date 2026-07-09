@@ -1,0 +1,39 @@
+id: 07395269-50ed-5185-8d04-4081fbf323ac
+name: Correcting Inaccurate Personal Data
+description: "Mechanisms exist to establish and implement a process for:\r\n ▪ Data subjects to have inaccurate Personal Data (PD) maintained by the organization corrected or amended; and\r\n ▪ Disseminating corrections or amendments of PD to other authorized users of the PD."
+elementType: enhancement
+externalId: PRI-06.1
+controlQuestion: "Does the organization establish and implement a process for:\r\n •Data subjects to have inaccurate Personal Data (PD) maintained by the organization corrected or amended; and\r\n •Disseminating corrections or amendments of PD to other authorized users of the PD?"
+functionGrouping: Respond
+controlWeighting: '5'
+parent: pri-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 8a5c8fc9-1a62-502d-8da6-25001cab030d
+name: Two-Person Rule
+description: Mechanisms exist to enforce a two-person rule for implementing changes to sensitive systems.
+elementType: enhancement
+externalId: HRS-12.1
+controlQuestion: Does the organization enforce a two-person rule for implementing changes to sensitive systems?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: hrs-12
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

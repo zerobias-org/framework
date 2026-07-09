@@ -1,0 +1,39 @@
+id: e9819879-de5b-5c5e-ad9d-f6172e2dfe0c
+name: Web Application Framework
+description: Mechanisms exist to ensure a robust Web Application Framework is used to aid in the development of secure web applications, including web services, web resources and web APIs.
+elementType: control
+externalId: WEB-08
+controlQuestion: Does the organization ensure a robust Web Application Framework is used to aid in the development of secure web applications, including web services, web resources and web APIs?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: web
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

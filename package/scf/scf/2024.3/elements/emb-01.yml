@@ -1,0 +1,39 @@
+id: 2346aadb-2d0d-5594-b779-f881c6d5ad2b
+name: Embedded Technology Security Program
+description: Mechanisms exist to facilitate the implementation of embedded technology controls.
+elementType: control
+externalId: EMB-01
+controlQuestion: Does the organization facilitate the implementation of embedded technology controls?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

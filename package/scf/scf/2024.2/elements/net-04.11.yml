@@ -1,0 +1,39 @@
+id: de85ab56-abd0-59a2-9ac0-9dcec3bc49ba
+name: Approved Solutions
+description: Automated mechanisms exist to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains.
+elementType: enhancement
+externalId: NET-04.11
+controlQuestion: Does the organization use automated mechanisms to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Network Security (NET) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Technology Infrastructure team, or similar function, defines centrally-managed network security controls for implementation across the enterprise.\n•\tSecure engineering principles are used to design and implement network security controls (e.g., industry-recognized secure practices) to enforce the concepts of least privilege and least functionality at the network level.\n•\tIT/cybersecurity architects work with the Technology Infrastructure team to implement a “layered defense” network architecture that provides a defense-in-depth approach for redundancy and risk reduction for network-based security controls, including wired and wireless networking.\n•\tAdministrative processes and technologies configure boundary devices (e.g., firewalls, routers, etc.) to deny network traffic by default and allow network traffic by exception (e.g., deny all, permit by exception).\n•\tTechnologies automate the Access Control Lists (ACLs) and similar rulesets review process to identify security issues and/ or misconfigurations.\n•\tNetwork segmentation exists to implement separate network addresses (e.g., different subnets) to connect systems in different security domains (e.g., sensitive/regulated data environments)."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Network Security (NET) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: "Network Security (NET) efforts are “world-class” capabilities that leverage predictive analysis (e.g., machine learning, AI, etc.). In addition to CMM Level 4 criteria, CMM Level 5 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tStakeholders make time-sensitive decisions to support operational efficiency, which may include automated remediation actions.\n▪ \tBased on predictive analysis, process improvements are implemented according to “continuous improvement” practices that affect process changes."
+  available: true
+  value: 5

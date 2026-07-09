@@ -1,0 +1,39 @@
+id: dc0a6677-a12e-5e7d-8866-8a63728ed2de
+name: Threat Intelligence Reporting
+description: Mechanisms exist to utilize external threat intelligence feeds to generate and disseminate organization-specific security alerts, advisories and/or directives.
+elementType: enhancement
+externalId: THR-03.1
+controlQuestion: Does the organization utilize external threat intelligence feeds to generate and disseminate organization-specific security alerts, advisories and/or directives?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: thr-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

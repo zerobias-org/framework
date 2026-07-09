@@ -1,0 +1,39 @@
+id: d4a960b7-4ccd-5d62-abeb-feb665d52c41
+name: Message Queuing Telemetry Transport (MQTT) Security
+description: Mechanisms exist to enforce the security of Message Queuing Telemetry Transport (MQTT) traffic.
+elementType: control
+externalId: EMB-11
+controlQuestion: Does the organization enforce the security of Message Queuing Telemetry Transport (MQTT) traffic?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

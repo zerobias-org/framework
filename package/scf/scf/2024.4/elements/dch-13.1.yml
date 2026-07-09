@@ -1,0 +1,39 @@
+id: fff6180e-a290-5764-9880-c4291915afdb
+name: Limits of Authorized Use
+description: "Mechanisms exist to prohibit external parties, systems and services from storing, processing and transmitting data unless authorized individuals first: \r\n (1) Verifying the implementation of required security controls; or\r\n (2) Retaining a processing agreement with the entity hosting the external systems or service."
+elementType: enhancement
+externalId: DCH-13.1
+controlQuestion: "Does the organization prohibit external parties, systems and services from storing, processing and transmitting data unless authorized individuals first: \r\n (1) Verifying the implementation of required security controls; or\r\n (2) Retaining a processing agreement with the entity hosting the external systems or service?"
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

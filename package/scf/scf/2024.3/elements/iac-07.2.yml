@@ -1,0 +1,39 @@
+id: 5f23d27e-a88a-51b4-91af-ab703aa6de32
+name: Termination of Employment
+description: Mechanisms exist to revoke user access rights in a timely manner, upon termination of employment or contract.
+elementType: enhancement
+externalId: IAC-07.2
+controlQuestion: Does the organization revoke user access rights in a timely manner, upon termination of employment or contract?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 23b69d47-53f0-5f28-9bbd-916bc1349979
+name: Domain Name Service (DNS) Resolution
+description: Mechanisms exist to ensure Domain Name Service (DNS) resolution is designed, implemented and managed to protect the security of name / address resolution.
+elementType: control
+externalId: NET-10
+controlQuestion: Does the organization ensure Domain Name Service (DNS) resolution is designed, implemented and managed to protect the security of name / address resolution?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 71434664-7721-5f00-a6e0-c78dc5c5ebb7
+name: Water Damage Protection
+description: Facility security mechanisms exist to protect systems from damage resulting from water leakage by providing master shutoff valves that are accessible, working properly and known to key personnel.
+elementType: enhancement
+externalId: PES-07.5
+controlQuestion: Does the organization protect systems from damage resulting from water leakage by providing master shutoff valves that are accessible, working properly and known to key personnel?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: pes-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

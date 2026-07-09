@@ -1,0 +1,39 @@
+id: 95560352-5451-5837-9b80-01412763b464
+name: Separate Mobile Device Profiles
+description: Mechanisms exist to enforce a separate device workspace on applicable mobile devices to separate work-related and personal-related applications and data.
+elementType: control
+externalId: MDM-10
+controlQuestion: Does the organization enforce a separate device workspace on applicable mobile devices to separate work-related and personal-related applications and data?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

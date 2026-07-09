@@ -1,0 +1,39 @@
+id: 23b85aeb-6e88-53b3-8a60-bc9810e2f447
+name: Continuous Vulnerability Remediation Activities
+description: Mechanisms exist to address new threats and vulnerabilities on an ongoing basis and ensure assets are protected against known attacks.
+elementType: control
+externalId: VPM-04
+controlQuestion: Does the organization address new threats and vulnerabilities on an ongoing basis and ensure assets are protected against known attacks?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: vpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

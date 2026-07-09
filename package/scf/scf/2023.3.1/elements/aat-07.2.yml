@@ -1,0 +1,39 @@
+id: 743d5453-dc96-5fdf-b88c-50bb8a00fdd4
+name: AI & Autonomous Technologies Likelihood & Impact Risk Analysis
+description: Mechanisms exist to define the potential likelihood and impact of each identified risk based on expected use and past uses of Artificial Intelligence (AI) and Autonomous Technologies (AAT) in similar contexts.
+elementType: enhancement
+externalId: AAT-07.2
+controlQuestion: Does the organization define the potential likelihood and impact of each identified risk based on expected use and past uses of Artificial Intelligence (AI) and Autonomous Technologies (AAT) in similar contexts?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: aat-07
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to define the potential likelihood and impact of each identified risk based on expected use and past uses of Artificial Intelligence (AI) and Autonomous Technologies (AAT) in similar contexts.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to define the potential likelihood and impact of each identified risk based on expected use and past uses of Artificial Intelligence (AI) and Autonomous Technologies (AAT) in similar contexts.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to define the potential likelihood and impact of each identified risk based on expected use and past uses of Artificial Intelligence (AI) and Autonomous Technologies (AAT) in similar contexts.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Artificial Intelligence and Autonomous Technology (AAT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tLegal reviews are conducted to minimize the inadvertent infringement of third-party Intellectual Property (IP) rights through the use of AAT products and/ or services.\n•\tAAT-specific compliance requirements for cybersecurity & data privacy are identified and documented.\n•\tGovernance function for AAT is formally assigned with defined roles and associated responsibilities.\n•\tA Program Management Office (PMO), or similar function, tracks and reports on activities related to the mapping, measuring and managing of AAT.\n•\tSecure engineering principles are identified and implemented to ensure AAT are designed to be reliable, safe, fair, secure, resilient, transparent, explainable and data privacy-enhanced to minimize emergent properties or unintended consequences.\n•\tRobust development and pre-deployment functionality, security and data privacy testing is conducted on all internal and third-party AAT projects.\n•\tProduction use of AAT is closely monitored to minimize emergent properties or unintended consequences."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to define the potential likelihood and impact of each identified risk based on expected use and past uses of Artificial Intelligence (AI) and Autonomous Technologies (AAT) in similar contexts.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to define the potential likelihood and impact of each identified risk based on expected use and past uses of Artificial Intelligence (AI) and Autonomous Technologies (AAT) in similar contexts.
+  available: false
+  value: 5

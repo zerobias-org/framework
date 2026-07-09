@@ -1,0 +1,39 @@
+id: 3529b032-72e1-5070-a5c2-abc41516c9ea
+name: Testing for Reliability & Integrity
+description: Mechanisms exist to routinely test backups that verify the reliability of the backup process, as well as the integrity and availability of the data.
+elementType: enhancement
+externalId: BCD-11.1
+controlQuestion: Does the organization routinely test backups that verify the reliability of the backup process, as well as the integrity and availability of the data?
+functionGrouping: Recover
+controlWeighting: '9'
+parent: bcd-11
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.42",
+  "version": "0.0.43",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -68,6 +68,10 @@
     "@zerobias-org/framework-pci_ssc-dss-v4_0_1": "2.0.0",
     "@zerobias-org/framework-sa-pdpl-v1": "2.0.0",
     "@zerobias-org/framework-sa-sai-v2024": "2.0.0",
+    "@zerobias-org/framework-scf-scf-2023.3.1": "3.0.0",
+    "@zerobias-org/framework-scf-scf-2024.2": "3.0.0",
+    "@zerobias-org/framework-scf-scf-2024.3": "3.0.0",
+    "@zerobias-org/framework-scf-scf-2024.4": "3.0.0",
     "@zerobias-org/framework-scf-scf-2025.2.1": "3.0.0",
     "@zerobias-org/framework-scf-scf-2025.2.2": "3.0.0",
     "@zerobias-org/framework-scf-scf-2025.3.1": "3.0.0",

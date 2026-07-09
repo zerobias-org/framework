@@ -1,0 +1,39 @@
+id: 59c74561-6e02-5cae-a011-af3c6b02266b
+name: Predictable Failure Analysis
+description: Mechanisms exist to determine the Mean Time to Failure (MTTF) for system components in specific environments of operation.
+elementType: control
+externalId: SEA-07
+controlQuestion: Does the organization determine the Mean Time to Failure (MTTF) for system components in specific environments of operation?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

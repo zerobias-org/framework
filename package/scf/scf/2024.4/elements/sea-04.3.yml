@@ -1,0 +1,39 @@
+id: f0ba6401-77b0-58de-b14a-b639a6526955
+name: Thread Separation
+description: Mechanisms exist to maintain a separate execution domain for each thread in multi-threaded processing.
+elementType: enhancement
+externalId: SEA-04.3
+controlQuestion: Does the organization maintain a separate execution domain for each thread in multi-threaded processing?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: sea-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

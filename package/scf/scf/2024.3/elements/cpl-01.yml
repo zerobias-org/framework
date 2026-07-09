@@ -1,0 +1,39 @@
+id: ce548aa9-66b8-555e-81c7-1664146058f2
+name: Statutory, Regulatory & Contractual Compliance
+description: Mechanisms exist to facilitate the identification and implementation of relevant statutory, regulatory and contractual controls.
+elementType: control
+externalId: CPL-01
+controlQuestion: Does the organization facilitate the identification and implementation of relevant statutory, regulatory and contractual controls?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: cpl
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

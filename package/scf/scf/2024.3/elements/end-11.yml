@@ -1,0 +1,39 @@
+id: a34b23e9-9d0a-53be-b877-60e407fd0b7c
+name: Thin Nodes
+description: Mechanisms exist to configure thin nodes to have minimal functionality and information storage.
+elementType: control
+externalId: END-11
+controlQuestion: Does the organization configure thin nodes to have minimal functionality and information storage?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: end
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: bad6aa5a-d9c7-5ed9-89fe-47316a0f067a
+name: Maintenance Operations
+description: Mechanisms exist to develop, disseminate, review & update procedures to facilitate the implementation of maintenance controls across the enterprise.
+elementType: control
+externalId: MNT-01
+controlQuestion: Does the organization develop, disseminate, review & update procedures to facilitate the implementation of maintenance controls across the enterprise?
+functionGrouping: Govern
+controlWeighting: '9'
+parent: mnt
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

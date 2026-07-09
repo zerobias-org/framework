@@ -1,0 +1,39 @@
+id: b3378271-b8ff-53d8-94fc-306cd7119380
+name: Stakeholder Notification of Changes
+description: Mechanisms exist to ensure stakeholders are made aware of and understand the impact of proposed changes.
+elementType: control
+externalId: CHG-05
+controlQuestion: Does the organization ensure stakeholders are made aware of and understand the impact of proposed changes?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: chg
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

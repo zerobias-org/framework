@@ -1,0 +1,39 @@
+id: f574f812-460f-5d65-81a4-6eff8d09aacf
+name: Network Security Controls (NSC)
+description: Mechanisms exist to develop, govern & update procedures to facilitate the implementation of Network Security Controls (NSC).
+elementType: control
+externalId: NET-01
+controlQuestion: Does the organization develop, govern & update procedures to facilitate the implementation of Network Security Controls (NSC)?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

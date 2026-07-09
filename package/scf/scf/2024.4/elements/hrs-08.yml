@@ -1,0 +1,39 @@
+id: c8926e2c-4e08-5320-8e8d-239a7e952955
+name: Personnel Transfer
+description: Mechanisms exist to adjust logical and physical access authorizations to systems and facilities upon personnel reassignment or transfer, in a timely manner.
+elementType: control
+externalId: HRS-08
+controlQuestion: Does the organization adjust logical and physical access authorizations to systems and facilities upon personnel reassignment or transfer, in a timely manner?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

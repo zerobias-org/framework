@@ -1,0 +1,39 @@
+id: e117a099-9b0c-579f-949b-ceadb0d52758
+name: Prevent Discovery of Internal Information
+description: Mechanisms exist to prevent the public disclosure of internal network information.
+elementType: enhancement
+externalId: NET-03.3
+controlQuestion: Does the organization prevent the public disclosure of internal network information?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: net-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

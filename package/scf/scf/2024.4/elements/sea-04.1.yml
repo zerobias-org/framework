@@ -1,0 +1,39 @@
+id: 40fcf22e-c0a2-55e1-bdc7-42d2acf37a32
+name: Security Function Isolation
+description: Mechanisms exist to isolate security functions from non-security functions.
+elementType: enhancement
+externalId: SEA-04.1
+controlQuestion: Does the organization isolate security functions from non-security functions?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: sea-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

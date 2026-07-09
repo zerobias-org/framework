@@ -1,0 +1,39 @@
+id: feb4cc40-eaef-535b-9797-5c2ff149c5c0
+name: Personnel Screening
+description: Mechanisms exist to manage personnel security risk by screening individuals prior to authorizing access.
+elementType: control
+externalId: HRS-04
+controlQuestion: Does the organization manage personnel security risk by screening individuals prior to authorizing access?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

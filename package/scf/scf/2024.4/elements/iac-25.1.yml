@@ -1,0 +1,39 @@
+id: a8b9dc8f-a13d-5e07-a8e6-6e7f8fd493d8
+name: User-Initiated Logouts / Message Displays
+description: Mechanisms exist to provide a logout capability and display an explicit logout message to users indicating the reliable termination of the session.
+elementType: enhancement
+externalId: IAC-25.1
+controlQuestion: Does the organization provide a logout capability and display an explicit logout message to users indicating the reliable termination of the session?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-25
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

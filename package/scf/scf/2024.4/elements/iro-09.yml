@@ -1,0 +1,39 @@
+id: edd800b8-6274-589b-a700-9792b5ab943e
+name: Situational Awareness For Incidents
+description: Mechanisms exist to document, monitor and report the status of cybersecurity & data privacy incidents to internal stakeholders all the way through the resolution of the incident.
+elementType: control
+externalId: IRO-09
+controlQuestion: Does the organization document, monitor and report the status of cybersecurity & data privacy incidents to internal stakeholders all the way through the resolution of the incident?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: iro
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

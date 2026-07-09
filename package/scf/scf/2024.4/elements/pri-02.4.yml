@@ -1,0 +1,39 @@
+id: 43b47530-b75c-5a7a-ab0e-4de26156b211
+name: System of Records Notice (SORN)
+description: Mechanisms exist to draft, publish and keep System of Records Notices (SORN) updated in accordance with regulatory guidance.
+elementType: enhancement
+externalId: PRI-02.4
+controlQuestion: Does the organization draft, publish and keep System of Records Notices (SORN) updated in accordance with regulatory guidance?
+functionGrouping: Identify
+controlWeighting: '1'
+parent: pri-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

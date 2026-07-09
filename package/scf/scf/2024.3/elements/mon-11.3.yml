@@ -1,0 +1,39 @@
+id: e864223b-2d12-56dd-895f-40b3dd2ecb96
+name: Monitoring for Indicators of Compromise (IOC)
+description: Automated mechanisms exist to identify and alert on Indicators of Compromise (IoC).
+elementType: enhancement
+externalId: MON-11.3
+controlQuestion: Does the organization use automated mechanisms to identify and alert on Indicators of Compromise (IoC)?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: mon-11
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

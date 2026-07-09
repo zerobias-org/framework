@@ -1,0 +1,39 @@
+id: 480e9e3c-5e31-5fca-a860-9adfb12ae179
+name: Change Processing & Storage Locations
+description: Automated mechanisms exist to change the location of processing and/or storage at random time intervals.
+elementType: enhancement
+externalId: SEA-14.2
+controlQuestion: Does the organization use automated mechanisms to change the location of processing and/or storage at random time intervals?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: sea-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

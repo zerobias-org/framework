@@ -1,0 +1,39 @@
+id: 94a2945f-7035-5447-80a2-bbabc893d48e
+name: Remote Access
+description: Mechanisms exist to define, control and review organization-approved, secure remote access methods.
+elementType: control
+externalId: NET-14
+controlQuestion: Does the organization define, control and review organization-approved, secure remote access methods?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

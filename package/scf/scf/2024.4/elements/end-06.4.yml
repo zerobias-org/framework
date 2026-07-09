@@ -1,0 +1,39 @@
+id: 559b176f-f770-5351-9442-bb7058a927c0
+name: Automated Response to Integrity Violations
+description: Automated mechanisms exist to implement remediation actions when integrity violations are discovered.
+elementType: enhancement
+externalId: END-06.4
+controlQuestion: Does the organization use automated mechanisms to implement remediation actions when integrity violations are discovered?
+functionGrouping: Respond
+controlWeighting: '5'
+parent: end-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

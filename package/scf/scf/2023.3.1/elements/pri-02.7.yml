@@ -1,0 +1,39 @@
+id: fd01d84f-e421-5618-b6ec-fde32855349e
+name: Real-Time or Layered Notice
+description: Mechanisms exist to provide real-time and/or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice.
+elementType: enhancement
+externalId: PRI-02.7
+controlQuestion: Does the organization provide real-time and/or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice?
+functionGrouping: Identify
+controlWeighting: '2'
+parent: pri-02
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to provide real-time and/ or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to provide real-time and/ or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to provide real-time and/ or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Privacy (PRI) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Privacy program, run by a Chief Privacy Officer (CPO), or similar role, ensures that applicable statutory, regulatory and contractual data privacy obligations are properly identified and implemented to limit and secure Personal Data (PD) that the organization stores, transmits and processes.\n•\tA data privacy team oversees the centralized-management of physical security controls across the enterprise.\n•\tData Protection Officers (DPOs) are assigned to work closely with business units and project teams to ensure data privacy principles are being implemented.\n•\tCPO and DPO determine and document the legal authority that permits the collection, use, maintenance and sharing of PD, either generally or in support of a specific program or system need.\n•\tAs part of the organization’s data privacy program, the CPO publishes a clear set of “data privacy principles”, based on leading data privacy practices, that systems, applications, services, processes and third-parties must adhere to.\n•\tA Project Management Office (PMO), or project management function, ensures both cybersecurity & data privacy principles are identified and implemented within ongoing or planned projects."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to provide real-time and/ or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to provide real-time and/ or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice.
+  available: false
+  value: 5

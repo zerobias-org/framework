@@ -1,0 +1,39 @@
+id: d1ccd3f9-4949-5603-87a0-541c2376c615
+name: System Media Sanitization Documentation
+description: Mechanisms exist to supervise, track, document and verify system media sanitization and disposal actions.
+elementType: enhancement
+externalId: DCH-09.1
+controlQuestion: Does the organization supervise, track, document and verify system media sanitization and disposal actions?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: dch-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

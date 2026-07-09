@@ -1,0 +1,39 @@
+id: ffd0f05c-df30-5782-850a-fd52efd6ea7d
+name: Asset Categorization
+description: Mechanisms exist to categorize technology assets.
+elementType: control
+externalId: AST-31
+controlQuestion: Does the organization categorize technology assets?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

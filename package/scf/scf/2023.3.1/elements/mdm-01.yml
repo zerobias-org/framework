@@ -1,0 +1,39 @@
+id: 1da7a201-5809-5ebc-ab33-4d7f647fe890
+name: Centralized Management Of Mobile Devices
+description: Mechanisms exist to develop, govern & update procedures to facilitate the implementation of mobile device management controls.
+elementType: control
+externalId: MDM-01
+controlQuestion: Does the organization develop, govern & update procedures to facilitate the implementation of mobile device management controls?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to develop, govern & update procedures to facilitate the implementation of mobile device management controls.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Mobile Device Management (MDM) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tMDM is mostly administrative in nature (e.g., policies & standards) that rely on administrative “acceptable use” restrictions to govern mobile device usage.\n•\tMDM software is used to restrict the data that is stored/processed/transmitted on organization-owned and/ or applicable Bring Your Own Device (BYOD) (e.g., personal devices)."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Mobile Device Management (MDM) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tMobile device management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls to address applicable statutory, regulatory and contractual requirements for Mobile Device Management (MDM).\no\tImplement and maintain a MDM capability for all mobile devices in use at the organization.\n•\tOrganization-owned mobile devices are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information stored on the device and mostly conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data.\n•\tMDM software is used to restrict the data that is stored/processed/transmitted on organization-owned and/ or applicable Bring Your Own Device (BYOD) (e.g., personal devices)."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Mobile Device Management (MDM) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe Chief Information Security Officer (CISO), or similar function, analyzes the organization’s business strategy to determine prioritized and authoritative guidance for Mobile Device Management (MDM) practices.\n•\tThe CISO, or similar function, develops a security-focused Concept of Operations (CONOPS) that documents management, operational and technical measures to apply defense-in-depth techniques across the enterprise with regards to MDM.\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity & data privacy controls to protect the confidentiality, integrity, availability and safety of the organization’s applications, systems, services and data for MDM.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity & data privacy program, including MDM.\n•\tAn Identity & Access Management (IAM) function, or similar function, performs the implementation of access controls for mobile devices that restricts the connectivity of mobile devices from communicating with systems, applications and services.\n•\tOrganization-owned mobile devices are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information stored on the device, and conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data.\n•\tMDM software is used to restrict the data that is stored/processed/transmitted on organization-owned and/ or applicable Bring Your Own Device (BYOD) (e.g., personal devices) across the entire organization.\n•\tMDM enforces a separate device workspace on applicable mobile devices to separate work-related and personal-related applications and data.\n•\tTechnologies are configured to use cryptographic mechanisms to protect the confidentiality and integrity of information on mobile devices through full-device or container encryption."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Mobile Device Management (MDM) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to develop, govern & update procedures to facilitate the implementation of mobile device management controls.
+  available: false
+  value: 5

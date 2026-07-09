@@ -1,0 +1,39 @@
+id: eb45f2fc-b4cc-5e1f-a988-ebec61150857
+name: Maintain Configuration Control During Maintenance
+description: Mechanisms exist to maintain proper physical security and configuration control over technology assets awaiting service or repair.
+elementType: control
+externalId: MNT-07
+controlQuestion: Does the organization maintain proper physical security and configuration control over technology assets awaiting service or repair?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: mnt
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

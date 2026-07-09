@@ -1,0 +1,39 @@
+id: 35564168-d4de-5fdd-b9cb-0ce317868ae0
+name: Centralized Management Of Mobile Devices
+description: Mechanisms exist to implement and govern Mobile Device Management (MDM) controls.
+elementType: control
+externalId: MDM-01
+controlQuestion: Does the organization implement and govern Mobile Device Management (MDM) controls?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

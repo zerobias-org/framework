@@ -1,0 +1,39 @@
+id: d08f29d0-bec7-5ea4-86ef-fd784a170181
+name: Consistent Attribute Interpretation
+description: Mechanisms exist to provide a consistent, organizationally agreed upon interpretation of cybersecurity & data privacy attributes employed in access enforcement and flow enforcement decisions between distributed system components.
+elementType: enhancement
+externalId: DCH-05.7
+controlQuestion: Does the organization provide a consistent, organizationally agreed upon interpretation of cybersecurity & data privacy attributes employed in access enforcement and flow enforcement decisions between distributed system components?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: dch-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

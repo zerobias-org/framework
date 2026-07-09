@@ -1,0 +1,39 @@
+id: 7b81d4ab-5840-53b0-8500-c73f40208222
+name: Remote Privileged Commands & Sensitive Data Access
+description: Mechanisms exist to restrict the execution of privileged commands and access to security-relevant information via remote access only for compelling operational needs.
+elementType: enhancement
+externalId: NET-14.4
+controlQuestion: Does the organization restrict the execution of privileged commands and access to security-relevant information via remote access only for compelling operational needs?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

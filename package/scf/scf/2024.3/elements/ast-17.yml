@@ -1,0 +1,39 @@
+id: e6d13d6d-b635-5c90-beaf-8d2894f669a3
+name: Prohibited Equipment & Services
+description: Mechanisms exist to govern Supply Chain Risk Management (SCRM) sanctions that require the removal and prohibition of certain technology services and/or equipment that are designated as supply chain threats by a statutory or regulatory body.
+elementType: control
+externalId: AST-17
+controlQuestion: Does the organization govern Supply Chain Risk Management (SCRM) sanctions that require the removal and prohibition of certain technology services and/or equipment that are designated as supply chain threats by a statutory or regulatory body?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

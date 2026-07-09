@@ -1,0 +1,39 @@
+id: 5b936b86-e9b4-56a6-8e8d-e4b9a193b7c4
+name: Notification of Disclosure Request To Data Subject
+description: Mechanisms exist to notify data subjects of applicable legal requests to disclose Personal Data (PD).
+elementType: enhancement
+externalId: PRI-14.2
+controlQuestion: Does the organization notify data subjects of applicable legal requests to disclose Personal Data (PD)?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: pri-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

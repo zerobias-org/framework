@@ -1,0 +1,39 @@
+id: ec1d5642-2a22-5f37-9cf8-4b3fe866970a
+name: Memory Protection
+description: Mechanisms exist to implement security safeguards to protect system memory from unauthorized code execution.
+elementType: control
+externalId: SEA-10
+controlQuestion: Does the organization implement security safeguards to protect system memory from unauthorized code execution?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

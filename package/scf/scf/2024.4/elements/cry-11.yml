@@ -1,0 +1,39 @@
+id: 4580b5ed-64c1-54d5-98c4-15db77b4d7d8
+name: Certificate Authorities
+description: Automated mechanisms exist to enable the use of organization-defined Certificate Authorities (CAs) to facilitate the establishment of protected sessions.
+elementType: control
+externalId: CRY-11
+controlQuestion: Does the organization use automated mechanisms to enable the use of organization-defined Certificate Authorities (CAs) to facilitate the establishment of protected sessions?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cry
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

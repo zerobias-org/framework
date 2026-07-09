@@ -1,0 +1,39 @@
+id: 31d94674-06ae-5e06-a329-f48edbe48006
+name: Cybersecurity & Data Privacy Testing Throughout Development
+description: "Mechanisms exist to require system developers/integrators consult with cybersecurity & data privacy personnel to: \r\n (1) Create and implement a Security Testing and Evaluation (ST&E) plan, or similar capability;\r\n (2) Implement a verifiable flaw remediation process to correct weaknesses and deficiencies identified during the security testing and evaluation process; and\r\n (3) Document the results of the security testing/evaluation and flaw remediation processes."
+elementType: control
+externalId: TDA-09
+controlQuestion: "Does the organization require system developers/integrators consult with cybersecurity & data privacy personnel to: \r\n (1) Create and implement a Security Testing and Evaluation (ST&E) plan, or similar capability;\r\n (2) Implement a verifiable flaw remediation process to correct weaknesses and deficiencies identified during the security testing and evaluation process; and\r\n (3) Document the results of the security testing/evaluation and flaw remediation processes?"
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

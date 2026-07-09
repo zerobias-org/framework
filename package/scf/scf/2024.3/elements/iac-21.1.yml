@@ -1,0 +1,39 @@
+id: 306eb20d-e732-5d3e-9927-7a4a1be462fe
+name: Authorize Access to Security Functions
+description: Mechanisms exist to limit access to security functions to explicitly-authorized privileged users.
+elementType: enhancement
+externalId: IAC-21.1
+controlQuestion: Does the organization limit access to security functions to explicitly-authorized privileged users?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: iac-21
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

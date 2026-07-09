@@ -1,0 +1,39 @@
+id: 81269ea8-0858-5a3e-8e65-22b5ca978302
+name: Application Container
+description: Mechanisms exist to utilize an application container (virtualization approach) to isolate to a known set of dependencies, access methods and interfaces.
+elementType: control
+externalId: SEA-21
+controlQuestion: Does the organization utilize an application container (virtualization approach) to isolate to a known set of dependencies, access methods and interfaces?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

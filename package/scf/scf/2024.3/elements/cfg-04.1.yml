@@ -1,0 +1,39 @@
+id: 64aaa77a-675a-5594-8a05-a632684b83b4
+name: Open Source Software
+description: Mechanisms exist to establish parameters for the secure use of open source software.
+elementType: enhancement
+externalId: CFG-04.1
+controlQuestion: Does the organization establish parameters for the secure use of open source software?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cfg-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

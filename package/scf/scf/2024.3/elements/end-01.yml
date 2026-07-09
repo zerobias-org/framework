@@ -1,0 +1,39 @@
+id: ad0fed7d-f9dc-5496-8360-70adf01c0826
+name: Endpoint Security
+description: Mechanisms exist to facilitate the implementation of endpoint security controls.
+elementType: control
+externalId: END-01
+controlQuestion: Does the organization facilitate the implementation of endpoint security controls?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: end
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

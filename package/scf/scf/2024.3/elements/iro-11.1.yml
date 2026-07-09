@@ -1,0 +1,39 @@
+id: ef2b2ed6-2a24-5e25-b5b1-0d3b8c3aa670
+name: Automation Support of Availability of Information / Support
+description: Automated mechanisms exist to increase the availability of incident response-related information and support.
+elementType: enhancement
+externalId: IRO-11.1
+controlQuestion: Does the organization use automated mechanisms to increase the availability of incident response-related information and support?
+functionGrouping: Respond
+controlWeighting: '1'
+parent: iro-11
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

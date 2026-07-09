@@ -1,0 +1,39 @@
+id: b7f13789-eab5-53f1-b3d6-bef9f6c011ee
+name: Non-Organizationally Owned Systems / Components / Devices
+description: Mechanisms exist to restrict the use of non-organizationally owned information systems, system components or devices to process, store or transmit organizational information.
+elementType: enhancement
+externalId: DCH-13.4
+controlQuestion: Does the organization restrict the use of non-organizationally owned information systems, system components or devices to process, store or transmit organizational information?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: dch-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

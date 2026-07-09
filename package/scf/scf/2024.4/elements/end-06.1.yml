@@ -1,0 +1,39 @@
+id: 1b126aef-6a69-5d2f-ba43-ece8376a24b1
+name: Integrity Checks
+description: Mechanisms exist to validate configurations through integrity checking of software and firmware.
+elementType: enhancement
+externalId: END-06.1
+controlQuestion: Does the organization validate configurations through integrity checking of software and firmware?
+functionGrouping: Detect
+controlWeighting: '6'
+parent: end-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

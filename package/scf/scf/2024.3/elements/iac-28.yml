@@ -1,0 +1,39 @@
+id: 84fac617-81a9-51fd-a0d6-07cd05d39b21
+name: Identity Proofing (Identity Verification)
+description: Mechanisms exist to verify the identity of a user before issuing authenticators or modifying access permissions.
+elementType: control
+externalId: IAC-28
+controlQuestion: Does the organization verify the identity of a user before issuing authenticators or modifying access permissions?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

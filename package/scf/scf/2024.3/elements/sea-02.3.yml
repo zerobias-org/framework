@@ -1,0 +1,39 @@
+id: fc0406f2-b5da-5c3a-8125-5053c50215e2
+name: Technical Debt Reviews
+description: Mechanisms exist to conduct ongoing “technical debt” reviews of hardware and software technologies to remediate outdated and/or unsupported technologies.
+elementType: enhancement
+externalId: SEA-02.3
+controlQuestion: Does the organization conduct ongoing “technical debt” reviews of hardware and software technologies to remediate outdated and/or unsupported technologies?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: sea-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

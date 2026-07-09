@@ -1,0 +1,39 @@
+id: 82578424-b965-59b7-abfd-277769459049
+name: Biometric Authentication
+description: Mechanisms exist to ensure biometric-based authentication satisfies organization-defined biometric quality requirements for false positives and false negatives.
+elementType: enhancement
+externalId: IAC-10.12
+controlQuestion: Does the organization ensure biometric-based authentication satisfies organization-defined biometric quality requirements for false positives and false negatives?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

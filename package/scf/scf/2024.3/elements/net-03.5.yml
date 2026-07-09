@@ -1,0 +1,39 @@
+id: 5db08744-e2dd-59b2-9124-e73c43d84261
+name: Prevent Unauthorized Exfiltration
+description: Automated mechanisms exist to prevent the unauthorized exfiltration of sensitive/regulated data across managed interfaces.
+elementType: enhancement
+externalId: NET-03.5
+controlQuestion: Does the organization use automated mechanisms to prevent the unauthorized exfiltration of sensitive/regulated data across managed interfaces?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

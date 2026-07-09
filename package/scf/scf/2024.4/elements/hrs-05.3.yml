@@ -1,0 +1,39 @@
+id: 97e686cd-f3cc-5c2a-9e77-9e10c3283f3d
+name: Use of Communications Technology
+description: Mechanisms exist to establish usage restrictions and implementation guidance for communications technologies based on the potential to cause damage to systems, if used maliciously.
+elementType: enhancement
+externalId: HRS-05.3
+controlQuestion: Does the organization establish usage restrictions and implementation guidance for communications technologies based on the potential to cause damage to systems, if used maliciously?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

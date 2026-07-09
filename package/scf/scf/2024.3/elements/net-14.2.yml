@@ -1,0 +1,39 @@
+id: dd84c15d-5f7a-59ab-879d-b9e07a4efc26
+name: Protection of Confidentiality / Integrity Using Encryption
+description: Cryptographic mechanisms exist to protect the confidentiality and integrity of remote access sessions (e.g., VPN).
+elementType: enhancement
+externalId: NET-14.2
+controlQuestion: Are cryptographic mechanisms utilized to protect the confidentiality and integrity of remote access sessions (e.g., VPN)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: net-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

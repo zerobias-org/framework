@@ -1,0 +1,39 @@
+id: 7b89bd49-a5e0-5579-abee-2dc08977597e
+name: Individuals Posing Greater Risk
+description: Mechanisms exist to implement enhanced activity monitoring for individuals who have been identified as posing an increased level of risk.
+elementType: enhancement
+externalId: MON-01.14
+controlQuestion: Does the organization implement enhanced activity monitoring for individuals who have been identified as posing an increased level of risk?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

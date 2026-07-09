@@ -1,0 +1,39 @@
+id: 571b26da-f46b-581e-8b6b-5a3a8775cf77
+name: AI TEVV Fairness & Bias Assessment
+description: Mechanisms exist to examine fairness and bias of Artificial Intelligence (AI) and Autonomous Technologies (AAT) to be deployed.
+elementType: enhancement
+externalId: AAT-10.8
+controlQuestion: Does the organization examine fairness and bias of Artificial Intelligence (AI) and Autonomous Technologies (AAT) to be deployed?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: aat-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

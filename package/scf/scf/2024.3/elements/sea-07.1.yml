@@ -1,0 +1,39 @@
+id: 5d1e44a0-b7a4-5cf4-a69d-19710ec33d78
+name: Technology Lifecycle Management
+description: Mechanisms exist to manage the usable lifecycles of technology assets.
+elementType: enhancement
+externalId: SEA-07.1
+controlQuestion: Does the organization manage the usable lifecycles of technology assets?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: sea-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

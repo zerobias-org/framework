@@ -1,0 +1,39 @@
+id: 8c86cd45-702a-5960-be33-e31a5ebd2e11
+name: Invalidate Session Identifiers at Logout
+description: Automated mechanisms exist to invalidate session identifiers upon user logout or other session termination.
+elementType: enhancement
+externalId: NET-09.1
+controlQuestion: Does the organization use automated mechanisms to invalidate session identifiers upon user logout or other session termination?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5
