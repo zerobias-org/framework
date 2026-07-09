@@ -1,9 +1,0 @@
-id: c82b60bb-fd6b-4e32-bd6a-5befef9bfd82
-externalId: F001
-name: Prevent AI cyber misuse
-description: >-
-  Implement or document guardrails to prevent AI-enabled misuse for cyber
-  attacks and exploitation. Control type: Preventative. Mandatory: Yes.
-  Capabilities: Text-generation, Automation, Voice-generation.
-elementType: requirement
-parent: domain_f
