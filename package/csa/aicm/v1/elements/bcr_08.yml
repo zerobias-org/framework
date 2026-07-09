@@ -1,7 +1,0 @@
-id: 54055bd4-6243-469f-8c20-612e25e2ef91
-externalId: BCR-08
-name: Backup
-description: >-
-  Periodically perform backups. Ensure the confidentiality, integrity  and availability of the backup, and verify restoration from backup for resiliency.
-elementType: control
-parent: domain_bcr

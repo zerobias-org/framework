@@ -1,7 +1,0 @@
-id: 25828c14-386e-4678-81de-e5d3e7a9394c
-externalId: LOG-03
-name: Security Monitoring and Alerting
-description: >-
-  Identify and monitor security-related events within applications,  the underlying infrastructure, supply chain, and consider logging  other events based on risk evaluation. Define and implement a  system to generate alerts to responsible stakeholders based on such  events and corresponding metrics.
-elementType: control
-parent: domain_log

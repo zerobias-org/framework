@@ -1,7 +1,0 @@
-id: 826632da-8565-49ba-86bf-637069dee969
-externalId: DSP-23
-name: Data Integrity Check
-description: >-
-  Regularly validate the consistency and conformity of training, fine-tuning or augmentation data. Implement dataset versioning to ensure traceability and enforce restrictions to prevent unauthorized changes.
-elementType: control
-parent: domain_dsp

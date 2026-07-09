@@ -1,7 +1,0 @@
-id: d00f4423-1011-4729-a822-f0e9f8e2758e
-externalId: LOG-14
-name: Input Monitoring
-description: >-
-  Log and monitor all input events (content and metadata) to enable auditing and reporting on the usage of AI models.
-elementType: control
-parent: domain_log
