@@ -1,0 +1,39 @@
+id: ff394849-fb01-5e67-be4e-db9caa33e437
+name: Third-Party Cryptographic Keys
+description: Mechanisms exist to ensure customers are provided with appropriate key management guidance whenever cryptographic keys are shared.
+elementType: enhancement
+externalId: CRY-09.6
+controlQuestion: Does the organization ensure customers are provided with appropriate key management guidance whenever cryptographic keys are shared?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: cry-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

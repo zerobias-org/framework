@@ -1,0 +1,39 @@
+id: 9751db61-4764-5a18-b5a6-1c3b0cc7649d
+name: Incident Handling
+description: "Mechanisms exist to cover:\r\n (1) Preparation;\r\n (2) Automated event detection or manual incident report intake;\r\n (3) Analysis;\r\n (4) Containment;\r\n (5) Eradication; and\r\n (6) Recovery."
+elementType: control
+externalId: IRO-02
+controlQuestion: "Does the organization cover:\r\n (1) Preparation;\r\n (2) Automated event detection or manual incident report intake;\r\n (3) Analysis;\r\n (4) Containment;\r\n (5) Eradication; and\r\n (6) Recovery?"
+functionGrouping: Respond
+controlWeighting: '10'
+parent: iro
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

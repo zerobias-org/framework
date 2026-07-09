@@ -1,0 +1,39 @@
+id: e9e2880b-7a47-5691-8516-97960a2a24ff
+name: Software & Firmware Patching
+description: Mechanisms exist to conduct software patching for all deployed operating systems, applications and firmware.
+elementType: control
+externalId: VPM-05
+controlQuestion: Does the organization conduct software patching for all deployed operating systems, applications and firmware?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: vpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

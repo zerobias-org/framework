@@ -1,0 +1,39 @@
+id: 890672c1-f1b9-5ef5-bc06-70fc5e0b3461
+name: Fire Protection
+description: Facility security mechanisms exist to utilize and maintain fire suppression and detection devices/systems for the system that are supported by an independent energy source.
+elementType: control
+externalId: PES-08
+controlQuestion: Does the organization utilize and maintain fire suppression and detection devices/systems for the system that are supported by an independent energy source?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

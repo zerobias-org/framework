@@ -1,0 +1,39 @@
+id: 9a9685a3-333d-5e83-a1a5-3d6312eba44e
+name: Acceptance of Third-Party Credentials
+description: Automated mechanisms exist to accept Federal Identity, Credential and Access Management (FICAM)-approved third-party credentials.
+elementType: enhancement
+externalId: IAC-03.2
+controlQuestion: Does the organization use automated mechanisms to accept Federal Identity, Credential and Access Management (FICAM)-approved third-party credentials?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: iac-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

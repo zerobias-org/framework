@@ -1,0 +1,39 @@
+id: 21bc4297-b738-5eb0-b774-d2a5e77a0f2e
+name: Physical & Environmental Protections
+description: Mechanisms exist to facilitate the operation of physical and environmental protection controls.
+elementType: control
+externalId: PES-01
+controlQuestion: Does the organization facilitate the operation of physical and environmental protection controls?
+functionGrouping: Govern
+controlWeighting: '9'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

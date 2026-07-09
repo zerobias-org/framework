@@ -1,0 +1,39 @@
+id: cdcf713d-a6f9-57a1-aef3-6fe5290a4415
+name: Federated Credential Management
+description: Mechanisms exist to federate credentials to allow cross-organization authentication of individuals and devices.
+elementType: enhancement
+externalId: IAC-13.2
+controlQuestion: Does the organization federate credentials to allow cross-organization authentication of individuals and devices?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: iac-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

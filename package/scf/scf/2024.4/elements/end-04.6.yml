@@ -1,0 +1,39 @@
+id: 18fb8134-57e9-5a49-86d1-2fefaad1958e
+name: Evolving Malware Threats
+description: Mechanisms exist to perform periodic evaluations evolving malware threats to assess systems that are generally not considered to be commonly affected by malicious software.
+elementType: enhancement
+externalId: END-04.6
+controlQuestion: Does the organization perform periodic evaluations evolving malware threats to assess systems that are generally not considered to be commonly affected by malicious software?
+functionGrouping: Detect
+controlWeighting: '3'
+parent: end-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

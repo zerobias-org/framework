@@ -1,0 +1,39 @@
+id: 9c097ad6-d869-5b2d-b44d-1f31d5808fa7
+name: Inventory of Personal Data
+description: Mechanisms exist to establish, maintain and update an inventory that contains a listing of all programs and systems identified as collecting, using, maintaining, or sharing Personal Data (PD).
+elementType: enhancement
+externalId: PRI-05.5
+controlQuestion: Does the organization establish, maintain and update an inventory that contains a listing of all programs and systems identified as collecting, using, maintaining, or sharing Personal Data (PD)?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: pri-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 8bf065d5-be2f-5865-b297-e695ac4e0551
+name: Timely Maintenance
+description: Mechanisms exist to obtain maintenance support and/or spare parts for systems within a defined Recovery Time Objective (RTO).
+elementType: control
+externalId: MNT-03
+controlQuestion: Does the organization obtain maintenance support and/or spare parts for systems within a defined Recovery Time Objective (RTO)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: mnt
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to obtain maintenance support and/ or spare parts for systems within a defined Recovery Time Objective (RTO).
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Maintenance (MNT) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT personnel use an informal process to implement secure and timely technology asset-specific maintenance operations, including preventative and reactive maintenance operations.\n•\tFacilities management uses an informal process to facilitate the secure and timely implementation of non-IT maintenance operations, including preventative and reactive maintenance operations.\n•\tMaintenance operations are decentralized both in terms of change management and execution.\n•\tMaintenance controls are primarily administrative in nature (e.g., policies & standards) to manage change control processes associated with maintenance operations."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Maintenance (MNT) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tTechnology asset maintenance is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls to appropriately address applicable statutory, regulatory and contractual requirements for technology asset maintenance.\no\tDevelop and disseminate formal guidance to facilitate a localized/regionalized process to implement secure and timely technology asset-specific maintenance operations, including preventative and reactionary maintenance operations.\n•\tMaintenance controls are primarily administrative in nature (e.g., policies & standards) to manage change control processes associated with maintenance operations.\n•\tAsset custodians develop and maintain formalized procedures to conduct controlled and timely maintenance activities throughout the lifecycle of the system, application or service.\n•\tMaintenance operations may be centralized for certain locations (e.g., datacenters) and decentralized for other locations, both in terms of change management and execution.\n•\tFacilities management uses a localized/regionalized process to facilitate the secure and timely implementation of non-IT maintenance operations, including preventative and reactionary maintenance operations."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Maintenance (MNT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT/cybersecurity personnel develop and disseminate formal practices to implement enterprise-wide capability to conduct secure and timely technology asset-specific maintenance operations, including preventative and reactionary maintenance operations.\n•\tTechnology asset-related maintenance operations are centralized in terms of change management and governance. Local/regional practices fall under the broader enterprise-wide technology asset maintenance program.\n•\tFacilities management uses an enterprise-wide process to facilitate the secure and timely implementation of non-IT maintenance operations, including preventative and reactionary maintenance operations. Local/regional practices fall under the broader enterprise-wide facilities management program.\n•\tA Change Control Board (CCB), or similar function, centrally manages the process of IT and non-IT maintenance operations to reduce the chance of business interruptions from maintenance operations."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Maintenance (MNT) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to obtain maintenance support and/ or spare parts for systems within a defined Recovery Time Objective (RTO).
+  available: false
+  value: 5

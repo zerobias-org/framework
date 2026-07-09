@@ -1,0 +1,39 @@
+id: 37e9239d-85e0-5d2e-8fc6-fb38f3c46e25
+name: Information Disposal
+description: Mechanisms exist to securely dispose of, destroy or erase information.
+elementType: control
+externalId: DCH-21
+controlQuestion: Does the organization securely dispose of, destroy or erase information?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

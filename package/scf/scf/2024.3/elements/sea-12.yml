@@ -1,0 +1,39 @@
+id: 74a8c0b0-2bc3-5a5b-bfbb-378e041debf7
+name: Honeyclients
+description: Mechanisms exist to utilize honeyclients that proactively seek to identify malicious websites and/or web-based malicious code.
+elementType: control
+externalId: SEA-12
+controlQuestion: Does the organization utilize honeyclients that proactively seek to identify malicious websites and/or web-based malicious code?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

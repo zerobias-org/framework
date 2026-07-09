@@ -1,0 +1,39 @@
+id: 91dbb24e-50d1-5b2b-8d28-8df50499bf96
+name: Plan of Action & Milestones (POA&M) Automation
+description: Automated mechanisms exist to help ensure the Plan of Action and Milestones (POA&M), or similar risk register, is accurate, up-to-date and readily-available.
+elementType: enhancement
+externalId: IAO-05.1
+controlQuestion: Does the organization use automated mechanisms to help ensure the Plan of Action and Milestones (POA&M), or similar risk register, is accurate, up-to-date and readily-available?
+functionGrouping: Detect
+controlWeighting: '2'
+parent: iao-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

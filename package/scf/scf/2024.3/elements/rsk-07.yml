@@ -1,0 +1,39 @@
+id: 9f99a688-7e93-5033-89ad-6db78c4b3b65
+name: Risk Assessment Update
+description: Mechanisms exist to routinely update risk assessments and react accordingly upon identifying new security vulnerabilities, including using outside sources for security vulnerability information.
+elementType: control
+externalId: RSK-07
+controlQuestion: Does the organization routinely update risk assessments and react accordingly upon identifying new security vulnerabilities, including using outside sources for security vulnerability information?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: rsk
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

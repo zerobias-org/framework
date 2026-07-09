@@ -1,0 +1,39 @@
+id: 77f6903c-3c2e-5f6c-8f1d-e33e199d22f0
+name: Coordinate with Related Plans
+description: Mechanisms exist to coordinate contingency plan development with internal and external elements responsible for related plans.
+elementType: enhancement
+externalId: BCD-01.1
+controlQuestion: Does the organization coordinate contingency plan development with internal and external elements responsible for related plans?
+functionGrouping: Recover
+controlWeighting: '5'
+parent: bcd-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

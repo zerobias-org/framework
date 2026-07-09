@@ -1,0 +1,39 @@
+id: f11f0d3a-8a90-5c4f-b605-1ecaf88dab68
+name: Data Privacy Records & Reporting
+description: Mechanisms exist to maintain data privacy-related records and develop, disseminate and update reports to internal senior management, as well as external oversight bodies, as appropriate, to demonstrate accountability with specific statutory and regulatory data privacy program mandates.
+elementType: control
+externalId: PRI-14
+controlQuestion: Does the organization maintain data privacy-related records and develop, disseminate and update reports to internal senior management, as well as external oversight bodies, as appropriate, to demonstrate accountability with specific statutory and regulatory data privacy program mandates?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

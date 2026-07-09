@@ -1,0 +1,39 @@
+id: c43e360f-6bbe-59d6-b602-0701ab40980f
+name: Cyber Threat Environment
+description: Mechanisms exist to provide role-based cybersecurity & data privacy awareness training that is specific to the cyber threats that the user might encounter the user's specific day-to-day business operations.
+elementType: enhancement
+externalId: SAT-03.6
+controlQuestion: Does the organization provide role-based cybersecurity & data privacy awareness training that is specific to the cyber threats that the user might encounter the user's specific day-to-day business operations?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: sat-03
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to provide role-based cybersecurity & data privacy awareness training that is specific to the cyber threats that the user might encounter the user's specific day-to-day business operations.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to provide role-based cybersecurity & data privacy awareness training that is specific to the cyber threats that the user might encounter the user's specific day-to-day business operations.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Security Awareness & Training (SAT) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tTraining and awareness activities are decentralized (e.g., a localized/regionalized function) and use non-standardized methods to implement secure and compliant practices.\n•\tThe Human Resources (HR) department works with cybersecurity personnel to facilitate workforce development and awareness to help ensure secure practices are implemented.\n•\tSecurity awareness and training methods are role-based (e.g., handling sensitive/regulated data).\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls to address applicable statutory, regulatory and contractual requirements for security training and awareness activities.\no\tCreate/govern security and awareness training to meet specific statutory, regulatory and/ or contractual compliance obligations.\no\tSelf-manage their professional certification requirements to support their assigned duties."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Security Awareness & Training (SAT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Governance, Risk & Compliance (GRC) function, or similar function:\no\tProvides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity & data privacy controls to protect the confidentiality, integrity, availability and safety of the organization’s applications, systems, services and data with regards to security awareness and training.\no\tDefines minimum cybersecurity training (including certifications) for personnel, based on their specific roles.\no\tCreates/governs security and awareness training to meet specific statutory, regulatory and/ or contractual compliance obligations.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity & data privacy program, including security awareness and training.\n•\tSecurity awareness and training methods are role-based (e.g., handling sensitive/regulated data).\n•\tThe Human Resources (HR) department:\no\tIdentifies and implements industry-recognized HR practices related to security workforce development and awareness to help ensure secure practices are implemented in personnel management operations.\no\tDocuments, retains and monitors individual training activities, including basic security awareness training, ongoing awareness training and specific-system training.\no\tEnsures that every user accessing a system processing, storing or transmitting sensitive/regulated data is formally trained in data handling requirements.\no\tEnsures all employees and contractors receive awareness education and training that is relevant for their job function, including social engineering-related threats."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to provide role-based cybersecurity & data privacy awareness training that is specific to the cyber threats that the user might encounter the user's specific day-to-day business operations.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to provide role-based cybersecurity & data privacy awareness training that is specific to the cyber threats that the user might encounter the user's specific day-to-day business operations.
+  available: false
+  value: 5

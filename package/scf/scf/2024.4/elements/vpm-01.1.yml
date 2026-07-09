@@ -1,0 +1,39 @@
+id: b4e3d363-c801-5a48-a2a6-0253e3c19ebb
+name: Attack Surface Scope
+description: Mechanisms exist to define and manage the scope for its attack surface management activities.
+elementType: enhancement
+externalId: VPM-01.1
+controlQuestion: Does the organization define and manage the scope for its attack surface management activities?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: vpm-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

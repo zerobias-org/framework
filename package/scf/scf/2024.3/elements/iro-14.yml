@@ -1,0 +1,39 @@
+id: fd263a42-3330-5237-8ed0-0681c2d664ad
+name: Regulatory & Law Enforcement Contacts
+description: Mechanisms exist to maintain incident response contacts with applicable regulatory and law enforcement agencies.
+elementType: control
+externalId: IRO-14
+controlQuestion: Does the organization maintain incident response contacts with applicable regulatory and law enforcement agencies?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: iro
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

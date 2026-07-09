@@ -1,0 +1,39 @@
+id: 0d70ff7e-1040-5eef-a738-5abb2027c73d
+name: Measuring AI & Autonomous Technologies Effectiveness
+description: Mechanisms exist to regularly assess the effectiveness of existing controls, including reports of errors and potential impacts on affected communities.
+elementType: enhancement
+externalId: AAT-16.2
+controlQuestion: Does the organization regularly assess the effectiveness of existing controls, including reports of errors and potential impacts on affected communities?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: aat-16
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to regularly assess the effectiveness of existing controls, including reports of errors and potential impacts on affected communities.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to regularly assess the effectiveness of existing controls, including reports of errors and potential impacts on affected communities.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to regularly assess the effectiveness of existing controls, including reports of errors and potential impacts on affected communities.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Artificial Intelligence and Autonomous Technology (AAT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tLegal reviews are conducted to minimize the inadvertent infringement of third-party Intellectual Property (IP) rights through the use of AAT products and/ or services.\n•\tAAT-specific compliance requirements for cybersecurity & data privacy are identified and documented.\n•\tGovernance function for AAT is formally assigned with defined roles and associated responsibilities.\n•\tA Program Management Office (PMO), or similar function, tracks and reports on activities related to the mapping, measuring and managing of AAT.\n•\tSecure engineering principles are identified and implemented to ensure AAT are designed to be reliable, safe, fair, secure, resilient, transparent, explainable and data privacy-enhanced to minimize emergent properties or unintended consequences.\n•\tRobust development and pre-deployment functionality, security and data privacy testing is conducted on all internal and third-party AAT projects.\n•\tProduction use of AAT is closely monitored to minimize emergent properties or unintended consequences."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to regularly assess the effectiveness of existing controls, including reports of errors and potential impacts on affected communities.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to regularly assess the effectiveness of existing controls, including reports of errors and potential impacts on affected communities.
+  available: false
+  value: 5

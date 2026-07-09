@@ -1,0 +1,39 @@
+id: 821dc8a5-7d81-53d0-85a4-547e8ad19ffc
+name: Backup & Restoration Hardware Protection
+description: Mechanisms exist to protect backup and restoration hardware and software.
+elementType: control
+externalId: BCD-13
+controlQuestion: Does the organization protect backup and restoration hardware and software?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: bcd
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

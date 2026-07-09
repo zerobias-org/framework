@@ -1,0 +1,39 @@
+id: 5349d3ae-a48a-55ca-99bd-29e869e3384d
+name: Trend Analysis Reporting
+description: Mechanisms exist to employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/or the types of activities used in the continuous monitoring process need to be modified based on empirical data.
+elementType: enhancement
+externalId: MON-06.2
+controlQuestion: Does the organization employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/or the types of activities used in the continuous monitoring process need to be modified based on empirical data?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: mon-06
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/ or the types of activities used in the continuous monitoring process need to be modified based on empirical data.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/ or the types of activities used in the continuous monitoring process need to be modified based on empirical data.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/ or the types of activities used in the continuous monitoring process need to be modified based on empirical data.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Continuous Monitoring (MON) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function:\no\tGoverns asset management that ensures compliance with requirements for asset management.\no\tLeverages a Configuration Management Database (CMDB), or similar tool, as the authoritative source of IT assets.\n•\tA Security Incident Event Manager (SIEM), or similar automated tool:\no\tCentrally collects logs and is protected according to the manufacturer’s security guidelines to protect the integrity of the event logs with cryptographic mechanisms.\no\tMonitors the organization for Indicators of Compromise (IoC) and provides 24x7x365 near real-time alerting capability.\no\tIs configured to alert incident response personnel of detected suspicious events such that incident responders can look to terminate suspicious events.\n•\tBoth inbound and outbound network traffic is monitored for unauthorized activities to identify prohibited activities and assist incident handlers with identifying potentially compromised systems.\n•\tAdministrative processes exist and a SIEM, or similar automated tool, is configured to perform trend analysis to assist in the determination if security control implementations, the frequency of continuous monitoring activities, and/ or the types of activities used in the continuous monitoring process need to be modified based on empirical data.\n•\tThe organization sets specific parameters on what type of audit information is permitted to be shared and what cannot be shared with third-parties, even with a NDA in place."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/ or the types of activities used in the continuous monitoring process need to be modified based on empirical data.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/ or the types of activities used in the continuous monitoring process need to be modified based on empirical data.
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 2b4627cf-56d1-5d8d-a112-ae62d7f3c0d5
+name: Automated Central Management & Verification
+description: Automated mechanisms exist to govern and report on baseline configurations of systems through Continuous Diagnostics and Mitigation (CDM), or similar technologies.
+elementType: enhancement
+externalId: CFG-02.2
+controlQuestion: Does the organization use automated mechanisms to govern and report on baseline configurations of systems through Continuous Diagnostics and Mitigation (CDM), or similar technologies?
+functionGrouping: Detect
+controlWeighting: '7'
+parent: cfg-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

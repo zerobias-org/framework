@@ -1,0 +1,39 @@
+id: 5e4a9e02-6d3d-5827-86e9-35f93cd89736
+name: Suspicious Communications & Anomalous System Behavior
+description: Mechanisms exist to provide training to personnel on organization-defined indicators of malware to recognize suspicious communications and anomalous behavior.
+elementType: enhancement
+externalId: SAT-03.2
+controlQuestion: Does the organization provide training to personnel on organization-defined indicators of malware to recognize suspicious communications and anomalous behavior?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: sat-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: f67660f2-3741-5306-b681-b951a8ad3d00
+name: Re-Authentication
+description: Mechanisms exist to force users and devices to re-authenticate according to organization-defined circumstances that necessitate re-authentication.
+elementType: control
+externalId: IAC-14
+controlQuestion: Does the organization force users and devices to re-authenticate according to organization-defined circumstances that necessitate re-authentication?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

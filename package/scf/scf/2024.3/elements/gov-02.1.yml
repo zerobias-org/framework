@@ -1,0 +1,39 @@
+id: 610cde00-6a9f-5bf5-95c5-739e1cbf34ab
+name: Exception Management
+description: Mechanisms exist to prohibit exceptions to standards, except when the exception has been formally assessed for risk impact, approved and recorded.
+elementType: enhancement
+externalId: GOV-02.1
+controlQuestion: Does the organization prohibit exceptions to standards, except when the exception has been formally assessed for risk impact, approved and recorded?
+functionGrouping: Govern
+controlWeighting: '8'
+parent: gov-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

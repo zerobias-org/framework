@@ -1,0 +1,39 @@
+id: b22e0764-f0dd-5a2b-9bd2-fc67eb68ef3c
+name: Continuous Incident Response Improvements
+description: "Mechanisms exist to use qualitative and quantitative data from incident response testing to: \r\n▪Determine the effectiveness of incident response processes;\r\n▪Continuously improve incident response processes; and\r\n▪Provide incident response measures and metrics that are accurate, consistent, and in a reproducible format."
+elementType: enhancement
+externalId: IRO-04.3
+controlQuestion: "Does the organization use qualitative and quantitative data from incident response testing to: \r\n▪Determine the effectiveness of incident response processes;\r\n▪Continuously improve incident response processes; and\r\n▪Provide incident response measures and metrics that are accurate, consistent, and in a reproducible format?"
+functionGrouping: Identify
+controlWeighting: '3'
+parent: iro-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

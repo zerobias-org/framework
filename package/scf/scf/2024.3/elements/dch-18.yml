@@ -1,0 +1,39 @@
+id: f740763d-69f2-5165-9c82-d84ea18b24fc
+name: Media & Data Retention
+description: Mechanisms exist to retain media and data in accordance with applicable statutory, regulatory and contractual obligations.
+elementType: control
+externalId: DCH-18
+controlQuestion: Does the organization retain media and data in accordance with applicable statutory, regulatory and contractual obligations?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

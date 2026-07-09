@@ -1,0 +1,39 @@
+id: 82f5d402-2676-5bce-873f-223809ee0834
+name: Business Impact Analysis (BIA)
+description: Mechanisms exist to conduct a Business Impact Analysis (BIA) to identify and assess cybersecurity and data protection risks.
+elementType: control
+externalId: RSK-08
+controlQuestion: Does the organization conduct a Business Impact Analysis (BIA) to identify and assess cybersecurity and data protection risks?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: rsk
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 42424391-cef6-547d-be6b-c33f5e8328e6
+name: Heuristic / Nonsignature-Based Detection
+description: Mechanisms exist to utilize heuristic / nonsignature-based antimalware detection capabilities.
+elementType: enhancement
+externalId: END-04.4
+controlQuestion: Does the organization utilize heuristic / nonsignature-based antimalware detection capabilities?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: end-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

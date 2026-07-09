@@ -1,0 +1,39 @@
+id: be774b45-e338-57ba-94b9-75befb35ee75
+name: Boot Process Integrity
+description: Automated mechanisms exist to verify the integrity of the boot process of information systems.
+elementType: enhancement
+externalId: END-06.5
+controlQuestion: Does the organization use automated mechanisms to verify the integrity of the boot process of information systems?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: end-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

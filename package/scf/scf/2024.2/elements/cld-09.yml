@@ -1,0 +1,40 @@
+id: b5f4ba51-1021-5c5b-8e35-b7eb64a12bd8
+name: Geolocation Requirements for Processing, Storage and Service Locations
+description: Mechanisms exist to control the location of cloud processing/storage based on business requirements that includes statutory, regulatory and contractual obligations.
+elementType: control
+externalId: CLD-09
+controlQuestion: Does the organization control the location of cloud processing/storage based on business requirements that includes statutory, regulatory and contractual obligations?
+methodsToComply: '- Data Protection Impact Assessment (DPIA)'
+functionGrouping: Protect
+controlWeighting: '10'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to control the location of cloud processing/storage based on business requirements that includes statutory, regulatory and contractual obligations.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Cloud Security (CLD) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCloud-based technologies are governed no differently from on-premise network assets (e.g., cloud-based technology is viewed as an extension of the corporate network).\n•\tA Shared Responsibility Matrix (SRM), or similar Customer Responsibility Matrix (CRM), is documented for each Cloud Service Providers (CSPs) instance that takes into account differences between Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) methodologies."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Cloud Security (CLD) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCloud security management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for cloud security management.\no\tUse an informal process to govern cloud-specific cybersecurity & data privacy-specific tools.\n•\tA Shared Responsibility Matrix (SRM), or similar Customer Responsibility Matrix (CRM), is documented for each Cloud Service Providers (CSPs) instance that takes into account differences between Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) methodologies.\n•\tIT personnel have a documented architecture for cloud-based technologies to support cybersecurity and data protection requirements.\n•\tCybersecurity and data privacy requirements are identified and documented for cloud-specific sensitive/regulated data processing, storing and/ or transmitting, including restrictions on data processing and storage locations."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cloud Security (CLD) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tRoles and associated responsibilities for governing cloud instances, including provisioning, maintaining and deprovisioning, are formally assigned.\n•\tA Shared Responsibility Matrix (SRM), or similar Customer Responsibility Matrix (CRM), is documented for each Cloud Service Providers (CSPs) instance that takes into account differences between Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) methodologies.\n•\tIT architects, in conjunction with cybersecurity architects:\no\tEnsure the cloud security architecture supports the organization's technology strategy to securely design, configure and maintain cloud employments.\no\tEnsure multi-tenant CSP assets (physical and virtual) are designed and governed such that provider and customer (tenant) user access is appropriately segmented from other tenant users.\no\tEnsure CSPs use secure protocols for the import, export and management of data in cloud-based services.\no\tImplement a dedicated subnet to host security-specific technologies on all cloud instances, where technically feasible.\n•\tA Change Advisory Board (CAB), or similar function:\no\tGoverns changes to cloud-based systems, applications and services to ensure their stability, reliability and predictability.\no\tReviews processes to identify and prevent use of unapproved CSPs.\n•\tA dedicated IT infrastructure team, or similar function, enables the implementation of cloud management controls to ensure cloud instances are both secure and compliant, leveraging industry-recognized secure practices that are CSP-specific.\n•\tCybersecurity and data privacy requirements are identified and documented for each CSP instance to address sensitive/regulated data processing, storing and/ or transmitting and provide restrictions on data processing and storage locations.\n•\tA Data Protection Impact Assessment (DPIA) is used to help ensure the protection of sensitive/regulated data processed, stored or transmitted on external systems."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Cloud Security (CLD) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: "Cloud Security (CLD) efforts are “world-class” capabilities that leverage predictive analysis (e.g., machine learning, AI, etc.). In addition to CMM Level 4 criteria, CMM Level 5 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tStakeholders make time-sensitive decisions to support operational efficiency, which may include automated remediation actions.\n▪ \tBased on predictive analysis, process improvements are implemented according to “continuous improvement” practices that affect process changes."
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 1f53e054-2da4-5614-81bd-a98b417b5c0e
+name: Phishing & Spam Protection
+description: Mechanisms exist to utilize anti-phishing and spam protection technologies to detect and take action on unsolicited messages transported by electronic mail.
+elementType: control
+externalId: END-08
+controlQuestion: Does the organization utilize anti-phishing and spam protection technologies to detect and take action on unsolicited messages transported by electronic mail?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: end
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

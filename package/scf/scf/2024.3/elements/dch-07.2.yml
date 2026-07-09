@@ -1,0 +1,39 @@
+id: 77060fb4-78fd-57eb-adfc-44d3b803cba6
+name: Encrypting Data In Storage Media
+description: Cryptographic mechanisms exist to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas.
+elementType: enhancement
+externalId: DCH-07.2
+controlQuestion: Are cryptographic mechanisms utilized to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: dch-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

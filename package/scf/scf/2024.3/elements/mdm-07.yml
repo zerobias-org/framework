@@ -1,0 +1,39 @@
+id: d3991e8a-f7aa-5ce3-988d-80a38f260d2f
+name: Organization-Owned Mobile Devices
+description: Mechanisms exist to prohibit the installation of non-approved applications or approved applications not obtained through the organization-approved application store.
+elementType: control
+externalId: MDM-07
+controlQuestion: Does the organization prohibit the installation of non-approved applications or approved applications not obtained through the organization-approved application store?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

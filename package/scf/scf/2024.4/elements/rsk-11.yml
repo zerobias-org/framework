@@ -1,0 +1,39 @@
+id: 6054645e-820e-57a3-8f47-c366c1a27597
+name: Risk Monitoring
+description: Mechanisms exist to ensure risk monitoring as an integral part of the continuous monitoring strategy that includes monitoring the effectiveness of cybersecurity & data privacy controls, compliance and change management.
+elementType: control
+externalId: RSK-11
+controlQuestion: Does the organization ensure risk monitoring as an integral part of the continuous monitoring strategy that includes monitoring the effectiveness of cybersecurity & data privacy controls, compliance and change management?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: rsk
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

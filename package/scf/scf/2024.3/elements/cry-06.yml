@@ -1,0 +1,39 @@
+id: c05fa321-a319-514e-87e7-526033a4819a
+name: Non-Console Administrative Access
+description: Cryptographic mechanisms exist to protect the confidentiality and integrity of non-console administrative access.
+elementType: control
+externalId: CRY-06
+controlQuestion: Are cryptographic mechanisms utilized to protect the confidentiality and integrity of non-console administrative access?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cry
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

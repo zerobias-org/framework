@@ -1,0 +1,39 @@
+id: 93c74d3b-8b2e-5ad3-9790-ed71aded9d2a
+name: Security Orchestration, Automation, and Response (SOAR)
+description: Mechanisms exist to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+elementType: control
+externalId: OPS-06
+controlQuestion: Does the organization utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: ops
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Security Operations (OPS) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function, manages cybersecurity operations that covers preparation, detection and analysis, containment, eradication and recovery.\n•\tProcedures are standardized across the enterprise to ensure uniformity and consistent execution. These Standardized Operating Procedures (SOP) identify and document day-to-day procedures to enable the proper execution of assigned tasks.\n•\tLine of Business (LOB) stakeholders are identified and tasked with documenting business-critical functions in “run books,” or SOPs, to capture the knowledge in documentation form from both a business and technology perspective."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+  available: false
+  value: 5

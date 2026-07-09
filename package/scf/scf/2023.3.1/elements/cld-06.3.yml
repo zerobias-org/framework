@@ -1,0 +1,39 @@
+id: 9ba464c2-d08f-548d-88c3-665280d85f8c
+name: Multi-Tenant Forensics Capabilities
+description: Mechanisms exist to ensure Multi-Tenant Service Providers (MTSP) facilitate prompt forensic investigations in the event of a suspected or confirmed security incident.
+elementType: enhancement
+externalId: CLD-06.3
+controlQuestion: Does the organization ensure Multi-Tenant Service Providers (MTSP) facilitate prompt forensic investigations in the event of a suspected or confirmed security incident?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: cld-06
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to ensure Multi-Tenant Service Providers (MTSP) facilitate prompt forensic investigations in the event of a suspected or confirmed security incident.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to ensure Multi-Tenant Service Providers (MTSP) facilitate prompt forensic investigations in the event of a suspected or confirmed security incident.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Cloud Security (CLD) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCloud security management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for cloud security management.\no\tUse an informal process to govern cloud-specific cybersecurity & data privacy-specific tools.\n•\tA Shared Responsibility Matrix (SRM), or similar Customer Responsibility Matrix (CRM), is documented for each Cloud Service Providers (CSPs) instance that takes into account differences between Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) methodologies.\n•\tIT personnel have a documented architecture for cloud-based technologies to support cybersecurity and data protection requirements.\n•\tCybersecurity and data privacy requirements are identified and documented for cloud-specific sensitive/regulated data processing, storing and/ or transmitting, including restrictions on data processing and storage locations."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cloud Security (CLD) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tRoles and associated responsibilities for governing cloud instances, including provisioning, maintaining and deprovisioning, are formally assigned.\n•\tA Shared Responsibility Matrix (SRM), or similar Customer Responsibility Matrix (CRM), is documented for each Cloud Service Providers (CSPs) instance that takes into account differences between Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) methodologies.\n•\tIT architects, in conjunction with cybersecurity architects:\no\tEnsure the cloud security architecture supports the organization's technology strategy to securely design, configure and maintain cloud employments.\no\tEnsure multi-tenant CSP assets (physical and virtual) are designed and governed such that provider and customer (tenant) user access is appropriately segmented from other tenant users.\no\tEnsure CSPs use secure protocols for the import, export and management of data in cloud-based services.\no\tImplement a dedicated subnet to host security-specific technologies on all cloud instances, where technically feasible.\n•\tA Change Advisory Board (CAB), or similar function:\no\tGoverns changes to cloud-based systems, applications and services to ensure their stability, reliability and predictability.\no\tReviews processes to identify and prevent use of unapproved CSPs.\n•\tA dedicated IT infrastructure team, or similar function, enables the implementation of cloud management controls to ensure cloud instances are both secure and compliant, leveraging industry-recognized secure practices that are CSP-specific.\n•\tCybersecurity and data privacy requirements are identified and documented for each CSP instance to address sensitive/regulated data processing, storing and/ or transmitting and provide restrictions on data processing and storage locations.\n•\tA Data Protection Impact Assessment (DPIA) is used to help ensure the protection of sensitive/regulated data processed, stored or transmitted on external systems."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to ensure Multi-Tenant Service Providers (MTSP) facilitate prompt forensic investigations in the event of a suspected or confirmed security incident.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to ensure Multi-Tenant Service Providers (MTSP) facilitate prompt forensic investigations in the event of a suspected or confirmed security incident.
+  available: false
+  value: 5

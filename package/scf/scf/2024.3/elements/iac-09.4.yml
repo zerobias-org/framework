@@ -1,0 +1,39 @@
+id: 529e3495-09be-5224-b52a-ba26fb9148d8
+name: Cross-Organization Management
+description: Mechanisms exist to coordinate username identifiers with external organizations for cross-organization management of identifiers.
+elementType: enhancement
+externalId: IAC-09.4
+controlQuestion: Does the organization coordinate username identifiers with external organizations for cross-organization management of identifiers?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

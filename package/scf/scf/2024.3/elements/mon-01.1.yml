@@ -1,0 +1,39 @@
+id: 26beb19a-3048-57cd-a6a2-fe006b0a706c
+name: Intrusion Detection & Prevention Systems (IDS & IPS)
+description: Mechanisms exist to implement Intrusion Detection / Prevention Systems (IDS / IPS) technologies on critical systems, key network segments and network choke points.
+elementType: enhancement
+externalId: MON-01.1
+controlQuestion: Does the organization implement Intrusion Detection / Prevention Systems (IDS / IPS) technologies on critical systems, key network segments and network choke points?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

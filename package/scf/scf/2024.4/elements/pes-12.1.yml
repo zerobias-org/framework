@@ -1,0 +1,39 @@
+id: e50f1642-67ac-5632-b420-7cd3188c440b
+name: Transmission Medium Security
+description: Physical security mechanisms exist to protect power and telecommunications cabling carrying data or supporting information services from interception, interference or damage.
+elementType: enhancement
+externalId: PES-12.1
+controlQuestion: Does the organization protect power and telecommunications cabling carrying data or supporting information services from interception, interference or damage?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: pes-12
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

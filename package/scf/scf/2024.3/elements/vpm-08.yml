@@ -1,0 +1,39 @@
+id: 6e3baee1-54de-5244-9d84-3c88bdf432ab
+name: Technical Surveillance Countermeasures Security
+description: Mechanisms exist to utilize a technical surveillance countermeasures survey.
+elementType: control
+externalId: VPM-08
+controlQuestion: Does the organization utilize a technical surveillance countermeasures survey?
+functionGrouping: Detect
+controlWeighting: '1'
+parent: vpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

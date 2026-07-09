@@ -1,0 +1,39 @@
+id: a0e11fda-3a15-5c7a-be62-76c55e123c2a
+name: Vulnerability Remediation Process
+description: Mechanisms exist to ensure that vulnerabilities are properly identified, tracked and remediated.
+elementType: control
+externalId: VPM-02
+controlQuestion: Does the organization ensure that vulnerabilities are properly identified, tracked and remediated?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: vpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

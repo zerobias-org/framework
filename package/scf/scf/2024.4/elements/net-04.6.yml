@@ -1,0 +1,39 @@
+id: c7b1fbd2-6848-5eb7-9b30-c15aab2980e3
+name: Human Reviews
+description: Mechanisms exist to enforce the use of human reviews for Access Control Lists (ACLs) and similar rulesets on a routine basis.
+elementType: enhancement
+externalId: NET-04.6
+controlQuestion: Does the organization enforce the use of human reviews for Access Control Lists (ACLs) and similar rulesets on a routine basis?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

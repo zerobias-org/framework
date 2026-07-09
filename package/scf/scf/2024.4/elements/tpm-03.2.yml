@@ -1,0 +1,39 @@
+id: 8a0cb4e3-004d-5798-baca-842685b7347c
+name: Limit Potential Harm
+description: Mechanisms exist to utilize security safeguards to limit harm from potential adversaries who identify and target the organization's supply chain.
+elementType: enhancement
+externalId: TPM-03.2
+controlQuestion: Does the organization utilize security safeguards to limit harm from potential adversaries who identify and target the organization's supply chain?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: tpm-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 3f7430e4-2c65-5660-9d75-e8d0f9e2d944
+name: Acceptable Discoverable Information
+description: Mechanisms exist to define what information is allowed to be discoverable by adversaries and take corrective actions to remediated non-compliant systems.
+elementType: enhancement
+externalId: VPM-06.8
+controlQuestion: Does the organization define what information is allowed to be discoverable by adversaries and take corrective actions to remediated non-compliant systems?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: vpm-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

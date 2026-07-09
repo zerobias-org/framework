@@ -1,0 +1,39 @@
+id: d499d643-587d-5793-b08f-1ddfdb8d2688
+name: Standardized Virtualization Formats
+description: Mechanisms exist to ensure interoperability by requiring cloud providers to use industry-recognized formats and provide documentation of custom changes for review.
+elementType: control
+externalId: CLD-08
+controlQuestion: Does the organization ensure interoperability by requiring cloud providers to use industry-recognized formats and provide documentation of custom changes for review?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

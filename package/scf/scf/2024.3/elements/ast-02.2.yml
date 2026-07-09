@@ -1,0 +1,39 @@
+id: d5361d0e-095e-56e8-8831-69fe0822c6e7
+name: Automated Unauthorized Component Detection
+description: Automated mechanisms exist to detect and alert upon the detection of unauthorized hardware, software and firmware components.
+elementType: enhancement
+externalId: AST-02.2
+controlQuestion: Does the organization use automated mechanisms to detect and alert upon the detection of unauthorized hardware, software and firmware components?
+functionGrouping: Detect
+controlWeighting: '3'
+parent: ast-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

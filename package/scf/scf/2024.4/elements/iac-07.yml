@@ -1,0 +1,39 @@
+id: df4f408e-7e7b-57bf-9a03-79ce84dd0e8e
+name: User Provisioning & De-Provisioning
+description: Mechanisms exist to utilize a formal user registration and de-registration process that governs the assignment of access rights.
+elementType: control
+externalId: IAC-07
+controlQuestion: Does the organization utilize a formal user registration and de-registration process that governs the assignment of access rights?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

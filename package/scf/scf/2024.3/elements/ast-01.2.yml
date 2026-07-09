@@ -1,0 +1,39 @@
+id: 15b37455-6cc3-5b8c-b171-9166fc010380
+name: Stakeholder Identification & Involvement
+description: Mechanisms exist to identify and involve pertinent stakeholders of critical systems, applications and services to support the ongoing secure management of those assets.
+elementType: enhancement
+externalId: AST-01.2
+controlQuestion: Does the organization identify and involve pertinent stakeholders of critical systems, applications and services to support the ongoing secure management of those assets?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: ast-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 29e5199e-c6dc-5d1d-abcd-9ddacc452564
+name: Network Diagrams & Data Flow Diagrams (DFDs)
+description: "Mechanisms exist to maintain network architecture diagrams that: \r\n (1) Contain sufficient detail to assess the security of the network's architecture;\r\n (2) Reflect the current architecture of the network environment; and\r\n (3) Document all sensitive/regulated data flows."
+elementType: control
+externalId: AST-04
+controlQuestion: "Does the organization maintain network architecture diagrams that: \r\n (1) Contain sufficient detail to assess the security of the network's architecture;\r\n (2) Reflect the current architecture of the network environment; and\r\n (3) Document all sensitive/regulated data flows?"
+functionGrouping: Identify
+controlWeighting: '10'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

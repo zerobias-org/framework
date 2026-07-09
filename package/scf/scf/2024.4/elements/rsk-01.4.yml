@@ -1,0 +1,39 @@
+id: 3a74c3d6-b0c8-5e8c-9fcb-18991f71a050
+name: Risk Threshold
+description: Mechanisms exist to define organizational risk threshold, the level of risk exposure above which risks are addressed and below which risks may be accepted.
+elementType: enhancement
+externalId: RSK-01.4
+controlQuestion: Does the organization define organizational risk threshold, the level of risk exposure above which risks are addressed and below which risks may be accepted?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: rsk-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

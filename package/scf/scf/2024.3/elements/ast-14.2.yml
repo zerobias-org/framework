@@ -1,0 +1,39 @@
+id: 3a19d3ab-4534-5874-bce7-67fe6dd5fd3a
+name: Infrared Communications
+description: Mechanisms exist to prevent line of sight and reflected infrared (IR) communications use in an unsecured space.
+elementType: enhancement
+externalId: AST-14.2
+controlQuestion: Does the organization prevent line of sight and reflected infrared (IR) communications use in an unsecured space?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: ast-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

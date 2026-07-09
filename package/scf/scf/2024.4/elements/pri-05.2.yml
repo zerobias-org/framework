@@ -1,0 +1,39 @@
+id: 8810ca37-bdf0-5ece-b064-a6c454c07a90
+name: Personal Data Accuracy & Integrity
+description: Mechanisms exist to confirm the accuracy and relevance of Personal Data (PD) throughout the information lifecycle.
+elementType: enhancement
+externalId: PRI-05.2
+controlQuestion: Does the organization confirm the accuracy and relevance of Personal Data (PD) throughout the information lifecycle?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: pri-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

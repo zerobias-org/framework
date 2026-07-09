@@ -1,0 +1,39 @@
+id: 32e01909-4fd6-541c-96f7-b6f17acc7064
+name: Identity Binding
+description: Mechanisms exist to bind the identity of the information producer to the information generated.
+elementType: enhancement
+externalId: MON-09.1
+controlQuestion: Does the organization bind the identity of the information producer to the information generated?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: mon-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

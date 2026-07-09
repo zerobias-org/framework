@@ -1,0 +1,39 @@
+id: d7b2bbd1-d8f1-5f75-bfa8-c530fc6f1c2b
+name: Group Authentication
+description: Mechanisms exist to require individuals to be authenticated with an individual authenticator when a group authenticator is utilized.
+elementType: enhancement
+externalId: IAC-02.1
+controlQuestion: Does the organization require individuals to be authenticated with an individual authenticator when a group authenticator is utilized?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: iac-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

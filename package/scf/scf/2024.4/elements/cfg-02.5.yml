@@ -1,0 +1,39 @@
+id: d582d60e-1798-5296-b310-f17aac43a4a8
+name: Configure Systems, Components or Services for High-Risk Areas
+description: Mechanisms exist to configure systems utilized in high-risk areas with more restrictive baseline configurations.
+elementType: enhancement
+externalId: CFG-02.5
+controlQuestion: Does the organization configure systems utilized in high-risk areas with more restrictive baseline configurations?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cfg-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

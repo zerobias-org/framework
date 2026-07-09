@@ -1,0 +1,39 @@
+id: b46e9bf2-a502-5557-887e-0dbdc0314bbc
+name: Visibility of Encrypted Communications
+description: Mechanisms exist to configure the proxy to make encrypted communications traffic visible to monitoring tools and mechanisms.
+elementType: enhancement
+externalId: NET-18.2
+controlQuestion: Does the organization configure the proxy to make encrypted communications traffic visible to monitoring tools and mechanisms?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: net-18
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

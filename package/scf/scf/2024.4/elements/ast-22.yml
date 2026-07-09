@@ -1,0 +1,39 @@
+id: b94dfcc5-8c09-557e-bc83-e06e540732ec
+name: Microphones & Web Cameras
+description: Mechanisms exist to configure assets to prohibit the use of endpoint-based microphones and web cameras in secure areas or where sensitive/regulated information is discussed.
+elementType: control
+externalId: AST-22
+controlQuestion: Does the organization configure assets to prohibit the use of endpoint-based microphones and web cameras in secure areas or where sensitive/regulated information is discussed?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

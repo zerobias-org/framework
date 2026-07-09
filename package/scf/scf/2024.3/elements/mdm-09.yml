@@ -1,0 +1,39 @@
+id: fdf00768-c08a-59a7-979c-2d8479485170
+name: Mobile Device Geofencing
+description: Mechanisms exist to restrict the functionality of mobile devices based on geographic location.
+elementType: control
+externalId: MDM-09
+controlQuestion: Does the organization restrict the functionality of mobile devices based on geographic location?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

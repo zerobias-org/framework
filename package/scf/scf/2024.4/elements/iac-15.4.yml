@@ -1,0 +1,39 @@
+id: 8011bf4d-b0e1-5f51-8604-d38c7131f1b8
+name: Automated Audit Actions
+description: Automated mechanisms exist to audit account creation, modification, enabling, disabling and removal actions and notify organization-defined personnel or roles.
+elementType: enhancement
+externalId: IAC-15.4
+controlQuestion: Does the organization use automated mechanisms to audit account creation, modification, enabling, disabling and removal actions and notify organization-defined personnel or roles?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-15
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

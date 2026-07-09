@@ -1,0 +1,39 @@
+id: 58456872-88b1-5a8a-9905-38a12932a15e
+name: Developer-Provided Training
+description: Mechanisms exist to require the developers of systems, system components or services to provide training on the correct use and operation of the system, system component or service.
+elementType: control
+externalId: TDA-16
+controlQuestion: Does the organization require the developers of systems, system components or services to provide training on the correct use and operation of the system, system component or service?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

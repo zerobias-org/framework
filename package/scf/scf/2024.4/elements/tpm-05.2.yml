@@ -1,0 +1,39 @@
+id: e2a69a26-bb6a-5641-9e29-de4ff3a816ab
+name: Contract Flow-Down Requirements
+description: Mechanisms exist to ensure cybersecurity & data privacy requirements are included in contracts that flow-down to applicable sub-contractors and suppliers.
+elementType: enhancement
+externalId: TPM-05.2
+controlQuestion: Does the organization ensure cybersecurity & data privacy requirements are included in contracts that flow-down to applicable sub-contractors and suppliers?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tpm-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

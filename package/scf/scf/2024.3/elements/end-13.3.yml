@@ -1,0 +1,39 @@
+id: e09cebc0-8da2-51c3-8721-57641d3673a9
+name: Collection Minimization
+description: Mechanisms exist to utilize sensors that are configured to minimize the collection of information about individuals.
+elementType: enhancement
+externalId: END-13.3
+controlQuestion: Does the organization utilize sensors that are configured to minimize the collection of information about individuals?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: end-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

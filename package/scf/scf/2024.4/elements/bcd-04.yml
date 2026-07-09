@@ -1,0 +1,39 @@
+id: d56af4d4-948e-54b3-b548-11266faaff51
+name: Contingency Plan Testing & Exercises
+description: Mechanisms exist to conduct tests and/or exercises to evaluate the contingency plan's effectiveness and the organization's readiness to execute the plan.
+elementType: control
+externalId: BCD-04
+controlQuestion: Does the organization conduct tests and/or exercises to evaluate the contingency plan's effectiveness and the organization's readiness to execute the plan?
+functionGrouping: Recover
+controlWeighting: '6'
+parent: bcd
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

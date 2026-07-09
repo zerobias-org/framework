@@ -1,0 +1,39 @@
+id: 2dbbbcbc-15c0-5126-8d15-1f7356afd15f
+name: Embedded Data Types
+description: Mechanisms exist to enforce limitations on embedding data within other data types.
+elementType: enhancement
+externalId: NET-04.4
+controlQuestion: Does the organization enforce limitations on embedding data within other data types?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

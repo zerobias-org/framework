@@ -1,0 +1,39 @@
+id: 8de6a7f5-9812-575f-a218-b12f52e6f675
+name: Post-Spill Operations
+description: Mechanisms exist to ensure that organizational personnel impacted by sensitive information spills can continue to carry out assigned tasks while contaminated systems are undergoing corrective actions.
+elementType: enhancement
+externalId: IRO-12.3
+controlQuestion: Does the organization ensure that organizational personnel impacted by sensitive information spills can continue to carry out assigned tasks while contaminated systems are undergoing corrective actions?
+functionGrouping: Respond
+controlWeighting: '8'
+parent: iro-12
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

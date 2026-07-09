@@ -1,0 +1,40 @@
+id: ee0ebc5f-d9cd-583a-b369-28680d778dff
+name: Vulnerability Disclosure Program (VDP)
+description: Mechanisms exist to establish a Vulnerability Disclosure Program (VDP) to assist with the secure development and maintenance of products and services that receives unsolicited input from the public about vulnerabilities in organizational systems, services and processes.
+elementType: control
+externalId: THR-06
+controlQuestion: Does the organization establish a Vulnerability Disclosure Program (VDP) to assist with the secure development and maintenance of products and services that receives unsolicited input from the public about vulnerabilities in organizational systems, services and processes?
+methodsToComply: '- "bug bounty" program'
+functionGrouping: Detect
+controlWeighting: '8'
+parent: thr
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to establish a Vulnerability Disclosure Program (VDP) to assist with the secure development and maintenance of products and services that receives unsolicited input from the public about vulnerabilities in organizational systems, services and processes.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to establish a Vulnerability Disclosure Program (VDP) to assist with the secure development and maintenance of products and services that receives unsolicited input from the public about vulnerabilities in organizational systems, services and processes.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Threat Management (THR) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThreat management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tThe HR department, in conjunction with cybersecurity personnel, helps ensure secure practices are implemented in personnel management operations to help manage threats.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for threat management.\no\tSubscribe to threat feeds to maintain situational awareness of emerging threats.\n•\tA Vulnerability Disclosure Program (VDP) is formed to receive and triage unsolicited input from the public about vulnerabilities in organizational systems, services and processes."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Threat Management (THR) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function:\no\tSubscribes to threat feeds to maintain situational awareness of emerging threats.\no\tDevelops Indicators of Exposure (IOE) to better understand potential attack vectors that attackers could use to attack the organization.\no\tImplements a Threat Awareness Program (TAP) that includes a cross-organization information-sharing capability.\no\tImplements a “threat hunting” capability to actively identify internal threats.\n•\tAn Integrated Security Incident Response Team (ISIRT), or similar function, exists to form an on-demand, integrated team of cybersecurity, IT, data privacy and business function representatives that can execute coordinated incident response operations, including a cross-discipline incident handling capability.\n•\tCybersecurity personnel enable security awareness training on recognizing and reporting potential indicators of insider threat.\n•\tA Vulnerability Disclosure Program (VDP) is formed to receive and triage unsolicited input from the public about vulnerabilities in organizational systems, services and processes."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to establish a Vulnerability Disclosure Program (VDP) to assist with the secure development and maintenance of products and services that receives unsolicited input from the public about vulnerabilities in organizational systems, services and processes.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to establish a Vulnerability Disclosure Program (VDP) to assist with the secure development and maintenance of products and services that receives unsolicited input from the public about vulnerabilities in organizational systems, services and processes.
+  available: false
+  value: 5

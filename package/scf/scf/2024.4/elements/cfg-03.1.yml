@@ -1,0 +1,39 @@
+id: 2db7cbf9-38fd-5908-b1ae-fd651a57a901
+name: Periodic Review
+description: Mechanisms exist to periodically review system configurations to identify and disable unnecessary and/or non-secure functions, ports, protocols and services.
+elementType: enhancement
+externalId: CFG-03.1
+controlQuestion: Does the organization periodically review system configurations to identify and disable unnecessary and/or non-secure functions, ports, protocols and services?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: cfg-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

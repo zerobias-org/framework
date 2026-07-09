@@ -1,0 +1,39 @@
+id: 396838f8-1cba-5517-bbab-5ef027c7f216
+name: Personal Data Retention & Disposal
+description: "Mechanisms exist to: \r\n (1) Retain Personal Data (PD), including metadata, for an organization-defined time period to fulfill the purpose(s) identified in the notice or as required by law;\r\n (2) Dispose of, destroys, erases, and/or anonymizes the PD, regardless of the method of storage; and\r\n (3) Use organization-defined techniques or methods to ensure secure deletion or destruction of PD (including originals, copies and archived records)."
+elementType: control
+externalId: PRI-05
+controlQuestion: "Does the organization: \r\n (1) Retain Personal Data (PD), including metadata, for an organization-defined time period to fulfill the purpose(s) identified in the notice or as required by law;\r\n (2) Dispose of, destroys, erases, and/or anonymizes the PD, regardless of the method of storage; and\r\n (3) Use organization-defined techniques or methods to ensure secure deletion or destruction of PD (including originals, copies and archived records)?"
+functionGrouping: Identify
+controlWeighting: '8'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

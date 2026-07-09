@@ -1,0 +1,39 @@
+id: 01b06855-b066-5e8e-96d0-16160643c5c6
+name: Centralized Management of Antimalware Technologies
+description: Mechanisms exist to centrally-manage antimalware technologies.
+elementType: enhancement
+externalId: END-04.3
+controlQuestion: Does the organization centrally-manage antimalware technologies?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: end-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 531db413-31d0-546a-b0ce-bd4e4cec9c15
+name: Signed Components
+description: Mechanisms exist to prevent the installation of software and firmware components without verification that the component has been digitally signed using an organization-approved certificate authority.
+elementType: enhancement
+externalId: CHG-04.2
+controlQuestion: Does the organization prevent the installation of software and firmware components without verification that the component has been digitally signed using an organization-approved certificate authority?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: chg-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

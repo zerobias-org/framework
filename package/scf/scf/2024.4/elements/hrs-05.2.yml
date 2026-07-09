@@ -1,0 +1,39 @@
+id: 55a3a9ac-82e8-55a3-b580-333fa2873527
+name: Social Media & Social Networking Restrictions
+description: Mechanisms exist to define rules of behavior that contain explicit restrictions on the use of social media and networking sites, posting information on commercial websites and sharing account information.
+elementType: enhancement
+externalId: HRS-05.2
+controlQuestion: Does the organization define rules of behavior that contain explicit restrictions on the use of social media and networking sites, posting information on commercial websites and sharing account information?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: hrs-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

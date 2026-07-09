@@ -1,0 +1,39 @@
+id: a94c7fa2-110d-573e-b631-5bd0b4fa6803
+name: Appeal Adverse Decision
+description: Mechanisms exist to provide an organization-defined process for data subjects to appeal an adverse decision and have incorrect information amended.
+elementType: enhancement
+externalId: PRI-06.3
+controlQuestion: Does the organization provide an organization-defined process for data subjects to appeal an adverse decision and have incorrect information amended?
+functionGrouping: Respond
+controlWeighting: '4'
+parent: pri-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

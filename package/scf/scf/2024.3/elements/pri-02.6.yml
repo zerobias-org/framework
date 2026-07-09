@@ -1,0 +1,39 @@
+id: 635299ae-ba01-573c-85d9-ace761c422e8
+name: Privacy Act Exemptions
+description: Mechanisms exist to review all Privacy Act exemptions claimed for the System of Records Notices (SORN) to ensure they remain appropriate and accurate.
+elementType: enhancement
+externalId: PRI-02.6
+controlQuestion: Does the organization review all Privacy Act exemptions claimed for the System of Records Notices (SORN) to ensure they remain appropriate and accurate?
+functionGrouping: Identify
+controlWeighting: '1'
+parent: pri-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

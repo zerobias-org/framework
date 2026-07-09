@@ -1,0 +1,39 @@
+id: f0ac40e2-e7a7-5bfb-abe7-0e5ab332cfa7
+name: Alternate Storage Site
+description: Mechanisms exist to establish an alternate storage site that includes both the assets and necessary agreements to permit the storage and recovery of system backup information.
+elementType: control
+externalId: BCD-08
+controlQuestion: Does the organization establish an alternate storage site that includes both the assets and necessary agreements to permit the storage and recovery of system backup information?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: bcd
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

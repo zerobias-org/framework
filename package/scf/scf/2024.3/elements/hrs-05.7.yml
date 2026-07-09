@@ -1,0 +1,39 @@
+id: 5fc38153-5708-51db-91b6-0dd372695b36
+name: Policy Familiarization & Acknowledgement
+description: Mechanisms exist to ensure personnel receive recurring familiarization with the organization's cybersecurity & data privacy policies and provide acknowledgement.
+elementType: enhancement
+externalId: HRS-05.7
+controlQuestion: Does the organization ensure personnel receive recurring familiarization with the organization's cybersecurity & data privacy policies and provide acknowledgement?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: hrs-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: a71e551e-fef4-592a-a3da-07e8ab8db84f
+name: Device Authorization Enforcement
+description: Mechanisms exist to enforce cryptographic communications keys to prevent one key from being used to access multiple devices.
+elementType: enhancement
+externalId: IAC-04.2
+controlQuestion: Does the organization enforce cryptographic communications keys to prevent one key from being used to access multiple devices?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

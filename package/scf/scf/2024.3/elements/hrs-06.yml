@@ -1,0 +1,39 @@
+id: 1dbbd088-bf27-5638-acca-fc9732e9c362
+name: Access Agreements
+description: Mechanisms exist to require internal and third-party users to sign appropriate access agreements prior to being granted access.
+elementType: control
+externalId: HRS-06
+controlQuestion: Does the organization require internal and third-party users to sign appropriate access agreements prior to being granted access?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

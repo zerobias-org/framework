@@ -1,0 +1,39 @@
+id: d3265ab9-f64c-5300-bea1-54873b3f3705
+name: Security Assessment Report (SAR)
+description: Mechanisms exist to produce a Security Assessment Report (SAR) at the conclusion of a security assessment to certify the results of the assessment and assist with any remediation actions.
+elementType: enhancement
+externalId: IAO-02.4
+controlQuestion: Does the organization produce a Security Assessment Report (SAR) at the conclusion of a security assessment to certify the results of the assessment and assist with any remediation actions?
+functionGrouping: Identify
+controlWeighting: '7'
+parent: iao-02
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to produce a Security Assessment Report (SAR) at the conclusion of a security assessment to certify the results of the assessment and assist with any remediation actions.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to produce a Security Assessment Report (SAR) at the conclusion of a security assessment to certify the results of the assessment and assist with any remediation actions.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Information Assurance (IA) is requirements-driven and formally governed at a local/regional level, but not consistently across the enterprise. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tPre-production security testing is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for pre-production cybersecurity & data privacy control testing.\n•\tIT personnel implement and maintain an established a limited Information Assurance Program (IAP) capability to conduct limited control testing to meet specific statutory, regulatory and/ or contractual requirements for pre-production cybersecurity & data privacy control testing.\n•\tIAP operations focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tBusiness process owners (BPOs) are made aware of cybersecurity & data privacy risk(s).\n•\tIAP testing results in a formal risk assessment where BPOs are required to make a decision to (1) reduce, (2) avoid, (3) transfer and/ or (4) accept risk(s) on behalf of the organization."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Information Assurance (IA) is standardized across the enterprise and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCybersecurity personnel implement and maintain an established Information Assurance Program (IAP) capability to conduct “business as usual” pre-production cybersecurity & data privacy control testing focused on the concept of “security and data privacy be design and by default.”\n•\tThe IAP validates that systems/applications/services/processes are both secure and compliant.\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, facilitates the implementation of cybersecurity & data privacy controls to ensure that secure engineering practices are designed and implemented throughout the lifecycle of systems, applications and services both internal and external to the organization.\n•\tA Project Management Office (PMO), or project management function, ensures project involvement for IAP as part of the organization’s established project management processes.\n•\tA Plan of Action and Milestones (POA&M) or similar mechanism, exists to document planned remediation actions to correct weaknesses or deficiencies noted during the assessment of the security controls, helping to reduce or eliminate known vulnerabilities.\n•\tAdministrative processes prevent systems/applications/services/processes from “going live” in a production environment without first going through the IAP process.\n•\tThe IAP uses a tiered approach to conformity testing, based on (1) the sensitivity of data that is stored, processed and/ or transmitted and (2) the criticality of the system/application/service/process.\n•\tIAP controls are primarily administrative in nature (e.g., policies & standards) to manage technical controls for cybersecurity & data privacy.\n•\tIAP testing results in a formal risk assessment where BPOs are required to make a decision to (1) reduce, (2) avoid, (3) transfer and/ or (4) accept risk(s) on behalf of the organization.\n•\tBusiness Process Owners (BPOs) are made aware of cybersecurity & data privacy risk(s).\n•\tIAP testing results in a formal risk assessment where BPOs are required to make a decision to (1) reduce, (2) avoid, (3) transfer and/ or (4) accept risk(s) on behalf of the organization."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to produce a Security Assessment Report (SAR) at the conclusion of a security assessment to certify the results of the assessment and assist with any remediation actions.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to produce a Security Assessment Report (SAR) at the conclusion of a security assessment to certify the results of the assessment and assist with any remediation actions.
+  available: false
+  value: 5

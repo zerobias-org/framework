@@ -1,0 +1,39 @@
+id: 781b1803-c61b-5916-a7ee-a7c699a2c71d
+name: Approved Solutions
+description: Automated mechanisms exist to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains.
+elementType: enhancement
+externalId: NET-04.11
+controlQuestion: Does the organization use automated mechanisms to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 3014e8b8-eb68-5d35-9dab-f561c4b6d1a1
+name: Cybersecurity & Data Privacy Representatives For Product Changes
+description: Mechanisms exist to include appropriate cybersecurity & data privacy representatives in the product feature and/or functionality change control review process.
+elementType: enhancement
+externalId: TDA-02.7
+controlQuestion: Does the organization include appropriate cybersecurity & data privacy representatives in the product feature and/or functionality change control review process?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: tda-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 2fec4729-99ce-5d16-a38c-9088dc5a7a54
+name: Cyber Incident Reporting for Sensitive Data
+description: Mechanisms exist to report sensitive/regulated data incidents in a timely manner.
+elementType: enhancement
+externalId: IRO-10.2
+controlQuestion: Does the organization report sensitive/regulated data incidents in a timely manner?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: iro-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

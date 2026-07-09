@@ -1,0 +1,39 @@
+id: 63002dc6-55ee-58a9-8757-743d748647ff
+name: Data Source Identification
+description: Mechanisms exist to identify and document data sources utilized in the training and/or operation of Artificial Intelligence and Autonomous Technologies (AAT).
+elementType: enhancement
+externalId: AAT-12.1
+controlQuestion: Does the organization identify and document data sources utilized in the training and/or operation of Artificial Intelligence and Autonomous Technologies (AAT)?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: aat-12
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 2e934e15-dae5-5643-9a73-49a3de3af727
+name: Customized Development of Critical Components
+description: Mechanisms exist to custom-develop critical system components, when Commercial Off The Shelf (COTS) solutions are unavailable.
+elementType: control
+externalId: TDA-12
+controlQuestion: Does the organization custom-develop critical system components, when Commercial Off The Shelf (COTS) solutions are unavailable?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

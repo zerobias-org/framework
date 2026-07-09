@@ -1,0 +1,39 @@
+id: 9fcc33dd-26c3-5693-99f4-710350f957c7
+name: Sensitive / Regulated Data Enclave (Secure Zone)
+description: Mechanisms exist to implement segmentation controls to restrict inbound and outbound connectivity for sensitive / regulated data enclaves (secure zones).
+elementType: enhancement
+externalId: NET-06.3
+controlQuestion: Does the organization implement segmentation controls to restrict inbound and outbound connectivity for sensitive / regulated data enclaves (secure zones)?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: net-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

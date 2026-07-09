@@ -1,0 +1,39 @@
+id: 7bebeb90-2ea3-5fb2-a688-43fbaaa9e8c2
+name: Non-System Related Maintenance
+description: Mechanisms exist to ensure that non-escorted personnel performing non-IT maintenance activities in the physical proximity of IT systems have required access authorizations.
+elementType: enhancement
+externalId: MNT-06.2
+controlQuestion: Does the organization ensure that non-escorted personnel performing non-IT maintenance activities in the physical proximity of IT systems have required access authorizations?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: mnt-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

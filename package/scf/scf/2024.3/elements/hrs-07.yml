@@ -1,0 +1,39 @@
+id: 9c9e17e9-cf20-534f-b32c-d5e34005bbe1
+name: Personnel Sanctions
+description: Mechanisms exist to sanction personnel failing to comply with established security policies, standards and procedures.
+elementType: control
+externalId: HRS-07
+controlQuestion: Does the organization sanction personnel failing to comply with established security policies, standards and procedures?
+functionGrouping: Respond
+controlWeighting: '9'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

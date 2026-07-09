@@ -1,0 +1,39 @@
+id: f17a2ec4-dca2-5382-af6c-601599ead7c9
+name: Unauthorized Network Services
+description: Automated mechanisms exist to detect unauthorized network services and alert incident response personnel.
+elementType: enhancement
+externalId: MON-11.2
+controlQuestion: Does the organization use automated mechanisms to detect unauthorized network services and alert incident response personnel?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: mon-11
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

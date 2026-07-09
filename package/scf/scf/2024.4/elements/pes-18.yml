@@ -1,0 +1,39 @@
+id: f4fb336f-47af-5148-9403-b9270d55948c
+name: On-Site Client Segregation
+description: Mechanisms exist to ensure client-specific Intellectual Property (IP) is isolated from other data when client-specific IP is processed or stored within multi-client workspaces.
+elementType: control
+externalId: PES-18
+controlQuestion: Does the organization ensure client-specific Intellectual Property (IP) is isolated from other data when client-specific IP is processed or stored within multi-client workspaces?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

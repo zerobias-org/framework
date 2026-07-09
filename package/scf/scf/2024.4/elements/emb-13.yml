@@ -1,0 +1,39 @@
+id: fce931bc-7ee9-5a55-b2b8-e4ce2750c6e5
+name: Authorized Communications
+description: Mechanisms exist to restrict embedded technologies to communicate only with authorized peers and service endpoints.
+elementType: control
+externalId: EMB-13
+controlQuestion: Does the organization restrict embedded technologies to communicate only with authorized peers and service endpoints?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

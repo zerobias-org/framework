@@ -1,0 +1,39 @@
+id: 21250894-7531-5f82-8061-1d994f874100
+name: Manage Organizational Knowledge
+description: Mechanisms exist to manage the organizational knowledge of the cybersecurity & data privacy staff.
+elementType: control
+externalId: PRM-08
+controlQuestion: Does the organization manage the organizational knowledge of the cybersecurity & data privacy staff?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: prm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

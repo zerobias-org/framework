@@ -1,0 +1,39 @@
+id: 2f37ed80-ea7a-5318-bbc6-c8a2b4aa8674
+name: Port & Input / Output (I/O) Device Access
+description: Mechanisms exist to physically disable or remove unnecessary connection ports or input/output devices from sensitive systems.
+elementType: control
+externalId: END-12
+controlQuestion: Does the organization physically disable or remove unnecessary connection ports or input/output devices from sensitive systems?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: end
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

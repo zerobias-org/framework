@@ -1,0 +1,39 @@
+id: 9068aece-ac5a-5c54-ad2a-3e2134f7de72
+name: Content Disarm and Reconstruction (CDR)
+description: Automated Content Disarm and Reconstruction (CDR) mechanisms exist to detect the presence of unapproved active content and facilitate its removal, resulting in content with only known safe elements.
+elementType: control
+externalId: NET-19
+controlQuestion: Automated Content Disarm and Reconstruction (CDR) mechanisms exist to detect the presence of unapproved active content and facilitate its removal, resulting in content with only known safe elements?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

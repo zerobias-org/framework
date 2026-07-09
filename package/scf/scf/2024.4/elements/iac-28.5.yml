@@ -1,0 +1,39 @@
+id: 004f204e-e769-50b3-88b6-a42d4f147fa3
+name: Address Confirmation
+description: Mechanisms exist to require that a notice of proofing be delivered through an out-of-band channel to verify the user's address (physical or digital).
+elementType: enhancement
+externalId: IAC-28.5
+controlQuestion: Does the organization require that a notice of proofing be delivered through an out-of-band channel to verify the user's address (physical or digital)?
+functionGrouping: Protect
+controlWeighting: '1'
+parent: iac-28
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

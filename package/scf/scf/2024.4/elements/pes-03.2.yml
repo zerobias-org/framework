@@ -1,0 +1,39 @@
+id: 14cf2173-c219-501f-80ce-3a27432376bd
+name: Lockable Physical Casings
+description: Physical access control mechanisms exist to protect system components from unauthorized physical access (e.g., lockable physical casings).
+elementType: enhancement
+externalId: PES-03.2
+controlQuestion: Does the organization protect system components from unauthorized physical access (e.g., lockable physical casings)?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: pes-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

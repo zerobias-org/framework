@@ -1,0 +1,39 @@
+id: 35639270-97ae-5a7f-8c04-f1b3cfb2411f
+name: Detonation Chambers (Sandboxes)
+description: Mechanisms exist to utilize a detonation chamber capability to detect and/or block potentially-malicious files and email attachments.
+elementType: control
+externalId: IRO-15
+controlQuestion: Does the organization utilize a detonation chamber capability to detect and/or block potentially-malicious files and email attachments?
+functionGrouping: Respond
+controlWeighting: '5'
+parent: iro
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

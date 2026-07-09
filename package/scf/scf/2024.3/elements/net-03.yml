@@ -1,0 +1,39 @@
+id: 5e4b23a7-bb7a-5f48-a39a-5e9ac2a13229
+name: Boundary Protection
+description: Mechanisms exist to monitor and control communications at the external network boundary and at key internal boundaries within the network.
+elementType: control
+externalId: NET-03
+controlQuestion: Does the organization monitor and control communications at the external network boundary and at key internal boundaries within the network?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

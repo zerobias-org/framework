@@ -1,0 +1,49 @@
+id: bd9764b4-1bb1-5551-a437-59ae81fd0110
+name: Correcting Inaccurate Personal Data
+description: "Mechanisms exist to establish and implement a process for:\r\n ▪ Data subjects to have inaccurate Personal Data (PD) maintained by the organization corrected or amended; and\r\n ▪ Disseminating corrections or amendments of PD to other authorized users of the PD."
+elementType: enhancement
+externalId: PRI-06.1
+controlQuestion: "Does the organization establish and implement a process for:\r\n ▪ Data subjects to have inaccurate Personal Data (PD) maintained by the organization corrected or amended; and\r\n ▪ Disseminating corrections or amendments of PD to other authorized users of the PI?"
+methodsToComply: '- Data Protection Impact Assessment (DPIA)'
+functionGrouping: Respond
+controlWeighting: '5'
+parent: pri-06
+cmm_0:
+  name: Not Performed
+  description: |-
+    There is no evidence of a capability to establish and implement a process for:
+    ▪ Data subjects to have inaccurate Personal Data (PD) maintained by the organization corrected or amended; and
+    ▪ Disseminating corrections or amendments of PD to other authorized users of the PD.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: |-
+    SP-CMM1 is N/A, since a structured process is required to establish and implement a process for:
+    ▪ Data subjects to have inaccurate Personal Data (PD) maintained by the organization corrected or amended; and
+    ▪ Disseminating corrections or amendments of PD to other authorized users of the PD.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Privacy (PRI) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tPrivacy management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tThe data privacy program is developed to work with IT and cybersecurity staff to ensure that applicable statutory, regulatory and contractual data privacy obligations for Personal Data (PD) are properly identified and implemented across the enterprise.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls to address applicable statutory, regulatory and contractual requirements for data privacy management.\n•\tA qualified individual is formally assigned as the Chief Privacy Officer (CPO), or similar role, to lead the organization’s data privacy program. This individual may be assigned to multiple duties, including that as a Data Protection Officer (DPO).\n•\tThe CPO, or similar role, identifies “data privacy principles” that systems, applications, services, processes and third-parties must adhere to, based on leading data privacy practices.\n•\tAdministrative processes exist for data subjects to have inaccurate PD maintained by the organization corrected or amended."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Privacy (PRI) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Privacy program, run by a Chief Privacy Officer (CPO), or similar role, ensures that applicable statutory, regulatory and contractual data privacy obligations are properly identified and implemented to limit and secure Personal Data (PD) that the organization stores, transmits and processes.\n•\tA data privacy team oversees the centralized-management of physical security controls across the enterprise.\n•\tData Protection Officers (DPOs) are assigned to work closely with business units and project teams to ensure data privacy principles are being implemented.\n•\tCPO and DPO determine and document the legal authority that permits the collection, use, maintenance and sharing of PD, either generally or in support of a specific program or system need.\n•\tAs part of the organization’s data privacy program, the CPO publishes a clear set of “data privacy principles”, based on leading data privacy practices, that systems, applications, services, processes and third-parties must adhere to.\n•\tA Project Management Office (PMO), or project management function, ensures both cybersecurity & data privacy principles are identified and implemented within ongoing or planned projects.\n•\tThe CPO and DPO develop and implement a process for data subjects to have inaccurate PD maintained by the organization corrected or amended."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Privacy (PRI) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: |-
+    See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to establish and implement a process for:
+    ▪ Data subjects to have inaccurate Personal Data (PD) maintained by the organization corrected or amended; and
+    ▪ Disseminating corrections or amendments of PD to other authorized users of the PD.
+  available: false
+  value: 5

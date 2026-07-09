@@ -1,0 +1,39 @@
+id: 3057d334-49fc-51b3-8df0-f2f43779946a
+name: Protection of Boot Firmware
+description: Automated mechanisms exist to protect the integrity of boot firmware in information systems.
+elementType: enhancement
+externalId: END-06.6
+controlQuestion: Does the organization use automated mechanisms to protect the integrity of boot firmware in information systems?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: end-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

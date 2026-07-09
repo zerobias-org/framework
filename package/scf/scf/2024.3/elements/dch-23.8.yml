@@ -1,0 +1,39 @@
+id: dd978131-a29b-5abe-b279-834022e69ee7
+name: Motivated Intruder
+description: Mechanisms exist to perform a motivated intruder test on the de-identified dataset to determine if the identified data remains or if the de-identified data can be re-identified.
+elementType: enhancement
+externalId: DCH-23.8
+controlQuestion: Does the organization perform a motivated intruder test on the de-identified dataset to determine if the identified data remains or if the de-identified data can be re-identified?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: dch-23
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

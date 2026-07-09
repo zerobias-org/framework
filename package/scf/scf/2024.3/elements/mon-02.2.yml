@@ -1,0 +1,39 @@
+id: acf25ca0-ae02-5a00-95ed-e36181be1895
+name: Central Review & Analysis
+description: Automated mechanisms exist to centrally collect, review and analyze audit records from multiple sources.
+elementType: enhancement
+externalId: MON-02.2
+controlQuestion: Does the organization use automated mechanisms to centrally collect, review and analyze audit records from multiple sources?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: mon-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

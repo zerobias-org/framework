@@ -1,0 +1,39 @@
+id: 2c2845ed-f5ba-50a1-899f-cfe702e3eb37
+name: Secure Practices Guidelines
+description: Mechanisms exist to provide guidelines and recommendations for the secure use of products and/or services to assist in the configuration, installation and use of the product and/or service.
+elementType: control
+externalId: OPS-05
+controlQuestion: Does the organization provide guidelines and recommendations for the secure use of products and/or services to assist in the configuration, installation and use of the product and/or service?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: ops
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

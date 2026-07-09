@@ -1,0 +1,39 @@
+id: 97b477c6-1c4c-5ac7-b0f7-f383152490ad
+name: Proxy Logging
+description: Mechanisms exist to log all Internet-bound requests, in order to identify prohibited activities and assist incident handlers with identifying potentially compromised systems.
+elementType: enhancement
+externalId: MON-01.9
+controlQuestion: Does the organization log all Internet-bound requests, in order to identify prohibited activities and assist incident handlers with identifying potentially compromised systems?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

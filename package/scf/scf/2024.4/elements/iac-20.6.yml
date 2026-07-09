@@ -1,0 +1,39 @@
+id: 009ff8fb-2064-582f-a459-376cb3b5a562
+name: Revocation of Access Authorizations
+description: Mechanisms exist to revoke logical and physical access authorizations.
+elementType: enhancement
+externalId: IAC-20.6
+controlQuestion: Does the organization revoke logical and physical access authorizations?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: iac-20
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

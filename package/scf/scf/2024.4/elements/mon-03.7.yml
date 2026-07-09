@@ -1,0 +1,39 @@
+id: d942650a-2448-5af7-90da-54c5f0425f3b
+name: Database Logging
+description: Mechanisms exist to ensure databases produce audit records that contain sufficient information to monitor database activities.
+elementType: enhancement
+externalId: MON-03.7
+controlQuestion: Does the organization ensure databases produce audit records that contain sufficient information to monitor database activities?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: mon-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

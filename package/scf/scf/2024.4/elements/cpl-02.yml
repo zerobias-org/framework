@@ -1,0 +1,39 @@
+id: 9b8763e8-a6e5-5731-8d03-44eab6164685
+name: Cybersecurity & Data Protection Controls Oversight
+description: Mechanisms exist to provide a cybersecurity & data protection controls oversight function that reports to the organization's executive leadership.
+elementType: control
+externalId: CPL-02
+controlQuestion: Does the organization provide a cybersecurity & data protection controls oversight function that reports to the organization's executive leadership?
+functionGrouping: Detect
+controlWeighting: '10'
+parent: cpl
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

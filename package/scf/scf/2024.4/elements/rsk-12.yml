@@ -1,0 +1,39 @@
+id: 846768d7-df1f-510e-b768-3ac7d747c630
+name: Risk Culture
+description: Mechanisms exist to ensure teams are committed to a culture that considers and communicates technology-related risk.
+elementType: control
+externalId: RSK-12
+controlQuestion: Does the organization ensure teams are committed to a culture that considers and communicates technology-related risk?
+functionGrouping: Identify
+controlWeighting: '4'
+parent: rsk
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

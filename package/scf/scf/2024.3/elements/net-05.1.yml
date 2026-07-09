@@ -1,0 +1,39 @@
+id: a43535ad-53f9-5abc-bd15-32b56e77e207
+name: External System Connections
+description: Mechanisms exist to prohibit the direct connection of a sensitive system to an external network without the use of an organization-defined boundary protection device.
+elementType: enhancement
+externalId: NET-05.1
+controlQuestion: Does the organization prohibit the direct connection of a sensitive system to an external network without the use of an organization-defined boundary protection device?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

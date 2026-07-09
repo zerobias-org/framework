@@ -1,0 +1,39 @@
+id: 98e44a96-65b5-5591-a29e-24069e699b94
+name: Export-Controlled Cryptography
+description: Mechanisms exist to address the exporting of cryptographic technologies in compliance with relevant statutory and regulatory requirements.
+elementType: enhancement
+externalId: CRY-01.2
+controlQuestion: Does the organization address the exporting of cryptographic technologies in compliance with relevant statutory and regulatory requirements?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: cry-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

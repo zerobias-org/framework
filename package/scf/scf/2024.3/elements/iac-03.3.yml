@@ -1,0 +1,39 @@
+id: c3c6d710-1199-5ac9-9f2f-1b52fb2471d6
+name: Use of FICAM-Issued Profiles
+description: Mechanisms exist to conform systems to Federal Identity, Credential and Access Management (FICAM)-issued profiles.
+elementType: enhancement
+externalId: IAC-03.3
+controlQuestion: Does the organization conform systems to Federal Identity, Credential and Access Management (FICAM)-issued profiles?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: iac-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

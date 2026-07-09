@@ -1,0 +1,39 @@
+id: aada9de4-750b-519e-9558-61d9d2fafb9c
+name: Hosted Systems, Applications & Services
+description: Mechanisms exist to specify applicable cybersecurity & data protection controls that must be implemented on external systems, consistent with the contractual obligations established with the External Service Providers (ESP) owning, operating and/or maintaining external systems, applications and/or services.
+elementType: control
+externalId: CLD-13
+controlQuestion: Does the organization specify applicable cybersecurity & data protection controls that must be implemented on external systems, consistent with the contractual obligations established with the External Service Providers (ESP) owning, operating and/or maintaining external systems, applications and/or services?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

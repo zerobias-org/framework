@@ -1,0 +1,39 @@
+id: 668f2d28-9a69-5bba-8324-e9a991782fe7
+name: Power Level Monitoring
+description: Automated mechanisms exist to monitor the power levels of embedded technologies for decreased or excessive power usage, including battery drainage, to investigate for device tampering.
+elementType: control
+externalId: EMB-09
+controlQuestion: Does the organization use automated mechanisms to monitor the power levels of embedded technologies for decreased or excessive power usage, including battery drainage, to investigate for device tampering?
+functionGrouping: Detect
+controlWeighting: '4'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

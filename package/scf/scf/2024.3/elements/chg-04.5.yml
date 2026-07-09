@@ -1,0 +1,39 @@
+id: 14e1bdac-89c4-5b7f-baa1-51330f24a4cf
+name: Library Privileges
+description: Mechanisms exist to restrict software library privileges to those individuals with a pertinent business need for access.
+elementType: enhancement
+externalId: CHG-04.5
+controlQuestion: Does the organization restrict software library privileges to those individuals with a pertinent business need for access?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: chg-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

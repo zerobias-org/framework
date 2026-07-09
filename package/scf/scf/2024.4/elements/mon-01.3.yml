@@ -1,0 +1,39 @@
+id: 2849b40f-92e7-5a35-ba73-738197f95752
+name: Inbound & Outbound Communications Traffic
+description: Mechanisms exist to continuously monitor inbound and outbound communications traffic for unusual or unauthorized activities or conditions.
+elementType: enhancement
+externalId: MON-01.3
+controlQuestion: Does the organization continuously monitor inbound and outbound communications traffic for unusual or unauthorized activities or conditions?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,40 @@
+id: 93dfca90-a542-5b8d-b2aa-3e6de383c7ca
+name: Reject Unauthorized Disclosure Requests
+description: Mechanisms exist to reject unauthorized disclosure requests.
+elementType: enhancement
+externalId: PRI-07.4
+controlQuestion: Does the organization reject unauthorized disclosure requests?
+methodsToComply: '- Authorized Agent'
+functionGrouping: Identify
+controlWeighting: '5'
+parent: pri-07
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to reject unauthorized disclosure requests.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to reject unauthorized disclosure requests.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to reject unauthorized disclosure requests.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Privacy (PRI) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Privacy program, run by a Chief Privacy Officer (CPO), or similar role, ensures that applicable statutory, regulatory and contractual data privacy obligations are properly identified and implemented to limit and secure Personal Data (PD) that the organization stores, transmits and processes.\n•\tA data privacy team oversees the centralized-management of physical security controls across the enterprise.\n•\tData Protection Officers (DPOs) are assigned to work closely with business units and project teams to ensure data privacy principles are being implemented.\n•\tCPO and DPO determine and document the legal authority that permits the collection, use, maintenance and sharing of PD, either generally or in support of a specific program or system need.\n•\tAs part of the organization’s data privacy program, the CPO publishes a clear set of “data privacy principles”, based on leading data privacy practices, that systems, applications, services, processes and third-parties must adhere to.\n•\tA Project Management Office (PMO), or project management function, ensures both cybersecurity & data privacy principles are identified and implemented within ongoing or planned projects.\n•\tThe CPO and DPO establish criteria for when it is necessary to reject a disclosure requests (e.g., unauthorized / fraudulent request)."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to reject unauthorized disclosure requests.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to reject unauthorized disclosure requests.
+  available: false
+  value: 5

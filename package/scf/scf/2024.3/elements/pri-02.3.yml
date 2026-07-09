@@ -1,0 +1,39 @@
+id: 29c9784c-3176-5c67-bbe7-df8e4c24ecce
+name: Computer Matching Agreements (CMA)
+description: Mechanisms exist to publish Computer Matching Agreements (CMA) on the public website of the organization.
+elementType: enhancement
+externalId: PRI-02.3
+controlQuestion: Does the organization publish Computer Matching Agreements (CMA) on the public website of the organization?
+functionGrouping: Identify
+controlWeighting: '1'
+parent: pri-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

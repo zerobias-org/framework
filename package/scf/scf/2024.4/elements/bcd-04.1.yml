@@ -1,0 +1,39 @@
+id: 7694ab1a-fdc3-540c-9ed8-9de52ff8f83c
+name: Coordinated Testing with Related Plans
+description: Mechanisms exist to coordinate contingency plan testing with internal and external elements responsible for related plans.
+elementType: enhancement
+externalId: BCD-04.1
+controlQuestion: Does the organization coordinate contingency plan testing with internal and external elements responsible for related plans?
+functionGrouping: Recover
+controlWeighting: '3'
+parent: bcd-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

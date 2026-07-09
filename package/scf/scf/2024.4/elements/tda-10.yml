@@ -1,0 +1,39 @@
+id: e904d82d-c031-59e6-b015-c68b10dc7098
+name: Use of Live Data
+description: Mechanisms exist to approve, document and control the use of live data in development and test environments.
+elementType: control
+externalId: TDA-10
+controlQuestion: Does the organization approve, document and control the use of live data in development and test environments?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

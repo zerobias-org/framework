@@ -1,0 +1,39 @@
+id: 84e3266f-7344-5fee-97a7-76e1b1b88fea
+name: Visitor Control
+description: Physical access control mechanisms exist to identify, authorize and monitor visitors before allowing access to the facility (other than areas designated as publicly accessible).
+elementType: control
+externalId: PES-06
+controlQuestion: Does the organization identify, authorize and monitor visitors before allowing access to the facility (other than areas designated as publicly accessible)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

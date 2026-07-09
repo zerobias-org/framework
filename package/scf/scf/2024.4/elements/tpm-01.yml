@@ -1,0 +1,39 @@
+id: 5437da8d-3adb-5c1b-b99c-e1f5ebfa2d90
+name: Third-Party Management
+description: Mechanisms exist to facilitate the implementation of third-party management controls.
+elementType: control
+externalId: TPM-01
+controlQuestion: Does the organization facilitate the implementation of third-party management controls?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: tpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

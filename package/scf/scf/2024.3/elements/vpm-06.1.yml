@@ -1,0 +1,39 @@
+id: 44052c61-116f-5809-ae57-1b60a4668c31
+name: Update Tool Capability
+description: Mechanisms exist to update vulnerability scanning tools.
+elementType: enhancement
+externalId: VPM-06.1
+controlQuestion: Does the organization update vulnerability scanning tools?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: vpm-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

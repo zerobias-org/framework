@@ -1,0 +1,39 @@
+id: ec5bd761-cb45-5111-b90b-aab00cedcce5
+name: Input Data Validation
+description: Mechanisms exist to check the validity of information inputs.
+elementType: control
+externalId: TDA-18
+controlQuestion: Does the organization check the validity of information inputs?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

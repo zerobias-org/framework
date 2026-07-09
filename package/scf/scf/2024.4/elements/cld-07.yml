@@ -1,0 +1,39 @@
+id: c4c15e39-9e40-57fc-86f3-2052fae3a1d8
+name: Data Handling & Portability
+description: Mechanisms exist to ensure cloud providers use secure protocols for the import, export and management of data in cloud-based services.
+elementType: control
+externalId: CLD-07
+controlQuestion: Does the organization ensure cloud providers use secure protocols for the import, export and management of data in cloud-based services?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

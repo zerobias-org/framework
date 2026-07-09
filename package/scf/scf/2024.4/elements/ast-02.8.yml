@@ -1,0 +1,39 @@
+id: 68ce11b1-44c2-52bf-83df-69807b5ad78b
+name: Data Action Mapping
+description: Mechanisms exist to create and maintain a map of technology assets where sensitive/regulated data is stored, transmitted or processed.
+elementType: enhancement
+externalId: AST-02.8
+controlQuestion: Does the organization create and maintain a map of technology assets where sensitive/regulated data is stored, transmitted or processed?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: ast-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

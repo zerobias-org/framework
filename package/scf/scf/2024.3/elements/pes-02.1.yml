@@ -1,0 +1,39 @@
+id: e8654fb3-ed74-59d2-810e-444752bbe4cc
+name: Role-Based Physical Access
+description: Physical access control mechanisms exist to authorize physical access to facilities based on the position or role of the individual.
+elementType: enhancement
+externalId: PES-02.1
+controlQuestion: Does the organization authorize physical access to facilities based on the position or role of the individual?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: pes-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

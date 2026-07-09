@@ -1,0 +1,39 @@
+id: e88c82d7-a7e7-573f-b599-62778d05f5e1
+name: Publishing Cybersecurity & Data Protection Documentation
+description: Mechanisms exist to establish, maintain and disseminate cybersecurity & data protection policies, standards and procedures.
+elementType: control
+externalId: GOV-02
+controlQuestion: Does the organization establish, maintain and disseminate cybersecurity & data protection policies, standards and procedures?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 99e69e51-80c5-519b-98bf-4ceab376ac57
+name: Unique System-Generated Session Identifiers
+description: Automated mechanisms exist to generate and recognize unique session identifiers for each session.
+elementType: enhancement
+externalId: NET-09.2
+controlQuestion: Does the organization use automated mechanisms to generate and recognize unique session identifiers for each session?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: net-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

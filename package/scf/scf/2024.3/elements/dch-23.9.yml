@@ -1,0 +1,39 @@
+id: e916314a-4640-5cbd-95f1-e26729d52b6d
+name: Code Names
+description: Mechanisms exist to use aliases to name assets, which are mission-critical and/or contain highly-sensitive/regulated data, are unique and not readily associated with a product, project or type of data.
+elementType: enhancement
+externalId: DCH-23.9
+controlQuestion: Does the organization use aliases to name assets, which are mission-critical and/or contain highly-sensitive/regulated data, are unique and not readily associated with a product, project or type of data?
+functionGrouping: Protect
+controlWeighting: '1'
+parent: dch-23
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

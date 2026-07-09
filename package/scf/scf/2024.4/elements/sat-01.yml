@@ -1,0 +1,39 @@
+id: 6cceb2bb-e66c-503a-bd0e-0916ee801fc4
+name: Cybersecurity & Data Privacy-Minded Workforce
+description: Mechanisms exist to facilitate the implementation of security workforce development and awareness controls.
+elementType: control
+externalId: SAT-01
+controlQuestion: Does the organization facilitate the implementation of security workforce development and awareness controls?
+functionGrouping: Govern
+controlWeighting: '8'
+parent: sat
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

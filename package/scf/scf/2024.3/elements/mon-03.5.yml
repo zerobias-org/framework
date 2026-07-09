@@ -1,0 +1,39 @@
+id: 6dabdbae-1b0c-5285-8d3f-531da3e84711
+name: Limit Personal Data (PD) In Audit Records
+description: Mechanisms exist to limit Personal Data (PD) contained in audit records to the elements identified in the data privacy risk assessment.
+elementType: enhancement
+externalId: MON-03.5
+controlQuestion: Does the organization limit Personal Data (PD) contained in audit records to the elements identified in the data privacy risk assessment?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: mon-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

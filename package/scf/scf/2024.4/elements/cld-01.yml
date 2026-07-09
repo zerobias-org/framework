@@ -1,0 +1,39 @@
+id: 884befd7-2232-5f8b-8932-a20cb92d2b4a
+name: Cloud Services
+description: Mechanisms exist to facilitate the implementation of cloud management controls to ensure cloud instances are secure and in-line with industry practices.
+elementType: control
+externalId: CLD-01
+controlQuestion: Does the organization facilitate the implementation of cloud management controls to ensure cloud instances are secure and in-line with industry practices?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 4bbd40ed-9f5f-553b-874e-b079c4ebd822
+name: Controlled Maintenance
+description: Mechanisms exist to conduct controlled maintenance activities throughout the lifecycle of the system, application or service.
+elementType: control
+externalId: MNT-02
+controlQuestion: Does the organization conduct controlled maintenance activities throughout the lifecycle of the system, application or service?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: mnt
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

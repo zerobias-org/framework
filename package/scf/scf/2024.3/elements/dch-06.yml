@@ -1,0 +1,39 @@
+id: 0eff3679-da75-5695-861e-870adec1080d
+name: Media Storage
+description: "Mechanisms exist to: \r\n ▪ Physically control and securely store digital and non-digital media within controlled areas using organization-defined security measures; and\r\n ▪ Protect system media until the media are destroyed or sanitized using approved equipment, techniques and procedures."
+elementType: control
+externalId: DCH-06
+controlQuestion: "Does the organization: \r\n •Physically control and securely store digital and non-digital media within controlled areas using organization-defined security measures; and\r\n •Protect system media until the media are destroyed or sanitized using approved equipment, techniques and procedures?"
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

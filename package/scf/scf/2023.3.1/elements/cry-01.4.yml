@@ -1,0 +1,39 @@
+id: cffecc40-20eb-5ae8-86ee-51b13e581f92
+name: Conceal / Randomize Communications
+description: Cryptographic mechanisms exist to conceal or randomize communication patterns.
+elementType: enhancement
+externalId: CRY-01.4
+controlQuestion: Does the organization conceal or randomize communication patterns with cryptographic mechanisms?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: cry-01
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to Cryptographic conceal or randomize communication patterns.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to Cryptographic conceal or randomize communication patterns.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to Cryptographic conceal or randomize communication patterns.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cryptographic Protections (CRY) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tCentrally-managed technologies implement cryptographic mechanisms on endpoints to control how sensitive/regulated data is encrypted during transmission and in storage.\n•\tSystems, applications and services that store, process or transmit sensitive/regulated data use cryptographic mechanisms to prevent unauthorized disclosure of information as an alternate to physical safeguards.\n•\tAn IT infrastructure team, or similar function:\no\tImplements Public Key Infrastructure (PKI) key management controls to protect the confidentiality, integrity and availability of keys.\no\tImplements and maintains an internal PKI infrastructure or obtains PKI services from a reputable PKI service provider.\n•\tIT/cybersecurity personnel perform an annual review of deployed cryptographic cipher suites and protocols to identify and replace weak cryptographic cipher suites and protocols."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to Cryptographic conceal or randomize communication patterns.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to Cryptographic conceal or randomize communication patterns.
+  available: false
+  value: 5

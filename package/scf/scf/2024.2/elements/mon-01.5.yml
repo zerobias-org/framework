@@ -1,0 +1,40 @@
+id: 5c0d87c7-cc5e-5847-a98d-783251ba7ace
+name: Wireless Intrusion Detection System (WIDS)
+description: Mechanisms exist to utilize Wireless Intrusion Detection / Protection Systems (WIDS / WIPS) to identify rogue wireless devices and to detect attack attempts via wireless networks.
+elementType: enhancement
+externalId: MON-01.5
+controlQuestion: Does the organization utilize Wireless Intrusion Detection / Protection Systems (WIDS / WIPS) to identify rogue wireless devices and to detect attack attempts via wireless networks?
+methodsToComply: "- CimTrak Integrity Suite (https://www.cimcor.com/cimtrak/)\r\n- NNT Change Tracker (https://www.newnettechnologies.com)"
+functionGrouping: Detect
+controlWeighting: '5'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to utilize Wireless Intrusion Detection / Protection Systems (WIDS / WIPS) to identify rogue wireless devices and to detect attack attempts via wireless networks.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to utilize Wireless Intrusion Detection / Protection Systems (WIDS / WIPS) to identify rogue wireless devices and to detect attack attempts via wireless networks.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Continuous Monitoring (MON) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tSituational awareness management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tSecure baseline configurations generate logs that contain sufficient information to establish necessary details of activity and allow for forensics analysis.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for situational awareness management.\no\tConfigure alerts for critical or sensitive data that is stored, transmitted and processed on assets.\no\tUse a structured process to review and analyze logs.\n•\tA log aggregator, or similar automated tool, provides an event log report generation capability to aid in detecting and assessing anomalous activities on business-critical systems."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Continuous Monitoring (MON) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function:\no\tGoverns asset management that ensures compliance with requirements for asset management.\no\tLeverages a Configuration Management Database (CMDB), or similar tool, as the authoritative source of IT assets.\n•\tA Security Incident Event Manager (SIEM), or similar automated tool:\no\tCentrally collects logs and is protected according to the manufacturer’s security guidelines to protect the integrity of the event logs with cryptographic mechanisms.\no\tMonitors the organization for Indicators of Compromise (IoC) and provides 24x7x365 near real-time alerting capability.\no\tIs configured to alert incident response personnel of detected suspicious events such that incident responders can look to terminate suspicious events.\n•\tBoth inbound and outbound network traffic is monitored for unauthorized activities to identify prohibited activities and assist incident handlers with identifying potentially compromised systems."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to utilize Wireless Intrusion Detection / Protection Systems (WIDS / WIPS) to identify rogue wireless devices and to detect attack attempts via wireless networks.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to utilize Wireless Intrusion Detection / Protection Systems (WIDS / WIPS) to identify rogue wireless devices and to detect attack attempts via wireless networks.
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: bab59c31-7c96-5c4d-903e-48a32c12e62d
+name: Full Device & Container-Based Encryption
+description: Cryptographic mechanisms exist to protect the confidentiality and integrity of information on mobile devices through full-device or container encryption.
+elementType: control
+externalId: MDM-03
+controlQuestion: Are cryptographic mechanisms utilized to protect the confidentiality and integrity of information on mobile devices through full-device or container encryption?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: dda60685-ec90-57e0-930f-c0aeb8317083
+name: Publicly Accessible Content Reviews
+description: Mechanisms exist to routinely review the content on publicly accessible systems for sensitive/regulated data and remove such information, if discovered.
+elementType: control
+externalId: WEB-14
+controlQuestion: Does the organization routinely review the content on publicly accessible systems for sensitive/regulated data and remove such information, if discovered?
+functionGrouping: Identify
+controlWeighting: '7'
+parent: web
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

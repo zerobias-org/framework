@@ -1,0 +1,39 @@
+id: b5917120-6e46-5ff6-9646-565c0cd6638f
+name: Software Defined Networking (SDN)
+description: Automated mechanisms exist to enable dynamic, policy-driven network segmentation, access controls and traffic management with a Software Defined Networking (SDN) architecture.
+elementType: enhancement
+externalId: NET-06.7
+controlQuestion: Does the organization enable dynamic, policy-driven network segmentation, access controls and traffic management?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

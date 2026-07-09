@@ -1,0 +1,39 @@
+id: dcc6c4b0-8b5d-5e4a-a290-2c5fe87c6c96
+name: Electromagnetic Pulse (EMP) Protection
+description: Physical security mechanisms exist to employ safeguards against Electromagnetic Pulse (EMP) damage for systems and system components.
+elementType: control
+externalId: PES-15
+controlQuestion: Does the organization employ safeguards against Electromagnetic Pulse (EMP) damage for systems and system components?
+functionGrouping: Protect
+controlWeighting: '1'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

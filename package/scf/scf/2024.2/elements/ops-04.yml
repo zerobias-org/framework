@@ -1,0 +1,39 @@
+id: 077a389d-c1a1-5ed0-b61f-9672f62f2fed
+name: Security Operations Center (SOC)
+description: Mechanisms exist to establish and maintain a Security Operations Center (SOC) that facilitates a 24x7 response capability.
+elementType: control
+externalId: OPS-04
+controlQuestion: Does the organization establish and maintain a Security Operations Center (SOC) that facilitates a 24x7 response capability?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: ops
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to establish and maintain a Security Operations Center (SOC) that facilitates a 24x7 response capability.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to establish and maintain a Security Operations Center (SOC) that facilitates a 24x7 response capability.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Security operations (OPS) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tSecurity operations management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls to address applicable statutory, regulatory and contractual requirements for security operations.\n•\tAdministrative processes focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tCritical business functions are documented in “run books” or Standardized Operating Procedures (SOPs) to capture operational knowledge in documentation form."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Security Operations (OPS) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function,\no\tHas a defined mission and expected functions.\no\tManages cybersecurity operations that covers preparation, detection and analysis, containment, eradication and recovery.\no\tConfigures monitoring technologies to implement the legally-allowable enhanced monitoring profiles for selected users and establish a reporting capability to designated personnel on enhanced monitoring activities.\no\tIs capable of detecting and responding to potential incidents through a formalized intake of security-related tickets; log monitoring; and analyzing threat intelligence feeds.\no\tIs staffed internally by qualified cybersecurity personnel, or is outsourced to a Managed Security Services Provider (MSSP).\no\tMaintains a documented knowledge management repository to assist in SOC operations.\no\tEnsures personnel are assigned appropriate roles and responsibilities to assist Integrated Security Incident Response Team (ISIRT) personnel in incident response operations.\no\tResponds to cybersecurity & data privacy incidents according to documented procedures."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Security Operations (OPS) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to establish and maintain a Security Operations Center (SOC) that facilitates a 24x7 response capability.
+  available: false
+  value: 5

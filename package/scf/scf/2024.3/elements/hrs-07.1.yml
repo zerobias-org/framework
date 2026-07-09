@@ -1,0 +1,39 @@
+id: dcdf717d-7d6f-56d5-a143-91ee69b09196
+name: Workplace Investigations
+description: Mechanisms exist to conduct employee misconduct investigations when there is reasonable assurance that a policy has been violated.
+elementType: enhancement
+externalId: HRS-07.1
+controlQuestion: Does the organization conduct employee misconduct investigations when there is reasonable assurance that a policy has been violated?
+functionGrouping: Respond
+controlWeighting: '8'
+parent: hrs-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

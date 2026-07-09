@@ -1,0 +1,39 @@
+id: 28179c46-d346-506f-8d49-16fe909eba4a
+name: Deny Traffic by Default & Allow Traffic by Exception
+description: Mechanisms exist to configure firewall and router configurations to deny network traffic by default and allow network traffic by exception (e.g., deny all, permit by exception).
+elementType: enhancement
+externalId: NET-04.1
+controlQuestion: Does the organization configure firewall and router configurations to deny network traffic by default and allow network traffic by exception (e.g., deny all, permit by exception)?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

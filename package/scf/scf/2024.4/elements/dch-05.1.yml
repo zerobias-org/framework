@@ -1,0 +1,39 @@
+id: 18eeb0df-0c23-5946-849e-af1cb814babd
+name: Dynamic Attribute Association
+description: Mechanisms exist to dynamically associate cybersecurity & data privacy attributes with individuals and objects as information is created, combined, or transformed, in accordance with organization-defined cybersecurity and data privacy policies.
+elementType: enhancement
+externalId: DCH-05.1
+controlQuestion: Does the organization dynamically associate cybersecurity & data privacy attributes with individuals and objects as information is created, combined, or transformed, in accordance with organization-defined cybersecurity and data privacy policies?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: dch-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

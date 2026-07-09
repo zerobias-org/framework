@@ -1,0 +1,39 @@
+id: 37e93fa8-5b9c-5780-80fc-239fcb7def8a
+name: Prohibit Installation Without Privileged Status
+description: Automated mechanisms exist to prohibit software installations without explicitly assigned privileged status.
+elementType: control
+externalId: END-03
+controlQuestion: Does the organization use automated mechanisms to prohibit software installations without explicitly assigned privileged status?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: end
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 686548fb-e725-54c0-91e3-2bc7cf4343e0
+name: Probationary Periods
+description: Mechanisms exist to identify newly onboarded personnel for enhanced monitoring during their probationary period.
+elementType: enhancement
+externalId: HRS-02.2
+controlQuestion: Does the organization identify newly onboarded personnel for enhanced monitoring during their probationary period?
+functionGrouping: Detect
+controlWeighting: '1'
+parent: hrs-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

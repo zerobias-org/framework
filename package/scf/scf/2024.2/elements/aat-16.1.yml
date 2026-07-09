@@ -1,0 +1,39 @@
+id: a0be0f16-4b25-5f85-b0ef-b43d279ff97f
+name: AI & Autonomous Technologies Measurement Approaches
+description: Mechanisms exist to measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users.
+elementType: enhancement
+externalId: AAT-16.1
+controlQuestion: Does the organization measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: aat-16
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Artificial Intelligence and Autonomous Technology (AAT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe Chief Information Security Officer (CISO), or similar function with technical competence to address cybersecurity concerns, analyzes the organization’s business strategy and prioritizes the objectives of the security function to determine prioritized and authoritative guidance for Artificial Intelligence and Autonomous Technologies (AAT), within the broader scope of cybersecurity and data protection operations.\n•\tThe CISO, or similar function, develops a security-focused Concept of Operations (CONOPS) that documents management, operational and technical measures to apply defense-in-depth techniques across the organization. This CONOPS for AAT may be incorporated as part of a broader operational plan for the cybersecurity & data privacy program.\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity & data privacy controls to facilitate the implementation of secure and compliant practices to protect the confidentiality, integrity, availability and safety of the organization’s applications, systems, services and data. Compliance requirements for AAT are identified and documented.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity & data privacy program, including AAT. The steering committee establishes a clear and authoritative accountability structure for AAT operations.\n•\tLegal reviews are conducted to minimize the inadvertent infringement of third-party Intellectual Property (IP) rights through the use of AAT products and/ or services.\n•\tAAT-specific compliance requirements for cybersecurity & data privacy are identified and documented.\n•\tGovernance function for AAT is formally assigned with defined roles and associated responsibilities.\n•\tA Program Management Office (PMO), or similar function, tracks and reports on activities related to the mapping, measuring and managing of AAT.\n•\tSecure engineering principles are identified and implemented to ensure AAT are designed to be reliable, safe, fair, secure, resilient, transparent, explainable and data privacy-enhanced to minimize emergent properties or unintended consequences.\n•\tRobust development and pre-deployment functionality, security and data privacy testing is conducted on all internal and third-party AAT projects.\n•\tProduction use of AAT is closely monitored to minimize emergent properties or unintended consequences.\n•\tRobust incident response and business continuity plans exist to respond to AAT-related emergent properties or unintended consequences.\n•\tData sources utilized in the training and/or operation of AAT are identified and documented.\n•\tThe Confidentiality, Integrity and Availability (CIA) of source data to prevent accidental contamination or malicious corruption (e.g., data poisoning) that could compromise the performance of AAT.\n"
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users.
+  available: false
+  value: 5

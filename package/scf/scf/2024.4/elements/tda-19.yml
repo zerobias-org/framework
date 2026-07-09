@@ -1,0 +1,39 @@
+id: 934d8ba8-174b-5467-8e9c-c53503c07b9a
+name: Error Handling
+description: "Mechanisms exist to handle error conditions by: \r\n (1) Identifying potentially security-relevant error conditions;\r\n (2) Generating error messages that provide information necessary for corrective actions without revealing sensitive or potentially harmful information in error logs and administrative messages that could be exploited; and\r\n (3) Revealing error messages only to authorized personnel."
+elementType: control
+externalId: TDA-19
+controlQuestion: "Does the organization handle error conditions by: \r\n (1) Identifying potentially security-relevant error conditions;\r\n (2) Generating error messages that provide information necessary for corrective actions without revealing sensitive or potentially harmful information in error logs and administrative messages that could be exploited; and\r\n (3) Revealing error messages only to authorized personnel?"
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

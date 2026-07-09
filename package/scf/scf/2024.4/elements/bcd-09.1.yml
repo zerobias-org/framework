@@ -1,0 +1,39 @@
+id: 197dc82c-0c62-57ef-9cb4-695fd245cdf1
+name: Separation from Primary Site
+description: Mechanisms exist to separate the alternate processing site from the primary processing site to reduce susceptibility to similar threats.
+elementType: enhancement
+externalId: BCD-09.1
+controlQuestion: Does the organization separate the alternate processing site from the primary processing site to reduce susceptibility to similar threats?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: bcd-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

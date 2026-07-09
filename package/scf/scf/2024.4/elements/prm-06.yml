@@ -1,0 +1,39 @@
+id: f01db5fd-296f-5eaa-aed7-ee060b156de9
+name: Business Process Definition
+description: "Mechanisms exist to define business processes with consideration for cybersecurity & data privacy that determines: \r\n (1) The resulting risk to organizational operations, assets, individuals and other organizations; and\r\n (2) Information protection needs arising from the defined business processes and revises the processes as necessary, until an achievable set of protection needs is obtained."
+elementType: control
+externalId: PRM-06
+controlQuestion: "Does the organization define business processes with consideration for cybersecurity & data privacy that determines: \r\n (1) The resulting risk to organizational operations, assets, individuals and other organizations; and\r\n (2) Information protection needs arising from the defined business processes and revises the processes as necessary, until an achievable set of protection needs is obtained?"
+functionGrouping: Identify
+controlWeighting: '7'
+parent: prm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

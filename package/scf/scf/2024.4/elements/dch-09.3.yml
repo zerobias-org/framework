@@ -1,0 +1,39 @@
+id: ba7caf71-9751-56f0-8c42-93e199e1c839
+name: Sanitization of Personal Data (PD)
+description: Mechanisms exist to facilitate the sanitization of Personal Data (PD).
+elementType: enhancement
+externalId: DCH-09.3
+controlQuestion: Does the organization facilitate the sanitization of Personal Data (PD)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: dch-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 3f1a2b7c-cf13-5bb4-8c81-fb84e883ec87
+name: Restrictions on Shared Groups / Accounts
+description: Mechanisms exist to authorize the use of shared/group accounts only under certain organization-defined conditions.
+elementType: enhancement
+externalId: IAC-15.5
+controlQuestion: Does the organization authorize the use of shared/group accounts only under certain organization-defined conditions?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-15
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

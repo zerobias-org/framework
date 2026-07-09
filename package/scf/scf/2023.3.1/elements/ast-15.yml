@@ -1,0 +1,40 @@
+id: 38a6966c-b2bd-57e1-b456-2cb6f87883df
+name: Tamper Protection
+description: Mechanisms exist to verify logical configuration settings and the physical integrity of critical technology assets throughout their lifecycle.
+elementType: control
+externalId: AST-15
+controlQuestion: Does the organization verify logical configuration settings and the physical integrity of critical technology assets throughout their lifecycle?
+methodsToComply: "- CimTrak Integrity Suite (https://www.cimcor.com/cimtrak/)\r\n- Tamper detection tape\r\n- File Integrity Monitoring (FIM)\r\n- NNT Change Tracker (https://www.newnettechnologies.com)\r\n- Tripwire Enterprise (https://www.tripwire.com/products/tripwire-enterprise/)"
+functionGrouping: Protect
+controlWeighting: '6'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to verify logical configuration settings and the physical integrity of critical technology assets throughout their lifecycle.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Asset Management (AST) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAsset management is informally assigned as an additional duty to existing IT/cybersecurity personnel.\n•\tAsset inventories are performed in an ad hoc manner.\n•\tSoftware licensing is tracked as part of IT asset inventories.\n•\tData process owners maintain limited network diagrams to document the flow of sensitive/regulated data that is specific to their initiative.\n•\tIT personnel work with data/process owners to help ensure secure practices are implemented throughout the System Development Lifecycle (SDLC) for all high-value projects."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Asset Management (AST) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAsset management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for asset management.\n•\tAdministrative processes and technologies focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tAsset management is formally assigned as an additional duty to existing IT/cybersecurity personnel.\n•\tTechnology assets are categorized according to data classification and business criticality.\n•\tInventories cover technology assets in scope for statutory, regulatory and/ or contractual compliance, which includes both physical and virtual assets.\n•\tSoftware licensing is tracked as part of IT asset inventories.\n•\tUsers are educated on their responsibilities to protect technology assets assigned to them or under their supervision.\n•\tIT/cybersecurity personnel maintain network diagrams to document the flow of sensitive/regulated data across the network.\n•\tSecurity awareness training covers reporting of unauthorized alterations and evidence of tampering.\n•\tUsers traveling to high threat countries use tamper-resistant tape to aid in detecting physical tampering and/ or use a specially hardened device besides their normal company issued device."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Asset Management (AST) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function, governs asset management to help ensure compliance with requirements for asset management.\n•\tAn ITAM function, or similar function, maintains an inventory of IT assets, covering both physical and virtual assets, as well as centrally managed asset ownership assignments.\n•\tTechnology assets and data are categorized according to data classification and business criticality criteria.\n•\tA Cybersecurity Supply Chain Risk Management (C-SCRM) function oversees supply chain risks including the removal and prevention of certain technology services and/ or equipment designated as supply chain threats by a statutory or regulatory body.\n•\tData/process owners document where sensitive/regulated data is stored, transmitted and processed, generating Data Flow Diagrams (DFDs) and network diagrams to document the flow of data.\n•\tSecurity awareness training covers reporting of unauthorized alterations and evidence of tampering.\n•\tUsers traveling to high threat countries use tamper-resistant tape to aid in detecting physical tampering and/ or use a specially hardened device besides their normal company issued device."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Asset Management (AST) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement.\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: "Asset Management (AST) efforts are “world-class” capabilities that leverage predictive analysis (e.g., machine learning, AI, etc.). In addition to CMM Level 4 criteria, CMM Level 5 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tStakeholders make time-sensitive decisions to support operational efficiency, which may include automated remediation actions.\n▪ \tBased on predictive analysis, process improvements are implemented according to “continuous improvement” practices that affect process changes."
+  available: true
+  value: 5

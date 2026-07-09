@@ -1,0 +1,39 @@
+id: 11456cee-31bc-52df-9a0a-ea33ec3f7612
+name: Authorized Individuals For Hosted Systems, Applications & Services
+description: Mechanisms exist to authorize specified individuals to access External Service Providers (ESP) owned, operated and/or maintained external systems, applications and/or services.
+elementType: enhancement
+externalId: CLD-13.1
+controlQuestion: Does the organization authorize specified individuals to access External Service Providers (ESP) owned, operated and/or maintained external systems, applications and/or services?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cld-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

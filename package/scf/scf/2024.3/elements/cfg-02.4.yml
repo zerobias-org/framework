@@ -1,0 +1,39 @@
+id: befc56b5-1589-57c2-be47-383ec8231c70
+name: Development & Test Environment Configurations
+description: Mechanisms exist to manage baseline configurations for development and test environments separately from operational baseline configurations to minimize the risk of unintentional changes.
+elementType: enhancement
+externalId: CFG-02.4
+controlQuestion: Does the organization manage baseline configurations for development and test environments separately from operational baseline configurations to minimize the risk of unintentional changes?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: cfg-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

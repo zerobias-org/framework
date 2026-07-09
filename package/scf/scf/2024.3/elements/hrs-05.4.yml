@@ -1,0 +1,39 @@
+id: 3ca6bd39-cef3-5c1c-bd58-e4b937735296
+name: Use of Critical Technologies
+description: Mechanisms exist to govern usage policies for critical technologies.
+elementType: enhancement
+externalId: HRS-05.4
+controlQuestion: Does the organization govern usage policies for critical technologies?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: hrs-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

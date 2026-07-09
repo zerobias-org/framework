@@ -1,0 +1,39 @@
+id: 0b6f7ea1-d76f-5a05-a9c9-5ff37cdd36c8
+name: Third-Party Personnel Security
+description: Mechanisms exist to control personnel security requirements including security roles and responsibilities for third-party providers.
+elementType: control
+externalId: TPM-06
+controlQuestion: Does the organization control personnel security requirements including security roles and responsibilities for third-party providers?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: tpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

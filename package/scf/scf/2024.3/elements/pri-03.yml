@@ -1,0 +1,39 @@
+id: de7f062c-fd83-5baa-86cd-52d23c242c88
+name: Choice & Consent
+description: "Mechanisms exist to authorize the processing of their Personal Data (PD) prior to its collection that:\r\n•Uses plain language and provide examples to illustrate the potential data privacy risks of the authorization; and\r\n•Provides a means for users to decline the authorization."
+elementType: control
+externalId: PRI-03
+controlQuestion: "Does the organization authorize the processing of their Personal Data (PD) prior to its collection that:\r\n•Uses plain language and provide examples to illustrate the potential data privacy risks of the authorization; and\r\n•Provides a means for users to decline the authorization?"
+functionGrouping: Identify
+controlWeighting: '7'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

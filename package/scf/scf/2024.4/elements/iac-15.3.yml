@@ -1,0 +1,39 @@
+id: bd7e9221-7e0c-5368-a88f-141612b024ba
+name: Disable Inactive Accounts
+description: Automated mechanisms exist to disable inactive accounts after an organization-defined time period.
+elementType: enhancement
+externalId: IAC-15.3
+controlQuestion: Does the organization use automated mechanisms to disable inactive accounts after an organization-defined time period?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-15
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

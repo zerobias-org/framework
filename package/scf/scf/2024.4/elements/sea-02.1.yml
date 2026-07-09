@@ -1,0 +1,39 @@
+id: 9a1a779b-87f0-592f-95df-3513e33f7cfb
+name: Standardized Terminology
+description: Mechanisms exist to standardize technology and process terminology to reduce confusion amongst groups and departments.
+elementType: enhancement
+externalId: SEA-02.1
+controlQuestion: Does the organization standardize technology and process terminology to reduce confusion amongst groups and departments?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: sea-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

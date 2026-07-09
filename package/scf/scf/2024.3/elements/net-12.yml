@@ -1,0 +1,39 @@
+id: 28c2e2db-561b-5b4f-8979-8d20a292e4c8
+name: Safeguarding Data Over Open Networks
+description: Cryptographic mechanisms exist to implement strong cryptography and security protocols to safeguard sensitive/regulated data during transmission over open, public networks.
+elementType: control
+externalId: NET-12
+controlQuestion: Are cryptographic mechanisms utilized to implement strong cryptography and security protocols to safeguard sensitive/regulated data during transmission over open, public networks?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

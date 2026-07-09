@@ -1,0 +1,39 @@
+id: 2a76b464-6728-52d1-b612-e60f22feeab8
+name: AI & Autonomous Technologies Training
+description: Mechanisms exist to ensure personnel and external stakeholders are provided with position-specific risk management training for Artificial Intelligence (AI) and Autonomous Technologies (AAT).
+elementType: control
+externalId: AAT-05
+controlQuestion: Does the organization ensure personnel and external stakeholders are provided with position-specific risk management training for Artificial Intelligence (AI) and Autonomous Technologies (AAT)?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: aat
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

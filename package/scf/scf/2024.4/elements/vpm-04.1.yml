@@ -1,0 +1,39 @@
+id: 96063662-04ed-56aa-869e-30048be22b8e
+name: Stable Versions
+description: Mechanisms exist to install the latest stable version of any software and/or security-related updates on all applicable systems.
+elementType: enhancement
+externalId: VPM-04.1
+controlQuestion: Does the organization install the latest stable version of any software and/or security-related updates on all applicable systems?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: vpm-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

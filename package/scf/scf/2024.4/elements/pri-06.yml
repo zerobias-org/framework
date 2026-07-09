@@ -1,0 +1,39 @@
+id: 7f7e90b3-2139-5297-9c35-8285d8b9ba97
+name: Data Subject Access
+description: Mechanisms exist to provide data subjects the ability to access their Personal Data (PD) maintained in organizational systems of records.
+elementType: control
+externalId: PRI-06
+controlQuestion: Does the organization provide data subjects the ability to access their Personal Data (PD) maintained in organizational systems of records?
+functionGrouping: Identify
+controlWeighting: '6'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

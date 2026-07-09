@@ -1,0 +1,39 @@
+id: fc6597c7-cf17-506f-8cb3-1ac347a4ebbd
+name: Secure Disposal, Destruction or Re-Use of Equipment
+description: Mechanisms exist to securely dispose of, destroy or repurpose system components using organization-defined techniques and methods to prevent information being recovered from these components.
+elementType: control
+externalId: AST-09
+controlQuestion: Does the organization securely dispose of, destroy or repurpose system components using organization-defined techniques and methods to prevent information being recovered from these components?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 3c21f8d6-875e-5fea-9c61-d6279e4df148
+name: Centralized Management of Flaw Remediation Processes
+description: Mechanisms exist to centrally-manage the flaw remediation process.
+elementType: enhancement
+externalId: VPM-05.1
+controlQuestion: Does the organization centrally-manage the flaw remediation process?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: vpm-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5
