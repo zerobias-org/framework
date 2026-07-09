@@ -1,0 +1,39 @@
+id: 792c04c6-bd7c-5ce7-af71-40ba7c120b1e
+name: De-Identification (Anonymization)
+description: Mechanisms exist to anonymize data by removing Personal Data (PD) from datasets.
+elementType: control
+externalId: DCH-23
+controlQuestion: Does the organization anonymize data by removing Personal Data (PD) from datasets?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

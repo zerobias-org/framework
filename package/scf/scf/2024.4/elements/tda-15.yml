@@ -1,0 +1,39 @@
+id: 15c0cf47-4702-5ab6-b284-8cbc17e2994a
+name: Developer Threat Analysis & Flaw Remediation
+description: Mechanisms exist to require system developers and integrators to develop and implement an ongoing Security Testing and Evaluation (ST&E) plan, or similar process, to objectively identify and remediate vulnerabilities prior to release to production.
+elementType: control
+externalId: TDA-15
+controlQuestion: Does the organization require system developers and integrators to create a Security Testing and Evaluation (ST&E) plan and implement the plan under the witness of an independent party?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

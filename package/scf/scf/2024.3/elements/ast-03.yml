@@ -1,0 +1,39 @@
+id: a307608d-5734-5cfb-896c-66eee3599f62
+name: Asset Ownership Assignment
+description: Mechanisms exist to ensure asset ownership responsibilities are assigned, tracked and managed at a team, individual, or responsible organization level to establish a common understanding of requirements for asset protection.
+elementType: control
+externalId: AST-03
+controlQuestion: Does the organization ensure asset ownership responsibilities are assigned, tracked and managed at a team, individual, or responsible organization level to establish a common understanding of requirements for asset protection?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: dcfba11e-899a-562a-8a15-961b268a7cc1
+name: Third-Party Scope Review
+description: Mechanisms exist to perform recurring validation of the Responsible, Accountable, Supportive, Consulted & Informed (RASCI) matrix, or similar documentation, to ensure cybersecurity & data privacy control assignments accurately reflect current business practices, compliance obligations, technologies and stakeholders.
+elementType: enhancement
+externalId: TPM-05.5
+controlQuestion: Does the organization perform recurring validation of the Responsible, Accountable, Supportive, Consulted & Informed (RASCI) matrix, or similar documentation, to ensure cybersecurity & data privacy control assignments accurately reflect current business practices, compliance obligations, technologies and stakeholders?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: tpm-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

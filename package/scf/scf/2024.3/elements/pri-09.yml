@@ -1,0 +1,39 @@
+id: b8c8f175-a498-580a-9f69-c82d789d43ad
+name: Personal Data Lineage
+description: Mechanisms exist to utilize a record of processing activities to maintain a record of Personal Data (PD) that is stored, transmitted and/or processed under the organization's responsibility.
+elementType: control
+externalId: PRI-09
+controlQuestion: Does the organization utilize a record of processing activities to maintain a record of Personal Data (PD) that is stored, transmitted and/or processed under the organization's responsibility?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

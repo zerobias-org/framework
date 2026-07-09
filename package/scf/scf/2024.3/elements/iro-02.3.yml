@@ -1,0 +1,39 @@
+id: 59695672-10c2-5627-a911-71a9d8fb7448
+name: Dynamic Reconfiguration
+description: Automated mechanisms exist to dynamically reconfigure information system components as part of the incident response capability.
+elementType: enhancement
+externalId: IRO-02.3
+controlQuestion: Does the organization use automated mechanisms to dynamically reconfigure information system components as part of the incident response capability?
+functionGrouping: Respond
+controlWeighting: '5'
+parent: iro-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

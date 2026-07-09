@@ -1,0 +1,39 @@
+id: 0c91ff67-cec5-5b4f-b043-b1618da2f8f5
+name: Remote Maintenance Disconnect Verification
+description: Mechanisms exist to provide remote disconnect verification to ensure remote, non-local maintenance and diagnostic sessions are properly terminated.
+elementType: enhancement
+externalId: MNT-05.4
+controlQuestion: Does the organization provide remote disconnect verification to ensure remote, non-local maintenance and diagnostic sessions are properly terminated?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: mnt-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

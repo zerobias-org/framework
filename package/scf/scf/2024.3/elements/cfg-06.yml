@@ -1,0 +1,39 @@
+id: bcd9d531-d0ef-592b-b6d5-e6d2057521e2
+name: Configuration Enforcement
+description: Automated mechanisms exist to monitor, enforce and report on configurations for endpoint devices.
+elementType: control
+externalId: CFG-06
+controlQuestion: Does the organization use automated mechanisms to monitor, enforce and report on configurations for endpoint devices?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: cfg
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

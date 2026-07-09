@@ -1,0 +1,39 @@
+id: 3b0a94c3-2104-5f9a-8f35-f94185f704dc
+name: Managed Access Control Points
+description: Mechanisms exist to route all remote accesses through managed network access control points (e.g., VPN concentrator).
+elementType: enhancement
+externalId: NET-14.3
+controlQuestion: Does the organization route all remote accesses through managed network access control points (e.g., VPN concentrator)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: net-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

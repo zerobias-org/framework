@@ -1,0 +1,39 @@
+id: d46f2adb-09cd-52e1-99b9-eb51821d1e66
+name: Secure Development Life Cycle (SDLC) Management
+description: Mechanisms exist to ensure changes to systems within the Secure Development Life Cycle (SDLC) are controlled through formal change control procedures.
+elementType: control
+externalId: PRM-07
+controlQuestion: Does the organization ensure changes to systems within the Secure Development Life Cycle (SDLC) are controlled through formal change control procedures?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: prm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

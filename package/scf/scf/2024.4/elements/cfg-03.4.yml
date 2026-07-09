@@ -1,0 +1,39 @@
+id: 41b55146-dbe4-50bc-97f0-8f47abf0e8ab
+name: Split Tunneling
+description: Mechanisms exist to prevent split tunneling for remote devices unless the split tunnel is securely provisioned using organization-defined safeguards.
+elementType: enhancement
+externalId: CFG-03.4
+controlQuestion: "Does the organization prevent split tunneling for remote devices unless the split tunnel is securely provisioned using organization-defined safeguards?\r\n\r\nPrevent split tunneling for remote devices unless the split tunnel is securely provisioned using organization-defined safeguards?"
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cfg-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

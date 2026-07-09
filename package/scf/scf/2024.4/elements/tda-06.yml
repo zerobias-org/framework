@@ -1,0 +1,39 @@
+id: 4e28b34b-0c8f-51dd-9f6f-66cd5256a8ac
+name: Secure Coding
+description: Mechanisms exist to develop applications based on secure coding principles.
+elementType: control
+externalId: TDA-06
+controlQuestion: Does the organization develop applications based on secure coding principles?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

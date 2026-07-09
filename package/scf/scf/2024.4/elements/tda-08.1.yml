@@ -1,0 +1,39 @@
+id: 487e6cf7-cf92-51fc-a612-1995a716faee
+name: Secure Migration Practices
+description: Mechanisms exist to ensure secure migration practices purge systems, applications and services of test/development/staging data and accounts before it is migrated into a production environment.
+elementType: enhancement
+externalId: TDA-08.1
+controlQuestion: Does the organization ensure secure migration practices purge systems, applications and services of test/development/staging data and accounts before it is migrated into a production environment?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tda-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

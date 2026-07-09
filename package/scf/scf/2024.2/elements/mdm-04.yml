@@ -1,0 +1,39 @@
+id: e6b23658-f79f-5567-8bad-cf951886f863
+name: Mobile Device Tampering
+description: Mechanisms exist to protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization’s network.
+elementType: control
+externalId: MDM-04
+controlQuestion: Does the organization protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization’s network?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: mdm
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization’s network.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization’s network.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Mobile Device Management (MDM) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tMobile device management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls to address applicable statutory, regulatory and contractual requirements for Mobile Device Management (MDM).\no\tImplement and maintain a MDM capability for all mobile devices in use at the organization.\n•\tOrganization-owned mobile devices are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information stored on the device and mostly conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data.\n•\tMDM software is used to restrict the data that is stored/processed/transmitted on organization-owned and/ or applicable Bring Your Own Device (BYOD) (e.g., personal devices).\n•\tAdministrative processes and technologies protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization’s network."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Mobile Device Management (MDM) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn Identity & Access Management (IAM) function, or similar function, performs the implementation of access controls for mobile devices that restricts the connectivity of mobile devices from communicating with systems, applications and services.\n•\tOrganization-owned mobile devices are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information stored on the device, and conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data.\n•\tMDM software is used to restrict the data that is stored/processed/transmitted on organization-owned and/ or applicable Bring Your Own Device (BYOD) (e.g., personal devices) across the entire organization.\n•\tMDM enforces a separate device workspace on applicable mobile devices to separate work-related and personal-related applications and data.\n•\tTechnologies are configured to use cryptographic mechanisms to protect the confidentiality and integrity of information on mobile devices through full-device or container encryption.\n•\tAdministrative processes and technologies prohibit the installation of non-approved applications or approved applications not obtained through the organization-approved application store.\n•\tAdministrative processes and technologies protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization’s network."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Mobile Device Management (MDM) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization’s network.
+  available: false
+  value: 5

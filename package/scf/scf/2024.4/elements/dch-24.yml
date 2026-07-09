@@ -1,0 +1,39 @@
+id: 882a2479-6b5b-5117-8258-c2b493f7d20a
+name: Information Location
+description: Mechanisms exist to identify and document the location of information and the specific system components on which the information resides.
+elementType: control
+externalId: DCH-24
+controlQuestion: Does the organization identify and document the location of information and the specific system components on which the information resides?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

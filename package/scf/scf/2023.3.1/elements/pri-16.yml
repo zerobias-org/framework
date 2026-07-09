@@ -1,0 +1,40 @@
+id: 6edd2469-b77d-5a43-be41-73be1a365fd4
+name: Potential Human Rights Abuses
+description: Mechanisms exist to constrain the supply of physical and/or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/or contractual obligations.
+elementType: control
+externalId: PRI-16
+controlQuestion: Does the organization constrain the supply of physical and/or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/or contractual obligations?
+methodsToComply: '- Board of Directors (Bod) Ethics Committee'
+functionGrouping: Protect
+controlWeighting: '10'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to constrain the supply of physical and/ or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/ or contractual obligations.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to constrain the supply of physical and/ or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/ or contractual obligations.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to constrain the supply of physical and/ or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/ or contractual obligations.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Privacy (PRI) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Privacy program, run by a Chief Privacy Officer (CPO), or similar role, ensures that applicable statutory, regulatory and contractual data privacy obligations are properly identified and implemented to limit and secure Personal Data (PD) that the organization stores, transmits and processes.\n•\tA data privacy team oversees the centralized-management of physical security controls across the enterprise.\n•\tData Protection Officers (DPOs) are assigned to work closely with business units and project teams to ensure data privacy principles are being implemented.\n•\tCPO and DPO determine and document the legal authority that permits the collection, use, maintenance and sharing of PD, either generally or in support of a specific program or system need.\n•\tAs part of the organization’s data privacy program, the CPO publishes a clear set of “data privacy principles”, based on leading data privacy practices, that systems, applications, services, processes and third-parties must adhere to.\n•\tA Project Management Office (PMO), or project management function, ensures both cybersecurity & data privacy principles are identified and implemented within ongoing or planned projects.\n•\tThe Chief Information Officer (CIO), Chief Information Security Officer (CISO) and CPO collaborate on methods to constrain the supply of physical and/ or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/ or contractual obligations."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to constrain the supply of physical and/ or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/ or contractual obligations.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to constrain the supply of physical and/ or digital activity logs to the host government that can directly lead to contravention of the Universal Declaration of Human Rights (UDHR), as well as other applicable statutory, regulatory and/ or contractual obligations.
+  available: false
+  value: 5

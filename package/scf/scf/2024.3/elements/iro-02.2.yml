@@ -1,0 +1,39 @@
+id: 5cc65733-16dd-52e1-b0f4-22029024c3c3
+name: Insider Threat Response Capability
+description: Mechanisms exist to implement and govern an insider threat program.
+elementType: enhancement
+externalId: IRO-02.2
+controlQuestion: Does the organization implement and govern an insider threat program?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iro-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

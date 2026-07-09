@@ -1,0 +1,39 @@
+id: 33074aee-0339-5c35-9792-fde3b1dfff20
+name: Telecommunications Services Availability
+description: Mechanisms exist to reduce the likelihood of a single point of failure with primary telecommunications services.
+elementType: control
+externalId: BCD-10
+controlQuestion: Does the organization reduce the likelihood of a single point of failure with primary telecommunications services?
+functionGrouping: Recover
+controlWeighting: '6'
+parent: bcd
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 3b51c5a0-3a6f-5bd5-a590-4f0441e0b390
+name: Cloud Infrastructure Onboarding
+description: Mechanisms exist to ensure cloud services are designed and configured so systems, applications and processes are secured in accordance with applicable organizational standards, as well as statutory, regulatory and contractual obligations.
+elementType: enhancement
+externalId: CLD-01.1
+controlQuestion: Does the organization ensure cloud services are designed and configured so systems, applications and processes are secured in accordance with applicable organizational standards, as well as statutory, regulatory and contractual obligations?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cld-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

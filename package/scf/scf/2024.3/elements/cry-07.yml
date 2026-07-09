@@ -1,0 +1,39 @@
+id: 86081b5d-ce67-5684-996c-2254a78d0e0b
+name: Wireless Access Authentication & Encryption
+description: Mechanisms exist to protect wireless access via secure authentication and encryption.
+elementType: control
+externalId: CRY-07
+controlQuestion: Does the organization protect wireless access via secure authentication and encryption?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cry
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 0199d583-83da-5ca5-a93f-0145d11b5637
+name: Commercial Off-The-Shelf (COTS) Security Solutions
+description: Mechanisms exist to utilize only Commercial Off-the-Shelf (COTS) security products.
+elementType: control
+externalId: TDA-03
+controlQuestion: Does the organization utilize only Commercial Off-the-Shelf (COTS) security products?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 35b2054b-743c-5706-92fb-93a0e796ca01
+name: Domain-Based Message Authentication Reporting and Conformance (DMARC)
+description: Mechanisms exist to implement domain signature verification protections that authenticate incoming email according to the Domain-based Message Authentication Reporting and Conformance (DMARC).
+elementType: enhancement
+externalId: NET-20.4
+controlQuestion: Does the organization implement domain signature verification protections that authenticate incoming email according to the Domain-based Message Authentication Reporting and Conformance (DMARC)?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: net-20
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

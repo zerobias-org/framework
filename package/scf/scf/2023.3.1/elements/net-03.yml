@@ -1,0 +1,39 @@
+id: c95d4703-d245-5c42-9d61-c9e8328d0014
+name: Boundary Protection
+description: Mechanisms exist to monitor and control communications at the external network boundary and at key internal boundaries within the network.
+elementType: control
+externalId: NET-03
+controlQuestion: Are boundary protection mechanisms utilized to monitor and control communications at the external network boundary and at key internal boundaries within the network?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to monitor and control communications at the external network boundary and at key internal boundaries within the network.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Network Security (NET) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT personnel use an informal process to design, build and maintain secure networks for test, development, staging and production environments, including the implementation of appropriate cybersecurity & data privacy controls.\n•\tAdministrative processes are used to configure boundary devices (e.g., firewalls, routers, etc.) to deny network traffic by default and allow network traffic by exception (e.g., deny all, permit by exception).\n•\tNetwork monitoring is primarily reactive in nature."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Network Security (NET) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tNetwork security management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for network security management.\n•\tIT personnel define secure networking practices to protect the confidentiality, integrity, availability and safety of the organization’s technology assets, data and network(s).\n•\tAdministrative processes and technologies focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tAdministrative processes are used to configure boundary devices (e.g., firewalls, routers, etc.) to deny network traffic by default and allow network traffic by exception (e.g., deny all, permit by exception).\n•\tNetwork segmentation exists to implement separate network addresses (e.g., different subnets) to connect systems in different security domains (e.g., sensitive/regulated data environments).\n•\tBoundary protection technologies monitor and control communications at the external network boundary and at key internal boundaries within the network."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Network Security (NET) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Technology Infrastructure team, or similar function, defines centrally-managed network security controls for implementation across the enterprise.\n•\tIT/cybersecurity architects work with the Technology Infrastructure team to implement a “layered defense” network architecture that provides a defense-in-depth approach for redundancy and risk reduction for network-based security controls, including wired and wireless networking.\n•\tAdministrative processes and technologies configure boundary devices (e.g., firewalls, routers, etc.) to deny network traffic by default and allow network traffic by exception (e.g., deny all, permit by exception).\n•\tTechnologies automate the Access Control Lists (ACLs) and similar rulesets review process to identify security issues and/ or misconfigurations.\n•\tNetwork segmentation exists to implement separate network addresses (e.g., different subnets) to connect systems in different security domains (e.g., sensitive/regulated data environments).\n•\tBoundary protection technologies monitor and control communications at the external network boundary and at key internal boundaries within the network."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to monitor and control communications at the external network boundary and at key internal boundaries within the network.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to monitor and control communications at the external network boundary and at key internal boundaries within the network.
+  available: false
+  value: 5

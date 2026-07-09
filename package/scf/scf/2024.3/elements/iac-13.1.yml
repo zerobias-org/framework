@@ -1,0 +1,39 @@
+id: 175dd5af-1249-57a7-a1db-71dc4b0ad153
+name: Single Sign-On (SSO) Transparent Authentication
+description: Mechanisms exist to provide a transparent authentication (e.g., Single Sign-On (SSO)) capability to the organization's systems and services.
+elementType: enhancement
+externalId: IAC-13.1
+controlQuestion: Does the organization provide a Single Sign-On (SSO) capability to the organization's systems and services?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 7e11375c-295e-5140-99ce-8bff49eb642f
+name: Usage Parameters
+description: Mechanisms exist to monitor and enforce usage parameters that limit the potential damage caused from the unauthorized or unintentional alteration of system parameters.
+elementType: control
+externalId: AST-14
+controlQuestion: Does the organization monitor and enforce usage parameters that limit the potential damage caused from the unauthorized or unintentional alteration of system parameters?
+functionGrouping: Identify
+controlWeighting: '7'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

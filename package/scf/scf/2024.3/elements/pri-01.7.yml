@@ -1,0 +1,39 @@
+id: 0ed5d997-0b3b-52e3-8f3a-794fc1c2715e
+name: Limiting Personal Data Disclosures
+description: Mechanisms exist to limit the disclosure of Personal Data (PD) to authorized parties for the sole purpose for which the PD was obtained.
+elementType: enhancement
+externalId: PRI-01.7
+controlQuestion: Does the organization limit the disclosure of Personal Data (PD) to authorized parties for the sole purpose for which the PD was obtained?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: pri-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

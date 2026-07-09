@@ -1,0 +1,39 @@
+id: 7291cd9f-06fb-5d25-b7ea-ab9ed5a73147
+name: Restrict Access To Security Functions
+description: Mechanisms exist to ensure security functions are restricted to authorized individuals and enforce least privilege control requirements for necessary job functions.
+elementType: control
+externalId: END-16
+controlQuestion: Does the organization ensure security functions are restricted to authorized individuals and enforce least privilege control requirements for necessary job functions?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: end
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 601cac52-42a9-5f62-851d-bc1025a84f3b
+name: Domain Name Verification
+description: Mechanisms exist to ensure that domain name lookups, whether for internal or external domains, are validated according to Domain Name System Security Extensions (DNSSEC).
+elementType: enhancement
+externalId: NET-18.5
+controlQuestion: Does the organization ensure that domain name lookups, whether for internal or external domains, are validated according to Domain Name System Security Extensions (DNSSEC)?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net-18
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

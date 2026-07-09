@@ -1,0 +1,39 @@
+id: a202ccf6-27a2-5040-b89c-e5f30bb5fb52
+name: Information Search & Retrieval
+description: Mechanisms exist to ensure information systems implement data search and retrieval functions that properly enforce data protection / sharing restrictions.
+elementType: enhancement
+externalId: DCH-14.1
+controlQuestion: Does the organization ensure information systems implement data search and retrieval functions that properly enforce data protection / sharing restrictions?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: dch-14
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

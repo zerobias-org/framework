@@ -1,0 +1,40 @@
+id: 04850ea1-bbcd-56a9-a52b-39be3126a417
+name: Public Key Infrastructure (PKI)
+description: Mechanisms exist to securely implement an internal Public Key Infrastructure (PKI) infrastructure or obtain PKI services from a reputable PKI service provider.
+elementType: control
+externalId: CRY-08
+controlQuestion: Does the organization securely implement an internal Public Key Infrastructure (PKI) infrastructure or obtain PKI services from a reputable PKI service provider?
+methodsToComply: "- Microsoft Active Directory (AD) Certificate Services\r\n- Digitcert (https://www.digicert.com)\r\n- Entrust (https://www.entrust.com)\r\n- Comodo (https://www.comodo.com)\r\n- Vault (https://www.vaultproject.io/)"
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cry
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to securely implement an internal Public Key Infrastructure (PKI) infrastructure or obtain PKI services from a reputable PKI service provider.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Cryptographic Protections (CRY) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tNetwork communications containing sensitive/regulated data are protected using a cryptographic mechanism to prevent unauthorized disclosure of information while in transit (e.g., SSH, TLS, VPN, etc.).\n•\tWireless access is protected via secure authentication and encryption."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Cryptographic Protections (CRY) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCryptographic management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for cryptographic management.\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tDecentralized technologies implement cryptographic mechanisms on endpoints to control how sensitive/regulated data is encrypted during transmission and in storage.\n•\tSystems, applications and services that store, process or transmit sensitive/regulated data use cryptographic mechanisms to prevent unauthorized disclosure of information as an alternate to physical safeguards.\n•\tThe IT department implements Public Key Infrastructure (PKI) key management controls to protect the confidentiality, integrity and availability of keys.\n•\tThe IT department implements and maintains an internal PKI infrastructure or obtains PKI services from a reputable PKI service provider.\n•\tThe PKI infrastructure enables the secure distribution of symmetric and asymmetric cryptographic keys using industry recognized key management technology and processes.\n•\tThe PKI infrastructure ensures the availability of information in the event of the loss of cryptographic keys by individual users.\n•\tThe PKI infrastructure enables the secure distribution of symmetric and asymmetric cryptographic keys using industry recognized key management technology and processes.\n•\tThe PKI management function enables the implementation of cryptographic key management controls to protect the confidentiality, integrity and availability of keys."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cryptographic Protections (CRY) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tCentrally-managed technologies implement cryptographic mechanisms on endpoints to control how sensitive/regulated data is encrypted during transmission and in storage.\n•\tSystems, applications and services that store, process or transmit sensitive/regulated data use cryptographic mechanisms to prevent unauthorized disclosure of information as an alternate to physical safeguards.\n•\tThe Public Key Infrastructure (PKI) management function enables the implementation of cryptographic key management controls to protect the confidentiality, integrity and availability of keys.\n•\tThe PKI infrastructure enables the secure distribution of symmetric and asymmetric cryptographic keys using industry recognized key management technology and processes.\n•\tThe PKI infrastructure ensures the availability of information in the event of the loss of cryptographic keys by individual users.\n•\tAn IT infrastructure team, or similar function, enables:\no\tThe production and management of asymmetric cryptographic keys using approved key management technology and processes that protect the user’s private key.\no\tThe production and management of symmetric cryptographic keys using approved key management technology and processes that protect the user’s private key."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to securely implement an internal Public Key Infrastructure (PKI) infrastructure or obtain PKI services from a reputable PKI service provider.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to securely implement an internal Public Key Infrastructure (PKI) infrastructure or obtain PKI services from a reputable PKI service provider.
+  available: false
+  value: 5

@@ -1,0 +1,39 @@
+id: 7bcfe2aa-1543-53d1-b01b-a6d12b59d441
+name: Supporting Utilities
+description: Facility security mechanisms exist to protect power equipment and power cabling for the system from damage and destruction.
+elementType: control
+externalId: PES-07
+controlQuestion: Does the organization protect power equipment and power cabling for the system from damage and destruction?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: pes
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

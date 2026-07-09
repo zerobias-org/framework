@@ -1,0 +1,39 @@
+id: 5f3b15c9-1819-5711-a24e-ce67e71cc439
+name: Wireless Networking
+description: Mechanisms exist to control authorized wireless usage and monitor for unauthorized wireless access.
+elementType: control
+externalId: NET-15
+controlQuestion: Does the organization control authorized wireless usage and monitor for unauthorized wireless access?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

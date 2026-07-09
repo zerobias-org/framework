@@ -1,0 +1,39 @@
+id: cebf9210-ef26-5afd-af63-9baa7b85d157
+name: Previously Unknown AI & Autonomous Technologies Threats & Risks
+description: Mechanisms exist to respond to and recover from a previously unknown Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risk when it is identified.
+elementType: enhancement
+externalId: AAT-17.3
+controlQuestion: Does the organization respond to and recover from a previously unknown Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risk when it is identified?
+functionGrouping: Govern
+controlWeighting: '9'
+parent: aat-17
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

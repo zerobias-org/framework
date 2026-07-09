@@ -1,0 +1,39 @@
+id: 870988e8-5a42-5e1a-adb3-02564f15cba4
+name: Flaw Remediation with Personal Data (PD)
+description: Mechanisms exist to identify and correct flaws related to the collection, usage, processing or dissemination of Personal Data (PD).
+elementType: enhancement
+externalId: VPM-04.2
+controlQuestion: Does the organization identify and correct flaws related to the collection, usage, processing or dissemination of Personal Data (PD)?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: vpm-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

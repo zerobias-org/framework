@@ -1,0 +1,39 @@
+id: 82dd2086-ae36-59d2-b0fb-e597823c62af
+name: Object Security Attributes
+description: Mechanisms exist to associate security attributes with information, source and destination objects to enforce defined information flow control configurations as a basis for flow control decisions.
+elementType: enhancement
+externalId: NET-04.2
+controlQuestion: Does the organization associate security attributes with information, source and destination objects to enforce defined information flow control configurations as a basis for flow control decisions?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

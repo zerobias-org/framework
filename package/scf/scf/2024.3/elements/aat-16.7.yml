@@ -1,0 +1,39 @@
+id: 635d58b2-b7e9-519b-9b33-586968a637f7
+name: Pre-Trained AI & Autonomous Technologies Models
+description: Mechanisms exist to validate the information sources and quality of pre-trained models used in Artificial Intelligence (AI) and Autonomous Technologies (AAT training, maintenance and improvement-related activities.
+elementType: enhancement
+externalId: AAT-16.7
+controlQuestion: Does the organization validate the information sources and quality of pre-trained models used in Artificial Intelligence (AI) and Autonomous Technologies (AAT training, maintenance and improvement-related activities?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: aat-16
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

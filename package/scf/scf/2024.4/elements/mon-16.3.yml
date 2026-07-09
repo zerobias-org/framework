@@ -1,0 +1,39 @@
+id: ca921607-4cd2-591f-b52c-bc832110ac26
+name: Unauthorized Activities
+description: Mechanisms exist to monitor for unauthorized activities, accounts, connections, devices and software.
+elementType: enhancement
+externalId: MON-16.3
+controlQuestion: Does the organization monitor for unauthorized activities, accounts, connections, devices and software?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: mon-16
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

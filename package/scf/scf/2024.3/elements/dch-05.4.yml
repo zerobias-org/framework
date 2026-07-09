@@ -1,0 +1,39 @@
+id: 4e03e57b-2a58-547d-abe8-92f1d63b0b9d
+name: Association of Attributes By Authorized Individuals
+description: Mechanisms exist to provide the capability to associate cybersecurity & data privacy attributes with individuals and objects by authorized individuals (or processes acting on behalf of individuals).
+elementType: enhancement
+externalId: DCH-05.4
+controlQuestion: Does the organization provide the capability to associate cybersecurity & data privacy attributes with individuals and objects by authorized individuals (or processes acting on behalf of individuals)?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: dch-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

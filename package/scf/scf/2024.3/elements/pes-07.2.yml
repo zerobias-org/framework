@@ -1,0 +1,39 @@
+id: c348a07f-3e68-5551-88c8-e0ea2ead0d4b
+name: Emergency Shutoff
+description: "Facility security mechanisms exist to shut off power in emergency situations by:\r\n ▪ Placing emergency shutoff switches or devices in close proximity to systems or system components to facilitate safe and easy access for personnel; and\r\n ▪ Protecting emergency power shutoff capability from unauthorized activation."
+elementType: enhancement
+externalId: PES-07.2
+controlQuestion: "Does the organization shut off power in emergency situations by:\r\n •Placing emergency shutoff switches or devices in close proximity to systems or system components to facilitate safe and easy access for personnel; and\r\n •Protecting emergency power shutoff capability from unauthorized activation?"
+functionGrouping: Protect
+controlWeighting: '8'
+parent: pes-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

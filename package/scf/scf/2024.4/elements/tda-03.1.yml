@@ -1,0 +1,39 @@
+id: 7bcb8ffa-ad82-50fb-ac59-e26760e18858
+name: Supplier Diversity
+description: Mechanisms exist to obtain cybersecurity & data privacy technologies from different suppliers to minimize supply chain risk.
+elementType: enhancement
+externalId: TDA-03.1
+controlQuestion: Does the organization obtain cybersecurity & data privacy technologies from different suppliers to minimize supply chain risk?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: tda-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

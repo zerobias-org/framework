@@ -1,0 +1,39 @@
+id: eb23a8db-f58e-5d76-90ad-3048ab06f10d
+name: Vendor Cybersecurity & Data Privacy Training
+description: Mechanisms exist to incorporate vendor-specific security training in support of new technology initiatives.
+elementType: enhancement
+externalId: SAT-03.4
+controlQuestion: Does the organization incorporate vendor-specific security training in support of new technology initiatives?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: sat-03
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to incorporate vendor-specific security training in support of new technology initiatives.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Security Awareness & Training (SAT) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tTraining activities are decentralized.\n•\tSecurity awareness and training methods are often generic, without organization-specific content.\n•\tIT/cybersecurity personnel self-manage their professional certification requirements to support their assigned duties.\n•\tPersonnel management is mainly decentralized, with the responsibility for training users on new technologies and enforcing policies being assigned to users’ supervisors and managers."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Security Awareness & Training (SAT) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tTraining and awareness activities are decentralized (e.g., a localized/regionalized function) and use non-standardized methods to implement secure and compliant practices.\n•\tThe Human Resources (HR) department works with cybersecurity personnel to facilitate workforce development and awareness to help ensure secure practices are implemented.\n•\tSecurity awareness and training methods are role-based (e.g., handling sensitive/regulated data).\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity & data privacy controls to address applicable statutory, regulatory and contractual requirements for security training and awareness activities.\no\tCreate/govern security and awareness training to meet specific statutory, regulatory and/ or contractual compliance obligations.\no\tSelf-manage their professional certification requirements to support their assigned duties.\n•\tBusiness process owners are required to incorporate vendor-specific security training in support of new technology initiatives."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Security Awareness & Training (SAT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Governance, Risk & Compliance (GRC) function, or similar function:\no\tProvides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity & data privacy controls to protect the confidentiality, integrity, availability and safety of the organization’s applications, systems, services and data with regards to security awareness and training.\no\tDefines minimum cybersecurity training (including certifications) for personnel, based on their specific roles.\no\tCreates/governs security and awareness training to meet specific statutory, regulatory and/ or contractual compliance obligations.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity & data privacy program, including security awareness and training.\n•\tSecurity awareness and training methods are role-based (e.g., handling sensitive/regulated data).\n•\tThe Human Resources (HR) department:\no\tIdentifies and implements industry-recognized HR practices related to security workforce development and awareness to help ensure secure practices are implemented in personnel management operations.\no\tDocuments, retains and monitors individual training activities, including basic security awareness training, ongoing awareness training and specific-system training.\no\tEnsures that every user accessing a system processing, storing or transmitting sensitive/regulated data is formally trained in data handling requirements.\no\tEnsures all employees and contractors receive awareness education and training that is relevant for their job function, including social engineering-related threats.\n•\tBusiness process owners are required to incorporate vendor-specific security training in support of new technology initiatives."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Security Awareness & Training (SAT) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to incorporate vendor-specific security training in support of new technology initiatives.
+  available: false
+  value: 5

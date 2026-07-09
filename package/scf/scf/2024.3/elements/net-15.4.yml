@@ -1,0 +1,39 @@
+id: d866c2f3-e711-51e0-9068-9c1cb27b2816
+name: Wireless Boundaries
+description: Mechanisms exist to confine wireless communications to organization-controlled boundaries.
+elementType: enhancement
+externalId: NET-15.4
+controlQuestion: Does the organization confine wireless communications to organization-controlled boundaries?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-15
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

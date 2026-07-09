@@ -1,0 +1,39 @@
+id: b4383792-d770-524d-88a9-b1cefd430dc0
+name: Separation of Maintenance Sessions
+description: Mechanisms exist to protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions.
+elementType: enhancement
+externalId: MNT-05.7
+controlQuestion: Does the organization protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions?
+functionGrouping: Protect
+controlWeighting: '1'
+parent: mnt-05
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Maintenance (MNT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT/cybersecurity personnel develop and disseminate formal practices to implement enterprise-wide capability to conduct secure and timely technology asset-specific maintenance operations, including preventative and reactionary maintenance operations.\n•\tTechnology asset-related maintenance operations are centralized in terms of change management and governance. Local/regional practices fall under the broader enterprise-wide technology asset maintenance program.\n•\tFacilities management uses an enterprise-wide process to facilitate the secure and timely implementation of non-IT maintenance operations, including preventative and reactionary maintenance operations. Local/regional practices fall under the broader enterprise-wide facilities management program.\n•\tA Change Control Board (CCB), or similar function, centrally manages the process of IT and non-IT maintenance operations to reduce the chance of business interruptions from maintenance operations."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions.
+  available: false
+  value: 5

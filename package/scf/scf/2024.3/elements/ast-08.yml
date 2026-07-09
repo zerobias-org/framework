@@ -1,0 +1,39 @@
+id: 143f2791-af92-5d45-8245-b87129fd30bf
+name: Physical Tampering Detection
+description: Mechanisms exist to periodically inspect systems and system components for Indicators of Compromise (IoC).
+elementType: control
+externalId: AST-08
+controlQuestion: Does the organization periodically inspect systems and system components for Indicators of Compromise (IoC)?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

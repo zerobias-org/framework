@@ -1,0 +1,39 @@
+id: 6086ff1f-0164-5856-aeeb-1b5b39dba3b9
+name: Software Installation Alerts
+description: Mechanisms exist to generate an alert when new software is detected.
+elementType: enhancement
+externalId: END-03.1
+controlQuestion: Does the organization generate an alert when new software is detected?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: end-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: b03c511b-b01c-52d6-a328-bb0794db62f6
+name: Incident Stakeholder Reporting
+description: "Mechanisms exist to timely-report incidents to applicable:\r\n (1) Internal stakeholders; \r\n (2) Affected clients & third-parties; and\r\n (3) Regulatory authorities."
+elementType: control
+externalId: IRO-10
+controlQuestion: "Does the organization timely-report incidents to applicable:\r\n (1) Internal stakeholders; \r\n (2) Affected clients & third-parties; and\r\n (3) Regulatory authorities?"
+functionGrouping: Respond
+controlWeighting: '9'
+parent: iro
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

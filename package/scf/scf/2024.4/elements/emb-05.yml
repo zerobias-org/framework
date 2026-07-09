@@ -1,0 +1,39 @@
+id: 4cc0fd1c-01b5-513e-a076-ec3d8f1049d6
+name: Embedded Technology Configuration Monitoring
+description: Mechanisms exist to generate log entries on embedded devices when configuration changes or attempts to access interfaces are detected.
+elementType: control
+externalId: EMB-05
+controlQuestion: Does the organization generate log entries on embedded devices when configuration changes or attempts to access interfaces are detected?
+functionGrouping: Detect
+controlWeighting: '6'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 71337783-3f08-573f-bf3e-e28f76eec987
+name: Cryptographic Module Authentication
+description: Mechanisms exist to ensure cryptographic modules adhere to applicable statutory, regulatory and contractual requirements for security strength.
+elementType: control
+externalId: IAC-12
+controlQuestion: Does the organization ensure cryptographic modules adhere to applicable statutory, regulatory and contractual requirements for security strength?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

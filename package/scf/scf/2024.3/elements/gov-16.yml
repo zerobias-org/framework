@@ -1,0 +1,39 @@
+id: 7debe97e-8721-5f93-b023-c6467628c11e
+name: Materiality Determination
+description: Mechanisms exist to define materiality threshold criteria capable of designating an incident as material to the organization.
+elementType: control
+externalId: GOV-16
+controlQuestion: Does the organization define materiality threshold criteria capable of designating an incident as material to the organization?
+functionGrouping: Govern
+controlWeighting: '7'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: a39bca81-2069-53fb-9e1e-e5ab6a1cfc7b
+name: Dual Authorization for Event Log Movement
+description: Automated mechanisms exist to enforce dual authorization for the movement or deletion of event logs.
+elementType: enhancement
+externalId: MON-08.4
+controlQuestion: Does the organization use automated mechanisms to enforce dual authorization for the movement or deletion of event logs?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: mon-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

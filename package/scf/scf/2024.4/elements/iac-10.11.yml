@@ -1,0 +1,39 @@
+id: 2d66597c-63a7-5b39-8d1a-1adfc39744e0
+name: Password Managers
+description: Mechanisms exist to protect and store passwords via a password manager tool.
+elementType: enhancement
+externalId: IAC-10.11
+controlQuestion: Does the organization protect and store passwords via a password manager tool?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: iac-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

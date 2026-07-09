@@ -1,0 +1,39 @@
+id: 340a5deb-790c-57e5-980b-4ee879a6a891
+name: Out-of-Band Multi-Factor Authentication
+description: Mechanisms exist to implement Multi-Factor Authentication (MFA) for access to privileged and non-privileged accounts such that one of the factors is independently provided by a device separate from the system being accessed.
+elementType: enhancement
+externalId: IAC-06.4
+controlQuestion: Does the organization implements Multi-Factor Authentication (MFA) for access to privileged and non-privileged accounts such that one of the factors is securely provided by a device separate from the system gaining access?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

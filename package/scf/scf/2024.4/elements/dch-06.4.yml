@@ -1,0 +1,39 @@
+id: 12a39a3e-87bf-59bb-9ed1-74e4d59dd65b
+name: Making Sensitive Data Unreadable In Storage
+description: Mechanisms exist to ensure sensitive/regulated data is rendered human unreadable anywhere sensitive/regulated data is stored.
+elementType: enhancement
+externalId: DCH-06.4
+controlQuestion: Does the organization ensure sensitive/regulated data is rendered human unreadable anywhere sensitive/regulated data is stored?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: dch-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 3445a97d-afea-5dd7-ad9f-15b701a7981e
+name: Data Masking
+description: Mechanisms exist to mask sensitive/regulated data through data anonymization, pseudonymization, redaction or de-identification.
+elementType: enhancement
+externalId: PRI-05.3
+controlQuestion: Does the organization mask sensitive/regulated data through data anonymization, pseudonymization, redaction or de-identification?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: pri-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

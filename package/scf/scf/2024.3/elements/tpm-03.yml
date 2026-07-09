@@ -1,0 +1,39 @@
+id: 9bef78de-850c-542b-be4d-27d778f084ba
+name: Supply Chain Protection
+description: Mechanisms exist to evaluate security risks associated with the services and product supply chain.
+elementType: control
+externalId: TPM-03
+controlQuestion: Does the organization evaluate security risks associated with the services and product supply chain?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: tpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

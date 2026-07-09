@@ -1,0 +1,39 @@
+id: 3b0b1568-ac18-5c79-a3a8-30e6bc2b4050
+name: System Privileges Isolation
+description: Mechanisms exist to isolate, or logically separate, any application, service and/or process running with system privileges.
+elementType: enhancement
+externalId: SEA-04.4
+controlQuestion: Does the organization isolate, or logically separate, any application, service and/or process running with system privileges?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: sea-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

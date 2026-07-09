@@ -1,0 +1,39 @@
+id: cefa354a-03e5-5326-b544-ed96294711a6
+name: Virtual Machine Images
+description: Mechanisms exist to ensure the integrity of virtual machine images at all times.
+elementType: control
+externalId: CLD-05
+controlQuestion: Does the organization ensure the integrity of virtual machine images at all times?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

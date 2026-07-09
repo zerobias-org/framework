@@ -1,0 +1,39 @@
+id: ad1ca40d-7c46-5e29-85a3-10bf53bc6029
+name: Access To Sensitive / Regulated Data
+description: Mechanisms exist to limit access to sensitive/regulated data to only those individuals whose job requires such access.
+elementType: enhancement
+externalId: IAC-20.1
+controlQuestion: Does the organization limit access to sensitive/regulated data to only those individuals whose job requires such access?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: iac-20
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

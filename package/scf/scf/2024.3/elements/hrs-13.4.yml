@@ -1,0 +1,39 @@
+id: 3b25c4b6-0a09-5a06-92c7-ccf5b19687cf
+name: Perform Succession Planning
+description: Mechanisms exist to perform succession planning for vital cybersecurity & data privacy roles.
+elementType: enhancement
+externalId: HRS-13.4
+controlQuestion: Does the organization perform succession planning for vital cybersecurity & data privacy roles?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: hrs-13
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 38250d9a-3d47-522c-90a0-ed1ad868ae44
+name: Intranets
+description: "Mechanisms exist to establish trust relationships with other organizations owning, operating, and/or maintaining intranet systems, allowing authorized individuals to: \r\n ▪ Access the intranet from external systems; and\r\n ▪ Process, store, and/or transmit organization-controlled information using the external systems."
+elementType: control
+externalId: NET-16
+controlQuestion: "Does the organization establish trust relationships with other organizations owning, operating, and/or maintaining intranet systems, allowing authorized individuals to: \r\n •Access the intranet from external systems; and\r\n •Process, store, and/or transmit organization-controlled information using the external systems?"
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

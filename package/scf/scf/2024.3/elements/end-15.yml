@@ -1,0 +1,39 @@
+id: f28baf41-1045-5908-b774-27f2faf00a5c
+name: Hypervisor Access
+description: Mechanisms exist to restrict access to hypervisor management functions or administrative consoles for systems hosting virtualized systems.
+elementType: control
+externalId: END-15
+controlQuestion: Does the organization restrict access to hypervisor management functions or administrative consoles for systems hosting virtualized systems?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: end
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

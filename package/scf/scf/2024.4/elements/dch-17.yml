@@ -1,0 +1,39 @@
+id: 1389c2ab-54b2-5dbb-9a26-f731955a99d5
+name: Ad-Hoc Transfers
+description: Mechanisms exist to secure ad-hoc exchanges of large digital files with internal or external parties.
+elementType: control
+externalId: DCH-17
+controlQuestion: Does the organization secure ad-hoc exchanges of large digital files with internal or external parties?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

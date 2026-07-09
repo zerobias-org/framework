@@ -1,0 +1,39 @@
+id: 97b3045a-39ff-52f2-8821-ed521d36b4cb
+name: Management Approval For New or Changed Accounts
+description: Mechanisms exist to ensure management approvals are required for new accounts or changes in permissions to existing accounts.
+elementType: enhancement
+externalId: IAC-28.1
+controlQuestion: Does the organization ensure management approvals are required for new accounts or changes in permissions to existing accounts?
+functionGrouping: Detect
+controlWeighting: '10'
+parent: iac-28
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

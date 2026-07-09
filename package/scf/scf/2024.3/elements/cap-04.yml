@@ -1,0 +1,39 @@
+id: 1e75889b-19da-5f0d-9dcb-244ada5648ad
+name: Performance Monitoring
+description: Automated mechanisms exist to centrally-monitor and alert on the operating state and health status of critical systems, applications and services.
+elementType: control
+externalId: CAP-04
+controlQuestion: Does the organization use automated mechanisms to centrally-monitor and alert on the operating state and health status of critical systems, applications and services?
+functionGrouping: Detect
+controlWeighting: '7'
+parent: cap
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

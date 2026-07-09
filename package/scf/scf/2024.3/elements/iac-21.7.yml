@@ -1,0 +1,39 @@
+id: 64779021-80f6-58b7-83f7-a1b6d8ee075d
+name: Privilege Levels for Code Execution
+description: Automated mechanisms exist to prevent applications from executing at higher privilege levels than the user's privileges.
+elementType: enhancement
+externalId: IAC-21.7
+controlQuestion: Does the organization use automated mechanisms to prevent applications from executing at higher privilege levels than the user's privileges?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-21
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

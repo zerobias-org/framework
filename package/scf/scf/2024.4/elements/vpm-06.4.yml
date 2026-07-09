@@ -1,0 +1,39 @@
+id: d8cdf35b-38bb-58bb-8c7e-a5dded4f5509
+name: Trend Analysis
+description: Automated mechanisms exist to compare the results of vulnerability scans over time to determine trends in system vulnerabilities.
+elementType: enhancement
+externalId: VPM-06.4
+controlQuestion: Does the organization use automated mechanisms to compare the results of vulnerability scans over time to determine trends in system vulnerabilities?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: vpm-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

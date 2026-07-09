@@ -1,0 +1,39 @@
+id: e57df16f-88f3-5c2f-b33a-9156f4e6eb56
+name: Physical Access Logs
+description: Physical access control mechanisms generate a log entry for each access attempt through controlled ingress and egress points.
+elementType: enhancement
+externalId: PES-03.3
+controlQuestion: Does the organization generate a log entry for each access attempt through controlled ingress and egress points?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: pes-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

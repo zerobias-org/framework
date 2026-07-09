@@ -1,0 +1,39 @@
+id: e139b486-18b8-5857-888c-ae00c4ddf0d5
+name: Explicitly Allow / Deny Applications
+description: Mechanisms exist to explicitly allow (allowlist / whitelist) and/or block (denylist / blacklist) applications that are authorized to execute on systems.
+elementType: enhancement
+externalId: CFG-03.3
+controlQuestion: Does the organization explicitly allow (allowlist / whitelist) and/or block (denylist / blacklist) applications that are authorized to execute on systems?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: cfg-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

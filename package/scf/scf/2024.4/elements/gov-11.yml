@@ -1,0 +1,39 @@
+id: 36134962-0c47-5c73-b61b-15fcc6b82a07
+name: Purpose Validation
+description: Mechanisms exist to monitor mission/business-critical services or functions to ensure those resources are being used consistent with their intended purpose.
+elementType: control
+externalId: GOV-11
+controlQuestion: Does the organization monitor mission/business-critical services or functions to ensure those resources are being used consistent with their intended purpose?
+functionGrouping: Govern
+controlWeighting: '5'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

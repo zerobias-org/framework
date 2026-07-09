@@ -1,0 +1,39 @@
+id: 4d7a7d80-a9c8-59c1-a5df-762376c28228
+name: Threat Analysis
+description: Mechanisms exist to identify, assess, prioritize and document the potential impact(s) and likelihood(s) of applicable internal and external threats.
+elementType: control
+externalId: THR-10
+controlQuestion: Does the organization identify, assess, prioritize and document the potential impact(s) and likelihood(s) of applicable internal and external threats?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: thr
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

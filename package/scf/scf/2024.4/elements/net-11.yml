@@ -1,0 +1,39 @@
+id: 306ae3fe-c226-554d-9236-4059f4553ef9
+name: Out-of-Band Channels
+description: Mechanisms exist to utilize out-of-band channels for the electronic transmission of information and/or the physical shipment of system components or devices to authorized individuals.
+elementType: control
+externalId: NET-11
+controlQuestion: Does the organization utilize out-of-band channels for the electronic transmission of information and/or the physical shipment of system components or devices to authorized individuals?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 3017c8a8-1567-52bf-9d66-89464005c2e9
+name: Remote Maintenance Notifications
+description: Mechanisms exist to require maintenance personnel to notify affected stakeholders when remote, non-local maintenance is planned (e.g., date/time).
+elementType: enhancement
+externalId: MNT-05.2
+controlQuestion: Does the organization require maintenance personnel to notify affected stakeholders when remote, non-local maintenance is planned (e.g., date/time)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: mnt-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

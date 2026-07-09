@@ -1,0 +1,39 @@
+id: c9778fed-338d-55f2-9aec-e04541abebaa
+name: Geolocation Requirements for Processing, Storage and Service Locations
+description: Mechanisms exist to control the location of cloud processing/storage based on business requirements that includes statutory, regulatory and contractual obligations.
+elementType: control
+externalId: CLD-09
+controlQuestion: Does the organization control the location of cloud processing/storage based on business requirements that includes statutory, regulatory and contractual obligations?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

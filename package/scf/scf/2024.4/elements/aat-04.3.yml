@@ -1,0 +1,39 @@
+id: ec0ff4a3-dde6-5adb-91bf-22def13a5fa4
+name: AI & Autonomous Technologies Targeted Application Scope
+description: Mechanisms exist to specify and document the targeted application scope of the proposed use and operation of Artificial Intelligence (AI) and Autonomous Technologies (AAT).
+elementType: enhancement
+externalId: AAT-04.3
+controlQuestion: Does the organization specify and document the targeted application scope of the proposed use and operation of Artificial Intelligence (AI) and Autonomous Technologies (AAT)?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: aat-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

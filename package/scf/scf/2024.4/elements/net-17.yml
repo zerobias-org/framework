@@ -1,0 +1,39 @@
+id: 950d79e6-d081-55ad-b7d9-4c4d4265a07c
+name: Data Loss Prevention (DLP)
+description: Automated mechanisms exist to implement Data Loss Prevention (DLP) to protect sensitive information as it is stored, transmitted and processed.
+elementType: control
+externalId: NET-17
+controlQuestion: Does the organization use automated mechanisms to implement Data Loss Prevention (DLP) to protect sensitive information as it is stored, transmitted and processed?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

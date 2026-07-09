@@ -1,0 +1,39 @@
+id: 640ed960-c5f0-5772-ae05-fcfdbaf85861
+name: Physical Media Disposal
+description: Mechanisms exist to securely dispose of media when it is no longer required, using formal procedures.
+elementType: control
+externalId: DCH-08
+controlQuestion: Does the organization securely dispose of media when it is no longer required, using formal procedures?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

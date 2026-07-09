@@ -1,0 +1,39 @@
+id: 1e8d37f9-9d2f-54b3-9dc1-9aaa0c4e0d91
+name: Cloud Security Architecture
+description: Mechanisms exist to ensure the cloud security architecture supports the organization's technology strategy to securely design, configure and maintain cloud employments.
+elementType: control
+externalId: CLD-02
+controlQuestion: Does the organization ensure the cloud security architecture supports the organization's technology strategy to securely design, configure and maintain cloud employments?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

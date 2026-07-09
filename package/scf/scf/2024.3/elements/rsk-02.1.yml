@@ -1,0 +1,39 @@
+id: 7cf98192-5c51-5947-9cd2-43c78faa8218
+name: Impact-Level Prioritization
+description: Mechanisms exist to prioritize the impact level for systems, applications and/or services to prevent potential disruptions.
+elementType: enhancement
+externalId: RSK-02.1
+controlQuestion: Does the organization prioritize the impact level for systems, applications and/or services to prevent potential disruptions?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: rsk-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

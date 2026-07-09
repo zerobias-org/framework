@@ -1,0 +1,39 @@
+id: 424e7bc0-0a89-522c-9676-57be7c8097ae
+name: Certificate Denylisting
+description: Mechanisms exist to prevent communication with systems and/or services that use a set of known bad certificates.
+elementType: enhancement
+externalId: NET-18.9
+controlQuestion: Does the organization prevent communication with systems and/or services that use a set of known bad certificates?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: net-18
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: c25520ef-22f5-5824-b025-abd7dcbd039b
+name: Identification & Authentication for Non-Organizational Users
+description: Mechanisms exist to uniquely identify and centrally Authenticate, Authorize and Audit (AAA) third-party users and processes that provide services to the organization.
+elementType: control
+externalId: IAC-03
+controlQuestion: Does the organization uniquely identify and centrally Authenticate, Authorize and Audit (AAA) third-party users and processes that provide services to the organization?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

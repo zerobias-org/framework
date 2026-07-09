@@ -1,0 +1,39 @@
+id: 362c619c-6213-506c-a7d0-65ca7ef2f562
+name: Removable Media Security
+description: Mechanisms exist to restrict removable media in accordance with data handling and acceptable usage parameters.
+elementType: control
+externalId: DCH-12
+controlQuestion: Does the organization restrict removable media in accordance with data handling and acceptable usage parameters?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

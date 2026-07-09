@@ -1,0 +1,39 @@
+id: 7771af30-55d3-515e-bb80-51f659f420c2
+name: Internet of Things (IOT)
+description: Mechanisms exist to proactively manage the cybersecurity & data privacy risks associated with Internet of Things (IoT).
+elementType: control
+externalId: EMB-02
+controlQuestion: Does the organization proactively manage the cybersecurity & data privacy risks associated with Internet of Things (IoT)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

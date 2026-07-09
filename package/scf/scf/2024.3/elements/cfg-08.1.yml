@@ -1,0 +1,39 @@
+id: b46e0f5e-cfa5-5c1c-99f8-b5898da0a617
+name: Sensitive / Regulated Data Actions
+description: Automated mechanisms exist to generate event logs whenever sensitive/regulated data is collected, created, updated, deleted and/or archived.
+elementType: enhancement
+externalId: CFG-08.1
+controlQuestion: Does the organization use automated mechanisms to generate event logs whenever sensitive/regulated data is collected, created, updated, deleted and/or archived?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: cfg-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

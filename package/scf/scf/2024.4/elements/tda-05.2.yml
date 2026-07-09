@@ -1,0 +1,39 @@
+id: 1c8a7bf0-8fb4-5643-b0b7-cfd26912b52f
+name: Diagnostic & Test Interface Monitoring
+description: Mechanisms exist to enable endpoint devices to log events and generate alerts for attempts to access diagnostic and test interfaces.
+elementType: enhancement
+externalId: TDA-05.2
+controlQuestion: Does the organization enable endpoint devices to log events and generate alerts for attempts to access diagnostic and test interfaces?
+functionGrouping: Detect
+controlWeighting: '3'
+parent: tda-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

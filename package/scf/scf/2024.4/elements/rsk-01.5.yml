@@ -1,0 +1,39 @@
+id: b07be65b-b6ef-59ab-8bec-e613704ebc85
+name: Risk Appetite
+description: Mechanisms exist to define organizational risk appetite, the degree of uncertainty the organization is willing to accept in anticipation of a reward.
+elementType: enhancement
+externalId: RSK-01.5
+controlQuestion: Does the organization define organizational risk appetite, the degree of uncertainty the organization is willing to accept in anticipation of a reward?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: rsk-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

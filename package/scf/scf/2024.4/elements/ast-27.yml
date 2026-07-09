@@ -1,0 +1,39 @@
+id: 5b07f430-6714-59ef-891a-46a044373a6b
+name: Jump Server
+description: Mechanisms exist to conduct remote system administrative functions via a "jump box" or "jump server" that is located in a separate network zone to user workstations.
+elementType: control
+externalId: AST-27
+controlQuestion: Does the organization conduct remote system administrative functions via a "jump box" or "jump server" that is located in a separate network zone to user workstations?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: ast
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

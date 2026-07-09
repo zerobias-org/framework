@@ -1,0 +1,39 @@
+id: a73e2489-393f-5076-b135-8440a5b08e43
+name: Vulnerability & Patch Management Program (VPMP)
+description: Mechanisms exist to facilitate the implementation and monitoring of vulnerability management controls.
+elementType: control
+externalId: VPM-01
+controlQuestion: Does the organization facilitate the implementation and monitoring of vulnerability management controls?
+functionGrouping: Govern
+controlWeighting: '9'
+parent: vpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

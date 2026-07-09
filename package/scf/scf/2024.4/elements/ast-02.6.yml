@@ -1,0 +1,39 @@
+id: e74860c5-79dd-5c09-bf6c-2d6dc2886a8e
+name: Dynamic Host Configuration Protocol (DHCP) Server Logging
+description: Mechanisms exist to enable Dynamic Host Configuration Protocol (DHCP) server logging to improve asset inventories and assist in detecting unknown systems.
+elementType: enhancement
+externalId: AST-02.6
+controlQuestion: Does the organization enable Dynamic Host Configuration Protocol (DHCP) server logging to improve asset inventories and assist in detecting unknown systems?
+functionGrouping: Identify
+controlWeighting: '3'
+parent: ast-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

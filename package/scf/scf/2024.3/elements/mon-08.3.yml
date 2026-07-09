@@ -1,0 +1,39 @@
+id: 5a94d0ad-b60e-5cda-af28-e67a92566495
+name: Cryptographic Protection of Event Log Information
+description: Cryptographic mechanisms exist to protect the integrity of event logs and audit tools.
+elementType: enhancement
+externalId: MON-08.3
+controlQuestion: Are cryptographic mechanisms utilized to protect the integrity of event logs and audit tools?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: mon-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

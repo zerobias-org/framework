@@ -1,0 +1,39 @@
+id: 6e98576d-c5e8-5e57-bd21-de536d93fcad
+name: Information System Recovery & Reconstitution
+description: Mechanisms exist to ensure the secure recovery and reconstitution of systems to a known state after a disruption, compromise or failure.
+elementType: control
+externalId: BCD-12
+controlQuestion: Does the organization ensure the secure recovery and reconstitution of systems to a known state after a disruption, compromise or failure?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: bcd
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 32dbbd53-267e-5765-ae13-bec2e95584d6
+name: Integrity Assurance & Enforcement (IAE)
+description: Automated mechanisms exist to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change.
+elementType: enhancement
+externalId: CFG-06.1
+controlQuestion: Does the organization use automated mechanisms to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: cfg-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

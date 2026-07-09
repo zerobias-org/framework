@@ -1,0 +1,40 @@
+id: 7ad625b7-285a-5112-aeac-b0e79aaf42c3
+name: "Service Delivery\r\n(Business Process Support)"
+description: Mechanisms exist to define supporting business processes and implement appropriate governance and service management to ensure appropriate planning, delivery and support of the organization's technology capabilities supporting business functions, workforce, and/or customers based on industry-recognized standards to achieve the specific goals of the process area.
+elementType: control
+externalId: OPS-03
+controlQuestion: Does the organization define supporting business processes and implement appropriate governance and service management to ensure appropriate planning, delivery and support of the organization's technology capabilities supporting business functions, workforce, and/or customers based on industry-recognized standards to achieve the specific goals of the process area?
+methodsToComply: "- ITIL v4 \r\n- COBIT 2019"
+functionGrouping: Protect
+controlWeighting: '7'
+parent: ops
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to define supporting business processes and implement appropriate governance and service management to ensure appropriate planning, delivery and support of the organization's technology capabilities supporting business functions, workforce, and/ or customers based on industry-recognized standards to achieve the specific goals of the process area.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Security Operations (OPS) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCybersecurity operations are decentralized.\n•\tThe responsibility for developing and operating cybersecurity & data privacy procedures are up to the business process owner(s) to determine, including the definition and enforcement of roles and responsibilities."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Security operations (OPS) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tSecurity operations management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls to address applicable statutory, regulatory and contractual requirements for security operations.\n•\tAdministrative processes focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tCritical business functions are documented in “run books” or Standardized Operating Procedures (SOPs) to capture operational knowledge in documentation form."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Security Operations (OPS) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function, manages cybersecurity operations that covers preparation, detection and analysis, containment, eradication and recovery.\n•\tProcedures are standardized across the enterprise to ensure uniformity and consistent execution. These Standardized Operating Procedures (SOP) identify and document day-to-day procedures to enable the proper execution of assigned tasks.\n•\tLine of Business (LOB) stakeholders are identified and tasked with documenting business-critical functions in “run books,” or SOPs, to capture the knowledge in documentation form from both a business and technology perspective."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Security Operations (OPS) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to define supporting business processes and implement appropriate governance and service management to ensure appropriate planning, delivery and support of the organization's technology capabilities supporting business functions, workforce, and/ or customers based on industry-recognized standards to achieve the specific goals of the process area.
+  available: false
+  value: 5

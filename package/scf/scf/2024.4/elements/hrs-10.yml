@@ -1,0 +1,39 @@
+id: 8246e5ee-1be2-5fe8-ac62-2542a4900f4f
+name: Third-Party Personnel Security
+description: Mechanisms exist to govern third-party personnel by reviewing and monitoring third-party cybersecurity & data privacy roles and responsibilities.
+elementType: control
+externalId: HRS-10
+controlQuestion: Does the organization govern third-party personnel by reviewing and monitoring third-party cybersecurity & data privacy roles and responsibilities?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

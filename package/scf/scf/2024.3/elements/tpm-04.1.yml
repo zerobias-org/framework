@@ -1,0 +1,39 @@
+id: 70cbfefb-a7a3-5f90-85fc-2a4848dd04a9
+name: Third-Party Risk Assessments & Approvals
+description: Mechanisms exist to conduct a risk assessment prior to the acquisition or outsourcing of technology-related services.
+elementType: enhancement
+externalId: TPM-04.1
+controlQuestion: Does the organization conduct a risk assessment prior to the acquisition or outsourcing of technology-related services?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: tpm-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

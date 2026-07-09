@@ -1,0 +1,39 @@
+id: 4d6d0bce-4c84-5fee-b049-2a223c1824c0
+name: Network Access to Privileged Commands
+description: Mechanisms exist to authorize remote access to perform privileged commands on critical systems or where sensitive/regulated data is stored, transmitted and/or processed only for compelling operational needs.
+elementType: enhancement
+externalId: IAC-21.6
+controlQuestion: Does the organization authorize remote access to perform privileged commands on critical systems or where sensitive/regulated data is stored, transmitted and/or processed only for compelling operational needs?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: iac-21
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

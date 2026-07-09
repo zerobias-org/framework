@@ -1,0 +1,39 @@
+id: efe63741-2bd6-5a61-a73a-4cc472642cf5
+name: Sensitive / Regulated Media Records
+description: Mechanisms exist to ensure media records for sensitive/regulated data contain sufficient information to determine the potential impact in the event of a data loss incident.
+elementType: enhancement
+externalId: DCH-01.3
+controlQuestion: Does the organization ensure media records for sensitive/regulated data contain sufficient information to determine the potential impact in the event of a data loss incident?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: dch-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

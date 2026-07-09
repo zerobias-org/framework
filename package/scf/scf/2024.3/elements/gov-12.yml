@@ -1,0 +1,39 @@
+id: b60dd532-e93e-5c90-9522-d2986db648ed
+name: Forced Technology Transfer (FTT)
+description: Mechanisms exist to avoid and/or constrain the forced exfiltration of sensitive / regulated information (e.g., Intellectual Property (IP)) to the host government for purposes of market access or market management practices.
+elementType: control
+externalId: GOV-12
+controlQuestion: Does the organization avoid and/or constrain the forced exfiltration of sensitive / regulated information (e.g., Intellectual Property (IP)) to the host government for purposes of market access or market management practices?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

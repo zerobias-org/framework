@@ -1,0 +1,39 @@
+id: c86ba59f-3806-544a-b76c-cfaefe6f7ae1
+name: Separation of Maintenance Sessions
+description: Mechanisms exist to protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions.
+elementType: enhancement
+externalId: MNT-05.7
+controlQuestion: Does the organization protect maintenance sessions through replay-resistant sessions that are physically or logically separated communications paths from other network sessions?
+functionGrouping: Protect
+controlWeighting: '1'
+parent: mnt-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

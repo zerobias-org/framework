@@ -1,0 +1,39 @@
+id: b7289725-c6da-5b69-8326-38c31bb9ffc0
+name: Unsupported Internet Browsers & Email Clients
+description: Mechanisms exist to allow only approved Internet browsers and email clients to run on systems.
+elementType: enhancement
+externalId: CFG-04.2
+controlQuestion: Does the organization allow only approved Internet browsers and email clients to run on systems?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: cfg-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

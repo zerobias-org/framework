@@ -1,0 +1,39 @@
+id: 8a1cf1b1-f626-558d-860d-253a01fa639f
+name: Define Control Objectives
+description: Mechanisms exist to establish control objectives as the basis for the selection, implementation and management of the organization's internal control system.
+elementType: control
+externalId: GOV-09
+controlQuestion: Does the organization establish control objectives as the basis for the selection, implementation and management of the organization's internal control system?
+functionGrouping: Govern
+controlWeighting: '5'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: a65da920-c26e-5837-b59f-ee34749bcff7
+name: Microsegmentation
+description: Automated mechanisms exist to enable microsegmentation, either physically or virtually, to divide the network according to application and data workflows communications needs.
+elementType: enhancement
+externalId: NET-06.6
+controlQuestion: Does the organization use automated mechanisms to enable microsegmentation, either physically or virtually, to divide the network according to application and data workflows communications needs?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: net-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

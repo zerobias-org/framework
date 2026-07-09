@@ -1,0 +1,39 @@
+id: 7abfbb5f-b196-514b-b8e0-ea4116068d89
+name: Acceptance of PIV Credentials
+description: Mechanisms exist to accept and electronically verify organizational Personal Identity Verification (PIV) credentials.
+elementType: enhancement
+externalId: IAC-02.3
+controlQuestion: Does the organization accept and electronically verify organizational Personal Identity Verification (PIV) credentials?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: iac-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

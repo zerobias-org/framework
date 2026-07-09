@@ -1,0 +1,39 @@
+id: 9724e49f-b184-52f3-84c8-5889c6324d5f
+name: Attribute Configuration By Authorized Individuals
+description: Mechanisms exist to provide authorized individuals the capability to define or change the type and value of cybersecurity & data privacy attributes available for association with subjects and objects.
+elementType: enhancement
+externalId: DCH-05.10
+controlQuestion: Does the organization provide authorized individuals the capability to define or change the type and value of cybersecurity & data privacy attributes available for association with subjects and objects?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

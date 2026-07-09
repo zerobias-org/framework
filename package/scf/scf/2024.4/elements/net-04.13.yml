@@ -1,0 +1,39 @@
+id: 43d616be-f419-5500-a80e-04a9423fbbf6
+name: Metadata Validation
+description: Automated mechanisms exist to apply cybersecurity and/or data privacy filters on metadata.
+elementType: enhancement
+externalId: NET-04.13
+controlQuestion: Does the organization use automated mechanisms to apply cybersecurity and/or data privacy filters on metadata?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: net-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

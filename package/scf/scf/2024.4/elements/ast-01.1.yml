@@ -1,0 +1,39 @@
+id: 00e3e504-e68e-5adc-b59c-8268ff669048
+name: Asset-Service Dependencies
+description: Mechanisms exist to identify and assess the security of technology assets that support more than one critical business function.
+elementType: enhancement
+externalId: AST-01.1
+controlQuestion: Does the organization identify and assess the security of technology assets that support more than one critical business function?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: ast-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

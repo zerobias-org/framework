@@ -1,0 +1,39 @@
+id: cecb23f0-6902-5bc5-a8c3-162664d6beaa
+name: Transmission of Cybersecurity & Data Privacy Attributes
+description: Mechanisms exist to ensure systems associate security attributes with information exchanged between systems.
+elementType: control
+externalId: CRY-10
+controlQuestion: Does the organization ensure systems associate security attributes with information exchanged between systems?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: cry
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

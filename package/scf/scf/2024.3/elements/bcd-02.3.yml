@@ -1,0 +1,39 @@
+id: 5ba75382-29c0-54b3-a304-b7aaaf40d337
+name: Resume Essential Missions & Business Functions
+description: Mechanisms exist to resume essential missions and business functions within an organization-defined time period of contingency plan activation.
+elementType: enhancement
+externalId: BCD-02.3
+controlQuestion: Does the organization resume essential missions and business functions within an organization-defined time period of contingency plan activation?
+functionGrouping: Recover
+controlWeighting: '8'
+parent: bcd-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

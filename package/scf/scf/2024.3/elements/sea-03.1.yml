@@ -1,0 +1,39 @@
+id: b049a6d5-79c5-51e0-a8d2-eb8c8bd960a5
+name: System Partitioning
+description: Mechanisms exist to partition systems so that partitions reside in separate physical domains or environments.
+elementType: enhancement
+externalId: SEA-03.1
+controlQuestion: Does the organization partition systems so that partitions reside in separate physical domains or environments?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: sea-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

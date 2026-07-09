@@ -1,0 +1,40 @@
+id: 7fc32801-4edb-5f82-8bc2-f48724c00264
+name: Telecommunications Priority of Service Provisions
+description: Mechanisms exist to formalize primary and alternate telecommunications service agreements contain priority-of-service provisions that support availability requirements, including Recovery Time Objectives (RTOs).
+elementType: enhancement
+externalId: BCD-10.1
+controlQuestion: Does the organization formalize primary and alternate telecommunications service agreements contain priority-of-service provisions that support availability requirements, including Recovery Time Objectives (RTOs)?
+methodsToComply: '- Hot / warm / cold site contracts'
+functionGrouping: Recover
+controlWeighting: '6'
+parent: bcd-10
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to formalize primary and alternate telecommunications service agreements contain priority-of-service provisions that support availability requirements, including Recovery Time Objectives (RTOs).
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to formalize primary and alternate telecommunications service agreements contain priority-of-service provisions that support availability requirements, including Recovery Time Objectives (RTOs).
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Business Continuity & Disaster Recovery (BCD) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tBusiness Continuity / Disaster Recovery (BC/DR) management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for BC/DR management.\n•\tBC/DR roles are formally assigned as an additional duty to existing IT/cybersecurity personnel.\n•\tRecovery Time Objectives (RTOs) identify business-critical systems and services, which are given priority of service in alternate processing and storage sites.\n•\tIT personnel develop Disaster Recovery Plans (DRP) to recover business-critical systems and services.\n•\tData/process owners conduct a Business Impact Analysis (BIA) at least annually, or after any major technology or process change, to identify assets critical to the business in need of protection, as well as single points of failure.\n•\tIT/cybersecurity personnel work with business stakeholders to develop Business Continuity Plans (BCPs) to ensure business functions are sustainable both during and after an incident within Recovery Time Objectives (RTOs).\n•\tIT personnel use a backup methodology (e.g., grandfather, father & s on rotation) to store backups in a secondary location, separate from the primary storage site.\n•\tIT personnel configure business-critical systems to transfer backup data to the alternate storage site at a rate that is capable of meeting Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs)."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Business Continuity & Disaster Recovery (BCD) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA formal Business Continuity & Disaster Recovery (BC/DR) program exists with defined roles and responsibilities to restore functionality in the event of a catastrophe, emergency, or significant disruptive incident that is handled in accordance with a Continuity of Operations Plan (COOP).\n•\tBC/DR personnel work with business stakeholders to identify business-critical systems, services, internal teams and third-party service providers.\n•\tSpecific criteria are defined to initiate BC/DR activities that facilitate business continuity operations capable of meeting applicable RTOs and/or RPOs.•\tApplication/system/process owners conduct a Business Impact Analysis (BIA) at least annually, or after any major technology or process change, to identify assets critical to the business in need of protection, as well as single points of failure.\n•\tRecovery Time Objectives (RTOs) are defined for business-critical systems and services.\n•\tRecovery Point Objectives (RPOs) are defined and technologies exist to conduct transaction-level recovery, in accordance with RPOs.\n\n•\tControls are assigned to sensitive/regulated assets to comply with specific BC/DR requirements to facilitate recovery operations in accordance with RTOs and RPOs.\n•\tIT personnel work with business stakeholders to develop Disaster Recovery Plans (DRP) to recover business-critical systems and services within RPOs.\n•\tBusiness stakeholders work with IT personnel to develop Business Continuity Plans (BCPs) to ensure business functions are sustainable both during and after an incident within RTOs.\n•\tThe data backup function is formally assigned with defined roles and responsibilities.\n•\tBC/DR personnal have pre-established methods to communicate the status of recovery activities and progress in restoring operational capabilities to designated internal and external stakeholders.\n•\tThe integrity of backups and other restoration assets are verified prior to using them for restoration."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to formalize primary and alternate telecommunications service agreements contain priority-of-service provisions that support availability requirements, including Recovery Time Objectives (RTOs).
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to formalize primary and alternate telecommunications service agreements contain priority-of-service provisions that support availability requirements, including Recovery Time Objectives (RTOs).
+  available: false
+  value: 5

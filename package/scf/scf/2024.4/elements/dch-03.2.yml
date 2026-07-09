@@ -1,0 +1,39 @@
+id: f0a52af2-3c32-5b31-b351-d5a8560de900
+name: Masking Displayed Data
+description: Mechanisms exist to apply data masking to sensitive/regulated information that is displayed or printed.
+elementType: enhancement
+externalId: DCH-03.2
+controlQuestion: Does the organization apply data masking to sensitive/regulated information that is displayed or printed?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: dch-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

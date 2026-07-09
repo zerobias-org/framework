@@ -1,0 +1,39 @@
+id: 86a08a93-f97a-5f24-953e-46fa3396a294
+name: Fail Secure
+description: Mechanisms exist to enable systems to fail to an organization-defined known-state for types of failures, preserving system state information in failure.
+elementType: enhancement
+externalId: SEA-07.2
+controlQuestion: Does the organization enable systems to fail to an organization-defined known-state for types of failures, preserving system state information in failure?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: sea-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

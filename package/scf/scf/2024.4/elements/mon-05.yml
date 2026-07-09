@@ -1,0 +1,39 @@
+id: 8b630b3f-8e7c-5364-8b58-3305d8b0211e
+name: Response To Event Log Processing Failures
+description: Mechanisms exist to alert appropriate personnel in the event of a log processing failure and take actions to remedy the disruption.
+elementType: control
+externalId: MON-05
+controlQuestion: Does the organization alert appropriate personnel in the event of a log processing failure and take actions to remedy the disruption?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: mon
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

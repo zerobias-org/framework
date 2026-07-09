@@ -1,0 +1,39 @@
+id: 32e64226-4cc0-5253-b578-9d8a29f24487
+name: Risk Framing
+description: "Mechanisms exist to identify:\r\n ▪ Assumptions affecting risk assessments, risk response and risk monitoring;\r\n ▪ Constraints affecting risk assessments, risk response and risk monitoring;\r\n ▪ The organizational risk tolerance; and\r\n ▪ Priorities, benefits and trade-offs considered by the organization for managing risk."
+elementType: enhancement
+externalId: RSK-01.1
+controlQuestion: "Does the organization identify:\r\n •Assumptions affecting risk assessments, risk response and risk monitoring;\r\n •Constraints affecting risk assessments, risk response and risk monitoring;\r\n •The organizational risk tolerance; and\r\n •Priorities, benefits and trade-offs considered by the organization for managing risk?"
+functionGrouping: Identify
+controlWeighting: '9'
+parent: rsk-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

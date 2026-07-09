@@ -1,0 +1,39 @@
+id: 625d0e80-ffd3-5e69-99e8-c9e4bda08d40
+name: Vulnerability Ranking
+description: Mechanisms exist to identify and assign a risk ranking to newly discovered security vulnerabilities using reputable outside sources for security vulnerability information.
+elementType: control
+externalId: VPM-03
+controlQuestion: Does the organization identify and assign a risk ranking to newly discovered security vulnerabilities using reputable outside sources for security vulnerability information?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: vpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

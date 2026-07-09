@@ -1,0 +1,39 @@
+id: 77cda741-0f18-508a-9ce5-9f6802cb9cc9
+name: Session Integrity
+description: Mechanisms exist to protect the authenticity and integrity of communications sessions.
+elementType: control
+externalId: NET-09
+controlQuestion: Does the organization protect the authenticity and integrity of communications sessions?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

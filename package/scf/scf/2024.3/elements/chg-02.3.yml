@@ -1,0 +1,39 @@
+id: f09b1131-1fe6-584a-9bd9-1d9b11651308
+name: Cybersecurity & Data Privacy Representative for Asset Lifecycle Changes
+description: Mechanisms exist to include a cybersecurity and/or data privacy representative in the configuration change control review process.
+elementType: enhancement
+externalId: CHG-02.3
+controlQuestion: Does the organization include a cybersecurity and/or data privacy representative in the configuration change control review process?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: chg-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: d404f3db-7987-5bf0-b0e1-0db6d9294ce6
+name: Business As Usual (BAU) Secure Practices
+description: Mechanisms exist to incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement.
+elementType: control
+externalId: GOV-14
+controlQuestion: Does the organization incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cybersecurity & Privacy Governance (GOV) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides scoping guidance to determine control applicability.\n•\tCompliance requirements for cybersecurity & data privacy controls are identified, documented and tested for adherence to internal standards or regulatory requirements.\n•\tProcedures are established for sensitive/regulated obligations and standardized across the organization.\n•\tControls are standardized across the organization to ensure uniformity and consistent execution.\n•\tInternal policies and standards address all statutory, regulatory and contractual obligations for cybersecurity & data privacy.\n•\tDefined roles & responsibilities require data/process owners to define, implement and maintain cybersecurity & data privacy controls for each system, application and/ or service of which they have accountability.\n•\tExecutive leadership team (e.g., corporate-level officers, board of directors, etc.) take an active role in defining and enforcing Business As Usual (BAU) practices across the organization to operationalize cybersecurity & data privacy principles.\n•\tA GRC function, or similar function, tracks the efforts to determine if Business As Usual (BAU) reinforcement efforts impact metrics associated with cybersecurity & data privacy controls."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to incorporate cybersecurity & data privacy principles into Business As Usual (BAU) practices through executive leadership involvement.
+  available: false
+  value: 5

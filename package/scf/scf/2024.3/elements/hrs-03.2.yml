@@ -1,0 +1,39 @@
+id: 08eca537-6fb8-5665-b9fe-cd7acb1c9a9e
+name: Competency Requirements for Security-Related Positions
+description: Mechanisms exist to ensure that all security-related positions are staffed by qualified individuals who have the necessary skill set.
+elementType: enhancement
+externalId: HRS-03.2
+controlQuestion: Does the organization ensure that all security-related positions are staffed by qualified individuals who have the necessary skill set?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: hrs-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

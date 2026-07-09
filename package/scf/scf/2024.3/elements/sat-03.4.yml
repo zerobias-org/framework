@@ -1,0 +1,39 @@
+id: cc1d2c37-5fe3-502f-9f58-69064f604d33
+name: Vendor Cybersecurity & Data Privacy Training
+description: Mechanisms exist to incorporate vendor-specific security training in support of new technology initiatives.
+elementType: enhancement
+externalId: SAT-03.4
+controlQuestion: Does the organization incorporate vendor-specific security training in support of new technology initiatives?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: sat-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

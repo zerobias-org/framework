@@ -1,0 +1,39 @@
+id: 7e77d22e-f8e7-5b67-89ff-2d9823c4bca6
+name: Data Reclassification
+description: Mechanisms exist to reclassify data, including associated systems, applications and services, commensurate with the security category and/or classification level of the information.
+elementType: control
+externalId: DCH-11
+controlQuestion: Does the organization reclassify data, including associated systems, applications and services, commensurate with the security category and/or classification level of the information?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

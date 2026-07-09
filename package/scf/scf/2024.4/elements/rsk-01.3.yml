@@ -1,0 +1,39 @@
+id: 461a63e4-3f93-50b1-afa3-fb8416880bc2
+name: Risk Tolerance
+description: Mechanisms exist to define organizational risk tolerance, the specified range of acceptable results.
+elementType: enhancement
+externalId: RSK-01.3
+controlQuestion: Does the organization define organizational risk tolerance, the specified range of acceptable results?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: rsk-01
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 8f08daa9-fbee-5070-be5e-254fb662344e
+name: Identity Association Techniques & Technologies
+description: Mechanisms exist to associate cybersecurity & data privacy attributes to information.
+elementType: enhancement
+externalId: DCH-05.8
+controlQuestion: Does the organization associate cybersecurity & data privacy attributes to information?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: dch-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

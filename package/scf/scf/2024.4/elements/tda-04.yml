@@ -1,0 +1,39 @@
+id: 73014c38-b482-5246-9ab6-edda1f4af5fd
+name: Documentation Requirements
+description: "Mechanisms exist to obtain, protect and distribute administrator documentation for systems that describe:\r\n (1) Secure configuration, installation and operation of the system;\r\n (2) Effective use and maintenance of security features/functions; and\r\n (3) Known vulnerabilities regarding configuration and use of administrative (e.g., privileged) functions."
+elementType: control
+externalId: TDA-04
+controlQuestion: "Does the organization obtain, protect and distribute administrator documentation for systems that describe:\r\n (1) Secure configuration, installation and operation of the system;\r\n (2) Effective use and maintenance of security features/functions; and\r\n (3) Known vulnerabilities regarding configuration and use of administrative (e.g., privileged) functions?"
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

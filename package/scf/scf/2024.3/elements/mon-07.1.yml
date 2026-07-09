@@ -1,0 +1,39 @@
+id: a75aaece-5f58-53d2-bfff-9f843ecc7642
+name: Synchronization With Authoritative Time Source
+description: Mechanisms exist to synchronize internal system clocks with an authoritative time source.
+elementType: enhancement
+externalId: MON-07.1
+controlQuestion: Does the organization synchronize internal system clocks with an authoritative time source?
+functionGrouping: Detect
+controlWeighting: '8'
+parent: mon-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

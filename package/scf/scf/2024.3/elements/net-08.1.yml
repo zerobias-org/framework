@@ -1,0 +1,39 @@
+id: eb691231-55bb-5354-a935-84cde790cd10
+name: DMZ Networks
+description: Mechanisms exist to monitor De-Militarized Zone (DMZ) network segments to separate untrusted networks from trusted networks.
+elementType: enhancement
+externalId: NET-08.1
+controlQuestion: Does the organization monitor De-Militarized Zone (DMZ) network segments to separate untrusted networks from trusted networks?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

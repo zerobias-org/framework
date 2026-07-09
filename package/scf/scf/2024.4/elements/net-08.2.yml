@@ -1,0 +1,39 @@
+id: ee480565-e28f-5fbf-bf19-05ae6e860f76
+name: Wireless Intrusion Detection / Prevention Systems (WIDS / WIPS)
+description: Mechanisms exist to monitor wireless network segments to implement Wireless Intrusion Detection / Prevention Systems (WIDS/WIPS) technologies.
+elementType: enhancement
+externalId: NET-08.2
+controlQuestion: Does the organization monitor wireless network segments to implement Wireless Intrusion Detection / Prevention Systems (WIDS/WIPS) technologies?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: net-08
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

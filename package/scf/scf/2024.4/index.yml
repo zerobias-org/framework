@@ -1,0 +1,25 @@
+id: af7356f5-e0e8-5586-93a8-ad7c381e2361
+name: Secure Controls Framework 2024.4
+description: Complianceforge Secure Controls Framework 2024.4
+code: scf_2024_4
+status: approved
+url: https://securecontrolsframework.com/
+version: '2024.4'
+external: true
+internal: true
+elementTypes:
+  - id: 07ccd54d-db72-500d-85d1-3c736803c93a
+    code: domain
+    name: Domain
+    description: Domain
+  - id: b2e44185-41e3-52ab-b6ef-f041056173db
+    code: control
+    name: Control
+    description: Control
+  - id: c36b4b50-a70f-565f-8622-7084bb3129e6
+    code: enhancement
+    name: Enhancement
+    description: Enhancement
+mappingTypes:
+  - control
+  - enhancement

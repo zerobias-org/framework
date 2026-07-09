@@ -1,0 +1,39 @@
+id: c635c519-d4bc-5256-938e-7547f2072e89
+name: Provenance
+description: Mechanisms exist to track the origin, development, ownership, location and changes to systems, system components and associated data.
+elementType: enhancement
+externalId: AST-03.2
+controlQuestion: Does the organization track the origin, development, ownership, location and changes to systems, system components and associated data?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: ast-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

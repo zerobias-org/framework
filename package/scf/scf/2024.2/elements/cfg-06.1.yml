@@ -1,0 +1,40 @@
+id: 6473e387-56b7-5ee7-b492-9d3be119e020
+name: Integrity Assurance & Enforcement (IAE)
+description: Automated mechanisms exist to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change.
+elementType: enhancement
+externalId: CFG-06.1
+controlQuestion: Does the organization use automated mechanisms to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change?
+methodsToComply: '- CimTrak Integrity Suite (https://www.cimcor.com/cimtrak/)'
+functionGrouping: Protect
+controlWeighting: '3'
+parent: cfg-06
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Configuration Management (CFG) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe configuration management function is formally assigned with defined roles and responsibilities.\n•\tAn IT infrastructure team, or similar function, ensures that statutory, regulatory and contractual cybersecurity & data privacy obligations are addressed to ensure secure configurations are designed, built and maintained.\n•\tConfiguration management is centralized for all operating systems, applications, servers and other configurable technologies.\n•\tTechnologies are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information and conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including test, development, staging and production environments.\n•\tConfigurations conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides) for test, development, staging and production environments.\n•\tDeviations to baseline configurations are required to have a risk assessment and business process owner approval of the risk(s) associated with the deviation.\n•\tSpecial baseline configurations are created for higher-risk environments or for systems, applications and services that store, process or transmit sensitive/regulated data.\n•\tAn IT Asset Management (ITAM) function, or similar function, ensures compliance with requirements for asset management.\n•\tLogical Access Control (LAC) is used to limit the ability of non-administrators from making configuration changes to systems, applications and services, including the of installation of unauthorized software.\n•\tA Security Incident Event Manager (SIEM), or similar automated tool, monitors for unauthorized activities, accounts, connections, devices and software.\n•\tUnauthorized configuration changes are responded to in accordance with an Incident Response Plan (IRP) to determine if the unauthorized configuration is malicious in nature.\n•\tUnauthorized configuration changes are immediately reverted to approved configurations.\n•\tConfiguration monitoring software monitors, reports on and enforces configurations for endpoint devices.\n•\tAn Identity & Access Management (IAM) function, or similar function, centrally manages permissions and implements “least privileges” practices the management of user, group and system accounts, including privileged accounts.\n•\tITAM leverages a Configuration Management Database (CMDB), or similar tool, as the authoritative source of IT assets.\n•\tA formal Change Management (CM) program ensures that no unauthorized changes are made, all changes are documented, services are not disrupted and that resources are used efficiently."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to identify unauthorized deviations from an approved baseline and implement automated resiliency actions to remediate the unauthorized change.
+  available: false
+  value: 5

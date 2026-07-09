@@ -1,0 +1,39 @@
+id: 6fec2d3c-e5f5-5cfb-a7b3-33784fdf28cb
+name: Practical Exercises
+description: Mechanisms exist to include practical exercises in cybersecurity & data privacy training that reinforce training objectives.
+elementType: enhancement
+externalId: SAT-03.1
+controlQuestion: Does the organization include practical exercises in cybersecurity & data privacy training that reinforce training objectives?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: sat-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

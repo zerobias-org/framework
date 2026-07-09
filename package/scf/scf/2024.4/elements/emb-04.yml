@@ -1,0 +1,39 @@
+id: 67583c88-74e2-5c3f-93e1-7a8a303be83b
+name: Interface Security
+description: Mechanisms exist to protect embedded devices against unauthorized use of the physical factory diagnostic and test interface(s).
+elementType: control
+externalId: EMB-04
+controlQuestion: Does the organization protect embedded devices against unauthorized use of the physical factory diagnostic and test interface(s)?
+functionGrouping: Protect
+controlWeighting: '4'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

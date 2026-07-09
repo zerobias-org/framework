@@ -1,0 +1,40 @@
+id: 290882e9-6ac1-58da-a5d2-c9c8f04dcb37
+name: Key Risk Indicators (KRIs)
+description: Mechanisms exist to develop, report and monitor Key Risk Indicators (KRIs) to assist senior management in performance monitoring and trend analysis of the cybersecurity & data privacy program.
+elementType: enhancement
+externalId: GOV-05.2
+controlQuestion: Does the organization develop, report and monitor Key Risk Indicators (KRIs) to assist senior management in performance monitoring and trend analysis of the cybersecurity & data privacy program?
+methodsToComply: '- Key Risk Indicators (KRIs)'
+functionGrouping: Protect
+controlWeighting: '6'
+parent: gov-05
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to develop, report and monitor Key Risk Indicators (KRIs) to assist senior management in performance monitoring and trend analysis of the cybersecurity & data privacy program.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to develop, report and monitor Key Risk Indicators (KRIs) to assist senior management in performance monitoring and trend analysis of the cybersecurity & data privacy program.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to develop, report and monitor Key Risk Indicators (KRIs) to assist senior management in performance monitoring and trend analysis of the cybersecurity & data privacy program.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Cybersecurity & Privacy Governance (GOV) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides scoping guidance to determine control applicability.\n•\tCompliance requirements for cybersecurity & data privacy controls are identified, documented and tested for adherence to internal standards or regulatory requirements.\n•\tProcedures are established for sensitive/regulated obligations and standardized across the organization.\n•\tControls are standardized across the organization to ensure uniformity and consistent execution.\n•\tInternal policies and standards address all statutory, regulatory and contractual obligations for cybersecurity & data privacy.\n•\tDefined roles & responsibilities require data/process owners to define, implement and maintain cybersecurity & data privacy controls for each system, application and/ or service of which they have accountability."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Cybersecurity & Privacy Governance (GOV) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics are developed that provide management insight, per a quantitative understanding of process capabilities, to predict optimal performance, ensure continued operations and identify areas for improvement.\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: "Cybersecurity & Privacy Governance (GOV) efforts are “world-class” capabilities that leverage predictive analysis (e.g., machine learning, AI, etc.). In addition to CMM Level 4 criteria, CMM Level 5 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tStakeholders make time-sensitive decisions to support operational efficiency, which may include automated remediation actions.\n▪ \tBased on predictive analysis, process improvements are implemented according to “continuous improvement” practices that affect process changes."
+  available: true
+  value: 5

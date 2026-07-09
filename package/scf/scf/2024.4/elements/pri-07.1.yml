@@ -1,0 +1,39 @@
+id: 60779b03-f9b2-5aee-9237-ef9cf5e2dd98
+name: Data Privacy Requirements for Contractors & Service Providers
+description: Mechanisms exist to include data privacy requirements in contracts and other acquisition-related documents that establish data privacy roles and responsibilities for contractors and service providers.
+elementType: enhancement
+externalId: PRI-07.1
+controlQuestion: Does the organization include data privacy requirements in contracts and other acquisition-related documents that establish data privacy roles and responsibilities for contractors and service providers?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: pri-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

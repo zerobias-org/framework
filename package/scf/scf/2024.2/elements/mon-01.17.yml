@@ -1,0 +1,39 @@
+id: 7f99ea89-4589-5e6f-9aff-e7bbe3d699b2
+name: Real-Time Session Monitoring
+description: Mechanisms exist to enable authorized personnel the ability to remotely view and hear content related to an established user session in real time, in accordance with organizational standards, as well as statutory, regulatory and contractual obligations.
+elementType: enhancement
+externalId: MON-01.17
+controlQuestion: Does the organization enable authorized personnel the ability to remotely view and hear content related to an established user session in real time, in accordance with organizational standards, as well as statutory, regulatory and contractual obligations?
+functionGrouping: Detect
+controlWeighting: '4'
+parent: mon-01
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to enable authorized personnel the ability to remotely view and hear content related to an established user session in real time, in accordance with organizational standards, as well as statutory, regulatory and contractual obligations.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to enable authorized personnel the ability to remotely view and hear content related to an established user session in real time, in accordance with organizational standards, as well as statutory, regulatory and contractual obligations.
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: SP-CMM2 is N/A, since a well-defined process is required to enable authorized personnel the ability to remotely view and hear content related to an established user session in real time, in accordance with organizational standards, as well as statutory, regulatory and contractual obligations.
+  available: false
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Continuous Monitoring (MON) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function:\no\tGoverns asset management that ensures compliance with requirements for asset management.\no\tLeverages a Configuration Management Database (CMDB), or similar tool, as the authoritative source of IT assets.\n•\tA Security Incident Event Manager (SIEM), or similar automated tool:\no\tCentrally collects logs and is protected according to the manufacturer’s security guidelines to protect the integrity of the event logs with cryptographic mechanisms.\no\tMonitors the organization for Indicators of Compromise (IoC) and provides 24x7x365 near real-time alerting capability.\no\tIs configured to alert incident response personnel of detected suspicious events such that incident responders can look to terminate suspicious events.\n•\tBoth inbound and outbound network traffic is monitored for unauthorized activities to identify prohibited activities and assist incident handlers with identifying potentially compromised systems."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to enable authorized personnel the ability to remotely view and hear content related to an established user session in real time, in accordance with organizational standards, as well as statutory, regulatory and contractual obligations.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to enable authorized personnel the ability to remotely view and hear content related to an established user session in real time, in accordance with organizational standards, as well as statutory, regulatory and contractual obligations.
+  available: false
+  value: 5

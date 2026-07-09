@@ -1,0 +1,40 @@
+id: 888007d6-61d0-5493-ae0f-01ce38ff71b3
+name: Retention Of Previous Configurations
+description: Mechanisms exist to retain previous versions of baseline configuration to support roll back.
+elementType: enhancement
+externalId: CFG-02.3
+controlQuestion: Does the organization retain previous versions of baseline configuration to support roll back?
+methodsToComply: "- CimTrak Integrity Suite (https://www.cimcor.com/cimtrak/)\r\n- NNT Change Tracker (https://www.newnettechnologies.com)"
+functionGrouping: Identify
+controlWeighting: '3'
+parent: cfg-02
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to retain previous versions of baseline configuration to support roll back.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: "Configuration Management (CFG) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT personnel use an informal process to design, build and maintain secure configurations for test, development, staging and production environments.\n•\tSecure configurations are not:\no\tStandardized across the organization.\no\tConsistently aligned with industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides)."
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Configuration Management (CFG) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tConfiguration management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for configuration management.\n•\tTechnologies are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information and mostly conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data.\n•\tSpecial baseline configurations are created for higher-risk environments or for systems, applications and services that store, process or transmit sensitive/regulated data.\n•\tApart from workstation and server operating system baselines, configuration management is decentralized.\n•\tCybersecurity personnel use a structured process to design, build and maintain secure configurations for test, development, staging and production environments.\n•\tDeviations to baseline configurations are required to have a risk assessment and the business process owner acceptance of the risk(s) associated with the deviation.\n•\tUnauthorized configuration changes are investigated to determine if the unauthorized configuration is malicious in nature.\n•\tLogical Access Control (LAC) is enforced to prohibit non-administrative users from being able to install unauthorized software."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Configuration Management (CFG) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe configuration management function is formally assigned with defined roles and responsibilities.\n•\tAn IT infrastructure team, or similar function, ensures that statutory, regulatory and contractual cybersecurity & data privacy obligations are addressed to ensure secure configurations are designed, built and maintained.\n•\tConfiguration management is centralized for all operating systems, applications, servers and other configurable technologies.\n•\tTechnologies are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information and conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including test, development, staging and production environments.\n•\tConfigurations conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides) for test, development, staging and production environments.\n•\tDeviations to baseline configurations are required to have a risk assessment and business process owner approval of the risk(s) associated with the deviation.\n•\tSpecial baseline configurations are created for higher-risk environments or for systems, applications and services that store, process or transmit sensitive/regulated data.\n•\tAn IT Asset Management (ITAM) function, or similar function, ensures compliance with requirements for asset management.\n•\tLogical Access Control (LAC) is used to limit the ability of non-administrators from making configuration changes to systems, applications and services, including the of installation of unauthorized software.\n•\tA Security Incident Event Manager (SIEM), or similar automated tool, monitors for unauthorized activities, accounts, connections, devices and software.\n•\tUnauthorized configuration changes are responded to in accordance with an Incident Response Plan (IRP) to determine if the unauthorized configuration is malicious in nature.\n•\tHistorical versions of configurations are maintained for troubleshooting and forensics reasons."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: See SP-CMM3. SP-CMM4 is N/A, since a quantitatively-controlled process is not necessary to retain previous versions of baseline configuration to support roll back.
+  available: false
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to retain previous versions of baseline configuration to support roll back.
+  available: false
+  value: 5

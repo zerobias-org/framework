@@ -1,0 +1,39 @@
+id: 072bccb3-d556-504f-a47e-4a11a8c0c8cb
+name: Prohibition Of Changes
+description: Mechanisms exist to prohibit unauthorized changes, unless organization-approved change requests are received.
+elementType: enhancement
+externalId: CHG-02.1
+controlQuestion: Does the organization prohibit unauthorized changes, unless organization-approved change requests are received?
+functionGrouping: Protect
+controlWeighting: '10'
+parent: chg-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

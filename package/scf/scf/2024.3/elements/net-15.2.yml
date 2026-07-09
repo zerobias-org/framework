@@ -1,0 +1,39 @@
+id: 35530dc3-fe88-54ad-acd9-c18e3f8f34ab
+name: Disable Wireless Networking
+description: Mechanisms exist to disable unnecessary wireless networking capabilities that are internally embedded within system components prior to issuance to end users.
+elementType: enhancement
+externalId: NET-15.2
+controlQuestion: Does the organization disable unnecessary wireless networking capabilities that are internally embedded within system components prior to issuance to end users?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: net-15
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

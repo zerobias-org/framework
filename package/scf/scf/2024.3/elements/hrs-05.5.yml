@@ -1,0 +1,39 @@
+id: af92c427-613b-552b-a5ea-b7f23ef3f0ad
+name: Use of Mobile Devices
+description: Mechanisms exist to manage business risks associated with permitting mobile device access to organizational resources.
+elementType: enhancement
+externalId: HRS-05.5
+controlQuestion: Does the organization manage business risks associated with permitting mobile device access to organizational resources?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: hrs-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

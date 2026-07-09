@@ -1,0 +1,39 @@
+id: f961f80d-cb79-5906-b657-8d0c362188df
+name: Data Controller Communications
+description: "Mechanisms exist to receive and process data controller communications pertaining to:\r\n ▪ Receiving and responding to data subject requests;\r\n ▪ Updating/correcting Personal Data (PD); \r\n ▪ Accounting for disclosures of PD; and\r\n ▪ Accounting for PD that is stored, processed and/or transmitted on behalf of the data controller."
+elementType: control
+externalId: PRI-18
+controlQuestion: "Does the organization receive and process data controller communications pertaining to:\r\n •Receiving and responding to data subject requests;\r\n •Updating/correcting Personal Data (PD); \r\n •Accounting for disclosures of PD; and\r\n •Accounting for PD that is stored, processed and/or transmitted on behalf of the data controller?"
+functionGrouping: Govern
+controlWeighting: '7'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

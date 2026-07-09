@@ -1,0 +1,39 @@
+id: c47ce699-2d53-5c1f-b206-19f4927e3a07
+name: Automation Support for Water Damage Protection
+description: Facility security mechanisms exist to detect the presence of water in the vicinity of critical information systems and alert facility maintenance and IT personnel.
+elementType: enhancement
+externalId: PES-07.6
+controlQuestion: Does the organization detect the presence of water in the vicinity of critical information systems and alert facility maintenance and IT personnel?
+functionGrouping: Protect
+controlWeighting: '5'
+parent: pes-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

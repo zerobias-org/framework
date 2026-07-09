@@ -1,0 +1,39 @@
+id: 2ac31099-47c9-5d07-b103-bbc58494705f
+name: Concealment & Misdirection
+description: Mechanisms exist to utilize concealment and misdirection techniques for systems to confuse and mislead adversaries.
+elementType: control
+externalId: SEA-14
+controlQuestion: Does the organization utilize concealment and misdirection techniques for systems to confuse and mislead adversaries?
+functionGrouping: Protect
+controlWeighting: '2'
+parent: sea
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

@@ -1,0 +1,39 @@
+id: 9a5844d0-2877-544b-b1a4-5727bd88795c
+name: AI TEVV Post-Deployment Monitoring
+description: Mechanisms exist to proactively and continuously monitor deployed Artificial Intelligence (AI) and Autonomous Technologies (AAT).
+elementType: enhancement
+externalId: AAT-10.13
+controlQuestion: Does the organization proactively and continuously monitor deployed Artificial Intelligence (AI) and Autonomous Technologies (AAT)?
+functionGrouping: Detect
+controlWeighting: '9'
+parent: aat-10
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

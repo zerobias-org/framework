@@ -1,0 +1,39 @@
+id: 01dd1c38-fb3c-52bd-a499-a9c29fe9dfbb
+name: Operational Technology (OT)
+description: Mechanisms exist to proactively manage the cybersecurity & data privacy risks associated with Operational Technology (OT).
+elementType: control
+externalId: EMB-03
+controlQuestion: Does the organization proactively manage the cybersecurity & data privacy risks associated with Operational Technology (OT)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: emb
+cmm_0:
+  name: Not Performed
+  description: There is no evidence of a capability to proactively manage the cybersecurity & data privacy risks associated with Operational Technology (OT).
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: SP-CMM1 is N/A, since a structured process is required to proactively manage the cybersecurity & data privacy risks associated with Operational Technology (OT).
+  available: false
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: "Embedded Technology (EMB) efforts are requirements-driven and formally governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tEmbedded technology management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity & data privacy controls that are appropriate to address applicable statutory, regulatory and contractual requirements for embedded technology management.\n•\tEmbedded technologies are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information and mostly conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data.\n•\tDeviations to baseline for embedded technologies configurations are required to have a risk assessment and the business process owner accepts the risk(s) associated with the deviation.\n•\tUnauthorized configuration changes to embedded technologies are responded to in accordance with an Incident Response Plan (IRP) to determine if the unauthorized configuration is malicious in nature.\n•\tSpecial baselines for embedded technologies configurations are created for higher-risk environments.\n•\tIT/cybersecurity personnel perform an annual review of existing for embedded technologies configurations to ensure security objectives are still being met.\n•\tData management for embedded technologies is decentralized where data/process owners are expected to take the initiative to work with Data Protection Officers (DPOs) to ensure applicable statutory, regulatory and contractual obligations are properly addressed, including the storage, transmission and processing of sensitive/regulated data.\n•\tData protection controls are primarily administrative in nature (e.g., policies & standards) to manage embedded technologies.\n•\tHistorical versions of configurations are maintained for troubleshooting and forensics purposes.\n•\tPhysical controls, administrative processes and technologies focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed."
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: "Embedded Technology (EMB) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function, categorizes embedded technologies according to the data the asset stores, transmits and/ or processes to ensure that the appropriate technology controls are applied to protect the asset and the data it stores, transmits or processes.\n•\tAn IT infrastructure team, or similar function, ensures that statutory, regulatory and contractual cybersecurity & data privacy obligations are addressed to ensure secure configurations for embedded technologies are designed, built and maintained for embedded technologies.\n•\tCybersecurity personnel perform annual evaluations of deployed embedded technologies to identify necessary updates to mitigate any newly discovered risks associated with legacy embedded technologies.\n•\tConfigurations for embedded technologies conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides) for test, development, staging and production environments.\n•\tConfiguration management of embedded technologies is centralized for all operating systems, applications, servers and other technologies that are capable of being configured.\n•\tSpecial baseline configurations for embedded technologies are created for higher-risk environments.\n•\tDeviations to baseline configurations for embedded technologies are required to have a risk assessment and the business process owner accepts the risk(s) associated with the deviation.\n•\tUnauthorized configuration changes to embedded technologies are responded to in accordance with an Incident Response Plan (IRP) to determine if the unauthorized configuration is malicious in nature.\n•\tA Data Protection Impact Assessment (DPIA) is used to help ensure the protection of sensitive/regulated data processed, stored or transmitted on embedded technologies, so that cybersecurity & data privacy controls are implemented in accordance with applicable statutory, regulatory and contractual obligations."
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: "Embedded Technology (EMB) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n▪ \tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n▪ \tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n▪ \tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity & data privacy controls, including functions performed by third-parties.\n▪ \tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n▪ \tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n▪ \tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: See SP-CMM4. SP-CMM5 is N/A, since a continuously-improving process is not necessary to proactively manage the cybersecurity & data privacy risks associated with Operational Technology (OT).
+  available: false
+  value: 5

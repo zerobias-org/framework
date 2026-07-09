@@ -1,0 +1,39 @@
+id: adf8a5bb-df8e-5514-bf95-c93cfdb0ec6f
+name: Encryption for Outgoing Email
+description: Mechanisms exist to enable the encryption of outgoing emails using organization-approved cryptographic means.
+elementType: enhancement
+externalId: NET-20.6
+controlQuestion: Does the organization enable the encryption of outgoing emails using organization-approved cryptographic means?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: net-20
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

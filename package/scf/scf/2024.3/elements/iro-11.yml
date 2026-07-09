@@ -1,0 +1,39 @@
+id: f1f63df8-6a42-5196-b3bf-2dcafa01f610
+name: Incident Reporting Assistance
+description: Mechanisms exist to provide incident response advice and assistance to users of systems for the handling and reporting of actual and potential cybersecurity & data privacy incidents.
+elementType: control
+externalId: IRO-11
+controlQuestion: Does the organization provide incident response advice and assistance to users of systems for the handling and reporting of actual and potential cybersecurity & data privacy incidents?
+functionGrouping: Respond
+controlWeighting: '5'
+parent: iro
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

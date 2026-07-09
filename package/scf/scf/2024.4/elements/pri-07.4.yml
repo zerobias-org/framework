@@ -1,0 +1,39 @@
+id: 67dfa4a0-d22b-50b7-a729-92d2d2341792
+name: Reject Unauthorized Disclosure Requests
+description: Mechanisms exist to reject unauthorized disclosure requests.
+elementType: enhancement
+externalId: PRI-07.4
+controlQuestion: Does the organization reject unauthorized disclosure requests?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: pri-07
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

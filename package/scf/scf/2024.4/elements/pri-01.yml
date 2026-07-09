@@ -1,0 +1,39 @@
+id: fb54aa98-6c39-502f-8f2e-d77a95ebfb7d
+name: Data Privacy Program
+description: Mechanisms exist to facilitate the implementation and operation of data privacy controls.
+elementType: control
+externalId: PRI-01
+controlQuestion: Does the organization facilitate the implementation and operation of data privacy controls?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: pri
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

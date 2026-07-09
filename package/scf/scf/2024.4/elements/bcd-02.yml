@@ -1,0 +1,39 @@
+id: 0d900696-770f-5557-ae7f-e047f4951d02
+name: Identify Critical Assets
+description: Mechanisms exist to identify and document the critical systems, applications and services that support essential missions and business functions.
+elementType: control
+externalId: BCD-02
+controlQuestion: Does the organization identify and document the critical systems, applications and services that support essential missions and business functions?
+functionGrouping: Recover
+controlWeighting: '9'
+parent: bcd
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

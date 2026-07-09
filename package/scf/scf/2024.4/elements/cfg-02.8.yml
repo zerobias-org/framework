@@ -1,0 +1,39 @@
+id: 211b9b98-144a-55bb-bcd6-73954fb1a92c
+name: Respond To Unauthorized Changes
+description: Mechanisms exist to respond to unauthorized changes to configuration settings as security incidents.
+elementType: enhancement
+externalId: CFG-02.8
+controlQuestion: Does the organization respond to unauthorized changes to configuration settings as security incidents?
+functionGrouping: Respond
+controlWeighting: '9'
+parent: cfg-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

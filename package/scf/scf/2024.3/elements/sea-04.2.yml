@@ -1,0 +1,39 @@
+id: b65f877d-b2b7-5d61-be0c-399be45e4d5d
+name: Hardware Separation
+description: Mechanisms exist to implement underlying hardware separation mechanisms to facilitate process separation.
+elementType: enhancement
+externalId: SEA-04.2
+controlQuestion: Does the organization implement underlying hardware separation mechanisms to facilitate process separation?
+functionGrouping: Protect
+controlWeighting: '7'
+parent: sea-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

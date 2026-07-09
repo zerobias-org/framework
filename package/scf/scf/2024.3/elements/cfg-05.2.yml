@@ -1,0 +1,39 @@
+id: 18e86390-30b5-502e-b408-0b4e4cdc47c2
+name: Restrict Roles Permitted To Install Software
+description: Mechanisms exist to configure systems to prevent the installation of software, unless the action is performed by a privileged user or service.
+elementType: enhancement
+externalId: CFG-05.2
+controlQuestion: Does the organization configure systems to prevent the installation of software, unless the action is performed by a privileged user or service?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cfg-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

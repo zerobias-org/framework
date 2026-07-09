@@ -1,0 +1,39 @@
+id: 53c32773-1e08-5b77-b8aa-409ff6fd1260
+name: Minimum Viable Product (MVP) Security Requirements
+description: Mechanisms exist to ensure risk-based technical and functional specifications are established to define a Minimum Viable Product (MVP).
+elementType: control
+externalId: TDA-02
+controlQuestion: Does the organization ensure risk-based technical and functional specifications are established to define a Minimum Viable Product (MVP)?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: tda
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

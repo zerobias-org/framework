@@ -1,0 +1,39 @@
+id: e442106f-45f4-5d0f-963a-4ac2195af16d
+name: Measures of Performance
+description: Mechanisms exist to develop, report and monitor cybersecurity & data privacy program measures of performance.
+elementType: control
+externalId: GOV-05
+controlQuestion: Does the organization develop, report and monitor cybersecurity & data privacy program measures of performance?
+functionGrouping: Govern
+controlWeighting: '6'
+parent: gov
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

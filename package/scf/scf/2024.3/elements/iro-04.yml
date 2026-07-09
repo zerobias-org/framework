@@ -1,0 +1,39 @@
+id: 0f689067-191e-5227-8168-0ae3c32c1d1e
+name: Incident Response Plan (IRP)
+description: Mechanisms exist to maintain and make available a current and viable Incident Response Plan (IRP) to all stakeholders.
+elementType: control
+externalId: IRO-04
+controlQuestion: Does the organization maintain and make available a current and viable Incident Response Plan (IRP) to all stakeholders?
+functionGrouping: Respond
+controlWeighting: '9'
+parent: iro
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

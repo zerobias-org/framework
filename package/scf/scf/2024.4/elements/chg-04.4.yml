@@ -1,0 +1,39 @@
+id: 34e89c7c-9dee-5fa3-83b1-4e6dc187e2a3
+name: Permissions To Implement Changes
+description: Mechanisms exist to limit operational privileges for implementing changes.
+elementType: enhancement
+externalId: CHG-04.4
+controlQuestion: Does the organization limit operational privileges for implementing changes?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: chg-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

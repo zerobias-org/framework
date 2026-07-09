@@ -1,0 +1,39 @@
+id: c50283d7-cbfb-5de2-9935-5a3947e00e6a
+name: Privileged Users
+description: Mechanisms exist to provide specific training for privileged users to ensure privileged users understand their unique roles and responsibilities
+elementType: enhancement
+externalId: SAT-03.5
+controlQuestion: Does the organization provide specific training for privileged users to ensure privileged users understand their unique roles and responsibilities
+functionGrouping: Protect
+controlWeighting: '9'
+parent: sat-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

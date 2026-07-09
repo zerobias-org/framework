@@ -1,0 +1,39 @@
+id: 47518a2a-949c-5999-abf6-d2b01be6c2d3
+name: Authenticated Proxy
+description: Mechanisms exist to force systems and processes to authenticate Internet-bound traffic with a proxy to enable user, group and/or location-aware security controls.
+elementType: enhancement
+externalId: NET-18.8
+controlQuestion: Does the organization force systems and processes to authenticate Internet-bound traffic with a proxy to enable user, group and/or location-aware security controls?
+functionGrouping: Protect
+controlWeighting: '3'
+parent: net-18
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

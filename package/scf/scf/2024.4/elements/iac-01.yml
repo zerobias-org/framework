@@ -1,0 +1,39 @@
+id: f33532ff-9cde-5a91-bb57-849025decbd6
+name: Identity & Access Management (IAM)
+description: Mechanisms exist to facilitate the implementation of identification and access management controls.
+elementType: control
+externalId: IAC-01
+controlQuestion: Does the organization facilitate the implementation of identification and access management controls?
+functionGrouping: Govern
+controlWeighting: '10'
+parent: iac
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

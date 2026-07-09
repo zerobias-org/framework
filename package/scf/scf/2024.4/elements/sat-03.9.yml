@@ -1,0 +1,39 @@
+id: 58721b7c-4092-58b7-b89e-4e921b7eea7e
+name: Counterintelligence Training
+description: Mechanisms exist to provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor.
+elementType: enhancement
+externalId: SAT-03.9
+controlQuestion: Does the organization provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor?
+functionGrouping: Identify
+controlWeighting: '1'
+parent: sat-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

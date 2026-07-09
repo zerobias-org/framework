@@ -1,0 +1,39 @@
+id: c87a3547-0247-5f74-8071-15dc4c6ee990
+name: Defined Roles & Responsibilities
+description: Mechanisms exist to define cybersecurity roles & responsibilities for all personnel.
+elementType: control
+externalId: HRS-03
+controlQuestion: Does the organization define cybersecurity roles & responsibilities for all personnel?
+functionGrouping: Identify
+controlWeighting: '10'
+parent: hrs
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

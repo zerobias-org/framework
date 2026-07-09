@@ -1,0 +1,39 @@
+id: cd484041-c52b-55c2-a6c8-cc00230fe8f4
+name: Archiving Software Releases
+description: Mechanisms exist to archive software releases and all of their components (e.g., code, package files, third-party libraries, documentation) to maintain integrity verification information.
+elementType: enhancement
+externalId: TDA-20.2
+controlQuestion: Does the organization archive software releases and all of their components (e.g., code, package files, third-party libraries, documentation) to maintain integrity verification information?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: tda-20
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

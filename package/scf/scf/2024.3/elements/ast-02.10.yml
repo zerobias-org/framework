@@ -1,0 +1,39 @@
+id: 89b78e07-78fe-5322-b067-9c6ccf2a8783
+name: "Automated Location\r\nTracking"
+description: Mechanisms exist to track the geographic location of system components.
+elementType: enhancement
+externalId: AST-02.10
+controlQuestion: Does the organization track the geographic location of system components?
+functionGrouping: Identify
+controlWeighting: '5'
+parent: ast-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

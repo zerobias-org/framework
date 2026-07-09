@@ -1,0 +1,39 @@
+id: c76fd31c-f1c4-5f38-95d5-f3f1eca76f56
+name: Equipment Testing
+description: Mechanisms exist to test sanitization equipment and procedures to verify that the intended result is achieved.
+elementType: enhancement
+externalId: DCH-09.2
+controlQuestion: Does the organization test sanitization equipment and procedures to verify that the intended result is achieved?
+functionGrouping: Detect
+controlWeighting: '5'
+parent: dch-09
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

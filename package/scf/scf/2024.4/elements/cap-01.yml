@@ -1,0 +1,39 @@
+id: af9b9fa1-cb4e-5ee0-bc19-e70d3d02bd0f
+name: Capacity & Performance Management
+description: Mechanisms exist to facilitate the implementation of capacity management controls to ensure optimal system performance to meet expected and anticipated future capacity requirements.
+elementType: control
+externalId: CAP-01
+controlQuestion: Does the organization facilitate the implementation of capacity management controls to ensure optimal system performance to meet expected and anticipated future capacity requirements?
+functionGrouping: Govern
+controlWeighting: '8'
+parent: cap
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

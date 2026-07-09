@@ -1,0 +1,39 @@
+id: db6b0de0-43e7-53d0-ac5c-d3fb9232bfdf
+name: Approved Configuration Deviations
+description: Mechanisms exist to document, assess risk and approve or deny deviations to standardized configurations.
+elementType: enhancement
+externalId: CFG-02.7
+controlQuestion: Does the organization document, assess risk and approve or deny deviations to standardized configurations?
+functionGrouping: Protect
+controlWeighting: '9'
+parent: cfg-02
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

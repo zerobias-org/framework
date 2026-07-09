@@ -1,0 +1,39 @@
+id: fc36ab58-b410-5754-904e-19b3eab996f8
+name: Cloud Infrastructure Security Subnet
+description: Mechanisms exist to host security-specific technologies in a dedicated subnet.
+elementType: control
+externalId: CLD-03
+controlQuestion: Does the organization host security-specific technologies in a dedicated subnet?
+functionGrouping: Protect
+controlWeighting: '6'
+parent: cld
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

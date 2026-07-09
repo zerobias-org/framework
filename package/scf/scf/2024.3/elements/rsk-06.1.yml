@@ -1,0 +1,39 @@
+id: b8bef3a7-ed4e-57fe-bd62-d66be9e00d05
+name: Risk Response
+description: Mechanisms exist to respond to findings from cybersecurity & data privacy assessments, incidents and audits to ensure proper remediation has been performed.
+elementType: enhancement
+externalId: RSK-06.1
+controlQuestion: Does the organization respond to findings from cybersecurity & data privacy assessments, incidents and audits to ensure proper remediation has been performed?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: rsk-06
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

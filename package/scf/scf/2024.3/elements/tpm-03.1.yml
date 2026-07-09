@@ -1,0 +1,39 @@
+id: 48be289d-fad4-53bf-85c3-d8d964b807d3
+name: Acquisition Strategies, Tools & Methods
+description: Mechanisms exist to utilize tailored acquisition strategies, contract tools and procurement methods for the purchase of unique systems, system components or services.
+elementType: enhancement
+externalId: TPM-03.1
+controlQuestion: Does the organization utilize tailored acquisition strategies, contract tools and procurement methods for the purchase of unique systems, system components or services?
+functionGrouping: Identify
+controlWeighting: '9'
+parent: tpm-03
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

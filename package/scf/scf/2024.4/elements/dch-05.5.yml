@@ -1,0 +1,39 @@
+id: d7a6fe46-9b88-543d-a790-632b09285d79
+name: Attribute Displays for Output Devices
+description: Mechanisms exist to display cybersecurity & data privacy attributes in human-readable form on each object that the system transmits to output devices to identify special dissemination, handling or distribution instructions using human-readable, standard naming conventions.
+elementType: enhancement
+externalId: DCH-05.5
+controlQuestion: Does the organization display cybersecurity & data privacy attributes in human-readable form on each object that the system transmits to output devices to identify special dissemination, handling or distribution instructions using human-readable, standard naming conventions?
+functionGrouping: Protect
+controlWeighting: '8'
+parent: dch-05
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

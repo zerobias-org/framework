@@ -1,0 +1,39 @@
+id: 3acc21c1-4cc9-5d29-b38b-67bf458b9b30
+name: Operations Security
+description: Mechanisms exist to facilitate the implementation of operational security controls.
+elementType: control
+externalId: OPS-01
+controlQuestion: Does the organization facilitate the implementation of operational security controls?
+functionGrouping: Govern
+controlWeighting: '8'
+parent: ops
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

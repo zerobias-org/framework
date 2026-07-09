@@ -1,0 +1,39 @@
+id: cbe72068-6816-51d2-a175-711a21765b92
+name: Managing Changes To Third-Party Services
+description: Mechanisms exist to control changes to services by suppliers, taking into account the criticality of business information, systems and processes that are in scope by the third-party.
+elementType: control
+externalId: TPM-10
+controlQuestion: Does the organization control changes to services by suppliers, taking into account the criticality of business information, systems and processes that are in scope by the third-party?
+functionGrouping: Identify
+controlWeighting: '8'
+parent: tpm
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5

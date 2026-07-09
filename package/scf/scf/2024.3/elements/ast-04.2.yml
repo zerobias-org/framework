@@ -1,0 +1,39 @@
+id: 231e12e7-c9ee-58f0-a586-78d7c4e54b32
+name: Control Applicability Boundary Graphical Representation
+description: Mechanisms exist to ensure control applicability is appropriately-determined for systems, applications, services and third parties by graphically representing applicable boundaries.
+elementType: enhancement
+externalId: AST-04.2
+controlQuestion: Does the organization ensure control applicability is appropriately-determined for systems, applications, services and third parties by graphically representing applicable boundaries?
+functionGrouping: Identify
+controlWeighting: '6'
+parent: ast-04
+cmm_0:
+  name: Not Performed
+  description: ''
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: ''
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: ''
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: ''
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: ''
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: ''
+  available: true
+  value: 5
