@@ -2,6 +2,10 @@
 
 ZeroBias compliance framework artifacts. Each `package/<authority>/<framework>/<version>/` directory is one publishable framework package (e.g. `cis/csc/v8_1`, `nist/800_207/v1`).
 
+## Content licensing & attribution
+
+Framework content reproduced from third-party sources is used under those sources' published licenses — see **[NOTICE.md](NOTICE.md)** for the required attributions. In particular, the SCF packages (`package/scf/scf/*`) are [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) content: redistribute verbatim with attribution; never distribute modified versions of the control content. The `"license"` field in each `package.json` covers packaging/scaffolding only, not the framework content.
+
 ## Authentication
 
 Set `ZB_TOKEN` in your environment to authenticate with the npm registry. Get one from [ZeroBias](https://app.zerobias.com).
