@@ -1,0 +1,55 @@
+id: d55f8562-c446-4b7f-a5b2-f8079b22ab99
+name: Align security and business strategies
+description: Align the application security program to support the organization's growth.
+longDescription: >
+  You review the application security plan periodically for ongoing
+  applicability and support of the organization's evolving needs and future
+  growth. To do this, you repeat the steps from the first two maturity levels of
+  this Security Practice at least annually. The goal is for the plan to always
+  support the current and future needs of the organization, which ensures the
+  program is aligned with the business.
+
+  In addition to reviewing the business drivers, the organization closely
+  monitors the success of the implementation of each of the roadmap milestones.
+  You evaluate the success of the milestones based on a wide range of criteria,
+  including completeness and efficiency of the implementation, budget
+  considerations, and any cultural impacts or changes resulting from the
+  initiative. You review missed or unsatisfactory milestones and evaluate
+  possible changes to the overall program.
+
+  The organization develops dashboards and measurements for management and teams
+  responsible for software development to monitor the implementation of the
+  roadmap. These dashboards are detailed enough to identify individual projects
+  and initiatives and provide a clear understanding of whether the program is
+  successful and aligned with the organization's needs.
+benefits: Continuous AppSec program alignment with the organization's business goals
+elementType: activity
+externalId: G-SM-3-A
+question: >-
+  Do you regularly review and update the Strategic Plan for Application
+  Security?
+qualityCriteria:
+  - >-
+    You review and update the plan in response to significant changes in the
+    business environment, the organization, or its risk appetite
+  - >-
+    Plan update steps include reviewing the plan with all the stakeholders and
+    updating the business drivers and strategies
+  - >-
+    You adjust the plan and roadmap based on lessons learned from completed
+    roadmap activities
+  - >-
+    You publish progress information on roadmap activities, making sure they are
+    available to all stakeholders
+parent: g-sm-a
+aliases:
+  - G-SM-3-A
+  - g-sm-3-a
+  - GSM3A
+  - gsm3a
+  - SM-3-A
+  - sm-3-a
+  - SM3A
+  - sm3a
+  - SM3-A
+  - sm3-a

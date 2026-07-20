@@ -1,0 +1,9 @@
+id: e4f7724f-5e15-4104-9287-12b7f40cca55
+name: 14.2.6
+description: Verify that the attack surface is reduced by sandboxing or encapsulating third party libraries to expose only the required behaviour into the application. ([C2](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 14.2.6
+parent: '14_2'
+links:
+  demonstrates:
+    - CWE-265
+elementType: requirement

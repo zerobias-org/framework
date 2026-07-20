@@ -1,0 +1,9 @@
+id: e4907076-2845-4bb6-a88a-1d6041183912
+name: 1.2.2
+description: Verify that communications between application components, including APIs, middleware and data layers, are authenticated. Components should have the least necessary privileges needed. ([C3](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.2.2
+parent: '1_2'
+links:
+  demonstrates:
+    - CWE-306
+elementType: requirement

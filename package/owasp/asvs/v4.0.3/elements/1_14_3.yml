@@ -1,0 +1,9 @@
+id: 5af31278-b8c1-4e34-aae8-451e79f4b909
+name: 1.14.3
+description: Verify that the build pipeline warns of out-of-date or insecure components and takes appropriate actions.
+externalId: 1.14.3
+parent: '1_14'
+links:
+  demonstrates:
+    - CWE-1104
+elementType: requirement

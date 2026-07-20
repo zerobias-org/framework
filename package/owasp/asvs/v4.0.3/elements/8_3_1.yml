@@ -1,0 +1,9 @@
+id: b20ac93e-8a4e-45c0-98be-18ecc0909333
+name: 8.3.1
+description: Verify that sensitive data is sent to the server in the HTTP message body or headers, and that query string parameters from any HTTP verb do not contain sensitive data.
+externalId: 8.3.1
+parent: '8_3'
+links:
+  demonstrates:
+    - CWE-319
+elementType: requirement

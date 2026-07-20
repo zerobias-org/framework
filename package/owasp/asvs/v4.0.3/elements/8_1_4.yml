@@ -1,0 +1,9 @@
+id: f800eed6-328a-43d5-be29-688120a370cd
+name: 8.1.4
+description: Verify the application can detect and alert on abnormal numbers of requests, such as by IP, user, total per hour or day, or whatever makes sense for the application.
+externalId: 8.1.4
+parent: '8_1'
+links:
+  demonstrates:
+    - CWE-770
+elementType: requirement

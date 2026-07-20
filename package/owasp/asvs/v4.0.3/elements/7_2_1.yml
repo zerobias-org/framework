@@ -1,0 +1,9 @@
+id: 6e1f381c-14bb-4ca9-adf8-9e443de0afb1
+name: 7.2.1
+description: Verify that all authentication decisions are logged, without storing sensitive session tokens or passwords. This should include requests with relevant metadata needed for security investigations.
+externalId: 7.2.1
+parent: '7_2'
+links:
+  demonstrates:
+    - CWE-778
+elementType: requirement

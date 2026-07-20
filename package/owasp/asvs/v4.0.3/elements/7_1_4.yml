@@ -1,0 +1,9 @@
+id: cc7650c1-3408-46d7-be87-ecddea0a6453
+name: 7.1.4
+description: Verify that each log event includes necessary information that would allow for a detailed investigation of the timeline when an event happens. ([C9](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.1.4
+parent: '7_1'
+links:
+  demonstrates:
+    - CWE-778
+elementType: requirement

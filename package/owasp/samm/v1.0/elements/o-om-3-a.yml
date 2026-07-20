@@ -1,0 +1,53 @@
+id: 653c0af5-64b9-4c66-b0af-a7058ba83900
+name: Respond to data breaches
+description: >-
+  Automate detection of policy non-compliance, and audit compliance
+  periodically. Regularly review and update to data catalog and data protection
+  policy.
+longDescription: >
+  Activities at this maturity level are focused on automating data protection,
+  reducing your reliance on human effort to assess and manage compliance with
+  policies. There is a focus on feedback mechanisms and proactive reviews, to
+  identify and act on opportunities for process improvement.
+
+  Implement technical controls to enforce compliance with your Data Protection
+  Policy, and put monitoring in place to detect attempted or actual violations.
+  You may use a variety of available tools for data loss prevention, access
+  control and tracking, or anomalous behavior detection.
+
+  Regularly audit compliance with established administrative controls, and
+  closely monitor performance and operation of automated mechanisms, including
+  backups and record deletions. Monitoring tools quickly detect and report
+  failures in automation, permitting you to take timely corrective action.
+
+  Reviews and update the data catalog regularly, to maintain its accurate
+  reflection of your data landscape. Regular reviews and updates of processes
+  and procedures maintain their alignment with your policies and priorities.
+benefits: Technically enforced compliance with your data protection policy
+elementType: activity
+externalId: O-OM-3-A
+question: >-
+  Do you regularly review and update the data catalog and your data protection
+  policies and procedures?
+qualityCriteria:
+  - >-
+    You have automated monitoring to detect attempted or actual violations of
+    the Data Protection Policy
+  - >-
+    You have tools for data loss prevention, access control and tracking, or
+    anomalous behavior detection
+  - >-
+    You periodically audit the operation of automated mechanisms, including
+    backups and record deletions
+parent: o-om-a
+aliases:
+  - O-OM-3-A
+  - o-om-3-a
+  - OOM3A
+  - oom3a
+  - OM-3-A
+  - om-3-a
+  - OM3A
+  - om3a
+  - OM3-A
+  - om3-a

@@ -1,0 +1,53 @@
+id: 242cb6b2-f91f-46ac-bb50-05531c4806f0
+name: Define basic defect metrics
+description: >-
+  Regularly go over previously recorded security defects and derive quick wins
+  from basic metrics.
+longDescription: >
+  Once per defined period of time (typically at least once per year), go over
+  your both resolved and still open recorded security defects in every team and
+  extract basic metrics from the available data. These might include:
+
+
+  * The total number of defects versus total number of verification activities.
+  This could give you an idea whether you're looking for defects with an
+  adequate intensity and quality.
+
+  * The software components the defects reside in. This is indicative of where
+  attention might be most required, and where security flaws might be more
+  likely to appear in the future again.
+
+  * The type or category of the defect, which suggests areas where the
+  development team need further training.
+
+  * The severity of the defect, which can help the team understand the
+  software's risk exposure.
+
+  Identify and carry out sensible quick win activities which you can derive from
+  the newly acquired knowledge. These might include things like a knowledge
+  sharing session about one particular vulnerability type or carrying out /
+  automating a security scan.
+benefits: Identification of quick wins derived from available defect information
+elementType: activity
+externalId: I-DM-1-B
+question: >-
+  Do you use basic metrics about recorded security defects to carry out quick
+  win improvement activities?
+qualityCriteria:
+  - You analyzed your recorded metrics at least once in the last year
+  - At least basic information about this initiative is recorded and available
+  - >-
+    You have identified and carried out at least one quick win activity based on
+    the data
+parent: i-dm-b
+aliases:
+  - I-DM-1-B
+  - i-dm-1-b
+  - IDM1B
+  - idm1b
+  - DM-1-B
+  - dm-1-b
+  - DM1B
+  - dm1b
+  - DM1-B
+  - dm1-b

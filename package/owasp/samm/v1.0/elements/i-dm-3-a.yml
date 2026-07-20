@@ -1,0 +1,48 @@
+id: e7ec82ad-af47-4715-b827-8bd2a2d36766
+name: Enforce an SLA for defect management
+description: >-
+  Enforce the predefined SLAs and integrate your defect management system with
+  other relevant tooling.
+longDescription: >
+  Implement an automated alerting on security defects if the fix time breaches
+  the defined SLAs. Ensure that these defects are automatically transferred into
+  the risk management process and rated by a consistent quantitative
+  methodology. Evaluate how particular defects influence / amplify each other
+  not only on the level of separate teams, but on the level of the whole
+  organization. Use the knowledge of the full kill chain to prioritize,
+  introduce and track compensating controls mitigating the respective business
+  risks.
+
+  Integrate your defect management system with the automated tooling introduced
+  by other practices, e.g.:
+
+
+  * Build and Deployment: Fail the build / deployment process if security
+  defects above certain severity affect the final artifact, unless someone
+  explicitly signs off the exception.
+
+  * Monitoring: If possible, ensure that abuse of the security defect in
+  production environment is recognized and alerted.
+benefits: Assurance that security defects are handled within predefined SLAs
+elementType: activity
+externalId: I-DM-3-A
+question: Do you enforce SLAs for fixing security defects?
+qualityCriteria:
+  - >-
+    You automatically alert of SLA breaches and transfer respective defects to
+    the risk management process
+  - >-
+    You integrate relevant tooling (e.g. monitoring, build, deployment) with the
+    defect management system
+parent: i-dm-a
+aliases:
+  - I-DM-3-A
+  - i-dm-3-a
+  - IDM3A
+  - idm3a
+  - DM-3-A
+  - dm-3-a
+  - DM3A
+  - dm3a
+  - DM3-A
+  - dm3-a

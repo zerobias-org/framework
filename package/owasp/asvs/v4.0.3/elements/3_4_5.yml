@@ -1,0 +1,9 @@
+id: 2baac70e-c362-40d9-b86d-a9eec85440d4
+name: 3.4.5
+description: Verify that if the application is published under a domain name with other applications that set or use session cookies that might disclose the session cookies, set the path attribute in cookie-based session tokens using the most precise path possible. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.4.5
+parent: '3_4'
+links:
+  demonstrates:
+    - CWE-16
+elementType: requirement

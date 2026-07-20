@@ -1,0 +1,9 @@
+id: 5a0cc426-e26f-4dab-9eeb-60f54ad99f49
+name: 6.1.2
+description: Verify that regulated health data is stored encrypted while at rest, such as medical records, medical device details, or de-anonymized research records.
+externalId: 6.1.2
+parent: '6_1'
+links:
+  demonstrates:
+    - CWE-311
+elementType: requirement

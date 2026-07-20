@@ -1,0 +1,9 @@
+id: 7d31606a-245f-48d5-b5ca-b0c418dc0bcd
+name: 10.2.2
+description: Verify that the application does not ask for unnecessary or excessive permissions to privacy related features or sensors, such as contacts, cameras, microphones, or location.
+externalId: 10.2.2
+parent: '10_2'
+links:
+  demonstrates:
+    - CWE-272
+elementType: requirement

@@ -1,0 +1,9 @@
+id: b4732568-e318-4bbc-8ce5-d7d830ab2db0
+name: 2.10.4
+description: Verify passwords, integrations with databases and third-party systems, seeds and internal secrets, and API keys are managed securely and not included in the source code or stored within source code repositories. Such storage SHOULD resist offline attacks. The use of a secure software key store (L1), hardware TPM, or an HSM (L3) is recommended for password storage.
+externalId: 2.10.4
+parent: '2_10'
+links:
+  demonstrates:
+    - CWE-798
+elementType: requirement

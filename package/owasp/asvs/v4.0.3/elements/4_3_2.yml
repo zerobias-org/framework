@@ -1,0 +1,9 @@
+id: bc64584b-eae5-4a66-8d91-865555f82a0b
+name: 4.3.2
+description: Verify that directory browsing is disabled unless deliberately desired. Additionally, applications should not allow discovery or disclosure of file or directory metadata, such as Thumbs.db, .DS_Store, .git or .svn folders.
+externalId: 4.3.2
+parent: '4_3'
+links:
+  demonstrates:
+    - CWE-548
+elementType: requirement

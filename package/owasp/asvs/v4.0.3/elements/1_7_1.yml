@@ -1,0 +1,9 @@
+id: 08f556ee-548d-43d9-9d3f-7c3d676db0fc
+name: 1.7.1
+description: Verify that a common logging format and approach is used across the system. ([C9](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.7.1
+parent: '1_7'
+links:
+  demonstrates:
+    - CWE-1009
+elementType: requirement

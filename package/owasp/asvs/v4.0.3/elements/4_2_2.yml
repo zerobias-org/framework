@@ -1,0 +1,9 @@
+id: dec44a7d-0717-42ea-8ac8-4b23735b6b14
+name: 4.2.2
+description: Verify that the application or framework enforces a strong anti-CSRF mechanism to protect authenticated functionality, and effective anti-automation or anti-CSRF protects unauthenticated functionality.
+externalId: 4.2.2
+parent: '4_2'
+links:
+  demonstrates:
+    - CWE-352
+elementType: requirement

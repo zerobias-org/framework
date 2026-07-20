@@ -1,0 +1,9 @@
+id: c922faac-f9f0-481a-ac1a-35b199a3a2b1
+name: 11.1.8
+description: Verify that the application has configurable alerting when automated attacks or unusual activity is detected.
+externalId: 11.1.8
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-390
+elementType: requirement

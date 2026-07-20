@@ -1,0 +1,9 @@
+id: 1fb007ef-5fb4-47c2-8014-aa7c51ac46a7
+name: 6.1.1
+description: Verify that regulated private data is stored encrypted while at rest, such as Personally Identifiable Information (PII), sensitive personal information, or data assessed likely to be subject to EU's GDPR.
+externalId: 6.1.1
+parent: '6_1'
+links:
+  demonstrates:
+    - CWE-311
+elementType: requirement

@@ -1,0 +1,32 @@
+{
+  "name": "@zerobias-org/framework-owasp-asvs-v4.0.3",
+  "version": "3.0.0",
+  "description": "OWASP ASVS v4.0.3 framework",
+  "author": "team@zerobias.com",
+  "license": "CC-BY-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/owasp/asvs/v4.0.3/"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "elements/**",
+    "baselines/**",
+    "index.yml"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-owasp-asvs": "latest"
+  },
+  "zerobias": {
+    "package": "owasp.asvs.v4_0_3.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
+  }
+}

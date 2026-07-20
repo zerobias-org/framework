@@ -1,0 +1,65 @@
+id: c99cd5d3-6de7-4573-9226-5d9d78bf45e5
+name: Train all stakeholders for awareness
+description: >-
+  Provide security awareness training for all personnel involved in software
+  development.
+longDescription: >
+  Conduct security awareness training for all roles currently involved in the
+  management, development, testing, or auditing of the software. The goal is to
+  increase the awareness of application security threats and risks, security
+  best practices, and secure software design principles. Develop training
+  internally or procure it externally. Ideally, deliver training in person so
+  participants can have discussions as a team, but Computer-Based Training (CBT)
+  is also an option.
+
+  Course content should include a range of topics relevant to application
+  security and privacy, while remaining accessible to a non-technical audience.
+  Suitable concepts are secure design principles including Least Privilege,
+  Defense-in-Depth, Fail Secure (Safe), Complete Mediation, Session Management,
+  Open Design, and Psychological Acceptability. Additionally, the training
+  should include references to any organization-wide standards, policies, and
+  procedures defined to improve application security. The OWASP Top 10
+  vulnerabilities should be covered at a high level.
+
+  Training is mandatory for all employees and contractors involved with software
+  development and includes an auditable sign-off to demonstrate compliance.
+  Consider incorporating innovative ways of delivery (such as gamification) to
+  maximize its effectiveness and combat desensitization.
+benefits: Basic security awareness for all relevant employees
+elementType: activity
+externalId: G-EG-1-A
+question: >-
+  Do you require employees involved with application development to take SDLC
+  training?
+qualityCriteria:
+  - >-
+    Training is repeatable, consistent, and available to anyone involved with
+    software development lifecycle
+  - >-
+    Training includes relevant content from the latest OWASP Top 10 and includes
+    concepts such as Least Privilege, Defense-in-Depth, Fail Secure (Safe),
+    Complete Mediation, Session Management, Open Design, and Psychological
+    Acceptability
+  - Training requires a sign-off or an acknowledgement from attendees
+  - >-
+    You have reviewed the training content within the last 12 months, and have
+    completed any required updates
+  - >-
+    All new covered staff are required to complete training during their
+    onboarding process
+  - >-
+    Existing covered staff are required to complete training when content is
+    added/revised, or complete refresher training at least every 24 months,
+    whichever comes first
+parent: g-eg-a
+aliases:
+  - G-EG-1-A
+  - g-eg-1-a
+  - GEG1A
+  - geg1a
+  - EG-1-A
+  - eg-1-a
+  - EG1A
+  - eg1a
+  - EG1-A
+  - eg1-a

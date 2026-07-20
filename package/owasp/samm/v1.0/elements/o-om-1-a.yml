@@ -1,0 +1,40 @@
+id: c0003589-537c-4c11-a1ce-1a0c084bdfb7
+name: Organize basic data protections
+description: Implement basic data protection practices.
+longDescription: >
+  Understand the types and sensitivity of data stored and processed by your
+  applications, and maintain awareness of the fate of processed data (e.g.,
+  backups, sharing with external partners). At this level of maturity, the
+  information gathered may be captured in varying forms and different places; no
+  organization-wide data catalog is assumed to exist. Protect and handle all
+  data associated with a given application according to protection requirements
+  applying to the most sensitive data stored and processed.
+
+  Implement basic controls, to prevent propagation of unsanitized sensitive data
+  from production environments to lower environments. By ensuring unsanitized
+  production data are never propagated to lower (non-production) environments,
+  you can focus data protection policies and activities on production.
+benefits: Understanding of sensitivity of processed data with derived quick-win measures
+elementType: activity
+externalId: O-OM-1-A
+question: >-
+  Do you protect and handle information according to protection requirements for
+  data stored and processed on each application?
+qualityCriteria:
+  - You know the data elements processed and stored by each application
+  - You know the type and sensitivity level of each identified data element
+  - >-
+    You have controls to prevent propagation of unsanitized sensitive data from
+    production to lower environments
+parent: o-om-a
+aliases:
+  - O-OM-1-A
+  - o-om-1-a
+  - OOM1A
+  - oom1a
+  - OM-1-A
+  - om-1-a
+  - OM1A
+  - om1a
+  - OM1-A
+  - om1-a

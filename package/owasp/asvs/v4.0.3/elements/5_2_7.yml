@@ -1,0 +1,9 @@
+id: 23848225-e2ce-48ad-8eb0-3c9eadfb7851
+name: 5.2.7
+description: Verify that the application sanitizes, disables, or sandboxes user-supplied Scalable Vector Graphics (SVG) scriptable content, especially as they relate to XSS resulting from inline scripts, and foreignObject.
+externalId: 5.2.7
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-159
+elementType: requirement

@@ -1,0 +1,6 @@
+id: 501a1c42-1be7-4660-a66e-97f3be34f95c
+name: 1.7.2
+description: Verify that logs are securely transmitted to a preferably remote system for analysis, detection, alerting, and escalation. ([C9](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.7.2
+parent: '1_7'
+elementType: requirement

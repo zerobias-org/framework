@@ -1,0 +1,9 @@
+id: e344f887-5a76-47c6-8574-03195dd1939b
+name: 2.4.4
+description: Verify that if bcrypt is used, the work factor SHOULD be as large as verification server performance will allow, with a minimum of 10. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.4.4
+parent: '2_4'
+links:
+  demonstrates:
+    - CWE-916
+elementType: requirement

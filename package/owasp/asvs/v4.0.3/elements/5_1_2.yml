@@ -1,0 +1,9 @@
+id: b899d906-d6ae-4bbf-90ce-fd033239449c
+name: 5.1.2
+description: Verify that frameworks protect against mass parameter assignment attacks, or that the application has countermeasures to protect against unsafe parameter assignment, such as marking fields private or similar. ([C5](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.1.2
+parent: '5_1'
+links:
+  demonstrates:
+    - CWE-915
+elementType: requirement

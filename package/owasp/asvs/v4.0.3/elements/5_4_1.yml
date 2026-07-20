@@ -1,0 +1,9 @@
+id: 63f4a001-be55-4f48-a71d-fcf93133ecac
+name: 5.4.1
+description: Verify that the application uses memory-safe string, safer memory copy and pointer arithmetic to detect or prevent stack, buffer, or heap overflows.
+externalId: 5.4.1
+parent: '5_4'
+links:
+  demonstrates:
+    - CWE-120
+elementType: requirement

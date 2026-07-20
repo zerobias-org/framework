@@ -1,0 +1,9 @@
+id: 07dd5f44-90e5-4b67-a326-9f198c8ddf4f
+name: 12.4.1
+description: Verify that files obtained from untrusted sources are stored outside the web root, with limited permissions.
+externalId: 12.4.1
+parent: '12_4'
+links:
+  demonstrates:
+    - CWE-552
+elementType: requirement

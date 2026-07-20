@@ -1,0 +1,9 @@
+id: 81e2931b-b0d8-4e7d-8fb9-891a78505bb1
+name: 4.1.5
+description: Verify that access controls fail securely including when an exception occurs. ([C10](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 4.1.5
+parent: '4_1'
+links:
+  demonstrates:
+    - CWE-285
+elementType: requirement

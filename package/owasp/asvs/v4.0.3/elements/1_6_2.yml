@@ -1,0 +1,9 @@
+id: 185eba1b-fd1e-4fe6-b7ca-9a48f1f8076e
+name: 1.6.2
+description: Verify that consumers of cryptographic services protect key material and other secrets by using key vaults or API based alternatives.
+externalId: 1.6.2
+parent: '1_6'
+links:
+  demonstrates:
+    - CWE-320
+elementType: requirement

@@ -1,0 +1,31 @@
+id: 9407e127-da26-4e2b-bd43-01bd05f1d618
+name: Policy and Compliance
+description: >-
+  This practice drives the adherence to internal and external standards and
+  regulations.
+longDescription: >
+  The Policy and Compliance (PC) practice focuses on understanding and meeting
+  external legal and regulatory requirements while driving internal security
+  standards to ensure compliance in a way that’s aligned with the business
+  purpose of the organization.
+
+  A driving theme for improvement within this practice is describing
+  organization’s standards and 3rd party obligations as application
+  requirements, enabling efficient and automated audits that may be leveraged
+  within the SDLC and continuously demonstrate that all expectations are met.
+
+  In a sophisticated form, provision of this practice entails an
+  organization-wide understanding of both internal standards and external
+  compliance drivers while also maintaining low-latency checkpoints with project
+  teams to ensure no project is operating outside expectations without
+  visibility.
+elementType: securityPractice
+externalId: G-PC
+parent: g
+aliases:
+  - G-PC
+  - g-pc
+  - GPC
+  - gpc
+  - PC
+  - pc

@@ -1,0 +1,9 @@
+id: f71d6ba9-c5dd-41d2-bf90-bd90770447d7
+name: 1.14.5
+description: Verify that application deployments adequately sandbox, containerize and/or isolate at the network level to delay and deter attackers from attacking other applications, especially when they are performing sensitive or dangerous actions such as deserialization. ([C5](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.14.5
+parent: '1_14'
+links:
+  demonstrates:
+    - CWE-265
+elementType: requirement

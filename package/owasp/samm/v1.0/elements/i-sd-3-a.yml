@@ -1,0 +1,42 @@
+id: 4d2c9ead-87ab-402a-916a-5a91beb53fe2
+name: Verify the integrity of deployment artifacts
+description: >-
+  Automatically verify integrity of all deployed software, independently on
+  whether it's internally or externally developed.
+longDescription: >
+  Take advantage of binaries being signed at the build time and include
+  automatic verification of the integrity of software being deployed by checking
+  their signatures against trusted certificates. This may include binaries
+  developed and built in-house, as well as third-party artifacts. Do not deploy
+  artifacts if their signatures cannot be verified, including those with invalid
+  or expired certificates.
+
+  If the list of trusted certificates includes third-party developers, check
+  them periodically, and keep them in line with the organization's wider
+  governance surrounding trusted third-party suppliers.
+
+  Manually approve the deployment at least once during an automated deployment.
+  Whenever a human check is significantly more accurate than an automated one
+  during the deployment process, go for this option.
+benefits: Assured integrity of artifacts being deployed to production
+elementType: activity
+externalId: I-SD-3-A
+question: Do you consistently validate the integrity of deployed artifacts?
+qualityCriteria:
+  - You prevent or roll back deployment if you detect an integrity breach
+  - The verification is done against signatures created during the build time
+  - >-
+    If checking of signatures is not possible (e.g. externally build software),
+    you introduce compensating measures
+parent: i-sd-a
+aliases:
+  - I-SD-3-A
+  - i-sd-3-a
+  - ISD3A
+  - isd3a
+  - SD-3-A
+  - sd-3-a
+  - SD3A
+  - sd3a
+  - SD3-A
+  - sd3-a

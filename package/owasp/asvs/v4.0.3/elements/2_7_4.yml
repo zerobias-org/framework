@@ -1,0 +1,9 @@
+id: c924a78e-dab3-4d96-b3b0-a01e9f3513e8
+name: 2.7.4
+description: Verify that the out of band authenticator and verifier communicates over a secure independent channel.
+externalId: 2.7.4
+parent: '2_7'
+links:
+  demonstrates:
+    - CWE-523
+elementType: requirement

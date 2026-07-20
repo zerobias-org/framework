@@ -1,0 +1,9 @@
+id: 35d37a77-3de5-4bb8-8b89-cf92de501c07
+name: 14.4.1
+description: Verify that every HTTP response contains a Content-Type header. Also specify a safe character set (e.g., UTF-8, ISO-8859-1) if the content types are text/*, /+xml and application/xml. Content must match with the provided Content-Type header.
+externalId: 14.4.1
+parent: '14_4'
+links:
+  demonstrates:
+    - CWE-173
+elementType: requirement

@@ -1,0 +1,29 @@
+id: 97a42d5c-5d0d-4951-9cee-f9d2c32a33b8
+name: Threat Assessment
+description: This practice focuses on identifying potential threats in applications.
+longDescription: >
+  The Threat Assessment (TA) practice focuses on identifying and understanding
+  of project-level risks based on the functionality of the software being
+  developed and characteristics of the runtime environment. From details about
+  threats and likely attacks against each project, the organization as a whole
+  operates more effectively through better decisions about prioritization of
+  initiatives for security. Additionally, decisions for risk acceptance are more
+  informed, therefore better aligned to the business.
+
+  By starting with simple threat models and building application risk profiles,
+  an organization improves over time. Ultimately, a sophisticated organization
+  would maintain this information in a way that is tightly coupled to the
+  compensating factors and pass-through risks from external entities. This
+  provides greater breadth of understanding for potential downstream impacts
+  from security issues, tradeoffs, or flaws, while keeping a close watch on the
+  organization’s current performance against known threats.
+elementType: securityPractice
+externalId: D-TA
+parent: d
+aliases:
+  - D-TA
+  - d-ta
+  - DTA
+  - dta
+  - TA
+  - ta

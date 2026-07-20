@@ -1,0 +1,9 @@
+id: a99a631e-3b5d-4960-ae2b-18445af86929
+name: 2.1.8
+description: Verify that a password strength meter is provided to help users set a stronger password.
+externalId: 2.1.8
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-521
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 99e7e304-3e6e-4aea-b91d-f0959fe02859
+name: 11.1.3
+description: Verify the application has appropriate limits for specific business actions or transactions which are correctly enforced on a per user basis.
+externalId: 11.1.3
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-770
+elementType: requirement

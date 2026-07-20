@@ -1,0 +1,9 @@
+id: c8167e35-542f-45c7-8d76-5552b82356dd
+name: 5.5.2
+description: Verify that the application correctly restricts XML parsers to only use the most restrictive configuration possible and to ensure that unsafe features such as resolving external entities are disabled to prevent XML eXternal Entity (XXE) attacks.
+externalId: 5.5.2
+parent: '5_5'
+links:
+  demonstrates:
+    - CWE-611
+elementType: requirement

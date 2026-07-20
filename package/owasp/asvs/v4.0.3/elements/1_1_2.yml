@@ -1,0 +1,9 @@
+id: 9e438111-22dc-4b28-a0ae-a2d2a5347f54
+name: 1.1.2
+description: Verify the use of threat modeling for every design change or sprint planning to identify threats, plan for countermeasures, facilitate appropriate risk responses, and guide security testing.
+externalId: 1.1.2
+parent: '1_1'
+links:
+  demonstrates:
+    - CWE-1053
+elementType: requirement

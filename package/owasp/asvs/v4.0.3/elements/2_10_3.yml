@@ -1,0 +1,9 @@
+id: 59fedc9a-c0eb-44e1-955b-5ed72fe57561
+name: 2.10.3
+description: Verify that passwords are stored with sufficient protection to prevent offline recovery attacks, including local system access.
+externalId: 2.10.3
+parent: '2_10'
+links:
+  demonstrates:
+    - CWE-522
+elementType: requirement

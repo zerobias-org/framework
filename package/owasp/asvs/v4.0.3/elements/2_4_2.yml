@@ -1,0 +1,9 @@
+id: 108c8f1f-5e31-433d-b6ec-d8b7ddb4fedc
+name: 2.4.2
+description: Verify that the salt is at least 32 bits in length and be chosen arbitrarily to minimize salt value collisions among stored hashes. For each credential, a unique salt value and the resulting hash SHALL be stored. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.4.2
+parent: '2_4'
+links:
+  demonstrates:
+    - CWE-916
+elementType: requirement

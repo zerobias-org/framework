@@ -1,0 +1,23 @@
+id: da678700-7689-4de3-9dd7-0609b5d833df
+name: System Decommissioning / Legacy Management
+description: >
+  From the perspective of the organization as a consumer of resources, the
+  activities in this stream focus on the identification, management, and
+  tracking of systems, applications, application dependencies, and services that
+  are no longer used, have reached end of life, or are no longer actively
+  developed or supported. Removal of unused systems and services improves
+  manageability of the environment and reduces the organization's attack
+  surface, while affording direct and indirect cost savings (e.g., reduced
+  license count, reduced logging volume, or reduced analyst effort).
+elementType: stream
+externalId: O-OM-B
+parent: o-om
+aliases:
+  - O-OM-B
+  - o-om-b
+  - OOMB
+  - oomb
+  - OM-B
+  - om-b
+  - OMB
+  - omb

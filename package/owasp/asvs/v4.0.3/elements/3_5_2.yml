@@ -1,0 +1,9 @@
+id: b9365668-c3d7-429a-a93d-473441dd8557
+name: 3.5.2
+description: Verify the application uses session tokens rather than static API secrets and keys, except with legacy implementations.
+externalId: 3.5.2
+parent: '3_5'
+links:
+  demonstrates:
+    - CWE-798
+elementType: requirement

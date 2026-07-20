@@ -1,0 +1,9 @@
+id: fba3555b-4eba-46cc-8d4f-817ba2b7f86d
+name: 12.1.1
+description: Verify that the application will not accept large files that could fill up storage or cause a denial of service.
+externalId: 12.1.1
+parent: '12_1'
+links:
+  demonstrates:
+    - CWE-400
+elementType: requirement

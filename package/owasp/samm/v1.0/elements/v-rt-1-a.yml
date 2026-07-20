@@ -1,0 +1,44 @@
+id: a890b2db-671c-4aae-b561-58182e55fc3d
+name: Test the effectiveness of security controls
+description: Test for software security controls.
+longDescription: >
+  Conduct security tests to verify that the standard software security controls
+  operate as expected. At a high level, this means testing the correct
+  functioning of the confidentiality, integrity, and availability controls of
+  the data as well as the service. Security tests at least include testing for
+  authentication, access control, input validation, encoding, and escaping data
+  and encryption controls. The test objective is to validate that the security
+  controls are correctly implemented.
+
+  The security testing validates the relevant software security controls.
+  Perform control-verification security tests manually or with tools, each time
+  the application changes its use of the controls. Techniques such as feature
+  toggles and A/B testing can be used to progressively expose features to
+  broader audiences as they are sufficiently validated. Software control
+  verification is mandatory for all software that is part of the SAMM program.
+benefits: Verified effectiveness of your standard security controls
+elementType: activity
+externalId: V-RT-1-A
+question: >-
+  Do you test applications for the correct functioning of standard security
+  controls?
+qualityCriteria:
+  - >-
+    Security testing at least verifies the implementation of authentication,
+    access control, input validation, encoding and escaping data, and encryption
+    controls
+  - >-
+    Security testing executes whenever the application changes its use of the
+    controls
+parent: v-rt-a
+aliases:
+  - V-RT-1-A
+  - v-rt-1-a
+  - VRT1A
+  - vrt1a
+  - RT-1-A
+  - rt-1-a
+  - RT1A
+  - rt1a
+  - RT1-A
+  - rt1-a

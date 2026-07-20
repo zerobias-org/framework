@@ -1,0 +1,9 @@
+id: c096c543-2067-4b57-838d-8f13d0e2a424
+name: 6.2.5
+description: Verify that known insecure block modes (i.e. ECB, etc.), padding modes (i.e. PKCS#1 v1.5, etc.), ciphers with small block sizes (i.e. Triple-DES, Blowfish, etc.), and weak hashing algorithms (i.e. MD5, SHA1, etc.) are not used unless required for backwards compatibility.
+externalId: 6.2.5
+parent: '6_2'
+links:
+  demonstrates:
+    - CWE-326
+elementType: requirement

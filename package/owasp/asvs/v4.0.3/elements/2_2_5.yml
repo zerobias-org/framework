@@ -1,0 +1,9 @@
+id: 84e92e68-6560-4d24-8e64-36c1ce6c600e
+name: 2.2.5
+description: Verify that where a Credential Service Provider (CSP) and the application verifying authentication are separated, mutually authenticated TLS is in place between the two endpoints.
+externalId: 2.2.5
+parent: '2_2'
+links:
+  demonstrates:
+    - CWE-319
+elementType: requirement

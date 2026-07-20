@@ -1,0 +1,57 @@
+id: 3c8e16f7-c719-4dbe-b026-2b8ce4348b0d
+name: Build reference architectures
+description: >-
+  Reference architectures are utilized and continuously evaluated for adoption
+  and appropriateness.
+longDescription: >
+  Build a set of reference architectures that select and combine a verified set
+  of security components to ensure a proper design of security. Reference
+  platforms have advantages in terms of shortening audit and security-related
+  reviews, increasing efficiency in development, and lowering maintenance
+  overhead. Continuously maintain and improve the reference architecture based
+  on new insights in the organization and within the community. Have architects,
+  senior developers and other technical stakeholders participate in design and
+  creation of reference platforms. After creation, teams maintain ongoing
+  support and updates.
+
+  Reference architectures may materialize into a set of software libraries and
+  tools upon which project teams build their software. They serve as a starting
+  point that standardizes the configuration-driven, security-by-default security
+  approach. You can bootstrap the framework by selecting a particular project
+  early in the lifecycle and having security-savvy staff work with them to build
+  the security functionality in a generic way so that it can be extracted from
+  the project and used elsewhere in the organization.
+
+  Monitor weaknesses or gaps in the set of security solutions available in your
+  organization continuously in the context of discussions on architecture,
+  development, or operations. This serves as an input to improve the
+  appropriateness and effectiveness of the reference architectures that you have
+  in place.
+benefits: >-
+  Full transparency of quality and usability of centrally provided security
+  solutions
+elementType: activity
+externalId: D-SA-3-A
+question: Do you base your design on available reference architectures?
+qualityCriteria:
+  - >-
+    You have one or more approved reference architectures documented and
+    available to stakeholders
+  - >-
+    You improve the reference architectures continuously based on insights and
+    best practices
+  - >-
+    You provide a set of components, libraries, and tools to implement each
+    reference architecture
+parent: d-sa-a
+aliases:
+  - D-SA-3-A
+  - d-sa-3-a
+  - DSA3A
+  - dsa3a
+  - SA-3-A
+  - sa-3-a
+  - SA3A
+  - sa3a
+  - SA3-A
+  - sa3-a

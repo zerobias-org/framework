@@ -1,0 +1,9 @@
+id: 3d1514ca-9fff-4d56-bcd3-f280dcca81dc
+name: 1.6.4
+description: Verify that the architecture treats client-side secrets--such as symmetric keys, passwords, or API tokens--as insecure and never uses them to protect or access sensitive data.
+externalId: 1.6.4
+parent: '1_6'
+links:
+  demonstrates:
+    - CWE-320
+elementType: requirement

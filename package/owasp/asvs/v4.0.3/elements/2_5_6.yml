@@ -1,0 +1,9 @@
+id: 6727daf7-3647-4512-8470-128f05cd4a89
+name: 2.5.6
+description: Verify forgotten password, and other recovery paths use a secure recovery mechanism, such as time-based OTP (TOTP) or other soft token, mobile push, or another offline recovery mechanism. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.5.6
+parent: '2_5'
+links:
+  demonstrates:
+    - CWE-640
+elementType: requirement

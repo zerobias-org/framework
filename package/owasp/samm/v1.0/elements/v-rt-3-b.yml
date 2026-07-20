@@ -1,0 +1,46 @@
+id: ed468c09-7999-4c3b-b5b0-199c5ae08869
+name: Perform security stress testing
+description: Denial of service and security stress testing.
+longDescription: >
+  Applications are particularly susceptible to denial of service attacks.
+  Perform denial of service and security stress testing against them in
+  controlled conditions, preferably on application acceptance environments.
+
+  Load testing tools generate synthetic traffic, allowing you to test the
+  application's performance under heavy load. One important test is how many
+  requests per second an application can handle while remaining within its
+  performance requirements. Testing from a single IP address is still useful as
+  it gives an indication of how many requests an attacker must generate to
+  impact the application.
+
+  Denial of service attacks typically result in application resource starvation
+  or exhaustion. To determine if any resources can be used to create a denial of
+  service, analyze each application resource to see how it can be exhausted.
+  Prioritise actions unauthenticated user can do. Complement overall denial of
+  service tests with security stress tests to perform actions or create
+  conditions which cause delays, disruptions, or failures of the application
+  under test.
+benefits: Transparency of resilience against denial of service attacks
+elementType: activity
+externalId: V-RT-3-B
+question: Do you perform denial of service and security stress testing?
+qualityCriteria:
+  - >-
+    Stress tests target specific application resources (e.g. memory exhaustion
+    by saving large amounts of data to a user session)
+  - >-
+    You design tests around relevant personas with well-defined capabilities
+    (knowledge, resources)
+  - You feed the results back to the Design practices
+parent: v-rt-b
+aliases:
+  - V-RT-3-B
+  - v-rt-3-b
+  - VRT3B
+  - vrt3b
+  - RT-3-B
+  - rt-3-b
+  - RT3B
+  - rt3b
+  - RT3-B
+  - rt3-b

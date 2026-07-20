@@ -1,0 +1,9 @@
+id: 8916ed7a-666f-40ce-9e4e-2b32a8fa3a32
+name: 12.2.1
+description: Verify that files obtained from untrusted sources are validated to be of expected type based on the file's content.
+externalId: 12.2.1
+parent: '12_2'
+links:
+  demonstrates:
+    - CWE-434
+elementType: requirement

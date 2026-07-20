@@ -1,0 +1,9 @@
+id: 699e2a5e-c4e8-4b1f-a4a9-93af83d7a7dc
+name: 5.2.1
+description: Verify that all untrusted HTML input from WYSIWYG editors or similar is properly sanitized with an HTML sanitizer library or framework feature. ([C5](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.2.1
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-116
+elementType: requirement

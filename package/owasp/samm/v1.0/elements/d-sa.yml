@@ -1,0 +1,24 @@
+id: 043f7eca-7398-44fd-ba5d-ddead31e1231
+name: Secure Architecture
+description: >-
+  The secure architecture practice focuses on managing architectural risks for
+  the software solution.
+longDescription: >
+  The Secure Architecture (SA) practice focuses on the security linked to
+  components and technology you deal with during the architectural design of
+  your software. Secure Architecture Design looks at the selection and
+  composition of components that form the foundation of your solution, focusing
+  on its security properties. Technology Management looks at the security of
+  supporting technologies used during development, deployment and operations,
+  such as development stacks and tooling, deployment tooling, and operating
+  systems and tooling.
+elementType: securityPractice
+externalId: D-SA
+parent: d
+aliases:
+  - D-SA
+  - d-sa
+  - DSA
+  - dsa
+  - SA
+  - sa

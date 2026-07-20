@@ -1,0 +1,9 @@
+id: 16f73fb1-9854-41f9-95d9-6427767d1bd8
+name: 11.1.7
+description: Verify that the application monitors for unusual events or activity from a business logic perspective. For example, attempts to perform actions out of order or actions which a normal user would never attempt. ([C9](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 11.1.7
+parent: '11_1'
+links:
+  demonstrates:
+    - CWE-754
+elementType: requirement

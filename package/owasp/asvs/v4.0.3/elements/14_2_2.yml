@@ -1,0 +1,9 @@
+id: 875dfde5-6cea-475a-9583-29a453c9ec0e
+name: 14.2.2
+description: Verify that all unneeded features, documentation, sample applications and configurations are removed.
+externalId: 14.2.2
+parent: '14_2'
+links:
+  demonstrates:
+    - CWE-1002
+elementType: requirement

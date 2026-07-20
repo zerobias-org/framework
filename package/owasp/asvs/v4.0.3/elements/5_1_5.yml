@@ -1,0 +1,9 @@
+id: 632b7538-406d-4842-a8c1-e0430d6a1d8a
+name: 5.1.5
+description: Verify that URL redirects and forwards only allow destinations which appear on an allow list, or show a warning when redirecting to potentially untrusted content.
+externalId: 5.1.5
+parent: '5_1'
+links:
+  demonstrates:
+    - CWE-601
+elementType: requirement

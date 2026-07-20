@@ -1,0 +1,9 @@
+id: 79bdc0e8-4643-48c1-b8ae-5c2562c34fc3
+name: 13.2.5
+description: Verify that REST services explicitly check the incoming Content-Type to be the expected one, such as application/xml or application/json.
+externalId: 13.2.5
+parent: '13_2'
+links:
+  demonstrates:
+    - CWE-436
+elementType: requirement

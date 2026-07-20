@@ -1,0 +1,9 @@
+id: b17b3c0c-1534-4d14-b2fe-837071dca582
+name: 1.1.3
+description: Verify that all user stories and features contain functional security constraints, such as "As a user, I should be able to view and edit my profile. I should not be able to view or edit anyone else's profile"
+externalId: 1.1.3
+parent: '1_1'
+links:
+  demonstrates:
+    - CWE-1110
+elementType: requirement

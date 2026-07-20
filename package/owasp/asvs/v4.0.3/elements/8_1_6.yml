@@ -1,0 +1,9 @@
+id: ea61ed35-ae46-43b6-866d-c354f5d7e55e
+name: 8.1.6
+description: Verify that backups are stored securely to prevent data from being stolen or corrupted.
+externalId: 8.1.6
+parent: '8_1'
+links:
+  demonstrates:
+    - CWE-19
+elementType: requirement

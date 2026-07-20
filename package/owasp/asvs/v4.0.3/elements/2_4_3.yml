@@ -1,0 +1,9 @@
+id: 3d5fbde7-9540-451a-8b60-3cc61ba509d7
+name: 2.4.3
+description: Verify that if PBKDF2 is used, the iteration count SHOULD be as large as verification server performance will allow, typically at least 100,000 iterations. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 2.4.3
+parent: '2_4'
+links:
+  demonstrates:
+    - CWE-916
+elementType: requirement

@@ -1,0 +1,53 @@
+id: c6374a16-9a89-484e-9b3b-19416ea28820
+name: Align security methodology with suppliers
+description: >-
+  Ensure proper security coverage for external suppliers by providing clear
+  objectives.
+longDescription: >
+  The best way to minimize the risk of issues in software is to align maximally
+  and integrate closely between the different parties. From a process
+  perspective, this means using similar development paradigms and introducing
+  regular milestones to ensure proper alignment and qualitative progress. From a
+  tools perspective, this might mean using similar build, verification and
+  deployment environments, and sharing other supporting tools (e.g.
+  requirements, architecture tools, or code repositories).
+
+  In case suppliers cannot meet the objectives that you have set, implement
+  compensating controls so that, overall, you meet your objectives. Execute
+  extra activities (e.g., threat modelling before starting the actual
+  implementation cycle) or implement extra tooling (e.g., 3rd party library
+  analysis at solution intake). The more suppliers deviate from your
+  requirements, the more work will be required to compensate.
+benefits: >-
+  Alignment of software development practices with suppliers to limit security
+  risks
+elementType: activity
+externalId: D-SR-3-B
+question: >-
+  Are vendors aligned with standard security controls and software development
+  tools and processes that the organization utilizes?
+qualityCriteria:
+  - >-
+    The vendor has a secure SDLC that includes secure build, secure deployment,
+    defect management, and incident management, meets the security expectations
+    of your organization, and is able to demonstrate operating effectiveness of
+    practices.
+  - >-
+    You verify the solution meets quality and security objectives before every
+    major release
+  - >-
+    When standard verification processes are not available, you use compensating
+    controls such as software composition analysis and independent penetration
+    testing
+parent: d-sr-b
+aliases:
+  - D-SR-3-B
+  - d-sr-3-b
+  - DSR3B
+  - dsr3b
+  - SR-3-B
+  - sr-3-b
+  - SR3B
+  - sr3b
+  - SR3-B
+  - sr3-b

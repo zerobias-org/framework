@@ -1,0 +1,9 @@
+id: 73fc77ef-bf96-44bd-b141-81774d3a0cab
+name: 8.2.3
+description: Verify that authenticated data is cleared from client storage, such as the browser DOM, after the client or session is terminated.
+externalId: 8.2.3
+parent: '8_2'
+links:
+  demonstrates:
+    - CWE-922
+elementType: requirement

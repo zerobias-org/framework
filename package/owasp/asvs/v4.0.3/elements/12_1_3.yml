@@ -1,0 +1,9 @@
+id: 2df53229-3627-46ce-a259-0e4860521849
+name: 12.1.3
+description: Verify that a file size quota and maximum number of files per user is enforced to ensure that a single user cannot fill up the storage with too many files, or excessively large files.
+externalId: 12.1.3
+parent: '12_1'
+links:
+  demonstrates:
+    - CWE-770
+elementType: requirement

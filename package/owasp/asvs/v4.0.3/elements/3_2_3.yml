@@ -1,0 +1,9 @@
+id: de6ab4c2-5640-44e4-bd85-e9050e6edf75
+name: 3.2.3
+description: Verify the application only stores session tokens in the browser using secure methods such as appropriately secured cookies (see section 3.4) or HTML 5 session storage.
+externalId: 3.2.3
+parent: '3_2'
+links:
+  demonstrates:
+    - CWE-539
+elementType: requirement

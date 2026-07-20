@@ -1,0 +1,49 @@
+id: 6819464b-6532-4906-977c-b9ff00d34e60
+name: Perform vendor assessments
+description: Evaluate the supplier based on organizational security requirements.
+longDescription: >
+  The security competences and habits of the external suppliers involved in the
+  development of your software can have a significant impact on the security
+  posture of the final product. Consequently, it is important to know and
+  evaluate your suppliers on this front.
+
+  Carry out a vendor assessment to understand the strengths and weaknesses of
+  your suppliers. Use a basic checklist or conduct interviews to review their
+  typical practices and deliveries. This gives you an idea of how they organize
+  themselves and elements to evaluate whether you need to take additional
+  measures to mitigate potential risks. Ideally, speak to different roles in the
+  organization, or even set up a small maturity evaluation to this end. Strong
+  suppliers will run their own software assurance program and will be able to
+  answer most of your questions. If suppliers have weak competences in software
+  security, discuss with them how and to what extent they plan to work on this
+  and evaluate whether this is enough for your organization. A software supplier
+  might be working on a low-risk project, but this could change.
+
+  It is important that your suppliers understand and align to the risk appetite
+  and are able to meet your requirements in that area. Make what you expect from
+  them explicit and discuss this clearly.
+benefits: Transparency of security practices of your software suppliers
+elementType: activity
+externalId: D-SR-1-B
+question: >-
+  Do stakeholders review vendor collaborations for security requirements and
+  methodology?
+qualityCriteria:
+  - >-
+    You consider including specific security requirements, activities, and
+    processes when creating third-party agreements
+  - >-
+    A vendor questionnaire is available and used to assess the strengths and
+    weaknesses of your suppliers
+parent: d-sr-b
+aliases:
+  - D-SR-1-B
+  - d-sr-1-b
+  - DSR1B
+  - dsr1b
+  - SR-1-B
+  - sr-1-b
+  - SR1B
+  - sr1b
+  - SR1-B
+  - sr1-b

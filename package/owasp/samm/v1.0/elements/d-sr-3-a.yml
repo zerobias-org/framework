@@ -1,0 +1,47 @@
+id: d8646636-1b6d-464a-ac03-e4ff7b2d2e17
+name: Develop a security requirements framework
+description: Build a requirements framework for product teams to utilize.
+longDescription: >
+  Setup a security requirements framework to help projects elicit an appropriate
+  and complete requirements set for their project. This framework considers the
+  different types of requirements and sources of requirements. It should be
+  adapted to the organizational habits and culture, and provide effective
+  methodology and guidance in the elicitation and formation of requirements.
+
+  The framework helps project teams increase the efficiency and effectiveness of
+  requirements engineering. It can provide a categorisation of common
+  requirements and a number of reusable requirements. Do remember that, while
+  thoughtless copying is ineffective, the fact of having potential relevant
+  requirements to reason about is often productive.
+
+  The framework also gives clear guidance on the quality of requirements and
+  formalizes how to describe them. For user stories, for instance, concrete
+  guidance can explain what to describe in the definition of done, definition of
+  ready, story description, and acceptance criteria.
+benefits: Efficient and effective handling of security requirements in your organization
+elementType: activity
+externalId: D-SR-3-A
+question: >-
+  Do you use a standard requirements framework to streamline the elicitation of
+  security requirements?
+qualityCriteria:
+  - A security requirements framework is available for project teams
+  - >-
+    The framework is categorized by common requirements and standards-based
+    requirements
+  - >-
+    The framework gives clear guidance on the quality of requirements and how to
+    describe them
+  - The framework is adaptable to specific business requirements
+parent: d-sr-a
+aliases:
+  - D-SR-3-A
+  - d-sr-3-a
+  - DSR3A
+  - dsr3a
+  - SR-3-A
+  - sr-3-a
+  - SR3A
+  - sr3a
+  - SR3-A
+  - sr3-a

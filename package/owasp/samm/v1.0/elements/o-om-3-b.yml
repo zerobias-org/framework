@@ -1,0 +1,42 @@
+id: c9f9757f-b4ad-4f94-b4ed-669422d68708
+name: Review application lifecycle state regularly
+description: >-
+  Proactively manage migration roadmaps, for both unsupported end-of-life
+  dependencies, and legacy versions of delivered software.
+longDescription: >
+  Regularly evaluate the lifecycle state and support status of every software
+  asset and underlying infrastructure component, and estimate their end-of-life.
+  Follow a well-defined process for actively mitigating security risks arising
+  as assets/components approach their end-of-life. Regularly review and update
+  your process, to reflect lessons learned.
+
+  Establish a product support plan, providing clear timelines for ending support
+  on older product versions. Limit product versions in active use to only a
+  small number (e.g., N.x.x and N-1.x.x only). Establish and publicize timelines
+  for discontinuing support on prior versions, and proactively engage with
+  customers and user groups to prevent disruption of service or support.
+benefits: Full visibility into lifecycle of all software assets
+elementType: activity
+externalId: O-OM-3-B
+question: >-
+  Do you regularly evaluate the lifecycle state and support status of every
+  software asset and underlying infrastructure component, and estimate their end
+  of life?
+qualityCriteria:
+  - Your end of life management process is agreed upon
+  - >-
+    You inform customers and user groups of product timelines to prevent
+    disruption of service or support
+  - You review the process at least annually
+parent: o-om-b
+aliases:
+  - O-OM-3-B
+  - o-om-3-b
+  - OOM3B
+  - oom3b
+  - OM-3-B
+  - om-3-b
+  - OM3B
+  - om3b
+  - OM3-B
+  - om3-b

@@ -1,0 +1,9 @@
+id: 04ab13d9-3003-4ca4-aba8-88b0160d7d04
+name: 2.9.3
+description: Verify that approved cryptographic algorithms are used in the generation, seeding, and verification.
+externalId: 2.9.3
+parent: '2_9'
+links:
+  demonstrates:
+    - CWE-327
+elementType: requirement

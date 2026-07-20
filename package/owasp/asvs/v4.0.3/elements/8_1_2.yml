@@ -1,0 +1,9 @@
+id: 1f13bf22-aee0-4c99-a75f-2528a900f1ee
+name: 8.1.2
+description: Verify that all cached or temporary copies of sensitive data stored on the server are protected from unauthorized access or purged/invalidated after the authorized user accesses the sensitive data.
+externalId: 8.1.2
+parent: '8_1'
+links:
+  demonstrates:
+    - CWE-524
+elementType: requirement

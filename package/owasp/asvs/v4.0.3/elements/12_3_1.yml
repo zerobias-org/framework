@@ -1,0 +1,9 @@
+id: 22047131-bea2-43bb-8a97-57d200c401a5
+name: 12.3.1
+description: Verify that user-submitted filename metadata is not used directly by system or framework filesystems and that a URL API is used to protect against path traversal.
+externalId: 12.3.1
+parent: '12_3'
+links:
+  demonstrates:
+    - CWE-22
+elementType: requirement

@@ -1,0 +1,50 @@
+id: 706240b6-794a-427e-8e77-fafb04476d91
+name: Use a repeatable deployment process
+description: Formalize the deployment process and secure the used tooling and processes.
+longDescription: >
+  Define the deployment process over all stages, breaking it down into a set of
+  clear instructions to either be followed by a person or an automated tooling.
+  The deployment process definition should describe the whole process end-to-end
+  so that it can be consistently followed each time to produce the same result.
+  The definition is stored centrally and accessible to all relevant personnel.
+  Do not store or distribute multiple copies, some of which may become outdated.
+
+  Deploy applications to production either using an automated process, or
+  manually by personnel other than the developers. Ensure that developers do not
+  need direct access to the production environment for application deployment.
+
+  Review any deployment tools, ensuring that they are actively maintained by
+  vendors and up to date with security patches. Harden each tool's configuration
+  so that it is aligned with vendor guidelines and industry best practices.
+  Given that most of these tools require access to the production environment,
+  their security is extremely critical. Ensure the integrity of the tools
+  themselves and the workflows they follow, and configure access rules to these
+  tools according to the least privilege principle.
+
+  Have personnel with access to the production environment go through at least a
+  minimum level of training or certification to ensure their competency in this
+  matter.
+benefits: >-
+  Limited risk of human error during deployment process minimizing security
+  issues
+elementType: activity
+externalId: I-SD-1-A
+question: Do you use repeatable deployment processes?
+qualityCriteria:
+  - You have enough information to run the deployment processes
+  - Your deployment documentation up to date
+  - Your deployment documentation is accessible to relevant stakeholders
+  - You ensure that only defined qualified personnel can trigger a deployment
+  - You harden the tools that are used within the deployment process
+parent: i-sd-a
+aliases:
+  - I-SD-1-A
+  - i-sd-1-a
+  - ISD1A
+  - isd1a
+  - SD-1-A
+  - sd-1-a
+  - SD1A
+  - sd1a
+  - SD1-A
+  - sd1-a

@@ -1,0 +1,9 @@
+id: afc206b3-7429-4500-aee8-99b5704549e5
+name: 2.1.4
+description: Verify that any printable Unicode character, including language neutral characters such as spaces and Emojis are permitted in passwords.
+externalId: 2.1.4
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-521
+elementType: requirement

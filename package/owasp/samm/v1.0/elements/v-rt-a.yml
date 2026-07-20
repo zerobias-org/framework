@@ -1,0 +1,18 @@
+id: 2527fb8d-0aaf-4b9f-94f9-efd802cba7ca
+name: Control Verification
+description: >
+  Control Verification validates that security controls and requirements are met
+  through testing derived from requirements, and prevents the introduction of
+  bugs into later releases through regression testing.
+elementType: stream
+externalId: V-RT-A
+parent: v-rt
+aliases:
+  - V-RT-A
+  - v-rt-a
+  - VRTA
+  - vrta
+  - RT-A
+  - rt-a
+  - RTA
+  - rta

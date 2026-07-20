@@ -1,0 +1,9 @@
+id: b0467148-eb72-4be5-ac35-556f6557bbee
+name: 13.2.2
+description: Verify that JSON schema validation is in place and verified before accepting input.
+externalId: 13.2.2
+parent: '13_2'
+links:
+  demonstrates:
+    - CWE-20
+elementType: requirement

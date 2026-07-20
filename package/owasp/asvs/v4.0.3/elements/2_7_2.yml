@@ -1,0 +1,9 @@
+id: 5d9a5113-e82a-45a6-9bab-74cda0cebd10
+name: 2.7.2
+description: Verify that the out of band verifier expires out of band authentication requests, codes, or tokens after 10 minutes.
+externalId: 2.7.2
+parent: '2_7'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

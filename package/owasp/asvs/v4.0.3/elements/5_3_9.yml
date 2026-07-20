@@ -1,0 +1,9 @@
+id: 56d02fac-14b9-4563-8bda-31a2f1482073
+name: 5.3.9
+description: Verify that the application protects against Local File Inclusion (LFI) or Remote File Inclusion (RFI) attacks.
+externalId: 5.3.9
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-829
+elementType: requirement

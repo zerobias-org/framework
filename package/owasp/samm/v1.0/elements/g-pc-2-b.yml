@@ -1,0 +1,55 @@
+id: cb5fa69b-f988-4da6-9834-057cf0b8a1eb
+name: Standardize policy and compliance requirements
+description: Publish compliance-specific application requirements and test guidance.
+longDescription: >
+  Develop a library of application requirements and test scripts to establish
+  and verify regulatory compliance of applications. Some of these are tied to
+  individual compliance requirements like PCI or GDPR, while others are more
+  general in nature and address global compliance requirements such as ISO. The
+  library is available to all application development teams. It includes
+  guidance for determining all applicable requirements including considerations
+  for reducing the compliance burden and scope. Implement a process to
+  periodically re-assess each application's compliance requirements.
+  Re-assessment includes reviewing all application functionality and
+  opportunities to reduce scope to lower the overall cost of compliance.
+
+  Requirements include enough information for developers to understand
+  functional and non-functional requirements of the different compliance
+  obligations. They include references to policies and standards, and provide
+  explicit references to regulations. If there are questions about the
+  implementation of a particular requirement, the original text of the
+  regulation can help interpret the intent more accurately. Each requirement
+  includes a set of test scripts for verifying compliance. In addition to
+  assisting QA with compliance verification, these can help clarify compliance
+  requirements for developers and make the compliance process transparent.
+  Requirements have a format that allows importing them into individual
+  requirements repositories. further clarify compliance requirements for
+  developers and ensure the process of achieving compliance is fully
+  transparent.
+benefits: >-
+  Common understanding how to reach compliance with external compliance drivers
+  for product teams
+elementType: activity
+externalId: G-PC-2-B
+question: >-
+  Do you have a standard set of security requirements and verification
+  procedures addressing the organization's external compliance obligations?
+qualityCriteria:
+  - >-
+    You map each external compliance obligation to a well-defined set of
+    application requirements
+  - >-
+    You define verification procedures, including automated tests, to verify
+    compliance with compliance-related requirements
+parent: g-pc-b
+aliases:
+  - G-PC-2-B
+  - g-pc-2-b
+  - GPC2B
+  - gpc2b
+  - PC-2-B
+  - pc-2-b
+  - PC2B
+  - pc2b
+  - PC2-B
+  - pc2-b

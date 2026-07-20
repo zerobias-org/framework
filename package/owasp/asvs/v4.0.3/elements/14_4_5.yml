@@ -1,0 +1,9 @@
+id: dcfe2d1c-b445-4c22-a89b-b4eb07835811
+name: 14.4.5
+description: 'Verify that a Strict-Transport-Security header is included on all responses and for all subdomains, such as Strict-Transport-Security: max-age=15724800; includeSubdomains.'
+externalId: 14.4.5
+parent: '14_4'
+links:
+  demonstrates:
+    - CWE-523
+elementType: requirement

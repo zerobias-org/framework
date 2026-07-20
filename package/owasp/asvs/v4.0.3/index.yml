@@ -1,0 +1,24 @@
+status: approved
+id: 7d63a874-a2ff-4537-a159-0c02e4a768e7 # random
+code: owasp_asvs_v4_0_3
+url: https://owasp.org/www-project-application-security-verification-standard/
+name: OWASP Application Security Verification Standard
+externalId: OWASP ASVS
+description: The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
+version: v4.0.3
+elementTypes:
+  - id: 724f0bb4-538f-4059-9be0-825f0970cabd
+    code: chapter
+    name: Chapter
+    description: Element type for chapter
+  - id: 7d000d86-f12a-4e2b-b3f2-6c9473b22baa
+    code: section
+    name: section
+    description: Element type for section
+  - id: b4d9fc07-284d-4af0-9ce0-bed5870ae028
+    code: requirement
+    name: Requirement
+    description: Element type for requirement
+mappingTypes:
+  - requirement
+taskId: 520cdd93-5b63-4f69-822c-552d49ed2283

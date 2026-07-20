@@ -1,0 +1,9 @@
+id: 68387694-3bf6-47b7-967f-a32062ed300d
+name: 13.1.1
+description: Verify that all application components use the same encodings and parsers to avoid parsing attacks that exploit different URI or file parsing behavior that could be used in SSRF and RFI attacks.
+externalId: 13.1.1
+parent: '13_1'
+links:
+  demonstrates:
+    - CWE-116
+elementType: requirement

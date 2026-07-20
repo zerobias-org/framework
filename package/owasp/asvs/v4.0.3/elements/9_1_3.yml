@@ -1,0 +1,9 @@
+id: 74d38aaf-fce0-4de5-846e-5f75a36e7a45
+name: 9.1.3
+description: Verify that only the latest recommended versions of the TLS protocol are enabled, such as TLS 1.2 and TLS 1.3. The latest version of the TLS protocol should be the preferred option.
+externalId: 9.1.3
+parent: '9_1'
+links:
+  demonstrates:
+    - CWE-326
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 3dd696dc-3c47-4478-b5d5-7918ddf7c4a8
+name: 7.3.1
+description: Verify that all logging components appropriately encode data to prevent log injection. ([C9](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.3.1
+parent: '7_3'
+links:
+  demonstrates:
+    - CWE-117
+elementType: requirement

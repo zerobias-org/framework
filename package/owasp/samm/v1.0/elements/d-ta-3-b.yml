@@ -1,0 +1,48 @@
+id: 0e65e923-a10c-43ab-9307-b955f50fe7fe
+name: Optimize threat modeling
+description: Continuously optimization and automation of your threat modeling methodology.
+longDescription: >
+  Threat modeling is integrated into your SDLC and has become part of the
+  developer security culture.  Reusable risk patterns, comprising related threat
+  libraries, design flaws, and security mitigations, are created and improved,
+  based on the organization's threat models. You regularly (e.g., yearly) review
+  the existing threat models to verify that no new threats are relevant for your
+  applications.
+
+  You optimize your threat modeling methodology. You capture lessons learned
+  from threat models and use these to improve your threat modeling methodology. 
+  You review the threat categories relevant to your organization and update your
+  methodology appropriately. From time to time, you evaluate the quality of your
+  threat models independently.
+
+  You automate parts of your threat modeling process with threat modeling tools.
+  You integrate your threat modeling tools with other security tools, such as
+  security verification tools and risk tracking tools. You consider "threat
+  modeling as code" practices to integrate threat modeling artifacts with
+  application code.
+benefits: Assurance of continuous improvement of threat modeling activities
+elementType: activity
+externalId: D-TA-3-B
+question: >-
+  Do you regularly review and update the threat modeling methodology for your
+  applications?
+qualityCriteria:
+  - The threat model methodology considers historical feedback for improvement
+  - >-
+    You regularly (e.g., yearly) review the existing threat models to verify
+    that no new threats are relevant for your applications
+  - >-
+    You automate parts of your threat modeling process with threat modeling
+    tools
+parent: d-ta-b
+aliases:
+  - D-TA-3-B
+  - d-ta-3-b
+  - DTA3B
+  - dta3b
+  - TA-3-B
+  - ta-3-b
+  - TA3B
+  - ta3b
+  - TA3-B
+  - ta3-b

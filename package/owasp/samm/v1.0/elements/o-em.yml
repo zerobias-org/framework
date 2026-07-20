@@ -1,0 +1,34 @@
+id: fe7bb9c3-54e2-4d86-bf6b-a884a217b1cb
+name: Environment Management
+description: >-
+  This practice describes proactive activities carried out to improve and
+  maintain the security of the environments in which the organization's
+  applications operate.
+longDescription: >
+  The organization's work on application security doesn't end once the
+  application becomes operational. New security features and patches are
+  regularly released for the various elements of the technology stack you're
+  using, until they become obsolete or are no longer supported.
+
+  Most of the technologies in any application stack are not secure by default.
+  This is frequently intentional, to enhance backwards compatibility or ease of
+  setup. For this reason, ensuring the secure operation of the organization's
+  technology stack requires the consistent application of secure baseline
+  configurations to all components. The Environment Management (EM) practice
+  focuses on keeping your environment clean and secure.
+
+  Vulnerabilities are discovered throughout the lifecycles of the technologies
+  on which your organization relies, and new versions addressing them are
+  released on various schedules. This makes it essential to monitor
+  vulnerability reports and perform orderly, timely patching across all affected
+  systems.
+elementType: securityPractice
+externalId: O-EM
+parent: o
+aliases:
+  - O-EM
+  - o-em
+  - OEM
+  - oem
+  - EM
+  - em

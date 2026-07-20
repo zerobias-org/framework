@@ -1,0 +1,9 @@
+id: 1871d64f-497b-4b96-8655-c8dcb6a991cf
+name: 1.1.4
+description: Verify documentation and justification of all the application's trust boundaries, components, and significant data flows.
+externalId: 1.1.4
+parent: '1_1'
+links:
+  demonstrates:
+    - CWE-1059
+elementType: requirement
