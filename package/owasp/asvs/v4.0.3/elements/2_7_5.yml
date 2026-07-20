@@ -1,0 +1,9 @@
+id: 1a5367a5-5098-48ed-ae38-7848766c9281
+name: 2.7.5
+description: Verify that the out of band verifier retains only a hashed version of the authentication code.
+externalId: 2.7.5
+parent: '2_7'
+links:
+  demonstrates:
+    - CWE-256
+elementType: requirement

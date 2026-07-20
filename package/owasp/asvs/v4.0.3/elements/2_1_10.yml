@@ -1,0 +1,9 @@
+id: f9df3d75-7ee5-4a22-83bd-576f82a793e2
+name: 2.1.10
+description: Verify that there are no periodic credential rotation or password history requirements.
+externalId: 2.1.10
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-263
+elementType: requirement

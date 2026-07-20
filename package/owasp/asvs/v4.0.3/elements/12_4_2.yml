@@ -1,0 +1,9 @@
+id: a676d332-f65e-4d83-b462-b7b2b637e67a
+name: 12.4.2
+description: Verify that files obtained from untrusted sources are scanned by antivirus scanners to prevent upload and serving of known malicious content.
+externalId: 12.4.2
+parent: '12_4'
+links:
+  demonstrates:
+    - CWE-509
+elementType: requirement

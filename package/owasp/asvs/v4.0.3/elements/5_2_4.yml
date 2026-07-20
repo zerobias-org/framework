@@ -1,0 +1,9 @@
+id: 588eb920-0e32-4fb6-af8e-7370034faf8a
+name: 5.2.4
+description: Verify that the application avoids the use of eval() or other dynamic code execution features. Where there is no alternative, any user input being included must be sanitized or sandboxed before being executed.
+externalId: 5.2.4
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-95
+elementType: requirement

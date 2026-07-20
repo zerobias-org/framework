@@ -1,0 +1,9 @@
+id: ddc223d0-1d17-41c7-9861-469404dce25e
+name: 5.4.2
+description: Verify that format strings do not take potentially hostile input, and are constant.
+externalId: 5.4.2
+parent: '5_4'
+links:
+  demonstrates:
+    - CWE-134
+elementType: requirement

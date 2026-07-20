@@ -1,0 +1,9 @@
+id: f95b3795-f90d-438e-b8b6-7f190cdd8287
+name: 1.2.3
+description: Verify that the application uses a single vetted authentication mechanism that is known to be secure, can be extended to include strong authentication, and has sufficient logging and monitoring to detect account abuse or breaches.
+externalId: 1.2.3
+parent: '1_2'
+links:
+  demonstrates:
+    - CWE-306
+elementType: requirement

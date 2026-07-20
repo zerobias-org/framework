@@ -1,0 +1,9 @@
+id: 0a38f021-366f-4830-a35d-3b6032a02840
+name: 14.2.3
+description: Verify that if application assets, such as JavaScript libraries, CSS or web fonts, are hosted externally on a Content Delivery Network (CDN) or external provider, Subresource Integrity (SRI) is used to validate the integrity of the asset.
+externalId: 14.2.3
+parent: '14_2'
+links:
+  demonstrates:
+    - CWE-829
+elementType: requirement

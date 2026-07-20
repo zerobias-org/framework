@@ -1,0 +1,9 @@
+id: 4c2ce508-685e-48a5-aa49-d67ebe4df39a
+name: 5.3.4
+description: Verify that data selection or database queries (e.g. SQL, HQL, ORM, NoSQL) use parameterized queries, ORMs, entity frameworks, or are otherwise protected from database injection attacks. ([C3](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.4
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-89
+elementType: requirement

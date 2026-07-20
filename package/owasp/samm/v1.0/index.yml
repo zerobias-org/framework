@@ -1,0 +1,31 @@
+id: 7b136af4-2de0-5dc4-a3c2-d1d1157c2ff4
+name: OWASP SAMM v1.0
+externalId: OWASP SAMM
+description: OWASP  Software Assurance Madurity Model v1.0 framework
+code: owasp_samm_v1_0
+status: approved
+url: https://owaspsamm.org
+external: true
+internal: true
+version: v1.0
+source: OWASP
+elementTypes:
+  - id: faca4de3-680d-4a8a-bb3c-ef9b7ef5f135
+    code: function
+    name: Function
+    description: Function
+  - id: f4b2a38b-cdad-4539-bcf0-ce7fad7c9386
+    code: securityPractice
+    name: Security Practice
+    description: Security Practice
+  - id: 220c7e6e-204b-499c-b5b5-dba00f1e8a2d
+    code: stream
+    name: Stream
+    description: Stream
+  - id: f9e6b247-57a3-44c3-b585-0de4bdf4bbd1
+    code: activity
+    name: Activity
+    description: Activity
+mappingTypes:
+  - activity
+taskId: 83810081-146f-4e0f-8347-a0d906f6985f

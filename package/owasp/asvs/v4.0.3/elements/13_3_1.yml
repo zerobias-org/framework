@@ -1,0 +1,9 @@
+id: 5daf50e1-3da2-4b7e-95dc-c7edaf9d2cf3
+name: 13.3.1
+description: Verify that XSD schema validation takes place to ensure a properly formed XML document, followed by validation of each input field before any processing of that data takes place.
+externalId: 13.3.1
+parent: '13_3'
+links:
+  demonstrates:
+    - CWE-20
+elementType: requirement

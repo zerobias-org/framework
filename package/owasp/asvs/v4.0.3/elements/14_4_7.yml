@@ -1,0 +1,9 @@
+id: fdc57a3f-20ec-4f1c-a81c-81ed9da13fea
+name: 14.4.7
+description: 'Verify that the content of a web application cannot be embedded in a third-party site by default and that embedding of the exact resources is only allowed where necessary by using suitable Content-Security-Policy: frame-ancestors and X-Frame-Options response headers.'
+externalId: 14.4.7
+parent: '14_4'
+links:
+  demonstrates:
+    - CWE-1021
+elementType: requirement

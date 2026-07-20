@@ -1,0 +1,9 @@
+id: 2ae970a1-724f-4661-b9a9-cd602e2420b8
+name: 4.3.3
+description: Verify the application has additional authorization (such as step up or adaptive authentication) for lower value systems, and / or segregation of duties for high value applications to enforce anti-fraud controls as per the risk of application and past fraud.
+externalId: 4.3.3
+parent: '4_3'
+links:
+  demonstrates:
+    - CWE-732
+elementType: requirement

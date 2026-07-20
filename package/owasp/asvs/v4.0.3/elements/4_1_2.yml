@@ -1,0 +1,9 @@
+id: ef840383-94b3-4630-abef-fae763951a08
+name: 4.1.2
+description: Verify that all user and data attributes and policy information used by access controls cannot be manipulated by end users unless specifically authorized.
+externalId: 4.1.2
+parent: '4_1'
+links:
+  demonstrates:
+    - CWE-639
+elementType: requirement

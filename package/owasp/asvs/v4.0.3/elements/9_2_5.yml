@@ -1,0 +1,9 @@
+id: baffe097-36b2-45ff-93b1-255f1958b5b1
+name: 9.2.5
+description: Verify that backend TLS connection failures are logged.
+externalId: 9.2.5
+parent: '9_2'
+links:
+  demonstrates:
+    - CWE-544
+elementType: requirement

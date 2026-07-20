@@ -1,0 +1,38 @@
+id: 0acb5f7e-0e41-4764-b0de-b2fed6b6324d
+name: Enforce lifecycle management of application secrets
+description: >-
+  Improve the lifecycle of application secrets by regularly generating them and
+  by ensuring proper use.
+longDescription: >
+  Implement lifecycle management for production secrets, and ensure the
+  generation of new secrets as much as possible, and for every application
+  instance. The use of secrets per application instance ensures that unexpected
+  application behavior can be traced back and properly analyzed. Tools can help
+  in automatically and seamlessly updating the secrets in all relevant places
+  upon change.
+
+  Ensure that all access to secrets (both reading and writing) is logged in a
+  central infrastructure. Review these logs regularly to identify unexpected
+  behavior and perform proper analysis to understand why this happened. Feed
+  issues and root causes into the defect management practice to make sure that
+  the organization will resolve any unacceptable situations.
+benefits: Minimized possibility and timely detection of production secret abuse
+elementType: activity
+externalId: I-SD-3-B
+question: Do you practice proper lifecycle management for application secrets?
+qualityCriteria:
+  - You generate and synchronize secrets using a vetted solution
+  - Secrets are different between different application instances
+  - Secrets are regularly updated
+parent: i-sd-b
+aliases:
+  - I-SD-3-B
+  - i-sd-3-b
+  - ISD3B
+  - isd3b
+  - SD-3-B
+  - sd-3-b
+  - SD3B
+  - sd3b
+  - SD3-B
+  - sd3-b

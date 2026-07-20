@@ -1,0 +1,9 @@
+id: c406b920-4592-4029-b7b8-bdecea7cb9d6
+name: 12.3.6
+description: Verify that the application does not include and execute functionality from untrusted sources, such as unverified content distribution networks, JavaScript libraries, node npm libraries, or server-side DLLs.
+externalId: 12.3.6
+parent: '12_3'
+links:
+  demonstrates:
+    - CWE-829
+elementType: requirement

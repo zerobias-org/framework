@@ -1,0 +1,9 @@
+id: f89d1f4c-dcbb-4139-8e25-f21e50327bfd
+name: 5.3.1
+description: Verify that output encoding is relevant for the interpreter and context required. For example, use encoders specifically for HTML values, HTML attributes, JavaScript, URL parameters, HTTP headers, SMTP, and others as the context requires, especially from untrusted inputs (e.g. names with Unicode or apostrophes, such as ねこ or O'Hara). ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.1
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-116
+elementType: requirement

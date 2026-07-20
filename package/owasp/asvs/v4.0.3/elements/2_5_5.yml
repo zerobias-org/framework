@@ -1,0 +1,9 @@
+id: 3ce5a565-bd23-4919-a097-5aef19b2aac4
+name: 2.5.5
+description: Verify that if an authentication factor is changed or replaced, that the user is notified of this event.
+externalId: 2.5.5
+parent: '2_5'
+links:
+  demonstrates:
+    - CWE-304
+elementType: requirement

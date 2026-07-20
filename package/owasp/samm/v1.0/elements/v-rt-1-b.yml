@@ -1,0 +1,39 @@
+id: 3f6361fb-e8e2-498b-bd68-a510c0574184
+name: Perform fuzz testing
+description: Perform security fuzzing testing.
+longDescription: >
+  Perform fuzzing, sending random or malformed data to the test subject in an
+  attempt to make it crash. Fuzz testing or Fuzzing is a Black Box software
+  testing technique, which consists of finding implementation bugs using
+  automated malformed or semi-malformed data injection. Cover at least a minimum
+  fuzzing for vulnerabilities against the main input parameters of the
+  application.
+
+  The advantage of fuzz testing is the simplicity of the test design, and its
+  lack of preconceptions about system behavior. The stochastic approach results
+  in bugs that human eyes or structured testing would often miss. It is also one
+  of the few means of assessing the quality of a closed system (such as a SIP
+  phone). The simplicity of fuzzing a target is offset by the difficulty in
+  accurately detecting and triaging crashes. Favour existing fuzzing tools and
+  frameworks to leverage their supporting tooling.
+benefits: Insight into behaviour of your applications when dealing with unexpected input
+elementType: activity
+externalId: V-RT-1-B
+question: Do you test applications using randomization or fuzzing techniques?
+qualityCriteria:
+  - Testing covers most or all of the application's main input parameters
+  - >-
+    You record and inspect all application crashes for security impact on a
+    best-effort basis
+parent: v-rt-b
+aliases:
+  - V-RT-1-B
+  - v-rt-1-b
+  - VRT1B
+  - vrt1b
+  - RT-1-B
+  - rt-1-b
+  - RT1B
+  - rt1b
+  - RT1-B
+  - rt1-b

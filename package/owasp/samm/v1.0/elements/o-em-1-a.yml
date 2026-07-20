@@ -1,0 +1,38 @@
+id: f08ec3e1-26ea-4b52-8a5a-6db3cde69980
+name: Use best-effort hardening
+description: >-
+  Perform best-effort hardening of configurations, based on readily available
+  information.
+longDescription: >
+  Understanding the importance of securing the technology stacks you're using,
+  apply secure configuration to stack elements, based on readily available
+  guidance (e.g., open source projects, vendor documentation, blog articles).
+  When your teams develop configuration guidance for their applications, based
+  on trial-and-error and information gathered by team members, encourage them to
+  share their learnings across the organization.
+
+  Identify key elements of common technology stacks, and establish configuration
+  standards for those, based on teams' experiences of what works.
+
+  At this level of maturity, you don't yet have a formal process for managing
+  configuration baselines. Configurations may not be applied consistently across
+  applications and deployments, and monitoring of conformance is likely absent.
+benefits: Hardened basic configuration settings of your components
+elementType: activity
+externalId: O-EM-1-A
+question: Do you harden configurations for key components of your technology stacks?
+qualityCriteria:
+  - You have identified the key components in each technology stack used
+  - You have an established configuration standard for each key component
+parent: o-em-a
+aliases:
+  - O-EM-1-A
+  - o-em-1-a
+  - OEM1A
+  - oem1a
+  - EM-1-A
+  - em-1-a
+  - EM1A
+  - em1a
+  - EM1-A
+  - em1-a

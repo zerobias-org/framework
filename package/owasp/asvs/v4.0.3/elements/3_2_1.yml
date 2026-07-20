@@ -1,0 +1,9 @@
+id: 4302a92d-12e8-43e6-b580-bcec1ba74eed
+name: 3.2.1
+description: Verify the application generates a new session token on user authentication. ([C6](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 3.2.1
+parent: '3_2'
+links:
+  demonstrates:
+    - CWE-384
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 29ef782a-7920-4347-aad5-6cd6651c1cc5
+name: 2.7.1
+description: Verify that clear text out of band (NIST "restricted") authenticators, such as SMS or PSTN, are not offered by default, and stronger alternatives such as push notifications are offered first.
+externalId: 2.7.1
+parent: '2_7'
+links:
+  demonstrates:
+    - CWE-287
+elementType: requirement

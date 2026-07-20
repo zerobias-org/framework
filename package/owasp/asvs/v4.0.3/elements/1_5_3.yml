@@ -1,0 +1,9 @@
+id: a264802c-81ce-4e6a-8e7f-ccfebe943bbc
+name: 1.5.3
+description: Verify that input validation is enforced on a trusted service layer. ([C5](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.5.3
+parent: '1_5'
+links:
+  demonstrates:
+    - CWE-602
+elementType: requirement

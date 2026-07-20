@@ -1,0 +1,9 @@
+id: d4fd8b58-8444-4427-b8f2-f7d683b5a810
+name: 3.3.3
+description: Verify that the application gives the option to terminate all other active sessions after a successful password change (including change via password reset/recovery), and that this is effective across the application, federated login (if present), and any relying parties.
+externalId: 3.3.3
+parent: '3_3'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

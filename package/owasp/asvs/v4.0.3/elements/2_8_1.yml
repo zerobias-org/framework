@@ -1,0 +1,9 @@
+id: dc5de599-c665-46a8-a310-c454ba619720
+name: 2.8.1
+description: Verify that time-based OTPs have a defined lifetime before expiring.
+externalId: 2.8.1
+parent: '2_8'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

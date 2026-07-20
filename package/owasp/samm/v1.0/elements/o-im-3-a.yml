@@ -1,0 +1,43 @@
+id: 2ea3e6c8-3e52-4ace-a59b-2ea9f542bb6e
+name: Improve the incident detection process
+description: Use a proactively managed process for detection of incidents.
+longDescription: >
+  Ensure process documentation includes measures for continuous process
+  improvement. Check the continuity of process improvement (e.g., via tracking
+  of changes).
+
+  Ensure the checklist for suspicious event detection is correlated at least
+  from (i) sources and knowledge bases external to the company (e.g., new
+  vulnerability announcements affecting the used technologies), (ii) past
+  security incidents, and (iii) threat model outcomes.
+
+  Use correlation of logs for incident detection for all reasonable incident
+  scenarios. If the log data for incident detection is not available, document
+  its absence as a defect, triage and handle it according to your established
+  Defect Management process.
+
+  The quality of the incident detection does not depend on the time or day of
+  the event. If security events are not acknowledged and resolved within a
+  specified time (e.g., 20 minutes), ensure further notifications are generated
+  according to an established escalation path.
+benefits: Ability to timely detect security incidents
+elementType: activity
+externalId: O-IM-3-A
+question: Do you review and update the incident detection process regularly?
+qualityCriteria:
+  - You perform reviews at least annually
+  - >-
+    You update the checklist of potential attacks with external and internal
+    data
+parent: o-im-a
+aliases:
+  - O-IM-3-A
+  - o-im-3-a
+  - OIM3A
+  - oim3a
+  - IM-3-A
+  - im-3-a
+  - IM3A
+  - im3a
+  - IM3-A
+  - im3-a

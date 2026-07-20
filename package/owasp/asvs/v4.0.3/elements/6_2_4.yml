@@ -1,0 +1,9 @@
+id: 803f2673-6e72-46c4-982d-efefd3795bfe
+name: 6.2.4
+description: Verify that random number, encryption or hashing algorithms, key lengths, rounds, ciphers or modes, can be reconfigured, upgraded, or swapped at any time, to protect against cryptographic breaks. ([C8](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 6.2.4
+parent: '6_2'
+links:
+  demonstrates:
+    - CWE-326
+elementType: requirement

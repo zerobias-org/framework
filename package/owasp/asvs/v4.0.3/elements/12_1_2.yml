@@ -1,0 +1,9 @@
+id: ea00e0e0-8b2f-4234-9430-d2b31dd05232
+name: 12.1.2
+description: Verify that the application checks compressed files (e.g. zip, gz, docx, odt) against maximum allowed uncompressed size and against maximum number of files before uncompressing the file.
+externalId: 12.1.2
+parent: '12_1'
+links:
+  demonstrates:
+    - CWE-409
+elementType: requirement

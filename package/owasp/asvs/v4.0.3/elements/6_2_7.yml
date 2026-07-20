@@ -1,0 +1,9 @@
+id: d8227589-c705-467a-afdc-cb4bcd100fca
+name: 6.2.7
+description: Verify that encrypted data is authenticated via signatures, authenticated cipher modes, or HMAC to ensure that ciphertext is not altered by an unauthorized party.
+externalId: 6.2.7
+parent: '6_2'
+links:
+  demonstrates:
+    - CWE-326
+elementType: requirement

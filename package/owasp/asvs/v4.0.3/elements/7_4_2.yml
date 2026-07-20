@@ -1,0 +1,9 @@
+id: b0b551d3-be43-4aaf-a1a0-69a8e6e15543
+name: 7.4.2
+description: Verify that exception handling (or a functional equivalent) is used across the codebase to account for expected and unexpected error conditions. ([C10](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.4.2
+parent: '7_4'
+links:
+  demonstrates:
+    - CWE-544
+elementType: requirement

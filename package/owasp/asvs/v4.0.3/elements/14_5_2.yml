@@ -1,0 +1,9 @@
+id: 6b7523a6-5c6b-4af8-bfd7-a630176ef640
+name: 14.5.2
+description: Verify that the supplied Origin header is not used for authentication or access control decisions, as the Origin header can easily be changed by an attacker.
+externalId: 14.5.2
+parent: '14_5'
+links:
+  demonstrates:
+    - CWE-346
+elementType: requirement

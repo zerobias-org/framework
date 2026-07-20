@@ -1,0 +1,9 @@
+id: 3c8b9659-c17d-4a77-8781-b29ae8e817f0
+name: 1.5.4
+description: Verify that output encoding occurs close to or by the interpreter for which it is intended. ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 1.5.4
+parent: '1_5'
+links:
+  demonstrates:
+    - CWE-116
+elementType: requirement

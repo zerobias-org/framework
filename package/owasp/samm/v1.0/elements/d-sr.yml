@@ -1,0 +1,27 @@
+id: ad45cefc-3571-43f6-90a0-3f0325cc0bed
+name: Security Requirements
+description: >-
+  This practice focuses on defining appropriate security requirements for your
+  software and your software suppliers.
+longDescription: >
+  The Security Requirements (SR) practice focuses on security requirements that
+  are important in the context of secure software. A first type deals with
+  typical software-related requirements, to specify objectives and expectations
+  to protect the service and data at the core of the application. A second type
+  deals with requirements relative to supplier organizations that are part of
+  the development context of the application, in particular for outsourced
+  development. It is important to streamline the expectations in terms of secure
+  development because outsourced development can have significant impact on the
+  security of the application. The security of 3rd party (technical) libraries
+  is part of the software supply chains stream (see Secure Build), and it is not
+  included in this practice.
+elementType: securityPractice
+externalId: D-SR
+parent: d
+aliases:
+  - D-SR
+  - d-sr
+  - DSR
+  - dsr
+  - SR
+  - sr

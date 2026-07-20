@@ -1,0 +1,9 @@
+id: 0b4fc415-35a4-46b7-b8bc-6b2b819d1c0a
+name: 2.5.2
+description: Verify password hints or knowledge-based authentication (so-called "secret questions") are not present.
+externalId: 2.5.2
+parent: '2_5'
+links:
+  demonstrates:
+    - CWE-640
+elementType: requirement

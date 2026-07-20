@@ -1,0 +1,9 @@
+id: 8b79bc08-96ac-4dd7-a6f3-f02b2a142103
+name: 14.3.3
+description: Verify that the HTTP headers or any part of the HTTP response do not expose detailed version information of system components.
+externalId: 14.3.3
+parent: '14_3'
+links:
+  demonstrates:
+    - CWE-200
+elementType: requirement

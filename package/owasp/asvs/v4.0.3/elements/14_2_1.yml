@@ -1,0 +1,9 @@
+id: 14b6df42-9c26-4695-a2eb-a3e36408a47e
+name: 14.2.1
+description: Verify that all components are up to date, preferably using a dependency checker during build or compile time. ([C2](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 14.2.1
+parent: '14_2'
+links:
+  demonstrates:
+    - CWE-1026
+elementType: requirement

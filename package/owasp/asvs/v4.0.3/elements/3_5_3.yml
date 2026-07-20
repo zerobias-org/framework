@@ -1,0 +1,9 @@
+id: a3833dfc-675d-4966-97ae-49115f0be735
+name: 3.5.3
+description: Verify that stateless session tokens use digital signatures, encryption, and other countermeasures to protect against tampering, enveloping, replay, null cipher, and key substitution attacks.
+externalId: 3.5.3
+parent: '3_5'
+links:
+  demonstrates:
+    - CWE-345
+elementType: requirement

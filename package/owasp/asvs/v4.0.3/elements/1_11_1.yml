@@ -1,0 +1,9 @@
+id: 81110f14-cf7a-4d6a-a7cc-8bcae77bfca2
+name: 1.11.1
+description: Verify the definition and documentation of all application components in terms of the business or security functions they provide.
+externalId: 1.11.1
+parent: '1_11'
+links:
+  demonstrates:
+    - CWE-1059
+elementType: requirement

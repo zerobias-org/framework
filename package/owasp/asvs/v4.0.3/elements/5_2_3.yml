@@ -1,0 +1,9 @@
+id: cb94ad8d-2311-49c4-8811-07f5460806b3
+name: 5.2.3
+description: Verify that the application sanitizes user input before passing to mail systems to protect against SMTP or IMAP injection.
+externalId: 5.2.3
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-147
+elementType: requirement

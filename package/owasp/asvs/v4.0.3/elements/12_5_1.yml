@@ -1,0 +1,9 @@
+id: 0fae355a-3ab6-43f4-a9d5-f8fa92b61bed
+name: 12.5.1
+description: Verify that the web tier is configured to serve only files with specific file extensions to prevent unintentional information and source code leakage. For example, backup files (e.g. .bak), temporary working files (e.g. .swp), compressed files (.zip, .tar.gz, etc) and other extensions commonly used by editors should be blocked unless required.
+externalId: 12.5.1
+parent: '12_5'
+links:
+  demonstrates:
+    - CWE-552
+elementType: requirement

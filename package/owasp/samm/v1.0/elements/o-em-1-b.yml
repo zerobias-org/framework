@@ -1,0 +1,47 @@
+id: 64eb5deb-82e1-495a-9459-e4e7649cc97d
+name: Practice best-effort patching
+description: Perform best-effort patching of system and application components.
+longDescription: >
+  Identify applications and third-party components which need to be updated or
+  patched, including underlying operating systems, application servers, and
+  third-party code libraries.
+
+  At this level of maturity, your identification and patching activities are
+  best-effort and _ad hoc_, without a managed process for tracking component
+  versions, available updates, and patch status. However, high-level
+  requirements for patching activities (e.g., testing patches before pushing to
+  production) may exist, and product teams are achieving best-effort compliance
+  with those requirements.
+
+  Except for critical security updates (e.g., an exploit for a third-party
+  component has been publicly released), teams leverage maintenance windows
+  established for other purposes to apply component patches. For software
+  developed by the organization, component patches are delivered to customers
+  and organization-managed solutions only as part of feature releases.
+
+  Teams share their awareness of available updates, and their experiences with
+  patching, on an _ad hoc_ basis. Ensure teams can determine the versions of all
+  components in use, to evaluate whether their products are affected by a
+  security vulnerability when notified. However, the process for generating and
+  maintaining component lists may require significant analyst effort.
+benefits: Mitigation of well-known issues in third-party components
+elementType: activity
+externalId: O-EM-1-B
+question: Do you identify and patch vulnerable components?
+qualityCriteria:
+  - You have an up-to-date list of components, including version information
+  - >-
+    You regularly review public sources for vulnerabilities related to your
+    components
+parent: o-em-b
+aliases:
+  - O-EM-1-B
+  - o-em-1-b
+  - OEM1B
+  - oem1b
+  - EM-1-B
+  - em-1-b
+  - EM1B
+  - em1b
+  - EM1-B
+  - em1-b

@@ -1,0 +1,9 @@
+id: 6bb025bf-937e-4723-9528-cc4a90f28f9b
+name: 2.8.7
+description: Verify that biometric authenticators are limited to use only as secondary factors in conjunction with either something you have and something you know.
+externalId: 2.8.7
+parent: '2_8'
+links:
+  demonstrates:
+    - CWE-308
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 2c33d293-4aed-47ca-8f84-93ff2d081629
+name: 4.3.1
+description: Verify administrative interfaces use appropriate multi-factor authentication to prevent unauthorized use.
+externalId: 4.3.1
+parent: '4_3'
+links:
+  demonstrates:
+    - CWE-419
+elementType: requirement

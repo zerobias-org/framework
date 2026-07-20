@@ -1,0 +1,9 @@
+id: 10933625-8322-4157-b089-f4d8cd58c685
+name: 12.3.5
+description: Verify that untrusted file metadata is not used directly with system API or libraries, to protect against OS command injection.
+externalId: 12.3.5
+parent: '12_3'
+links:
+  demonstrates:
+    - CWE-78
+elementType: requirement

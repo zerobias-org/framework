@@ -1,0 +1,9 @@
+id: 035bb638-8916-4329-890d-673ee0d24dba
+name: 10.2.4
+description: Verify that the application source code and third party libraries do not contain time bombs by searching for date and time related functions.
+externalId: 10.2.4
+parent: '10_2'
+links:
+  demonstrates:
+    - CWE-511
+elementType: requirement

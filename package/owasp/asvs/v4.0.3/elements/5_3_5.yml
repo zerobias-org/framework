@@ -1,0 +1,9 @@
+id: 4648eeab-1668-4692-a12a-8b74c5f940bb
+name: 5.3.5
+description: Verify that where parameterized or safer mechanisms are not present, context-specific output encoding is used to protect against injection attacks, such as the use of SQL escaping to protect against SQL injection. ([C3, C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.5
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-89
+elementType: requirement

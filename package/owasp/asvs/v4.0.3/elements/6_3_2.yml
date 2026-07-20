@@ -1,0 +1,9 @@
+id: fdea42d8-1364-468f-bf25-fb5f4cafc371
+name: 6.3.2
+description: Verify that random GUIDs are created using the GUID v4 algorithm, and a Cryptographically-secure Pseudo-random Number Generator (CSPRNG). GUIDs created using other pseudo-random number generators may be predictable.
+externalId: 6.3.2
+parent: '6_3'
+links:
+  demonstrates:
+    - CWE-338
+elementType: requirement

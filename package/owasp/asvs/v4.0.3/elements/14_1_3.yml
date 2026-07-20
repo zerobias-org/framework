@@ -1,0 +1,9 @@
+id: 2a592676-3cdb-4adc-afe4-68395884a0df
+name: 14.1.3
+description: Verify that server configuration is hardened as per the recommendations of the application server and frameworks in use.
+externalId: 14.1.3
+parent: '14_1'
+links:
+  demonstrates:
+    - CWE-16
+elementType: requirement

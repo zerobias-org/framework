@@ -1,0 +1,9 @@
+id: 8b97173f-b8c9-48b2-b1b4-321a705b3539
+name: 1.9.2
+description: Verify that application components verify the authenticity of each side in a communication link to prevent person-in-the-middle attacks. For example, application components should validate TLS certificates and chains.
+externalId: 1.9.2
+parent: '1_9'
+links:
+  demonstrates:
+    - CWE-295
+elementType: requirement

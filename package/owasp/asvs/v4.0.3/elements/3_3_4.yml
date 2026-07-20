@@ -1,0 +1,9 @@
+id: 1d12bd35-d3ee-4efb-8e24-fc39a839f587
+name: 3.3.4
+description: Verify that users are able to view and (having re-entered login credentials) log out of any or all currently active sessions and devices.
+externalId: 3.3.4
+parent: '3_3'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

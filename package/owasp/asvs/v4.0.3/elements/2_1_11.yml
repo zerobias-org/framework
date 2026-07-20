@@ -1,0 +1,9 @@
+id: 65aa0b76-e9a7-4399-9edd-29496eca282e
+name: 2.1.11
+description: Verify that "paste" functionality, browser password helpers, and external password managers are permitted.
+externalId: 2.1.11
+parent: '2_1'
+links:
+  demonstrates:
+    - CWE-521
+elementType: requirement

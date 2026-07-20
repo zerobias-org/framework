@@ -1,0 +1,9 @@
+id: 888d9922-665d-4ed1-8613-0357a878c8de
+name: 5.4.3
+description: Verify that sign, range, and input validation techniques are used to prevent integer overflows.
+externalId: 5.4.3
+parent: '5_4'
+links:
+  demonstrates:
+    - CWE-190
+elementType: requirement

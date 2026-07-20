@@ -1,0 +1,9 @@
+id: 8bf4e9d4-bc77-4769-a1e0-1cd50eceb518
+name: 5.2.5
+description: Verify that the application protects against template injection attacks by ensuring that any user input being included is sanitized or sandboxed.
+externalId: 5.2.5
+parent: '5_2'
+links:
+  demonstrates:
+    - CWE-94
+elementType: requirement

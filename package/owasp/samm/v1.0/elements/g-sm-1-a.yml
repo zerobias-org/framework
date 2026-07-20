@@ -1,0 +1,53 @@
+id: 29640fff-9d6e-46a5-9b9c-bda3a8d81c28
+name: Identify the organization's risk appetite
+description: >-
+  Identify organization drivers as they relate to the organization's risk
+  tolerance.
+longDescription: >
+  Understand, based on application risk exposure, what threats exist or may
+  exist, as well as how tolerant executive leadership is of these risks. This
+  understanding is a key component of determining software security assurance
+  priorities. To ascertain these threats, interview business owners and
+  stakeholders and document drivers specific to industries where the
+  organization operates as well as drivers specific to the organization.
+  Gathered information includes worst-case scenarios that could impact the
+  organization, as well as opportunities where an optimized software development
+  lifecycle and more secure applications could provide a market-differentiator
+  or create additional opportunities.
+
+  Gathered information provides a baseline for the organization to develop and
+  promote its application security program. Items in the program are prioritized
+  to address threats and opportunities most important to the organization. The
+  baseline is split into several risk factors and drivers linked directly to the
+  organization's priorities and used to help build a risk profile of each
+  custom-developed application by documenting how they can impact the
+  organization if they are compromised.
+
+  The baseline and individual risk factors should be published and made
+  available to application development teams to ensure a more transparent
+  process of creating application risk profiles and incorporating the
+  organization's priorities into the program. Additionally, these goals should
+  provide a set of objectives which should be used to ensure all application
+  security program enhancements provide direct support of the organization's
+  current and future needs.
+benefits: Common understanding of your organization's security posture
+elementType: activity
+externalId: G-SM-1-A
+question: Do you understand the enterprise-wide risk appetite for your applications?
+qualityCriteria:
+  - You capture the risk appetite of your organization's executive leadership
+  - The organization's leadership vet and approve the set of risks
+  - You identify the main business and technical threats to your assets and data
+  - You document risks and store them in an accessible location
+parent: g-sm-a
+aliases:
+  - G-SM-1-A
+  - g-sm-1-a
+  - GSM1A
+  - gsm1a
+  - SM-1-A
+  - sm-1-a
+  - SM1A
+  - sm1a
+  - SM1-A
+  - sm1-a

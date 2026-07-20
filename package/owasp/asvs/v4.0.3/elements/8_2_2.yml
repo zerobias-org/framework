@@ -1,0 +1,9 @@
+id: 580fd351-1437-4585-95d1-e983dffd92e1
+name: 8.2.2
+description: Verify that data stored in browser storage (such as localStorage, sessionStorage, IndexedDB, or cookies) does not contain sensitive data.
+externalId: 8.2.2
+parent: '8_2'
+links:
+  demonstrates:
+    - CWE-922
+elementType: requirement

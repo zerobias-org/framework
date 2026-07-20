@@ -1,0 +1,49 @@
+id: 1e7352f1-c939-4488-aae3-06f91788c797
+name: Rate and track security defects
+description: >-
+  Rate all security defects over the whole organization consistently and define
+  SLAs for particular severity classes.
+longDescription: >
+  Introduce and apply a well defined rating methodology for your security
+  defects consistently across the whole organization, based on the probability
+  and expected impact of the defect being exploited. This will allow you to
+  identify applications which need higher attention and investments. In case you
+  don't store the information about security defects centrally, ensure that
+  you're still able to easily pull the information from all sources and get an
+  overview about "hot spots" needing your attention.
+
+  Introduce SLAs for timely fixing of security defects according to their
+  criticality rating and centrally monitor and regularly report on SLA breaches.
+  Define a process for cases where it's not feasible or economical to fix a
+  defect within the time defined by the SLAs. This should at least ensure that
+  all relevant stakeholders have a solid understanding of the imposed risk. If
+  suitable, employ compensating controls for these cases.
+
+  Even if you don't have any formal SLAs for fixing low severity defects, ensure
+  that responsible teams still get a regular overview about issues affecting
+  their applications and understand how particular issues affect or amplify each
+  other.
+benefits: >-
+  Consistent classification of security defects with clear expectations of their
+  handling
+elementType: activity
+externalId: I-DM-2-A
+question: >-
+  Do you keep an overview of the state of security defects across the
+  organization?
+qualityCriteria:
+  - A single severity scheme is applied to all defects across the organization
+  - The scheme includes SLAs for fixing particular severity classes
+  - You regularly report compliance to SLAs
+parent: i-dm-a
+aliases:
+  - I-DM-2-A
+  - i-dm-2-a
+  - IDM2A
+  - idm2a
+  - DM-2-A
+  - dm-2-a
+  - DM2A
+  - dm2a
+  - DM2-A
+  - dm2-a

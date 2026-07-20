@@ -1,0 +1,9 @@
+id: 7252a858-6f5e-48d1-bd07-5d4c56b30086
+name: 2.10.2
+description: Verify that if passwords are required for service authentication, the service account used is not a default credential. (e.g. root/root or admin/admin are default in some services during installation).
+externalId: 2.10.2
+parent: '2_10'
+links:
+  demonstrates:
+    - CWE-255
+elementType: requirement

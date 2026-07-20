@@ -1,0 +1,9 @@
+id: 88422b75-b681-42c6-8fab-1bbbd6671a20
+name: 5.3.6
+description: Verify that the application protects against JSON injection attacks, JSON eval attacks, and JavaScript expression evaluation. ([C4](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.3.6
+parent: '5_3'
+links:
+  demonstrates:
+    - CWE-830
+elementType: requirement

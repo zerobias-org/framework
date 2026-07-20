@@ -1,0 +1,9 @@
+id: 13627764-a25e-41e6-bdd2-f59db4d1eb6a
+name: 3.6.2
+description: Verify that Credential Service Providers (CSPs) inform Relying Parties (RPs) of the last authentication event, to allow RPs to determine if they need to re-authenticate the user.
+externalId: 3.6.2
+parent: '3_6'
+links:
+  demonstrates:
+    - CWE-613
+elementType: requirement

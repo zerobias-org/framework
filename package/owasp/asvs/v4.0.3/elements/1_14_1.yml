@@ -1,0 +1,9 @@
+id: f83e2e44-9cd1-4ead-b5a3-ebe2a492cdd6
+name: 1.14.1
+description: Verify the segregation of components of differing trust levels through well-defined security controls, firewall rules, API gateways, reverse proxies, cloud-based security groups, or similar mechanisms.
+externalId: 1.14.1
+parent: '1_14'
+links:
+  demonstrates:
+    - CWE-923
+elementType: requirement

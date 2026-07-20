@@ -1,0 +1,9 @@
+id: ed0c6ef0-b250-4e86-ad03-42608b5ce705
+name: 1.11.2
+description: Verify that all high-value business logic flows, including authentication, session management and access control, do not share unsynchronized state.
+externalId: 1.11.2
+parent: '1_11'
+links:
+  demonstrates:
+    - CWE-362
+elementType: requirement

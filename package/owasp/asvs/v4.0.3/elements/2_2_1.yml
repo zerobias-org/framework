@@ -1,0 +1,9 @@
+id: 47535fed-5f60-4b8a-85bd-786c5b56bf5b
+name: 2.2.1
+description: Verify that anti-automation controls are effective at mitigating breached credential testing, brute force, and account lockout attacks. Such controls include blocking the most common breached passwords, soft lockouts, rate limiting, CAPTCHA, ever increasing delays between attempts, IP address restrictions, or risk-based restrictions such as location, first login on a device, recent attempts to unlock the account, or similar. Verify that no more than 100 failed attempts per hour is possible on a single account.
+externalId: 2.2.1
+parent: '2_2'
+links:
+  demonstrates:
+    - CWE-307
+elementType: requirement

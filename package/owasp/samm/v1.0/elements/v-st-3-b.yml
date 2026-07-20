@@ -1,0 +1,60 @@
+id: 44af7b6a-1b60-49a5-80b8-5456fe5d424a
+name: Establish continuous, scalable security verification
+description: Integrate security testing into development process.
+longDescription: >
+  Integrate security testing in parallel to all other development activities,
+  including requirement analysis, software design and construction.
+
+  With the multiplicity of security tools running at every phase of development,
+  remediating security issues at a designated stage (such as pre-release
+  testing) is no longer appropriate or desirable. Security issues must be
+  quickly triaged and fixes planned in a tradeoff between risk and cost of
+  remediation. Continuously striving to detect issues earlier in the development
+  lifecycle, via specific, low-friction automated tests integrated into
+  development tools and build processes, lowers the cost of remediation thereby
+  increasing the likelihood of issues being quickly resolved.
+
+  Proactively improve the security testing effort integrated into the
+  development process by adequately propagating the results of other security
+  test activities. For example, if a security penetration test identifies issues
+  with session management, any changes to session management should trigger
+  explicit security tests before pushing the changes to production.
+
+  Security champions and the central secure software group continuously review
+  results from automated and manual security tests during development, including
+  these results as part of the security awareness trainings for the development
+  teams. Integrate lessons learned in overall playbooks to improve security
+  testing as part of the organization development. If there are unaddressed
+  findings that remain as accepted risks for the release, stakeholders and
+  development managers should work together to establish a concrete timeframe
+  for addressing them.
+benefits: >-
+  Identification of manually identifiable security issues in earliest possible
+  stages
+elementType: activity
+externalId: V-ST-3-B
+question: >-
+  Do you use the results of security testing to improve the development
+  lifecycle?
+qualityCriteria:
+  - >-
+    You use results from other security activities to improve integrated
+    security testing during development
+  - >-
+    You review test results and incorporate them into security awareness
+    training and security testing playbooks
+  - >-
+    Stakeholders review the test results and handle them in accordance with the
+    organization's risk management
+parent: v-st-b
+aliases:
+  - V-ST-3-B
+  - v-st-3-b
+  - VST3B
+  - vst3b
+  - ST-3-B
+  - st-3-b
+  - ST3B
+  - st3b
+  - ST3-B
+  - st3-b

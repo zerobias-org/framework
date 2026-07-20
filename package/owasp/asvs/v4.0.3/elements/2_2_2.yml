@@ -1,0 +1,9 @@
+id: 3122dc9c-ece4-48f1-b602-9e1548ee4109
+name: 2.2.2
+description: Verify that the use of weak authenticators (such as SMS and email) is limited to secondary verification and transaction approval and not as a replacement for more secure authentication methods. Verify that stronger methods are offered before weak methods, users are aware of the risks, or that proper measures are in place to limit the risks of account compromise.
+externalId: 2.2.2
+parent: '2_2'
+links:
+  demonstrates:
+    - CWE-304
+elementType: requirement

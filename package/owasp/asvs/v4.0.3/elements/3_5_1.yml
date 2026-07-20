@@ -1,0 +1,9 @@
+id: c7b3abe2-9ab9-4a83-8a5b-b586b9ddb5af
+name: 3.5.1
+description: Verify the application allows users to revoke OAuth tokens that form trust relationships with linked applications.
+externalId: 3.5.1
+parent: '3_5'
+links:
+  demonstrates:
+    - CWE-290
+elementType: requirement

@@ -1,0 +1,9 @@
+id: 564a6bd3-858c-4745-9167-a8c30189f3f0
+name: 5.1.3
+description: Verify that all input (HTML form fields, REST requests, URL parameters, HTTP headers, cookies, batch files, RSS feeds, etc) is validated using positive validation (allow lists). ([C5](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 5.1.3
+parent: '5_1'
+links:
+  demonstrates:
+    - CWE-20
+elementType: requirement

@@ -1,0 +1,9 @@
+id: b48f6787-1bdb-4559-adee-7cdd8acbb7c3
+name: 13.2.6
+description: Verify that the message headers and payload are trustworthy and not modified in transit. Requiring strong encryption for transport (TLS only) may be sufficient in many cases as it provides both confidentiality and integrity protection. Per-message digital signatures can provide additional assurance on top of the transport protections for high-security applications but bring with them additional complexity and risks to weigh against the benefits.
+externalId: 13.2.6
+parent: '13_2'
+links:
+  demonstrates:
+    - CWE-345
+elementType: requirement

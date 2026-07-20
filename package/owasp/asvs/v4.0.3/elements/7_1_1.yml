@@ -1,0 +1,9 @@
+id: e703af5a-bdac-40a6-a9ca-7765eeb41c05
+name: 7.1.1
+description: Verify that the application does not log credentials or payment details. Session tokens should only be stored in logs in an irreversible, hashed form. ([C9, C10](https://owasp.org/www-project-proactive-controls/#div-numbering))
+externalId: 7.1.1
+parent: '7_1'
+links:
+  demonstrates:
+    - CWE-532
+elementType: requirement

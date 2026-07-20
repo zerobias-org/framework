@@ -1,0 +1,9 @@
+id: 9a03615d-6f49-4dfd-921b-7a6830bd12d0
+name: 6.3.3
+description: Verify that random numbers are created with proper entropy even when the application is under heavy load, or that the application degrades gracefully in such circumstances.
+externalId: 6.3.3
+parent: '6_3'
+links:
+  demonstrates:
+    - CWE-338
+elementType: requirement

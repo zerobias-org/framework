@@ -1,0 +1,516 @@
+id: 2507a4e5-4c8d-4c99-bc39-d66a98291b0e
+name: Level 1
+description: Baseline for Level 1
+elements:
+  '2_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_6':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_7':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_8':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_9':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_10':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_11':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_1_12':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_2_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_2_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_5_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_5_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_5_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_5_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_5_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_5_6':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_7_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_7_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_7_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_7_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '2_8_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_2_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_2_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_3_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_4_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_4_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_4_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_4_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_4_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '3_7_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_1_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_1_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_1_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_2_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '4_3_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_1_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_1_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_1_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_1_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_6':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_7':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_2_8':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_6':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_7':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_8':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_9':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_3_10':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_5_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_5_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_5_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '5_5_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '6_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '7_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '7_1_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '7_4_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '8_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '8_2_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '8_2_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '8_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '8_3_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '8_3_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '8_3_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '9_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '9_1_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '9_1_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '10_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '10_3_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '10_3_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '11_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '11_1_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '11_1_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '11_1_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '11_1_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_3_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_3_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_3_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_3_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_4_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_4_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_5_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_5_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '12_6_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '13_1_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '13_1_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '13_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '13_2_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '13_2_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '13_3_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_2_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_2_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_2_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_3_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_3_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_4_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_4_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_4_3':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_4_4':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_4_5':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_4_6':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_4_7':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_5_1':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_5_2':
+    mandatory: true
+    parameters: []
+    requirements: []
+  '14_5_3':
+    mandatory: true
+    parameters: []
+    requirements: []

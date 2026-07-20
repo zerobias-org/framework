@@ -1,0 +1,9 @@
+id: d4060783-c240-48cb-81ce-360783d026f0
+name: 2.6.2
+description: Verify that lookup secrets have sufficient randomness (112 bits of entropy), or if less than 112 bits of entropy, salted with a unique and random 32-bit salt and hashed with an approved one-way hash.
+externalId: 2.6.2
+parent: '2_6'
+links:
+  demonstrates:
+    - CWE-330
+elementType: requirement

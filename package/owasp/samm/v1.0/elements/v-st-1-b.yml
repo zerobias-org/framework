@@ -1,0 +1,46 @@
+id: 7a75ae73-cec0-4269-8fa5-fa57596b939d
+name: Test high risk application components manually
+description: Perform manual security testing of high-risk components.
+longDescription: >
+  Perform selective manual security testing, possibly using a combination of
+  static and dynamic analysis tools to guide or focus the review, in order to
+  more thoroughly analyze parts of the application, as an attacker. Automated
+  tools are effective at finding various types of vulnerabilities but can never
+  replace expert manual review.
+
+  Code-level vulnerabilities in security-critical parts of software can have
+  dramatically increased impact so project teams review high-risk modules for
+  common vulnerabilities. Common examples of high-risk functionality include
+  authentication modules, access control enforcement points, session management
+  schemes, external interfaces, and input validators and data parsers. Teams can
+  combine code-level metrics and focused automated scans to determine where best
+  to focus their efforts. In practice, the activity can take many forms
+  including pair programming and peer review, time-boxed security "pushes"
+  involving the entire development team, or spontaneous independent reviews by
+  members of a specialised security group.
+
+  During development cycles where high-risk code is changed and reviewed,
+  development managers triage the findings and prioritize remediation
+  appropriately with input from other project stakeholders.
+benefits: Detection of manually identifiable vulnerabilities in critical components
+elementType: activity
+externalId: V-ST-1-B
+question: Do you manually review the security quality of selected high-risk components?
+qualityCriteria:
+  - Criteria exist to help the reviewer focus on high-risk components
+  - Qualified personnel conduct reviews following documented guidelines
+  - >-
+    You address findings in accordance with the organization's defect management
+    policy
+parent: v-st-b
+aliases:
+  - V-ST-1-B
+  - v-st-1-b
+  - VST1B
+  - vst1b
+  - ST-1-B
+  - st-1-b
+  - ST1B
+  - st1b
+  - ST1-B
+  - st1-b

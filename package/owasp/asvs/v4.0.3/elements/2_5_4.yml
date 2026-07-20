@@ -1,0 +1,9 @@
+id: 81d21b8c-559b-4435-834a-77c31a5a5889
+name: 2.5.4
+description: Verify shared or default accounts are not present (e.g. "root", "admin", or "sa").
+externalId: 2.5.4
+parent: '2_5'
+links:
+  demonstrates:
+    - CWE-16
+elementType: requirement
