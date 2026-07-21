@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2-uat.0",
-  "branch": "fix/scf-undeprecate-7-frameworks",
-  "sourceHash": "8ae481b2503800129345614e364096b19923e3e496e0a6f7b31c42fd707051f2",
+  "version": "2.1.0-uat.0",
+  "branch": "feat/nist-add-missing-elements",
+  "sourceHash": "ff57f200d5f6c331e826360d6d31cca7f55ef4efd2f0e833f217421eb438e137",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
