@@ -165,6 +165,12 @@ jobs:
               printf 'plugins { id("zb.content") }\n' > "$pkg/build.gradle.kts"
               echo "Added gradle marker to new package: $pkg"
             fi
+            # Stage BEFORE gating. writeGateStamp computes sourceHash over
+            # git-tracked files, so gating a brand-new (untracked) package
+            # yields sha256("") — a stamp that passes locally and is then
+            # rejected by the publish preflight as "source-hash-changed".
+            # Cost a failed 2026.2 publish in run 30499714658.
+            git add -A "$pkg"
             proj=$(echo "${pkg#package/}" | tr '/' ':')
             gate_targets="$gate_targets :$proj:gate"
           done
