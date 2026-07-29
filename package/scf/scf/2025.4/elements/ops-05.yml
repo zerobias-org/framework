@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '7'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to provide guidelines and recommendations for the secure use of Technology Assets, Applications and/or Services (TAAS) to assist in the configuration, installation and use of the product and/ or service.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to provide guidelines and recommendations for the secure use of Technology Assets, Applications and/or Services (TAAS) to assist in the configuration, installation and use of the product and/ or service.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Security operations (OPS) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tSecurity operations management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls to address applicable statutory, regulatory and contractual requirements for security operations.\n•\tAdministrative processes focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tCritical business functions are documented in “run books” or Standardized Operating Procedures (SOPs) to capture operational knowledge in documentation form."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Security Operations (OPS) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function, manages cybersecurity operations that covers preparation, detection and analysis, containment, eradication and recovery.\n•\tProcedures are standardized across the enterprise to ensure uniformity and consistent execution. These Standardized Operating Procedures (SOP) identify and document day-to-day procedures to enable the proper execution of assigned tasks.\n•\tLine of Business (LOB) stakeholders are identified and tasked with documenting business-critical functions in “run books,” or SOPs, to capture the knowledge in documentation form from both a business and technology perspective."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to provide guidelines and recommendations for the secure use of Technology Assets, Applications and/or Services (TAAS) to assist in the configuration, installation and use of the product and/ or service.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to provide guidelines and recommendations for the secure use of Technology Assets, Applications and/or Services (TAAS) to assist in the configuration, installation and use of the product and/ or service.
   available: false
   value: 5

@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '8'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to maintain proper physical security and configuration control over technology assets awaiting service or repair.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to maintain proper physical security and configuration control over technology assets awaiting service or repair.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Maintenance (MNT) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tTechnology asset maintenance is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity and data protection controls to appropriately address applicable statutory, regulatory and contractual requirements for technology asset maintenance.\no\tDevelop and disseminate formal guidance to facilitate a localized/regionalized process to implement secure and timely technology asset-specific maintenance operations, including preventative and reactionary maintenance operations.\n•\tMaintenance controls are primarily administrative in nature (e.g., policies & standards) to manage change control processes associated with maintenance operations.\n•\tAsset custodians develop and maintain formalized procedures to conduct controlled and timely maintenance activities throughout the lifecycle of the system, application or service.\n•\tMaintenance operations may be centralized for certain locations (e.g., datacenters) and decentralized for other locations, both in terms of change management and execution.\n•\tFacilities management uses a localized/regionalized process to facilitate the secure and timely implementation of non-IT maintenance operations, including preventative and reactionary maintenance operations."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Maintenance (MNT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT/cybersecurity personnel develop and disseminate formal practices to implement enterprise-wide capability to conduct secure and timely technology asset-specific maintenance operations, including preventative and reactionary maintenance operations.\n•\tTechnology asset-related maintenance operations are centralized in terms of change management and governance. Local/regional practices fall under the broader enterprise-wide technology asset maintenance program.\n•\tFacilities management uses an enterprise-wide process to facilitate the secure and timely implementation of non-IT maintenance operations, including preventative and reactionary maintenance operations. Local/regional practices fall under the broader enterprise-wide facilities management program.\n•\tA Change Control Board (CCB), or similar function, centrally manages the process of IT and non-IT maintenance operations to reduce the chance of business interruptions from maintenance operations."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to maintain proper physical security and configuration control over technology assets awaiting service or repair.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to maintain proper physical security and configuration control over technology assets awaiting service or repair.
   available: false
   value: 5

@@ -9,31 +9,31 @@ functionGrouping: Identify
 controlWeighting: '9'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to establish the scope of assessments by defining the assessment boundary, according to people, processes and technology that directly or indirectly impact the confidentiality, integrity, availability and safety of the Technology Assets, Applications, Services and/or Data (TAASD) under review.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to establish the scope of assessments by defining the assessment boundary, according to people, processes and technology that directly or indirectly impact the confidentiality, integrity, availability and safety of the Technology Assets, Applications, Services and/or Data (TAASD) under review.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Information Assurance (IA) is requirements-driven and governed at a local/regional level, but not consistently across the enterprise. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tPre-production security testing is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for pre-production cybersecurity and data privacy control testing.\n•\tIT personnel implement and maintain an established a limited Information Assurance Program (IAP) capability to conduct limited control testing to meet specific statutory, regulatory and/ or contractual requirements for pre-production cybersecurity and data privacy control testing.\n•\tIAP operations focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Information Assurance (IA) is standardized across the enterprise and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCybersecurity personnel implement and maintain an established Information Assurance Program (IAP) capability to conduct “business as usual” pre-production cybersecurity and data privacy control testing focused on the concept of “security and data privacy be design and by default.”\n•\tThe IAP validates that systems/applications/services/processes are both secure and compliant.\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, facilitates the implementation of cybersecurity and data protection controls to ensure that secure engineering practices are designed and implemented throughout the lifecycle of systems, applications and services both internal and external to the organization.\n•\tA Project Management Office (PMO), or project management function, ensures project involvement for IAP as part of the organization's established project management processes.\n•\tA Plan of Action and Milestones (POA&M) or similar mechanism, exists to document planned remediation actions to correct weaknesses or deficiencies noted during the assessment of the security controls, helping to reduce or eliminate known vulnerabilities.\n•\tAdministrative processes prevent systems/applications/services/processes from “going live” in a production environment without first going through the IAP process.\n•\tThe IAP uses a tiered approach to conformity testing, based on (1) the sensitivity of data that is stored, processed and/ or transmitted and (2) the criticality of the system/application/service/process."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to establish the scope of assessments by defining the assessment boundary, according to people, processes and technology that directly or indirectly impact the confidentiality, integrity, availability and safety of the Technology Assets, Applications, Services and/or Data (TAASD) under review.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to establish the scope of assessments by defining the assessment boundary, according to people, processes and technology that directly or indirectly impact the confidentiality, integrity, availability and safety of the Technology Assets, Applications, Services and/or Data (TAASD) under review.
   available: false
   value: 5

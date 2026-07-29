@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '5'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of an automated capability to implement email labeling that apply organization-defined tags to incoming or outgoing email.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to implement email labeling that apply organization-defined tags to incoming or outgoing email.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to implement email labeling that apply organization-defined tags to incoming or outgoing email.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Network Security (NET) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Technology Infrastructure team, or similar function, defines centrally-managed network security controls for implementation across the enterprise.\n•\tSecure engineering principles are used to design and implement network security controls (e.g., industry-recognized secure practices) to enforce the concepts of least privilege and least functionality at the network level.\n•\tIT/cybersecurity architects work with the Technology Infrastructure team to implement a “layered defense” network architecture that provides a defense-in-depth approach for redundancy and risk reduction for network-based security controls, including wired and wireless networking.\n•\tAdministrative processes and technologies configure boundary devices (e.g., firewalls, routers, etc.) to deny network traffic by default and allow network traffic by exception (e.g., deny all, permit by exception).\n•\tTechnologies automate the Access Control Lists (ACLs) and similar rulesets review process to identify security issues and/ or misconfigurations.\n•\tNetwork segmentation exists to implement separate network addresses (e.g., different subnets) to connect systems in different security domains (e.g., sensitive/regulated data environments)."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to implement email labeling that apply organization-defined tags to incoming or outgoing email.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to implement email labeling that apply organization-defined tags to incoming or outgoing email.
   available: false
   value: 5

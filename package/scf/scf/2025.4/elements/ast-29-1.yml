@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '3'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to securely configure contactless access control systems incorporating contactless RFID or smart cards to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to securely configure contactless access control systems incorporating contactless RFID or smart cards to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Asset Management (AST) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAsset management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for asset management.\n•\tAdministrative processes and technologies focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tAsset management is formally assigned as an additional duty to existing IT/cybersecurity personnel.\n•\tTechnology assets are categorized according to data classification and business criticality.\n•\tInventories cover technology assets in scope for statutory, regulatory and/ or contractual compliance, which includes both physical and virtual assets.\n•\tSoftware licensing is tracked as part of IT asset inventories.\n•\tUsers are educated on their responsibilities to protect technology assets assigned to them or under their supervision.\n•\tIT/cybersecurity personnel maintain network diagrams to document the flow of sensitive/regulated data across the network."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Asset Management (AST) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function, governs asset management to help ensure compliance with requirements for asset management.\n•\tAn ITAM function, or similar function, maintains an inventory of IT assets, covering both physical and virtual assets, as well as centrally managed asset ownership assignments.\n•\tTechnology assets and data are categorized according to data classification and business criticality criteria.\n•\tA Cybersecurity Supply Chain Risk Management (C-SCRM) function oversees supply chain risks including the removal and prevention of certain technology services and/ or equipment designated as supply chain threats by a statutory or regulatory body.\n•\tData/process owners document where sensitive/regulated data is stored, transmitted and processed, generating Data Flow Diagrams (DFDs) and network diagrams to document the flow of data."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to securely configure contactless access control systems incorporating contactless RFID or smart cards to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to securely configure contactless access control systems incorporating contactless RFID or smart cards to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.
   available: false
   value: 5

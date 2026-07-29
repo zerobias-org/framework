@@ -8,31 +8,31 @@ controlQuestion: "[deprecated - incorporated into AST-09]\r\nDoes the organizati
 functionGrouping: Protect
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
-  available: false
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
-  available: false
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
-  available: false
+  description: N/A - deprecated - incorporated into AST-09
+  available: true
   value: 5

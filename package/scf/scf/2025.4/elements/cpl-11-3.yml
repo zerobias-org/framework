@@ -9,31 +9,43 @@ functionGrouping: Govern
 controlWeighting: '8'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: |-
+    There is no evidence of a capability to generate detailed logs of export-controlled data including:
+    (1) Logical and physical access; and
+    (2) Export activities.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: |-
+    C|P-CMM1 is N/A, since a structured process is required to generate detailed logs of export-controlled data including:
+    (1) Logical and physical access; and
+    (2) Export activities.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Compliance (CPL) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCompliance activities are decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for compliance activities.\n•\tCybersecurity personnel use a defined set of controls to conduct cybersecurity and data privacy control assessments, as defined by the applicable statutory, regulatory and contractual requirements.\n•\tLegal representation is consulted on an as-needed basis."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Compliance (CPL) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity and data protection controls to ensure compliance requirements are identified and documented.\n•\tThe GRC function, or similar function:\no\tEnsures data/process owners understand their requirements to manage applicable cybersecurity and data protection controls through oversight and written guidance.\no\tProvides applicable stakeholders with status reports on control execution to enable security controls oversight.\no\tWorks with data/process owners and asset custodians to document and validate the scope of cybersecurity and data protection controls to ensure statutory, regulatory and/ or contractual compliance obligations are met.\no\tConducts cybersecurity and data privacy control assessments, on a regular cadence that is defined by the applicable statutory, regulatory and contractual requirements.\n•\tCybersecurity and data privacy controls are centrally managed through a technology solution (e.g., GRC solution) to assign controls, track control activities and report on compliance efforts.\n•\tAn Integrated Security Incident Response Team (ISIRT) is formed to analyze and respond to government investigation requests, with legal representation being a key stakeholder.\n•\tClient or host-nation requests are formally evaluated to determine the risk impact of the request.\n•\tThe CIO/CISO collaborate on methods to prevent a host government from having unrestricted and non-monitored access to the organization's systems, applications and services which could potentially violate other applicable statutory, regulatory and/ or contractual obligations."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: |-
+    See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to generate detailed logs of export-controlled data including:
+    (1) Logical and physical access; and
+    (2) Export activities.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: |-
+    See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to generate detailed logs of export-controlled data including:
+    (1) Logical and physical access; and
+    (2) Export activities.
   available: false
   value: 5

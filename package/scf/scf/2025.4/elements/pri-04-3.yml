@@ -9,31 +9,31 @@ functionGrouping: Identify
 controlWeighting: '7'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to restrict collecting, receiving, processing, storing, transmitting and/or sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to restrict collecting, receiving, processing, storing, transmitting and/or sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to restrict collecting, receiving, processing, storing, transmitting and/or sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Privacy (PRI) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Chief Privacy Officer (CPO), or similar function with technical competence to address data privacy concerns, analyzes the organization's business strategy to develop and publish authoritative guidance on the organization's data privacy program.\n•\tA Privacy program, run by a CPO, or similar role, ensures that applicable statutory, regulatory and contractual data privacy obligations are properly identified and implemented to limit and secure Personal Data (PD) that the organization stores, transmits and processes.\n•\tAs part of the organization's data privacy program, the CPO publishes a clear set of “data privacy principles”, based on leading data privacy practices, that systems, applications, services, processes and third-parties must adhere to.\n•\tA Project Management Office (PMO), or project management function, ensures both cybersecurity and data privacy principles are identified and implemented within ongoing or planned projects.\n•\tThe Chief Information Security Officer (CISO), or similar function with technical competence to address cybersecurity concerns, analyzes the organization's business strategy to determine prioritized and authoritative guidance for cybersecurity-related data privacy practices.\n•\tThe CISO, or similar function, develops a security-focused Concept of Operations (CONOPS) that documents management, operational and technical measures to apply defense-in-depth techniques across the enterprise for cybersecurity-related data privacy practices.\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity and data protection controls to protect the confidentiality, integrity, availability and safety of the organization's applications, systems, services and data with regards to data privacy.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity and data privacy program.\n•\tData/process owners operationalize data privacy controls into the processes they control.\n•\tThird-party contracts included data protection requirements, including flow-down requirements to subcontractors.\n•\tData Protection Officers (DPOs) are assigned to work closely with business units and project teams to ensure data privacy principles are being implemented.\n•\tCPO and DPO determine and document the legal authority that permits the collection, use, maintenance and sharing of PD, either generally or in support of a specific program or system need."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to restrict collecting, receiving, processing, storing, transmitting and/or sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to restrict collecting, receiving, processing, storing, transmitting and/or sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs.
   available: false
   value: 5

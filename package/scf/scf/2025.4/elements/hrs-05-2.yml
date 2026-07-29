@@ -9,31 +9,31 @@ functionGrouping: Identify
 controlWeighting: '9'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to define rules of behavior that contain explicit restrictions on the use of social media and networking sites, posting information on commercial websites and sharing account information.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
-  available: false
+  description: "Human Resources Security (HRS) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tPersonnel management is decentralized, with the responsibility for training users and enforcing policies being assigned to the user’s immediate supervisor(s)/manager(s), including the definition and enforcement of the user’s specific role(s) and responsibilities.\n•\tThe Human Resources (HR) department provides guidance on HR practices for hiring, retaining and terminating employees, contractors and other personnel that work on behalf of the organization.\n•\tTerms of employment, including acceptable and unacceptable rules of behavior for the use of technologies, including consequences for unacceptable behavior are at the discretion of users’ management.\n•\tAdministrative processes require all employees and contractors to apply cybersecurity and data privacy principles in their daily work."
+  available: true
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Human Resources Security (HRS) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tPersonnel management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for personnel management.\n•\tThe Human Resources (HR) department:\no\tEnsures industry-recognized HR practices are implemented for hiring, managing, training, investigating and terminating employees, contractors and other personnel that work on behalf of the organization.\no\tDefines terms of employment, including acceptable and unacceptable rules of behavior for the use of technologies, including consequences for unacceptable behavior.\n•\tThe responsibility for training users and enforcing policies being assigned to user’s immediate supervisor(s)/manager(s), including the definition and enforcement of the user’s specific role(s) and responsibilities.\n•\tPersonnel managers ensure personnel are routinely made aware of the organization's cybersecurity / data privacy policies and provide acknowledgement.\n•\tAdministrative processes require all employees and contractors to apply cybersecurity and data privacy principles in their daily work."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Human Resources Security (HRS) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe Human Resources (HR) department:\no\tEnsures industry-recognized HR practices are implemented for hiring, managing, training, investigating and terminating employees, contractors and other personnel that work on behalf of the organization.\no\tEnsures that every user accessing a system that processes, stores, or transmits sensitive/regulated data is cleared and regularly trained in proper data handling practices.\no\tIdentifies and implements industry-recognized HR practices related to cybersecurity and data privacy training and awareness to help ensure secure practices are implemented in personnel operations to help manage risk to both technology assets and data.\no\tManages personnel security risk by assigning a risk designation to all positions and establishing screening criteria for individuals filling those positions.\n•\tAdministrative processes require Non-Disclosure Agreements (NDAs) or similar confidentiality agreements that reflect the needs to protect data and operational details, for both employees and third-parties.\n•\tRules of behavior contain explicit restrictions on the use of social media and networking sites, posting information on commercial websites and sharing account information."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to define rules of behavior that contain explicit restrictions on the use of social media and networking sites, posting information on commercial websites and sharing account information.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to define rules of behavior that contain explicit restrictions on the use of social media and networking sites, posting information on commercial websites and sharing account information.
   available: false
   value: 5

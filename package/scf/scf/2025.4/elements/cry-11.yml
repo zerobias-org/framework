@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '8'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to enable the use of organization-defined Certificate Authorities (CAs) to facilitate the establishment of protected sessions.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to enable the use of organization-defined Certificate Authorities (CAs) to facilitate the establishment of protected sessions.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to enable the use of organization-defined Certificate Authorities (CAs) to facilitate the establishment of protected sessions.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Cryptographic Protections (CRY) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe Chief Information Security Officer (CISO), or similar function with technical competence to address cybersecurity concerns, analyzes the organization's business strategy to determine prioritized and authoritative guidance for cryptographic protections.\n•\tThe CISO, or similar function, develops a security-focused Concept of Operations (CONOPS) that documents management, operational and technical measures for cryptographic protections.\n•\tA Governance, Risk & Compliance (GRC) function, or similar function, provides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity and data protection controls to protect the confidentiality, integrity, availability and safety of the organization's applications, systems, services and data using cryptographic protections.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity and data privacy program, including cryptographic protections.\n•\tData classification and handling criteria govern requirements to encrypt sensitive/regulated data during transmission and in storage.\n•\tCentrally-managed technologies implement cryptographic mechanisms on endpoints to control how sensitive/regulated data is encrypted during transmission and in storage.\n•\tCertificate management is centrally-managed and the use of certificates is monitored.\n•\tCryptographic keys are proactively managed to protect the Confidentiality, Integrity and Availability (CIA) of cryptographic capabilities.\n•\tSystems, applications and services that store, process or transmit sensitive/regulated data use cryptographic mechanisms to prevent unauthorized disclosure of information as an alternate to physical safeguards.\n•\tAn IT infrastructure team, or similar function:\no\tImplements Public Key Infrastructure (PKI) key management controls to protect the confidentiality, integrity and availability of keys.\no\tImplements and maintains an internal PKI infrastructure or obtains PKI services from a reputable PKI service provider.\n•\tIT/cybersecurity personnel perform an annual review of deployed cryptographic cipher suites and protocols to identify and replace weak cryptographic cipher suites and protocols."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to enable the use of organization-defined Certificate Authorities (CAs) to facilitate the establishment of protected sessions.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to enable the use of organization-defined Certificate Authorities (CAs) to facilitate the establishment of protected sessions.
   available: false
   value: 5

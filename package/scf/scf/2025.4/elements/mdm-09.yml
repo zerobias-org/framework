@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '7'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to restrict the functionality of mobile devices based on geographic location.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to restrict the functionality of mobile devices based on geographic location.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to restrict the functionality of mobile devices based on geographic location.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Mobile Device Management (MDM) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn Identity & Access Management (IAM) function, or similar function, performs the implementation of access controls for mobile devices that restricts the connectivity of mobile devices from communicating with systems, applications and services.\n•\tOrganization-owned mobile devices are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information stored on the device, and conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data.\n•\tMDM software is used to restrict the data that is stored/processed/transmitted on organization-owned and/ or applicable Bring Your Own Device (BYOD) (e.g., personal devices) across the entire organization.\n•\tMDM enforces a separate device workspace on applicable mobile devices to separate work-related and personal-related applications and data.\n•\tTechnologies are configured to use cryptographic mechanisms to protect the confidentiality and integrity of information on mobile devices through full-device or container encryption.\n•\tMobile devices are configured to restrict the functionality based on geographic location."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to restrict the functionality of mobile devices based on geographic location.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to restrict the functionality of mobile devices based on geographic location.
   available: false
   value: 5

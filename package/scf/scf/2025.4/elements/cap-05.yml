@@ -9,31 +9,31 @@ functionGrouping: Govern
 controlWeighting: '5'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to automatically scale the resources available for Technology Assets, Applications and/or Services (TAAS), as demand conditions change.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to automatically scale the resources available for Technology Assets, Applications and/or Services (TAAS), as demand conditions change.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to automatically scale the resources available for Technology Assets, Applications and/or Services (TAAS), as demand conditions change.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Capability & Performance Planning (CAP) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe Chief Information Security Officer (CISO), or similar function with technical competence to address cybersecurity concerns, analyzes the organization's business strategy to provide guidance for capacity and performance planning practices.\n•\tThe CISO, or similar function, develops a security-focused Concept of Operations (CONOPS) that documents management, operational and technical measures to apply defense-in-depth techniques across the organization. This CONOPS for capacity and performance planning may be incorporated as part of a broader operational plan for the cybersecurity and data privacy program.\n•\tA Governance, Risk & Compliance (GRC) team, or similar function, provides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity and data protection controls to protect the confidentiality, integrity, availability and safety of the organization's applications, systems, Technology Assets, Applications and/or Services (TAAS) and data.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity and data privacy program and establishes a clear and authoritative accountability structure for capacity and performance planning operations.\n•\tIT personnel work with business stakeholders to identify business-critical systems and Technology Assets, Applications and/or Services (TAAS), as part of the organization's IT Asset Management (ITAM) program.\n•\tAutomated tools continuously monitor the operating state and health status of systems/applications/Technology Assets, Applications and/or Services (TAAS).\n•\tBusiness stakeholders conduct a Business Impact Analysis (BIA) to determine acceptable downtime constraints and any dependencies between applications or systems, to objectively determine the criticality of systems, applications or Technology Assets, Applications and/or Services (TAAS), as well as the order is which systems need to be restored.\n•\tDemand is managed for computing resources based on BIA-defined prioritization.\n•\tBased on BIA results, IT infrastructure personnel deploy preventative technologies to minimize the effect of Denial of Service (DoS) attacks.\n•\tIT architects identify appropriate solutions to make sure service levels can be met.\n•\tIT infrastructure personnel:\no\tCreate an annual infrastructure growth plan with input from both technology and business stakeholders.\no\tCreate and maintain infrastructure performance metrics to understand current resource needs.\no\tProduce a capacity plan that covers current use, forecasted needs and support costs for new systems, applications and Technology Assets, Applications and/or Services (TAAS).\n•\tAutomated tools continuously monitor the operating state and health status of systems, applications and Technology Assets, Applications and/or Services (TAAS) to expand the availability of resources, as demand conditions change.\n•\tIT personnel work with business stakeholders to identify single points of failure from a system/applications/Technology Assets, Applications and/or Services (TAAS) perspective."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to automatically scale the resources available for Technology Assets, Applications and/or Services (TAAS), as demand conditions change.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to automatically scale the resources available for Technology Assets, Applications and/or Services (TAAS), as demand conditions change.
   available: false
   value: 5
