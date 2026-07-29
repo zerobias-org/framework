@@ -1,0 +1,65 @@
+id: 4fa5bf68-6bbd-4124-9ebe-b423944ea3b1
+name: Data Quality Operations
+description: Mechanisms exist to check for Redundant, Obsolete/Outdated, Toxic or Trivial (ROTT) data to ensure the accuracy, relevance, timeliness, impact, completeness and de-identification of information throughout the information lifecycle.
+elementType: control
+externalId: DCH-22
+parent: dch
+controlQuestion: Does the organization check for Redundant, Obsolete/Outdated, Toxic or Trivial (ROTT) data to ensure the accuracy, relevance, timeliness, impact, completeness and de-identification of information throughout the information lifecycle?
+functionGrouping: Protect
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: Practices are non-existent, based on the inability to demonstrate an implemented and operational capability. A reasonable person would conclude the control is not being performed.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: |-
+    SCR-CMM Level 1 criteria definitions are not available for this control:
+    ▪ A reasonable person would conclude this control requires a structured process.
+    ▪ At this level of maturity, the "ad hoc" nature of performing a capability informally would indicate the intent of the control is not met due to a lack of consistency and formality.
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: |-
+    SCR-CMM Level 2 criteria definitions are not available for this control:
+    ▪ A reasonable person would conclude a well-defined and standardized process is required.
+    ▪ At this level of maturity, the “requirements-driven” nature of performing the control is focused on a localized and/or regionalized implementation, not uniform and consistent across the organization.
+    ▪ Requirements are narrowly scoped for applicability and are primarily derived from compliance obligations (e.g., laws, regulations and contracts).
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: |-
+    Data Classification & Handling (DCH) capabilities are standardized across the entity for applicability to People, Processes, Technologies, Data and/or Facilities (PPTDF) to ensure consistency for Technology Assets, Applications, Services and/or Data (TAASD). Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Policies and standards associated with DCH domain capabilities are formally documented and centrally-managed by the entity's Governance, Risk & Compliance (GRC) team, or similar function.
+    ▪ Standardized Operating Procedures (SOP) associated with DCH domain capabilities are well-documented and kept current by process owners.
+    ▪ A Governance, Risk & Compliance (GRC) team, or similar function, is appropriately staffed and supported to implement and maintain DCH domain capabilities.
+    ▪ Technology is leveraged to enhance the efficiency and accuracy of data classification and handling operations (e.g., GRC platform).
+    ▪ The entity's Governance, Risk & Compliance (GRC) team, or similar function, works with business stakeholders and process owners to appropriately scope and reasonably implement cybersecurity and data protection controls associated with DCH domain capabilities to address Minimum Compliance Requirements (MCR) (e.g., applicable statutory, regulatory and/or contractual requirements) and Discretionary Security Requirements (DSR) (e.g., entity-required controls).
+    ▪ An implemented and operational capability exists to check for Redundant, Obsolete/Outdated, Toxic or Trivial (ROTT) data to ensure the accuracy, relevance, timeliness, impact, completeness and de-identification of information throughout the information lifecycle.
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: |-
+    Data Classification & Handling (DCH) capabilities, in addition to being standardized across the entity and centrally managed to ensure consistency across Technology Assets, Applications, Services and/or Data (TAASD), efforts are metrics driven to provide sufficient insight for decision makers to predict optimal performance, ensure continued operations and/or identify areas for improvement. Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Applicable SCR-CMM Level 3 (Well Defined) capabilities are implemented and operational.
+    ▪ Metrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).
+    ▪ Metrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).
+    ▪ Scope of metrics, KPIs and KRIs covers organization-wide cybersecurity and data protection controls, including functions performed by third-parties.
+    ▪ Organizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).
+    ▪ Based on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.
+    ▪ Business and technical stakeholders are involved in reviewing and approving proposed changes to evolve capabilities.
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: |-
+    Data Classification & Handling (DCH) capabilities, in addition to being standardized across the entity and centrally managed to ensure consistency across Technology Assets, Applications, Services and/or Data (TAASD), efforts are metrics driven to provide sufficient insight for decision makers to predict optimal performance, ensure continued operations and/or identify areas for improvement. Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Applicable SCR-CMM Level 3 (Well Defined) capabilities are implemented and operational.
+    ▪ Based on predictive analysis, process improvements are implemented according to “continuous improvement” practices that affect process changes.
+    ▪ Stakeholders make time-sensitive decisions to support operational efficiency, which may include automated remediation actions via Artificial Intelligence (AI) or Machine Learning (ML) technologies.
+  available: true
+  value: 5

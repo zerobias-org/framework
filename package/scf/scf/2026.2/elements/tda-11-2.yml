@@ -1,0 +1,42 @@
+id: 11c77c72-c97b-4bb3-a52c-c80503a239d9
+name: Component Disposal
+description: |-
+  [deprecated - incorporated into AST-09]
+  Mechanisms exist to dispose of system components using organization-defined techniques and methods to prevent such components from entering the gray market.
+elementType: enhancement
+externalId: TDA-11.2
+parent: tda-11
+controlQuestion: |-
+  [deprecated - incorporated into AST-09]
+  Does the organization dispose of system components using organization-defined techniques and methods to prevent such components from entering the gray market?
+functionGrouping: N/A
+cmm_0:
+  name: Not Performed
+  description: N/A
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: N/A
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: N/A
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: N/A
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: N/A
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: N/A
+  available: true
+  value: 5

@@ -1,0 +1,65 @@
+id: 27aa216c-f2e9-4e01-b1a6-7286a0c4e3e8
+name: Define Control Objectives
+description: Mechanisms exist to establish control objectives as the basis for the selection, implementation and management of the organization's internal security, compliance and resilience control system.
+elementType: control
+externalId: GOV-09
+parent: gov
+controlQuestion: Does the organization establish control objectives as the basis for the selection, implementation and management of its internal security, compliance and resilience control system?
+functionGrouping: Govern
+controlWeighting: '5'
+cmm_0:
+  name: Not Performed
+  description: Practices are non-existent, based on the inability to demonstrate an implemented and operational capability. A reasonable person would conclude the control is not being performed.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: |-
+    Cybersecurity & Data Protection Governance (GOV) domain capabilities are ad hoc and inconsistent. Capability criteria associated with this control may include:
+    ▪ Policies, standards & procedures associated with GOV domain capabilities provide limited coverage due to the depth and breadth of the existing documentation.
+    ▪ Governance-related activities are decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.
+    ▪ No formal Governance, Risk & Compliance (GRC) team exists. GRC roles are assigned to existing IT/cybersecurity personnel.
+    ▪ Cybersecurity and data protection governance is informally assigned as an additional duty to existing IT/cybersecurity personnel.
+    ▪ Cybersecurity and data privacy governance practices are informally assigned as an additional duty to existing IT/cybersecurity personnel.
+    ▪ IT /cyber engineering governance is decentralized, with the responsibility for implementing and testing cybersecurity and data protection controls being assigned to the business process owner(s), including the definition and enforcement of roles and responsibilities.
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: |-
+    Cybersecurity & Data Protection Governance (GOV) capabilities are requirements-driven, but are not standardized across the entity (e.g., local/regional level consistency). Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Policies and standards associated with GOV domain capabilities are formally documented and centrally-managed by the entity.
+    ▪ Standardized Operating Procedures (SOP) associated with GOV domain capabilities are documented and maintained by process owners.
+    ▪ IT and/or cybersecurity personnel work with business stakeholders and process owners to appropriately scope and reasonably implement cybersecurity and data protection controls associated with GOV  domain capabilities to address applicable statutory, regulatory and/or contractual requirements for Technology Assets, Applications, Services and/or Data (TAASD).
+    ▪ Governance-related controls are primarily administrative and preventative in nature (e.g., policies, standards, procedures & guidelines).
+    ▪ No formal Governance, Risk & Compliance (GRC) team exists. GRC roles are assigned to existing IT and/or cybersecurity personnel.
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: |-
+    Cybersecurity & Data Protection Governance (GOV) capabilities are standardized across the entity for applicability to People, Processes, Technologies, Data and/or Facilities (PPTDF) to ensure consistency for Technology Assets, Applications, Services and/or Data (TAASD). Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Policies and standards associated with GOV domain capabilities are formally documented and centrally-managed by the entity's Governance, Risk & Compliance (GRC) team, or similar function.
+    ▪ Standardized Operating Procedures (SOP) associated with GOV domain capabilities are well-documented and kept current by process owners.
+    ▪ The entity's Governance, Risk & Compliance (GRC) team, or similar function, is appropriately staffed and supported to implement and maintain GOV domain capabilities to address Minimum Compliance Requirements (MCR) (e.g., applicable statutory, regulatory and/or contractual requirements) and Discretionary Security Requirements (DSR) (e.g., entity-required controls).
+    ▪ Technology is leveraged to enhance the efficiency and accuracy of governance, risk management and compliance operations (e.g., GRC platform).
+    ▪ An implemented and operational capability exists to  establish control objectives as the basis for the selection, implementation and management of the organization's internal security, compliance and resilience control system.
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: |-
+    Utilize SCR-CMM Level 3 criteria definitions:
+    ▪ There are no defined Level 4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to operationalize this control.
+    ▪ While it may be possible to develop “metrics-driven” capabilities for this control, the criteria would be organization-specific to define.
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: |-
+    Utilize SCR-CMM Level 3 or Level 4 (if available) criteria definitions:
+    ▪ There are no defined Level 5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to operationalize this control.
+    ▪ Level 5 capabilities should be considered “world-class” where the control builds on Level 4 capabilities, but are continuously improving through Artificial Intelligence (AI) and/or Machine Learning (ML) technologies.
+    ▪ While it may be possible to develop responsive capabilities for this control through the use of AI and/or ML technologies, the criteria would be organization-specific to define.
+  available: true
+  value: 5
