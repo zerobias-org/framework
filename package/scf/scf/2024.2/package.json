@@ -27,5 +27,8 @@
     "migrates-from": "@auditlogic/framework-complianceforge-scf-2024.2",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-scf-scf": "latest"
   }
 }

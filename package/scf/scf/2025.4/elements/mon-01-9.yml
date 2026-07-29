@@ -9,31 +9,31 @@ functionGrouping: Detect
 controlWeighting: '8'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to log all Internet-bound requests, in order to identify prohibited activities and assist incident handlers with identifying potentially compromised systems.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
-  available: false
+  description: "Continuous Monitoring (MON) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tGenerating event logs and the review of event logs is narrowly-focused to business-critical systems and/ or systems that store, processes and/ or transmit sensitive/regulated data.\n•\tSecure baseline configurations generate logs that contain sufficient information to establish necessary details of activity and allow for forensics analysis."
+  available: true
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Continuous Monitoring (MON) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tSituational awareness management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tSecure baseline configurations generate logs that contain sufficient information to establish necessary details of activity and allow for forensics analysis.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for situational awareness management.\no\tConfigure alerts for critical or sensitive data that is stored, transmitted and processed on assets.\no\tUse a structured process to review and analyze logs.\n•\tA log aggregator, or similar automated tool, provides an event log report generation capability to aid in detecting and assessing anomalous activities on business-critical systems."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Continuous Monitoring (MON) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function:\no\tGoverns asset management that ensures compliance with requirements for asset management.\no\tLeverages a Configuration Management Database (CMDB), or similar tool, as the authoritative source of IT assets.\n•\tA Security Incident Event Manager (SIEM), or similar automated tool:\no\tCentrally collects logs and is protected according to the manufacturer’s security guidelines to protect the integrity of the event logs with cryptographic mechanisms.\no\tMonitors the organization for Indicators of Compromise (IoC) and provides 24x7x365 near real-time alerting capability.\no\tIs configured to alert incident response personnel of detected suspicious events such that incident responders can look to terminate suspicious events.\n•\tBoth inbound and outbound network traffic is monitored for unauthorized activities to identify prohibited activities and assist incident handlers with identifying potentially compromised systems."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to log all Internet-bound requests, in order to identify prohibited activities and assist incident handlers with identifying potentially compromised systems.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to log all Internet-bound requests, in order to identify prohibited activities and assist incident handlers with identifying potentially compromised systems.
   available: false
   value: 5

@@ -9,31 +9,31 @@ functionGrouping: Respond
 controlWeighting: '5'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to identify classes of incidents and actions to take to ensure the continuation of organizational missions and business functions.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
-  available: false
+  description: "Incident Response (IRO) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT personnel use an informal process to facilitate incident management operations that cover preparation, detection and analysis, containment, eradication and recovery.\n•\tIncident response operations are decentralized."
+  available: true
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Incident Response (IRO) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIncident response operations are decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for incident response operations.\no\tImplement and maintain an incident response capability using a documented and tested Incident Response Plan (IRP) to facilitate incident management operations that cover preparation, detection and analysis, containment, eradication and recovery."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Incident Response (IR) processes are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn Integrated Security Incident Response Team (ISIRT), or similar function, exists to form an on-demand, scalable and integrated team of formally-assigned cybersecurity, IT, data privacy and business function representatives that can perform coordinated incident response.\n•\tThe ISIRT, or similar function, develops and maintains a documented, program-level Integrated Incident Response Program (IIRP) that provides operational and tactical-level guidance for cybersecurity and data privacy response operations.\n•\tA Security Operations Center (SOC), or similar function, facilitates incident management operations that includes preparation, detection and analysis, containment, eradication and recovery.\n•\tBusiness Process Owners (BPOs), in conjunction with the SOC and ISIRT functions, develop and maintain a documented Incident Response Plan (IRP) specific to the business process / business unit but inclusive of the organization's larger approach to incident response operations.\n•\tAn IT Asset Management (ITAM) function, or similar function, categorizes endpoint devices according to the data the asset stores, transmits and/ or processes and provides that information to the SOC for Incident Response Operations (IRO)."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to identify classes of incidents and actions to take to ensure the continuation of organizational missions and business functions.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to identify classes of incidents and actions to take to ensure the continuation of organizational missions and business functions.
   available: false
   value: 5

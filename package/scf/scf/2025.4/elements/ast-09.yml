@@ -9,31 +9,31 @@ functionGrouping: Identify
 controlWeighting: '10'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to securely dispose of, destroy or repurpose system components using organization-defined techniques and methods to prevent information being recovered from these components.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
-  available: false
+  description: "Asset Management (AST) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAsset management is informally assigned as an additional duty to existing IT/cybersecurity personnel.\n•\tAsset inventories are performed in an ad hoc manner.\n•\tSoftware licensing is tracked as part of IT asset inventories.\n•\tData process owners maintain limited network diagrams to document the flow of sensitive/regulated data that is specific to their initiative.\n•\tIT personnel work with data/process owners to help ensure secure practices are implemented throughout the System Development Lifecycle (SDLC) for all high-value projects."
+  available: true
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Asset Management (AST) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAsset management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for asset management.\n•\tAdministrative processes and technologies focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tAsset management is formally assigned as an additional duty to existing IT/cybersecurity personnel.\n•\tTechnology assets are categorized according to data classification and business criticality.\n•\tInventories cover technology assets in scope for statutory, regulatory and/ or contractual compliance, which includes both physical and virtual assets.\n•\tSoftware licensing is tracked as part of IT asset inventories.\n•\tUsers are educated on their responsibilities to protect technology assets assigned to them or under their supervision.\n•\tIT/cybersecurity personnel maintain network diagrams to document the flow of sensitive/regulated data across the network.\n•\tIT personnel collect technology assets and media for destruction when it is no longer needed for business or legal reasons.\n•\tIT personnel perform the destruction of technology assets and media in a secure manner or outsource the destruction to a third-party that specializes in technology assets and media destruction, as well as provides evidence of destruction (e.g., certificate of destruction).\n•\tDevices are escrowed in storage for a period of time before being wiped and reissued, in case data on the devices are needed for investigations or business purposes."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Asset Management (AST) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tAn IT Asset Management (ITAM) function, or similar function, governs asset management to help ensure compliance with requirements for asset management.\n•\tAn ITAM function, or similar function, maintains an inventory of IT assets, covering both physical and virtual assets, as well as centrally managed asset ownership assignments.\n•\tTechnology assets and data are categorized according to data classification and business criticality criteria.\n•\tA Cybersecurity Supply Chain Risk Management (C-SCRM) function oversees supply chain risks including the removal and prevention of certain technology services and/ or equipment designated as supply chain threats by a statutory or regulatory body.\n•\tData/process owners document where sensitive/regulated data is stored, transmitted and processed, generating Data Flow Diagrams (DFDs) and network diagrams to document the flow of data.\n•\tIT personnel perform the destruction of technology assets and media in a secure manner or outsource the destruction to a third-party that specializes in technology assets and media destruction, as well as provides evidence of destruction (e.g., certificate of destruction).\n•\tOrganizational standards exist for users to dispose of, destroy or repurpose system components when it is no longer needed for business or legal reasons.\n•\tThird-party providers ensure world-wide coverage to securely dispose of, destroy or repurpose system components using organization-defined techniques and methods to prevent such components from entering the gray market.\n•\tDevices are escrowed in storage for a period of time before being wiped and reissued, in case data on the devices are needed for investigations or business purposes."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to securely dispose of, destroy or repurpose system components using organization-defined techniques and methods to prevent information being recovered from these components.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to securely dispose of, destroy or repurpose system components using organization-defined techniques and methods to prevent information being recovered from these components.
   available: false
   value: 5

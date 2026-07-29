@@ -1,0 +1,31 @@
+{
+  "name": "@zerobias-org/framework-scf-scf-update",
+  "version": "2.0.0",
+  "description": "Update tool for the SCF Council Secure Controls Framework",
+  "private": true,
+  "license": "ISC",
+  "author": "ZeroBias Organization",
+  "keywords": [
+    "scf",
+    "compliance",
+    "security",
+    "framework"
+  ],
+  "main": "index.ts",
+  "scripts": {
+    "update": "tsx index.ts"
+  },
+  "dependencies": {
+    "@zerobias-org/logger": "^2.0.33",
+    "@zerobias-org/types-core-js": "^1.2.18",
+    "axios": "^1.13.5",
+    "exceljs": "^4.4.0",
+    "js-yaml": "^4.1.1",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^25.2.2",
+    "typescript": "^5.9.3"
+  }
+}

@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '5'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Security Operations (OPS) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function, manages cybersecurity operations that covers preparation, detection and analysis, containment, eradication and recovery.\n•\tProcedures are standardized across the enterprise to ensure uniformity and consistent execution. These Standardized Operating Procedures (SOP) identify and document day-to-day procedures to enable the proper execution of assigned tasks.\n•\tLine of Business (LOB) stakeholders are identified and tasked with documenting business-critical functions in “run books,” or SOPs, to capture the knowledge in documentation form from both a business and technology perspective."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to utilize Security Orchestration, Automation and Response (SOAR) tools to define, prioritize and automate the response to security incidents.
   available: false
   value: 5

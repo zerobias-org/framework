@@ -9,31 +9,31 @@ functionGrouping: Identify
 controlWeighting: '8'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to develop Indicators of Exposure (IOE) to understand the potential attack vectors that attackers could use to attack the organization.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to develop Indicators of Exposure (IOE) to understand the potential attack vectors that attackers could use to attack the organization.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Threat Management (THR) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThreat management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tThe HR department, in conjunction with cybersecurity personnel, helps ensure secure practices are implemented in personnel management operations to help manage threats.\n•\tIT/cybersecurity personnel:\no\tIdentify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for threat management.\no\tSubscribe to threat feeds to maintain situational awareness of emerging threats."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Threat Management (THR) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function:\no\tSubscribes to threat feeds to maintain situational awareness of emerging threats.\no\tDevelops Indicators of Exposure (IOE) to better understand potential attack vectors that attackers could use to attack the organization.\no\tImplements a Threat Awareness Program (TAP) that includes a cross-organization information-sharing capability.\no\tImplements a “threat hunting” capability to actively identify internal threats.\n•\tAn Integrated Security Incident Response Team (ISIRT), or similar function, exists to form an on-demand, integrated team of cybersecurity, IT, data privacy and business function representatives that can execute coordinated incident response operations, including a cross-discipline incident handling capability.\n•\tCybersecurity personnel enable security awareness training on recognizing and reporting potential indicators of insider threat."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
-  available: false
+  description: "Threat Management (THR) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n•\tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n•\tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity and data protection controls, including functions performed by third-parties.\n•\tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n•\tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n•\tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
-  available: false
+  description: "Threat Management (THR) efforts are “world-class” capabilities that leverage predictive analysis (e.g., machine learning, AI, etc.). In addition to CMM Level 4 criteria, CMM Level 5 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tStakeholders make time-sensitive decisions to support operational efficiency, which may include automated remediation actions.\n•\tBased on predictive analysis, process improvements are implemented according to “continuous improvement” practices that affect process changes."
+  available: true
   value: 5

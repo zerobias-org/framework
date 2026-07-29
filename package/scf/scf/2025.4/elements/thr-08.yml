@@ -9,31 +9,31 @@ functionGrouping: Detect
 controlWeighting: '1'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to embed false data or steganographic data in files to enable the organization to determine if data has been exfiltrated and provide a means to identify the individual(s) involved.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to embed false data or steganographic data in files to enable the organization to determine if data has been exfiltrated and provide a means to identify the individual(s) involved.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to embed false data or steganographic data in files to enable the organization to determine if data has been exfiltrated and provide a means to identify the individual(s) involved.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Threat Management (THR) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Security Operations Center (SOC), or similar function:\no\tSubscribes to threat feeds to maintain situational awareness of emerging threats.\no\tDevelops Indicators of Exposure (IOE) to better understand potential attack vectors that attackers could use to attack the organization.\no\tImplements a Threat Awareness Program (TAP) that includes a cross-organization information-sharing capability.\no\tImplements a “threat hunting” capability to actively identify internal threats.\n•\tAn Integrated Security Incident Response Team (ISIRT), or similar function, exists to form an on-demand, integrated team of cybersecurity, IT, data privacy and business function representatives that can execute coordinated incident response operations, including a cross-discipline incident handling capability.\n•\tCybersecurity personnel enable security awareness training on recognizing and reporting potential indicators of insider threat."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to embed false data or steganographic data in files to enable the organization to determine if data has been exfiltrated and provide a means to identify the individual(s) involved.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to embed false data or steganographic data in files to enable the organization to determine if data has been exfiltrated and provide a means to identify the individual(s) involved.
   available: false
   value: 5

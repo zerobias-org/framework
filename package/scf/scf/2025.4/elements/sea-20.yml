@@ -9,31 +9,31 @@ functionGrouping: Protect
 controlWeighting: '9'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to utilize time-synchronization technology to synchronize all critical system clocks.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
-  available: false
+  description: "Secure Engineering & Architecture (SEA) efforts are ad hoc and inconsistent. CMM Level 1 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT personnel use an informal process to design, build and maintain secure solutions.\n•\tIT /cyber engineering governance is decentralized, with the responsibility for implementing and testing cybersecurity and data protection controls being assigned to the business process owner(s), including the definition and enforcement of roles and responsibilities."
+  available: true
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Secure Engineering & Architecture (SEA) efforts are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tArchitecture/engineering management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tA Change Advisory Board (CAB), or similar function, exists to govern changes to systems, applications and services, ensuring their stability, reliability and predictability.\n•\tAdministrative processes and technologies focus on protecting High Value Assets (HVAs), including environments where sensitive/regulated data is stored, transmitted and processed.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls to address applicable statutory, regulatory and contractual requirements for architecture/engineering management.\n•\tIT personnel implement secure engineering practices to protect the confidentiality, integrity, availability and safety of the organization's technology assets, data and network(s).\n•\tTechnologies are configured to protect data with the strength and integrity commensurate with the classification or sensitivity of the information and mostly conform to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides), including cryptographic protections for sensitive/regulated data."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Secure Engineering & Architecture (SEA) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tIT/cybersecurity architects, or a similar function, enable the implementation a “layered defense” network architecture that enables a resilient defense-in-depth approach through the use of industry-recognized cybersecurity and data privacy practices in the specification, design, development, implementation and modification of systems and services (e.g., DISA STIGs, CIS Benchmarks or OEM security guides).\n•\tIT/cybersecurity engineers, or a similar function, operationalize enterprise architecture, aligned with industry-recognized leading practices, with consideration for cybersecurity and data privacy principles, including resiliency expectations, that addresses risk to organizational operations, assets, individuals, other organizations.\n•\tA Validated Architecture Design Review (VADR), or similar process, is used to evaluate design criteria for secure practices and conformance with requirements for applicable statutory, regulatory and contractual controls to determine if the system/application/service is designed, built and operated in a secure and resilient manner.\n•\tA Change Advisory Board (CAB), or similar function, governs changes to systems, applications and services to ensure their stability, reliability and predictability.\n•\tA formal Change Management (CM) program helps to ensure that no unauthorized changes are made, all changes are documented, services are not disrupted and resources are used efficiently.\n•\tAn Identity & Access Management (IAM) function, or similar function, enables the implementation of identification and access management controls for “least privileges” practices, allowing for the management of user, group and system accounts, including privileged accounts.\n•\tAn IT Asset Management (ITAM) function, or similar function, categorizes assets according to the data the asset stores, transmits and/ or processes and applies the appropriate technology controls to protect the asset and data."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
-  available: false
+  description: "Secure Engineering & Architecture (SEA) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n•\tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n•\tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity and data protection controls, including functions performed by third-parties.\n•\tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n•\tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n•\tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to utilize time-synchronization technology to synchronize all critical system clocks.
   available: false
   value: 5

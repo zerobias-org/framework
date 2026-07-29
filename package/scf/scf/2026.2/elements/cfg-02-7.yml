@@ -1,0 +1,70 @@
+id: 12f86c6a-9b2b-43dd-9b16-221d92dba230
+name: Approved Configuration Deviations
+description: Mechanisms exist to document, assess risk and approve or deny deviations to standardized configurations.
+elementType: enhancement
+externalId: CFG-02.7
+parent: cfg-02
+controlQuestion: Does the organization document, assess risk and approve or deny deviations to standardized configurations?
+functionGrouping: Protect
+controlWeighting: '9'
+cmm_0:
+  name: Not Performed
+  description: Practices are non-existent, based on the inability to demonstrate an implemented and operational capability. A reasonable person would conclude the control is not being performed.
+  available: true
+  value: 0
+cmm_1:
+  name: Performed Informally
+  description: |-
+    SCR-CMM Level 1 criteria definitions are not available for this control:
+    ▪ A reasonable person would conclude this control requires a structured process.
+    ▪ At this level of maturity, the "ad hoc" nature of performing a capability informally would indicate the intent of the control is not met due to a lack of consistency and formality.
+  available: true
+  value: 1
+cmm_2:
+  name: Planned & Tracked
+  description: |-
+    Configuration Management (CFG) capabilities are requirements-driven, but are not standardized across the entity (e.g., local/regional level consistency). Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Policies and standards associated with CFG domain capabilities are formally documented and centrally-managed by the entity.
+    ▪ Standardized Operating Procedures (SOP) associated with CFG domain capabilities are documented and maintained by process owners.
+    ▪ IT and/or cybersecurity personnel work with business stakeholders and process owners to appropriately scope and reasonably implement cybersecurity and data protection controls associated with CFG  domain capabilities to address applicable statutory, regulatory and/or contractual requirements for Technology Assets, Applications, Services and/or Data (TAASD).
+    ▪ Configuration management-related controls are primarily administrative and preventative in nature (e.g., policies, standards, procedures & guidelines).
+    ▪ Configuration management may be a defined function (e.g., team or department) or assigned as an additional duty to existing IT and/or cybersecurity personnel.
+    ▪ Secure Baseline Configurations (SBC) are used to configure Technology Assets, Applications and/or Services (TAAS) according to the principles of least functionality and least privilege, mostly conforming to industry-recognized standards for hardening (e.g., DISA STIGs, CIS Benchmarks or OEM security guides).
+    ▪ Any deviations from approved baseline configurations are reviewed, approved and documented on a case-by-case basis by IT and/or cybersecurity personnel.
+    ▪ Deviations to baseline configurations are required to have a risk assessment and the business process owner's acceptance of the risk(s) associated with the deviation.
+  available: true
+  value: 2
+cmm_3:
+  name: Well Defined
+  description: |-
+    Configuration Management (CFG) capabilities are standardized across the entity for applicability to People, Processes, Technologies, Data and/or Facilities (PPTDF) to ensure consistency for Technology Assets, Applications, Services and/or Data (TAASD). Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Policies and standards associated with CFG domain capabilities are formally documented and centrally-managed by the entity's Governance, Risk & Compliance (GRC) team, or similar function.
+    ▪ Standardized Operating Procedures (SOP) associated with CFG domain capabilities are well-documented and kept current by process owners.
+    ▪ A configuration management team, or similar function, is appropriately staffed and supported to implement and maintain CFG domain capabilities.
+    ▪ Technology is leveraged to enhance the efficiency and accuracy of configuration management operations (e.g., Configuration Management Database (CMBD) Asset Management solution).
+    ▪ The entity's Governance, Risk & Compliance (GRC) team, or similar function, works with business stakeholders and process owners to appropriately scope and reasonably implement cybersecurity and data protection controls associated with CFG domain capabilities to address Minimum Compliance Requirements (MCR) (e.g., applicable statutory, regulatory and/or contractual requirements) and Discretionary Security Requirements (DSR) (e.g., entity-required controls).
+    ▪ An implemented and operational capability exists to document, assess risk and approve or deny deviations to standardized configurations.
+  available: true
+  value: 3
+cmm_4:
+  name: Quantitatively Controlled
+  description: |-
+    Configuration Management (CFG) capabilities, in addition to being standardized across the entity and centrally managed to ensure consistency across Technology Assets, Applications, Services and/or Data (TAASD), efforts are metrics driven to provide sufficient insight for decision makers to predict optimal performance, ensure continued operations and/or identify areas for improvement. Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Applicable SCR-CMM Level 3 (Well Defined) capabilities are implemented and operational.
+    ▪ Metrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).
+    ▪ Metrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).
+    ▪ Scope of metrics, KPIs and KRIs covers organization-wide cybersecurity and data protection controls, including functions performed by third-parties.
+    ▪ Organizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).
+    ▪ Based on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.
+    ▪ Business and technical stakeholders are involved in reviewing and approving proposed changes to evolve capabilities.
+  available: true
+  value: 4
+cmm_5:
+  name: Continuously Improving
+  description: |-
+    Configuration Management (CFG) capabilities, in addition to being standardized across the entity and centrally managed to ensure consistency across Technology Assets, Applications, Services and/or Data (TAASD), efforts are metrics driven to provide sufficient insight for decision makers to predict optimal performance, ensure continued operations and/or identify areas for improvement. Capability criteria associated with this control reasonably expect the following criteria to exist:
+    ▪ Applicable SCR-CMM Level 3 (Well Defined) capabilities are implemented and operational.
+    ▪ Based on predictive analysis, process improvements are implemented according to “continuous improvement” practices that affect process changes.
+    ▪ Stakeholders make time-sensitive decisions to support operational efficiency, which may include automated remediation actions via Artificial Intelligence (AI) or Machine Learning (ML) technologies.
+  available: true
+  value: 5

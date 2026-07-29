@@ -9,31 +9,31 @@ functionGrouping: Detect
 controlWeighting: '7'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to centrally-monitor and alert on the operating state and health status of critical Technology Assets, Applications and/or Services (TAAS).
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to centrally-monitor and alert on the operating state and health status of critical Technology Assets, Applications and/or Services (TAAS).
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
-  available: false
+  description: "Capability & Performance Planning (CAP) are requirements-driven and governed at a local/regional level, but are not consistent across the organization. CMM Level 2 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tCapacity management is decentralized (e.g., a localized/regionalized function) and uses non-standardized methods to implement secure, resilient and compliant practices.\n•\tIT/cybersecurity personnel identify cybersecurity and data protection controls that are appropriate to address applicable statutory, regulatory and contractual requirements for capability management.\n•\tIT personnel work with:\no\tBusiness stakeholders to identify business-critical systems and services.\no\tBusiness stakeholders to identify single points of failure from a system/applications/services perspective.\n•\tIT infrastructure personnel:\no\tCreate and maintain infrastructure performance metrics to understand current resource needs.\no\tDeploy preventative technologies to minimize the effect of Denial of Service (DoS) attacks against business-critical services."
+  available: true
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Capability & Performance Planning (CAP) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tThe Chief Information Security Officer (CISO), or similar function with technical competence to address cybersecurity concerns, analyzes the organization's business strategy to provide guidance for capacity and performance planning practices.\n•\tThe CISO, or similar function, develops a security-focused Concept of Operations (CONOPS) that documents management, operational and technical measures to apply defense-in-depth techniques across the organization. This CONOPS for capacity and performance planning may be incorporated as part of a broader operational plan for the cybersecurity and data privacy program.\n•\tA Governance, Risk & Compliance (GRC) team, or similar function, provides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity and data protection controls to protect the confidentiality, integrity, availability and safety of the organization's applications, systems, services and data.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity and data privacy program and establishes a clear and authoritative accountability structure for capacity and performance planning operations.\n•\tIT personnel work with business stakeholders to identify business-critical systems and services, as part of the organization's IT Asset Management (ITAM) program.\n•\tAutomated tools continuously monitor the operating state and health status of systems/applications/services.\n•\tBusiness stakeholders conduct a Business Impact Analysis (BIA) to determine acceptable downtime constraints and any dependencies between applications or systems, to objectively determine the criticality of systems, applications or services, as well as the order is which systems need to be restored.\n•\tDemand is managed for computing resources based on BIA-defined prioritization.\n•\tBased on BIA results, IT infrastructure personnel deploy preventative technologies to minimize the effect of Denial of Service (DoS) attacks.\n•\tIT architects identify appropriate solutions to make sure service levels can be met.\n•\tIT infrastructure personnel:\no\tCreate an annual infrastructure growth plan with input from both technology and business stakeholders.\no\tCreate and maintain infrastructure performance metrics to understand current resource needs.\no\tProduce a capacity plan that covers current use, forecasted needs and support costs for new Technology Assets, Applications and/or Services (TAAS).\n•\tAutomated tools continuously monitor the operating state and health status of Technology Assets, Applications and/or Services (TAAS) to expand the availability of resources, as demand conditions change.\n•\tIT personnel work with business stakeholders to identify single points of failure from a system/applications/services perspective."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
-  available: false
+  description: "Capability & Performance Planning (CAP) efforts are metrics driven and provide sufficient management insight (based on a quantitative understanding of process capabilities) to predict optimal performance, ensure continued operations and identify areas for improvement. In addition to CMM Level 3 criteria, CMM Level 4 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tMetrics reporting includes quantitative analysis of Key Performance Indicators (KPIs).\n•\tMetrics reporting includes quantitative analysis of Key Risk Indicators (KRIs).\n•\tScope of metrics, KPIs and KRIs covers organization-wide cybersecurity and data protection controls, including functions performed by third-parties.\n•\tOrganizational leadership maintains a formal process to objectively review and respond to metrics, KPIs and KRIs (e.g., monthly or quarterly review).\n•\tBased on metrics analysis, process improvement recommendations are submitted for review and are handled in accordance with change control processes.\n•\tBoth business and technical stakeholders are involved in reviewing and approving proposed changes."
+  available: true
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to centrally-monitor and alert on the operating state and health status of critical Technology Assets, Applications and/or Services (TAAS).
   available: false
   value: 5

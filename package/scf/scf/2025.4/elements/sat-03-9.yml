@@ -9,31 +9,31 @@ functionGrouping: Identify
 controlWeighting: '1'
 cmm_0:
   name: Not Performed
-  description: ''
-  available: false
+  description: There is no evidence of a capability to provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor.
+  available: true
   value: 0
 cmm_1:
   name: Performed Informally
-  description: ''
+  description: C|P-CMM1 is N/A, since a structured process is required to provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor.
   available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: ''
+  description: C|P-CMM2 is N/A, since a well-defined process is required to provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor.
   available: false
   value: 2
 cmm_3:
   name: Well Defined
-  description: ''
-  available: false
+  description: "Security Awareness & Training (SAT) efforts are standardized across the organization and centrally managed, where technically feasible, to ensure consistency. CMM Level 3 control maturity would reasonably expect all, or at least most, the following criteria to exist:\n•\tA Governance, Risk & Compliance (GRC) function, or similar function:\no\tProvides governance oversight for the implementation of applicable statutory, regulatory and contractual cybersecurity and data protection controls to protect the confidentiality, integrity, availability and safety of the organization's applications, systems, services and data with regards to security awareness and training.\no\tDefines minimum cybersecurity training (including certifications) for personnel, based on their specific roles.\no\tCreates/governs security and awareness training to meet specific statutory, regulatory and/ or contractual compliance obligations.\n•\tA steering committee is formally established to provide executive oversight of the cybersecurity and data privacy program, including security awareness and training.\n•\tSecurity awareness and training methods are role-based (e.g., handling sensitive/regulated data).\n•\tThe Human Resources (HR) department:\no\tIdentifies and implements industry-recognized HR practices related to security workforce development and awareness to help ensure secure practices are implemented in personnel management operations.\no\tDocuments, retains and monitors individual training activities, including basic security awareness training, ongoing awareness training and specific-system training.\no\tEnsures that every user accessing a system processing, storing or transmitting sensitive/regulated data is formally trained in data handling requirements.\no\tEnsures all employees and contractors receive awareness education and training that is relevant for their job function, including social engineering-related threats.\n•\tCybersecurity and/ or data privacy personnel receive necessary Continuing Professional Education (CPE) training to maintain currency and proficiency with industry-recognized secure practices pertinent to their assigned roles and responsibilities.\n•\tApplication development and operations (DevOps) personnel receive CPE training on Secure Software Development Practices (SSDP) to appropriately address evolving threats."
+  available: true
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: ''
+  description: See C|P-CMM3. There are no defined C|P-CMM4 criteria, since it is reasonable to assume a quantitatively-controlled process is not necessary to provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor.
   available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: ''
+  description: See C|P-CMM4. There are no defined C|P-CMM5 criteria, since it is reasonable to assume a continuously-improving process is not necessary to provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor.
   available: false
   value: 5

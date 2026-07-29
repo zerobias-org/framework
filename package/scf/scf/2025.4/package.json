@@ -27,5 +27,8 @@
     "migrates-from": "@zerobias-org/framework-complianceforge-scf-2025.4",
     "import-artifact": "framework",
     "dataloader-version": "1.0.0"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-scf-scf": "latest"
   }
 }
