@@ -207,7 +207,7 @@ class SCFUpdater {
     const indexFile: SCFFrameworkIndex = {
       id: frameworkId,
       name: `Secure Controls Framework ${scfData.version}`,
-      description: `ComplianceForge Secure Controls Framework ${scfData.version}`,
+      description: `SCF Council Secure Controls Framework ${scfData.version}`,
       externalId: `SCF-${scfData.version}`,
       code: `scf_${scfData.version.replace(/\./g, '_')}`,
       status: 'approved',
@@ -301,12 +301,14 @@ class SCFUpdater {
         methodsToComply: control['Methods To Comply With SCF Controls']?.trim(),
         functionGrouping: control['NIST CSF\nFunction Grouping']?.trim(),
         controlWeighting: control['Relative Control Weighting']?.trim(),
-        cmm_0: this.createMaturityLevel(0, control['C|P-CMM 0\nNot Performed']),
-        cmm_1: this.createMaturityLevel(1, control['C|P-CMM 1\nPerformed Informally']),
-        cmm_2: this.createMaturityLevel(2, control['C|P-CMM 2\nPlanned & Tracked']),
-        cmm_3: this.createMaturityLevel(3, control['C|P-CMM 3\nWell Defined']),
-        cmm_4: this.createMaturityLevel(4, control['C|P-CMM 4\nQuantitatively Controlled']),
-        cmm_5: this.createMaturityLevel(5, control['C|P-CMM 5\nContinuously Improving'])
+        // `cmm_n` are normalized by ExcelParser.resolveCmmColumns — the upstream
+        // column headers have been renamed twice and can't be relied on here.
+        cmm_0: this.createMaturityLevel(0, control['cmm_0']),
+        cmm_1: this.createMaturityLevel(1, control['cmm_1']),
+        cmm_2: this.createMaturityLevel(2, control['cmm_2']),
+        cmm_3: this.createMaturityLevel(3, control['cmm_3']),
+        cmm_4: this.createMaturityLevel(4, control['cmm_4']),
+        cmm_5: this.createMaturityLevel(5, control['cmm_5'])
       };
       
       elements.push(element);
@@ -325,14 +327,26 @@ class SCFUpdater {
       'Continuously Improving'
     ];
     
-    const isAvailable = Boolean(description && !description.includes(`CMM${level} is N/A`) && !description.includes(`CMM ${level} is N/A`));
-    
     return {
       name: levelNames[level] || `Level ${level}`,
       description: this.sanitizeCMMDescription(description || ''),
-      available: isAvailable,
+      available: this.isLevelAvailable(level, description || ''),
       value: level
     };
+  }
+
+  // SCF marks a maturity level inapplicable either explicitly ("CMM5 is N/A")
+  // or by stating no criteria exist ("There are no defined C|P-CMM5 criteria",
+  // "no defined SCR-CMM Level 5 criteria"). Match both, prefix-agnostically.
+  private isLevelAvailable(level: number, description: string): boolean {
+    if (!description) return false;
+
+    const notApplicable = [
+      new RegExp(`CMM\\s*(?:Level\\s*)?${level}\\s+is\\s+N/A`, 'i'),
+      new RegExp(`no defined[^.]*CMM\\s*(?:Level\\s*)?${level}\\s+criteria`, 'i')
+    ];
+
+    return !notApplicable.some(pattern => pattern.test(description));
   }
 
   private sanitizeCMMDescription(description: string): string {

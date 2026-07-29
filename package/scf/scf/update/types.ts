@@ -38,11 +38,13 @@ export interface SCFDomainData {
   'Principle Intent': string;
 }
 
-// Keys are the literal SCF workbook column headers (embedded newlines and all).
-// SCF renamed the maturity columns SP-CMM -> C|P-CMM as of 2024.x, and dropped
-// "Methods To Comply With SCF Controls" as of 2025.4 in favour of the per-firm-size
-// "Possible Solutions & Considerations" columns — both stay optional so older
-// cached workbooks still parse.
+// Keys are the literal SCF workbook column headers (embedded newlines and all),
+// except the `cmm_n` fields which ExcelParser.resolveCmmColumns normalizes.
+// SCF renamed the maturity columns twice — SP-CMM n -> C|P-CMM n (2024.x) ->
+// SCR-CMM Level n (2026.2) — so they are matched by level number, not name.
+// "Methods To Comply With SCF Controls" was dropped in 2025.4 in favour of the
+// per-firm-size "Possible Solutions & Considerations" columns, so it stays
+// optional and older cached workbooks still parse.
 export interface SCFControlData {
   'SCF Domain': string;
   'SCF Control': string;
@@ -53,12 +55,12 @@ export interface SCFControlData {
   'SCF Control Question': string;
   'Relative Control Weighting': string;
   'NIST CSF\nFunction Grouping': string;
-  'C|P-CMM 0\nNot Performed': string;
-  'C|P-CMM 1\nPerformed Informally': string;
-  'C|P-CMM 2\nPlanned & Tracked': string;
-  'C|P-CMM 3\nWell Defined': string;
-  'C|P-CMM 4\nQuantitatively Controlled': string;
-  'C|P-CMM 5\nContinuously Improving': string;
+  cmm_0?: string;
+  cmm_1?: string;
+  cmm_2?: string;
+  cmm_3?: string;
+  cmm_4?: string;
+  cmm_5?: string;
   [key: string]: string | undefined; // For dynamic framework mappings
 }
 

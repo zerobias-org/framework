@@ -230,6 +230,34 @@ export class ExcelParser {
     return domains;
   }
 
+  // SCF has renamed the maturity columns twice — "SP-CMM n" -> "C|P-CMM n"
+  // (2024.x) -> "SCR-CMM Level n" (2026.2). Because the column template matched
+  // on the literal prefix, every rename silently emptied all six cmm_* blocks
+  // for every control instead of failing. Resolve by level number so the next
+  // rename is a no-op, and normalize onto stable `cmm_0`..`cmm_5` keys.
+  private resolveCmmColumns(headers: any[]): Map<number, number> {
+    const columns = new Map<number, number>();
+
+    for (let i = 0; i < headers.length; i++) {
+      const header = String(headers[i] || '');
+      const match = header.match(/CMM\D{0,10}([0-5])\b/i);
+      if (!match) continue;
+
+      const level = Number(match[1]);
+      if (!columns.has(level)) columns.set(level, i);
+    }
+
+    const missing = [0, 1, 2, 3, 4, 5].filter(l => !columns.has(l));
+    if (missing.length > 0) {
+      logger.warning(
+        `Could not locate CMM columns for level(s) ${missing.join(', ')} — ` +
+        'upstream likely renamed them again; generated elements will have empty maturity blocks'
+      );
+    }
+
+    return columns;
+  }
+
   private processControlData(rawData: any[][]): SCFControlData[] {
     if (rawData.length === 0) return [];
 
@@ -237,6 +265,7 @@ export class ExcelParser {
     if (headerRow === -1) throw new Error('Control header row not found');
 
     const headers = rawData[headerRow];
+    const cmmColumns = this.resolveCmmColumns(headers);
     const controls: SCFControlData[] = [];
 
     for (let i = headerRow + 1; i < rawData.length; i++) {
@@ -252,14 +281,14 @@ export class ExcelParser {
         'Evidence Request List (ERL) #': '',
         'SCF Control Question': '',
         'Relative Control Weighting': '',
-        'NIST CSF\nFunction Grouping': '',
-        'C|P-CMM 0\nNot Performed': '',
-        'C|P-CMM 1\nPerformed Informally': '',
-        'C|P-CMM 2\nPlanned & Tracked': '',
-        'C|P-CMM 3\nWell Defined': '',
-        'C|P-CMM 4\nQuantitatively Controlled': '',
-        'C|P-CMM 5\nContinuously Improving': ''
+        'NIST CSF\nFunction Grouping': ''
       }) as SCFControlData;
+
+      // Maturity columns are resolved positionally, not by header name.
+      for (const [level, column] of cmmColumns) {
+        const value = String(row[column] ?? '').trim();
+        if (value) control[`cmm_${level}`] = value;
+      }
 
       if (control['SCF #'] && control['SCF Control']) {
         controls.push(control);
