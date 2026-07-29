@@ -19,11 +19,18 @@ import {
 
 const logger = LoggerEngine.root().get('scf-updater');
 
+// Framework packages are depth-4: package/<authority>/<framework>/<version>/.
+// This updater lives at package/scf/scf/update/, so its sibling directories
+// are the generated version packages. AUTHORITY/FRAMEWORK drive the npm name
+// and zerobias.package triangulation the gate validator enforces.
+const AUTHORITY = 'scf';
+const FRAMEWORK = 'scf';
+
 const CONFIG: SCFUpdateConfig = {
   githubRepo: 'securecontrolsframework/securecontrolsframework',
   githubApiUrl: 'https://api.github.com',
   localCachePath: path.join(process.cwd(), 'cache'),
-  elementsPath: path.join(process.cwd(), '../'), // Will be updated dynamically per version
+  elementsPath: path.join(process.cwd(), '../'), // package/scf/scf/ — version dir appended per run
   timeout: 60000, // 60 seconds
   retryAttempts: 3,
   retryDelay: 2000 // 2 seconds
@@ -170,8 +177,8 @@ class SCFUpdater {
     // Copy .npmrc from root
     await this.copyNpmrc(versionDir);
 
-    // Install dependencies
-    await this.runNpmInstall(versionDir);
+    // Drop the gradle marker so zbb discovers the package
+    await this.createGradleMarker(versionDir);
 
     // Process domains
     const domainElements = this.processDomains(scfData.domains);
@@ -185,10 +192,13 @@ class SCFUpdater {
     
     // Clean up orphaned elements
     await this.cleanupOrphanedElements(allElements.map(e => e.externalId), elementsDir);
-    
-    await this.validatePackage(versionDir);
-    
+
+    // Validation is the gradle gate's job — `./gradlew :scf:scf:<v>:gate` runs
+    // validateContent (file-shape + repo-wide unique ids) and the dataloader
+    // integration test. The daily-update workflow gates every changed package
+    // after this tool runs; the lerna-era `npm run validate` no longer exists.
     logger.info(`Created SCF ${scfData.version} package at: ${versionDir}`);
+    logger.info(`Next: ./gradlew :${AUTHORITY}:${FRAMEWORK}:${scfData.version}:gate`);
     
     return allElements.length;
   }
@@ -336,21 +346,26 @@ class SCFUpdater {
   }
 
   private async createPackageJson(scfData: SCFProcessedData, versionDir: string): Promise<void> {
+    // Shape must satisfy the gate validator's filesystem <-> npm-name <->
+    // zerobias.package triangulation (see root build.gradle.kts):
+    //   dir              package/<a>/<f>/<v>/
+    //   npm name         @zerobias-org/framework-<a>-<f>-<v>
+    //   zerobias.package <a>.<f>.<v_>.framework   (dots -> underscores)
+    const packageVersion = scfData.version.replace(/\./g, '_');
     const packageJson = {
-      name: `@zerobias-org/framework-complianceforge-scf-${scfData.version}`,
+      name: `@zerobias-org/framework-${AUTHORITY}-${FRAMEWORK}-${scfData.version}`,
       version: "1.0.0",
-      description: `ComplianceForge SCF ${scfData.version} Controls`,
+      description: `Secure Controls Framework ${scfData.version} Controls`,
       author: "team@zerobias.com",
       license: "ISC",
+      type: "module",
       repository: {
         type: "git",
         url: "git@github.com:zerobias-org/framework.git",
-        directory: `package/complianceforge/scf/${scfData.version}/`
+        directory: `package/${AUTHORITY}/${FRAMEWORK}/${scfData.version}/`
       },
-      zerobias: {
-        package: `complianceforge.scf.${scfData.version.replace(/\./g, '_')}.framework`,
-        "import-artifact": "framework",
-        "dataloader-version": "1.0.0"
+      scripts: {
+        "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
       },
       publishConfig: {
         registry: "https://npm.pkg.github.com/"
@@ -361,17 +376,29 @@ class SCFUpdater {
         "elements/**",
         "mappings/**"
       ],
-      dependencies: {
-        "@zerobias-org/suite-complianceforge-scf": "latest"
+      zerobias: {
+        package: `${AUTHORITY}.${FRAMEWORK}.${packageVersion}.framework`,
+        "import-artifact": "framework",
+        "dataloader-version": "1.0.0"
       },
-      scripts: {
-        "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
-        validate: "tsx ../../../../scripts/validate.ts"
+      dependencies: {
+        [`@zerobias-org/suite-${AUTHORITY}-${FRAMEWORK}`]: "latest"
       }
     };
 
     const packageJsonPath = path.join(versionDir, 'package.json');
-    fs.writeFileSync(packageJsonPath, JSON.stringify(packageJson, null, 2), 'utf8');
+    fs.writeFileSync(packageJsonPath, JSON.stringify(packageJson, null, 2) + '\n', 'utf8');
+  }
+
+  // The zbb pipeline discovers packages by walking for build.gradle.kts markers
+  // (settings.gradle.kts). Without one a freshly generated version is invisible
+  // to :gate and to the publish workflow.
+  private async createGradleMarker(versionDir: string): Promise<void> {
+    const markerPath = path.join(versionDir, 'build.gradle.kts');
+    if (!fs.existsSync(markerPath)) {
+      fs.writeFileSync(markerPath, 'plugins { id("zb.content") }\n', 'utf8');
+      logger.info(`Wrote gradle marker to ${markerPath}`);
+    }
   }
 
   private async saveElementsToFiles(elements: SCFElement[], elementsDir: string): Promise<void> {
@@ -530,35 +557,6 @@ class SCFUpdater {
       }
     } catch (error) {
       logger.error(`Error copying .npmrc: ${String(error)}`);
-    }
-  }
-
-  private async runNpmInstall(versionDir: string): Promise<void> {
-    try {
-      const { exec } = require('child_process');
-      const { promisify } = require('util');
-      const execAsync = promisify(exec);
-
-      logger.info(`Running npm install in ${versionDir}`);
-      await execAsync('npm install', { cwd: versionDir });
-      logger.info('npm install completed successfully');
-    } catch (error) {
-      logger.error(`Error running npm install: ${String(error)}`);
-    }
-  }
-
-  private async validatePackage(versionDir: string): Promise<void> {
-    try {
-      const { exec } = require('child_process');
-      const { promisify } = require('util');
-      const execAsync = promisify(exec);
-      
-      logger.info(`Validating package in ${versionDir}`);
-      await execAsync('npm run validate', { cwd: versionDir });
-      logger.info('Package validation completed successfully');
-    } catch (error) {
-      logger.error(`Package validation failed: ${String(error)}`);
-      throw new Error(`Package validation failed: ${String(error)}`);
     }
   }
 

@@ -38,22 +38,27 @@ export interface SCFDomainData {
   'Principle Intent': string;
 }
 
+// Keys are the literal SCF workbook column headers (embedded newlines and all).
+// SCF renamed the maturity columns SP-CMM -> C|P-CMM as of 2024.x, and dropped
+// "Methods To Comply With SCF Controls" as of 2025.4 in favour of the per-firm-size
+// "Possible Solutions & Considerations" columns — both stay optional so older
+// cached workbooks still parse.
 export interface SCFControlData {
   'SCF Domain': string;
   'SCF Control': string;
   'SCF #': string;
-  'Secure Controls Framework (SCF)\r\nControl Description': string;
+  'Secure Controls Framework (SCF)\nControl Description': string;
   'Methods To Comply With SCF Controls'?: string;
   'Evidence Request List (ERL) #': string;
   'SCF Control Question': string;
   'Relative Control Weighting': string;
-  'NIST CSF\r\nFunction Grouping': string;
-  'SP-CMM 0\r\nNot Performed': string;
-  'SP-CMM 1\r\nPerformed Informally': string;
-  'SP-CMM 2\r\nPlanned & Tracked': string;
-  'SP-CMM 3\r\nWell Defined': string;
-  'SP-CMM 4\r\nQuantitatively Controlled': string;
-  'SP-CMM 5\r\nContinuously Improving': string;
+  'NIST CSF\nFunction Grouping': string;
+  'C|P-CMM 0\nNot Performed': string;
+  'C|P-CMM 1\nPerformed Informally': string;
+  'C|P-CMM 2\nPlanned & Tracked': string;
+  'C|P-CMM 3\nWell Defined': string;
+  'C|P-CMM 4\nQuantitatively Controlled': string;
+  'C|P-CMM 5\nContinuously Improving': string;
   [key: string]: string | undefined; // For dynamic framework mappings
 }
 
