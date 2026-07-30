@@ -29,5 +29,12 @@
   },
   "dependencies": {
     "@zerobias-org/suite-scf-scf": "latest"
+  },
+  "contentLicense": {
+    "license": "CC-BY-ND-4.0",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "source": "https://securecontrolsframework.com/",
+    "copyright": "© Secure Controls Framework Council, LLC",
+    "notice": "NOTICE.md#secure-controls-framework-scf"
   }
 }
