@@ -131,7 +131,7 @@ Use the skill: `/migrate-packages [<a>/<f>/<v>...]`. See [.claude/skills/migrate
 
 ## "Update" sub-packages
 
-Two packages under `package/<a>/<f>/update/` (`opencre/opencre/update`, `complianceforge/scf/update`) are private utility/fetcher packages that pull upstream content and regenerate the framework yaml. They have `"private": true`, their own `update` npm script (`tsx index.ts`), and do NOT carry a gradle marker — `settings.gradle.kts` skips them. The daily-update workflow (`.github/workflows/daily-update.yml`) is the trigger.
+Two packages under `package/<a>/<f>/update/` (`opencre/opencre/update`, `scf/scf/update`) are private utility/fetcher packages that pull upstream content and regenerate the framework yaml. They have `"private": true`, their own `update` npm script (`tsx index.ts`), and do NOT carry a gradle marker — `settings.gradle.kts` skips them. The weekly-update workflow (`.github/workflows/weekly-update.yml`) is the trigger.
 
 ## Branches
 
@@ -153,7 +153,7 @@ Use `!` for major version bumps. Common scopes: `framework-<...>`, `bundle`, `va
 
 Publish workflow: `.github/workflows/publish.yml` — a thin wrapper around `zerobias-org/devops/.github/workflows/zbb-publish-reusable.yml@main`. Triggered on `push` to main/qa/dev/uat (paths: `package/**`, `.github/workflows/publish.yml`) and on `workflow_dispatch` (optional `framework` input). This is the only publish/version/sync workflow — the legacy nx-era `publish-pull-request.yml` and `pull-request-target.yml` were removed in the cleanup (the reusable workflow owns the full version → publish → sync lifecycle).
 
-The one other workflow is `.github/workflows/daily-update.yml` — the upstream-content fetcher that runs the two private `package/**/update/` packages, gates any regenerated/new framework packages via `./gradlew :<path>:gate`, and opens a PR to `main`. It is not part of the publish pipeline.
+The one other workflow is `.github/workflows/weekly-update.yml` — the upstream-content fetcher that runs the two private `package/**/update/` packages, gates any regenerated/new framework packages via `./gradlew :<path>:gate`, and opens a PR to `main`. It runs Mondays at 02:00 UTC (it was named `daily-update` for a long time while the cron said weekly) and is not part of the publish pipeline.
 
 The reusable workflow's jobs:
 1. **detect** — diff to find changed packages
