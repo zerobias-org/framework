@@ -6,9 +6,13 @@ licenses. This file records the attribution those licenses require. It travels
 with the repository; the same notices apply to the npm packages published
 from it.
 
-The `"license"` field in each package's `package.json` describes the packaging
-and build scaffolding, not the framework content. The content licenses below
-govern the substantive framework data.
+Each package declares its content's license in the standard `"license"` field
+of `package.json` — for example `CC-BY-ND-4.0` on the SCF packages and
+`CC-BY-SA-4.0` on the OWASP ones. Where a package still reads `ISC`, that value
+is stale rather than authoritative: it describes only the packaging scaffolding
+and predates this convention, and it is being corrected package by package as
+each takes its next content bump. **The sections below are authoritative for
+every package, whatever its `package.json` currently says.**
 
 ---
 
@@ -132,9 +136,9 @@ endorse this repository or the ZeroBias platform.
   OWASP requirement numbering preserved
 
 **Share-alike:** CC BY-SA 4.0 is a copyleft license. Adaptations of this content
-must themselves be distributed under CC BY-SA 4.0 — the ISC license declared in
-`package.json` covers the packaging scaffolding only and does not relicense the
-OWASP content.
+must themselves be distributed under CC BY-SA 4.0. `owasp/asvs` and `owasp/samm`
+already declare `CC-BY-SA-4.0` in `package.json`; `owasp/llmtop10` still reads
+`ISC` and should be corrected at its next content bump.
 
 ---
 

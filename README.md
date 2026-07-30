@@ -4,7 +4,9 @@ ZeroBias compliance framework artifacts. Each `package/<authority>/<framework>/<
 
 ## Content licensing & attribution
 
-Framework content reproduced from third-party sources is used under those sources' published licenses — see **[NOTICE.md](NOTICE.md)** for the required attributions. In particular, the SCF packages (`package/scf/scf/*`) are [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) content: redistribute verbatim with attribution; never distribute modified versions of the control content. The `"license"` field in each `package.json` covers packaging/scaffolding only, not the framework content.
+Framework content reproduced from third-party sources is used under those sources' published licenses — see **[NOTICE.md](NOTICE.md)** for the required attributions. In particular, the SCF packages (`package/scf/scf/*`) are [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) content: redistribute verbatim with attribution; never distribute modified versions of the control content.
+
+Each package declares its content license in the standard `"license"` field of its `package.json`. Packages still reading `ISC` are stale, not authoritative — that value describes only the packaging scaffolding, and is corrected package by package as each takes its next content bump. **NOTICE.md is authoritative for every package regardless of what its `package.json` currently says.**
 
 [**LICENSE**](LICENSE) covers this repository's own work — tooling, validators, scripts, and package structure. It does not extend to the reproduced content, whose terms are recorded in NOTICE.md and, where a source is more restrictive, govern over it. [**LICENSING_REVIEW.md**](LICENSING_REVIEW.md) records the per-package assessment behind those entries, including which packages are deliberately reduced to identifiers rather than reproducing protected text — **do not backfill text into those**.
 

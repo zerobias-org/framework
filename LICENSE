@@ -29,5 +29,11 @@ terms vary — some are Creative Commons, some are Crown copyright, some
 carry a NoDerivatives or ShareAlike condition — and several are more
 restrictive than this license.
 
-See NOTICE.md for the per-source attribution and license terms. Where the
-two conflict, the source's terms govern the content.
+Each package declares its content's license in the "license" field of its
+package.json. Packages still reading "ISC" are stale rather than
+authoritative and are corrected as each takes its next content bump.
+
+See NOTICE.md for the per-source attribution and license terms. It is
+authoritative for every package regardless of what that package's
+package.json currently says, and where the two conflict, the source's
+terms govern the content.
