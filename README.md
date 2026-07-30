@@ -6,6 +6,8 @@ ZeroBias compliance framework artifacts. Each `package/<authority>/<framework>/<
 
 Framework content reproduced from third-party sources is used under those sources' published licenses — see **[NOTICE.md](NOTICE.md)** for the required attributions. In particular, the SCF packages (`package/scf/scf/*`) are [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) content: redistribute verbatim with attribution; never distribute modified versions of the control content. The `"license"` field in each `package.json` covers packaging/scaffolding only, not the framework content.
 
+[**LICENSE**](LICENSE) covers this repository's own work — tooling, validators, scripts, and package structure. It does not extend to the reproduced content, whose terms are recorded in NOTICE.md and, where a source is more restrictive, govern over it. [**LICENSING_REVIEW.md**](LICENSING_REVIEW.md) records the per-package assessment behind those entries, including which packages are deliberately reduced to identifiers rather than reproducing protected text — **do not backfill text into those**.
+
 ## Authentication
 
 Set `ZB_TOKEN` in your environment to authenticate with the npm registry. Get one from [ZeroBias](https://app.zerobias.com).
