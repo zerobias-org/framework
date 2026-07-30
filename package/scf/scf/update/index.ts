@@ -262,7 +262,7 @@ class SCFUpdater {
         description: domain['Cybersecurity & Data Privacy by Design (C|P) Principles']?.trim() || domain['SCF Domain'].trim(),
         elementType: 'domain',
         externalId: domain['SCF Identifier'].trim(),
-        intent: domain['Principle Intent']?.trim()
+        intent: this.optional(domain['Principle Intent'])
       };
       
       elements.push(element);
@@ -297,10 +297,10 @@ class SCFUpdater {
         elementType: controlCode.includes('.') ? 'enhancement' : 'control',
         externalId: control['SCF #'].trim(),
         parent,
-        controlQuestion: control['SCF Control Question']?.trim(),
-        methodsToComply: control['Methods To Comply With SCF Controls']?.trim(),
-        functionGrouping: control['NIST CSF\nFunction Grouping']?.trim(),
-        controlWeighting: control['Relative Control Weighting']?.trim(),
+        controlQuestion: this.optional(control['SCF Control Question']),
+        methodsToComply: this.optional(control['Methods To Comply With SCF Controls']),
+        functionGrouping: this.optional(control['NIST CSF\nFunction Grouping']),
+        controlWeighting: this.optional(control['Relative Control Weighting']),
         // `cmm_n` are normalized by ExcelParser.resolveCmmColumns — the upstream
         // column headers have been renamed twice and can't be relied on here.
         cmm_0: this.createMaturityLevel(0, control['cmm_0']),
@@ -317,6 +317,17 @@ class SCFUpdater {
     return elements;
   }
 
+  // SCF writes "N/A" into cells that do not apply — most visibly on deprecated
+  // controls (TDA-11.2 in 2026.2). Passed through verbatim it reads as data,
+  // not absence: it broke the dataloader's FunctionGroupingEnum, and produced
+  // maturity blocks claiming available: true with a description of "N/A".
+  // Treat the sentinel as an empty cell everywhere it can appear.
+  private optional(value?: string): string | undefined {
+    const trimmed = value?.trim();
+    if (!trimmed || /^n\/?a$/i.test(trimmed)) return undefined;
+    return trimmed;
+  }
+
   private createMaturityLevel(level: number, description: string): SCFMaturityLevel {
     const levelNames = [
       'Not Performed',
@@ -327,10 +338,12 @@ class SCFUpdater {
       'Continuously Improving'
     ];
     
+    const text = this.optional(description);
+
     return {
       name: levelNames[level] || `Level ${level}`,
-      description: this.sanitizeCMMDescription(description || ''),
-      available: this.isLevelAvailable(level, description || ''),
+      description: text ? this.sanitizeCMMDescription(text) : '',
+      available: text ? this.isLevelAvailable(level, text) : false,
       value: level
     };
   }

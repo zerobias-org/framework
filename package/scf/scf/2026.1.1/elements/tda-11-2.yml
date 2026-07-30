@@ -12,18 +12,18 @@ controlQuestion: |-
 functionGrouping: Protect
 cmm_0:
   name: Not Performed
-  description: N/A
-  available: true
+  description: ''
+  available: false
   value: 0
 cmm_1:
   name: Performed Informally
-  description: N/A
-  available: true
+  description: ''
+  available: false
   value: 1
 cmm_2:
   name: Planned & Tracked
-  description: N/A
-  available: true
+  description: ''
+  available: false
   value: 2
 cmm_3:
   name: Well Defined
@@ -40,11 +40,11 @@ cmm_3:
   value: 3
 cmm_4:
   name: Quantitatively Controlled
-  description: N/A
-  available: true
+  description: ''
+  available: false
   value: 4
 cmm_5:
   name: Continuously Improving
-  description: N/A
-  available: true
+  description: ''
+  available: false
   value: 5
