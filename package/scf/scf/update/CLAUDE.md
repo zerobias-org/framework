@@ -35,7 +35,7 @@ gate does):
 ./gradlew :scf:scf:<version>:gate
 ```
 
-`.github/workflows/daily-update.yml` runs `npm run update` for every
+`.github/workflows/weekly-update.yml` runs `npm run update` for every
 `package/**/update/` package, then gates each changed framework package and
 opens a PR to `main`.
 
