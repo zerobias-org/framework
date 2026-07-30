@@ -3,7 +3,7 @@
   "version": "2.0.1",
   "description": "Secure Controls Framework 2026.1.1 Controls",
   "author": "team@zerobias.com",
-  "license": "ISC",
+  "license": "CC-BY-ND-4.0",
   "type": "module",
   "repository": {
     "type": "git",
@@ -30,12 +30,5 @@
   },
   "dependencies": {
     "@zerobias-org/suite-scf-scf": "latest"
-  },
-  "contentLicense": {
-    "license": "CC-BY-ND-4.0",
-    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
-    "source": "https://securecontrolsframework.com/",
-    "copyright": "© Secure Controls Framework Council, LLC",
-    "notice": "NOTICE.md#secure-controls-framework-scf"
   }
 }
