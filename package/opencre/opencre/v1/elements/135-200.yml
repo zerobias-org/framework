@@ -3,4 +3,15 @@ name: Review of security policies
 description: Review of security policies
 externalId: 135-200
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/12.10.2
+    - PCI DSS/12.10.6
+    - PCI DSS/12.1.2
+    - PCI DSS/12.4.2
+    - PCI DSS/12.4.2.1
+    - PCI DSS/1.2.7
+    - PCI DSS/7.2.5.1
+    - PCI DSS/9.4.1.2
+    - PCI DSS/A3.3.3
 parent: 766-162
