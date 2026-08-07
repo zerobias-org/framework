@@ -1,0 +1,35 @@
+id: c7eb9694-3f08-45b6-a81b-f558be38421d
+name: DoD 8140 Cyber Workforce Qualification Matrix
+description: >-
+  DoD 8140 Cyber Workforce Qualification Program Qualification Matrix for the
+  DoD Cyber Workforce Framework (DCWF), per DoDM 8140.03 (Cyberspace Workforce
+  Qualification and Management Program). Maps foundational qualification
+  options — personnel certifications — to DCWF work roles at Basic,
+  Intermediate, and Advanced proficiency levels. Matrix V2.1, effective
+  2025-09-19. Initial coverage: Work Role 612 (Security Control Assessor),
+  whose Intermediate/Advanced baseline certifications gate CMMC Certified
+  Assessor (CCA) eligibility under 32 CFR 170.11.
+standardType: framework
+standardCategory: cyber
+code: dod_dcwf_v2.1
+externalId: DoD 8140.3 / DCWF
+url: https://public.cyber.mil/wid/dod8140/qualifications-matrices/
+version: v2.1
+status: approved
+external: true
+internal: false
+elementTypes:
+  - id: 20646c68-50e5-4b5f-bd4e-fe58a676629d
+    code: work_role
+    name: Work Role
+    description: DCWF work role
+  - id: 808c0258-4179-439f-a3c2-7970487caca1
+    code: certification
+    name: Certification
+    description: >-
+      Personnel certification accepted as a DoD 8140 foundational
+      qualification option for a DCWF work role at a given proficiency level
+mappingTypes:
+  - certification
+tags: []
+aliases: []
