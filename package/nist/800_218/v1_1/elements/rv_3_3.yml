@@ -4,4 +4,5 @@ name: RV.3.3
 description: Review the software for similar vulnerabilities to eradicate a
   class of vulnerabilities, and proactively fix them rather than waiting for
   external reports.
-elementType: control
+elementType: task
+parent: rv_3

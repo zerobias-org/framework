@@ -3,4 +3,5 @@ externalId: RV.2
 name: Assess, Prioritize, and Remediate Vulnerabilities
 description: Help ensure that vulnerabilities are remediated in accordance with
   risk to reduce the window of opportunity for attackers.
-elementType: control
+elementType: practice
+parent: rv

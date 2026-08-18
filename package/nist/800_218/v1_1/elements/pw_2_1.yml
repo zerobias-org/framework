@@ -5,4 +5,5 @@ description: Have 1) a qualified person (or people) who were not involved with
   the design and/or 2) automated processes instantiated in the toolchain review
   the software design to confirm and enforce that it meets all of the security
   requirements and satisfactorily addresses the identified risk information.
-elementType: control
+elementType: task
+parent: pw_2

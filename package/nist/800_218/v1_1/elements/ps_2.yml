@@ -3,4 +3,5 @@ externalId: PS.2
 name: Provide a Mechanism for Verifying Software Release Integrity
 description: Help software acquirers ensure that the software they acquire is
   legitimate and has not been tampered with.
-elementType: control
+elementType: practice
+parent: ps

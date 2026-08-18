@@ -8,4 +8,5 @@ description: Help identify vulnerabilities so that they can be corrected before
   improves traceability and repeatability. Executable code includes binaries,
   directly executed bytecode and source code, and any other form of code that an
   organization deems executable.
-elementType: control
+elementType: practice
+parent: pw

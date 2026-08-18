@@ -4,4 +4,5 @@ name: RV.3.4
 description: Review the SDLC process, and update it if appropriate to prevent
   (or reduce the likelihood of) the root cause recurring in updates to the
   software or in new software that is created.
-elementType: control
+elementType: task
+parent: rv_3

@@ -3,4 +3,5 @@ externalId: PO.3.3
 name: PO.3.3
 description: Configure tools to generate artifacts of their support of secure
   software development practices as defined by the organization.
-elementType: control
+elementType: task
+parent: po_3

@@ -4,4 +4,5 @@ name: PO.3.1
 description: Specify which tools or tool types must or should be included in
   each toolchain to mitigate identified risks, as well as how the toolchain
   components are to be integrated with each other.
-elementType: control
+elementType: task
+parent: po_3

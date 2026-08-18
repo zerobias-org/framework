@@ -4,4 +4,5 @@ name: PO.2.1
 description: Create new roles and alter responsibilities for existing roles as
   needed to encompass all parts of the SDLC. Periodically review and maintain
   the defined roles and responsibilities, updating them as needed.
-elementType: control
+elementType: task
+parent: po_2

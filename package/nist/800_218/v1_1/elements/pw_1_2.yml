@@ -3,4 +3,5 @@ externalId: PW.1.2
 name: PW.1.2
 description: Track and maintain the software’s security requirements, risks, and
   design decisions.
-elementType: control
+elementType: task
+parent: pw_1

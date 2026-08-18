@@ -6,4 +6,5 @@ description: Ensure that all components of the environments for software
   prevent compromises of the environments or the software being developed or
   maintained within them. Examples of environments for software development
   include development, build, test, and distribution environments.
-elementType: control
+elementType: practice
+parent: po

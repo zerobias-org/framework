@@ -3,4 +3,5 @@ externalId: RV.3.2
 name: RV.3.2
 description: Analyze the root causes over time to identify patterns, such as a
   particular secure coding practice not being followed consistently.
-elementType: control
+elementType: task
+parent: rv_3

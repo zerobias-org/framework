@@ -3,4 +3,5 @@ externalId: PW.9.2
 name: PW.9.2
 description: Implement the default settings (or groups of default settings, if
   applicable), and document each setting for software administrators.
-elementType: control
+elementType: task
+parent: pw_9

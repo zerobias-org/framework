@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0-uat.0",
-  "branch": "feat/nist-add-missing-elements",
-  "sourceHash": "ff57f200d5f6c331e826360d6d31cca7f55ef4efd2f0e833f217421eb438e137",
+  "version": "2.2.0-uat.0",
+  "branch": "feat/800-218-restore-ssdf-structure",
+  "sourceHash": "590b7d861b5499858d012d018ecd7666d30e897352508a5a26fb217df46568a5",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",

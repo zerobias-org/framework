@@ -3,4 +3,5 @@ externalId: PW.5.1
 name: PW.5.1
 description: Follow all secure coding practices that are appropriate to the
   development languages and environment to meet the organization’s requirements.
-elementType: control
+elementType: task
+parent: pw_5

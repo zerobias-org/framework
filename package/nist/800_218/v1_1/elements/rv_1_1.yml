@@ -4,4 +4,5 @@ name: RV.1.1
 description: Gather information from software acquirers, users, and public
   sources on potential vulnerabilities in the software and third-party
   components that the software uses, and investigate all credible reports.
-elementType: control
+elementType: task
+parent: rv_1

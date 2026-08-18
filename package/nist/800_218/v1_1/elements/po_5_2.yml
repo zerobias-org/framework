@@ -4,4 +4,5 @@ name: PO.5.2
 description: Secure and harden development endpoints (i.e., endpoints for
   software designers, developers, testers, builders, etc.) to perform
   development-related tasks using a risk-based approach.
-elementType: control
+elementType: task
+parent: po_5
