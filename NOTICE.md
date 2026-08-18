@@ -38,3 +38,26 @@ Per the CC BY-ND 4.0 license, this content may be redistributed verbatim with
 this attribution, but modified or derivative versions of the SCF content may
 not be distributed. Do not edit the control content of these packages;
 regenerate them from the officially published SCF spreadsheet instead.
+
+---
+
+## DoD 8140 Cyber Workforce Qualification Matrix (DCWF)
+
+**Applies to:** every package under `package/dod/dcwf/`.
+
+These packages reproduce content from the **DoD 8140 Cyber Workforce
+Qualification Program Qualification Matrix** and the **DoD Cyber Workforce
+Framework (DCWF)**, published by the U.S. Department of Defense under
+DoDM 8140.03.
+
+- **Source:** [DoD 8140 Qualification Matrices](https://public.cyber.mil/wid/dod8140/qualifications-matrices/)
+  (DoD Cyber Exchange); matrix version and effective date are recorded in each
+  package's `index.yml`.
+- **License:** works of the United States Government — public domain in the
+  United States (17 U.S.C. §105). No copyright is claimed on the reproduced
+  content.
+- **Trademarks:** certification names referenced by the matrix (e.g. CISSP®,
+  CISA®, CISM®, SecurityX®/CASP+®, GIAC® certifications) are trademarks of
+  their respective certifying bodies and are used nominatively. Nothing in
+  these packages implies endorsement by the U.S. Department of Defense or any
+  certifying body.

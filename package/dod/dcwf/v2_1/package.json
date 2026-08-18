@@ -1,0 +1,33 @@
+{
+  "name": "@zerobias-org/framework-dod-dcwf-v2_1",
+  "version": "1.0.0-rc.0",
+  "description": "DoD 8140 Cyber Workforce Qualification Matrix (DCWF) V2.1",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/dod/dcwf/v2_1/"
+  },
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts",
+    "validate": "tsx ../../../../scripts/validate.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines/**",
+    "elements/**"
+  ],
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "framework",
+    "package": "dod.dcwf.v2_1.framework"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-dod-dcwf": "latest"
+  }
+}
