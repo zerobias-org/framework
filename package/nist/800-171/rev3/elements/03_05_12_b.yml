@@ -4,3 +4,4 @@ name: Authenticator Management
 description: Establish initial authenticator content for any authenticators
   issued by the organization.
 elementType: control
+parent: "03_05"

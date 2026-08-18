@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2-uat.0",
-  "branch": "fix/scf-undeprecate-7-frameworks",
-  "sourceHash": "adaac776c27b2153b3cd7bdb40ff4ffd147dbfb64c8f870ba5d0290508cfa237",
+  "version": "2.1.0-uat.0",
+  "branch": "feat/800-171-rev3-add-families",
+  "sourceHash": "2d1b819a083895104ac8162f9d918042738e880c0632088c749c6cff20f84ef6",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",

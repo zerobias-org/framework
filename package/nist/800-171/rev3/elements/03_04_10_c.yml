@@ -4,3 +4,4 @@ name: System Component Inventory
 description: Update the system component inventory as part of installations,
   removals, and system updates.
 elementType: control
+parent: "03_04"

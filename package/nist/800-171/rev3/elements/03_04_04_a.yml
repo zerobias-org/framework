@@ -4,3 +4,4 @@ name: Impact Analyses
 description: Analyze changes to the system to determine potential security
   impacts prior to change implementation.
 elementType: control
+parent: "03_04"

@@ -4,3 +4,4 @@ name: Wireless Access
 description: Authorize each type of wireless access to the system prior to
   establishing such connections.
 elementType: control
+parent: "03_01"

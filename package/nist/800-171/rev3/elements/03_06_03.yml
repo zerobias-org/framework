@@ -4,3 +4,4 @@ name: Incident Response Testing
 description: "Test the effectiveness of the incident response capability
   [Assignment: organization-defined frequency]."
 elementType: control
+parent: "03_06"

@@ -4,3 +4,4 @@ name: Physical Access Control
 description: Verifying individual physical access authorizations before granting
   access to the facility and
 elementType: control
+parent: "03_10"

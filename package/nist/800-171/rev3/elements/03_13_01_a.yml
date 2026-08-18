@@ -4,3 +4,4 @@ name: Boundary Protection
 description: Monitor and control communications at external managed interfaces
   to the system and key internal managed interfaces within the system.
 elementType: control
+parent: "03_13"

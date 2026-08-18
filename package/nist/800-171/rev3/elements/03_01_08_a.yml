@@ -5,3 +5,4 @@ description: "Enforce a limit of [Assignment: organization-defined number]
   consecutive invalid logon attempts by a user during a [Assignment:
   organization-defined time period]."
 elementType: control
+parent: "03_01"

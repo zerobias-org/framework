@@ -4,3 +4,4 @@ name: Malicious Code Protection
 description: Implement malicious code protection mechanisms at system entry and
   exit points to detect and eradicate malicious code.
 elementType: control
+parent: "03_14"

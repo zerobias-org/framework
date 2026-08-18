@@ -4,3 +4,4 @@ name: Least Functionality
 description: Disable or remove functions, ports, protocols, connections, and
   services that are unnecessary or nonsecure.
 elementType: control
+parent: "03_04"

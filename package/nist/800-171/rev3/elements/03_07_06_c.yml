@@ -4,3 +4,4 @@ name: Maintenance Personnel
 description: Verify that non-escorted personnel who perform maintenance on the
   system possess the required access authorizations.
 elementType: control
+parent: "03_07"

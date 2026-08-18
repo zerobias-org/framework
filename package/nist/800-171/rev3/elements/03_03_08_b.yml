@@ -4,3 +4,4 @@ name: Protection of Audit Information
 description: Authorize access to management of audit logging functionality to
   only a subset of privileged users or roles.
 elementType: control
+parent: "03_03"

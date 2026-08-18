@@ -3,3 +3,4 @@ externalId: 03.01.07.a
 name: Least Privilege – Privileged Functions
 description: Prevent non-privileged users from executing privileged functions.
 elementType: control
+parent: "03_01"

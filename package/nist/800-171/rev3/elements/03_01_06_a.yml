@@ -4,3 +4,4 @@ name: Least Privilege – Privileged Accounts
 description: "Restrict privileged accounts on the system to [Assignment:
   organization-defined personnel or roles].."
 elementType: control
+parent: "03_01"

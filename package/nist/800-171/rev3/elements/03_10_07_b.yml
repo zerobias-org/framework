@@ -3,3 +3,4 @@ externalId: 03.10.07.b
 name: Physical Access Control
 description: Maintain physical access audit logs for entry or exit points.
 elementType: control
+parent: "03_10"

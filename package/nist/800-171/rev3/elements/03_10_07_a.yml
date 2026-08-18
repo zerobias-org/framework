@@ -4,3 +4,4 @@ name: Physical Access Control
 description: "Enforce physical access authorizations at entry and exit points to
   the facility where the system resides by:"
 elementType: control
+parent: "03_10"

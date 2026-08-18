@@ -4,3 +4,4 @@ name: System Security Plan
 description: Identifies the information types processed, stored, and transmitted
   by the system;
 elementType: control
+parent: "03_15"

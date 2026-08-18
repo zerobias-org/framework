@@ -4,3 +4,4 @@ name: Audit Record Generation
 description: Generate audit records for the selected event types and audit
   record content specified in 03.03.01 and 03.03.02.
 elementType: control
+parent: "03_03"

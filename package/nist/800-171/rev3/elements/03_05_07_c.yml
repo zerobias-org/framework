@@ -3,3 +3,4 @@ externalId: 03.05.07.c
 name: Password Management
 description: Transmit passwords only over cryptographically protected channels.
 elementType: control
+parent: "03_05"

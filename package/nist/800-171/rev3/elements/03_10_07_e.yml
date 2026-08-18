@@ -4,3 +4,4 @@ name: Physical Access Control
 description: Control physical access to output devices to prevent unauthorized
   individuals from obtaining access to CUI.
 elementType: control
+parent: "03_10"

@@ -4,3 +4,4 @@ name: Impact Analyses
 description: Verify that the security requirements for the system continue to be
   satisfied after the system changes have been implemented.
 elementType: control
+parent: "03_04"

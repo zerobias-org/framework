@@ -4,3 +4,4 @@ name: System Security Plan
 description: Describes specific threats to the system that are of concern to the
   organization;
 elementType: control
+parent: "03_15"

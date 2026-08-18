@@ -4,3 +4,4 @@ name: Flaw Remediation
 description: "Install security-relevant software and firmware updates within
   [Assignment: organization-defined time period] of the release of the updates."
 elementType: control
+parent: "03_14"

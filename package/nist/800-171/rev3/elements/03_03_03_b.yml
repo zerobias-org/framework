@@ -4,3 +4,4 @@ name: Audit Record Generation
 description: Retain audit records for a time period consistent with the records
   retention policy.
 elementType: control
+parent: "03_03"

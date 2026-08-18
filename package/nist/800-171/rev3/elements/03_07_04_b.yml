@@ -4,3 +4,4 @@ name: Maintenance Tools
 description: Check media with diagnostic and test programs for malicious code
   before it is used in the system.
 elementType: control
+parent: "03_07"
