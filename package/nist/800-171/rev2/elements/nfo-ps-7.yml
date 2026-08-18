@@ -1,5 +1,12 @@
+# Tombstone. Duplicate of NFO control PS-7, which is already
+# represented by `nfo_-_ps-7` (externalId "NFO - PS-7") carrying the real
+# SP 800-171 Appendix E text. This copy only ever held a generated placeholder
+# description and is referenced by no crosswalk. `deprecate: true` makes the
+# dataloader delete the existing record; the file must stay for that deletion
+# to be applied on load.
 id: 945ee589-683b-46be-8c59-4b081710228b
 externalId: NFO-PS-7
 name: NFO-PS-7
-description: SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations - NFO-PS-7
+description: Superseded by NFO control PS-7 (element `nfo_-_ps-7`).
 elementType: control
+deprecate: true

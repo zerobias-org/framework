@@ -1,5 +1,12 @@
+# Tombstone. Duplicate of NFO control MA-1, which is already
+# represented by `nfo_-_ma-1` (externalId "NFO - MA-1") carrying the real
+# SP 800-171 Appendix E text. This copy only ever held a generated placeholder
+# description and is referenced by no crosswalk. `deprecate: true` makes the
+# dataloader delete the existing record; the file must stay for that deletion
+# to be applied on load.
 id: b791672c-0b5a-45df-9dcc-b04af96e0cd6
 externalId: NFO-MA-1
 name: NFO-MA-1
-description: SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations - NFO-MA-1
+description: Superseded by NFO control MA-1 (element `nfo_-_ma-1`).
 elementType: control
+deprecate: true
