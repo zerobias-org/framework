@@ -4,3 +4,4 @@ name: 3.5.9
 description: Allow temporary password use for system logons with an immediate
   change to a permanent password.
 elementType: control
+parent: "3_5"

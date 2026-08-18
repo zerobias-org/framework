@@ -5,3 +5,4 @@ description: Apply deny-by-exception (blacklisting) policy to prevent the use of
   unauthorized software or deny-all, permit-by-exception (whitelisting) policy
   to allow the execution of authorized software.
 elementType: control
+parent: "3_4"

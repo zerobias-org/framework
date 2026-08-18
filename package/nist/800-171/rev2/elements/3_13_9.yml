@@ -4,3 +4,4 @@ name: 3.13.9
 description: Terminate network connections associated with communications
   sessions at the end of the sessions or after a defined period of inactivity.
 elementType: control
+parent: "3_13"

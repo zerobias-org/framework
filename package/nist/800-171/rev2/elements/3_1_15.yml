@@ -4,3 +4,4 @@ name: 3.1.15
 description: Authorize remote execution of privileged commands and remote access
   to security-relevant information.
 elementType: control
+parent: "3_1"

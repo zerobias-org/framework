@@ -4,3 +4,4 @@ name: 3.3.8
 description: Protect audit information and audit logging tools from unauthorized
   access, modification, and deletion.
 elementType: control
+parent: "3_3"

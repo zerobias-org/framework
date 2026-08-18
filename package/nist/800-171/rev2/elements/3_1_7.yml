@@ -4,3 +4,4 @@ name: 3.1.7
 description: Prevent non-privileged users from executing privileged functions
   and capture the execution of such functions in audit logs.
 elementType: control
+parent: "3_1"

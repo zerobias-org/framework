@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0-uat.0",
-  "branch": "fix/800-171-rev2-dedupe-nfo",
-  "sourceHash": "eccd9428d646d67c8e8a3358438822a7f9da74d7ffeb422eafd9620934de5700",
+  "version": "2.2.0-uat.0",
+  "branch": "feat/800-171-rev2-add-families",
+  "sourceHash": "2d4bc8e6bdaf84ebddc0ea91e8ef64b5bc6edc5d118e48558729beb406fbb9f9",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",

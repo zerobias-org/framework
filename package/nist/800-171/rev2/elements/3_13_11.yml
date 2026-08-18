@@ -4,3 +4,4 @@ name: 3.13.11
 description: Employ FIPS-validated cryptography when used to protect the
   confidentiality of CUI.
 elementType: control
+parent: "3_13"

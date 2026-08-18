@@ -5,3 +5,4 @@ description: Provide a system capability that compares and synchronizes internal
   system clocks with an authoritative source to generate time stamps for audit
   records.
 elementType: control
+parent: "3_3"
