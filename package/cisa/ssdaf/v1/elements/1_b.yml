@@ -1,5 +1,11 @@
+# Tombstone. This element duplicated attestation clause 1.b, which is already
+# represented by `1_b_` (externalId "1.b.") carrying the real CISA text. This
+# copy only ever held a generated placeholder description and is referenced by
+# no crosswalk. `deprecate: true` makes the dataloader delete the existing
+# record; the file must stay for that deletion to be applied on load.
 id: c04ac4db-3c2b-460f-8094-bb62e82e4b1b
 externalId: 1.b
 name: 1.b
-description: CISA Secure Software Development Attestation Form (SSDAF) - 1.b
+description: Superseded by clause 1.b (element `1_b_`).
 elementType: control
+deprecate: true
