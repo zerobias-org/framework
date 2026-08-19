@@ -45,7 +45,7 @@ const standardFunctionMappings: Record<string, (x: string) => string> = {
   "ASVS": (x) => `owasp.asvs.v4_0_3.framework/${x.toLowerCase().slice(1)}`,
   "SAMM": (x) => `owasp.samm.v1_0.framework/${x.toLowerCase()}`,
   "ISO 27001": (x) => `iso.27001.2013.framework/${x.toLowerCase()}`,
-  "NIST SSDF": (x) => `nist.800218.v1_1.framework/${x.toLowerCase().replace(/\./g, '_')}`,
+  "NIST SSDF": (x) => `nist.800_218.v1_1.framework/${x.toLowerCase().replace(/\./g, '_')}`,
   "CWE": (x) => `CWE-${x}`,
   "CAPEC": (x) => `CAPEC-${x}`,
   "OWASP Web Security Testing Guide (WSTG)": (x) => `owasp.wstg.v5.benchmark/${x.toLowerCase()}`

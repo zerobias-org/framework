@@ -118,7 +118,7 @@ The update script maps CRE links to these frameworks:
 - **Cloud Controls Matrix**: `csa.ccm.v4_0_12.framework/`
 - **OWASP SAMM**: `owasp.samm.v1_0.framework/`
 - **ISO 27001**: `iso.27001.2013.framework/`
-- **NIST SSDF**: `nist.800218.v1_1.framework/`
+- **NIST SSDF**: `nist.800_218.v1_1.framework/`
 - **CWE**: Direct reference (e.g., `CWE-384`)
 - **CAPEC**: Direct reference (e.g., `CAPEC-196`)
 

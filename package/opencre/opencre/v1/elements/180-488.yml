@@ -6,8 +6,8 @@ elementType: cre
 links:
   demonstrates:
     - OWASP Cheat Sheets/Docker Security Cheat Sheet
-    - nist.800218.v1_1.framework/pw_9_1
-    - nist.800218.v1_1.framework/pw_9_2
+    - nist.800_218.v1_1.framework/pw_9_1
+    - nist.800_218.v1_1.framework/pw_9_2
     - CWE-16
     - owasp.asvs.v4_0_3.framework/14.1.3
 parent: 233-748
