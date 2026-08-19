@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.55",
+  "version": "0.0.56",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -45,7 +45,7 @@
     "@zerobias-org/framework-iso-42001-2023": "2.0.2",
     "@zerobias-org/framework-naic-mdl-v1": "2.0.0",
     "@zerobias-org/framework-nist-800-171-rev2": "2.2.0",
-    "@zerobias-org/framework-nist-800-171-rev3": "2.0.2",
+    "@zerobias-org/framework-nist-800-171-rev3": "2.1.0",
     "@zerobias-org/framework-nist-800-53-v5": "2.1.0",
     "@zerobias-org/framework-nist-800_161-rev1": "2.0.0",
     "@zerobias-org/framework-nist-800_171a-r3": "2.0.0",
