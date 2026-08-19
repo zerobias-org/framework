@@ -1,6 +1,12 @@
+# Tombstone. Duplicate of NFO control CM-8(5), which is already
+# represented by `nfo_-_cm-8_5_` (externalId "NFO - CM-8(5)") carrying the real
+# SP 800-171 Appendix E text. This copy only ever held a generated placeholder
+# description and is referenced by no crosswalk. `deprecate: true` makes the
+# dataloader delete the existing record; the file must stay for that deletion
+# to be applied on load.
 id: 63a84654-1d18-444d-91fb-b5e7f3377d11
 externalId: NFO-CM-8(5)
 name: NFO-CM-8(5)
-description: SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations
-  - NFO-CM-8(5)
+description: Superseded by NFO control CM-8(5) (element `nfo_-_cm-8_5_`).
 elementType: control
+deprecate: true

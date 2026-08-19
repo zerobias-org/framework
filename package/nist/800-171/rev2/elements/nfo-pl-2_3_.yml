@@ -1,6 +1,12 @@
+# Tombstone. Duplicate of NFO control PL-2(3), which is already
+# represented by `nfo_-_pl-2_3_` (externalId "NFO - PL-2(3)") carrying the real
+# SP 800-171 Appendix E text. This copy only ever held a generated placeholder
+# description and is referenced by no crosswalk. `deprecate: true` makes the
+# dataloader delete the existing record; the file must stay for that deletion
+# to be applied on load.
 id: 32d4ce84-72bf-4a27-826f-9d8fbc7ec889
 externalId: NFO-PL-2(3)
 name: NFO-PL-2(3)
-description: SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations
-  - NFO-PL-2(3)
+description: Superseded by NFO control PL-2(3) (element `nfo_-_pl-2_3_`).
 elementType: control
+deprecate: true

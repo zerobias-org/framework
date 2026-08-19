@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2-uat.0",
-  "branch": "fix/scf-undeprecate-7-frameworks",
-  "sourceHash": "3a282f3ddf895344c8f85d61404686a673bb23c9460f807ce7d4ee21e943af51",
+  "version": "2.1.0-uat.0",
+  "branch": "fix/800-171-rev2-dedupe-nfo",
+  "sourceHash": "eccd9428d646d67c8e8a3358438822a7f9da74d7ffeb422eafd9620934de5700",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",

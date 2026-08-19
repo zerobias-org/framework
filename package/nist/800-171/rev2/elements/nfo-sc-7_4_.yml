@@ -1,6 +1,12 @@
+# Tombstone. Duplicate of NFO control SC-7(4), which is already
+# represented by `nfo_-_sc-7_4_` (externalId "NFO - SC-7(4)") carrying the real
+# SP 800-171 Appendix E text. This copy only ever held a generated placeholder
+# description and is referenced by no crosswalk. `deprecate: true` makes the
+# dataloader delete the existing record; the file must stay for that deletion
+# to be applied on load.
 id: ed1461dd-572a-4f11-adf1-46df44c58d44
 externalId: NFO-SC-7(4)
 name: NFO-SC-7(4)
-description: SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations
-  - NFO-SC-7(4)
+description: Superseded by NFO control SC-7(4) (element `nfo_-_sc-7_4_`).
 elementType: control
+deprecate: true
