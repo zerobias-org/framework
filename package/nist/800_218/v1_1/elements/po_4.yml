@@ -4,4 +4,5 @@ name: Define and Use Criteria for Software Security Checks
 description: Help ensure that the software resulting from the SDLC meets the
   organization’s expectations by defining and using criteria for checking the
   software’s security during development.
-elementType: control
+elementType: practice
+parent: po

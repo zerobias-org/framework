@@ -6,4 +6,5 @@ description: Where appropriate, build in support for using standardized security
   management, identity management, access control, and vulnerability management
   systems) instead of creating proprietary implementations of security features
   and services. [Formerly PW.4.3]
-elementType: control
+elementType: task
+parent: pw_1

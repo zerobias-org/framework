@@ -4,4 +4,5 @@ name: PW.4.2
 description: Create and maintain well-secured software components in-house
   following SDLC processes to meet common internal software development needs
   that cannot be better met by third-party software components.
-elementType: control
+elementType: task
+parent: pw_4

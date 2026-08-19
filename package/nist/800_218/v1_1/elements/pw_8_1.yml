@@ -4,4 +4,5 @@ name: PW.8.1
 description: Determine whether executable code testing should be performed to
   find vulnerabilities not identified by previous reviews, analysis, or testing
   and, if so, which types of testing should be used.
-elementType: control
+elementType: task
+parent: pw_8

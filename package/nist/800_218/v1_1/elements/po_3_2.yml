@@ -3,4 +3,5 @@ externalId: PO.3.2
 name: PO.3.2
 description: Follow recommended security practices to deploy, operate, and
   maintain tools and toolchains.
-elementType: control
+elementType: task
+parent: po_3

@@ -4,4 +4,5 @@ name: Identify and Confirm Vulnerabilities on an Ongoing Basis
 description: Help ensure that vulnerabilities are identified more quickly so
   that they can be remediated more quickly in accordance with risk, reducing the
   window of opportunity for attackers.
-elementType: control
+elementType: practice
+parent: rv

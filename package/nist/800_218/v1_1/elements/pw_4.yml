@@ -8,4 +8,5 @@ description: Lower the costs of software development, expedite software
   that have already had their security posture checked. This is particularly
   important for software that implements security functionality, such as
   cryptographic modules and protocols.
-elementType: control
+elementType: practice
+parent: pw

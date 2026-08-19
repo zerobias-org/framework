@@ -3,4 +3,5 @@ externalId: RV.1.2
 name: RV.1.2
 description: Review, analyze, and/or test the software’s code to identify or
   confirm the presence of previously undetected vulnerabilities.
-elementType: control
+elementType: task
+parent: rv_1

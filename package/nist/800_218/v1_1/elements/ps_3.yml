@@ -3,4 +3,5 @@ externalId: PS.3
 name: Archive and Protect Each Software Release
 description: Preserve software releases in order to help identify, analyze, and
   eliminate vulnerabilities discovered in the software after release.
-elementType: control
+elementType: practice
+parent: ps

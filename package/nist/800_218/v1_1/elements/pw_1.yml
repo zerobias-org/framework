@@ -8,4 +8,5 @@ description: Identify and evaluate the security requirements for the software;
   requirements should be relaxed or waived. Addressing security requirements and
   risks during software design (secure by design) is key for improving software
   security and also helps improve development efficiency.
-elementType: control
+elementType: practice
+parent: pw

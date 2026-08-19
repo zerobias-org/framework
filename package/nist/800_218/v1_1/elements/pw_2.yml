@@ -4,4 +4,5 @@ name: Review the Software Design to Verify Compliance with Security Requirements
   and Risk Information
 description: Help ensure that the software will meet the security requirements
   and satisfactorily address the identified risk information.
-elementType: control
+elementType: practice
+parent: pw

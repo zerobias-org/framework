@@ -4,4 +4,5 @@ name: PO.1.1
 description: Identify and document all security requirements for the
   organization’s software development infrastructures and processes, and
   maintain the requirements over time.
-elementType: control
+elementType: task
+parent: po_1

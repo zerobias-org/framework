@@ -5,4 +5,5 @@ description: Perform the code review and/or code analysis based on the
   organization’s secure coding standards, and record and triage all discovered
   issues and recommended remediations in the development team’s workflow or
   issue tracking system.
-elementType: control
+elementType: task
+parent: pw_7

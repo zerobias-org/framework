@@ -4,4 +4,5 @@ name: PW.4.4
 description: Verify that acquired commercial, open-source, and all other
   third-party software components comply with the requirements, as defined by
   the organization, throughout their life cycles.
-elementType: control
+elementType: task
+parent: pw_4

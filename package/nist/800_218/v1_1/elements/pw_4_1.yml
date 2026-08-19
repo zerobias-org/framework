@@ -5,4 +5,5 @@ description: Acquire and maintain well-secured software components (e.g.,
   software libraries, modules, middleware, frameworks) from commercial,
   open-source, and other third-party developers for use by the organization’s
   software.
-elementType: control
+elementType: task
+parent: pw_4

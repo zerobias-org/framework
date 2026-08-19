@@ -4,4 +4,5 @@ name: PO.2.2
 description: Provide role-based training for all personnel with responsibilities
   that contribute to secure development. Periodically review personnel
   proficiency and role-based training, and update the training as needed.
-elementType: control
+elementType: task
+parent: po_2

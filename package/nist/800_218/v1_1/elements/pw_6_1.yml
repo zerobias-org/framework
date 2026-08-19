@@ -3,4 +3,5 @@ externalId: PW.6.1
 name: PW.6.1
 description: Use compiler, interpreter, and build tools that offer features to
   improve executable security.
-elementType: control
+elementType: task
+parent: pw_6

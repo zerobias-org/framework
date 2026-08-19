@@ -4,4 +4,5 @@ name: PO.2.3
 description: Obtain upper management or authorizing official commitment to
   secure development, and convey that commitment to all with development-related
   roles and responsibilities.
-elementType: control
+elementType: task
+parent: po_2

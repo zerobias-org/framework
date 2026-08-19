@@ -4,4 +4,5 @@ name: Configure Software to Have Secure Settings by Default
 description: Help improve the security of the software at the time of
   installation to reduce the likelihood of the software being deployed with weak
   security settings, putting it at greater risk of compromise.
-elementType: control
+elementType: practice
+parent: pw

@@ -7,4 +7,5 @@ description: Use automation to reduce human effort and improve the accuracy,
   use of these practices. Toolchains and tools may be used at different levels
   of the organization, such as organization-wide or project-specific, and may
   address a particular part of the SDLC, like a build pipeline.
-elementType: control
+elementType: practice
+parent: po

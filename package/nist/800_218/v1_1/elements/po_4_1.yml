@@ -2,4 +2,5 @@ id: 4728983a-1f28-4417-8fdb-d90daf75e07f
 externalId: PO.4.1
 name: PO.4.1
 description: Define criteria for software security checks and track throughout the SDLC.
-elementType: control
+elementType: task
+parent: po_4

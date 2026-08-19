@@ -1,7 +1,9 @@
 id: b0ff4d45-d222-42c1-bb52-d07025372647
-name: "SP 800-218 - Secure Software Development Framework (SSDF) Version 1.1:"
+name: NIST SP 800-218 v1.1 - Secure Software Development Framework (SSDF)
 externalId: NIST 800-218 V1.1
-description: "SP 800-218 - Secure Software Development Framework (SSDF) Version 1.1:"
+description: >-
+  Secure Software Development Framework (SSDF) Version 1.1: Recommendations for
+  Mitigating the Risk of Software Vulnerabilities.
 code: nist_800-218_v1.1_scf
 status: approved
 url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf
@@ -9,9 +11,18 @@ version: v1_1
 external: true
 internal: false
 elementTypes:
-  - id: 89ded476-8859-40a1-8345-26cab96d8e76
-    code: control
-    name: Control
-    description: Control
+  - id: 37f29812-cd68-54ed-93c2-c2f6eab040ac
+    code: group
+    name: Group
+    description: Group
+  - id: 3a490419-3f8b-5971-995d-d4d788712c65
+    code: practice
+    name: Practice
+    description: Practice
+  - id: 48139447-68f5-5e69-9489-81f05f969f8f
+    code: task
+    name: Task
+    description: Task
 mappingTypes:
-  - control
+  - practice
+  - task

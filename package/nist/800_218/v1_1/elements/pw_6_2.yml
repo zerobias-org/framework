@@ -4,4 +4,5 @@ name: PW.6.2
 description: Determine which compiler, interpreter, and build tool features
   should be used and how each should be configured, then implement and use the
   approved configurations.
-elementType: control
+elementType: task
+parent: pw_6

@@ -4,4 +4,5 @@ name: PS.3.2
 description: Collect, safeguard, maintain, and share provenance data for all
   components of each software release (e.g., in a software bill of materials
   [SBOM]).
-elementType: control
+elementType: task
+parent: ps_3

@@ -3,4 +3,5 @@ externalId: RV.2.1
 name: RV.2.1
 description: Analyze each vulnerability to gather sufficient information about
   risk to plan its remediation or other risk response.
-elementType: control
+elementType: task
+parent: rv_2
