@@ -4,3 +4,4 @@ name: 3.8.3
 description: Sanitize or destroy system media containing CUI before disposal or
   release for reuse.
 elementType: control
+parent: "3_8"

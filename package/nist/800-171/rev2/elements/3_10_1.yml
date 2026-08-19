@@ -4,3 +4,4 @@ name: 3.10.1
 description: Limit physical access to organizational systems, equipment, and the
   respective operating environments to authorized individuals.
 elementType: control
+parent: "3_10"

@@ -4,3 +4,4 @@ name: 3.5.7
 description: Enforce a minimum password complexity and change of characters when
   new passwords are created.
 elementType: control
+parent: "3_5"

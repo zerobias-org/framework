@@ -4,3 +4,4 @@ name: 3.3.9
 description: Limit management of audit logging functionality to a subset of
   privileged users.
 elementType: control
+parent: "3_3"

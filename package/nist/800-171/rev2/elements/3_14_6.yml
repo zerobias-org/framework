@@ -4,3 +4,4 @@ name: 3.14.6
 description: Monitor organizational systems, including inbound and outbound
   communications traffic, to detect attacks and indicators of potential attacks.
 elementType: control
+parent: "3_14"
