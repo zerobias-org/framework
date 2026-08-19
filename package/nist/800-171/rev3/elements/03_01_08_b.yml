@@ -7,3 +7,4 @@ description: "Automatically [Selection (one or more): lock the account or node
   system administrator; take other action] when the maximum number of
   unsuccessful attempts is exceeded."
 elementType: control
+parent: "03_01"

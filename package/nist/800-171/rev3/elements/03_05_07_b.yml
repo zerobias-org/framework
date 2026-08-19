@@ -4,3 +4,4 @@ name: Password Management
 description: Verify that passwords are not found on the list of commonly used,
   expected, or compromised passwords when users create or update passwords.
 elementType: control
+parent: "03_05"

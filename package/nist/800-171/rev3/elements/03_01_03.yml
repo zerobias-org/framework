@@ -4,3 +4,4 @@ name: Information Flow Enforcement
 description: Enforce approved authorizations for controlling the flow of CUI
   within the system and between connected systems.
 elementType: control
+parent: "03_01"

@@ -5,3 +5,4 @@ description: Require that users (or roles) with privileged accounts use
   non-privileged accounts when accessing non-security functions or non-security
   information.
 elementType: control
+parent: "03_01"

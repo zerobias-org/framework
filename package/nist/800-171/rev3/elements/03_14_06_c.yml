@@ -4,3 +4,4 @@ name: System Monitoring
 description: Monitor inbound and outbound communications traffic to detect
   unusual or unauthorized activities or conditions.
 elementType: control
+parent: "03_14"

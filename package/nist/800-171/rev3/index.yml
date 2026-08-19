@@ -9,6 +9,10 @@ version: rev3
 external: true
 internal: false
 elementTypes:
+  - id: d9ae6aa9-d228-5214-9725-5143a4c0fe9d
+    code: family
+    name: Family
+    description: Family
   - id: 6a03a642-4d49-476b-90fa-7e2edd13667d
     code: control
     name: Control

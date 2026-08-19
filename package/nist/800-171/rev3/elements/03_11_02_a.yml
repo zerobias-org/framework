@@ -5,3 +5,4 @@ description: "Monitor and scan the system for vulnerabilities [Assignment:
   organization-defined frequency] and when new vulnerabilities affecting the
   system are identified."
 elementType: control
+parent: "03_11"

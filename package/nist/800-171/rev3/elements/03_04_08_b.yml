@@ -4,3 +4,4 @@ name: Authorized Software – Allow by Exception
 description: Implement a deny-all, allow-by-exception policy for the execution
   of authorized software programs on the system.
 elementType: control
+parent: "03_04"

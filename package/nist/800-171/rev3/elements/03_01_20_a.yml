@@ -4,3 +4,4 @@ name: Use of External Systems
 description: Prohibit the use of external systems unless the systems are
   specifically authorized.
 elementType: control
+parent: "03_01"

@@ -4,3 +4,4 @@ name: Physical Access Authorizations
 description: Remove individuals from the facility access list when access is no
   longer required.
 elementType: control
+parent: "03_10"

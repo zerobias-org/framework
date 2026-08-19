@@ -4,3 +4,4 @@ name: Network Communications – Deny by Default – Allow by Exception
 description: Deny network communications traffic by default, and allow network
   communications traffic by exception.
 elementType: control
+parent: "03_13"

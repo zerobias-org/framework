@@ -4,3 +4,4 @@ name: Transmission and Storage Confidentiality
 description: Implement cryptographic mechanisms to prevent the unauthorized
   disclosure of CUI during transmission and while in storage.
 elementType: control
+parent: "03_13"

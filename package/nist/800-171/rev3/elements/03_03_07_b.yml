@@ -6,3 +6,4 @@ description: "Record time stamps for audit records that meet [Assignment:
   Universal Time (UTC), have a fixed local time offset from UTC, or include the
   local time offset as part of the time stamp."
 elementType: control
+parent: "03_03"

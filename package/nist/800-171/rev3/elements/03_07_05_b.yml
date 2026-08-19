@@ -4,3 +4,4 @@ name: Nonlocal Maintenance
 description: Implement multi-factor authentication and replay resistance in the
   establishment of nonlocal maintenance and diagnostic sessions.
 elementType: control
+parent: "03_07"

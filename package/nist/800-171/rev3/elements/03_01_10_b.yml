@@ -4,3 +4,4 @@ name: Device Lock
 description: Retain the device lock until the user reestablishes access using
   established identification and authentication procedures.
 elementType: control
+parent: "03_01"

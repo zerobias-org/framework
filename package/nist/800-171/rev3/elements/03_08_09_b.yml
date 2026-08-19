@@ -4,3 +4,4 @@ name: System Backup – Cryptographic Protection
 description: Implement cryptographic mechanisms to prevent the unauthorized
   disclosure of CUI at backup storage locations.
 elementType: control
+parent: "03_08"

@@ -5,3 +5,4 @@ description: "Prohibit or restrict use of the following functions, ports,
   protocols, connections, and services: [Assignment: organization-defined
   functions, ports, protocols, connections, and services]."
 elementType: control
+parent: "03_04"

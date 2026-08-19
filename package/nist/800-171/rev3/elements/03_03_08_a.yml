@@ -4,3 +4,4 @@ name: Protection of Audit Information
 description: Protect audit information and audit logging tools from unauthorized
   access, modification, and deletion.
 elementType: control
+parent: "03_03"

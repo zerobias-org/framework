@@ -4,3 +4,4 @@ name: Boundary Protection
 description: Implement subnetworks for publicly accessible system components
   that are physically or logically separated from internal networks.
 elementType: control
+parent: "03_13"

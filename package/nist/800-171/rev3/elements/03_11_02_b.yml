@@ -4,3 +4,4 @@ name: Vulnerability Monitoring and Scanning
 description: "Remediate system vulnerabilities within [Assignment:
   organization-defined response times]."
 elementType: control
+parent: "03_11"

@@ -4,3 +4,4 @@ name: Wireless Access
 description: Disable, when not intended for use, wireless networking
   capabilities prior to issuance and deployment.
 elementType: control
+parent: "03_01"

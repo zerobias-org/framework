@@ -3,3 +3,4 @@ externalId: 03.15.02.c
 name: System Security Plan
 description: Protect the system security plan from unauthorized disclosure.
 elementType: control
+parent: "03_15"

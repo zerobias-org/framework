@@ -5,3 +5,4 @@ description: Verify the identity of the individual, group, role, service, or
   device receiving the authenticator as part of the initial authenticator
   distribution.
 elementType: control
+parent: "03_05"
