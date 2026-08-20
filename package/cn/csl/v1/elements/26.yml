@@ -1,6 +1,11 @@
+# Tombstone. Duplicate of Article 26, already represented by `article_26`
+# (externalId "Article 26"), which is the form every SCF crosswalk reference
+# uses. This bare-number copy only ever held a generated placeholder description
+# and is referenced by nothing. `deprecate: true` makes the dataloader delete the
+# existing record; the file must stay for that deletion to be applied on load.
 id: 4f58bcf8-7cf5-43f0-a5c4-7ce70f31f835
 externalId: "26"
 name: "26"
-description: China Cybersecurity Law of the People's Republic of China (China
-  Cybersecurity Law) - 26
+description: Superseded by Article 26 (element `article_26`).
 elementType: control
+deprecate: true
