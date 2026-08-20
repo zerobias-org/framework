@@ -1,11 +1,6 @@
-# Tombstone. Duplicate of Article 33, already represented by `article_33`
-# (externalId "Article 33"), which is the form every SCF crosswalk reference
-# uses. This bare-number copy only ever held a generated placeholder description
-# and is referenced by nothing. `deprecate: true` makes the dataloader delete the
-# existing record; the file must stay for that deletion to be applied on load.
 id: 72484153-3140-4700-bcf8-0a93fdb0221b
 externalId: "33"
 name: "33"
-description: Superseded by Article 33 (element `article_33`).
+description: Superseded by Article 33.
 elementType: control
-deprecate: true
+deprecate: true  # superseded by `article_33`
