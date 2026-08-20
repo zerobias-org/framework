@@ -111,14 +111,23 @@ endorse this repository or the ZeroBias platform.
 
 ---
 
-## India — Digital Personal Data Protection Act, 2023
+## National statutes published by their own government
 
-**Applies to:** `package/in/dpdpa/2023`.
+**Applies to:** `package/in/dpdpa/2023`, `package/sa/pdpl/v1`.
 
-- **Source:** [Ministry of Electronics & Information Technology](https://www.meity.gov.in/) —
-  the Digital Personal Data Protection Act, 2023
-- **Basis:** statutory text (an edict of government); section numbering preserved
-- **Changes:** section text extracted and restructured into YAML elements
+Statutory text is an edict of government and is not subject to copyright. Where a
+government publishes its own translation, that translation is part of the same
+government publication.
+
+- **Sources:** the enacting government's own publication — for these packages,
+  India's [Ministry of Electronics & Information Technology](https://www.meity.gov.in/)
+  and Saudi Arabia's [SDAIA](https://sdaia.gov.sa/)
+- **Basis:** edict of government; section and article numbering preserved
+- **Changes:** text extracted and restructured into YAML elements
+
+Add packages here only where the text comes from the enacting government. A
+third-party translation is a separate copyrightable work and does not qualify —
+see the stubbed section below.
 
 ---
 
@@ -241,7 +250,7 @@ v3.0."
 
 **Applies to:** `package/iso/27001/2022`, `package/iso/27002/2022`,
 `package/iso/42001/2023`, `package/iec/60601/2021`, `package/cn/csl/v1`,
-`package/sa/pdpl/v1`, `package/naic/mdl/v1`.
+`package/naic/mdl/v1`.
 
 These sources are copyrighted and are **not** licensed for redistribution. The
 packages therefore carry only what is not protected — control identifiers,

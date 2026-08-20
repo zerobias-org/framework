@@ -19,7 +19,7 @@ Most of the catalogue is clean. The risk is concentrated in a short list of pack
 | **49** | Clean — gov works, edicts of law, or CC-BY / CC0 |
 | **8**  | Fix required — restrictive licence **and** full protected text |
 | **10** | Decision needed — NC / ND / share-alike / Crown copyright |
-| **7**  | Already safe — restrictive source, but text was pre-stubbed |
+| **6**  | Restrictive source — reduced to identifiers |
 
 **Why two dimensions per package.** Licensing risk is the product of two things: how restrictive the *source document's* licence is, and whether our package actually *reproduces its protected text*. A proprietary standard we've reduced to bare control IDs is low-risk; an open-but-share-alike standard we've reformatted verbatim can still be a problem. Every verdict below reflects both — the source licence was researched and then checked against the real `elements/*.yml` content.
 
@@ -61,7 +61,7 @@ Openly licensed or reproducible, but a clause — NonCommercial, NoDerivatives, 
 
 ---
 
-## 04 · Restrictive source, already safe (7 packages)
+## 04 · Restrictive source, reduced to identifiers (6 packages)
 
 The source is copyrighted, but these packages were previously reduced to identifiers, clause numbers, or "buy a copy" pointers — no protected text is present. **No action beyond keeping them that way — do not backfill text.**
 
@@ -71,9 +71,8 @@ The source is copyrighted, but these packages were previously reduced to identif
 | `iso/27002/2022` | fully stubbed | ISO all rights reserved |
 | `iso/42001/2023` | 140 / 144 stubbed | ISO all rights reserved |
 | `iec/60601/2021` | fully stubbed | IEC all rights reserved |
-| `cn/csl/v1` | article-# refs | Copyrighted Stanford/DigiChina translation is **not** reproduced — only article numbers |
-| `sa/pdpl/v1` | article-# refs | Saudi statute; no full text reproduced |
-| `naic/mdl/v1` | "see source" stubs | NAIC © all rights reserved (private nonprofit model law) |
+| `cn/csl/v1` | stubbed to article refs | Third-party translation, © Stanford University, no reuse grant |
+| `naic/mdl/v1` | stubbed to section refs | NAIC © all rights reserved (private nonprofit model law) |
 
 ---
 
@@ -113,6 +112,27 @@ The pattern already applied to ISO/IEC is the template for the rest.
 - **Across the clean set:** add the attribution notices the CC-BY and EU/Spain reuse terms require, so those stay compliant as the catalogue grows.
 
 ---
+
+---
+
+## 08 · Correction (20 Aug 2026)
+
+§04 previously listed seven packages as carrying no protected text. Three of
+those claims did not hold when this review was written, and `NOTICE.md` repeated
+the same claim in a file that ships with every published package:
+
+- `cn/csl/v1` and `naic/mdl/v1` did reproduce full source text. They have since
+  been reduced to identifiers and source pointers, so the §04 classification now
+  holds for them.
+- `sa/pdpl/v1` reproduces full text but does not need stubbing: it is a national
+  statute in the enacting government's own published translation. It moves to
+  §05.
+
+**Method.** The error survived because each revision inherited the previous
+tiering instead of re-checking it, and §04 is the tier labelled as needing no
+action. Any future revision should re-measure package contents rather than carry
+tiers forward, and the claim is better enforced by a validator than restated in
+prose.
 
 ## Method
 
