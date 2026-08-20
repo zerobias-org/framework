@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0-uat.0",
-  "branch": "chore/migrate-all-remaining",
-  "sourceHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "version": "2.1.0-uat.0",
+  "branch": "fix/stub-restricted-source-text",
+  "sourceHash": "361cb6ead104a4a84e30b8001d51d4fa05107bf8d4b0ff4b890474d5ba624482",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
