@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0-uat.0",
-  "branch": "fix/stub-restricted-source-text",
-  "sourceHash": "3aa40089403db385d3b0d15ec9a175d8e1ca13f45a63847d361a7169df52b79c",
+  "version": "2.1.1-uat.0",
+  "branch": "fix/stub-url-wrapping",
+  "sourceHash": "b95703cda2edc91d5ef6f8bf11d77d8817c177e95dada0dc32141433776a79d7",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
