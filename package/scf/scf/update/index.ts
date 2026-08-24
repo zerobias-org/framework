@@ -37,6 +37,12 @@ const CONFIG: SCFUpdateConfig = {
 };
 
 class SCFUpdater {
+  // Matches the gate validator's sentinel set (root build.gradle.kts). Sources
+  // write these into cells that do not apply; forwarded verbatim they become
+  // content, and only fail if the field happens to be an enum.
+  private static readonly SENTINEL = /^(n\/?a|none|null|tbd|unknown|not applicable|-)$/i;
+
+  private strippedSentinels = new Map<string, number>();
   private config: SCFUpdateConfig;
   private githubClient: GitHubClient;
   private excelParser: ExcelParser;
@@ -197,6 +203,14 @@ class SCFUpdater {
     // validateContent (file-shape + repo-wide unique ids) and the dataloader
     // integration test. The daily-update workflow gates every changed package
     // after this tool runs; the lerna-era `npm run validate` no longer exists.
+    if (this.strippedSentinels.size > 0) {
+      const summary = [...this.strippedSentinels.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .map(([k, n]) => `${k} x${n}`)
+        .join(', ');
+      logger.warning(`Stripped sentinel values (omitted from output): ${summary}`);
+    }
+
     logger.info(`Created SCF ${scfData.version} package at: ${versionDir}`);
     logger.info(`Next: ./gradlew :${AUTHORITY}:${FRAMEWORK}:${scfData.version}:gate`);
     
@@ -262,7 +276,7 @@ class SCFUpdater {
         description: domain['Cybersecurity & Data Privacy by Design (C|P) Principles']?.trim() || domain['SCF Domain'].trim(),
         elementType: 'domain',
         externalId: domain['SCF Identifier'].trim(),
-        intent: this.optional(domain['Principle Intent'])
+        intent: this.optional(domain['Principle Intent'], 'intent')
       };
       
       elements.push(element);
@@ -297,10 +311,10 @@ class SCFUpdater {
         elementType: controlCode.includes('.') ? 'enhancement' : 'control',
         externalId: control['SCF #'].trim(),
         parent,
-        controlQuestion: this.optional(control['SCF Control Question']),
-        methodsToComply: this.optional(control['Methods To Comply With SCF Controls']),
-        functionGrouping: this.optional(control['NIST CSF\nFunction Grouping']),
-        controlWeighting: this.optional(control['Relative Control Weighting']),
+        controlQuestion: this.optional(control['SCF Control Question'], 'controlQuestion'),
+        methodsToComply: this.optional(control['Methods To Comply With SCF Controls'], 'methodsToComply'),
+        functionGrouping: this.optional(control['NIST CSF\nFunction Grouping'], 'functionGrouping'),
+        controlWeighting: this.optional(control['Relative Control Weighting'], 'controlWeighting'),
         // `cmm_n` are normalized by ExcelParser.resolveCmmColumns — the upstream
         // column headers have been renamed twice and can't be relied on here.
         cmm_0: this.createMaturityLevel(0, control['cmm_0']),
@@ -322,9 +336,14 @@ class SCFUpdater {
   // not absence: it broke the dataloader's FunctionGroupingEnum, and produced
   // maturity blocks claiming available: true with a description of "N/A".
   // Treat the sentinel as an empty cell everywhere it can appear.
-  private optional(value?: string): string | undefined {
+  private optional(value?: string, field?: string): string | undefined {
     const trimmed = value?.trim();
-    if (!trimmed || /^n\/?a$/i.test(trimmed)) return undefined;
+    if (!trimmed) return undefined;
+    if (SCFUpdater.SENTINEL.test(trimmed)) {
+      const key = `${field ?? 'unknown'}="${trimmed}"`;
+      this.strippedSentinels.set(key, (this.strippedSentinels.get(key) ?? 0) + 1);
+      return undefined;
+    }
     return trimmed;
   }
 
@@ -338,7 +357,7 @@ class SCFUpdater {
       'Continuously Improving'
     ];
     
-    const text = this.optional(description);
+    const text = this.optional(description, `cmm_${level}`);
 
     return {
       name: levelNames[level] || `Level ${level}`,
