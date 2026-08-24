@@ -82,6 +82,46 @@ extra["contentValidator"] = { proj: org.gradle.api.Project ->
         "$tag zerobias.import-artifact must be 'framework'"
     }
 
+    // ── 2. Sentinel values in element content ──
+    //
+    // Upstream sources write "N/A" / "none" into cells that do not apply, and
+    // generators forward them as if they were data. The dataloader only objects
+    // when the field happens to be an enum — SCF 2026.2 shipped
+    // `functionGrouping: N/A` and failed at load with
+    // "N/A is not a valid FunctionGroupingEnum", after publish. In a free-text
+    // field the same value loads silently: the same package carried
+    // `description: N/A` with `available: true`, and us/glba/2023 has 50
+    // elements literally named "none".
+    //
+    // This is squarely what the gate is for — the dataloader cannot see it,
+    // because a sentinel is a perfectly valid string.
+    val sentinel = Regex("^(n/?a|none|null|tbd|unknown|not applicable|-)$", RegexOption.IGNORE_CASE)
+    val offenders = mutableListOf<String>()
+
+    projectDir.resolve("elements").listFiles()
+        ?.filter { it.isFile && it.name.endsWith(".yml") }
+        ?.sortedBy { it.name }
+        ?.forEach { f ->
+            val doc = try {
+                SchemaPrimitives.parseYaml(f)
+            } catch (e: Exception) {
+                return@forEach
+            }
+            fun scan(node: Any?, path: String) {
+                when (node) {
+                    is Map<*, *> -> node.forEach { (k, v) -> scan(v, if (path.isEmpty()) "$k" else "$path.$k") }
+                    is String -> if (sentinel.matches(node.trim())) offenders.add("${f.name}: $path = \"$node\"")
+                }
+            }
+            scan(doc, "")
+        }
+
+    require(offenders.isEmpty()) {
+        "$tag ${offenders.size} sentinel value(s) in elements — these load as content, not absence. " +
+        "Omit the field instead.\n  " + offenders.take(15).joinToString("\n  ") +
+        if (offenders.size > 15) "\n  … and ${offenders.size - 15} more" else ""
+    }
+
     proj.logger.lifecycle("$tag: authority=$authority framework=$frameworkCode version=$version")
 }
 
