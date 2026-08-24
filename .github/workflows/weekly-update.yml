@@ -35,6 +35,18 @@ jobs:
           registry-url: 'https://npm.pkg.github.com'
           scope: '@zerobias-org'
 
+      # NPM_TOKEN lets dataloaderExec fetch @zerobias-com/platform-dataloader
+      # from GitHub Packages. Same role the publish workflow uses.
+      - name: Authenticate to Vault
+        uses: hashicorp/vault-action@v3
+        with:
+          url: ${{ secrets.VAULT_ADDR }}
+          method: jwt
+          role: publishing-role
+          path: gh-actions
+          secrets: |
+            operations-kv/data/ci/github writePackagesToken | NPM_TOKEN;
+
       - name: Setup Java (for gradle gate)
         uses: actions/setup-java@v4
         with:
