@@ -53,6 +53,20 @@ jobs:
           distribution: temurin
           java-version: '21'
 
+      # Per-package .npmrc files map only @zerobias-org, so npx resolving
+      # @zerobias-com/platform-dataloader from a package dir hits public npm
+      # and 404s. Publish solves this by promoting the root .npmrc to user
+      # config and pre-installing the dataloader; do the same.
+      - name: Configure npm scopes and pre-install dataloader
+        env:
+          NPM_TOKEN: ${{ env.NPM_TOKEN }}
+          ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
+        run: |
+          cp .npmrc "$HOME/.npmrc"
+          [ -n "$NPM_CONFIG_USERCONFIG" ] && cp .npmrc "$NPM_CONFIG_USERCONFIG"
+          npm i -g @zerobias-com/platform-dataloader@prod --ignore-scripts
+          dataloader --version
+
       - name: Install root dependencies
         run: npm install
         env:
