@@ -204,60 +204,71 @@ jobs:
 
       - name: Commit and push changes
         if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Create a unique branch name that matches PR title format
-          branch_name="weekly-framework-updates-$(date +%Y-%m-%d)"
-          git checkout -b "$branch_name"
-          
-          # Add all changes
+          # Reuse the branch of an already-open weekly PR instead of cutting a
+          # new one each run — otherwise every week leaves another stale PR.
+          branch_name=$(gh pr list --state open --base main \
+            --json headRefName --jq \
+            '[.[] | select(.headRefName | startswith("weekly-framework-updates"))][0].headRefName')
+
+          if [ -z "$branch_name" ] || [ "$branch_name" = "null" ]; then
+            branch_name="weekly-framework-updates-$(date +%Y-%m-%d)"
+            echo "No open weekly PR — creating $branch_name"
+            echo "PR_EXISTS=false" >> $GITHUB_ENV
+          else
+            echo "Reusing open weekly PR branch $branch_name"
+            echo "PR_EXISTS=true" >> $GITHUB_ENV
+          fi
+
+          # -B resets the branch to this run's regenerated content. The fetcher
+          # always regenerates from upstream, so replacing prior commits is
+          # correct: the newest run is the complete desired state.
+          git checkout -B "$branch_name"
           git add .
-          
-          # Create commit message
-          commit_msg="chore: 🤖 weekly framework updates
-          
-          Automated weekly update of framework packages.
-          
+          git commit -m "chore: 🤖 weekly framework updates $(date +%Y-%m-%d)
+
           Updated packages:${{ env.UPDATED_PACKAGES }}
           Failed packages:${{ env.FAILED_PACKAGES }}
-          
+
           🤖 Generated with GitHub Actions"
-          
-          # Commit changes
-          git commit -m "$commit_msg"
-          
-          # Push the new branch
-          git push origin "$branch_name"
-          
-          # Store branch name for PR creation
+
+          git push --force-with-lease origin "$branch_name"
           echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
 
-      - name: Create PR to main
+      - name: Create or update PR to main
         if: steps.changes.outputs.has_changes == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Create PR to main (canonical branch on the gradle/zbb pipeline).
-          # dev/qa/uat are kept in sync downstream by the publish workflow.
-          pr_title="chore: 🤖 weekly framework updates $(date +%Y-%m-%d)"
           pr_body="Automated weekly update of framework packages.
 
           ## Summary
           **Updated packages:**
           ${{ env.UPDATED_PACKAGES }}
 
-          **Failed packages:**  
+          **Failed packages:**
           ${{ env.FAILED_PACKAGES }}
 
           **Run ID:** ${{ github.run_id }}
-          **Workflow:** ${{ github.workflow }}
 
           🤖 Generated with GitHub Actions"
-          
-          gh pr create \
-            --title "$pr_title" \
-            --body "$pr_body" \
-            --base main \
-            --head "${{ env.BRANCH_NAME }}"
+
+          if [ "${{ env.PR_EXISTS }}" = "true" ]; then
+            # Branch was force-pushed, so the PR already shows the new diff;
+            # just refresh title and body.
+            gh pr edit "${{ env.BRANCH_NAME }}" \
+              --title "chore: 🤖 weekly framework updates $(date +%Y-%m-%d)" \
+              --body "$pr_body"
+            echo "Updated existing PR on ${{ env.BRANCH_NAME }}"
+          else
+            gh pr create \
+              --title "chore: 🤖 weekly framework updates $(date +%Y-%m-%d)" \
+              --body "$pr_body" \
+              --base main \
+              --head "${{ env.BRANCH_NAME }}"
+          fi
 
       - name: Update summary
         if: always()
