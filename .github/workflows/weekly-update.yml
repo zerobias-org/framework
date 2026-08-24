@@ -145,6 +145,14 @@ jobs:
           # back to GITHUB_TOKEN in settings.gradle.kts.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           READ_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # ZB_TOKEN is required by npmInstallContent: every content package's
+          # .npmrc points @zerobias-org at pkg.zerobias.org, and the gate
+          # installs its suite dependency from there. The registry began
+          # rejecting anonymous reads between the 10 Aug and 17 Aug runs
+          # ({"error":"Unauthorized: Bearer token required"}), so the omission
+          # here — harmless for as long as anonymous reads worked — started
+          # failing every run that actually has a package to gate.
+          ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
         run: |
           # The update tools regenerate framework content under package/.
           # Any package dir that changed (incl. brand-new versions) needs:
