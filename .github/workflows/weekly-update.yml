@@ -145,13 +145,8 @@ jobs:
           # back to GITHUB_TOKEN in settings.gradle.kts.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           READ_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # ZB_TOKEN is required by npmInstallContent: every content package's
-          # .npmrc points @zerobias-org at pkg.zerobias.org, and the gate
-          # installs its suite dependency from there. The registry began
-          # rejecting anonymous reads between the 10 Aug and 17 Aug runs
-          # ({"error":"Unauthorized: Bearer token required"}), so the omission
-          # here — harmless for as long as anonymous reads worked — started
-          # failing every run that actually has a package to gate.
+          # npmInstallContent pulls suite deps from pkg.zerobias.org, which
+          # stopped serving anonymous reads on 17 Aug.
           ZB_TOKEN: ${{ secrets.ZB_TOKEN }}
         run: |
           # The update tools regenerate framework content under package/.
@@ -173,11 +168,8 @@ jobs:
               printf 'plugins { id("zb.content") }\n' > "$pkg/build.gradle.kts"
               echo "Added gradle marker to new package: $pkg"
             fi
-            # Stage BEFORE gating. writeGateStamp computes sourceHash over
-            # git-tracked files, so gating a brand-new (untracked) package
-            # yields sha256("") — a stamp that passes locally and is then
-            # rejected by the publish preflight as "source-hash-changed".
-            # Cost a failed 2026.2 publish in run 30499714658.
+            # Stage before gating: writeGateStamp hashes tracked files only,
+            # so an untracked package stamps as sha256("") and fails preflight.
             git add -A "$pkg"
             proj=$(echo "${pkg#package/}" | tr '/' ':')
             gate_targets="$gate_targets :$proj:gate"
