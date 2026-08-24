@@ -162,6 +162,7 @@ jobs:
             | sort -u)
 
           gate_targets=""
+          gate_excludes=""
           for pkg in $changed_pkgs; do
             [ -f "$pkg/index.yml" ] || continue          # only real framework packages
             if [ ! -f "$pkg/build.gradle.kts" ]; then
@@ -173,11 +174,15 @@ jobs:
             git add -A "$pkg"
             proj=$(echo "${pkg#package/}" | tr '/' ':')
             gate_targets="$gate_targets :$proj:gate"
+            gate_excludes="$gate_excludes -x :$proj:dataloaderExec"
           done
 
           if [ -n "$gate_targets" ]; then
+            # dataloaderExec needs NPM_TOKEN for @zerobias-com/platform-dataloader,
+            # which this workflow has no vault access to. The publish workflow
+            # runs the authoritative dataloader gate on push to main.
             echo "Gating:$gate_targets"
-            ./gradlew --parallel $gate_targets
+            ./gradlew --parallel $gate_targets $gate_excludes
           else
             echo "No framework packages changed — nothing to gate."
           fi
