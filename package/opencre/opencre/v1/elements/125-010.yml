@@ -3,4 +3,7 @@ name: Password management systems
 description: Password management systems
 externalId: 125-010
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/2.2.2
 parent: 850-376

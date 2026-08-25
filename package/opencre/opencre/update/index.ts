@@ -33,7 +33,7 @@ interface UpdateConfig {
 }
 
 const CONFIG: UpdateConfig = {
-  apiUrl: 'https://opencre.org/rest/v1/all_cres?per_page=10000',
+  apiUrl: 'https://opencre.org/rest/v1/all_cres',
   githubUrl: 'https://raw.githubusercontent.com/zeljkoobrenovic/opencre-explorer/refs/heads/main/data/all_cres.json',
   localDataPath: path.join(process.cwd(), 'cache/all_cres.json'),
   elementsPath: path.join(process.cwd(), '../v1/elements')
@@ -87,7 +87,7 @@ class OpenCREUpdater {
     // Try API first
     try {
       logger.info('Fetching from OpenCRE API...');
-      const apiData = await this.fetchFromUrl(this.config.apiUrl);
+      const apiData = await this.fetchAllPages(this.config.apiUrl);
       return apiData;
     } catch (apiError) {
       logger.warning('API fetch failed, trying GitHub fallback:', apiError as Error);
@@ -102,6 +102,39 @@ class OpenCREUpdater {
         throw new Error(`Both API and GitHub fallback failed: API(${String(apiError)}), GitHub(${String(githubError)})`);
       }
     }
+  }
+
+  // The API caps per_page at 100 and reports total_pages regardless of what is
+  // requested, so a single call returns a sixth of the catalog. Walk every page.
+  private async fetchAllPages(baseUrl: string): Promise<OpenCREData> {
+    const all: any[] = [];
+    const seen = new Set<string>();
+    let page = 1;
+    let totalPages = 1;
+
+    do {
+      const sep = baseUrl.includes('?') ? '&' : '?';
+      const body: any = await this.fetchFromUrl(`${baseUrl}${sep}page=${page}&per_page=100`);
+      const batch: any[] = body?.data ?? [];
+      totalPages = Number(body?.total_pages) || 1;
+
+      for (const cre of batch) {
+        const key = String(cre?.id ?? cre?.external_id ?? cre?.name ?? '');
+        if (key && seen.has(key)) continue;
+        if (key) seen.add(key);
+        all.push(cre);
+      }
+
+      logger.info(`Fetched page ${page}/${totalPages} (${batch.length} CREs, ${all.length} total)`);
+      if (batch.length === 0) break;
+      page++;
+    } while (page <= totalPages);
+
+    if (all.length === 0) {
+      throw new Error('OpenCRE API returned no CREs');
+    }
+
+    return { data: all };
   }
 
   private fetchFromUrl(url: string, redirectCount = 0): Promise<OpenCREData> {
@@ -288,7 +321,24 @@ class OpenCREUpdater {
     this.cleanupOrphanedElements(processedIds);
   }
 
+  // A fetch that silently returns a fraction of the catalog would otherwise be
+  // indistinguishable from upstream deleting content: the orphan sweep removes
+  // everything not fetched. Refuse to prune on an implausible drop.
   private cleanupOrphanedElements(processedIds: Set<string>): void {
+    const onDisk = fs.existsSync(this.config.elementsPath)
+      ? fs.readdirSync(this.config.elementsPath).filter(f => f.endsWith('.yml')).length
+      : 0;
+    if (onDisk > 0 && processedIds.size < onDisk * 0.9) {
+      throw new Error(
+        `Refusing to prune: fetched ${processedIds.size} elements but ${onDisk} exist on disk. ` +
+        'This is usually an incomplete fetch, not upstream deletions. ' +
+        'Verify against the source before rerunning.'
+      );
+    }
+    return this.cleanupOrphanedElementsUnchecked(processedIds);
+  }
+
+  private cleanupOrphanedElementsUnchecked(processedIds: Set<string>): void {
     if (!fs.existsSync(this.config.elementsPath)) {
       return;
     }

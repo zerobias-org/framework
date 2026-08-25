@@ -3,4 +3,8 @@ name: XSS protection
 description: XSS protection
 externalId: 760-765
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/6.4
+    - CWE-692
 parent: 546-564
