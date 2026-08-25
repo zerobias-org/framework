@@ -3,4 +3,9 @@ name: Log time synchronization
 description: Log time synchronization
 externalId: 770-362
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/10.6
+    - PCI DSS/10.6.1
+    - PCI DSS/10.6.2
 parent: 148-420

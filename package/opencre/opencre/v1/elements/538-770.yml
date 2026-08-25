@@ -3,4 +3,7 @@ name: Data access control
 description: Data access control
 externalId: 538-770
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/7.2
 parent: 126-668

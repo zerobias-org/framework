@@ -3,4 +3,7 @@ name: Organizational AI security controls
 description: Organizational AI security controls
 externalId: 225-553
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/1.5.1
 parent: 567-755

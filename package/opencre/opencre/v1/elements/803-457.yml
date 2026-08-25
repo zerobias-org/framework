@@ -3,4 +3,7 @@ name: Protection against AI-Specfic Threats
 description: Protection against AI-Specfic Threats
 externalId: 803-457
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/5.4
 parent: 546-564

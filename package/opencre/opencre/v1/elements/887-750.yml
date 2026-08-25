@@ -3,4 +3,8 @@ name: Detect and respond
 description: Detect and respond
 externalId: 887-750
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/10.7
+    - PCI DSS/12.10.7
 parent: 862-452

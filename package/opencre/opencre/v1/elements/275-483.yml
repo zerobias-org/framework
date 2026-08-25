@@ -3,4 +3,7 @@ name: Securely store regulated data
 description: Securely store regulated data
 externalId: 275-483
 elementType: cre
+links:
+  demonstrates:
+    - PCI DSS/3.3.3
 parent: 400-007
