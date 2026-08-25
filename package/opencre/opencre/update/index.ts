@@ -181,6 +181,24 @@ class OpenCREUpdater {
     });
   }
 
+  // The API returns object keys and tag arrays in a non-deterministic order, so
+  // every run rewrote the whole cache (~18.5k lines) and the change hash never
+  // matched — the fetcher always believed the data had changed. Canonicalize
+  // before hashing and before writing.
+  private canonical(node: any): any {
+    if (Array.isArray(node)) {
+      const items = node.map(v => this.canonical(v));
+      return items.every(v => typeof v === 'string') ? items.sort() : items;
+    }
+    if (node && typeof node === 'object') {
+      return Object.keys(node).sort().reduce((acc: any, k) => {
+        acc[k] = this.canonical(node[k]);
+        return acc;
+      }, {});
+    }
+    return node;
+  }
+
   private hasDataChanged(newData: OpenCREData): boolean {
     if (!fs.existsSync(this.config.localDataPath)) {
       return true;
@@ -190,8 +208,8 @@ class OpenCREUpdater {
       const existingData = JSON.parse(fs.readFileSync(this.config.localDataPath, 'utf8'));
       
       // Compare data hashes
-      const existingHash = crypto.createHash('sha256').update(JSON.stringify(existingData.data || existingData)).digest('hex');
-      const newHash = crypto.createHash('sha256').update(JSON.stringify(newData.data || newData)).digest('hex');
+      const existingHash = crypto.createHash('sha256').update(JSON.stringify(this.canonical(existingData.data || existingData))).digest('hex');
+      const newHash = crypto.createHash('sha256').update(JSON.stringify(this.canonical(newData.data || newData))).digest('hex');
       return existingHash !== newHash;
     } catch (error) {
       logger.warning('Error comparing data, assuming changed:', error as Error);
@@ -473,7 +491,7 @@ class OpenCREUpdater {
       if (!fs.existsSync(cacheDir)) {
         fs.mkdirSync(cacheDir, { recursive: true });
       }
-      fs.writeFileSync(this.config.localDataPath, JSON.stringify(newData, null, 2), 'utf8');
+      fs.writeFileSync(this.config.localDataPath, JSON.stringify(this.canonical(newData), null, 2), 'utf8');
       
       logger.info(`Successfully processed ${elements.length} elements`);
       if (this.unmapped.size > 0) {
