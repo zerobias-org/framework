@@ -1,0 +1,9 @@
+id: 7daf004a-9574-4363-a569-bc45856f1792 # Unique UUID
+name: Transaction & Function Control [CUI Data]
+description: Limit system access to the types of transactions and functions that authorized users are permitted to execute.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.2
+aliases:
+  - ac_l2_3_1_2
+  - Requirement AC.L2-3.1.2
+parent: ac

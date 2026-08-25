@@ -1,0 +1,9 @@
+id: 0111626c-55dc-48c1-8345-bc7c2349d534 # Unique UUID
+name: Security Configuration Enforcement
+description: Establish and enforce security configuration settings for information technology products employed in organizational systems.
+elementType: cmmc_requirement
+externalId: CM.L2-3.4.2
+aliases:
+  - cm_l2_3_4_2
+  - Requirement CM.L2-3.4.2
+parent: cm

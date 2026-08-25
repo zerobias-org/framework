@@ -1,0 +1,9 @@
+id: 6fa97a9b-3254-4532-ba40-7001badee1ba # Unique UUID
+name: Portable Storage Use
+description: Limit use of portable storage devices on external systems.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.21
+aliases:
+  - ac_l2_3_1_21
+  - Requirement AC.L2-3.1.21
+parent: ac

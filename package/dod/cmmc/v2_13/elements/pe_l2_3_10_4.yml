@@ -1,0 +1,9 @@
+id: 73c7f510-4b52-42dc-8703-07c4532a5812 # Unique UUID
+name: Physical Access Logs [CUI Data]
+description: Maintain audit logs of physical access.
+elementType: cmmc_requirement
+externalId: PE.L2-3.10.4
+aliases:
+  - pe_l2_3_10_4
+  - Requirement PE.L2-3.10.4
+parent: pe

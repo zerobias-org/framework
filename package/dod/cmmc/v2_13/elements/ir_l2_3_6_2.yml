@@ -1,0 +1,9 @@
+id: 08db8904-b83d-4c09-b02c-06cc923e539d # Unique UUID
+name: Incident Reporting
+description: Track, document, and report incidents to designated officials and/or authorities both internal and external to the organization.
+elementType: cmmc_requirement
+externalId: IR.L2-3.6.2
+aliases:
+  - ir_l2_3_6_2
+  - Requirement IR.L2-3.6.2
+parent: ir

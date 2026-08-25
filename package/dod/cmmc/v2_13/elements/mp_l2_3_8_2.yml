@@ -1,0 +1,9 @@
+id: 8a597226-deaf-4979-afbf-583b68157d3f # Unique UUID
+name: Media Access
+description: Limit access to CUI on system media to authorized users.
+elementType: cmmc_requirement
+externalId: MP.L2-3.8.2
+aliases:
+  - mp_l2_3_8_2
+  - Requirement MP.L2-3.8.2
+parent: mp

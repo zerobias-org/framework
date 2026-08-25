@@ -1,0 +1,9 @@
+id: 186ae811-0beb-48c0-943b-d9909fc82f99 # Unique UUID
+name: Remote Access Routing
+description: Route remote access via managed access control points.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.14
+aliases:
+  - ac_l2_3_1_14
+  - Requirement AC.L2-3.1.14
+parent: ac

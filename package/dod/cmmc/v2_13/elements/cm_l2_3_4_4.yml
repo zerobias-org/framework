@@ -1,0 +1,9 @@
+id: 0a303955-3edb-44d0-b928-a3e4fa091d3e # Unique UUID
+name: Security Impact Analysis
+description: Analyze the security impact of changes prior to implementation.
+elementType: cmmc_requirement
+externalId: CM.L2-3.4.4
+aliases:
+  - cm_l2_3_4_4
+  - Requirement CM.L2-3.4.4
+parent: cm

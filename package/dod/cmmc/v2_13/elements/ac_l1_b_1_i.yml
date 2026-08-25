@@ -1,0 +1,9 @@
+id: 2c3ce178-526a-473c-a22b-8f433185ff04 # Unique UUID
+name: Authorized Access Control [FCI Data]
+description: Limit information system access to authorized users, processes acting on behalf of authorized users, or devices (including other information systems).
+elementType: cmmc_requirement
+externalId: AC.L1-b.1.i
+aliases:
+  - ac_l1_b_1_i
+  - Requirement AC.L1-b.1.i
+parent: ac

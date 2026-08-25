@@ -1,0 +1,9 @@
+id: 50a89734-8cad-4b74-ad4f-56293ea495b1 # Unique UUID
+name: Control Remote Access
+description: Monitor and control remote access sessions.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.12
+aliases:
+  - ac_l2_3_1_12
+  - Requirement AC.L2-3.1.12
+parent: ac

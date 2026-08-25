@@ -1,0 +1,9 @@
+id: 79dfef9a-e135-47a5-a5c9-2666bfd09dc6 # Unique UUID
+name: Manage Physical Access [CUI Data]
+description: Control and manage physical access devices.
+elementType: cmmc_requirement
+externalId: PE.L2-3.10.5
+aliases:
+  - pe_l2_3_10_5
+  - Requirement PE.L2-3.10.5
+parent: pe

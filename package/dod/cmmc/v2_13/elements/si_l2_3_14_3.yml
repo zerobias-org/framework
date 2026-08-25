@@ -1,0 +1,9 @@
+id: 16cc766a-589c-4ce1-8fe7-56d572871ca1 # Unique UUID
+name: Security Alerts & Advisories
+description: Monitor system security alerts and advisories and take action in response.
+elementType: cmmc_requirement
+externalId: SI.L2-3.14.3
+aliases:
+  - si_l2_3_14_3
+  - Requirement SI.L2-3.14.3
+parent: si

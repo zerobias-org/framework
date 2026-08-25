@@ -1,0 +1,9 @@
+id: 453fe71c-c042-4223-ac5a-84423f4aace8 # Unique UUID
+name: Audit Management
+description: Limit management of audit logging functionality to a subset of privileged users.
+elementType: cmmc_requirement
+externalId: AU.L2-3.3.9
+aliases:
+  - au_l2_3_3_9
+  - Requirement AU.L2-3.3.9
+parent: au

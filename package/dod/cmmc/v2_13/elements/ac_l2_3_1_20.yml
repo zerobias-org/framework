@@ -1,0 +1,9 @@
+id: 111f1925-7ff7-4969-b502-2d865468dc22 # Unique UUID
+name: External Connections [CUI Data]
+description: Verify and control/limit connections to and use of external systems.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.20
+aliases:
+  - ac_l2_3_1_20
+  - Requirement AC.L2-3.1.20
+parent: ac

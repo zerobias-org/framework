@@ -1,0 +1,9 @@
+id: 615f913b-074f-40ad-9d26-f678fa898155 # Unique UUID
+name: Session Termination
+description: Terminate (automatically) a user session after a defined condition.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.11
+aliases:
+  - ac_l2_3_1_11
+  - Requirement AC.L2-3.1.11
+parent: ac

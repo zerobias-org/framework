@@ -1,0 +1,9 @@
+id: c4d9cbaf-84e4-4a61-b1af-a42d84beac4f # Unique UUID
+name: CUI Encryption
+description: Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.11
+aliases:
+  - sc_l2_3_13_11
+  - Requirement SC.L2-3.13.11
+parent: sc

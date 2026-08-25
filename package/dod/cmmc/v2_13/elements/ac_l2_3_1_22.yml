@@ -1,0 +1,9 @@
+id: 4c113802-b4b2-4fdb-a562-a47ce3508231 # Unique UUID
+name: Control Public Information [CUI Data]
+description: Control CUI posted or processed on publicly accessible systems.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.22
+aliases:
+  - ac_l2_3_1_22
+  - Requirement AC.L2-3.1.22
+parent: ac

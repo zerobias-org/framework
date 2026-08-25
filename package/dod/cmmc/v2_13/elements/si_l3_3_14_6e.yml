@@ -1,0 +1,9 @@
+id: 2c9fc2ff-734b-4351-89a6-998a0a885c58 # Unique UUID
+name: Threat-Guided Intrusion Detection
+description: Use threat indicator information and effective mitigations obtained from, at a minimum, open or commercial sources, and any DoD-provided sources, to guide and inform intrusion detection and threat hunting.
+elementType: cmmc_requirement
+externalId: SI.L3-3.14.6e
+aliases:
+  - si_l3_3_14_6e
+  - Requirement SI.L3-3.14.6e
+parent: si

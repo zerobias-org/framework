@@ -1,0 +1,9 @@
+id: 64bbf15d-07f5-486b-a003-932061210f9b # Unique UUID
+name: Wireless Access Authorization
+description: Authorize wireless access prior to allowing such connections.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.16
+aliases:
+  - ac_l2_3_1_16
+  - Requirement AC.L2-3.1.16
+parent: ac

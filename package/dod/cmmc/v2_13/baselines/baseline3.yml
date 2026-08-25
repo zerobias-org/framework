@@ -1,0 +1,100 @@
+id: e5b33115-5968-4d71-bbe0-4963ca8e59c9 # Unique UUID
+name: CMMC v2.13 Level 3 Baseline
+description: Level 3 focuses on the protection of CUI and encompasses a subset of 24 NIST SP 800-172 security requirements with DoD-approved parameters.
+elements:
+  ac_l3_3_1_2e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac_l3_3_1_3e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at_l3_3_2_1e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at_l3_3_2_2e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca_l3_3_12_1e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm_l3_3_4_1e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm_l3_3_4_2e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm_l3_3_4_3e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia_l3_3_5_1e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia_l3_3_5_3e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir_l3_3_6_1e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir_l3_3_6_2e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps_l3_3_9_2e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra_l3_3_11_1e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra_l3_3_11_2e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra_l3_3_11_3e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra_l3_3_11_4e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra_l3_3_11_5e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra_l3_3_11_6e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra_l3_3_11_7e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc_l3_3_13_4e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si_l3_3_14_1e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si_l3_3_14_3e:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si_l3_3_14_6e:
+    mandatory: true
+    parameters: []
+    requirements: []

@@ -1,0 +1,9 @@
+id: b14727a5-9eed-468a-bd7a-2c9d4b4bfcf1 # Unique UUID
+name: Data in Transit
+description: Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.8
+aliases:
+  - sc_l2_3_13_8
+  - Requirement SC.L2-3.13.8
+parent: sc

@@ -1,0 +1,9 @@
+id: 9dfa71b2-bcc6-49c7-a80e-b5cc1c3684f8 # Unique UUID
+name: Boundary Protection [FCI Data]
+description: Monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the information systems.
+elementType: cmmc_requirement
+externalId: SC.L1-b.1.x
+aliases:
+  - sc_l1_b_1_x
+  - Requirement SC.L1-b.1.x
+parent: sc
