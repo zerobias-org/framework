@@ -1,4 +1,4 @@
-id: c7e6582f-a3c5-490e-a8a6-b27e69d5f0c0 # Unique UUID
+id: c7e6582f-a3c5-490e-a8a6-b27e69d5f0c0
 name: DOD CMMC v2.13
 description: Cybersecurity Maturity Model Certification (CMMC) framework Version 2.13, September 2024, DoD-CIO-00001 (ZRIN 0790-ZA17)
 standardType: framework
@@ -11,11 +11,11 @@ status: approved
 external: true
 internal: false
 elementTypes:
-  - id: dc7af0c1-b821-4f3c-b24b-cb7caead84da # Unique UUID
+  - id: dc7af0c1-b821-4f3c-b24b-cb7caead84da
     code: cmmc_domain
     name: CMMC Domain
     description: Folder element representing a CMMC Domain
-  - id: 7645d163-3984-4073-a5ff-ed50c1480c61 # Unique UUID
+  - id: 7645d163-3984-4073-a5ff-ed50c1480c61
     code: cmmc_requirement
     name: CMMC Requirement
     description: Control element representing a CMMC Requirement

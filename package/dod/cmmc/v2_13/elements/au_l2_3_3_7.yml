@@ -1,4 +1,4 @@
-id: d9d951d2-c1b8-48af-8b32-edbbcd6188de # Unique UUID
+id: d9d951d2-c1b8-48af-8b32-edbbcd6188de
 name: Authoritative Time Source
 description: Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.
 elementType: cmmc_requirement

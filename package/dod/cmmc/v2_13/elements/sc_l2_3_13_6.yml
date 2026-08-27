@@ -1,4 +1,4 @@
-id: aeaf3442-b8b0-4e74-b309-7b82735d4a02 # Unique UUID
+id: aeaf3442-b8b0-4e74-b309-7b82735d4a02
 name: Network Communication by Exception
 description: Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).
 elementType: cmmc_requirement

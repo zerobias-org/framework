@@ -1,4 +1,4 @@
-id: 31701ca4-bdc3-4db8-ace1-90d768b4f349 # Unique UUID
+id: 31701ca4-bdc3-4db8-ace1-90d768b4f349
 name: Privileged Functions
 description: Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.
 elementType: cmmc_requirement
