@@ -1,0 +1,9 @@
+id: d887386f-a15f-432e-9848-48295b7e308d
+name: Replay-Resistant Authentication
+description: Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.
+elementType: cmmc_requirement
+externalId: IA.L2-3.5.4
+aliases:
+  - ia_l2_3_5_4
+  - Requirement IA.L2-3.5.4
+parent: ia

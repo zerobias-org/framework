@@ -1,0 +1,9 @@
+id: 6e715721-7c30-44b8-bc3f-666839d46d7c
+name: Integrity Verification
+description: Verify the integrity of security critical and essential software using root of trust mechanisms or cryptographic signatures.
+elementType: cmmc_requirement
+externalId: SI.L3-3.14.1e
+aliases:
+  - si_l3_3_14_1e
+  - Requirement SI.L3-3.14.1e
+parent: si

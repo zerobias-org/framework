@@ -1,0 +1,64 @@
+id: f6b04b08-c55b-4c48-8120-7546d0160bff
+name: CMMC v2.13 Level 1 Baseline
+description: Level 1 focuses on the protection of FCI and consists of the security requirements that correspond to the 15 basic safeguarding requirements specified in 48 CFR 52.204-21, commonly referred to as the FAR Clause.
+elements:
+  ac_l1_b_1_i:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac_l1_b_1_ii:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac_l1_b_1_iii:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac_l1_b_1_iv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia_l1_b_1_v:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia_l1_b_1_vi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp_l1_b_1_vii:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe_l1_b_1_ix:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe_l1_b_1_viii:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc_l1_b_1_x:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc_l1_b_1_xi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si_l1_b_1_xii:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si_l1_b_1_xiii:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si_l1_b_1_xiv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si_l1_b_1_xv:
+    mandatory: true
+    parameters: []
+    requirements: []

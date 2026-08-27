@@ -1,0 +1,9 @@
+id: 6d804a57-e2b3-46b4-b59e-ffbb82675608
+name: Unsuccessful Logon Attempts
+description: Limit unsuccessful logon attempts.
+elementType: cmmc_requirement
+externalId: AC.L2-3.1.8
+aliases:
+  - ac_l2_3_1_8
+  - Requirement AC.L2-3.1.8
+parent: ac

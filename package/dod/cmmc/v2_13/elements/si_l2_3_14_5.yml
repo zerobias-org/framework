@@ -1,0 +1,9 @@
+id: 06baf07f-0367-4510-a557-6f869f733340
+name: System & File Scanning [CUI Data]
+description: Perform periodic scans of organizational systems and real-time scans of files from external sources as files are downloaded, opened, or executed.
+elementType: cmmc_requirement
+externalId: SI.L2-3.14.5
+aliases:
+  - si_l2_3_14_5
+  - Requirement SI.L2-3.14.5
+parent: si

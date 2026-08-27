@@ -1,0 +1,9 @@
+id: a922ae5b-e6a1-47f9-82fe-1d684c2baf0d
+name: Public-Access System Separation [FCI Data]
+description: Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
+elementType: cmmc_requirement
+externalId: SC.L1-b.1.xi
+aliases:
+  - sc_l1_b_1_xi
+  - Requirement SC.L1-b.1.xi
+parent: sc

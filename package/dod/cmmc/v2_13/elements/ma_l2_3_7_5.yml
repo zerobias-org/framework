@@ -1,0 +1,9 @@
+id: f9462984-c79b-4489-9b73-e0276de17de5
+name: Nonlocal Maintenance
+description: Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.
+elementType: cmmc_requirement
+externalId: MA.L2-3.7.5
+aliases:
+  - ma_l2_3_7_5
+  - Requirement MA.L2-3.7.5
+parent: ma

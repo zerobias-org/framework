@@ -1,0 +1,9 @@
+id: 4baf038b-78ae-4e1d-ac0a-3d7455d4be05
+name: Shared Resource Control
+description: Prevent unauthorized and unintended information transfer via shared system resources.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.4
+aliases:
+  - sc_l2_3_13_4
+  - Requirement SC.L2-3.13.4
+parent: sc

@@ -1,0 +1,9 @@
+id: 0fa59e46-41e5-4de9-ba21-b646829e132c
+name: Password Reuse
+description: Prohibit password reuse for a specified number of generations.
+elementType: cmmc_requirement
+externalId: IA.L2-3.5.8
+aliases:
+  - ia_l2_3_5_8
+  - Requirement IA.L2-3.5.8
+parent: ia

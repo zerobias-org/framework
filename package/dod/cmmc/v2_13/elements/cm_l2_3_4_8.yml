@@ -1,0 +1,9 @@
+id: fdb42c9a-b288-4478-a219-9226ad02a355
+name: Application Execution Policy
+description: Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.
+elementType: cmmc_requirement
+externalId: CM.L2-3.4.8
+aliases:
+  - cm_l2_3_4_8
+  - Requirement CM.L2-3.4.8
+parent: cm

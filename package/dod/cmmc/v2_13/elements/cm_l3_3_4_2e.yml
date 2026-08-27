@@ -1,0 +1,9 @@
+id: c54bb2a0-6b87-4426-aa30-7aafbdf8d1b6
+name: Automated Detection & Remediation
+description: Employ automated mechanisms to detect misconfigured or unauthorized system components; after detection, remove the components or place the components in a quarantine or remediation network to facilitate patching, re-configuration, or other mitigations.
+elementType: cmmc_requirement
+externalId: CM.L3-3.4.2e
+aliases:
+  - cm_l3_3_4_2e
+  - Requirement CM.L3-3.4.2e
+parent: cm

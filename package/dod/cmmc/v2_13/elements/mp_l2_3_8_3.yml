@@ -1,0 +1,9 @@
+id: 919b94b0-7e90-4756-9407-654b7c7ab052
+name: Media Disposal [CUI Data]
+description: Sanitize or destroy system media containing CUI before disposal or release for reuse.
+elementType: cmmc_requirement
+externalId: MP.L2-3.8.3
+aliases:
+  - mp_l2_3_8_3
+  - Requirement MP.L2-3.8.3
+parent: mp

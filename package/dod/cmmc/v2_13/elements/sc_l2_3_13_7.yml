@@ -1,0 +1,9 @@
+id: a077e200-19f9-4798-8277-c107c3d5c584
+name: Split Tunneling
+description: Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling).
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.7
+aliases:
+  - sc_l2_3_13_7
+  - Requirement SC.L2-3.13.7
+parent: sc

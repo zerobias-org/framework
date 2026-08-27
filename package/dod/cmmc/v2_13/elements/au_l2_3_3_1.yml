@@ -1,0 +1,9 @@
+id: 05c8fafa-826c-44e6-9895-0bd8cb5ffccd
+name: System Auditing
+description: Create and retain system audit logs and records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity.
+elementType: cmmc_requirement
+externalId: AU.L2-3.3.1
+aliases:
+  - au_l2_3_3_1
+  - Requirement AU.L2-3.3.1
+parent: au

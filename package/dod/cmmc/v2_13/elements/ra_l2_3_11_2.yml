@@ -1,0 +1,9 @@
+id: 51e5d33f-5b7d-43f0-aad1-1f0ea5019ec2
+name: Vulnerability Scan
+description: Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.
+elementType: cmmc_requirement
+externalId: RA.L2-3.11.2
+aliases:
+  - ra_l2_3_11_2
+  - Requirement RA.L2-3.11.2
+parent: ra

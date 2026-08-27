@@ -1,0 +1,9 @@
+id: d9d951d2-c1b8-48af-8b32-edbbcd6188de
+name: Authoritative Time Source
+description: Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.
+elementType: cmmc_requirement
+externalId: AU.L2-3.3.7
+aliases:
+  - au_l2_3_3_7
+  - Requirement AU.L2-3.3.7
+parent: au

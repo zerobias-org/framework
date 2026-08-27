@@ -1,0 +1,9 @@
+id: f6038f22-19d7-422a-aaa4-d4298e669695
+name: Block Untrusted Assets
+description: Employ automated or manual/procedural mechanisms to prohibit system components from connecting to organizational systems unless the components are known, authenticated, in a properly configured state, or in a trust profile.
+elementType: cmmc_requirement
+externalId: IA.L3-3.5.3e
+aliases:
+  - ia_l3_3_5_3e
+  - Requirement IA.L3-3.5.3e
+parent: ia

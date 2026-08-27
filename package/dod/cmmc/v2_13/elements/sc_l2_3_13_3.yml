@@ -1,0 +1,9 @@
+id: ec7b25ea-fda9-40ed-b36c-209dae548f78
+name: Role Separation
+description: Separate user functionality from system management functionality.
+elementType: cmmc_requirement
+externalId: SC.L2-3.13.3
+aliases:
+  - sc_l2_3_13_3
+  - Requirement SC.L2-3.13.3
+parent: sc
