@@ -5,14 +5,8 @@ externalId: 162-655
 elementType: cre
 links:
   demonstrates:
-    - CWE-1059
     - OWASP Cheat Sheets/Abuse Case Cheat Sheet
     - owasp.asvs.v4_0_3.framework/1.11.1
-    - CWE-1053
-    - CWE-1110
-    - CWE-1111
-    - CWE-1112
-    - CWE-1118
     - PCI DSS/2.2.5
     - PCI DSS/6.5.2
 parent: 820-877
