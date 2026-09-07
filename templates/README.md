@@ -59,7 +59,7 @@ package name that already carries plain-semver catalog versions is refused, as
 is one whose rc versions belong to a different org. So this is for brand-new
 packages, not new releases of catalogued ones.
 
-Required slot env (see `zbb.yaml` for the full declarations):
+Required credentials:
 
 | var | what it is |
 |---|---|
@@ -67,15 +67,26 @@ Required slot env (see `zbb.yaml` for the full declarations):
 | `ZB_TOKEN` | registry key for `pkg.zerobias.org`; also drives the gate's Neon step. Must be prod-issued. |
 | `ZB_ORG_ID` | target org UUID — must match `zerobias.orgId` here. |
 
-Set them in the **slot**, not the shell — a plain `export` does not reach the
-gradle build (zbb seals the env):
+These are **not** declared in this repo. They live once per slot on the shared
+`dev` stack (`@zerobias-org/dev-stack`) and this repo imports them — see the
+`depends:` / `imports:` block in `zbb.yaml`. Seed them there, once:
 
 ```bash
-zbb --slot <slot> env set ZB_API_KEY <org-admin-key> >/dev/null
+zbb --slot <slot> --stack dev env set ZB_API_KEY <org-admin-key> >/dev/null
 ```
+
+Every importing stack then resolves the value transitively.
+`scripts/setup-org-credentials.sh` does this for you.
+
+> ⚠️ **Never `env set` these on the `framework` stack.** A per-stack override
+> permanently shadows the import — zbb never clobbers a user override — so
+> credential rotation on the dev stack silently stops reaching this repo.
 
 > The `>/dev/null` is deliberate: `zbb env set` currently echoes the value in
 > cleartext even for `mask: true` vars.
+
+Set them in the slot, not the shell — a plain `export` does not reach the
+gradle build, because zbb seals the env.
 
 ## Registry
 
