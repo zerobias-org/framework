@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-{vendor}-{suite}-{version}",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0",
   "description": "{standardName}",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -15,7 +15,7 @@
     "validate": "tsx ../../../../scripts/validate.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org/"
   },
   "files": [
     "index.yml",
@@ -25,7 +25,8 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "framework",
-    "package": "{vendor}.{suite}.{version}.framework"
+    "package": "{vendor}.{suite}.{version}.framework",
+    "orgId": "{target-org-uuid}"
   },
   "dependencies": {
     "@zerobias-org/suite-{vendor}-{suite}": "latest"

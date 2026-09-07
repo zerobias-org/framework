@@ -6,6 +6,69 @@ version: "1.0.0"
 # as vendor / suite / tag / module). The task creates and deletes its
 # own branch via the Neon API.
 env:
+  # ── Org-first SDLC credentials (set per slot: `zbb --slot <s> env set …`).
+  # Declared here because zbb's env seal strips anything outside the command
+  # contract, and the publish-endpoint overrides are deliberately excluded
+  # from every contract (see ENV_CONTRACT_IGNORED in zbb's env/effective.ts)
+  # so a stale shell value can never silently redirect a publish. A repo's
+  # own `env:` block is the only channel that survives the seal — and
+  # undeclared vars are also a no-op for `zbb env set`.
+  ZB_TOKEN:
+    type: secret
+    mask: true
+    description: >-
+      REGISTRY key — auths pkg.zerobias.org (npm view/publish, .npmrc
+      interpolation) and the gate's Neon dataloader step (which runs iff
+      this is present). Must be a PROD-issued key while the registry
+      accepts only prod keys, even when the org target is another env.
+
+  ZB_API_KEY:
+    type: secret
+    mask: true
+    description: >-
+      ORG key: org-admin API key of the publishOrg TARGET org/env. Used by
+      the org-publish platform calls (verifyOrgPublish's dana /me check,
+      the dataloader org job). Falls back to ZB_TOKEN when unset, which is
+      only viable when the target is prod — keys are per-environment, so a
+      non-prod target with a single key 401s on /dana/me. Set both.
+
+  ZB_ORG_ID:
+    type: string
+    description: >-
+      Target org UUID. Also mirrored into each new package's
+      zerobias.orgId; stored here so launch shells can read it back
+      (`zbb --slot <s> env get ZB_ORG_ID`).
+
+  ZB_PLATFORM_URL:
+    type: string
+    default: "https://app.zerobias.com/api"
+    description: Platform API base for verifyOrgPublish + the org dataloader job
+
+  DATALOADER_SERVICE_URL:
+    type: string
+    default: "https://app.zerobias.com/api/dataloader"
+    description: >-
+      Dataloader endpoint for the GATE's Neon step (separate from
+      ZB_PLATFORM_URL — the gate does not honor that var). LEAVE ON THE
+      PROD DEFAULT even for non-prod org targets: the step auths with the
+      prod-issued ZB_TOKEN, and a per-env override makes that key 401.
+      The org load never reads this (it uses ZB_PLATFORM_URL + ZB_API_KEY).
+
+  NPM_CONFIG_TAG:
+    type: string
+    default: "dev"
+    description: >-
+      npm dist-tag for org-private rc publishes (npm 11 refuses prerelease
+      publishes without one; catalog publishes pass --tag explicitly, so
+      this default is inert for them).
+
+  # NOTE: no PUBLISH_ORG_REGISTRY_URL / PUBLISH_ORG_NPM_TOKEN here, and none
+  # is wanted. OrgPublish already classifies and publishes against
+  # pkg.zerobias.org by default, which is correct for @zerobias-org — the
+  # verdaccio accepts publishes on this scope. auditlogic/framework_new DOES
+  # pin those two vars because @auditlogic is proxy-only there and returns
+  # 403 on publish; do not copy that pin into this repo.
+
   NEON_API_KEY:
     source: vault
     vault: "operations-kv/neon/content.api-key"
@@ -40,6 +103,13 @@ lifecycle:
   gate:      ./gradlew gate
   gateCheck: ./gradlew gateCheck
   publish:   ./gradlew publish
+  # Org-first SDLC: publish an org-private rc + queue the org dataloader
+  # job. The -PorgPublish=true flag is what flips the shared publish
+  # pipeline into org mode — zbb does not inject it on its own, and the
+  # zb.base `publishOrg` alias reads the flag at CONFIGURATION time, so
+  # without this entry zbb falls back to a bare `./gradlew publishOrg`
+  # that hard-fails.
+  publishOrg: ./gradlew publishOrg -PorgPublish=true
 
 require:
   - tool: dataloader
