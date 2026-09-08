@@ -135,8 +135,11 @@ Two packages under `package/<a>/<f>/update/` (`opencre/opencre/update`, `scf/scf
 
 ## Branches
 
-- `main` — default, all PRs target it
-- `dev`, `qa`, `uat` — environment branches kept in sync by the publish workflow's `sync` job
+- `dev` — **all package PRs target it**; bottom of the promotion chain. A merge publishes the `dev` prerelease line (dist-tag `dev`).
+- `qa`, `uat`, `main` — promotion targets, reached by merging the branch below (`dev → qa → uat → main`); `main` publishes `latest` and is the default branch. After a main publish the sync job propagates main → uat → qa → dev. The promotion-order check (`.github/workflows/promotion-order-check.yml`) warns on PRs that skip a step.
+- **Exception — non-package work** (skills, docs, scripts, `zbb.yaml`, workflows) may PR straight to `main`: nothing publishes, and the sync carries it down.
+
+All four branches publish — `publish.yml` triggers on push to `[main, qa, dev, uat]` — and `zb.base` maps the branch to its dist-tags (`dev`→dev, `qa`→dev+qa, `uat`→dev+qa+uat, `main`→dev+qa+uat+latest). They are promotion sources, not merely sync targets.
 
 ## Commit format
 
