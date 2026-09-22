@@ -1,0 +1,15 @@
+id: 6421883b-7316-40fa-9694-061f793a9308
+externalId: AC-4(22)
+name: Information Flow Enforcement | Access Only
+description: Provides single-device access to platforms, applications, or data across
+  multiple security domains while preventing information flow between them.
+elementType: enhancement
+parent: ac-4
+guidance: The system provides a capability for users to access each connected security
+  domain without providing any mechanisms to allow users to transfer data or information
+  between the different security domains. An example of an access-only solution is
+  a terminal that provides a user access to information with different security classifications
+  while assuredly keeping the information separate.
+aliases:
+- AC-4(22)
+- AC-4 (22)

@@ -1,0 +1,7 @@
+- a. Develop and document an inventory of system components that:
+    - 1\. Accurately reflects the system;
+    - 2\. Includes all components within the system;
+    - 3\. Does not include duplicate accounting of components or components assigned to any other system;
+    - 4\. Is at the level of granularity deemed necessary for tracking and reporting; and
+    - 5\. Includes the following information to achieve system component accountability: [Assignment: organization-defined information deemed necessary to achieve effective system component accountability]; and
+- b. Review and update the system component inventory [Assignment: organization-defined frequency].

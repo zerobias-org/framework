@@ -1,7 +1,16 @@
 id: 01d9046d-58fa-4329-8a1d-155f05c71b63
 externalId: AU-5(5)
 name: Response to Audit Logging Process Failures | Alternate Audit Logging Capability
-description: "Provide an alternate audit logging capability in the event of a
-  failure in primary audit logging capability that implements [Assignment:
-  organization-defined alternate audit logging functionality]."
-elementType: control
+description: 'Provide an alternate audit logging capability in the event of a failure
+  in primary audit logging capability that implements [Assignment: organization-defined
+  alternate audit logging functionality].'
+elementType: enhancement
+parent: au-5
+guidance: Since an alternate audit logging capability may be a short-term protection
+  solution employed until the failure in the primary audit logging capability is corrected,
+  organizations may determine that the alternate audit logging capability need only
+  provide a subset of the primary audit logging functionality that is impacted by
+  the failure.
+aliases:
+- AU-5(5)
+- AU-5 (5)

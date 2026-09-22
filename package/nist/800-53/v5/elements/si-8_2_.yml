@@ -1,6 +1,13 @@
 id: 52c5a720-2c54-499a-8524-9a7ae96abc09
 externalId: SI-8(2)
 name: Spam Protection | Automatic Updates
-description: "Automatically update spam protection mechanisms [Assignment:
-  organization-defined frequency]."
-elementType: control
+description: 'Automatically update spam protection mechanisms [Assignment: organization-defined
+  frequency].'
+elementType: enhancement
+parent: si-8
+guidance: Using automated mechanisms to update spam protection mechanisms helps to
+  ensure that updates occur on a regular basis and provide the latest content and
+  protection capabilities.
+aliases:
+- SI-8(2)
+- SI-8 (2)

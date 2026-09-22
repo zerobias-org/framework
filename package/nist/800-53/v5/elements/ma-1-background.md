@@ -1,0 +1,9 @@
+- a. Develop, document, and disseminate to [Assignment: organization-defined personnel or roles]:
+    - 1\. [Selection (one or more): Organization-level; Mission/business process-level; System-level] maintenance policy that:
+        - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+        - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+    - 2\. Procedures to facilitate the implementation of the maintenance policy and the associated maintenance controls;
+- b. Designate an [Assignment: organization-defined official] to manage the development, documentation, and dissemination of the maintenance policy and procedures; and
+- c. Review and update the current maintenance:
+    - 1\. Policy [Assignment: organization-defined frequency] and following [Assignment: organization-defined events]; and
+    - 2\. Procedures [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].

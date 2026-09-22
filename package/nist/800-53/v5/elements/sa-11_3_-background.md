@@ -1,0 +1,2 @@
+- (a) Require an independent agent satisfying [Assignment: organization-defined independence criteria] to verify the correct implementation of the developer security and privacy assessment plans and the evidence produced during testing and evaluation; and
+- (b) Verify that the independent agent is provided with sufficient information to complete the verification process or granted the authority to obtain such information.

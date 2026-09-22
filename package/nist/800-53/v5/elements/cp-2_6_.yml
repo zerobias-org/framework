@@ -1,8 +1,15 @@
 id: f1e43252-7d9a-4b9a-86f2-da4878702487
 externalId: CP-2(6)
 name: Contingency Plan | Alternate Processing and Storage Sites
-description: "Plan for the transfer of [Selection (one): all; essential] mission
-  and business functions to alternate processing and/or storage sites with
-  minimal or no loss of operational continuity and sustain that continuity
-  through system restoration to primary processing and/or storage sites."
-elementType: control
+description: Plans for the transfer of essential mission and business functions to
+  alternate sites with minimal loss of continuity, sustained through restoration.
+elementType: enhancement
+parent: cp-2
+guidance: Organizations may choose to conduct contingency planning activities for
+  alternate processing and storage sites as part of business continuity planning or
+  business impact analyses. Primary processing and/or storage sites defined by organizations
+  as part of contingency planning may change depending on the circumstances associated
+  with the contingency.
+aliases:
+- CP-2(6)
+- CP-2 (6)

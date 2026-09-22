@@ -1,0 +1,2 @@
+- a. [Selection: Restrict; Prohibit] the use of [Assignment: organization-defined types of system media] on [Assignment: organization-defined systems or system components] using [Assignment: organization-defined controls]; and
+- b. Prohibit the use of portable storage devices in organizational systems when such devices have no identifiable owner.

@@ -1,6 +1,13 @@
 id: 43ee2822-5b80-4dc1-a9dc-9df7b2725b40
 externalId: MA-6(3)
 name: Timely Maintenance | Automated Support for Predictive Maintenance
-description: "Transfer predictive maintenance data to a maintenance management
-  system using [Assignment: organization-defined automated mechanisms]."
-elementType: control
+description: 'Transfer predictive maintenance data to a maintenance management system
+  using [Assignment: organization-defined automated mechanisms].'
+elementType: enhancement
+parent: ma-6
+guidance: A computerized maintenance management system maintains a database of information
+  about the maintenance operations of organizations and automates the processing of
+  equipment condition data to trigger maintenance planning, execution, and reporting.
+aliases:
+- MA-6(3)
+- MA-6 (3)

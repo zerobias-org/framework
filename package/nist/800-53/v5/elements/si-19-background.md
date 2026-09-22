@@ -1,0 +1,2 @@
+- a. Remove the following elements of personally identifiable information from datasets: [Assignment: organization-defined elements of personally identifiable information]; and
+- b. Evaluate [Assignment: organization-defined frequency] for effectiveness of de-identification.

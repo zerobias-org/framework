@@ -1,7 +1,19 @@
 id: 07594b28-baee-48e0-a555-99772fad7d50
 externalId: PM-5(1)
 name: System Inventory | Inventory of Personally Identifiable Information
-description: "Establish, maintain, and update [Assignment: organization-defined
-  frequency] an inventory of all systems, applications, and projects that
-  process personally identifiable information."
-elementType: control
+description: 'Establish, maintain, and update [Assignment: organization-defined frequency]
+  an inventory of all systems, applications, and projects that process personally
+  identifiable information.'
+elementType: enhancement
+parent: pm-5
+guidance: An inventory of systems, applications, and projects that process personally
+  identifiable information supports the mapping of data actions, providing individuals
+  with privacy notices, maintaining accurate personally identifiable information,
+  and limiting the processing of personally identifiable information when such information
+  is not needed for operational purposes. Organizations may use this inventory to
+  ensure that systems only process the personally identifiable information for authorized
+  purposes and that this processing is still relevant and necessary for the purpose
+  specified therein.
+aliases:
+- PM-5(1)
+- PM-5 (1)

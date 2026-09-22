@@ -1,0 +1,16 @@
+id: 9e0714b8-f5d9-4ef4-9a2e-bc1dcd7d31aa
+externalId: CA-6(1)
+name: Authorization | Joint Authorization — Intra-organization
+description: Employ a joint authorization process for the system that includes multiple
+  authorizing officials from the same organization conducting the authorization.
+elementType: enhancement
+parent: ca-6
+guidance: Assigning multiple authorizing officials from the same organization to serve
+  as co-authorizing officials for the system increases the level of independence in
+  the risk-based decision-making process. It also implements the concepts of separation
+  of duties and dual authorization as applied to the system authorization process.
+  The intra-organization joint authorization process is most relevant for connected
+  systems, shared systems, and systems with multiple information owners.
+aliases:
+- CA-6(1)
+- CA-6 (1)

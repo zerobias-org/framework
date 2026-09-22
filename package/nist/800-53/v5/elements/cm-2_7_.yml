@@ -1,10 +1,23 @@
 id: 39446868-86b7-4bef-9833-785b8ff43e16
 externalId: CM-2(7)
 name: Baseline Configuration | Configure Systems and Components for High-risk Areas
-description: "a. Issue [Assignment: organization-defined systems or system
-  components] with [Assignment: organization-defined configurations] to
-  individuals traveling to locations that the organization deems to be of
-  significant risk; andb. Apply the following controls to the systems or
-  components when the individuals return from travel: [Assignment:
-  organization-defined controls]."
-elementType: control
+description: Issues systems or components with defined configurations to individuals
+  traveling to high-risk locations, and applies defined controls upon their return.
+elementType: enhancement
+parent: cm-2
+guidance: When it is known that systems or system components will be in high-risk
+  areas external to the organization, additional controls may be implemented to counter
+  the increased threat in such areas. For example, organizations can take actions
+  for notebook computers used by individuals departing on and returning from travel.
+  Actions include determining the locations that are of concern, defining the required
+  configurations for the components, ensuring that components are configured as intended
+  before travel is initiated, and applying controls to the components after travel
+  is completed. Specially configured notebook computers include computers with sanitized
+  hard drives, limited applications, and more stringent configuration settings. Controls
+  applied to mobile devices upon return from travel include examining the mobile device
+  for signs of physical tampering and purging and reimaging disk drives. Protecting
+  information that resides on mobile devices is addressed in the(Media Protection)
+  family.
+aliases:
+- CM-2(7)
+- CM-2 (7)

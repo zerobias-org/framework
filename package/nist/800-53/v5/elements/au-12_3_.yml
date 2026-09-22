@@ -1,9 +1,17 @@
 id: ebb52366-beec-469e-af7c-8372f160a853
 externalId: AU-12(3)
 name: Audit Record Generation | Changes by Authorized Individuals
-description: "Provide and implement the capability for [Assignment:
-  organization-defined individuals or roles] to change the logging to be
-  performed on [Assignment: organization-defined system components] based on
-  [Assignment: organization-defined selectable event criteria] within
-  [Assignment: organization-defined time thresholds]."
-elementType: control
+description: Provides the capability for designated individuals to change logging
+  on system components based on defined event criteria and time thresholds.
+elementType: enhancement
+parent: au-12
+guidance: Permitting authorized individuals to make changes to system logging enables
+  organizations to extend or limit logging as necessary to meet organizational requirements.
+  Logging that is limited to conserve system resources may be extended (either temporarily
+  or permanently) to address certain threat situations. In addition, logging may be
+  limited to a specific set of event types to facilitate audit reduction, analysis,
+  and reporting. Organizations can establish time thresholds in which logging actions
+  are changed (e.g., near real-time, within minutes, or within hours).
+aliases:
+- AU-12(3)
+- AU-12 (3)

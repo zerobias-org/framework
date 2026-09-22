@@ -1,7 +1,16 @@
 id: d52f03aa-8d80-4e4e-aceb-4c12d140c09e
 externalId: MA-4(6)
 name: Nonlocal Maintenance | Cryptographic Protection
-description: "Implement the following cryptographic mechanisms to protect the
-  integrity and confidentiality of nonlocal maintenance and diagnostic
-  communications: [Assignment: organization-defined cryptographic mechanisms]."
-elementType: control
+description: Implements cryptographic mechanisms to protect the integrity and confidentiality
+  of nonlocal maintenance and diagnostic communications.
+elementType: enhancement
+parent: ma-4
+guidance: Failure to protect nonlocal maintenance and diagnostic communications can
+  result in unauthorized individuals gaining access to organizational information.
+  Unauthorized access during remote maintenance sessions can result in a variety of
+  hostile actions, including malicious code insertion, unauthorized changes to system
+  parameters, and exfiltration of organizational information. Such actions can result
+  in the loss or degradation of mission or business capabilities.
+aliases:
+- MA-4(6)
+- MA-4 (6)

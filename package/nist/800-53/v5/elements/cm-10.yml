@@ -1,10 +1,11 @@
 id: 076ad078-2dcb-4ae5-98c6-4e79ea0e1b8c
 externalId: CM-10
 name: Software Usage Restrictions
-description: a. Use software and associated documentation in accordance with
-  contract agreements and copyright laws;b. Track the use of software and
-  associated documentation protected by quantity licenses to control copying and
-  distribution; andc. Control and document the use of peer-to-peer file sharing
-  technology to ensure that this capability is not used for the unauthorized
-  distribution, display, performance, or reproduction of copyrighted work.
+description: Uses software in accordance with contracts and copyright law, tracks
+  licensed software, and controls peer-to-peer file sharing to prevent unauthorized
+  distribution.
 elementType: control
+parent: cm
+guidance: Software license tracking can be accomplished by manual or automated methods,
+  depending on organizational needs. Examples of contract agreements include software
+  license agreements and non-disclosure agreements.

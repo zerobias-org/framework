@@ -1,6 +1,13 @@
 id: 94788f41-e39a-466e-ac75-3975f3cfab05
 externalId: AC-17(3)
 name: Remote Access | Managed Access Control Points
-description: Route remote accesses through authorized and managed network access
-  control points.
-elementType: control
+description: Route remote accesses through authorized and managed network access control
+  points.
+elementType: enhancement
+parent: ac-17
+guidance: Organizations consider the Trusted Internet Connections (TIC) initiativerequirements
+  for external network connections since limiting the number of access control points
+  for remote access reduces attack surfaces.
+aliases:
+- AC-17(3)
+- AC-17 (3)

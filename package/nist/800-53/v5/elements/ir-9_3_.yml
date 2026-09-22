@@ -1,8 +1,14 @@
 id: faaa3b67-1268-4705-b1f4-84d881a00682
 externalId: IR-9(3)
 name: Information Spillage Response | Post-spill Operations
-description: "Implement the following procedures to ensure that organizational
-  personnel impacted by information spills can continue to carry out assigned
-  tasks while contaminated systems are undergoing corrective actions:
-  [Assignment: organization-defined procedures]."
-elementType: control
+description: Implements defined procedures so personnel affected by information spills
+  can continue assigned tasks while contaminated systems are corrected.
+elementType: enhancement
+parent: ir-9
+guidance: Corrective actions for systems contaminated due to information spillages
+  may be time-consuming. Personnel may not have access to the contaminated systems
+  while corrective actions are being taken, which may potentially affect their ability
+  to conduct organizational business.
+aliases:
+- IR-9(3)
+- IR-9 (3)

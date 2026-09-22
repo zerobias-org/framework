@@ -1,7 +1,17 @@
 id: d79e8d7a-4257-4cfa-923d-fad630f8b6fe
 externalId: IA-3(4)
 name: Device Identification and Authentication | Device Attestation
-description: "Handle device identification and authentication based on
-  attestation by [Assignment: organization-defined configuration management
-  process]."
-elementType: control
+description: 'Handle device identification and authentication based on attestation
+  by [Assignment: organization-defined configuration management process].'
+elementType: enhancement
+parent: ia-3
+guidance: Device attestation refers to the identification and authentication of a
+  device based on its configuration and known operating state. Device attestation
+  can be determined via a cryptographic hash of the device. If device attestation
+  is the means of identification and authentication, then it is important that patches
+  and updates to the device are handled via a configuration management process such
+  that the patches and updates are done securely and do not disrupt identification
+  and authentication to other devices.
+aliases:
+- IA-3(4)
+- IA-3 (4)

@@ -1,6 +1,15 @@
 id: 99574705-fe8c-424a-b7e1-077c07660378
 externalId: IA-5(9)
 name: Authenticator Management | Federated Credential Management
-description: "Use the following external organizations to federate credentials:
-  [Assignment: organization-defined external organizations]."
-elementType: control
+description: 'Use the following external organizations to federate credentials: [Assignment:
+  organization-defined external organizations].'
+elementType: enhancement
+parent: ia-5
+guidance: Federation provides organizations with the capability to authenticate individuals
+  and devices when conducting cross-organization activities involving the processing,
+  storage, or transmission of information. Using a specific list of approved external
+  organizations for authentication helps to ensure that those organizations are vetted
+  and trusted.
+aliases:
+- IA-5(9)
+- IA-5 (9)

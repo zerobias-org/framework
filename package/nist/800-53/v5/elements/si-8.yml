@@ -1,8 +1,13 @@
 id: f4b5b016-f585-466b-9291-663ad1837671
 externalId: SI-8
 name: Spam Protection
-description: a. Employ spam protection mechanisms at system entry and exit
-  points to detect and act on unsolicited messages; andb. Update spam protection
-  mechanisms when new releases are available in accordance with organizational
-  configuration management policy and procedures.
+description: Employs spam protection mechanisms at system entry and exit points, updated
+  as new releases become available.
 elementType: control
+parent: si
+guidance: System entry and exit points include firewalls, remote-access servers, electronic
+  mail servers, web servers, proxy servers, workstations, notebook computers, and
+  mobile devices. Spam can be transported by different means, including email, email
+  attachments, and web accesses. Spam protection mechanisms include signature definitions.
+aliases:
+- SI-8

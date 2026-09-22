@@ -1,0 +1,12 @@
+id: 308b927e-ef30-434b-8df3-bc23f18889e0
+externalId: SC-32(1)
+name: System Partitioning | Separate Physical Domains for Privileged Functions
+description: Partition privileged functions into separate physical domains.
+elementType: enhancement
+parent: sc-32
+guidance: Privileged functions that operate in a single physical domain may represent
+  a single point of failure if that domain becomes compromised or experiences a denial
+  of service.
+aliases:
+- SC-32(1)
+- SC-32 (1)

@@ -1,7 +1,15 @@
 id: 2e513ee4-ed07-4b5f-bab6-b4bc1dc4b7ad
 externalId: SI-4(21)
 name: System Monitoring | Probationary Periods
-description: "Implement the following additional monitoring of individuals
-  during [Assignment: organization-defined probationary period]: [Assignment:
-  organization-defined additional monitoring]."
-elementType: control
+description: 'Implement the following additional monitoring of individuals during
+  [Assignment: organization-defined probationary period]: [Assignment: organization-defined
+  additional monitoring].'
+elementType: enhancement
+parent: si-4
+guidance: During probationary periods, employees do not have permanent employment
+  status within organizations. Without such status or access to information that is
+  resident on the system, additional monitoring can help identify any potentially
+  malicious activity or inappropriate behavior.
+aliases:
+- SI-4(21)
+- SI-4 (21)

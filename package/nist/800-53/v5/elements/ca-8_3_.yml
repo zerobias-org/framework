@@ -1,0 +1,14 @@
+id: 96fe4b24-9b4b-4bb0-a8de-d76d83f331d3
+externalId: CA-8(3)
+name: Penetration Testing | Facility Penetration Testing
+description: Employs a penetration testing process that includes announced or unannounced
+  attempts to bypass physical access controls at the facility.
+elementType: enhancement
+parent: ca-8
+guidance: Penetration testing of physical access points can provide information on
+  critical vulnerabilities in the operating environments of organizational systems.
+  Such information can be used to correct weaknesses or deficiencies in physical controls
+  that are necessary to protect organizational systems.
+aliases:
+- CA-8(3)
+- CA-8 (3)

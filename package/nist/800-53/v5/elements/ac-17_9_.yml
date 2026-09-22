@@ -1,6 +1,13 @@
 id: febbb523-a704-41e5-ad6f-2fc319cfda9f
 externalId: AC-17(9)
 name: Remote Access | Disconnect or Disable Access
-description: "Provide the capability to disconnect or disable remote access to
-  the system within [Assignment: organization-defined time period]."
-elementType: control
+description: 'Provide the capability to disconnect or disable remote access to the
+  system within [Assignment: organization-defined time period].'
+elementType: enhancement
+parent: ac-17
+guidance: The speed of system disconnect or disablement varies based on the criticality
+  of missions or business functions and the need to eliminate immediate or future
+  remote access to systems.
+aliases:
+- AC-17(9)
+- AC-17 (9)

@@ -1,6 +1,16 @@
 id: 41fcb185-108c-453f-a2de-3f57eece56e5
 externalId: AC-4(5)
 name: Information Flow Enforcement | Embedded Data Types
-description: "Enforce [Assignment: organization-defined limitations] on
-  embedding data types within other data types."
-elementType: control
+description: 'Enforce [Assignment: organization-defined limitations] on embedding
+  data types within other data types.'
+elementType: enhancement
+parent: ac-4
+guidance: Embedding data types within other data types may result in reduced flow
+  control effectiveness. Data type embedding includes inserting files as objects within
+  other files and using compressed or archived data types that may include multiple
+  embedded data types. Limitations on data type embedding consider the levels of embedding
+  and prohibit levels of data type embedding that are beyond the capability of the
+  inspection tools.
+aliases:
+- AC-4(5)
+- AC-4 (5)

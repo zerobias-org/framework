@@ -1,13 +1,14 @@
 id: 678b2725-82c4-476f-9f00-ef65e5b5d5b9
 externalId: MP-8
 name: Media Downgrading
-description: "a. Establish [Assignment: organization-defined system media
-  downgrading process] that includes employing downgrading mechanisms with
-  strength and integrity commensurate with the security category or
-  classification of the information;b. Verify that the system media downgrading
-  process is commensurate with the security category and/or classification level
-  of the information to be removed and the access authorizations of the
-  potential recipients of the downgraded information;c. Identify [Assignment:
-  organization-defined system media requiring downgrading]; andd. Downgrade the
-  identified system media using the established process."
+description: Establishes and verifies a system media downgrading process appropriate
+  to the information's classification, and downgrades identified media using it.
 elementType: control
+parent: mp
+guidance: Media downgrading applies to digital and non-digital media subject to release
+  outside of the organization, whether the media is considered removable or not. When
+  applied to system media, the downgrading process removes information from the media,
+  typically by security category or classification level, such that the information
+  cannot be retrieved or reconstructed. Downgrading of media includes redacting information
+  to enable wider release and distribution. Downgrading ensures that empty space on
+  the media is devoid of information.

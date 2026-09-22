@@ -1,0 +1,16 @@
+id: 7273fa9c-48a7-4820-b771-bbc69c344f91
+externalId: SC-40(3)
+name: Wireless Link Protection | Imitative or Manipulative Communications Deception
+description: Implement cryptographic mechanisms to identify and reject wireless transmissions
+  that are deliberate attempts to achieve imitative or manipulative communications
+  deception based on signal parameters.
+elementType: enhancement
+parent: sc-40
+guidance: The implementation of cryptographic mechanisms to identify and reject imitative
+  or manipulative communications ensures that the signal parameters of wireless transmissions
+  are not predictable by unauthorized individuals. Such unpredictability reduces the
+  probability of imitative or manipulative communications deception based on signal
+  parameters alone.
+aliases:
+- SC-40(3)
+- SC-40 (3)

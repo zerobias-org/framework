@@ -1,7 +1,20 @@
 id: 2aa542a2-f191-462c-bd27-3add8569df7a
 externalId: SI-19(6)
 name: De-identification | Differential Privacy
-description: Prevent disclosure of personally identifiable information by adding
-  non-deterministic noise to the results of mathematical operations before the
-  results are reported.
-elementType: control
+description: Prevent disclosure of personally identifiable information by adding non-deterministic
+  noise to the results of mathematical operations before the results are reported.
+elementType: enhancement
+parent: si-19
+guidance: The mathematical definition for differential privacy holds that the result
+  of a dataset analysis should be approximately the same before and after the addition
+  or removal of a single data record (which is assumed to be the data from a single
+  individual). In its most basic form, differential privacy applies only to online
+  query systems. However, it can also be used to produce machine-learning statistical
+  classifiers and synthetic data. Differential privacy comes at the cost of decreased
+  accuracy of results, forcing organizations to quantify the trade-off between privacy
+  protection and the overall accuracy, usefulness, and utility of the de-identified
+  dataset. Non-deterministic noise can include adding small, random values to the
+  results of mathematical operations in dataset analysis.
+aliases:
+- SI-19(6)
+- SI-19 (6)

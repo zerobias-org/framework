@@ -1,10 +1,13 @@
 id: 2678f357-300b-46ef-89ac-7b335d7f50fb
 externalId: SR-11
 name: Component Authenticity
-description: "a. Develop and implement anti-counterfeit policy and procedures
-  that include the means to detect and prevent counterfeit components from
-  entering the system; andb. Report counterfeit system components to [Selection
-  (one or more): source of counterfeit component; [Assignment:
-  organization-defined external reporting organizations]; [Assignment:
-  organization-defined personnel or roles]]."
+description: Develops anti-counterfeit policy and procedures to detect and prevent
+  counterfeit components, and reports counterfeit components when found.
 elementType: control
+parent: sr
+guidance: Sources of counterfeit components include manufacturers, developers, vendors,
+  and contractors. Anti-counterfeiting policies and procedures support tamper resistance
+  and provide a level of protection against the introduction of malicious code. External
+  reporting organizations include CISA.
+aliases:
+- SR-11

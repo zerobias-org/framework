@@ -1,0 +1,12 @@
+id: f7a09f8b-693f-40fe-83b8-fd7feb3cdba6
+externalId: AC-4(30)
+name: Information Flow Enforcement | Filter Mechanisms Using Multiple Processes
+description: When transferring information between different security domains, implement
+  content filtering mechanisms using multiple processes.
+elementType: enhancement
+parent: ac-4
+guidance: The use of multiple processes to implement content filtering mechanisms
+  reduces the likelihood of a single point of failure.
+aliases:
+- AC-4(30)
+- AC-4 (30)

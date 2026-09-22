@@ -1,0 +1,16 @@
+id: 801a6880-dbd2-4fda-b4f1-d08aef4580fa
+externalId: SI-10(5)
+name: Information Input Validation | Restrict Inputs to Trusted Sources and Approved
+  Formats
+description: 'Restrict the use of information inputs to [Assignment: organization-defined
+  trusted sources] and/or [Assignment: organization-defined formats].'
+elementType: enhancement
+parent: si-10
+guidance: Restricting the use of inputs to trusted sources and in trusted formats
+  applies the concept of authorized or permitted software to information inputs. Specifying
+  known trusted sources for information inputs and acceptable formats for such inputs
+  can reduce the probability of malicious activity. The information inputs are those
+  defined by the organization in the base control (SI-10).
+aliases:
+- SI-10(5)
+- SI-10 (5)

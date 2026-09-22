@@ -1,0 +1,16 @@
+id: 9d85f9a3-de6b-464c-b33c-ea2bd17f43f6
+externalId: SA-10(2)
+name: Developer Configuration Management | Alternative Configuration Management Processes
+description: Provide an alternate configuration management process using organizational
+  personnel in the absence of a dedicated developer configuration management team.
+elementType: enhancement
+parent: sa-10
+guidance: Alternate configuration management processes may be required when organizations
+  use commercial off-the-shelf information technology products. Alternate configuration
+  management processes include organizational personnel who review and approve proposed
+  changes to systems, system components, and system services and conduct security
+  and privacy impact analyses prior to the implementation of changes to systems, components,
+  or services.
+aliases:
+- SA-10(2)
+- SA-10 (2)

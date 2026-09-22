@@ -1,6 +1,13 @@
 id: 9b0b3cc5-690f-4451-8e20-100d96820ab4
 externalId: PE-19
 name: Information Leakage
-description: Protect the system from information leakage due to electromagnetic
-  signals emanations.
+description: Protect the system from information leakage due to electromagnetic signals
+  emanations.
 elementType: control
+parent: pe
+guidance: Information leakage is the intentional or unintentional release of data
+  or information to an untrusted environment from electromagnetic signals emanations.
+  The security categories or classifications of systems (with respect to confidentiality),
+  organizational security policies, and risk tolerance guide the selection of controls
+  employed to protect systems against information leakage due to electromagnetic signals
+  emanations.

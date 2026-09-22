@@ -1,7 +1,13 @@
 id: 480feca0-1dc5-4573-9192-5ef165a6c499
 externalId: CP-11
 name: Alternate Communications Protocols
-description: "Provide the capability to employ [Assignment: organization-defined
-  alternative communications protocols] in support of maintaining continuity of
-  operations."
+description: 'Provide the capability to employ [Assignment: organization-defined alternative
+  communications protocols] in support of maintaining continuity of operations.'
 elementType: control
+parent: cp
+guidance: Contingency plans and the contingency training or testing associated with
+  those plans incorporate an alternate communications protocol capability as part
+  of establishing resilience in organizational systems. Switching communications protocols
+  may affect software applications and operational aspects of systems. Organizations
+  assess the potential side effects of introducing alternate communications protocols
+  prior to implementation.

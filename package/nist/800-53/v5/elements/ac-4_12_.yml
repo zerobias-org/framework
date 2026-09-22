@@ -1,7 +1,18 @@
 id: 7063e4ef-437d-4436-9690-98ee98453779
 externalId: AC-4(12)
 name: Information Flow Enforcement | Data Type Identifiers
-description: "When transferring information between different security domains,
-  use [Assignment: organization-defined data type identifiers] to validate data
-  essential for information flow decisions."
-elementType: control
+description: 'When transferring information between different security domains, use
+  [Assignment: organization-defined data type identifiers] to validate data essential
+  for information flow decisions.'
+elementType: enhancement
+parent: ac-4
+guidance: Data type identifiers include filenames, file types, file signatures or
+  tokens, and multiple internal file signatures or tokens. Systems only allow transfer
+  of data that is compliant with data type format specifications. Identification and
+  validation of data types is based on defined specifications associated with each
+  allowed data format. The filename and number alone are not used for data type identification.
+  Content is validated syntactically and semantically against its specification to
+  ensure that it is the proper data type.
+aliases:
+- AC-4(12)
+- AC-4 (12)

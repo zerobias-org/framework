@@ -1,0 +1,2 @@
+- a. Check the accuracy, relevance, timeliness, and completeness of personally identifiable information across the information life cycle [Assignment: organization-defined frequency]; and
+- b. Correct or delete inaccurate or outdated personally identifiable information.

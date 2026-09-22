@@ -1,8 +1,16 @@
 id: 7e0be10f-7144-4957-951b-faaed1aa9de4
 externalId: SI-18(5)
-name: Personally Identifiable Information Quality Operations | Notice of
-  Correction or Deletion
-description: "Notify [Assignment: organization-defined recipients of personally
-  identifiable information] and individuals that the personally identifiable
-  information has been corrected or deleted."
-elementType: control
+name: Personally Identifiable Information Quality Operations | Notice of Correction
+  or Deletion
+description: 'Notify [Assignment: organization-defined recipients of personally identifiable
+  information] and individuals that the personally identifiable information has been
+  corrected or deleted.'
+elementType: enhancement
+parent: si-18
+guidance: When personally identifiable information is corrected or deleted, organizations
+  take steps to ensure that all authorized recipients of such information, and the
+  individual with whom the information is associated or their designated representatives,
+  are informed of the corrected or deleted information.
+aliases:
+- SI-18(5)
+- SI-18 (5)

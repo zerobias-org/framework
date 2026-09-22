@@ -1,0 +1,18 @@
+id: e0f890ae-5178-42bc-863d-eb020e2d1101
+externalId: AC-4(29)
+name: Information Flow Enforcement | Filter Orchestration Engines
+description: Uses content filter orchestration engines to confirm filtering completes
+  without errors and occurs in the correct order.
+elementType: enhancement
+parent: ac-4
+guidance: Content filtering is the process of inspecting information as it traverses
+  a cross-domain solution and determines if the information meets a predefined security
+  policy. An orchestration engine coordinates the sequencing of activities (manual
+  and automated) in a content filtering process. Errors are defined as either anomalous
+  actions or unexpected termination of the content filter process. This is not the
+  same as a filter failing content due to non-compliance with policy. Content filter
+  reports are a commonly used mechanism to ensure that expected filtering actions
+  are completed successfully.
+aliases:
+- AC-4(29)
+- AC-4 (29)

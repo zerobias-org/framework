@@ -1,7 +1,13 @@
 id: 3a5e9e6d-4814-4080-ad57-add677dc7339
 externalId: SC-12(2)
 name: Cryptographic Key Establishment and Management | Symmetric Keys
-description: "Produce, control, and distribute symmetric cryptographic keys
-  using [Selection (one): NIST FIPS-validated; NSA-approved] key management
-  technology and processes."
-elementType: control
+description: 'Produce, control, and distribute symmetric cryptographic keys using
+  [Selection: NIST FIPS-validated; NSA-approved] key management technology and processes.'
+elementType: enhancement
+parent: sc-12
+guidance: SP 800-56A, SP 800-56B, and SP 800-56C provide guidance on cryptographic
+  key establishment schemes and key derivation methods. SP 800-57-1, SP 800-57-2,
+  and SP 800-57-3 provide guidance on cryptographic key management.
+aliases:
+- SC-12(2)
+- SC-12 (2)

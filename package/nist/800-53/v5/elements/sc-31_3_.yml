@@ -1,0 +1,16 @@
+id: 236a0051-23b4-4957-85d3-a169ff83a9be
+externalId: SC-31(3)
+name: Covert Channel Analysis | Measure Bandwidth in Operational Environments
+description: 'Measure the bandwidth of [Assignment: organization-defined subset of
+  identified covert channels] in the operational environment of the system.'
+elementType: enhancement
+parent: sc-31
+guidance: Measuring covert channel bandwidth in specified operational environments
+  helps organizations determine how much information can be covertly leaked before
+  such leakage adversely affects mission or business functions. Covert channel bandwidth
+  may be significantly different when measured in settings that are independent of
+  the specific environments of operation, including laboratories or system development
+  environments.
+aliases:
+- SC-31(3)
+- SC-31 (3)

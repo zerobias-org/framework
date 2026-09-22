@@ -1,9 +1,14 @@
 id: cde70d5d-655b-4761-aa62-8cd7757e2882
 externalId: CM-7(4)
 name: Least Functionality | Unauthorized Software — Deny-by-exception
-description: "a. Identify [Assignment: organization-defined software programs
-  not authorized to execute on the system];b. Employ an allow-all,
-  deny-by-exception policy to prohibit the execution of unauthorized software
-  programs on the system; andc. Review and update the list of unauthorized
-  software programs [Assignment: organization-defined frequency]."
-elementType: control
+description: Identifies unauthorized software and employs an allow-all, deny-by-exception
+  policy to prohibit its execution, reviewed periodically.
+elementType: enhancement
+parent: cm-7
+guidance: Unauthorized software programs can be limited to specific versions or from
+  a specific source. The concept of prohibiting the execution of unauthorized software
+  may also be applied to user actions, system ports and protocols, IP addresses/ranges,
+  websites, and MAC addresses.
+aliases:
+- CM-7(4)
+- CM-7 (4)

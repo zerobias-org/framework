@@ -1,8 +1,13 @@
 id: 759c91e8-5256-48cc-8c1a-7ed09a0bba1f
 externalId: AC-2(3)
 name: Account Management | Disable Accounts
-description: "Disable accounts within [Assignment: organization-defined time
-  period] when the accounts:a. Have expired;b. Are no longer associated with a
-  user or individual;c. Are in violation of organizational policy; ord. Have
-  been inactive for [Assignment: organization-defined time period]."
-elementType: control
+description: Disables accounts within a defined period after they expire, lose their
+  association with a user, violate policy, or go inactive.
+elementType: enhancement
+parent: ac-2
+guidance: Disabling expired, inactive, or otherwise anomalous accounts supports the
+  concepts of least privilege and least functionality which reduce the attack surface
+  of the system.
+aliases:
+- AC-2(3)
+- AC-2 (3)

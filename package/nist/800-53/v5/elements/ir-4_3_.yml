@@ -1,8 +1,18 @@
 id: 8db11e07-24b1-4368-a0f4-d549b16d6381
 externalId: IR-4(3)
 name: Incident Handling | Continuity of Operations
-description: "Identify [Assignment: organization-defined classes of incidents]
-  and take the following actions in response to those incidents to ensure
-  continuation of organizational mission and business functions: [Assignment:
-  organization-defined actions to take in response to classes of incidents]."
-elementType: control
+description: Identifies classes of incidents and defines actions to take in response
+  to ensure continuity of organizational mission and business functions.
+elementType: enhancement
+parent: ir-4
+guidance: Classes of incidents include malfunctions due to design or implementation
+  errors and omissions, targeted malicious attacks, and untargeted malicious attacks.
+  Incident response actions include orderly system degradation, system shutdown, fall
+  back to manual mode or activation of alternative technology whereby the system operates
+  differently, employing deceptive measures, alternate information flows, or operating
+  in a mode that is reserved for when systems are under attack. Organizations consider
+  whether continuity of operations requirements during an incident conflict with the
+  capability to automatically disable the system as specified as part of.
+aliases:
+- IR-4(3)
+- IR-4 (3)

@@ -1,0 +1,14 @@
+id: 0a84ec43-b6b4-4140-a699-77bfbc95b3c2
+externalId: AC-9(4)
+name: Previous Logon Notification | Additional Logon Information
+description: 'Notify the user, upon successful logon, of the following additional
+  information: [Assignment: organization-defined additional information].'
+elementType: enhancement
+parent: ac-9
+guidance: Organizations can specify additional information to be provided to users
+  upon logon, including the location of the last logon. User location is defined as
+  information that can be determined by systems, such as Internet Protocol (IP) addresses
+  from which network logons occurred, notifications of local logons, or device identifiers.
+aliases:
+- AC-9(4)
+- AC-9 (4)

@@ -1,6 +1,14 @@
 id: 34c3ac96-77c7-49fb-8db4-8de4309cf9b2
 externalId: CP-6(2)
 name: Alternate Storage Site | Recovery Time and Recovery Point Objectives
-description: Configure the alternate storage site to facilitate recovery
-  operations in accordance with recovery time and recovery point objectives.
-elementType: control
+description: Configure the alternate storage site to facilitate recovery operations
+  in accordance with recovery time and recovery point objectives.
+elementType: enhancement
+parent: cp-6
+guidance: Organizations establish recovery time and recovery point objectives as part
+  of contingency planning. Configuration of the alternate storage site includes physical
+  facilities and the systems supporting recovery operations that ensure accessibility
+  and correct execution.
+aliases:
+- CP-6(2)
+- CP-6 (2)

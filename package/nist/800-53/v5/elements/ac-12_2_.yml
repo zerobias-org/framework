@@ -1,0 +1,14 @@
+id: 01b83329-ee3a-48f2-b6c3-9749e78827f0
+externalId: AC-12(2)
+name: Session Termination | Termination Message
+description: Display an explicit logout message to users indicating the termination
+  of authenticated communications sessions.
+elementType: enhancement
+parent: ac-12
+guidance: Logout messages for web access can be displayed after authenticated sessions
+  have been terminated. However, for certain types of sessions, including file transfer
+  protocol (FTP) sessions, systems typically send logout messages as final messages
+  prior to terminating sessions.
+aliases:
+- AC-12(2)
+- AC-12 (2)

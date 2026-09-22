@@ -1,0 +1,14 @@
+id: ae957913-2b37-4879-9c61-56c23a254c68
+externalId: SC-36(2)
+name: Distributed Processing and Storage | Synchronization
+description: 'Synchronize the following duplicate systems or system components: [Assignment:
+  organization-defined duplicate systems or system components].'
+elementType: enhancement
+parent: sc-36
+guidance: SC-36 and CP-9(6) require the duplication of systems or system components
+  in distributed locations. The synchronization of duplicated and redundant services
+  and data helps to ensure that information contained in the distributed locations
+  can be used in the mission or business functions of organizations, as needed.
+aliases:
+- SC-36(2)
+- SC-36 (2)

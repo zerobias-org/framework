@@ -1,6 +1,13 @@
 id: 4bbc763c-f446-497c-a66f-ac434f4ec79b
 externalId: IR-4(6)
 name: Incident Handling | Insider Threats
-description: Implement an incident handling capability for incidents involving
-  insider threats.
-elementType: control
+description: Implement an incident handling capability for incidents involving insider
+  threats.
+elementType: enhancement
+parent: ir-4
+guidance: Explicit focus on handling incidents involving insider threats provides
+  additional emphasis on this type of threat and the need for specific incident handling
+  capabilities to provide appropriate and timely responses.
+aliases:
+- IR-4(6)
+- IR-4 (6)

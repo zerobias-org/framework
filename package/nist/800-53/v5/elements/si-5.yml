@@ -1,13 +1,20 @@
 id: f597b562-eb4c-4498-bf93-b3aebc20cc89
 externalId: SI-5
 name: Security Alerts, Advisories, and Directives
-description: "a. Receive system security alerts, advisories, and directives from
-  [Assignment: organization-defined external organizations] on an ongoing
-  basis;b. Generate internal security alerts, advisories, and directives as
-  deemed necessary;c. Disseminate security alerts, advisories, and directives
-  to: [Selection (one or more): [Assignment: organization-defined personnel or
-  roles]; [Assignment: organization-defined elements within the organization];
-  [Assignment: organization-defined external organizations]]; andd. Implement
-  security directives in accordance with established time frames, or notify the
-  issuing organization of the degree of noncompliance."
+description: Receives and generates security alerts, advisories, and directives, disseminates
+  them to designated recipients, and implements directives within established time
+  frames.
 elementType: control
+parent: si
+guidance: The Cybersecurity and Infrastructure Security Agency (CISA) generates security
+  alerts and advisories to maintain situational awareness throughout the Federal Government.
+  Security directives are issued by OMB or other designated organizations with the
+  responsibility and authority to issue such directives. Compliance with security
+  directives is essential due to the critical nature of many of these directives and
+  the potential (immediate) adverse effects on organizational operations and assets,
+  individuals, other organizations, and the Nation should the directives not be implemented
+  in a timely manner. External organizations include supply chain partners, external
+  mission or business partners, external service providers, and other peer or supporting
+  organizations.
+aliases:
+- SI-5

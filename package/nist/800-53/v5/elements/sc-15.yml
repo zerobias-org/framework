@@ -1,9 +1,13 @@
 id: 281e090a-00bc-4705-a76b-736747576cda
 externalId: SC-15
 name: Collaborative Computing Devices and Applications
-description: "a. Prohibit remote activation of collaborative computing devices
-  and applications with the following exceptions: [Assignment:
-  organization-defined exceptions where remote activation is to be allowed];
-  andb. Provide an explicit indication of use to users physically present at the
-  devices."
+description: Prohibits remote activation of collaborative computing devices and applications,
+  with defined exceptions, and indicates their use to those physically present.
 elementType: control
+parent: sc
+guidance: Collaborative computing devices and applications include remote meeting
+  devices and applications, networked white boards, cameras, and microphones. The
+  explicit indication of use includes signals to users when collaborative computing
+  devices and applications are activated.
+aliases:
+- SC-15

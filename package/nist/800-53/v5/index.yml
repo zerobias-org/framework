@@ -11,9 +11,18 @@ version: v5
 external: true
 internal: false
 elementTypes:
+  - id: c22e8218-85e2-41d7-9712-4f7119e988eb
+    code: family
+    name: Family
+    description: Control family
   - id: 770d7cab-ba11-400a-8216-0118162f44e8
     code: control
     name: Control
     description: Control
+  - id: 0878d4ae-8c9b-4115-9636-45f990d0f4a0
+    code: enhancement
+    name: Enhancement
+    description: Control enhancement
 mappingTypes:
   - control
+  - enhancement

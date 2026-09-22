@@ -1,6 +1,14 @@
 id: 3404493e-f4a5-4763-823f-c9fb872c082e
 externalId: IR-2(1)
 name: Incident Response Training | Simulated Events
-description: Incorporate simulated events into incident response training to
-  facilitate the required response by personnel in crisis situations.
-elementType: control
+description: Incorporate simulated events into incident response training to facilitate
+  the required response by personnel in crisis situations.
+elementType: enhancement
+parent: ir-2
+guidance: Organizations establish requirements for responding to incidents in incident
+  response plans. Incorporating simulated events into incident response training helps
+  to ensure that personnel understand their individual responsibilities and what specific
+  actions to take in crisis situations.
+aliases:
+- IR-2(1)
+- IR-2 (1)

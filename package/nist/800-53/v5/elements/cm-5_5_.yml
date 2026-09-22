@@ -1,8 +1,16 @@
 id: c30ca132-2468-4e17-9d97-35b20eb17c0f
 externalId: CM-5(5)
-name: Access Restrictions for Change | Privilege Limitation for Production and
-  Operation
-description: "a. Limit privileges to change system components and system-related
-  information within a production or operational environment; andb. Review and
-  reevaluate privileges [Assignment: organization-defined frequency]."
-elementType: control
+name: Access Restrictions for Change | Privilege Limitation for Production and Operation
+description: Limits privileges to change system components in production environments,
+  and reviews and reevaluates those privileges periodically.
+elementType: enhancement
+parent: cm-5
+guidance: In many organizations, systems support multiple mission and business functions.
+  Limiting privileges to change system components with respect to operational systems
+  is necessary because changes to a system component may have far-reaching effects
+  on mission and business processes supported by the system. The relationships between
+  systems and mission/business processes are, in some cases, unknown to developers.
+  System-related information includes operational procedures.
+aliases:
+- CM-5(5)
+- CM-5 (5)

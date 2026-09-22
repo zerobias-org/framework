@@ -1,7 +1,16 @@
 id: fa53a7b9-b0b2-4750-a68a-bc42a6013803
 externalId: RA-5(5)
 name: Vulnerability Monitoring and Scanning | Privileged Access
-description: "Implement privileged access authorization to [Assignment:
-  organization-defined system components] for [Assignment: organization-defined
-  vulnerability scanning activities]."
-elementType: control
+description: 'Implement privileged access authorization to [Assignment: organization-defined
+  system components] for [Assignment: organization-defined vulnerability scanning
+  activities].'
+elementType: enhancement
+parent: ra-5
+guidance: In certain situations, the nature of the vulnerability scanning may be more
+  intrusive, or the system component that is the subject of the scanning may contain
+  classified or controlled unclassified information, such as personally identifiable
+  information. Privileged access authorization to selected system components facilitates
+  more thorough vulnerability scanning and protects the sensitive nature of such scanning.
+aliases:
+- RA-5(5)
+- RA-5 (5)

@@ -1,8 +1,19 @@
 id: 55d9d6a0-aca7-498b-8683-7e0e38c12833
 externalId: SI-12(2)
-name: Information Management and Retention | Minimize Personally Identifiable
-  Information in Testing, Training, and Research
-description: "Use the following techniques to minimize the use of personally
-  identifiable information for research, testing, or training: [Assignment:
-  organization-defined techniques]."
-elementType: control
+name: Information Management and Retention | Minimize Personally Identifiable Information
+  in Testing, Training, and Research
+description: 'Use the following techniques to minimize the use of personally identifiable
+  information for research, testing, or training: [Assignment: organization-defined
+  techniques].'
+elementType: enhancement
+parent: si-12
+guidance: Organizations can minimize the risk to an individual’s privacy by employing
+  techniques such as de-identification or synthetic data. Limiting the use of personally
+  identifiable information throughout the information life cycle when the information
+  is not needed for research, testing, or training helps reduce the level of privacy
+  risk created by a system. Risk assessments as well as applicable laws, regulations,
+  and policies can provide useful inputs to determining the techniques to use and
+  when to use them.
+aliases:
+- SI-12(2)
+- SI-12 (2)

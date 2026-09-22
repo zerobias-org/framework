@@ -1,7 +1,14 @@
 id: 46970b59-54c2-4fa2-9f08-06f2915fa520
 externalId: CM-6(2)
 name: Configuration Settings | Respond to Unauthorized Changes
-description: "Take the following actions in response to unauthorized changes to
-  [Assignment: organization-defined configuration settings]: [Assignment:
-  organization-defined actions]."
-elementType: control
+description: 'Take the following actions in response to unauthorized changes to [Assignment:
+  organization-defined configuration settings]: [Assignment: organization-defined
+  actions].'
+elementType: enhancement
+parent: cm-6
+guidance: Responses to unauthorized changes to configuration settings include alerting
+  designated organizational personnel, restoring established configuration settings,
+  or—in extreme cases—halting affected system processing.
+aliases:
+- CM-6(2)
+- CM-6 (2)

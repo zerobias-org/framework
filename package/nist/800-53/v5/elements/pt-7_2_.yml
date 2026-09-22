@@ -1,9 +1,15 @@
 id: 8c69892f-f471-4f01-b376-58a7ab8ebcbf
 externalId: PT-7(2)
-name: Specific Categories of Personally Identifiable Information | First
-  Amendment Information
-description: Prohibit the processing of information describing how any
-  individual exercises rights guaranteed by the First Amendment unless expressly
-  authorized by statute or by the individual or unless pertinent to and within
-  the scope of an authorized law enforcement activity.
-elementType: control
+name: Specific Categories of Personally Identifiable Information | First Amendment
+  Information
+description: Prohibits processing information about how individuals exercise First
+  Amendment rights, unless authorized by statute, the individual, or law enforcement
+  activity.
+elementType: enhancement
+parent: pt-7
+guidance: Thelimits agencies’ ability to process information that describes how individuals
+  exercise rights guaranteed by the First Amendment. Organizations consult with the
+  senior agency official for privacy and legal counsel regarding these requirements.
+aliases:
+- PT-7(2)
+- PT-7 (2)

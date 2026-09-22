@@ -1,8 +1,20 @@
 id: db1efc2f-2900-4ad2-9f0e-33b07056dc62
 externalId: PT-6(1)
 name: System of Records Notice | Routine Uses
-description: "Review all routine uses published in the system of records notice
-  at [Assignment: organization-defined frequency] to ensure continued accuracy,
-  and to ensure that routine uses continue to be compatible with the purpose for
-  which the information was collected."
-elementType: control
+description: Reviews all routine uses published in the system of records notice to
+  ensure continued accuracy and compatibility with the original collection purpose.
+elementType: enhancement
+parent: pt-6
+guidance: Aroutine use is a particular kind of disclosure of a record outside of the
+  federal agency maintaining the system of records. A routine use is an exception
+  to theprohibition on the disclosure of a record in a system of records without the
+  prior written consent of the individual to whom the record pertains. To qualify
+  as a routine use, the disclosure must be for a purpose that is compatible with the
+  purpose for which the information was originally collected. Therequires agencies
+  to describe each routine use of the records maintained in the system of records,
+  including the categories of users of the records and the purpose of the use. Agencies
+  may only establish routine uses by explicitly publishing them in the relevant system
+  of records notice.
+aliases:
+- PT-6(1)
+- PT-6 (1)

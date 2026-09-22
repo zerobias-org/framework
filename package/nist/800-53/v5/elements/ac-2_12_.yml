@@ -1,7 +1,19 @@
 id: 6e045574-1106-486f-a77c-cfab165b211f
 externalId: AC-2(12)
 name: Account Management | Account Monitoring for Atypical Usage
-description: "a. Monitor system accounts for [Assignment: organization-defined
-  atypical usage]; andb. Report atypical usage of system accounts to
-  [Assignment: organization-defined personnel or roles]."
-elementType: control
+description: '(a) Monitor system accounts for [Assignment: organization-defined atypical
+  usage]; and (b) Report atypical usage of system accounts to [Assignment: organization-defined
+  personnel or roles].'
+elementType: enhancement
+parent: ac-2
+guidance: Atypical usage includes accessing systems at certain times of the day or
+  from locations that are not consistent with the normal usage patterns of individuals.
+  Monitoring for atypical usage may reveal rogue behavior by individuals or an attack
+  in progress. Account monitoring may inadvertently create privacy risks since data
+  collected to identify atypical usage may reveal previously unknown information about
+  the behavior of individuals. Organizations assess and document privacy risks from
+  monitoring accounts for atypical usage in their privacy impact assessment and make
+  determinations that are in alignment with their privacy program plan.
+aliases:
+- AC-2(12)
+- AC-2 (12)

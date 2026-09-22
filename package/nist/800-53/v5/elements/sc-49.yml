@@ -1,5 +1,14 @@
 id: 3e1597a2-e1bf-466a-8193-409ef61702f8
 externalId: SC-49
-name: 'Hardware-enforced Separation and Policy Enforcement'
-description: '"Implement hardware-enforced separation and policy enforcement mechanisms between [Assignment: organization-defined security domains]."'
+name: Hardware-enforced Separation and Policy Enforcement
+description: 'Implement hardware-enforced separation and policy enforcement mechanisms
+  between [Assignment: organization-defined security domains].'
 elementType: control
+parent: sc
+guidance: System owners may require additional strength of mechanism and robustness
+  to ensure domain separation and policy enforcement for specific types of threats
+  and environments of operation. Hardware-enforced separation and policy enforcement
+  provide greater strength of mechanism than software-enforced separation and policy
+  enforcement.
+aliases:
+- SC-49

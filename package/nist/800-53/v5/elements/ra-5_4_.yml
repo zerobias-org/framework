@@ -1,6 +1,18 @@
 id: 28d11025-5b4b-4ed2-9055-e6189bb9d268
 externalId: RA-5(4)
 name: Vulnerability Monitoring and Scanning | Discoverable Information
-description: "Determine information about the system that is discoverable and
-  take [Assignment: organization-defined corrective actions]."
-elementType: control
+description: 'Determine information about the system that is discoverable and take
+  [Assignment: organization-defined corrective actions].'
+elementType: enhancement
+parent: ra-5
+guidance: Discoverable information includes information that adversaries could obtain
+  without compromising or breaching the system, such as by collecting information
+  that the system is exposing or by conducting extensive web searches. Corrective
+  actions include notifying appropriate organizational personnel, removing designated
+  information, or changing the system to make the designated information less relevant
+  or attractive to adversaries. This enhancement excludes intentionally discoverable
+  information that may be part of a decoy capability (e.g., honeypots, honeynets,
+  or deception nets) deployed by the organization.
+aliases:
+- RA-5(4)
+- RA-5 (4)

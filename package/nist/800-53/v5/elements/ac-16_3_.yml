@@ -1,8 +1,19 @@
 id: 94fa1636-2105-4273-9871-139030d62906
 externalId: AC-16(3)
-name: Security and Privacy Attributes | Maintenance of Attribute Associations by
-  System
-description: "Maintain the association and integrity of [Assignment:
-  organization-defined security and privacy attributes] to [Assignment:
-  organization-defined subjects and objects]."
-elementType: control
+name: Security and Privacy Attributes | Maintenance of Attribute Associations by System
+description: 'Maintain the association and integrity of [Assignment: organization-defined
+  security and privacy attributes] to [Assignment: organization-defined subjects and
+  objects].'
+elementType: enhancement
+parent: ac-16
+guidance: Maintaining the association and integrity of security and privacy attributes
+  to subjects and objects with sufficient assurance helps to ensure that the attribute
+  associations can be used as the basis of automated policy actions. The integrity
+  of specific items, such as security configuration files, may be maintained through
+  the use of an integrity monitoring mechanism that detects anomalies and changes
+  that deviate frombaselines. Automated policy actions include retention date expirations,
+  access control decisions, information flow control decisions, and information disclosure
+  decisions.
+aliases:
+- AC-16(3)
+- AC-16 (3)

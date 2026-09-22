@@ -1,0 +1,14 @@
+id: 8bc23da2-1877-4e98-a670-0d09b06c68a6
+externalId: SA-15(10)
+name: Development Process, Standards, and Tools | Incident Response Plan
+description: Require the developer of the system, system component, or system service
+  to provide, implement, and test an incident response plan.
+elementType: enhancement
+parent: sa-15
+guidance: The incident response plan provided by developers may provide information
+  not readily available to organizations and be incorporated into organizational incident
+  response plans. Developer information may also be extremely helpful, such as when
+  organizations respond to vulnerabilities in commercial off-the-shelf products.
+aliases:
+- SA-15(10)
+- SA-15 (10)

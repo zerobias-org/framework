@@ -1,0 +1,11 @@
+id: 5071329c-7a44-4624-973b-87e11e3e6386
+externalId: SC-7(23)
+name: Boundary Protection | Disable Sender Feedback on Protocol Validation Failure
+description: Disable feedback to senders on protocol format validation failure.
+elementType: enhancement
+parent: sc-7
+guidance: Disabling feedback to senders when there is a failure in protocol validation
+  format prevents adversaries from obtaining information that would otherwise be unavailable.
+aliases:
+- SC-7(23)
+- SC-7 (23)

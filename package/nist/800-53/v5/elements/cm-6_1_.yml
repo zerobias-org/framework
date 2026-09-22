@@ -1,7 +1,15 @@
 id: ec221dd2-c17f-4835-b2c5-35bc3b058bfa
 externalId: CM-6(1)
 name: Configuration Settings | Automated Management, Application, and Verification
-description: "Manage, apply, and verify configuration settings for [Assignment:
-  organization-defined system components] using [Assignment:
-  organization-defined automated mechanisms]."
-elementType: control
+description: 'Manage, apply, and verify configuration settings for [Assignment: organization-defined
+  system components] using [Assignment: organization-defined automated mechanisms].'
+elementType: enhancement
+parent: cm-6
+guidance: Automated tools (e.g., hardening tools, baseline configuration tools) can
+  improve the accuracy, consistency, and availability of configuration settings information.
+  Automation can also provide data aggregation and data correlation capabilities,
+  alerting mechanisms, and dashboards to support risk-based decision-making within
+  the organization.
+aliases:
+- CM-6(1)
+- CM-6 (1)

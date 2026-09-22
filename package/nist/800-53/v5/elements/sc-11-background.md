@@ -1,0 +1,2 @@
+- a. Provide a [Selection: physically; logically] isolated trusted communications path for communications between the user and the trusted components of the system; and
+- b. Permit users to invoke the trusted communications path for communications between the user and the following security functions of the system, including at a minimum, authentication and re-authentication: [Assignment: organization-defined security functions].

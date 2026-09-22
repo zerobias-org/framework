@@ -1,6 +1,19 @@
 id: 63a93558-3a8a-486a-8bf8-116dc6e319cc
 externalId: AU-3(1)
 name: Content of Audit Records | Additional Audit Information
-description: "Generate audit records containing the following additional
-  information: [Assignment: organization-defined additional information]."
-elementType: control
+description: 'Generate audit records containing the following additional information:
+  [Assignment: organization-defined additional information].'
+elementType: enhancement
+parent: au-3
+guidance: The ability to add information generated in audit records is dependent on
+  system functionality to configure the audit record content. Organizations may consider
+  additional information in audit records including, but not limited to, access control
+  or flow control rules invoked and individual identities of group account users.
+  Organizations may also consider limiting additional audit record information to
+  only information that is explicitly needed for audit requirements. This facilitates
+  the use of audit trails and audit logs by not including information in audit records
+  that could potentially be misleading, make it more difficult to locate information
+  of interest, or increase the risk to individuals' privacy.
+aliases:
+- AU-3(1)
+- AU-3 (1)

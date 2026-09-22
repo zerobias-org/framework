@@ -1,7 +1,17 @@
 id: eb3eb69a-97e9-4ccc-bbc1-4bc62315354a
 externalId: SC-7(29)
 name: Boundary Protection | Separate Subnets to Isolate Functions
-description: "Implement [Selection (one): physically; logically] separate
-  subnetworks to isolate the following critical system components and functions:
-  [Assignment: organization-defined critical system components and functions]."
-elementType: control
+description: Implements physically or logically separate subnetworks to isolate defined
+  critical system components and functions.
+elementType: enhancement
+parent: sc-7
+guidance: Separating critical system components and functions from other noncritical
+  system components and functions through separate subnetworks may be necessary to
+  reduce susceptibility to a catastrophic or debilitating breach or compromise that
+  results in system failure. For example, physically separating the command and control
+  function from the in-flight entertainment function through separate subnetworks
+  in a commercial aircraft provides an increased level of assurance in the trustworthiness
+  of critical system functions.
+aliases:
+- SC-7(29)
+- SC-7 (29)

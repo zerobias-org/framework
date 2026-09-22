@@ -1,0 +1,15 @@
+id: 251111ba-7291-4334-967c-14e69b1d64b1
+externalId: SC-4(2)
+name: Information in Shared System Resources | Multilevel or Periods Processing
+description: Prevents unauthorized information transfer via shared resources per defined
+  procedures when system processing switches between classification levels.
+elementType: enhancement
+parent: sc-4
+guidance: Changes in processing levels can occur during multilevel or periods processing
+  with information at different classification levels or security categories. It can
+  also occur during serial reuse of hardware components at different classification
+  levels. Organization-defined procedures can include approved sanitization processes
+  for electronically stored information.
+aliases:
+- SC-4(2)
+- SC-4 (2)

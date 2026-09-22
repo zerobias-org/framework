@@ -1,6 +1,15 @@
 id: a919bbc5-ae27-4bd3-b2d4-3f22bb47a9f0
 externalId: IA-5(6)
 name: Authenticator Management | Protection of Authenticators
-description: Protect authenticators commensurate with the security category of
-  the information to which use of the authenticator permits access.
-elementType: control
+description: Protect authenticators commensurate with the security category of the
+  information to which use of the authenticator permits access.
+elementType: enhancement
+parent: ia-5
+guidance: For systems that contain multiple security categories of information without
+  reliable physical or logical separation between categories, authenticators used
+  to grant access to the systems are protected commensurate with the highest security
+  category of information on the systems. Security categories of information are determined
+  as part of the security categorization process.
+aliases:
+- IA-5(6)
+- IA-5 (6)

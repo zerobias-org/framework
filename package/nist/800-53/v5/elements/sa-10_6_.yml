@@ -1,0 +1,13 @@
+id: 56dc757c-dd41-4655-89c8-39c434c2e1ad
+externalId: SA-10(6)
+name: Developer Configuration Management | Trusted Distribution
+description: Requires the developer to execute procedures ensuring distributed security-relevant
+  updates match the master copies exactly.
+elementType: enhancement
+parent: sa-10
+guidance: The trusted distribution of security-relevant hardware, software, and firmware
+  updates help to ensure that the updates are correct representations of the master
+  copies maintained by the developer and have not been tampered with during distribution.
+aliases:
+- SA-10(6)
+- SA-10 (6)

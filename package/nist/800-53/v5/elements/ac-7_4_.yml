@@ -1,0 +1,13 @@
+id: 7d563f21-5324-4ca4-a08b-b794e242af0b
+externalId: AC-7(4)
+name: Unsuccessful Logon Attempts | Use of Alternate Authentication Factor
+description: Allows an alternate authentication factor after repeated invalid logon
+  attempts, and limits consecutive invalid attempts using that factor.
+elementType: enhancement
+parent: ac-7
+guidance: The use of alternate authentication factors supports the objective of availability
+  and allows a user who has inadvertently been locked out to use additional authentication
+  factors to bypass the lockout.
+aliases:
+- AC-7(4)
+- AC-7 (4)

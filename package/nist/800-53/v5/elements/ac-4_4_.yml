@@ -1,9 +1,13 @@
 id: e028194d-73d7-4a42-84f3-4f5148d767f9
 externalId: AC-4(4)
 name: Information Flow Enforcement | Flow Control of Encrypted Information
-description: "Prevent encrypted information from bypassing [Assignment:
-  organization-defined information flow control mechanisms] by [Selection (one
-  or more): decrypting the information; blocking the flow of the encrypted
-  information; terminating communications sessions attempting to pass encrypted
-  information; [Assignment: organization-defined procedure or method]]."
-elementType: control
+description: Prevents encrypted information from bypassing flow control mechanisms
+  by decrypting it, blocking it, or terminating the session.
+elementType: enhancement
+parent: ac-4
+guidance: Flow control mechanisms include content checking, security policy filters,
+  and data type identifiers. The term encryption is extended to cover encoded data
+  not recognized by filtering mechanisms.
+aliases:
+- AC-4(4)
+- AC-4 (4)

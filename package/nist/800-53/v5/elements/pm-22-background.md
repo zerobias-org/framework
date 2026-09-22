@@ -1,0 +1,6 @@
+Develop and document organization-wide policies and procedures for:
+
+- a. Reviewing for the accuracy, relevance, timeliness, and completeness of personally identifiable information across the information life cycle;
+- b. Correcting or deleting inaccurate or outdated personally identifiable information;
+- c. Disseminating notice of corrected or deleted personally identifiable information to individuals or other appropriate entities; and
+- d. Appeals of adverse decisions on correction or deletion requests.

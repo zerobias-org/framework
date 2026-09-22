@@ -1,0 +1,6 @@
+- a. Provide the means to associate [Assignment: organization-defined types of security and privacy attributes] with [Assignment: organization-defined security and privacy attribute values] for information in storage, in process, and/or in transmission;
+- b. Ensure that the attribute associations are made and retained with the information;
+- c. Establish the following permitted security and privacy attributes from the attributes defined in AC-16a for [Assignment: organization-defined systems]: [Assignment: organization-defined security and privacy attributes];
+- d. Determine the following permitted attribute values or ranges for each of the established attributes: [Assignment: organization-defined attribute values or ranges for established attributes];
+- e. Audit changes to attributes; and
+- f. Review [Assignment: organization-defined security and privacy attributes] for applicability [Assignment: organization-defined frequency].

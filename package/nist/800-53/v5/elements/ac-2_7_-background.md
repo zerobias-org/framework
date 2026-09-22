@@ -1,0 +1,4 @@
+- (a) Establish and administer privileged user accounts in accordance with [Selection: a role-based access scheme; an attribute-based access scheme];
+- (b) Monitor privileged role or attribute assignments;
+- (c) Monitor changes to roles or attributes; and
+- (d) Revoke access when privileged role or attribute assignments are no longer appropriate.

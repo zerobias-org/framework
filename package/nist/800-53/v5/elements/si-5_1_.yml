@@ -1,6 +1,17 @@
 id: a7556fa8-db76-4560-a270-fc8f8f854609
 externalId: SI-5(1)
 name: Security Alerts, Advisories, and Directives | Automated Alerts and Advisories
-description: "Broadcast security alert and advisory information throughout the
-  organization using [Assignment: organization-defined automated mechanisms]."
-elementType: control
+description: 'Broadcast security alert and advisory information throughout the organization
+  using [Assignment: organization-defined automated mechanisms].'
+elementType: enhancement
+parent: si-5
+guidance: The significant number of changes to organizational systems and environments
+  of operation requires the dissemination of security-related information to a variety
+  of organizational entities that have a direct interest in the success of organizational
+  mission and business functions. Based on information provided by security alerts
+  and advisories, changes may be required at one or more of the three levels related
+  to the management of risk, including the governance level, mission and business
+  process level, and the information system level.
+aliases:
+- SI-5(1)
+- SI-5 (1)

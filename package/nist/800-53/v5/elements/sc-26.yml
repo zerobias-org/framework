@@ -1,7 +1,16 @@
 id: b3897807-dcf4-47f9-a4aa-2101ca43cd90
 externalId: SC-26
 name: Decoys
-description: Include components within organizational systems specifically
-  designed to be the target of malicious attacks for detecting, deflecting, and
-  analyzing such attacks.
+description: Include components within organizational systems specifically designed
+  to be the target of malicious attacks for detecting, deflecting, and analyzing such
+  attacks.
 elementType: control
+parent: sc
+guidance: Decoys (i.e., honeypots, honeynets, or deception nets) are established to
+  attract adversaries and deflect attacks away from the operational systems that support
+  organizational mission and business functions. Use of decoys requires some supporting
+  isolation measures to ensure that any deflected malicious code does not infect organizational
+  systems. Depending on the specific usage of the decoy, consultation with the Office
+  of the General Counsel before deployment may be needed.
+aliases:
+- SC-26

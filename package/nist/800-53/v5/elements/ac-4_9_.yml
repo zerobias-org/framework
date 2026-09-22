@@ -1,7 +1,16 @@
 id: 1d6c2050-223e-41f2-adb3-8d7fd7df51bd
 externalId: AC-4(9)
 name: Information Flow Enforcement | Human Reviews
-description: "Enforce the use of human reviews for [Assignment:
-  organization-defined information flows] under the following conditions:
-  [Assignment: organization-defined conditions]."
-elementType: control
+description: 'Enforce the use of human reviews for [Assignment: organization-defined
+  information flows] under the following conditions: [Assignment: organization-defined
+  conditions].'
+elementType: enhancement
+parent: ac-4
+guidance: Organizations define security or privacy policy filters for all situations
+  where automated flow control decisions are possible. When a fully automated flow
+  control decision is not possible, then a human review may be employed in lieu of
+  or as a complement to automated security or privacy policy filtering. Human reviews
+  may also be employed as deemed necessary by organizations.
+aliases:
+- AC-4(9)
+- AC-4 (9)

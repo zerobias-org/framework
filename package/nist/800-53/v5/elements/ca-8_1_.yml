@@ -1,6 +1,16 @@
 id: adf97447-e06f-4131-af13-5ec85bdd4c70
 externalId: CA-8(1)
 name: Penetration Testing | Independent Penetration Testing Agent or Team
-description: Employ an independent penetration testing agent or team to perform
-  penetration testing on the system or system components.
-elementType: control
+description: Employ an independent penetration testing agent or team to perform penetration
+  testing on the system or system components.
+elementType: enhancement
+parent: ca-8
+guidance: Independent penetration testing agents or teams are individuals or groups
+  who conduct impartial penetration testing of organizational systems. Impartiality
+  implies that penetration testing agents or teams are free from perceived or actual
+  conflicts of interest with respect to the development, operation, or management
+  of the systems that are the targets of the penetration testing.provides additional
+  information on independent assessments that can be applied to penetration testing.
+aliases:
+- CA-8(1)
+- CA-8 (1)

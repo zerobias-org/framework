@@ -1,6 +1,12 @@
 id: 926c45ab-c9ac-4c6e-a91c-f5ab313c33b3
 externalId: AC-2(4)
 name: Account Management | Automated Audit Actions
-description: Automatically audit account creation, modification, enabling,
-  disabling, and removal actions.
-elementType: control
+description: Automatically audit account creation, modification, enabling, disabling,
+  and removal actions.
+elementType: enhancement
+parent: ac-2
+guidance: Account management audit records are defined in accordance withand reviewed,
+  analyzed, and reported in accordance with.
+aliases:
+- AC-2(4)
+- AC-2 (4)

@@ -1,8 +1,13 @@
 id: f3850068-7f75-4878-9e34-573d74367cd1
 externalId: PS-3(2)
 name: Personnel Screening | Formal Indoctrination
-description: Verify that individuals accessing a system processing, storing, or
-  transmitting types of classified information that require formal
-  indoctrination, are formally indoctrinated for all the relevant types of
-  information to which they have access on the system.
-elementType: control
+description: Verifies that individuals accessing systems requiring formal indoctrination
+  are formally indoctrinated for all relevant information types they can access.
+elementType: enhancement
+parent: ps-3
+guidance: Types of classified information that require formal indoctrination include
+  Special Access Program (SAP), Restricted Data (RD), and Sensitive Compartmented
+  Information (SCI).
+aliases:
+- PS-3(2)
+- PS-3 (2)

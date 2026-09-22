@@ -1,9 +1,13 @@
 id: b29ee288-13c9-4d22-8acf-7691536b322d
 externalId: MA-2(2)
 name: Controlled Maintenance | Automated Maintenance Activities
-description: "a. Schedule, conduct, and document maintenance, repair, and
-  replacement actions for the system using [Assignment: organization-defined
-  automated mechanisms]; andb. Produce up-to date, accurate, and complete
-  records of all maintenance, repair, and replacement actions requested,
-  scheduled, in process, and completed."
-elementType: control
+description: Schedules, conducts, and documents maintenance actions using automated
+  mechanisms, producing accurate and complete records.
+elementType: enhancement
+parent: ma-2
+guidance: The use of automated mechanisms to manage and control system maintenance
+  programs and activities helps to ensure the generation of timely, accurate, complete,
+  and consistent maintenance records.
+aliases:
+- MA-2(2)
+- MA-2 (2)

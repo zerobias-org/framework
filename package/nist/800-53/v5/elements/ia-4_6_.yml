@@ -1,7 +1,13 @@
 id: f7ad8037-35fb-4a83-ba2d-1e7baf2fd903
 externalId: IA-4(6)
 name: Identifier Management | Cross-organization Management
-description: "Coordinate with the following external organizations for
-  cross-organization management of identifiers: [Assignment:
-  organization-defined external organizations]."
-elementType: control
+description: 'Coordinate with the following external organizations for cross-organization
+  management of identifiers: [Assignment: organization-defined external organizations].'
+elementType: enhancement
+parent: ia-4
+guidance: Cross-organization identifier management provides the capability to identify
+  individuals, groups, roles, or devices when conducting cross-organization activities
+  involving the processing, storage, or transmission of information.
+aliases:
+- IA-4(6)
+- IA-4 (6)

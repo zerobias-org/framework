@@ -1,0 +1,16 @@
+id: b8662ae1-58b3-45ed-8379-1949e01b7522
+externalId: IA-12(6)
+name: Identity Proofing | Accept Externally-proofed Identities
+description: 'Accept externally-proofed identities at [Assignment: organization-defined
+  identity assurance level].'
+elementType: enhancement
+parent: ia-12
+guidance: To limit unnecessary re-proofing of identities, particularly of non-PIV
+  users, organizations accept proofing conducted at a commensurate level of assurance
+  by other agencies or organizations. Proofing is consistent with organizational security
+  policy and the identity assurance level appropriate for the system, application,
+  or information accessed. Accepting externally-proofed identities is a fundamental
+  component of managing federated identities across agencies and organizations.
+aliases:
+- IA-12(6)
+- IA-12 (6)

@@ -1,7 +1,16 @@
 id: 99f35f61-f9cf-4157-9f99-f1c82942e476
 externalId: MA-7
 name: Field Maintenance
-description: "Restrict or prohibit field maintenance on [Assignment:
-  organization-defined systems or system components] to [Assignment:
-  organization-defined trusted maintenance facilities]."
+description: 'Restrict or prohibit field maintenance on [Assignment: organization-defined
+  systems or system components] to [Assignment: organization-defined trusted maintenance
+  facilities].'
 elementType: control
+parent: ma
+guidance: Field maintenance is the type of maintenance conducted on a system or system
+  component after the system or component has been deployed to a specific site (i.e.,
+  operational environment). In certain instances, field maintenance (i.e., local maintenance
+  at the site) may not be executed with the same degree of rigor or with the same
+  quality control checks as depot maintenance. For critical systems designated as
+  such by the organization, it may be necessary to restrict or prohibit field maintenance
+  at the local site and require that such maintenance be conducted in trusted facilities
+  with additional controls.

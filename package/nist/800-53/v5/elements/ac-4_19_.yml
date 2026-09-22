@@ -1,7 +1,15 @@
 id: 10f906c5-f592-4d82-ad46-05a91e3f4f63
 externalId: AC-4(19)
 name: Information Flow Enforcement | Validation of Metadata
-description: "When transferring information between different security domains,
-  implement [Assignment: organization-defined security or privacy policy
-  filters] on metadata."
-elementType: control
+description: 'When transferring information between different security domains, implement
+  [Assignment: organization-defined security or privacy policy filters] on metadata.'
+elementType: enhancement
+parent: ac-4
+guidance: All information (including metadata and the data to which the metadata applies)
+  is subject to filtering and inspection. Some organizations distinguish between metadata
+  and data payloads (i.e., only the data to which the metadata is bound). Other organizations
+  do not make such distinctions and consider metadata and the data to which the metadata
+  applies to be part of the payload.
+aliases:
+- AC-4(19)
+- AC-4 (19)

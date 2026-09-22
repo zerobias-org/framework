@@ -1,7 +1,16 @@
 id: 6b441201-162c-4400-a06e-b667e94dcab5
 externalId: SI-7(15)
 name: Software, Firmware, and Information Integrity | Code Authentication
-description: "Implement cryptographic mechanisms to authenticate the following
-  software or firmware components prior to installation: [Assignment:
-  organization-defined software or firmware components]."
-elementType: control
+description: 'Implement cryptographic mechanisms to authenticate the following software
+  or firmware components prior to installation: [Assignment: organization-defined
+  software or firmware components].'
+elementType: enhancement
+parent: si-7
+guidance: Cryptographic authentication includes verifying that software or firmware
+  components have been digitally signed using certificates recognized and approved
+  by organizations. Code signing is an effective method to protect against malicious
+  code. Organizations that employ cryptographic mechanisms also consider cryptographic
+  key management solutions.
+aliases:
+- SI-7(15)
+- SI-7 (15)

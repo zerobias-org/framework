@@ -1,7 +1,16 @@
 id: d7cc8214-60d6-4026-bec3-e53c3bd43c4c
 externalId: SC-18(4)
 name: Mobile Code | Prevent Automatic Execution
-description: "Prevent the automatic execution of mobile code in [Assignment:
-  organization-defined software applications] and enforce [Assignment:
-  organization-defined actions] prior to executing the code."
-elementType: control
+description: 'Prevent the automatic execution of mobile code in [Assignment: organization-defined
+  software applications] and enforce [Assignment: organization-defined actions] prior
+  to executing the code.'
+elementType: enhancement
+parent: sc-18
+guidance: Actions enforced before executing mobile code include prompting users prior
+  to opening email attachments or clicking on web links. Preventing the automatic
+  execution of mobile code includes disabling auto-execute features on system components
+  that employ portable storage devices, such as compact discs, digital versatile discs,
+  and universal serial bus devices.
+aliases:
+- SC-18(4)
+- SC-18 (4)

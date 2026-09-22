@@ -1,6 +1,11 @@
 id: 2e042907-1998-4859-8194-107f4f0fab1c
 externalId: PS-9
 name: Position Descriptions
-description: Incorporate security and privacy roles and responsibilities into
-  organizational position descriptions.
+description: Incorporate security and privacy roles and responsibilities into organizational
+  position descriptions.
 elementType: control
+parent: ps
+guidance: Specification of security and privacy roles in individual organizational
+  position descriptions facilitates clarity in understanding the security or privacy
+  responsibilities associated with the roles and the role-based security and privacy
+  training requirements for the roles.

@@ -1,6 +1,14 @@
 id: 5547c8e1-e7b2-411e-9e53-600a1587ea1a
 externalId: IR-2(2)
 name: Incident Response Training | Automated Training Environments
-description: "Provide an incident response training environment using
-  [Assignment: organization-defined automated mechanisms]."
-elementType: control
+description: 'Provide an incident response training environment using [Assignment:
+  organization-defined automated mechanisms].'
+elementType: enhancement
+parent: ir-2
+guidance: Automated mechanisms can provide a more thorough and realistic incident
+  response training environment. This can be accomplished, for example, by providing
+  more complete coverage of incident response issues, selecting more realistic training
+  scenarios and environments, and stressing the response capability.
+aliases:
+- IR-2(2)
+- IR-2 (2)

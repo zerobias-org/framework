@@ -1,8 +1,15 @@
 id: 71d55b0a-317c-497f-812c-d18430e974c8
 externalId: AU-11
 name: Audit Record Retention
-description: "Retain audit records for [Assignment: organization-defined time
-  period consistent with records retention policy] to provide support for
-  after-the-fact investigations of incidents and to meet regulatory and
-  organizational information retention requirements."
+description: Retains audit records for a period consistent with records retention
+  policy, to support after-the-fact investigations and regulatory requirements.
 elementType: control
+parent: au
+guidance: Organizations retain audit records until it is determined that the records
+  are no longer needed for administrative, legal, audit, or other operational purposes.
+  This includes the retention and availability of audit records relative to Freedom
+  of Information Act (FOIA) requests, subpoenas, and law enforcement actions. Organizations
+  develop standard categories of audit records relative to such types of actions and
+  standard response processes for each type of action. The National Archives and Records
+  Administration (NARA) General Records Schedules provide federal policy on records
+  retention.

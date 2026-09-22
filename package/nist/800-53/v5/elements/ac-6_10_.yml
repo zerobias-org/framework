@@ -1,6 +1,17 @@
 id: 43f68a39-fe90-436d-b321-9b7b3e84f7b0
 externalId: AC-6(10)
-name: Least Privilege | Prohibit Non-privileged Users from Executing Privileged
-  Functions
+name: Least Privilege | Prohibit Non-privileged Users from Executing Privileged Functions
 description: Prevent non-privileged users from executing privileged functions.
-elementType: control
+elementType: enhancement
+parent: ac-6
+guidance: Privileged functions include disabling, circumventing, or altering implemented
+  security or privacy controls, establishing system accounts, performing system integrity
+  checks, and administering cryptographic key management activities. Non-privileged
+  users are individuals who do not possess appropriate authorizations. Privileged
+  functions that require protection from non-privileged users include circumventing
+  intrusion detection and prevention mechanisms or malicious code protection mechanisms.
+  Preventing non-privileged users from executing privileged functions is enforced
+  by.
+aliases:
+- AC-6(10)
+- AC-6 (10)

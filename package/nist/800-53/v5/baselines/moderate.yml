@@ -1,0 +1,1152 @@
+id: 5dcf6d43-9bf6-41fe-be5c-edea3753a3dd
+name: Moderate
+description: NIST SP 800-53B moderate-impact security control baseline
+elements:
+  ac-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-2_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-2_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-2_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-2_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-2_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-2_13_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-6_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-6_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-6_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-6_7_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-6_9_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-6_10_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-11_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-17_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-17_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-17_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-17_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-18:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-18_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-18_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-19:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-19_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-20:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-20_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-20_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-21:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ac-22:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at-2_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at-2_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  at-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-3_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-6_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-6_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-7_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-9_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  au-12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-2_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-7_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-7_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ca-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-2_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-2_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-2_7_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-3_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-3_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-4_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-7_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-7_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-7_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-8_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-8_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cm-12_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-2_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-2_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-2_8_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-4_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-6_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-6_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-7_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-7_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-7_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-8_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-8_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-9_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-9_8_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cp-10_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-2_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-2_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-2_8_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-2_12_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-4_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-5_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-5_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-5_6_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-8_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-8_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-8_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-12_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-12_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ia-12_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-3_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-4_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-6_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-6_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-7_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ir-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-3_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-3_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-3_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ma-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mp-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-6_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-13_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-16:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pe-17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pl-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pl-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pl-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pl-4_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pl-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pl-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  pl-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ps-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-3_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-5_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-5_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-5_11_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ra-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-4_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-4_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-4_9_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-4_10_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-9_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-15_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sa-22:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-7_3_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-7_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-7_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-7_7_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-7_8_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-8_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-18:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-20:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-21:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-22:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-23:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-28:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-28_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sc-39:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-2_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-4_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-4_4_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-4_5_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-7_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-7_7_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-8_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  si-16:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-2_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-11_1_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-11_2_:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sr-12:
+    mandatory: true
+    parameters: []
+    requirements: []

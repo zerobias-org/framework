@@ -1,8 +1,17 @@
 id: ebfb5de0-ef7f-48bc-9ee4-eab446a75e05
 externalId: AC-6(2)
 name: Least Privilege | Non-privileged Access for Nonsecurity Functions
-description: "Require that users of system accounts (or roles) with access to
-  [Assignment: organization-defined security functions or security-relevant
-  information] use non-privileged accounts or roles, when accessing nonsecurity
-  functions."
-elementType: control
+description: Requires users with access to security functions to use non-privileged
+  accounts when performing nonsecurity functions.
+elementType: enhancement
+parent: ac-6
+guidance: Requiring the use of non-privileged accounts when accessing nonsecurity
+  functions limits exposure when operating from within privileged accounts or roles.
+  The inclusion of roles addresses situations where organizations implement access
+  control policies, such as role-based access control, and where a change of role
+  provides the same degree of assurance in the change of access authorizations for
+  the user and the processes acting on behalf of the user as would be provided by
+  a change between a privileged and non-privileged account.
+aliases:
+- AC-6(2)
+- AC-6 (2)

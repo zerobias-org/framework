@@ -1,6 +1,12 @@
 id: 72f27b77-4194-4ff8-ac73-fe1e92d79238
 externalId: MA-3(6)
 name: Maintenance Tools | Software Updates and Patches
-description: Inspect maintenance tools to ensure the latest software updates and
-  patches are installed.
-elementType: control
+description: Inspect maintenance tools to ensure the latest software updates and patches
+  are installed.
+elementType: enhancement
+parent: ma-3
+guidance: Maintenance tools using outdated and/or unpatched software can provide a
+  threat vector for adversaries and result in a significant vulnerability for organizations.
+aliases:
+- MA-3(6)
+- MA-3 (6)

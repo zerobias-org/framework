@@ -1,0 +1,13 @@
+id: ddc79e4e-1dd0-451a-aecc-0316bc8faeff
+externalId: MP-8(4)
+name: Media Downgrading | Classified Information
+description: Downgrade system media containing classified information prior to release
+  to individuals without required access authorizations.
+elementType: enhancement
+parent: mp-8
+guidance: Downgrading of classified information uses approved sanitization tools,
+  techniques, and procedures to transfer information confirmed to be unclassified
+  from classified systems to unclassified media.
+aliases:
+- MP-8(4)
+- MP-8 (4)

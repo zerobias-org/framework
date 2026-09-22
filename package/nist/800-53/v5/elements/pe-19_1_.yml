@@ -1,0 +1,11 @@
+id: 6914c940-c9b5-4377-8240-cf056244867b
+externalId: PE-19(1)
+name: Information Leakage | National Emissions Policies and Procedures
+description: Protects system components, data communications, and networks per national
+  Emissions Security policy based on the information's classification.
+elementType: enhancement
+parent: pe-19
+guidance: Emissions Security (EMSEC) policies include the former TEMPEST policies.
+aliases:
+- PE-19(1)
+- PE-19 (1)

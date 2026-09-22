@@ -1,6 +1,12 @@
 id: f0a0aea2-242c-4244-9495-558511580a3e
 externalId: PE-9(1)
 name: Power Equipment and Cabling | Redundant Cabling
-description: "Employ redundant power cabling paths that are physically separated
-  by [Assignment: organization-defined distance]."
-elementType: control
+description: 'Employ redundant power cabling paths that are physically separated by
+  [Assignment: organization-defined distance].'
+elementType: enhancement
+parent: pe-9
+guidance: Physically separate and redundant power cables ensure that power continues
+  to flow in the event that one of the cables is cut or otherwise damaged.
+aliases:
+- PE-9(1)
+- PE-9 (1)

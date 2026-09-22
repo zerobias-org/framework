@@ -1,0 +1,2 @@
+- (a) Where addresses are allocated dynamically, standardize dynamic address allocation lease information and the lease duration assigned to devices in accordance with [Assignment: organization-defined lease information and lease duration]; and
+- (b) Audit lease information when assigned to a device.

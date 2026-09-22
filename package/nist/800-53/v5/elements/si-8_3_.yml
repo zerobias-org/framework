@@ -1,0 +1,13 @@
+id: dbac1bfe-454a-48de-b828-d6db264dfae0
+externalId: SI-8(3)
+name: Spam Protection | Continuous Learning Capability
+description: Implement spam protection mechanisms with a learning capability to more
+  effectively identify legitimate communications traffic.
+elementType: enhancement
+parent: si-8
+guidance: Learning mechanisms include Bayesian filters that respond to user inputs
+  that identify specific traffic as spam or legitimate by updating algorithm parameters
+  and thereby more accurately separating types of traffic.
+aliases:
+- SI-8(3)
+- SI-8 (3)

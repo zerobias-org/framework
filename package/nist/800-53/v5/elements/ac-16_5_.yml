@@ -1,9 +1,15 @@
 id: 72dae0f7-e77b-463d-a554-2d8dad835899
 externalId: AC-16(5)
 name: Security and Privacy Attributes | Attribute Displays on Objects to Be Output
-description: "Display security and privacy attributes in human-readable form on
-  each object that the system transmits to output devices to identify
-  [Assignment: organization-defined special dissemination, handling, or
-  distribution instructions] using [Assignment: organization-defined
-  human-readable, standard naming conventions]."
-elementType: control
+description: Displays security and privacy attributes in human-readable form on objects
+  sent to output devices, using standard naming conventions.
+elementType: enhancement
+parent: ac-16
+guidance: System outputs include printed pages, screens, or equivalent items. System
+  output devices include printers, notebook computers, video displays, smart phones,
+  and tablets. To mitigate the risk of unauthorized exposure of information (e.g.,
+  shoulder surfing), the outputs display full attribute values when unmasked by the
+  subscriber.
+aliases:
+- AC-16(5)
+- AC-16 (5)

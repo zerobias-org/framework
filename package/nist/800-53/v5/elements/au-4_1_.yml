@@ -1,7 +1,21 @@
 id: c68b7ebe-75d0-413a-8af2-374faa9a82f2
 externalId: AU-4(1)
 name: Audit Log Storage Capacity | Transfer to Alternate Storage
-description: "Transfer audit logs [Assignment: organization-defined frequency]
-  to a different system, system component, or media other than the system or
-  system component conducting the logging."
-elementType: control
+description: 'Transfer audit logs [Assignment: organization-defined frequency] to
+  a different system, system component, or media other than the system or system component
+  conducting the logging.'
+elementType: enhancement
+parent: au-4
+guidance: Audit log transfer, also known as off-loading, is a common process in systems
+  with limited audit log storage capacity and thus supports availability of the audit
+  logs. The initial audit log storage is only used in a transitory fashion until the
+  system can communicate with the secondary or alternate system allocated to audit
+  log storage, at which point the audit logs are transferred. Transferring audit logs
+  to alternate storage is similar toin that audit logs are transferred to a different
+  entity. However, the purpose of selectingis to protect the confidentiality and integrity
+  of audit records. Organizations can select either control enhancement to obtain
+  the benefit of increased audit log storage capacity and preserving the confidentiality,
+  integrity, and availability of audit records and logs.
+aliases:
+- AU-4(1)
+- AU-4 (1)

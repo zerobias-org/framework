@@ -1,6 +1,11 @@
 id: 2e898fb5-3a31-4c60-a08e-99c3952ff520
 externalId: PT-3(2)
 name: Personally Identifiable Information Processing Purposes | Automation
-description: "Track processing purposes of personally identifiable information
-  using [Assignment: organization-defined automated mechanisms]."
-elementType: control
+description: 'Track processing purposes of personally identifiable information using
+  [Assignment: organization-defined automated mechanisms].'
+elementType: enhancement
+parent: pt-3
+guidance: Automated mechanisms augment tracking of the processing purposes.
+aliases:
+- PT-3(2)
+- PT-3 (2)

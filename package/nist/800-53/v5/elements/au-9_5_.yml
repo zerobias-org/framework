@@ -1,6 +1,16 @@
 id: 8128ca56-f099-4e29-a9bf-63b3fadc38b8
 externalId: AU-9(5)
 name: Protection of Audit Information | Dual Authorization
-description: "Enforce dual authorization for [Selection (one or more): movement;
-  deletion] of [Assignment: organization-defined audit information]."
-elementType: control
+description: 'Enforce dual authorization for [Selection (one or more): movement; deletion]
+  of [Assignment: organization-defined audit information].'
+elementType: enhancement
+parent: au-9
+guidance: Organizations may choose different selection options for different types
+  of audit information. Dual authorization mechanisms (also known as two-person control)
+  require the approval of two authorized individuals to execute audit functions. To
+  reduce the risk of collusion, organizations consider rotating dual authorization
+  duties to other individuals. Organizations do not require dual authorization mechanisms
+  when immediate responses are necessary to ensure public and environmental safety.
+aliases:
+- AU-9(5)
+- AU-9 (5)

@@ -1,8 +1,16 @@
 id: b2ba4f0c-f5b1-4451-997e-2fc7fa9bb253
 externalId: SC-7(19)
-name: Boundary Protection | Block Communication from Non-organizationally
-  Configured Hosts
-description: "Block inbound and outbound communications traffic between
-  [Assignment: organization-defined communication clients] that are
-  independently configured by end users and external service providers."
-elementType: control
+name: Boundary Protection | Block Communication from Non-organizationally Configured
+  Hosts
+description: 'Block inbound and outbound communications traffic between [Assignment:
+  organization-defined communication clients] that are independently configured by
+  end users and external service providers.'
+elementType: enhancement
+parent: sc-7
+guidance: Communication clients independently configured by end users and external
+  service providers include instant messaging clients and video conferencing software
+  and applications. Traffic blocking does not apply to communication clients that
+  are configured by organizations to perform authorized functions.
+aliases:
+- SC-7(19)
+- SC-7 (19)

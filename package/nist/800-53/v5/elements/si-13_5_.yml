@@ -1,0 +1,14 @@
+id: 5f33a9ed-b99e-4d4a-a861-66588eb4b602
+externalId: SI-13(5)
+name: Predictable Failure Prevention | Failover Capability
+description: 'Provide [Selection: real-time; near real-time] [Assignment: organization-defined
+  failover capability] for the system.'
+elementType: enhancement
+parent: si-13
+guidance: Failover refers to the automatic switchover to an alternate system upon
+  the failure of the primary system. Failover capability includes incorporating mirrored
+  system operations at alternate processing sites or periodic data mirroring at regular
+  intervals defined by the recovery time periods of organizations.
+aliases:
+- SI-13(5)
+- SI-13 (5)

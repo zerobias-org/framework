@@ -1,7 +1,20 @@
 id: 57367c24-7910-4b10-8d1b-74af478a3764
 externalId: CM-2(2)
 name: Baseline Configuration | Automation Support for Accuracy and Currency
-description: "Maintain the currency, completeness, accuracy, and availability of
-  the baseline configuration of the system using [Assignment:
-  organization-defined automated mechanisms]."
-elementType: control
+description: 'Maintain the currency, completeness, accuracy, and availability of the
+  baseline configuration of the system using [Assignment: organization-defined automated
+  mechanisms].'
+elementType: enhancement
+parent: cm-2
+guidance: Automated mechanisms that help organizations maintain consistent baseline
+  configurations for systems include configuration management tools, hardware, software,
+  firmware inventory tools, and network management tools. Automated tools can be used
+  at the organization level, mission and business process level, or system level on
+  workstations, servers, notebook computers, network components, or mobile devices.
+  Tools can be used to track version numbers on operating systems, applications, types
+  of software installed, and current patch levels. Automation support for accuracy
+  and currency can be satisfied by the implementation offor organizations that combine
+  system component inventory and baseline configuration activities.
+aliases:
+- CM-2(2)
+- CM-2 (2)

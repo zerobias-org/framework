@@ -1,0 +1,4 @@
+- a. Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides;
+- b. Issue authorization credentials for facility access;
+- c. Review the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; and
+- d. Remove individuals from the facility access list when access is no longer required.

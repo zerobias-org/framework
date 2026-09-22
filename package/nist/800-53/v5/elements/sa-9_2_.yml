@@ -1,9 +1,15 @@
 id: f51b5227-6a3f-41fe-a2d9-d9bcb4eab1e7
 externalId: SA-9(2)
-name: External System Services | Identification of Functions, Ports, Protocols,
-  and Services
-description: "Require providers of the following external system services to
-  identify the functions, ports, protocols, and other services required for the
-  use of such services: [Assignment: organization-defined external system
-  services]."
-elementType: control
+name: External System Services | Identification of Functions, Ports, Protocols, and
+  Services
+description: Requires providers of defined external system services to identify the
+  functions, ports, protocols, and other services those services require.
+elementType: enhancement
+parent: sa-9
+guidance: Information from external service providers regarding the specific functions,
+  ports, protocols, and services used in the provision of such services can be useful
+  when the need arises to understand the trade-offs involved in restricting certain
+  functions and services or blocking certain ports and protocols.
+aliases:
+- SA-9(2)
+- SA-9 (2)

@@ -1,7 +1,14 @@
 id: cda42649-4f29-478e-a54d-aef740c07988
 externalId: CM-8(6)
 name: System Component Inventory | Assessed Configurations and Approved Deviations
-description: Include assessed component configurations and any approved
-  deviations to current deployed configurations in the system component
-  inventory.
-elementType: control
+description: Include assessed component configurations and any approved deviations
+  to current deployed configurations in the system component inventory.
+elementType: enhancement
+parent: cm-8
+guidance: Assessed configurations and approved deviations focus on configuration settings
+  established by organizations for system components, the specific components that
+  have been assessed to determine compliance with the required configuration settings,
+  and any approved deviations from established configuration settings.
+aliases:
+- CM-8(6)
+- CM-8 (6)

@@ -1,6 +1,14 @@
 id: 34047dce-9d25-4a04-8d0f-4289bb06951f
 externalId: AT-2(1)
 name: Literacy Training and Awareness | Practical Exercises
-description: Provide practical exercises in literacy training that simulate
-  events and incidents.
-elementType: control
+description: Provide practical exercises in literacy training that simulate events
+  and incidents.
+elementType: enhancement
+parent: at-2
+guidance: Practical exercises include no-notice social engineering attempts to collect
+  information, gain unauthorized access, or simulate the adverse impact of opening
+  malicious email attachments or invoking, via spear phishing attacks, malicious web
+  links.
+aliases:
+- AT-2(1)
+- AT-2 (1)

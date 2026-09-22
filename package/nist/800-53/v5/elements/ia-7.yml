@@ -1,7 +1,10 @@
 id: ce72b14c-a8c9-4320-b36e-2f49e905149a
 externalId: IA-7
 name: Cryptographic Module Authentication
-description: Implement mechanisms for authentication to a cryptographic module
-  that meet the requirements of applicable laws, executive orders, directives,
-  policies, regulations, standards, and guidelines for such authentication.
+description: Implements cryptographic module authentication mechanisms meeting applicable
+  laws, directives, and standards.
 elementType: control
+parent: ia
+guidance: Authentication mechanisms may be required within a cryptographic module
+  to authenticate an operator accessing the module and to verify that the operator
+  is authorized to assume the requested role and perform services within that role.

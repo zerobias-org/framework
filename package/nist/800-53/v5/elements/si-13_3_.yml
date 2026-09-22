@@ -1,0 +1,14 @@
+id: 5fbb2558-4736-4c9e-9acf-e17136d77e57
+externalId: SI-13(3)
+name: Predictable Failure Prevention | Manual Transfer Between Components
+description: 'Manually initiate transfers between active and standby system components
+  when the use of the active component reaches [Assignment: organization-defined percentage]
+  of the mean time to failure.'
+elementType: enhancement
+parent: si-13
+guidance: For example, if the MTTF for a system component is 100 days and the MTTF
+  percentage defined by the organization is 90 percent, the manual transfer would
+  occur after 90 days.
+aliases:
+- SI-13(3)
+- SI-13 (3)

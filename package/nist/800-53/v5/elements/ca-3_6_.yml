@@ -1,7 +1,17 @@
 id: 302f1bc8-eab5-429b-bf45-c17375e7e95d
 externalId: CA-3(6)
 name: Information Exchange | Transfer Authorizations
-description: Verify that individuals or systems transferring data between
-  interconnecting systems have the requisite authorizations (i.e., write
-  permissions or privileges) prior to accepting such data.
-elementType: control
+description: Verify that individuals or systems transferring data between interconnecting
+  systems have the requisite authorizations (i.e., write permissions or privileges)
+  prior to accepting such data.
+elementType: enhancement
+parent: ca-3
+guidance: To prevent unauthorized individuals and systems from making information
+  transfers to protected systems, the protected system verifies—via independent means—
+  whether the individual or system attempting to transfer information is authorized
+  to do so. Verification of the authorization to transfer information also applies
+  to control plane traffic (e.g., routing and DNS) and services (e.g., authenticated
+  SMTP relays).
+aliases:
+- CA-3(6)
+- CA-3 (6)

@@ -1,0 +1,12 @@
+id: 9d449512-5f50-4d99-b64a-2e3ee2adf90b
+externalId: SC-2(2)
+name: Separation of System and User Functionality | Disassociability
+description: Store state information from applications and software separately.
+elementType: enhancement
+parent: sc-2
+guidance: If a system is compromised, storing applications and software separately
+  from state information about users’ interactions with an application may better
+  protect individuals’ privacy.
+aliases:
+- SC-2(2)
+- SC-2 (2)

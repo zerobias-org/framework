@@ -1,7 +1,12 @@
 id: 46151e29-09b3-4b6c-b7ed-5431b73acf3a
 externalId: MA-4(1)
 name: Nonlocal Maintenance | Logging and Review
-description: "a. Log [Assignment: organization-defined audit events] for
-  nonlocal maintenance and diagnostic sessions; andb. Review the audit records
-  of the maintenance and diagnostic sessions to detect anomalous behavior."
-elementType: control
+description: Logs nonlocal maintenance and diagnostic sessions and reviews the records
+  to detect anomalous behavior.
+elementType: enhancement
+parent: ma-4
+guidance: Audit logging for nonlocal maintenance is enforced by. Audit events are
+  defined in.
+aliases:
+- MA-4(1)
+- MA-4 (1)

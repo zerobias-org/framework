@@ -1,6 +1,19 @@
 id: 92e30af3-02c6-472a-97b1-f2fee3ffe744
 externalId: MP-6(7)
 name: Media Sanitization | Dual Authorization
-description: "Enforce dual authorization for the sanitization of [Assignment:
-  organization-defined system media]."
-elementType: control
+description: 'Enforce dual authorization for the sanitization of [Assignment: organization-defined
+  system media].'
+elementType: enhancement
+parent: mp-6
+guidance: Organizations employ dual authorization to help ensure that system media
+  sanitization cannot occur unless two technically qualified individuals conduct the
+  designated task. Individuals who sanitize system media possess sufficient skills
+  and expertise to determine if the proposed sanitization reflects applicable federal
+  and organizational standards, policies, and procedures. Dual authorization also
+  helps to ensure that sanitization occurs as intended, protecting against errors
+  and false claims of having performed the sanitization actions. Dual authorization
+  may also be known as two-person control. To reduce the risk of collusion, organizations
+  consider rotating dual authorization duties to other individuals.
+aliases:
+- MP-6(7)
+- MP-6 (7)

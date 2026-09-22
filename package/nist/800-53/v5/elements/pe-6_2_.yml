@@ -1,0 +1,16 @@
+id: 273134a7-7858-4578-8eed-b7857f7b843f
+externalId: PE-6(2)
+name: Monitoring Physical Access | Automated Intrusion Recognition and Responses
+description: Recognizes defined classes of intrusions and initiates defined response
+  actions using automated mechanisms.
+elementType: enhancement
+parent: pe-6
+guidance: Response actions can include notifying selected organizational personnel
+  or law enforcement personnel. Automated mechanisms implemented to initiate response
+  actions include system alert notifications, email and text messages, and activating
+  door locking mechanisms. Physical access monitoring can be coordinated with intrusion
+  detection systems and system monitoring capabilities to provide integrated threat
+  coverage for the organization.
+aliases:
+- PE-6(2)
+- PE-6 (2)

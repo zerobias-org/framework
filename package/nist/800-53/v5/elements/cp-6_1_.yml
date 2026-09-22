@@ -1,6 +1,16 @@
 id: fda0ff7e-1d3a-4ad0-9364-31a99c01f3fa
 externalId: CP-6(1)
 name: Alternate Storage Site | Separation from Primary Site
-description: Identify an alternate storage site that is sufficiently separated
-  from the primary storage site to reduce susceptibility to the same threats.
-elementType: control
+description: Identify an alternate storage site that is sufficiently separated from
+  the primary storage site to reduce susceptibility to the same threats.
+elementType: enhancement
+parent: cp-6
+guidance: Threats that affect alternate storage sites are defined in organizational
+  risk assessments and include natural disasters, structural failures, hostile attacks,
+  and errors of omission or commission. Organizations determine what is considered
+  a sufficient degree of separation between primary and alternate storage sites based
+  on the types of threats that are of concern. For threats such as hostile attacks,
+  the degree of separation between sites is less relevant.
+aliases:
+- CP-6(1)
+- CP-6 (1)

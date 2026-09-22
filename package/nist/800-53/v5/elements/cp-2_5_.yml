@@ -1,8 +1,15 @@
 id: e0254930-3970-4ced-9a58-35effdaabefb
 externalId: CP-2(5)
 name: Contingency Plan | Continue Mission and Business Functions
-description: "Plan for the continuance of [Selection (one): all; essential]
-  mission and business functions with minimal or no loss of operational
-  continuity and sustains that continuity until full system restoration at
-  primary processing and/or storage sites."
-elementType: control
+description: Plans for the continuance of essential mission and business functions
+  with minimal or no loss of operational continuity until full system restoration.
+elementType: enhancement
+parent: cp-2
+guidance: Organizations may choose to conduct the contingency planning activities
+  to continue mission and business functions as part of business continuity planning
+  or business impact analyses. Primary processing and/or storage sites defined by
+  organizations as part of contingency planning may change depending on the circumstances
+  associated with the contingency.
+aliases:
+- CP-2(5)
+- CP-2 (5)

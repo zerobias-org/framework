@@ -1,0 +1,15 @@
+id: e0a20130-56e7-447c-b699-f4335a24dd15
+externalId: RA-3(3)
+name: Risk Assessment | Dynamic Threat Awareness
+description: 'Determine the current cyber threat environment on an ongoing basis using
+  [Assignment: organization-defined means].'
+elementType: enhancement
+parent: ra-3
+guidance: The threat awareness information that is gathered feeds into the organization’s
+  information security operations to ensure that procedures are updated in response
+  to the changing threat environment. For example, at higher threat levels, organizations
+  may change the privilege or authentication thresholds required to perform certain
+  operations.
+aliases:
+- RA-3(3)
+- RA-3 (3)

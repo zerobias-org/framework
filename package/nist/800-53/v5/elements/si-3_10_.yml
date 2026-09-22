@@ -1,0 +1,17 @@
+id: 4bdc5eec-6d5e-406e-ab13-08178d87d5a7
+externalId: SI-3(10)
+name: Malicious Code Protection | Malicious Code Analysis
+description: Employs tools and techniques to analyze the characteristics and behavior
+  of malicious code, incorporating results into incident response and flaw remediation.
+elementType: enhancement
+parent: si-3
+guidance: The use of malicious code analysis tools provides organizations with a more
+  in-depth understanding of adversary tradecraft (i.e., tactics, techniques, and procedures)
+  and the functionality and purpose of specific instances of malicious code. Understanding
+  the characteristics of malicious code facilitates effective organizational responses
+  to current and future threats. Organizations can conduct malicious code analyses
+  by employing reverse engineering techniques or by monitoring the behavior of executing
+  code.
+aliases:
+- SI-3(10)
+- SI-3 (10)

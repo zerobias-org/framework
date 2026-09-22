@@ -1,8 +1,16 @@
 id: 3a79d7a0-e66b-44f7-8758-2bcd589df330
 externalId: AU-6(6)
-name: Audit Record Review, Analysis, and Reporting | Correlation with Physical
-  Monitoring
-description: Correlate information from audit records with information obtained
-  from monitoring physical access to further enhance the ability to identify
-  suspicious, inappropriate, unusual, or malevolent activity.
-elementType: control
+name: Audit Record Review, Analysis, and Reporting | Correlation with Physical Monitoring
+description: Correlates audit record information with physical access monitoring to
+  better identify suspicious or malevolent activity.
+elementType: enhancement
+parent: au-6
+guidance: The correlation of physical audit record information and the audit records
+  from systems may assist organizations in identifying suspicious behavior or supporting
+  evidence of such behavior. For example, the correlation of an individual’s identity
+  for logical access to certain systems with the additional physical security information
+  that the individual was present at the facility when the logical access occurred
+  may be useful in investigations.
+aliases:
+- AU-6(6)
+- AU-6 (6)

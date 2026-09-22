@@ -1,6 +1,16 @@
 id: 126482fc-a152-49ab-86e9-a90148c5d181
 externalId: AC-2(1)
 name: Account Management | Automated System Account Management
-description: "Support the management of system accounts using [Assignment:
-  organization-defined automated mechanisms]."
-elementType: control
+description: 'Support the management of system accounts using [Assignment: organization-defined
+  automated mechanisms].'
+elementType: enhancement
+parent: ac-2
+guidance: Automated system account management includes using automated mechanisms
+  to create, enable, modify, disable, and remove accounts; notify account managers
+  when an account is created, enabled, modified, disabled, or removed, or when users
+  are terminated or transferred; monitor system account usage; and report atypical
+  system account usage. Automated mechanisms can include internal system functions
+  and email, telephonic, and text messaging notifications.
+aliases:
+- AC-2(1)
+- AC-2 (1)

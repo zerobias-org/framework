@@ -1,0 +1,15 @@
+id: f73828bd-836f-4c61-90dc-52babecd1faf
+externalId: SC-34(1)
+name: Non-modifiable Executable Programs | No Writable Storage
+description: 'Employ [Assignment: organization-defined system components] with no
+  writeable storage that is persistent across component restart or power on/off.'
+elementType: enhancement
+parent: sc-34
+guidance: Disallowing writeable storage eliminates the possibility of malicious code
+  insertion via persistent, writeable storage within the designated system components.
+  The restriction applies to fixed and removable storage, with the latter being addressed
+  either directly or as specific restrictions imposed through access controls for
+  mobile devices.
+aliases:
+- SC-34(1)
+- SC-34 (1)

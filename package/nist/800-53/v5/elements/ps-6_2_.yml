@@ -1,9 +1,14 @@
 id: ea4688d6-2817-4134-9ea0-e982fc2e1869
 externalId: PS-6(2)
 name: Access Agreements | Classified Information Requiring Special Protection
-description: Verify that access to classified information requiring special
-  protection is granted only to individuals who:a. Have a valid access
-  authorization that is demonstrated by assigned official government duties;b.
-  Satisfy associated personnel security criteria; andc. Have read, understood,
-  and signed a nondisclosure agreement.
-elementType: control
+description: Grants access to specially protected classified information only to individuals
+  with valid authorization, screening, and a signed nondisclosure agreement.
+elementType: enhancement
+parent: ps-6
+guidance: Classified information that requires special protection includes collateral
+  information, Special Access Program (SAP) information, and Sensitive Compartmented
+  Information (SCI). Personnel security criteria reflect applicable laws, executive
+  orders, directives, regulations, policies, standards, and guidelines.
+aliases:
+- PS-6(2)
+- PS-6 (2)

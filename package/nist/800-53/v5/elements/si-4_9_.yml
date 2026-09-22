@@ -1,6 +1,14 @@
 id: 8fd8e458-3003-4131-a9f4-062fa28d1fc8
 externalId: SI-4(9)
 name: System Monitoring | Testing of Monitoring Tools and Mechanisms
-description: "Test intrusion-monitoring tools and mechanisms [Assignment:
-  organization-defined frequency]."
-elementType: control
+description: 'Test intrusion-monitoring tools and mechanisms [Assignment: organization-defined
+  frequency].'
+elementType: enhancement
+parent: si-4
+guidance: Testing intrusion-monitoring tools and mechanisms is necessary to ensure
+  that the tools and mechanisms are operating correctly and continue to satisfy the
+  monitoring objectives of organizations. The frequency and depth of testing depends
+  on the types of tools and mechanisms used by organizations and the methods of deployment.
+aliases:
+- SI-4(9)
+- SI-4 (9)

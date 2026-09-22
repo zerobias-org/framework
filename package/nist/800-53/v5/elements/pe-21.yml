@@ -1,7 +1,14 @@
 id: 48c11fc8-7bf0-4dd9-9804-189067a6e2f2
 externalId: PE-21
 name: Electromagnetic Pulse Protection
-description: "Employ [Assignment: organization-defined protective measures]
-  against electromagnetic pulse damage for [Assignment: organization-defined
-  systems and system components]."
+description: 'Employ [Assignment: organization-defined protective measures] against
+  electromagnetic pulse damage for [Assignment: organization-defined systems and system
+  components].'
 elementType: control
+parent: pe
+guidance: An electromagnetic pulse (EMP) is a short burst of electromagnetic energy
+  that is spread over a range of frequencies. Such energy bursts may be natural or
+  man-made. EMP interference may be disruptive or damaging to electronic equipment.
+  Protective measures used to mitigate EMP risk include shielding, surge suppressors,
+  ferro-resonant transformers, and earth grounding. EMP protection may be especially
+  significant for systems and applications that are part of the U.S. critical infrastructure.

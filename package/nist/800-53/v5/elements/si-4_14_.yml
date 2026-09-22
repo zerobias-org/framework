@@ -1,7 +1,17 @@
 id: 2e56873f-afd4-4d90-95d7-094cf0b7d691
 externalId: SI-4(14)
 name: System Monitoring | Wireless Intrusion Detection
-description: Employ a wireless intrusion detection system to identify rogue
-  wireless devices and to detect attack attempts and potential compromises or
-  breaches to the system.
-elementType: control
+description: Employ a wireless intrusion detection system to identify rogue wireless
+  devices and to detect attack attempts and potential compromises or breaches to the
+  system.
+elementType: enhancement
+parent: si-4
+guidance: Wireless signals may radiate beyond organizational facilities. Organizations
+  proactively search for unauthorized wireless connections, including the conduct
+  of thorough scans for unauthorized wireless access points. Wireless scans are not
+  limited to those areas within facilities containing systems but also include areas
+  outside of facilities to verify that unauthorized wireless access points are not
+  connected to organizational systems.
+aliases:
+- SI-4(14)
+- SI-4 (14)

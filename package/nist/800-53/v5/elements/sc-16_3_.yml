@@ -1,0 +1,13 @@
+id: d203df53-7aaf-48a6-8140-7f85ccdeb598
+externalId: SC-16(3)
+name: Transmission of Security and Privacy Attributes | Cryptographic Binding
+description: 'Implement [Assignment: organization-defined mechanisms or techniques]
+  to bind security and privacy attributes to transmitted information.'
+elementType: enhancement
+parent: sc-16
+guidance: Cryptographic mechanisms and techniques can provide strong security and
+  privacy attribute binding to transmitted information to help ensure the integrity
+  of such information.
+aliases:
+- SC-16(3)
+- SC-16 (3)

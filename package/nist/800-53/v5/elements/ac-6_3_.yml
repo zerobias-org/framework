@@ -1,8 +1,12 @@
 id: dade87aa-eae6-4c59-a196-9e22740a8c32
 externalId: AC-6(3)
 name: Least Privilege | Network Access to Privileged Commands
-description: "Authorize network access to [Assignment: organization-defined
-  privileged commands] only for [Assignment: organization-defined compelling
-  operational needs] and document the rationale for such access in the security
-  plan for the system."
-elementType: control
+description: Authorizes network access to privileged commands only for compelling
+  operational needs and documents the rationale.
+elementType: enhancement
+parent: ac-6
+guidance: Network access is any access across a network connection in lieu of local
+  access (i.e., user being physically present at the device).
+aliases:
+- AC-6(3)
+- AC-6 (3)

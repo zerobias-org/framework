@@ -1,6 +1,14 @@
 id: d26b9e18-7937-4b61-a4fa-6d29a2a6f514
 externalId: PE-8(1)
 name: Visitor Access Records | Automated Records Maintenance and Review
-description: "Maintain and review visitor access records using [Assignment:
-  organization-defined automated mechanisms]."
-elementType: control
+description: 'Maintain and review visitor access records using [Assignment: organization-defined
+  automated mechanisms].'
+elementType: enhancement
+parent: pe-8
+guidance: Visitor access records may be stored and maintained in a database management
+  system that is accessible by organizational personnel. Automated access to such
+  records facilitates record reviews on a regular basis to determine if access authorizations
+  are current and still required to support organizational mission and business functions.
+aliases:
+- PE-8(1)
+- PE-8 (1)

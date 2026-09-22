@@ -1,8 +1,20 @@
 id: 80f35fa8-b8e9-4fbb-8a0c-175fa0e7160f
 externalId: AT-3(5)
 name: Role-based Training | Processing Personally Identifiable Information
-description: "Provide [Assignment: organization-defined personnel or roles] with
-  initial and [Assignment: organization-defined frequency] training in the
-  employment and operation of personally identifiable information processing and
-  transparency controls."
-elementType: control
+description: Provides personnel with initial and periodic training in personally identifiable
+  information processing and transparency controls.
+elementType: enhancement
+parent: at-3
+guidance: Personally identifiable information processing and transparency controls
+  include the organization’s authority to process personally identifiable information
+  and personally identifiable information processing purposes. Role-based training
+  for federal agencies addresses the types of information that may constitute personally
+  identifiable information and the risks, considerations, and obligations associated
+  with its processing. Such training also considers the authority to process personally
+  identifiable information documented in privacy policies and notices, system of records
+  notices, computer matching agreements and notices, privacy impact assessments,statements,
+  contracts, information sharing agreements, memoranda of understanding, and/or other
+  documentation.
+aliases:
+- AT-3(5)
+- AT-3 (5)

@@ -1,0 +1,20 @@
+id: fd7d00ae-7b7a-44e1-ada7-e80e095a78da
+externalId: AC-24(1)
+name: Access Control Decisions | Transmit Access Authorization Information
+description: Transmits access authorization information, using defined controls, to
+  systems that enforce access control decisions.
+elementType: enhancement
+parent: ac-24
+guidance: Authorization processes and access control decisions may occur in separate
+  parts of systems or in separate systems. In such instances, authorization information
+  is transmitted securely (e.g., using cryptographic mechanisms) so that timely access
+  control decisions can be enforced at the appropriate locations. To support the access
+  control decisions, it may be necessary to transmit as part of the access authorization
+  information supporting security and privacy attributes. This is because in distributed
+  systems, there are various access control decisions that need to be made, and different
+  entities make these decisions in a serial fashion, each requiring those attributes
+  to make the decisions. Protecting access authorization information ensures that
+  such information cannot be altered, spoofed, or compromised during transmission.
+aliases:
+- AC-24(1)
+- AC-24 (1)

@@ -1,6 +1,16 @@
 id: f9793815-4138-4e03-b9e1-9c29e4be96a9
 externalId: AC-16(7)
 name: Security and Privacy Attributes | Consistent Attribute Interpretation
-description: Provide a consistent interpretation of security and privacy
-  attributes transmitted between distributed system components.
-elementType: control
+description: Provide a consistent interpretation of security and privacy attributes
+  transmitted between distributed system components.
+elementType: enhancement
+parent: ac-16
+guidance: To enforce security and privacy policies across multiple system components
+  in distributed systems, organizations provide a consistent interpretation of security
+  and privacy attributes employed in access enforcement and flow enforcement decisions.
+  Organizations can establish agreements and processes to help ensure that distributed
+  system components implement attributes with consistent interpretations in automated
+  access enforcement and flow enforcement actions.
+aliases:
+- AC-16(7)
+- AC-16 (7)

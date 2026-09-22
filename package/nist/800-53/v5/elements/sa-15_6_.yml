@@ -1,0 +1,14 @@
+id: 043770a9-3c38-44b1-b756-17bfadd162de
+externalId: SA-15(6)
+name: Development Process, Standards, and Tools | Continuous Improvement
+description: Require the developer of the system, system component, or system service
+  to implement an explicit process to continuously improve the development process.
+elementType: enhancement
+parent: sa-15
+guidance: Developers of systems, system components, and system services consider the
+  effectiveness and efficiency of their development processes for meeting quality
+  objectives and addressing the security and privacy capabilities in current threat
+  environments.
+aliases:
+- SA-15(6)
+- SA-15 (6)

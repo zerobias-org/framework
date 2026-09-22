@@ -1,9 +1,23 @@
 id: a141d30e-eda1-437c-8e68-7903e61b2045
 externalId: CM-7(5)
 name: Least Functionality | Authorized Software — Allow-by-exception
-description: "a. Identify [Assignment: organization-defined software programs
-  authorized to execute on the system];b. Employ a deny-all, permit-by-exception
-  policy to allow the execution of authorized software programs on the system;
-  andc. Review and update the list of authorized software programs [Assignment:
-  organization-defined frequency]."
-elementType: control
+description: Identifies authorized software and employs a deny-all, permit-by-exception
+  policy to allow only its execution, reviewed periodically.
+elementType: enhancement
+parent: cm-7
+guidance: Authorized software programs can be limited to specific versions or from
+  a specific source. To facilitate a comprehensive authorized software process and
+  increase the strength of protection for attacks that bypass application level authorized
+  software, software programs may be decomposed into and monitored at different levels
+  of detail. These levels include applications, application programming interfaces,
+  application modules, scripts, system processes, system services, kernel functions,
+  registries, drivers, and dynamic link libraries. The concept of permitting the execution
+  of authorized software may also be applied to user actions, system ports and protocols,
+  IP addresses/ranges, websites, and MAC addresses. Organizations consider verifying
+  the integrity of authorized software programs using digital signatures, cryptographic
+  checksums, or hash functions. Verification of authorized software can occur either
+  prior to execution or at system startup. The identification of authorized URLs for
+  websites is addressed inand.
+aliases:
+- CM-7(5)
+- CM-7 (5)

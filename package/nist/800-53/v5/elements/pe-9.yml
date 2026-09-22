@@ -1,6 +1,14 @@
 id: 5d09037a-e867-4420-803c-f1b33a1e248b
 externalId: PE-9
 name: Power Equipment and Cabling
-description: Protect power equipment and power cabling for the system from
-  damage and destruction.
+description: Protect power equipment and power cabling for the system from damage
+  and destruction.
 elementType: control
+parent: pe
+guidance: Organizations determine the types of protection necessary for the power
+  equipment and cabling employed at different locations that are both internal and
+  external to organizational facilities and environments of operation. Types of power
+  equipment and cabling include internal cabling and uninterruptable power sources
+  in offices or data centers, generators and power cabling outside of buildings, and
+  power sources for self-contained components such as satellites, vehicles, and other
+  deployable systems.

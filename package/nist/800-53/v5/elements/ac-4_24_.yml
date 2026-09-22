@@ -1,0 +1,13 @@
+id: 95237362-ca50-4b5e-aada-673370fd9f4a
+externalId: AC-4(24)
+name: Information Flow Enforcement | Internal Normalized Format
+description: When transferring information between different security domains, parse
+  incoming data into an internal normalized format and regenerate the data to be consistent
+  with its intended specification.
+elementType: enhancement
+parent: ac-4
+guidance: Converting data into normalized forms is one of most of effective mechanisms
+  to stop malicious attacks and large classes of data exfiltration.
+aliases:
+- AC-4(24)
+- AC-4 (24)

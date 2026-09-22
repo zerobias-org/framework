@@ -1,6 +1,16 @@
 id: 3934b8f0-a590-456b-91df-133d224ad354
 externalId: AC-3(11)
 name: Access Enforcement | Restrict Access to Specific Information Types
-description: "Restrict access to data repositories containing [Assignment:
-  organization-defined information types]."
-elementType: control
+description: 'Restrict access to data repositories containing [Assignment: organization-defined
+  information types].'
+elementType: enhancement
+parent: ac-3
+guidance: Restricting access to specific information is intended to provide flexibility
+  regarding access control of specific information types within a system. For example,
+  role-based access could be employed to allow access to only a specific type of personally
+  identifiable information within a database rather than allowing access to the database
+  in its entirety. Other examples include restricting access to cryptographic keys,
+  authentication information, and selected system information.
+aliases:
+- AC-3(11)
+- AC-3 (11)

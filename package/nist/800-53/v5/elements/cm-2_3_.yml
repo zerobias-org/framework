@@ -1,6 +1,13 @@
 id: 9f8b24e0-d5a9-4cc7-9460-536b04cc904b
 externalId: CM-2(3)
 name: Baseline Configuration | Retention of Previous Configurations
-description: "Retain [Assignment: organization-defined number] of previous
-  versions of baseline configurations of the system to support rollback."
-elementType: control
+description: 'Retain [Assignment: organization-defined number] of previous versions
+  of baseline configurations of the system to support rollback.'
+elementType: enhancement
+parent: cm-2
+guidance: Retaining previous versions of baseline configurations to support rollback
+  include hardware, software, firmware, configuration files, configuration records,
+  and associated documentation.
+aliases:
+- CM-2(3)
+- CM-2 (3)

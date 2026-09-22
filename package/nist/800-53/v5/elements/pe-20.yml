@@ -1,8 +1,12 @@
 id: 8babf3e7-b550-4901-a274-8d7ae21e5389
 externalId: PE-20
 name: Asset Monitoring and Tracking
-description: "Employ [Assignment: organization-defined asset location
-  technologies] to track and monitor the location and movement of [Assignment:
-  organization-defined assets] within [Assignment: organization-defined
-  controlled areas]."
+description: Employs asset location technologies to track and monitor defined assets
+  within controlled areas.
 elementType: control
+parent: pe
+guidance: Asset location technologies can help ensure that critical assets—including
+  vehicles, equipment, and system components—remain in authorized locations. Organizations
+  consult with the Office of the General Counsel and senior agency official for privacy
+  regarding the deployment and use of asset location technologies to address potential
+  privacy concerns.

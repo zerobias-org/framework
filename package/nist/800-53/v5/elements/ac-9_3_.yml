@@ -1,0 +1,13 @@
+id: d29cc448-6099-4346-b7f6-a89e8de34b04
+externalId: AC-9(3)
+name: Previous Logon Notification | Notification of Account Changes
+description: Notifies the user at logon of changes to their account's security-related
+  characteristics during a defined period.
+elementType: enhancement
+parent: ac-9
+guidance: Information about changes to security-related account characteristics within
+  a specified time period allows users to recognize if changes were made without their
+  knowledge.
+aliases:
+- AC-9(3)
+- AC-9 (3)

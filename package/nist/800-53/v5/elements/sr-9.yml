@@ -1,6 +1,14 @@
 id: edcab65b-2cd2-4185-a276-706510c0a3d8
 externalId: SR-9
 name: Tamper Resistance and Detection
-description: Implement a tamper protection program for the system, system
-  component, or system service.
+description: Implement a tamper protection program for the system, system component,
+  or system service.
 elementType: control
+parent: sr
+guidance: Anti-tamper technologies, tools, and techniques provide a level of protection
+  for systems, system components, and services against many threats, including reverse
+  engineering, modification, and substitution. Strong identification combined with
+  tamper resistance and/or tamper detection is essential to protecting systems and
+  components during distribution and when in use.
+aliases:
+- SR-9

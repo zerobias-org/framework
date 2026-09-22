@@ -1,0 +1,16 @@
+id: d3d935bd-e7cc-415c-af1f-4cc6e144a2e9
+externalId: AC-4(28)
+name: Information Flow Enforcement | Linear Filter Pipelines
+description: When transferring information between different security domains, implement
+  a linear content filter pipeline that is enforced with discretionary and mandatory
+  access controls.
+elementType: enhancement
+parent: ac-4
+guidance: Content filtering is the process of inspecting information as it traverses
+  a cross-domain solution and determines if the information meets a predefined policy.
+  The use of linear content filter pipelines ensures that filter processes are non-bypassable
+  and always invoked. In general, the use of parallel filtering architectures for
+  content filtering of a single data type introduces bypass and non-invocation issues.
+aliases:
+- AC-4(28)
+- AC-4 (28)

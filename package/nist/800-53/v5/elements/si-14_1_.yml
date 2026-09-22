@@ -1,7 +1,13 @@
 id: d86bfe13-f4bf-4a9b-b2c6-2725552c0154
 externalId: SI-14(1)
 name: Non-persistence | Refresh from Trusted Sources
-description: "Obtain software and data employed during system component and
-  service refreshes from the following trusted sources: [Assignment:
-  organization-defined trusted sources]."
-elementType: control
+description: 'Obtain software and data employed during system component and service
+  refreshes from the following trusted sources: [Assignment: organization-defined
+  trusted sources].'
+elementType: enhancement
+parent: si-14
+guidance: Trusted sources include software and data from write-once, read-only media
+  or from selected offline secure storage facilities.
+aliases:
+- SI-14(1)
+- SI-14 (1)

@@ -1,7 +1,16 @@
 id: b5d6c982-49b7-43e3-85d5-7464fd222e4b
 externalId: AC-6(8)
 name: Least Privilege | Privilege Levels for Code Execution
-description: "Prevent the following software from executing at higher privilege
-  levels than users executing the software: [Assignment: organization-defined
-  software]."
-elementType: control
+description: 'Prevent the following software from executing at higher privilege levels
+  than users executing the software: [Assignment: organization-defined software].'
+elementType: enhancement
+parent: ac-6
+guidance: In certain situations, software applications or programs need to execute
+  with elevated privileges to perform required functions. However, depending on the
+  software functionality and configuration, if the privileges required for execution
+  are at a higher level than the privileges assigned to organizational users invoking
+  such applications or programs, those users may indirectly be provided with greater
+  privileges than assigned.
+aliases:
+- AC-6(8)
+- AC-6 (8)

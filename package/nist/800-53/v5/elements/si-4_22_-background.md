@@ -1,0 +1,2 @@
+- (a) Detect network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes]; and
+- (b) [Selection (one or more): Audit; Alert [Assignment: organization-defined personnel or roles]] when detected.

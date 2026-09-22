@@ -1,6 +1,12 @@
 id: ad3e4da9-6971-48f7-9114-eca5f19d6e03
 externalId: SR-11(3)
 name: Component Authenticity | Anti-counterfeit Scanning
-description: "Scan for counterfeit system components [Assignment:
-  organization-defined frequency]."
-elementType: control
+description: 'Scan for counterfeit system components [Assignment: organization-defined
+  frequency].'
+elementType: enhancement
+parent: sr-11
+guidance: The type of component determines the type of scanning to be conducted (e.g.,
+  web application scanning if the component is a web application).
+aliases:
+- SR-11(3)
+- SR-11 (3)

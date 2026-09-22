@@ -1,7 +1,21 @@
 id: 03003ec4-e172-48a4-b719-d7e7ddb021e6
 externalId: AC-4(17)
 name: Information Flow Enforcement | Domain Authentication
-description: "Uniquely identify and authenticate source and destination points
-  by [Selection (one or more): organization; system; application; service;
-  individual] for information transfer."
-elementType: control
+description: 'Uniquely identify and authenticate source and destination points by
+  [Selection (one or more): organization; system; application; service; individual]
+  for information transfer.'
+elementType: enhancement
+parent: ac-4
+guidance: Attribution is a critical component of a security and privacy concept of
+  operations. The ability to identify source and destination points for information
+  flowing within systems allows the forensic reconstruction of events and encourages
+  policy compliance by attributing policy violations to specific organizations or
+  individuals. Successful domain authentication requires that system labels distinguish
+  among systems, organizations, and individuals involved in preparing, sending, receiving,
+  or disseminating information. Attribution also allows organizations to better maintain
+  the lineage of personally identifiable information processing as it flows through
+  systems and can facilitate consent tracking, as well as correction, deletion, or
+  access requests from individuals.
+aliases:
+- AC-4(17)
+- AC-4 (17)

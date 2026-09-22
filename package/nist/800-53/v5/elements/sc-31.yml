@@ -1,8 +1,16 @@
 id: db97ef59-0644-4485-93ca-298335ba32c3
 externalId: SC-31
 name: Covert Channel Analysis
-description: "a. Perform a covert channel analysis to identify those aspects of
-  communications within the system that are potential avenues for covert
-  [Selection (one or more): storage; timing] channels; andb. Estimate the
-  maximum bandwidth of those channels."
+description: Performs a covert channel analysis to identify potential storage or timing
+  channels and estimates their maximum bandwidth.
 elementType: control
+parent: sc
+guidance: Developers are in the best position to identify potential areas within systems
+  that might lead to covert channels. Covert channel analysis is a meaningful activity
+  when there is the potential for unauthorized information flows across security domains,
+  such as in the case of systems that contain export-controlled information and have
+  connections to external networks (i.e., networks that are not controlled by organizations).
+  Covert channel analysis is also useful for multilevel secure systems, multiple security
+  level systems, and cross-domain systems.
+aliases:
+- SC-31

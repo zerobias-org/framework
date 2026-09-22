@@ -1,8 +1,16 @@
 id: 26947eca-4954-4292-9389-eb5c56993799
 externalId: CM-7(2)
 name: Least Functionality | Prevent Program Execution
-description: "Prevent program execution in accordance with [Selection (one or
-  more): [Assignment: organization-defined policies, rules of behavior, and/or
-  access agreements regarding software program usage and restrictions]; rules
-  authorizing the terms and conditions of software program usage]."
-elementType: control
+description: Prevents program execution except in accordance with defined policies,
+  rules of behavior, or access agreements governing software usage.
+elementType: enhancement
+parent: cm-7
+guidance: Prevention of program execution addresses organizational policies, rules
+  of behavior, and/or access agreements that restrict software usage and the terms
+  and conditions imposed by the developer or manufacturer, including software licensing
+  and copyrights. Restrictions include prohibiting auto-execute features, restricting
+  roles allowed to approve program execution, permitting or prohibiting specific software
+  programs, or restricting the number of program instances executed at the same time.
+aliases:
+- CM-7(2)
+- CM-7 (2)

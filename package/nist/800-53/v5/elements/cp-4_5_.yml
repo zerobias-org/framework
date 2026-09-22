@@ -1,0 +1,19 @@
+id: 01282e2e-aac0-48ae-a2e2-34a5e0bad2aa
+externalId: CP-4(5)
+name: Contingency Plan Testing | Self-challenge
+description: 'Employ [Assignment: organization-defined mechanisms] to [Assignment:
+  organization-defined system or system component] to disrupt and adversely affect
+  the system or system component.'
+elementType: enhancement
+parent: cp-4
+guidance: Often, the best method of assessing system resilience is to disrupt the
+  system in some manner. The mechanisms used by the organization could disrupt system
+  functions or system services in many ways, including terminating or disabling critical
+  system components, changing the configuration of system components, degrading critical
+  functionality (e.g., restricting network bandwidth), or altering privileges. Automated,
+  on-going, and simulated cyber-attacks and service disruptions can reveal unexpected
+  functional dependencies and help the organization determine its ability to ensure
+  resilience in the face of an actual cyber-attack.
+aliases:
+- CP-4(5)
+- CP-4 (5)

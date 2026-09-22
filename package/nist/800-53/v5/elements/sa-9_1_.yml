@@ -1,8 +1,14 @@
 id: 7398712e-c8ba-44d5-9545-050aefd3f444
 externalId: SA-9(1)
 name: External System Services | Risk Assessments and Organizational Approvals
-description: "a. Conduct an organizational assessment of risk prior to the
-  acquisition or outsourcing of information security services; andb. Verify that
-  the acquisition or outsourcing of dedicated information security services is
-  approved by [Assignment: organization-defined personnel or roles]."
-elementType: control
+description: Conducts a risk assessment before acquiring or outsourcing information
+  security services, and verifies designated personnel approve the acquisition.
+elementType: enhancement
+parent: sa-9
+guidance: Information security services include the operation of security devices,
+  such as firewalls or key management services as well as incident monitoring, analysis,
+  and response. Risks assessed can include system, mission or business, security,
+  privacy, or supply chain risks.
+aliases:
+- SA-9(1)
+- SA-9 (1)

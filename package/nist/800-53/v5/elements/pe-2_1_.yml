@@ -1,6 +1,12 @@
 id: 2e4bd38c-460e-4d63-87c6-f8a3bd4efcc1
 externalId: PE-2(1)
 name: Physical Access Authorizations | Access by Position or Role
-description: Authorize physical access to the facility where the system resides
-  based on position or role.
-elementType: control
+description: Authorize physical access to the facility where the system resides based
+  on position or role.
+elementType: enhancement
+parent: pe-2
+guidance: Role-based facility access includes access by authorized permanent and regular/routine
+  maintenance personnel, duty officers, and emergency medical staff.
+aliases:
+- PE-2(1)
+- PE-2 (1)

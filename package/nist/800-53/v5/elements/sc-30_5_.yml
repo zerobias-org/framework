@@ -1,7 +1,15 @@
 id: d357803c-5f16-4543-a552-34f7ccd05a94
 externalId: SC-30(5)
 name: Concealment and Misdirection | Concealment of System Components
-description: "Employ the following techniques to hide or conceal [Assignment:
-  organization-defined system components]: [Assignment: organization-defined
-  techniques]."
-elementType: control
+description: 'Employ the following techniques to hide or conceal [Assignment: organization-defined
+  system components]: [Assignment: organization-defined techniques].'
+elementType: enhancement
+parent: sc-30
+guidance: By hiding, disguising, or concealing critical system components, organizations
+  may be able to decrease the probability that adversaries target and successfully
+  compromise those assets. Potential means to hide, disguise, or conceal system components
+  include the configuration of routers or the use of encryption or virtualization
+  techniques.
+aliases:
+- SC-30(5)
+- SC-30 (5)

@@ -1,0 +1,14 @@
+id: 025310ae-44b5-485f-8d45-553763cc1a80
+externalId: CP-4(3)
+name: Contingency Plan Testing | Automated Testing
+description: 'Test the contingency plan using [Assignment: organization-defined automated
+  mechanisms].'
+elementType: enhancement
+parent: cp-4
+guidance: Automated mechanisms facilitate thorough and effective testing of contingency
+  plans by providing more complete coverage of contingency issues, selecting more
+  realistic test scenarios and environments, and effectively stressing the system
+  and supported mission and business functions.
+aliases:
+- CP-4(3)
+- CP-4 (3)

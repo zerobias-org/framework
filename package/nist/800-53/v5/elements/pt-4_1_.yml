@@ -1,7 +1,17 @@
 id: 2984831c-7e23-4aeb-b506-2acfedac7e2c
 externalId: PT-4(1)
 name: Consent | Tailored Consent
-description: "Provide [Assignment: organization-defined mechanisms] to allow
-  individuals to tailor processing permissions to selected elements of
-  personally identifiable information."
-elementType: control
+description: 'Provide [Assignment: organization-defined mechanisms] to allow individuals
+  to tailor processing permissions to selected elements of personally identifiable
+  information.'
+elementType: enhancement
+parent: pt-4
+guidance: While some processing may be necessary for the basic functionality of the
+  product or service, other processing may not. In these circumstances, organizations
+  allow individuals to select how specific personally identifiable information elements
+  may be processed. More tailored consent may help reduce privacy risk, increase individual
+  satisfaction, and avoid adverse behaviors, such as abandonment of the product or
+  service.
+aliases:
+- PT-4(1)
+- PT-4 (1)

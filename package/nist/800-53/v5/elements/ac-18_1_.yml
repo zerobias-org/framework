@@ -1,6 +1,14 @@
 id: ea476680-8b9c-4fc2-99df-1147340e81b1
 externalId: AC-18(1)
 name: Wireless Access | Authentication and Encryption
-description: "Protect wireless access to the system using authentication of
-  [Selection (one or more): users; devices] and encryption."
-elementType: control
+description: 'Protect wireless access to the system using authentication of [Selection
+  (one or more): users; devices] and encryption.'
+elementType: enhancement
+parent: ac-18
+guidance: Wireless networking capabilities represent a significant potential vulnerability
+  that can be exploited by adversaries. To protect systems with wireless access points,
+  strong authentication of users and devices along with strong encryption can reduce
+  susceptibility to threats by adversaries involving wireless technologies.
+aliases:
+- AC-18(1)
+- AC-18 (1)

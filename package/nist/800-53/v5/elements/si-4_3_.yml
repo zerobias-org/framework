@@ -1,0 +1,14 @@
+id: d5d3d764-2f9e-460d-a3f0-97fca617af89
+externalId: SI-4(3)
+name: System Monitoring | Automated Tool and Mechanism Integration
+description: Employ automated tools and mechanisms to integrate intrusion detection
+  tools and mechanisms into access control and flow control mechanisms.
+elementType: enhancement
+parent: si-4
+guidance: Using automated tools and mechanisms to integrate intrusion detection tools
+  and mechanisms into access and flow control mechanisms facilitates a rapid response
+  to attacks by enabling the reconfiguration of mechanisms in support of attack isolation
+  and elimination.
+aliases:
+- SI-4(3)
+- SI-4 (3)

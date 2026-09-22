@@ -1,9 +1,16 @@
 id: 5d10d6ff-ba7d-4dae-a76f-74f40a6996f3
 externalId: PE-13(2)
 name: Fire Protection | Suppression Systems — Automatic Activation and Notification
-description: "a. Employ fire suppression systems that activate automatically and
-  notify [Assignment: organization-defined personnel or roles] and [Assignment:
-  organization-defined emergency responders]; andb. Employ an automatic fire
-  suppression capability when the facility is not staffed on a continuous
-  basis."
-elementType: control
+description: Employs fire suppression systems that activate automatically and notify
+  designated personnel, with automatic capability when the facility is unstaffed.
+elementType: enhancement
+parent: pe-13
+guidance: Organizations can identify specific personnel, roles, and emergency responders
+  if individuals on the notification list need to have appropriate access authorizations
+  and/or clearances (e.g., to enter to facilities where access is restricted due to
+  the impact level or classification of information within the facility). Notification
+  mechanisms may require independent energy sources to ensure that the notification
+  capability is not adversely affected by the fire.
+aliases:
+- PE-13(2)
+- PE-13 (2)

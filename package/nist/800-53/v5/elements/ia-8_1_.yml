@@ -1,7 +1,16 @@
 id: 7a8f11f8-de6e-4301-b203-0dc842f01e74
 externalId: IA-8(1)
-name: Identification and Authentication (non-organizational Users) | Acceptance
-  of PIV Credentials from Other Agencies
-description: Accept and electronically verify Personal Identity
-  Verification-compliant credentials from other federal agencies.
-elementType: control
+name: Identification and Authentication (non-organizational Users) | Acceptance of
+  PIV Credentials from Other Agencies
+description: Accept and electronically verify Personal Identity Verification-compliant
+  credentials from other federal agencies.
+elementType: enhancement
+parent: ia-8
+guidance: Acceptance of Personal Identity Verification (PIV) credentials from other
+  federal agencies applies to both logical and physical access control systems. PIV
+  credentials are those credentials issued by federal agencies that conform to FIPS
+  Publication 201 and supporting guidelines. The adequacy and reliability of PIV card
+  issuers are addressed and authorized using.
+aliases:
+- IA-8(1)
+- IA-8 (1)

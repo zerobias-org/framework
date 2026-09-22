@@ -1,0 +1,3 @@
+- (a) Require applications to assert, as part of the installation process, the access needed to the following system applications and functions: [Assignment: organization-defined system applications and functions];
+- (b) Provide an enforcement mechanism to prevent unauthorized access; and
+- (c) Approve access changes after initial installation of the application.

@@ -1,5 +1,18 @@
 id: 9354b2ba-3e21-4f4a-89ac-74b9339e78cb
 externalId: SI-22
-name: 'Information Diversity'
-description: '|- a. Identify the following alternative sources of information for [Assignment: organization-defined essential functions and services]: [Assignment: organization-defined alternative information sources]; and b. Use an alternative information source for the execution of essential functions or services on [Assignment: organization-defined systems or system components] when the primary source of information is corrupted or unavailable.'
+name: Information Diversity
+description: Identifies alternative sources of information for essential functions
+  and uses them when the primary source is corrupted or unavailable.
 elementType: control
+parent: si
+guidance: Actions taken by a system service or a function are often driven by the
+  information it receives. Corruption, fabrication, modification, or deletion of that
+  information could impact the ability of the service function to properly carry out
+  its intended actions. By having multiple sources of input, the service or function
+  can continue operation if one source is corrupted or no longer available. It is
+  possible that the alternative sources of information may be less precise or less
+  accurate than the primary source of information. But having such sub-optimal information
+  sources may still provide a sufficient level of quality that the essential service
+  or function can be carried out, even in a degraded or debilitated manner.
+aliases:
+- SI-22

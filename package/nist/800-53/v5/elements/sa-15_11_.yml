@@ -1,0 +1,14 @@
+id: 231d6ab9-4fae-413d-88e0-dc448fb376c2
+externalId: SA-15(11)
+name: Development Process, Standards, and Tools | Archive System or Component
+description: Requires the developer to archive the released system or component together
+  with the evidence supporting its final security and privacy review.
+elementType: enhancement
+parent: sa-15
+guidance: Archiving system or system components requires the developer to retain key
+  development artifacts, including hardware specifications, source code, object code,
+  and relevant documentation from the development process that can provide a readily
+  available configuration baseline for system and component upgrades or modifications.
+aliases:
+- SA-15(11)
+- SA-15 (11)

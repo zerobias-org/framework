@@ -1,0 +1,13 @@
+id: 34c6d1f4-799f-40ee-b0e1-4b892aeccab7
+externalId: SA-15(7)
+name: Development Process, Standards, and Tools | Automated Vulnerability Analysis
+description: Requires the developer to perform automated vulnerability analysis, determine
+  exploitation potential and mitigations, and deliver results to designated personnel.
+elementType: enhancement
+parent: sa-15
+guidance: Automated tools can be more effective at analyzing exploitable weaknesses
+  or deficiencies in large and complex systems, prioritizing vulnerabilities by severity,
+  and providing recommendations for risk mitigations.
+aliases:
+- SA-15(7)
+- SA-15 (7)

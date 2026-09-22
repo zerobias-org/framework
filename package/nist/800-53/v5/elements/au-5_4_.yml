@@ -1,0 +1,17 @@
+id: 1a678ea6-0864-42cc-b69b-00843d2a3156
+externalId: AU-5(4)
+name: Response to Audit Logging Process Failures | Shutdown on Failure
+description: Invokes a full or partial system shutdown, or degraded operation, on
+  defined audit logging failures unless an alternate logging capability exists.
+elementType: enhancement
+parent: au-5
+guidance: Organizations determine the types of audit logging failures that can trigger
+  automatic system shutdowns or degraded operations. Because of the importance of
+  ensuring mission and business continuity, organizations may determine that the nature
+  of the audit logging failure is not so severe that it warrants a complete shutdown
+  of the system supporting the core organizational mission and business functions.
+  In those instances, partial system shutdowns or operating in a degraded mode with
+  reduced capability may be viable alternatives.
+aliases:
+- AU-5(4)
+- AU-5 (4)

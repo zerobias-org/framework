@@ -1,0 +1,21 @@
+id: 30e63843-4426-4253-b1f8-8e05b6a9dbea
+externalId: SI-3(8)
+name: Malicious Code Protection | Detect Unauthorized Commands
+description: Detects unauthorized operating system commands through the kernel API
+  on defined hardware, and warns, audits, or prevents their execution.
+elementType: enhancement
+parent: si-3
+guidance: Detecting unauthorized commands can be applied to critical interfaces other
+  than kernel-based interfaces, including interfaces with virtual machines and privileged
+  applications. Unauthorized operating system commands include commands for kernel
+  functions from system processes that are not trusted to initiate such commands as
+  well as commands for kernel functions that are suspicious even though commands of
+  that type are reasonable for processes to initiate. Organizations can define the
+  malicious commands to be detected by a combination of command types, command classes,
+  or specific instances of commands. Organizations can also define hardware components
+  by component type, component, component location in the network, or a combination
+  thereof. Organizations may select different actions for different types, classes,
+  or instances of malicious commands.
+aliases:
+- SI-3(8)
+- SI-3 (8)

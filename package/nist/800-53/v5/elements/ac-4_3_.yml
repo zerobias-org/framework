@@ -1,0 +1,14 @@
+id: 6cc66691-eb3a-4cf0-add5-34d9dc052d1f
+externalId: AC-4(3)
+name: Information Flow Enforcement | Dynamic Information Flow Control
+description: 'Enforce [Assignment: organization-defined information flow control policies].'
+elementType: enhancement
+parent: ac-4
+guidance: Organizational policies regarding dynamic information flow control include
+  allowing or disallowing information flows based on changing conditions or mission
+  or operational considerations. Changing conditions include changes in risk tolerance
+  due to changes in the immediacy of mission or business needs, changes in the threat
+  environment, and detection of potentially harmful or adverse events.
+aliases:
+- AC-4(3)
+- AC-4 (3)

@@ -2,4 +2,10 @@ id: 4568a73a-e0a3-478c-9897-1e10295343c4
 externalId: CM-11(2)
 name: User-installed Software | Software Installation with Privileged Status
 description: Allow user installation of software only with explicit privileged status.
-elementType: control
+elementType: enhancement
+parent: cm-11
+guidance: Privileged status can be obtained, for example, by serving in the role of
+  system administrator.
+aliases:
+- CM-11(2)
+- CM-11 (2)

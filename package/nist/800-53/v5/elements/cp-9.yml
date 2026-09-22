@@ -1,14 +1,19 @@
 id: 5d190625-1e75-48a9-ab53-83b28357b111
 externalId: CP-9
 name: System Backup
-description: "a. Conduct backups of user-level information contained in
-  [Assignment: organization-defined system components] [Assignment:
-  organization-defined frequency consistent with recovery time and recovery
-  point objectives];b. Conduct backups of system-level information contained in
-  the system [Assignment: organization-defined frequency consistent with
-  recovery time and recovery point objectives];c. Conduct backups of system
-  documentation, including security- and privacy-related documentation
-  [Assignment: organization-defined frequency consistent with recovery time and
-  recovery point objectives]; andd. Protect the confidentiality, integrity, and
-  availability of backup information."
+description: Backs up user-level, system-level, and documentation information on a
+  defined schedule, protecting the confidentiality, integrity, and availability of
+  the backups.
 elementType: control
+parent: cp
+guidance: System-level information includes system state information, operating system
+  software, middleware, application software, and licenses. User-level information
+  includes information other than system-level information. Mechanisms employed to
+  protect the integrity of system backups include digital signatures and cryptographic
+  hashes. Protection of system backup information while in transit is addressed byand.
+  System backups reflect the requirements in contingency plans as well as other organizational
+  requirements for backing up information. Organizations may be subject to laws, executive
+  orders, directives, regulations, or policies with requirements regarding specific
+  categories of information (e.g., personal health information). Organizational personnel
+  consult with the senior agency official for privacy and legal counsel regarding
+  such requirements.

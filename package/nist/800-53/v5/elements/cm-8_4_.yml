@@ -1,7 +1,15 @@
 id: a1a54b85-3643-4605-8d05-3d602fa4d6b5
 externalId: CM-8(4)
 name: System Component Inventory | Accountability Information
-description: "Include in the system component inventory information, a means for
-  identifying by [Selection (one or more): name; position; role], individuals
-  responsible and accountable for administering those components."
-elementType: control
+description: Includes in the system component inventory a means to identify individuals
+  responsible and accountable for administering each component.
+elementType: enhancement
+parent: cm-8
+guidance: Identifying individuals who are responsible and accountable for administering
+  system components ensures that the assigned components are properly administered
+  and that organizations can contact those individuals if some action is required
+  (e.g., when the component is determined to be the source of a breach, needs to be
+  recalled or replaced, or needs to be relocated).
+aliases:
+- CM-8(4)
+- CM-8 (4)

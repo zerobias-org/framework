@@ -1,15 +1,19 @@
 id: d3cf3fda-455e-4786-bc5d-d8c5eb59351a
 externalId: SA-11(2)
 name: Developer Testing and Evaluation | Threat Modeling and Vulnerability Analyses
-description: "Require the developer of the system, system component, or system
-  service to perform threat modeling and vulnerability analyses during
-  development and the subsequent testing and evaluation of the system,
-  component, or service that:a. Uses the following contextual information:
-  [Assignment: organization-defined information concerning impact, environment
-  of operations, known or assumed threats, and acceptable risk levels];b.
-  Employs the following tools and methods: [Assignment: organization-defined
-  tools and methods];c. Conducts the modeling and analyses at the following
-  level of rigor: [Assignment: organization-defined breadth and depth of
-  modeling and analyses]; andd. Produces evidence that meets the following
-  acceptance criteria: [Assignment: organization-defined acceptance criteria]."
-elementType: control
+description: Requires the developer to perform threat modeling and vulnerability analyses
+  during development using defined context, tools, rigor, and acceptance criteria.
+elementType: enhancement
+parent: sa-11
+guidance: Systems, system components, and system services may deviate significantly
+  from the functional and design specifications created during the requirements and
+  design stages of the system development life cycle. Therefore, updates to threat
+  modeling and vulnerability analyses of those systems, system components, and system
+  services during development and prior to delivery are critical to the effective
+  operation of those systems, components, and services. Threat modeling and vulnerability
+  analyses at this stage of the system development life cycle ensure that design and
+  implementation changes have been accounted for and that vulnerabilities created
+  because of those changes have been reviewed and mitigated.
+aliases:
+- SA-11(2)
+- SA-11 (2)

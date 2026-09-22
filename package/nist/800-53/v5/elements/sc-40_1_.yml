@@ -1,0 +1,19 @@
+id: b18ad163-291c-48bb-92e7-0d92dd0b6799
+externalId: SC-40(1)
+name: Wireless Link Protection | Electromagnetic Interference
+description: 'Implement cryptographic mechanisms that achieve [Assignment: organization-defined
+  level of protection] against the effects of intentional electromagnetic interference.'
+elementType: enhancement
+parent: sc-40
+guidance: The implementation of cryptographic mechanisms for electromagnetic interference
+  protects systems against intentional jamming that might deny or impair communications
+  by ensuring that wireless spread spectrum waveforms used to provide anti-jam protection
+  are not predictable by unauthorized individuals. The implementation of cryptographic
+  mechanisms may also coincidentally mitigate the effects of unintentional jamming
+  due to interference from legitimate transmitters that share the same spectrum. Mission
+  requirements, projected threats, concept of operations, and laws, executive orders,
+  directives, regulations, policies, and standards determine levels of wireless link
+  availability, cryptography needed, and performance.
+aliases:
+- SC-40(1)
+- SC-40 (1)

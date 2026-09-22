@@ -1,0 +1,19 @@
+id: c310ed9e-9a55-4071-bc52-1b0e9231303a
+externalId: SA-17(4)
+name: Developer Security and Privacy Architecture and Design | Informal Correspondence
+description: Requires the developer to produce an informal descriptive top-level specification
+  of security-relevant interfaces and demonstrate its consistency and completeness.
+elementType: enhancement
+parent: sa-17
+guidance: Correspondence is an important part of the assurance gained through modeling.
+  It demonstrates that the implementation is an accurate transformation of the model,
+  and that additional code or implementation detail has no impact on the behaviors
+  or policies being modeled. Consistency between the descriptive top-level specification
+  (i.e., high-level/low-level design) and the formal policy model is generally not
+  amenable to being fully proven. Therefore, a combination of formal and informal
+  methods may be needed to show such consistency. Hardware, software, and firmware
+  mechanisms strictly internal to security-relevant hardware, software, and firmware
+  include mapping registers and direct memory input and output.
+aliases:
+- SA-17(4)
+- SA-17 (4)

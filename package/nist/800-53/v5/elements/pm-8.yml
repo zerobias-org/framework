@@ -1,7 +1,12 @@
 id: 332d928a-cc8e-4562-8798-88e86b725129
 externalId: PM-8
 name: Critical Infrastructure Plan
-description: Address information security and privacy issues in the development,
-  documentation, and updating of a critical infrastructure and key resources
-  protection plan.
+description: Address information security and privacy issues in the development, documentation,
+  and updating of a critical infrastructure and key resources protection plan.
 elementType: control
+parent: pm
+guidance: Protection strategies are based on the prioritization of critical assets
+  and resources. The requirement and guidance for defining critical infrastructure
+  and key resources and for preparing an associated critical infrastructure protection
+  plan are found in applicable laws, executive orders, directives, policies, regulations,
+  standards, and guidelines.

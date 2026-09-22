@@ -1,6 +1,15 @@
 id: cf4cf6b4-fcc6-4845-a94c-608d89df470e
 externalId: CP-2(1)
 name: Contingency Plan | Coordinate with Related Plans
-description: Coordinate contingency plan development with organizational
-  elements responsible for related plans.
-elementType: control
+description: Coordinate contingency plan development with organizational elements
+  responsible for related plans.
+elementType: enhancement
+parent: cp-2
+guidance: Plans that are related to contingency plans include Business Continuity
+  Plans, Disaster Recovery Plans, Critical Infrastructure Plans, Continuity of Operations
+  Plans, Crisis Communications Plans, Insider Threat Implementation Plans, Data Breach
+  Response Plans, Cyber Incident Response Plans, Breach Response Plans, and Occupant
+  Emergency Plans.
+aliases:
+- CP-2(1)
+- CP-2 (1)

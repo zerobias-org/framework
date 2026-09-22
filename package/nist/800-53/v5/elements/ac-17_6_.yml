@@ -1,6 +1,15 @@
 id: 14d23817-d6cc-4c8a-b70a-55fba5d68536
 externalId: AC-17(6)
 name: Remote Access | Protection of Mechanism Information
-description: Protect information about remote access mechanisms from
-  unauthorized use and disclosure.
-elementType: control
+description: Protect information about remote access mechanisms from unauthorized
+  use and disclosure.
+elementType: enhancement
+parent: ac-17
+guidance: Remote access to organizational information by non-organizational entities
+  can increase the risk of unauthorized use and disclosure about remote access mechanisms.
+  The organization considers including remote access requirements in the information
+  exchange agreements with other organizations, as applicable. Remote access requirements
+  can also be included in rules of behavior (see) and access agreements (see).
+aliases:
+- AC-17(6)
+- AC-17 (6)

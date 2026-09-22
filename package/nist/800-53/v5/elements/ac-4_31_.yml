@@ -1,0 +1,12 @@
+id: e717da7c-ae96-4561-8529-23db83ddd0b4
+externalId: AC-4(31)
+name: Information Flow Enforcement | Failed Content Transfer Prevention
+description: When transferring information between different security domains, prevent
+  the transfer of failed content to the receiving domain.
+elementType: enhancement
+parent: ac-4
+guidance: Content that failed filtering checks can corrupt the system if transferred
+  to the receiving domain.
+aliases:
+- AC-4(31)
+- AC-4 (31)

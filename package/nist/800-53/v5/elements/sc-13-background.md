@@ -1,0 +1,2 @@
+- a. Determine the [Assignment: organization-defined cryptographic uses]; and
+- b. Implement the following types of cryptography required for each specified cryptographic use: [Assignment: organization-defined types of cryptography for each specified cryptographic use].

@@ -1,0 +1,13 @@
+id: 08027191-60b8-44c9-b13c-0a3ebbb035ff
+externalId: IA-4(9)
+name: Identifier Management | Attribute Maintenance and Protection
+description: 'Maintain the attributes for each uniquely identified individual, device,
+  or service in [Assignment: organization-defined protected central storage].'
+elementType: enhancement
+parent: ia-4
+guidance: For each of the entities covered in,,, and, it is important to maintain
+  the attributes for each authenticated entity on an ongoing basis in a central (protected)
+  store.
+aliases:
+- IA-4(9)
+- IA-4 (9)

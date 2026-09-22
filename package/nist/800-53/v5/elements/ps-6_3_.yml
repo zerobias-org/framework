@@ -1,8 +1,12 @@
 id: f39deb78-bf21-43b5-b584-79c534ca9240
 externalId: PS-6(3)
 name: Access Agreements | Post-employment Requirements
-description: a. Notify individuals of applicable, legally binding
-  post-employment requirements for protection of organizational information;
-  andb. Require individuals to sign an acknowledgment of these requirements, if
-  applicable, as part of granting initial access to covered information.
-elementType: control
+description: Notifies individuals of post-employment information protection requirements
+  and requires signed acknowledgment before granting initial access.
+elementType: enhancement
+parent: ps-6
+guidance: Organizations consult with the Office of the General Counsel regarding matters
+  of post-employment requirements on terminated individuals.
+aliases:
+- PS-6(3)
+- PS-6 (3)

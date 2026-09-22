@@ -1,0 +1,14 @@
+id: a87297db-eb89-4387-b1d1-32b95bbe252e
+externalId: AC-7(3)
+name: Unsuccessful Logon Attempts | Biometric Attempt Limiting
+description: 'Limit the number of unsuccessful biometric logon attempts to [Assignment:
+  organization-defined number].'
+elementType: enhancement
+parent: ac-7
+guidance: Biometrics are probabilistic in nature. The ability to successfully authenticate
+  can be impacted by many factors, including matching performance and presentation
+  attack detection mechanisms. Organizations select the appropriate number of attempts
+  for users based on organizationally-defined factors.
+aliases:
+- AC-7(3)
+- AC-7 (3)

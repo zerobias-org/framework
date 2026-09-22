@@ -1,6 +1,14 @@
 id: eaabe693-5005-4bf5-89f4-6c0678e7391d
 externalId: AC-17(2)
 name: Remote Access | Protection of Confidentiality and Integrity Using Encryption
-description: Implement cryptographic mechanisms to protect the confidentiality
-  and integrity of remote access sessions.
-elementType: control
+description: Implement cryptographic mechanisms to protect the confidentiality and
+  integrity of remote access sessions.
+elementType: enhancement
+parent: ac-17
+guidance: Virtual private networks can be used to protect the confidentiality and
+  integrity of remote access sessions. Transport Layer Security (TLS) is an example
+  of a cryptographic protocol that provides end-to-end communications security over
+  networks and is used for Internet communications and online transactions.
+aliases:
+- AC-17(2)
+- AC-17 (2)

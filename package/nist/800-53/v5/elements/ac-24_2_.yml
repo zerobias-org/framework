@@ -1,0 +1,19 @@
+id: a72446a4-e65d-4c99-b54b-d5a98294e7ca
+externalId: AC-24(2)
+name: Access Control Decisions | No User or Process Identity
+description: 'Enforce access control decisions based on [Assignment: organization-defined
+  security or privacy attributes] that do not include the identity of the user or
+  process acting on behalf of the user.'
+elementType: enhancement
+parent: ac-24
+guidance: In certain situations, it is important that access control decisions can
+  be made without information regarding the identity of the users issuing the requests.
+  These are generally instances where preserving individual privacy is of paramount
+  importance. In other situations, user identification information is simply not needed
+  for access control decisions, and especially in the case of distributed systems,
+  transmitting such information with the needed degree of assurance may be very expensive
+  or difficult to accomplish. MAC, RBAC, ABAC, and label-based control policies, for
+  example, might not include user identity as an attribute.
+aliases:
+- AC-24(2)
+- AC-24 (2)

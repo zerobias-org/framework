@@ -1,7 +1,15 @@
 id: 5b34b4a1-e7ec-4f6c-8b43-a9cfdd594a41
 externalId: PE-14(2)
 name: Environmental Controls | Monitoring with Alarms and Notifications
-description: "Employ environmental control monitoring that provides an alarm or
-  notification of changes potentially harmful to personnel or equipment to
-  [Assignment: organization-defined personnel or roles]."
-elementType: control
+description: 'Employ environmental control monitoring that provides an alarm or notification
+  of changes potentially harmful to personnel or equipment to [Assignment: organization-defined
+  personnel or roles].'
+elementType: enhancement
+parent: pe-14
+guidance: The alarm or notification may be an audible alarm or a visual message in
+  real time to personnel or roles defined by the organization. Such alarms and notifications
+  can help minimize harm to individuals and damage to organizational assets by facilitating
+  a timely incident response.
+aliases:
+- PE-14(2)
+- PE-14 (2)

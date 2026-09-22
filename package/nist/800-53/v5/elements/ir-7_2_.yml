@@ -1,8 +1,16 @@
 id: 4ff893d2-d89a-46d2-ad7a-4f772506dde6
 externalId: IR-7(2)
 name: Incident Response Assistance | Coordination with External Providers
-description: a. Establish a direct, cooperative relationship between its
-  incident response capability and external providers of system protection
-  capability; andb. Identify organizational incident response team members to
-  the external providers.
-elementType: control
+description: Establishes a direct, cooperative relationship between the incident response
+  capability and external providers, and identifies team members to them.
+elementType: enhancement
+parent: ir-7
+guidance: External providers of a system protection capability include the Computer
+  Network Defense program within the U.S. Department of Defense. External providers
+  help to protect, monitor, analyze, detect, and respond to unauthorized activity
+  within organizational information systems and networks. It may be beneficial to
+  have agreements in place with external providers to clarify the roles and responsibilities
+  of each party before an incident occurs.
+aliases:
+- IR-7(2)
+- IR-7 (2)

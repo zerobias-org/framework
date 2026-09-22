@@ -1,9 +1,13 @@
 id: 0b87d997-34cf-4921-a8db-d8e2a98039c2
 externalId: AU-5(2)
 name: Response to Audit Logging Process Failures | Real-time Alerts
-description: "Provide an alert within [Assignment: organization-defined
-  real-time period] to [Assignment: organization-defined personnel, roles,
-  and/or locations] when the following audit failure events occur: [Assignment:
-  organization-defined audit logging failure events requiring real-time
-  alerts]."
-elementType: control
+description: Provides a real-time alert to designated personnel when defined audit
+  logging failure events occur.
+elementType: enhancement
+parent: au-5
+guidance: Alerts provide organizations with urgent messages. Real-time alerts provide
+  these messages at information technology speed (i.e., the time from event detection
+  to alert occurs in seconds or less).
+aliases:
+- AU-5(2)
+- AU-5 (2)

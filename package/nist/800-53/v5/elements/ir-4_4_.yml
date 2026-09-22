@@ -1,6 +1,13 @@
 id: 0285705e-3d87-43b0-9c00-eaa5e3f09c76
 externalId: IR-4(4)
 name: Incident Handling | Information Correlation
-description: Correlate incident information and individual incident responses to
-  achieve an organization-wide perspective on incident awareness and response.
-elementType: control
+description: Correlate incident information and individual incident responses to achieve
+  an organization-wide perspective on incident awareness and response.
+elementType: enhancement
+parent: ir-4
+guidance: Sometimes, a threat event, such as a hostile cyber-attack, can only be observed
+  by bringing together information from different sources, including various reports
+  and reporting procedures established by organizations.
+aliases:
+- IR-4(4)
+- IR-4 (4)

@@ -1,11 +1,16 @@
 id: d529bc73-4475-4928-bea3-6bb76b4ac0ba
 externalId: IA-4
 name: Identifier Management
-description: "Manage system identifiers by:a. Receiving authorization from
-  [Assignment: organization-defined personnel or roles] to assign an individual,
-  group, role, service, or device identifier;b. Selecting an identifier that
-  identifies an individual, group, role, service, or device;c. Assigning the
-  identifier to the intended individual, group, role, service, or device; andd.
-  Preventing reuse of identifiers for [Assignment: organization-defined time
-  period]."
+description: Manages system identifiers through authorized assignment, selection,
+  and prevention of identifier reuse for a defined period.
 elementType: control
+parent: ia
+guidance: Common device identifiers include Media Access Control (MAC) addresses,
+  Internet Protocol (IP) addresses, or device-unique token identifiers. The management
+  of individual identifiers is not applicable to shared system accounts. Typically,
+  individual identifiers are the usernames of the system accounts assigned to those
+  individuals. In such instances, the account management activities ofuse account
+  names provided by. Identifier management also addresses individual identifiers not
+  necessarily associated with system accounts. Preventing the reuse of identifiers
+  implies preventing the assignment of previously used individual, group, role, service,
+  or device identifiers to different individuals, groups, roles, services, or devices.

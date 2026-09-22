@@ -1,8 +1,16 @@
 id: e4a31ed5-629b-41ee-b831-3962d98bba6e
 externalId: AC-16(1)
 name: Security and Privacy Attributes | Dynamic Attribute Association
-description: "Dynamically associate security and privacy attributes with
-  [Assignment: organization-defined subjects and objects] in accordance with the
-  following security and privacy policies as information is created and
-  combined: [Assignment: organization-defined security and privacy policies]."
-elementType: control
+description: Dynamically associates security and privacy attributes with subjects
+  and objects as information is created and combined.
+elementType: enhancement
+parent: ac-16
+guidance: Dynamic association of attributes is appropriate whenever the security or
+  privacy characteristics of information change over time. Attributes may change due
+  to information aggregation issues (i.e., characteristics of individual data elements
+  are different from the combined elements), changes in individual access authorizations
+  (i.e., privileges), changes in the security category of information, or changes
+  in security or privacy policies. Attributes may also change situationally.
+aliases:
+- AC-16(1)
+- AC-16 (1)

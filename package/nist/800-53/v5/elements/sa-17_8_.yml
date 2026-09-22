@@ -1,0 +1,17 @@
+id: 7ef9670f-a529-44cc-9693-14af57b28a1e
+externalId: SA-17(8)
+name: Developer Security and Privacy Architecture and Design | Orchestration
+description: Designs defined critical systems or components with coordinated behavior
+  to implement defined capabilities.
+elementType: enhancement
+parent: sa-17
+guidance: Security resources that are distributed, located at different layers or
+  in different system elements, or are implemented to support different aspects of
+  trustworthiness can interact in unforeseen or incorrect ways. Adverse consequences
+  can include cascading failures, interference, or coverage gaps. Coordination of
+  the behavior of security resources (e.g., by ensuring that one patch is installed
+  across all resources before making a configuration change that assumes that the
+  patch is propagated) can avert such negative interactions.
+aliases:
+- SA-17(8)
+- SA-17 (8)

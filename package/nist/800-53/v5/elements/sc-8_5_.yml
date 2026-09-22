@@ -1,0 +1,13 @@
+id: 4d301366-0c3b-4c72-8120-9cf17af3eca7
+externalId: SC-8(5)
+name: Transmission Confidentiality and Integrity | Protected Distribution System
+description: Implements a defined protected distribution system to prevent unauthorized
+  disclosure of, or detect changes to, information during transmission.
+elementType: enhancement
+parent: sc-8
+guidance: The purpose of a protected distribution system is to deter, detect, and/or
+  make difficult physical access to the communication lines that carry national security
+  information.
+aliases:
+- SC-8(5)
+- SC-8 (5)

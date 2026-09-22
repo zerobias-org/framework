@@ -1,6 +1,13 @@
 id: 38b2051e-9797-4193-964e-b26e5d99ed20
 externalId: SI-6(3)
 name: Security and Privacy Function Verification | Report Verification Results
-description: "Report the results of security and privacy function verification
-  to [Assignment: organization-defined personnel or roles]."
-elementType: control
+description: 'Report the results of security and privacy function verification to
+  [Assignment: organization-defined personnel or roles].'
+elementType: enhancement
+parent: si-6
+guidance: Organizational personnel with potential interest in the results of the verification
+  of security and privacy functions include systems security officers, senior agency
+  information security officers, and senior agency officials for privacy.
+aliases:
+- SI-6(3)
+- SI-6 (3)

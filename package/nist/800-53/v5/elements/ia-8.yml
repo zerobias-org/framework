@@ -1,6 +1,16 @@
 id: 02c95f14-502a-4072-ad2d-c24a55539713
 externalId: IA-8
 name: Identification and Authentication (non-organizational Users)
-description: Uniquely identify and authenticate non-organizational users or
-  processes acting on behalf of non-organizational users.
+description: Uniquely identify and authenticate non-organizational users or processes
+  acting on behalf of non-organizational users.
 elementType: control
+parent: ia
+guidance: Non-organizational users include system users other than organizational
+  users explicitly covered by. Non-organizational users are uniquely identified and
+  authenticated for accesses other than those explicitly identified and documented
+  in. Identification and authentication of non-organizational users accessing federal
+  systems may be required to protect federal, proprietary, or privacy-related information
+  (with exceptions noted for national security systems). Organizations consider many
+  factors—including security, privacy, scalability, and practicality—when balancing
+  the need to ensure ease of use for access to federal information and systems with
+  the need to protect and adequately mitigate risk.

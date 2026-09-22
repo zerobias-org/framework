@@ -1,8 +1,15 @@
 id: 9108fe6a-1af3-49fc-9f87-99ca16dffbbd
 externalId: SC-28(1)
 name: Protection of Information at Rest | Cryptographic Protection
-description: "Implement cryptographic mechanisms to prevent unauthorized
-  disclosure and modification of the following information at rest on
-  [Assignment: organization-defined system components or media]: [Assignment:
-  organization-defined information]."
-elementType: control
+description: Implements cryptographic mechanisms to prevent unauthorized disclosure
+  and modification of defined information at rest on defined system components.
+elementType: enhancement
+parent: sc-28
+guidance: The selection of cryptographic mechanisms is based on the need to protect
+  the confidentiality and integrity of organizational information. The strength of
+  mechanism is commensurate with the security category or classification of the information.
+  Organizations have the flexibility to encrypt information on system components or
+  media or encrypt data structures, including files, records, or fields.
+aliases:
+- SC-28(1)
+- SC-28 (1)

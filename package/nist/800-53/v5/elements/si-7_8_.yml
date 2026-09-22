@@ -1,0 +1,13 @@
+id: 9b584bdc-a394-4cf1-84e2-0569ab95c5bc
+externalId: SI-7(8)
+name: Software, Firmware, and Information Integrity | Auditing Capability for Significant
+  Events
+description: Provides the capability to audit and respond to a detected integrity
+  violation by generating a record and alerting the user or designated personnel.
+elementType: enhancement
+parent: si-7
+guidance: Organizations select response actions based on types of software, specific
+  software, or information for which there are potential integrity violations.
+aliases:
+- SI-7(8)
+- SI-7 (8)

@@ -1,6 +1,16 @@
 id: 0f4d6620-69db-4500-89bb-2b6e66d01926
 externalId: AT-3(3)
 name: Role-based Training | Practical Exercises
-description: Provide practical exercises in security and privacy training that
-  reinforce training objectives.
-elementType: control
+description: Provide practical exercises in security and privacy training that reinforce
+  training objectives.
+elementType: enhancement
+parent: at-3
+guidance: Practical exercises for security include training for software developers
+  that addresses simulated attacks that exploit common software vulnerabilities or
+  spear or whale phishing attacks targeted at senior leaders or executives. Practical
+  exercises for privacy include modules with quizzes on identifying and processing
+  personally identifiable information in various scenarios or scenarios on conducting
+  privacy impact assessments.
+aliases:
+- AT-3(3)
+- AT-3 (3)

@@ -1,0 +1,13 @@
+id: 944cc6d3-f1cf-44f0-aebf-29fce0875071
+externalId: AC-12(3)
+name: Session Termination | Timeout Warning Message
+description: 'Display an explicit message to users indicating that the session will
+  end in [Assignment: organization-defined time until end of session].'
+elementType: enhancement
+parent: ac-12
+guidance: To increase usability, notify users of pending session termination and prompt
+  users to continue the session. The pending session termination time period is based
+  on the parameters defined in thebase control.
+aliases:
+- AC-12(3)
+- AC-12 (3)

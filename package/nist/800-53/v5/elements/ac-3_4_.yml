@@ -1,0 +1,26 @@
+id: 7e7186ce-6a9a-40b4-8a98-abc4261a5d15
+externalId: AC-3(4)
+name: Access Enforcement | Discretionary Access Control
+description: Enforces a discretionary access control policy governing whether subjects
+  can pass information, grant privileges, or change access rules.
+elementType: enhancement
+parent: ac-3
+guidance: When discretionary access control policies are implemented, subjects are
+  not constrained with regard to what actions they can take with information for which
+  they have already been granted access. Thus, subjects that have been granted access
+  to information are not prevented from passing the information to other subjects
+  or objects (i.e., subjects have the discretion to pass). Discretionary access control
+  can operate in conjunction with mandatory access control as described inand. A subject
+  that is constrained in its operation by mandatory access control policies can still
+  operate under the less rigorous constraints of discretionary access control. Therefore,
+  whileimposes constraints that prevent a subject from passing information to another
+  subject operating at a different impact or classification level,permits the subject
+  to pass the information to any subject at the same impact or classification level.
+  The policy is bounded by the system. Once the information is passed outside of system
+  control, additional means may be required to ensure that the constraints remain
+  in effect. While traditional definitions of discretionary access control require
+  identity-based access control, that limitation is not required for this particular
+  use of discretionary access control.
+aliases:
+- AC-3(4)
+- AC-3 (4)

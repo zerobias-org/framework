@@ -1,0 +1,3 @@
+- (a) Identify [Assignment: organization-defined software programs not authorized to execute on the system];
+- (b) Employ an allow-all, deny-by-exception policy to prohibit the execution of unauthorized software programs on the system; and
+- (c) Review and update the list of unauthorized software programs [Assignment: organization-defined frequency].

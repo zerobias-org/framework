@@ -1,6 +1,12 @@
 id: 45a337c9-f6d4-4ce2-b8f3-d4e59ff0ef1f
 externalId: IR-6(1)
 name: Incident Reporting | Automated Reporting
-description: "Report incidents using [Assignment: organization-defined automated
-  mechanisms]."
-elementType: control
+description: 'Report incidents using [Assignment: organization-defined automated mechanisms].'
+elementType: enhancement
+parent: ir-6
+guidance: The recipients of incident reports are specified in. Automated reporting
+  mechanisms include email, posting on websites (with automatic updates), and automated
+  incident response tools and programs.
+aliases:
+- IR-6(1)
+- IR-6 (1)

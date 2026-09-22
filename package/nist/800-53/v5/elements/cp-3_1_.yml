@@ -1,6 +1,14 @@
 id: f91c986f-5b8f-46d9-aa86-a8d26a7068d1
 externalId: CP-3(1)
 name: Contingency Training | Simulated Events
-description: Incorporate simulated events into contingency training to
-  facilitate effective response by personnel in crisis situations.
-elementType: control
+description: Incorporate simulated events into contingency training to facilitate
+  effective response by personnel in crisis situations.
+elementType: enhancement
+parent: cp-3
+guidance: The use of simulated events creates an environment for personnel to experience
+  actual threat events, including cyber-attacks that disable websites, ransomware
+  attacks that encrypt organizational data on servers, hurricanes that damage or destroy
+  organizational facilities, or hardware or software failures.
+aliases:
+- CP-3(1)
+- CP-3 (1)

@@ -1,7 +1,21 @@
 id: d297f24d-e006-4d3b-afbe-50f4a22b24ec
 externalId: SA-10(7)
 name: Developer Configuration Management | Security and Privacy Representatives
-description: "Require [Assignment: organization-defined security and privacy
-  representatives] to be included in the [Assignment: organization-defined
-  configuration change management and control process]."
-elementType: control
+description: 'Require [Assignment: organization-defined security and privacy representatives]
+  to be included in the [Assignment: organization-defined configuration change management
+  and control process].'
+elementType: enhancement
+parent: sa-10
+guidance: Information security and privacy representatives can include system security
+  officers, senior agency information security officers, senior agency officials for
+  privacy, and system privacy officers. Representation by personnel with information
+  security and privacy expertise is important because changes to system configurations
+  can have unintended side effects, some of which may be security- or privacy-relevant.
+  Detecting such changes early in the process can help avoid unintended, negative
+  consequences that could ultimately affect the security and privacy posture of systems.
+  The configuration change management and control process in this control enhancement
+  refers to the change management and control process defined by organizations in
+  SA-10b.
+aliases:
+- SA-10(7)
+- SA-10 (7)

@@ -1,0 +1,15 @@
+id: 0ba0d886-b8da-4daf-968d-5c25fa95c069
+externalId: AU-10(4)
+name: Non-repudiation | Validate Binding of Information Reviewer Identity
+description: Validates the binding of an information reviewer's identity to the information
+  before it is released or transferred between security domains.
+elementType: enhancement
+parent: au-10
+guidance: Validating the binding of the information reviewer identity to the information
+  at transfer or release points prevents the unauthorized modification of information
+  between review and the transfer or release. The validation of bindings can be achieved
+  by using cryptographic checksums. Organizations determine if validations are in
+  response to user requests or generated automatically.
+aliases:
+- AU-10(4)
+- AU-10 (4)

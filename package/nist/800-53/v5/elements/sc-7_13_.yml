@@ -1,9 +1,13 @@
 id: c9ae3328-01cb-44ea-a5cb-26ebbe45efb6
 externalId: SC-7(13)
-name: Boundary Protection | Isolation of Security Tools, Mechanisms, and Support
-  Components
-description: "Isolate [Assignment: organization-defined information security
-  tools, mechanisms, and support components] from other internal system
-  components by implementing physically separate subnetworks with managed
-  interfaces to other components of the system."
-elementType: control
+name: Boundary Protection | Isolation of Security Tools, Mechanisms, and Support Components
+description: Isolates defined security tools, mechanisms, and support components from
+  other system components using physically separate subnetworks with managed interfaces.
+elementType: enhancement
+parent: sc-7
+guidance: Physically separate subnetworks with managed interfaces are useful in isolating
+  computer network defenses from critical operational processing networks to prevent
+  adversaries from discovering the analysis and forensics techniques employed by organizations.
+aliases:
+- SC-7(13)
+- SC-7 (13)

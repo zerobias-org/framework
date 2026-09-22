@@ -1,7 +1,14 @@
 id: 5f7846aa-84fa-4145-a844-154d7fa2aa55
 externalId: CP-8(2)
 name: Telecommunications Services | Single Points of Failure
-description: Obtain alternate telecommunications services to reduce the
-  likelihood of sharing a single point of failure with primary
-  telecommunications services.
-elementType: control
+description: Obtain alternate telecommunications services to reduce the likelihood
+  of sharing a single point of failure with primary telecommunications services.
+elementType: enhancement
+parent: cp-8
+guidance: In certain circumstances, telecommunications service providers or services
+  may share the same physical lines, which increases the vulnerability of a single
+  failure point. It is important to have provider transparency for the actual physical
+  transmission capability for telecommunication services.
+aliases:
+- CP-8(2)
+- CP-8 (2)

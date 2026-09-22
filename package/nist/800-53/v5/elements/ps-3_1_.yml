@@ -1,8 +1,15 @@
 id: 604a173e-85a3-4a8f-a0bb-a745104b3e8a
 externalId: PS-3(1)
 name: Personnel Screening | Classified Information
-description: Verify that individuals accessing a system processing, storing, or
-  transmitting classified information are cleared and indoctrinated to the
-  highest classification level of the information to which they have access on
-  the system.
-elementType: control
+description: Verifies that individuals accessing classified systems are cleared and
+  indoctrinated to the highest classification level they can access.
+elementType: enhancement
+parent: ps-3
+guidance: Classified information is the most sensitive information that the Federal
+  Government processes, stores, or transmits. It is imperative that individuals have
+  the requisite security clearances and system access authorizations prior to gaining
+  access to such information. Access authorizations are enforced by system access
+  controls (see) and flow controls (see).
+aliases:
+- PS-3(1)
+- PS-3 (1)

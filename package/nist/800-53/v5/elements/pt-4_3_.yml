@@ -1,7 +1,14 @@
 id: 208fd551-e0bb-4e66-ae31-d88b4e74473d
 externalId: PT-4(3)
 name: Consent | Revocation
-description: "Implement [Assignment: organization-defined tools or mechanisms]
-  for individuals to revoke consent to the processing of their personally
-  identifiable information."
-elementType: control
+description: 'Implement [Assignment: organization-defined tools or mechanisms] for
+  individuals to revoke consent to the processing of their personally identifiable
+  information.'
+elementType: enhancement
+parent: pt-4
+guidance: Revocation of consent enables individuals to exercise control over their
+  initial consent decision when circumstances change. Organizations consider usability
+  factors in enabling easy-to-use revocation capabilities.
+aliases:
+- PT-4(3)
+- PT-4 (3)

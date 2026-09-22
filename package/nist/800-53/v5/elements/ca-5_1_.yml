@@ -1,7 +1,17 @@
 id: ba787184-6fcf-4bda-9ebf-dcbefdd144db
 externalId: CA-5(1)
 name: Plan of Action and Milestones | Automation Support for Accuracy and Currency
-description: "Ensure the accuracy, currency, and availability of the plan of
-  action and milestones for the system using [Assignment: organization-defined
-  automated mechanisms]."
-elementType: control
+description: 'Ensure the accuracy, currency, and availability of the plan of action
+  and milestones for the system using [Assignment: organization-defined automated
+  mechanisms].'
+elementType: enhancement
+parent: ca-5
+guidance: Using automated tools helps maintain the accuracy, currency, and availability
+  of the plan of action and milestones and facilitates the coordination and sharing
+  of security and privacy information throughout the organization. Such coordination
+  and information sharing help to identify systemic weaknesses or deficiencies in
+  organizational systems and ensure that appropriate resources are directed at the
+  most critical system vulnerabilities in a timely manner.
+aliases:
+- CA-5(1)
+- CA-5 (1)

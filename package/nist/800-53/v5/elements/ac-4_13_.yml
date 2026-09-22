@@ -1,7 +1,16 @@
 id: 7493a6d2-f050-444c-98d1-3e4b6f00aa72
 externalId: AC-4(13)
 name: Information Flow Enforcement | Decomposition into Policy-relevant Subcomponents
-description: "When transferring information between different security domains,
-  decompose information into [Assignment: organization-defined policy-relevant
-  subcomponents] for submission to policy enforcement mechanisms."
-elementType: control
+description: Decomposes information transferred between security domains into policy-relevant
+  subcomponents for enforcement mechanisms.
+elementType: enhancement
+parent: ac-4
+guidance: Decomposing information into policy-relevant subcomponents prior to information
+  transfer facilitates policy decisions on source, destination, certificates, classification,
+  attachments, and other security- or privacy-related component differentiators. Policy
+  enforcement mechanisms apply filtering, inspection, and/or sanitization rules to
+  the policy-relevant subcomponents of information to facilitate flow enforcement
+  prior to transferring such information to different security domains.
+aliases:
+- AC-4(13)
+- AC-4 (13)

@@ -1,0 +1,16 @@
+id: 71df64db-b2fd-4ae1-9cfe-e450b0fa7312
+externalId: AU-16(3)
+name: Cross-organizational Audit Logging | Disassociability
+description: 'Implement [Assignment: organization-defined measures] to disassociate
+  individuals from audit information transmitted across organizational boundaries.'
+elementType: enhancement
+parent: au-16
+guidance: Preserving identities in audit trails could have privacy ramifications,
+  such as enabling the tracking and profiling of individuals, but may not be operationally
+  necessary. These risks could be further amplified when transmitting information
+  across organizational boundaries. Implementing privacy-enhancing cryptographic techniques
+  can disassociate individuals from audit information and reduce privacy risk while
+  maintaining accountability.
+aliases:
+- AU-16(3)
+- AU-16 (3)

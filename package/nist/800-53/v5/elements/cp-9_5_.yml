@@ -1,7 +1,13 @@
 id: 13959e1b-3014-43bc-9557-942ef2d9e818
 externalId: CP-9(5)
 name: System Backup | Transfer to Alternate Storage Site
-description: "Transfer system backup information to the alternate storage site
-  [Assignment: organization-defined time period and transfer rate consistent
-  with the recovery time and recovery point objectives]."
-elementType: control
+description: 'Transfer system backup information to the alternate storage site [Assignment:
+  organization-defined time period and transfer rate consistent with the recovery
+  time and recovery point objectives].'
+elementType: enhancement
+parent: cp-9
+guidance: System backup information can be transferred to alternate storage sites
+  either electronically or by the physical shipment of storage media.
+aliases:
+- CP-9(5)
+- CP-9 (5)

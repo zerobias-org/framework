@@ -1,7 +1,20 @@
 id: 76ff98ca-eb5a-4ca6-9c5f-788f3bc311a5
 externalId: CP-2(2)
 name: Contingency Plan | Capacity Planning
-description: Conduct capacity planning so that necessary capacity for
-  information processing, telecommunications, and environmental support exists
-  during contingency operations.
-elementType: control
+description: Conduct capacity planning so that necessary capacity for information
+  processing, telecommunications, and environmental support exists during contingency
+  operations.
+elementType: enhancement
+parent: cp-2
+guidance: Capacity planning is needed because different threats can result in a reduction
+  of the available processing, telecommunications, and support services intended to
+  support essential mission and business functions. Organizations anticipate degraded
+  operations during contingency operations and factor the degradation into capacity
+  planning. For capacity planning, environmental support refers to any environmental
+  factor for which the organization determines that it needs to provide support in
+  a contingency situation, even if in a degraded state. Such determinations are based
+  on an organizational assessment of risk, system categorization (impact level), and
+  organizational risk tolerance.
+aliases:
+- CP-2(2)
+- CP-2 (2)

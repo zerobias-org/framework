@@ -1,8 +1,16 @@
 id: 13f6e17c-bf84-4eea-b2f2-ed2f5651c6b5
 externalId: SA-15(8)
-name: Development Process, Standards, and Tools | Reuse of Threat and
-  Vulnerability Information
-description: Require the developer of the system, system component, or system
-  service to use threat modeling and vulnerability analyses from similar
-  systems, components, or services to inform the current development process.
-elementType: control
+name: Development Process, Standards, and Tools | Reuse of Threat and Vulnerability
+  Information
+description: Requires the developer to use threat modeling and vulnerability analyses
+  from similar systems or services to inform current development.
+elementType: enhancement
+parent: sa-15
+guidance: Analysis of vulnerabilities found in similar software applications can inform
+  potential design and implementation issues for systems under development. Similar
+  systems or system components may exist within developer organizations. Vulnerability
+  information is available from a variety of public and private sector sources, including
+  the NIST National Vulnerability Database.
+aliases:
+- SA-15(8)
+- SA-15 (8)

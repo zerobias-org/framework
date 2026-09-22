@@ -1,8 +1,18 @@
 id: b5574fa5-277c-473c-900d-27dc84705848
 externalId: PS-4(2)
 name: Personnel Termination | Automated Actions
-description: "Use [Assignment: organization-defined automated mechanisms] to
-  [Selection (one or more): notify [Assignment: organization-defined personnel
-  or roles] of individual termination actions; disable access to system
-  resources]."
-elementType: control
+description: Uses automated mechanisms to notify designated personnel of termination
+  actions or disable access to system resources.
+elementType: enhancement
+parent: ps-4
+guidance: In organizations with many employees, not all personnel who need to know
+  about termination actions receive the appropriate notifications, or if such notifications
+  are received, they may not occur in a timely manner. Automated mechanisms can be
+  used to send automatic alerts or notifications to organizational personnel or roles
+  when individuals are terminated. Such automatic alerts or notifications can be conveyed
+  in a variety of ways, including via telephone, electronic mail, text message, or
+  websites. Automated mechanisms can also be employed to quickly and thoroughly disable
+  access to system resources after an employee is terminated.
+aliases:
+- PS-4(2)
+- PS-4 (2)

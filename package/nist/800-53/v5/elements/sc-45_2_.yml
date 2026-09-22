@@ -1,0 +1,12 @@
+id: 0bca2025-30b6-4685-b363-793304310224
+externalId: SC-45(2)
+name: System Time Synchronization | Secondary Authoritative Time Source
+description: Identifies a secondary authoritative time source in a different geographic
+  region and synchronizes to it if the primary source is unavailable.
+elementType: enhancement
+parent: sc-45
+guidance: It may be necessary to employ geolocation information to determine that
+  the secondary authoritative time source is in a different geographic region.
+aliases:
+- SC-45(2)
+- SC-45 (2)

@@ -1,9 +1,23 @@
 id: 93929ad6-6617-4fa2-82c8-942a57c0a450
 externalId: PL-8(1)
 name: Security and Privacy Architectures | Defense in Depth
-description: "Design the security and privacy architectures for the system using
-  a defense-in-depth approach that:a. Allocates [Assignment:
-  organization-defined controls] to [Assignment: organization-defined locations
-  and architectural layers]; andb. Ensures that the allocated controls operate
-  in a coordinated and mutually reinforcing manner."
-elementType: control
+description: Designs the security and privacy architectures using a defense-in-depth
+  approach that allocates controls across locations and layers to reinforce each other.
+elementType: enhancement
+parent: pl-8
+guidance: Organizations strategically allocate security and privacy controls in the
+  security and privacy architectures so that adversaries must overcome multiple controls
+  to achieve their objective. Requiring adversaries to defeat multiple controls makes
+  it more difficult to attack information resources by increasing the work factor
+  of the adversary; it also increases the likelihood of detection. The coordination
+  of allocated controls is essential to ensure that an attack that involves one control
+  does not create adverse, unintended consequences by interfering with other controls.
+  Unintended consequences can include system lockout and cascading alarms. The placement
+  of controls in systems and organizations is an important activity that requires
+  thoughtful analysis. The value of organizational assets is an important consideration
+  in providing additional layering. Defense-in-depth architectural approaches include
+  modularity and layering (see), separation of system and user functionality (see),
+  and security function isolation (see).
+aliases:
+- PL-8(1)
+- PL-8 (1)

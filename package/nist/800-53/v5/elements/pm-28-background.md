@@ -1,0 +1,7 @@
+- a. Identify and document:
+    - 1\. Assumptions affecting risk assessments, risk responses, and risk monitoring;
+    - 2\. Constraints affecting risk assessments, risk responses, and risk monitoring;
+    - 3\. Priorities and trade-offs considered by the organization for managing risk; and
+    - 4\. Organizational risk tolerance;
+- b. Distribute the results of risk framing activities to [Assignment: organization-defined personnel]; and
+- c. Review and update risk framing considerations [Assignment: organization-defined frequency].

@@ -1,6 +1,14 @@
 id: 4a4c35d6-fe8c-4028-8d7c-847200d36e8a
 externalId: CP-7(6)
 name: Alternate Processing Site | Inability to Return to Primary Site
-description: Plan and prepare for circumstances that preclude returning to the
-  primary processing site.
-elementType: control
+description: Plan and prepare for circumstances that preclude returning to the primary
+  processing site.
+elementType: enhancement
+parent: cp-7
+guidance: There may be situations that preclude an organization from returning to
+  the primary processing site such as if a natural disaster (e.g., flood or a hurricane)
+  damaged or destroyed a facility and it was determined that rebuilding in the same
+  location was not prudent.
+aliases:
+- CP-7(6)
+- CP-7 (6)

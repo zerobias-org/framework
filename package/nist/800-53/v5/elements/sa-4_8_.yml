@@ -1,7 +1,18 @@
 id: 5a822318-e4dc-4a9f-8201-5ccbf963304d
 externalId: SA-4(8)
 name: Acquisition Process | Continuous Monitoring Plan for Controls
-description: Require the developer of the system, system component, or system
-  service to produce a plan for continuous monitoring of control effectiveness
-  that is consistent with the continuous monitoring program of the organization.
-elementType: control
+description: Requires the developer to produce a continuous monitoring plan for control
+  effectiveness consistent with the organization's monitoring program.
+elementType: enhancement
+parent: sa-4
+guidance: The objective of continuous monitoring plans is to determine if the planned,
+  required, and deployed controls within the system, system component, or system service
+  continue to be effective over time based on the inevitable changes that occur. Developer
+  continuous monitoring plans include a sufficient level of detail such that the information
+  can be incorporated into continuous monitoring programs implemented by organizations.
+  Continuous monitoring plans can include the types of control assessment and monitoring
+  activities planned, frequency of control monitoring, and actions to be taken when
+  controls fail or become ineffective.
+aliases:
+- SA-4(8)
+- SA-4 (8)

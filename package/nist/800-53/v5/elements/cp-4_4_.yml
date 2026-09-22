@@ -1,0 +1,17 @@
+id: 35b7b06c-4bc1-42e8-b346-5b1832b3e3da
+externalId: CP-4(4)
+name: Contingency Plan Testing | Full Recovery and Reconstitution
+description: Include a full recovery and reconstitution of the system to a known state
+  as part of contingency plan testing.
+elementType: enhancement
+parent: cp-4
+guidance: Recovery is executing contingency plan activities to restore organizational
+  mission and business functions. Reconstitution takes place following recovery and
+  includes activities for returning systems to fully operational states. Organizations
+  establish a known state for systems that includes system state information for hardware,
+  software programs, and data. Preserving system state information facilitates system
+  restart and return to the operational mode of organizations with less disruption
+  of mission and business processes.
+aliases:
+- CP-4(4)
+- CP-4 (4)

@@ -1,7 +1,13 @@
 id: 92c613d4-f6d2-4c50-9dca-4416126eb1a4
 externalId: SC-25
 name: Thin Nodes
-description: "Employ minimal functionality and information storage on the
-  following system components: [Assignment: organization-defined system
-  components]."
+description: 'Employ minimal functionality and information storage on the following
+  system components: [Assignment: organization-defined system components].'
 elementType: control
+parent: sc
+guidance: The deployment of system components with minimal functionality reduces the
+  need to secure every endpoint and may reduce the exposure of information, systems,
+  and services to attacks. Reduced or minimal functionality includes diskless nodes
+  and thin client technologies.
+aliases:
+- SC-25

@@ -1,6 +1,14 @@
 id: 5ca73824-786f-44c5-b686-45a66dc257b0
 externalId: CP-7(4)
 name: Alternate Processing Site | Preparation for Use
-description: Prepare the alternate processing site so that the site can serve as
-  the operational site supporting essential mission and business functions.
-elementType: control
+description: Prepare the alternate processing site so that the site can serve as the
+  operational site supporting essential mission and business functions.
+elementType: enhancement
+parent: cp-7
+guidance: Site preparation includes establishing configuration settings for systems
+  at the alternate processing site consistent with the requirements for such settings
+  at the primary site and ensuring that essential supplies and logistical considerations
+  are in place.
+aliases:
+- CP-7(4)
+- CP-7 (4)

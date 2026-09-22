@@ -1,8 +1,11 @@
 id: ab12b5ac-8ff2-49dd-9e00-656bbcdd9655
 externalId: PE-23
 name: Facility Location
-description: a. Plan the location or site of the facility where the system
-  resides considering physical and environmental hazards; andb. For existing
-  facilities, consider the physical and environmental hazards in the
-  organizational risk management strategy.
+description: Considers physical and environmental hazards when planning facility location,
+  and factors existing facility hazards into the risk management strategy.
 elementType: control
+parent: pe
+guidance: Physical and environmental hazards include floods, fires, tornadoes, earthquakes,
+  hurricanes, terrorism, vandalism, an electromagnetic pulse, electrical interference,
+  and other forms of incoming electromagnetic radiation. The location of system components
+  within the facility is addressed in.

@@ -1,7 +1,14 @@
 id: f3ca5124-6bed-4f83-a296-404f62ac5915
 externalId: AT-6
 name: Training Feedback
-description: "Provide feedback on organizational training results to the
-  following personnel [Assignment: organization-defined frequency]: [Assignment:
-  organization-defined personnel]."
+description: 'Provide feedback on organizational training results to the following
+  personnel [Assignment: organization-defined frequency]: [Assignment: organization-defined
+  personnel].'
 elementType: control
+parent: at
+guidance: Training feedback includes awareness training results and role-based training
+  results. Training results, especially failures of personnel in critical roles, can
+  be indicative of a potentially serious problem. Therefore, it is important that
+  senior managers are made aware of such situations so that they can take appropriate
+  response actions. Training feedback supports the evaluation and update of organizational
+  training described inand.

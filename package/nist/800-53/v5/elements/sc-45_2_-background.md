@@ -1,0 +1,2 @@
+- (a) Identify a secondary authoritative time source that is in a different geographic region than the primary authoritative time source; and
+- (b) Synchronize the internal system clocks to the secondary authoritative time source if the primary authoritative time source is unavailable.

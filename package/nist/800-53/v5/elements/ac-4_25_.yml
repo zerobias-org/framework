@@ -1,9 +1,13 @@
 id: dda8d032-80c9-4475-8da3-3b680de1999b
 externalId: AC-4(25)
 name: Information Flow Enforcement | Data Sanitization
-description: "When transferring information between different security domains,
-  sanitize data to minimize [Selection (one or more): delivery of malicious
-  content, command and control of malicious code, malicious code augmentation,
-  and steganography encoded data; spillage of sensitive information] in
-  accordance with [Assignment: organization-defined policy]."
-elementType: control
+description: Sanitizes data transferred between security domains to minimize malicious
+  content or sensitive information spillage.
+elementType: enhancement
+parent: ac-4
+guidance: Data sanitization is the process of irreversibly removing or destroying
+  data stored on a memory device (e.g., hard drives, flash memory/solid state drives,
+  mobile devices, CDs, and DVDs) or in hard copy form.
+aliases:
+- AC-4(25)
+- AC-4 (25)

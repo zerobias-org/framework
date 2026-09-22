@@ -1,6 +1,13 @@
 id: cbb0bd35-65d1-45cd-b0c1-1a5a7db2c467
 externalId: MA-3(2)
 name: Maintenance Tools | Inspect Media
-description: Check media containing diagnostic and test programs for malicious
-  code before the media are used in the system.
-elementType: control
+description: Check media containing diagnostic and test programs for malicious code
+  before the media are used in the system.
+elementType: enhancement
+parent: ma-3
+guidance: If, upon inspection of media containing maintenance, diagnostic, and test
+  programs, organizations determine that the media contains malicious code, the incident
+  is handled consistent with organizational incident handling policies and procedures.
+aliases:
+- MA-3(2)
+- MA-3 (2)

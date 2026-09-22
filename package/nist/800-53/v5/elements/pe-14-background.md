@@ -1,0 +1,2 @@
+- a. Maintain [Selection (one or more): temperature; humidity; pressure; radiation; [Assignment: organization-defined environmental control]] levels within the facility where the system resides at [Assignment: organization-defined acceptable levels]; and
+- b. Monitor environmental control levels [Assignment: organization-defined frequency].

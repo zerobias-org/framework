@@ -1,0 +1,2 @@
+- a. Configure the system to provide only [Assignment: organization-defined mission essential capabilities]; and
+- b. Prohibit or restrict the use of the following functions, ports, protocols, software, and/or services: [Assignment: organization-defined prohibited or restricted functions, system ports, protocols, software, and/or services].

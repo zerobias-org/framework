@@ -1,10 +1,13 @@
 id: c54ce4d6-cc9d-40e2-80eb-df8b785cf99f
 externalId: PM-17
 name: Protecting Controlled Unclassified Information on External Systems
-description: "a. Establish policy and procedures to ensure that requirements for
-  the protection of controlled unclassified information that is processed,
-  stored or transmitted on external systems, are implemented in accordance with
-  applicable laws, executive orders, directives, policies, regulations, and
-  standards; andb. Review and update the policy and procedures [Assignment:
-  organization-defined frequency]."
+description: Establishes and reviews policy and procedures to protect controlled unclassified
+  information processed, stored, or transmitted on external systems.
 elementType: control
+parent: pm
+guidance: Controlled unclassified information is defined by the National Archives
+  and Records Administration along with the safeguarding and dissemination requirements
+  for such information and is codified inand, specifically for systems external to
+  the federal organization,. The policy prescribes the specific use and conditions
+  to be implemented in accordance with organizational procedures, including via its
+  contracting processes.

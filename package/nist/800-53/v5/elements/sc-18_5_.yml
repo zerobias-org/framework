@@ -1,0 +1,13 @@
+id: f23932de-3e98-44cd-baea-4fdb908a3561
+externalId: SC-18(5)
+name: Mobile Code | Allow Execution Only in Confined Environments
+description: Allow execution of permitted mobile code only in confined virtual machine
+  environments.
+elementType: enhancement
+parent: sc-18
+guidance: Permitting the execution of mobile code only in confined virtual machine
+  environments helps prevent the introduction of malicious code into other systems
+  and system components.
+aliases:
+- SC-18(5)
+- SC-18 (5)

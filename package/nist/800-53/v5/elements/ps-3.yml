@@ -1,8 +1,13 @@
 id: 067e89b7-de63-4c09-84f1-0409f8b266de
 externalId: PS-3
 name: Personnel Screening
-description: "a. Screen individuals prior to authorizing access to the system;
-  andb. Rescreen individuals in accordance with [Assignment:
-  organization-defined conditions requiring rescreening and, where rescreening
-  is so indicated, the frequency of rescreening]."
+description: Screens individuals before authorizing system access and rescreens them
+  based on defined conditions and frequency.
 elementType: control
+parent: ps
+guidance: Personnel screening and rescreening activities reflect applicable laws,
+  executive orders, directives, regulations, policies, standards, guidelines, and
+  specific criteria established for the risk designations of assigned positions. Examples
+  of personnel screening include background investigations and agency checks. Organizations
+  may define different rescreening conditions and frequencies for personnel accessing
+  systems based on types of information processed, stored, or transmitted by the systems.

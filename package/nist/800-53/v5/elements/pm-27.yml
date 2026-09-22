@@ -1,11 +1,18 @@
 id: 19bd57b8-edfa-4b85-b4dc-1748d3876d87
 externalId: PM-27
 name: Privacy Reporting
-description: "a. Develop [Assignment: organization-defined privacy reports] and
-  disseminate to:1. [Assignment: organization-defined oversight bodies] to
-  demonstrate accountability with statutory, regulatory, and policy privacy
-  mandates; and2. [Assignment: organization-defined officials] and other
-  personnel with responsibility for monitoring privacy program compliance; andb.
-  Review and update privacy reports [Assignment: organization-defined
-  frequency]."
+description: Develops and disseminates privacy reports to oversight bodies and responsible
+  officials, reviewed and updated periodically.
 elementType: control
+parent: pm
+guidance: Through internal and external reporting, organizations promote accountability
+  and transparency in organizational privacy operations. Reporting can also help organizations
+  to determine progress in meeting privacy compliance requirements and privacy controls,
+  compare performance across the federal government, discover vulnerabilities, identify
+  gaps in policy and implementation, and identify models for success. For federal
+  agencies, privacy reports include annual senior agency official for privacy reports
+  to OMB, reports to Congress required by Implementing Regulations of the 9/11 Commission
+  Act, and other public reports required by law, regulation, or policy, including
+  internal policies of organizations. The senior agency official for privacy consults
+  with legal counsel, where appropriate, to ensure that organizations meet all applicable
+  privacy reporting requirements.

@@ -1,7 +1,15 @@
 id: aa64ecef-f20f-4e3c-81c6-b69de8d50904
 externalId: SI-4(23)
 name: System Monitoring | Host-based Devices
-description: "Implement the following host-based monitoring mechanisms at
-  [Assignment: organization-defined system components]: [Assignment:
-  organization-defined host-based monitoring mechanisms]."
-elementType: control
+description: 'Implement the following host-based monitoring mechanisms at [Assignment:
+  organization-defined system components]: [Assignment: organization-defined host-based
+  monitoring mechanisms].'
+elementType: enhancement
+parent: si-4
+guidance: Host-based monitoring collects information about the host (or system in
+  which it resides). System components in which host-based monitoring can be implemented
+  include servers, notebook computers, and mobile devices. Organizations may consider
+  employing host-based monitoring mechanisms from multiple product developers or vendors.
+aliases:
+- SI-4(23)
+- SI-4 (23)

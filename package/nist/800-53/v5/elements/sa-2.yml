@@ -1,11 +1,10 @@
 id: 45459907-3f12-4343-a0d3-a58ea42fcd92
 externalId: SA-2
 name: Allocation of Resources
-description: a. Determine the high-level information security and privacy
-  requirements for the system or system service in mission and business process
-  planning;b. Determine, document, and allocate the resources required to
-  protect the system or system service as part of the organizational capital
-  planning and investment control process; andc. Establish a discrete line item
-  for information security and privacy in organizational programming and
-  budgeting documentation.
+description: Determines and documents information security and privacy resource requirements
+  in mission planning, and establishes a discrete budget line item for them.
 elementType: control
+parent: sa
+guidance: Resource allocation for information security and privacy includes funding
+  for system and services acquisition, sustainment, and supply chain-related risks
+  throughout the system development life cycle.
