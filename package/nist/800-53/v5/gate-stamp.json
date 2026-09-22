@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0-uat.0",
-  "branch": "feat/nist-add-missing-elements",
-  "sourceHash": "66985e7d43130e1356ba18a1e85e9c55997b1d2fefcf838a9c7c322df19b6fac",
+  "version": "3.0.0-uat.0",
+  "branch": "feat/nist-800-53-v5-consolidate-rev5",
+  "sourceHash": "cb101410f35914746034abe808276cc7e90859ed881f02019a1095e54bfaa545",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
