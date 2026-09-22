@@ -1,0 +1,2 @@
+- (a) Detect the following unauthorized operating system commands through the kernel application programming interface on [Assignment: organization-defined system hardware components]: [Assignment: organization-defined unauthorized operating system commands]; and
+- (b) [Selection (one or more): issue a warning; audit the command execution; prevent the execution of the command].

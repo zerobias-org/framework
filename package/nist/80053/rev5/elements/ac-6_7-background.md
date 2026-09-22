@@ -1,0 +1,2 @@
+- (a) Review [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and
+- (b) Reassign or remove privileges, if necessary, to correctly reflect organizational mission and business needs.

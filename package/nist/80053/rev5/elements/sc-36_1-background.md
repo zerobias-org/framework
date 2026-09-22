@@ -1,0 +1,2 @@
+- (a) Employ polling techniques to identify potential faults, errors, or compromises to the following processing and storage components: [Assignment: organization-defined distributed processing and storage components]; and
+- (b) Take the following actions in response to identified faults, errors, or compromises: [Assignment: organization-defined actions].

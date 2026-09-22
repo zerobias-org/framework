@@ -1,0 +1,1 @@
+Code execution in protected environments applies to all sources of binary or machine-executable code, including commercial software and firmware and open-source software.

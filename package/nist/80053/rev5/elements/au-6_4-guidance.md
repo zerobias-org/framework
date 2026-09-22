@@ -1,0 +1,1 @@
+Automated mechanisms for centralized reviews and analyses include Security Information and Event Management products.

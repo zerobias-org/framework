@@ -1,0 +1,10 @@
+id: f6ad2a37-c46a-5398-9851-4be07b2cc8da
+externalId: SI-6
+name: Security and Privacy Function Verification
+description: Verifies the correct operation of defined security and privacy functions,
+  alerts personnel on failure, and shuts down, restarts, or takes alternative action
+  on anomalies.
+elementType: control
+parent: si
+aliases:
+- SI-6

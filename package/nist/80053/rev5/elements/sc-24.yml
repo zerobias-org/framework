@@ -1,0 +1,9 @@
+id: b65d27db-06d1-5708-a2a4-0aa16e1d1cbb
+externalId: SC-24
+name: Fail in Known State
+description: Fails to a defined known system state for defined failure types on defined
+  components, while preserving defined system state information.
+elementType: control
+parent: sc
+aliases:
+- SC-24

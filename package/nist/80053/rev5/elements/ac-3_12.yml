@@ -1,0 +1,10 @@
+id: bc7db8fb-ee2d-5800-b6e0-70943db1f745
+externalId: AC-3(12)
+name: Access Enforcement | Assert and Enforce Application Access
+description: Requires applications to assert the system access they need at install
+  time, enforces that access, and approves any later changes.
+elementType: enhancement
+parent: ac-3
+aliases:
+- AC-3(12)
+- AC-3 (12)

@@ -1,0 +1,10 @@
+id: 05c36fbb-5d10-541c-9688-015f02066178
+externalId: SI-2
+name: Flaw Remediation
+description: Identifies, reports, and corrects system flaws, tests related updates
+  before installation, installs them within a defined time period, and folds this
+  into configuration management.
+elementType: control
+parent: si
+aliases:
+- SI-2

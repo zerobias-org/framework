@@ -1,0 +1,9 @@
+id: 12828d89-6ec8-528d-9fcf-c9fe6976f221
+externalId: SC-2
+name: Separation of System and User Functionality
+description: Separate user functionality, including user interface services, from
+  system management functionality.
+elementType: control
+parent: sc
+aliases:
+- SC-2

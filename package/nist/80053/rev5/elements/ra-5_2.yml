@@ -1,0 +1,11 @@
+id: f1708211-0774-536d-93ff-d93e9a1cb8e0
+externalId: RA-5(2)
+name: Vulnerability Monitoring and Scanning | Update Vulnerabilities to Be Scanned
+description: 'Update the system vulnerabilities to be scanned [Selection (one or more):
+  [Assignment: organization-defined frequency]; prior to a new scan; when new vulnerabilities
+  are identified and reported].'
+elementType: enhancement
+parent: ra-5
+aliases:
+- RA-5(2)
+- RA-5 (2)

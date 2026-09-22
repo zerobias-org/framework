@@ -1,0 +1,4 @@
+- a. Identify, report, and correct system flaws;
+- b. Test software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
+- c. Install security-relevant software and firmware updates within [Assignment: organization-defined time period] of the release of the updates; and
+- d. Incorporate flaw remediation into the organizational configuration management process.

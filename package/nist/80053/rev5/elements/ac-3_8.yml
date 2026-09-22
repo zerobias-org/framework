@@ -1,0 +1,10 @@
+id: 03cb1fc3-1cbf-5720-beda-abfdacfc76fd
+externalId: AC-3(8)
+name: Access Enforcement | Revocation of Access Authorizations
+description: Revokes access authorizations when the security attributes of subjects
+  or objects change, per defined timing rules.
+elementType: enhancement
+parent: ac-3
+aliases:
+- AC-3(8)
+- AC-3 (8)

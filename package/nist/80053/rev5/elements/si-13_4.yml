@@ -1,0 +1,10 @@
+id: 9424abb9-6944-5615-a0c1-dad90f85a625
+externalId: SI-13(4)
+name: Predictable Failure Prevention | Standby Component Installation and Notification
+description: Ensures standby components install successfully within a defined time
+  period after a failure is detected, triggering a defined alarm or action.
+elementType: enhancement
+parent: si-13
+aliases:
+- SI-13(4)
+- SI-13 (4)

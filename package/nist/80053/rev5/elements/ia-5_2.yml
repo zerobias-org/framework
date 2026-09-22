@@ -1,0 +1,10 @@
+id: 8e504827-ac40-5767-a829-198dbe7c3be9
+externalId: IA-5(2)
+name: Authenticator Management | Public Key-based Authentication
+description: Enforces public key-based authentication, including access to private
+  keys, identity mapping, and certificate path validation with revocation checking.
+elementType: enhancement
+parent: ia-5
+aliases:
+- IA-5(2)
+- IA-5 (2)

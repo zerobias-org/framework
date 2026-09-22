@@ -1,0 +1,4 @@
+- a. Develop [Assignment: organization-defined privacy reports] and disseminate to:
+    - 1\. [Assignment: organization-defined oversight bodies] to demonstrate accountability with statutory, regulatory, and policy privacy mandates; and
+    - 2\. [Assignment: organization-defined officials] and other personnel with responsibility for monitoring privacy program compliance; and
+- b. Review and update privacy reports [Assignment: organization-defined frequency].

@@ -1,0 +1,9 @@
+id: 63a5cf92-4dd8-5265-b46c-86c62f05b6b5
+externalId: SC-34
+name: Non-modifiable Executable Programs
+description: Loads and executes the operating environment and defined applications
+  from hardware-enforced, read-only media on defined system components.
+elementType: control
+parent: sc
+aliases:
+- SC-34

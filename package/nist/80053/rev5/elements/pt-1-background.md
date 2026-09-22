@@ -1,0 +1,9 @@
+- a. Develop, document, and disseminate to [Assignment: organization-defined personnel or roles]:
+    - 1\. [Selection (one or more): Organization-level; Mission/business process-level; System-level] personally identifiable information processing and transparency policy that:
+        - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+        - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+    - 2\. Procedures to facilitate the implementation of the personally identifiable information processing and transparency policy and the associated personally identifiable information processing and transparency controls;
+- b. Designate an [Assignment: organization-defined official] to manage the development, documentation, and dissemination of the personally identifiable information processing and transparency policy and procedures; and
+- c. Review and update the current personally identifiable information processing and transparency:
+    - 1\. Policy [Assignment: organization-defined frequency] and following [Assignment: organization-defined events]; and
+    - 2\. Procedures [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].

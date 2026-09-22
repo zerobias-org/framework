@@ -1,0 +1,1 @@
+Automated mechanisms include keypads, biometric readers, or card readers on the external entries to media storage areas.

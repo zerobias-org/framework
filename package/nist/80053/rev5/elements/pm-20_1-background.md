@@ -1,0 +1,5 @@
+Develop and post privacy policies on all external-facing websites, mobile applications, and other digital services, that:
+
+- (a) Are written in plain language and organized in a way that is easy to understand and navigate;
+- (b) Provide information needed by the public to make an informed decision about whether and how to interact with the organization; and
+- (c) Are updated whenever the organization makes a substantive change to the practices it describes and includes a time/date stamp to inform the public of the date of the most recent changes.

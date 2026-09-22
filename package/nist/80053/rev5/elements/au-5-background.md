@@ -1,0 +1,2 @@
+- a. Alert [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period] in the event of an audit logging process failure; and
+- b. Take the following additional actions: [Assignment: organization-defined additional actions].

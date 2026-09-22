@@ -1,0 +1,1 @@
+Information resources to which users gain access via authentication include local workstations, databases, and password-protected websites or web-based services.

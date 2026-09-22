@@ -1,0 +1,10 @@
+id: 6257dd5d-befa-5de2-8817-8b0c54bdcba0
+externalId: SC-6
+name: Resource Availability
+description: 'Protect the availability of resources by allocating [Assignment: organization-defined
+  resources] by [Selection (one or more): priority; quota; [Assignment: organization-defined
+  controls]].'
+elementType: control
+parent: sc
+aliases:
+- SC-6

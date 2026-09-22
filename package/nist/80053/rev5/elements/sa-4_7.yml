@@ -1,0 +1,11 @@
+id: d65b7a7e-1960-5685-a9c5-ed43ecef8f79
+externalId: SA-4(7)
+name: 'Acquisition Process | NIAP-approved Protection Profiles '
+description: Limits use of information assurance products to those evaluated against
+  an approved Protection Profile, or requires FIPS-validated cryptography if none
+  exists.
+elementType: enhancement
+parent: sa-4
+aliases:
+- SA-4(7)
+- SA-4 (7)

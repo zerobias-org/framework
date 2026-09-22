@@ -1,0 +1,7 @@
+id: 2eff3ecf-d4a7-500f-aa97-e90cf148ddb9
+externalId: PE-10
+name: Emergency Shutoff
+description: Provides an emergency power shutoff capability for the system, places
+  switches for authorized access, and protects them from unauthorized activation.
+elementType: control
+parent: pe

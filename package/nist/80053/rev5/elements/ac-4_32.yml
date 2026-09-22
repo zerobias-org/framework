@@ -1,0 +1,10 @@
+id: 05cb53b6-69ae-5d48-9197-50db9da80d2b
+externalId: AC-4(32)
+name: Information Flow Enforcement | Process Requirements for Information Transfer
+description: Requires the information transfer process between security domains to
+  validate filtering metadata without filtering message content itself.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(32)
+- AC-4 (32)

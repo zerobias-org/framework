@@ -1,0 +1,7 @@
+id: 7eade869-b66a-5a41-be52-69a35873d251
+externalId: AC-7
+name: Unsuccessful Logon Attempts
+description: Enforces a limit on consecutive invalid logon attempts and automatically
+  locks, delays, or otherwise responds when the limit is exceeded.
+elementType: control
+parent: ac

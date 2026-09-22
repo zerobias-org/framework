@@ -1,0 +1,2 @@
+- (a) Bind the identity of the information producer with the information to [Assignment: organization-defined strength of binding]; and
+- (b) Provide the means for authorized individuals to determine the identity of the producer of the information.

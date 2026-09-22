@@ -1,0 +1,9 @@
+id: 00fdfd62-58bd-536a-9aa7-0462ed64172c
+externalId: SI-8
+name: Spam Protection
+description: Employs spam protection mechanisms at system entry and exit points, updated
+  as new releases become available.
+elementType: control
+parent: si
+aliases:
+- SI-8

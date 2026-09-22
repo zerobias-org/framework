@@ -1,0 +1,11 @@
+id: 3b26ccb0-907c-50e8-8667-8cd073019325
+externalId: SC-8(4)
+name: Transmission Confidentiality and Integrity | Conceal or Randomize Communications
+description: 'Implement cryptographic mechanisms to conceal or randomize communication
+  patterns unless otherwise protected by [Assignment: organization-defined alternative
+  physical controls].'
+elementType: enhancement
+parent: sc-8
+aliases:
+- SC-8(4)
+- SC-8 (4)

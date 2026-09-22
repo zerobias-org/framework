@@ -1,0 +1,1 @@
+Organization-defined interior points include subnetworks and subsystems. Covert means that can be used to exfiltrate information include steganography.

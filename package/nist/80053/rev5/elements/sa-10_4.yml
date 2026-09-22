@@ -1,0 +1,10 @@
+id: 98f946d1-4d1a-583c-b26e-6332091ae0ea
+externalId: SA-10(4)
+name: Developer Configuration Management | Trusted Generation
+description: Requires the developer to use tools comparing newly generated hardware
+  descriptions, source code, and object code against previous versions.
+elementType: enhancement
+parent: sa-10
+aliases:
+- SA-10(4)
+- SA-10 (4)

@@ -1,0 +1,11 @@
+id: ee86490e-82ce-5cdd-8586-27a2eb19ee43
+externalId: AC-4(28)
+name: Information Flow Enforcement | Linear Filter Pipelines
+description: When transferring information between different security domains, implement
+  a linear content filter pipeline that is enforced with discretionary and mandatory
+  access controls.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(28)
+- AC-4 (28)

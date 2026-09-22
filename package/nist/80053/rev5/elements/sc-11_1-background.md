@@ -1,0 +1,2 @@
+- (a) Provide a trusted communications path that is irrefutably distinguishable from other communications paths; and
+- (b) Initiate the trusted communications path for communications between the [Assignment: organization-defined security functions] of the system and the user.

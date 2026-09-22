@@ -1,0 +1,11 @@
+id: 61c774cf-5aab-5fc1-97de-13b9de1bff0f
+externalId: SC-45(1)
+name: System Time Synchronization | Synchronization with Authoritative Time Source
+description: Compares internal system clocks with a defined authoritative time source
+  on a defined schedule and synchronizes them when the difference exceeds a defined
+  period.
+elementType: enhancement
+parent: sc-45
+aliases:
+- SC-45(1)
+- SC-45 (1)

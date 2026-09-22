@@ -1,0 +1,10 @@
+id: 0934c729-8d72-54eb-8218-2ae9b57f4913
+externalId: AC-4(25)
+name: Information Flow Enforcement | Data Sanitization
+description: Sanitizes data transferred between security domains to minimize malicious
+  content or sensitive information spillage.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(25)
+- AC-4 (25)

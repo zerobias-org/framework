@@ -1,0 +1,4 @@
+- a. Authorize internal connections of [Assignment: organization-defined system components or classes of components] to the system;
+- b. Document, for each internal connection, the interface characteristics, security and privacy requirements, and the nature of the information communicated;
+- c. Terminate internal system connections after [Assignment: organization-defined conditions]; and
+- d. Review [Assignment: organization-defined frequency] the continued need for each internal connection.

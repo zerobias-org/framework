@@ -1,0 +1,9 @@
+id: d187c8b1-59b6-59fa-b7e2-26ab24257f5d
+externalId: SC-42
+name: Sensor Capability and Data
+description: Prohibits environmental sensing devices or remote activation of sensing
+  capabilities, with defined exceptions, and indicates sensor use to defined users.
+elementType: control
+parent: sc
+aliases:
+- SC-42

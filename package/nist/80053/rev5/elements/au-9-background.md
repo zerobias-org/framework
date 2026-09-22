@@ -1,0 +1,2 @@
+- a. Protect audit information and audit logging tools from unauthorized access, modification, and deletion; and
+- b. Alert [Assignment: organization-defined personnel or roles] upon detection of unauthorized access, modification, or deletion of audit information.

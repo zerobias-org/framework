@@ -1,0 +1,11 @@
+id: d6f4bb85-4aed-52b1-9302-309a514c4f72
+externalId: IA-2(8)
+name: Identification and Authentication (Organizational Users) | Access to Accounts
+  — Replay Resistant
+description: 'Implement replay-resistant authentication mechanisms for access to [Selection
+  (one or more): privileged accounts; non-privileged accounts].'
+elementType: enhancement
+parent: ia-2
+aliases:
+- IA-2(8)
+- IA-2 (8)

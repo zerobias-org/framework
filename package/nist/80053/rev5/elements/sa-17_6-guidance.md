@@ -1,0 +1,1 @@
+Applying the security design principles in SP 800-160-1 promotes complete, consistent, and comprehensive testing and evaluation of systems, system components, and services. The thoroughness of such testing contributes to the evidence produced to generate an effective assurance case or argument as to the trustworthiness of the system, system component, or service.

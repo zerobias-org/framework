@@ -1,0 +1,10 @@
+id: 68f84b97-c7e1-5af7-8062-c080366dfb97
+externalId: SI-4
+name: System Monitoring
+description: Monitors the system for attacks and unauthorized connections, analyzes
+  detected events, adjusts monitoring based on risk, and reports monitoring information
+  to designated personnel.
+elementType: control
+parent: si
+aliases:
+- SI-4

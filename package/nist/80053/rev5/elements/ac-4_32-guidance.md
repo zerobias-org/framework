@@ -1,0 +1,1 @@
+The processes transferring information between filter pipelines have minimum complexity and functionality to provide assurance that the processes operate correctly.

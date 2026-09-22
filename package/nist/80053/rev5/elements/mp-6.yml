@@ -1,0 +1,7 @@
+id: 1eeaa850-8bb0-54b7-ae3c-6c2877af383c
+externalId: MP-6
+name: Media Sanitization
+description: Sanitizes system media before disposal, release, or reuse, using sanitization
+  mechanisms appropriate to the information's sensitivity.
+elementType: control
+parent: mp

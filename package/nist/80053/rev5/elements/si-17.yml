@@ -1,0 +1,10 @@
+id: e74dff37-a207-5ab8-92ca-16156421f282
+externalId: SI-17
+name: Fail-safe Procedures
+description: 'Implement the indicated fail-safe procedures when the indicated failures
+  occur: [Assignment: organization-defined list of failure conditions and associated
+  fail-safe procedures].'
+elementType: control
+parent: si
+aliases:
+- SI-17

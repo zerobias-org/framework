@@ -1,0 +1,3 @@
+- a. Establish [Assignment: organization-defined policies] governing the installation of software by users;
+- b. Enforce software installation policies through the following methods: [Assignment: organization-defined methods]; and
+- c. Monitor policy compliance [Assignment: organization-defined frequency].

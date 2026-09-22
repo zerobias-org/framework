@@ -1,0 +1,7 @@
+id: 25b65fdf-5226-5499-a703-34db3f0428a5
+externalId: AC-11
+name: Device Lock
+description: Locks the device after a period of inactivity or on user request, and
+  keeps it locked until the user re-authenticates.
+elementType: control
+parent: ac

@@ -1,0 +1,10 @@
+id: c0ae89c5-ea5c-5f5c-85bd-599c8d5188ee
+externalId: SC-22
+name: Architecture and Provisioning for Name/Address Resolution Service
+description: Ensure the systems that collectively provide name/address resolution
+  service for an organization are fault-tolerant and implement internal and external
+  role separation.
+elementType: control
+parent: sc
+aliases:
+- SC-22

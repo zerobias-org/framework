@@ -1,0 +1,3 @@
+- (a) Employ video surveillance of [Assignment: organization-defined operational areas];
+- (b) Review video recordings [Assignment: organization-defined frequency]; and
+- (c) Retain video recordings for [Assignment: organization-defined time period].

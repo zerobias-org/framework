@@ -1,0 +1,12 @@
+id: 8f0de8aa-6e3c-5f91-9f02-a4f580634b90
+externalId: SI-7(5)
+name: Software, Firmware, and Information Integrity | Automated Response to Integrity
+  Violations
+description: 'Automatically [Selection (one or more): shut the system down; restart
+  the system; implement [Assignment: organization-defined controls]] when integrity
+  violations are discovered.'
+elementType: enhancement
+parent: si-7
+aliases:
+- SI-7(5)
+- SI-7 (5)

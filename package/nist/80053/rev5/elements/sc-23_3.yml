@@ -1,0 +1,11 @@
+id: 89d0127b-849f-5549-afa2-051681f0d949
+externalId: SC-23(3)
+name: Session Authenticity | Unique System-generated Session Identifiers
+description: 'Generate a unique session identifier for each session with [Assignment:
+  organization-defined randomness requirements] and recognize only session identifiers
+  that are system-generated.'
+elementType: enhancement
+parent: sc-23
+aliases:
+- SC-23(3)
+- SC-23 (3)

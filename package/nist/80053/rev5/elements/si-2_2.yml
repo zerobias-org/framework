@@ -1,0 +1,10 @@
+id: 1a152157-7af7-54dc-a5e5-cd2bdb0feb1e
+externalId: SI-2(2)
+name: Flaw Remediation | Automated Flaw Remediation Status
+description: Uses automated mechanisms to determine whether system components have
+  applicable security-relevant updates installed, on a defined schedule.
+elementType: enhancement
+parent: si-2
+aliases:
+- SI-2(2)
+- SI-2 (2)

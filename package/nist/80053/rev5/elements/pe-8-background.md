@@ -1,0 +1,3 @@
+- a. Maintain visitor access records to the facility where the system resides for [Assignment: organization-defined time period];
+- b. Review visitor access records [Assignment: organization-defined frequency]; and
+- c. Report anomalies in visitor access records to [Assignment: organization-defined personnel].

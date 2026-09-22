@@ -1,0 +1,9 @@
+id: b7184882-e351-5026-88ef-85f7603c14f0
+externalId: SI-18
+name: Personally Identifiable Information Quality Operations
+description: Checks the accuracy, relevance, timeliness, and completeness of personally
+  identifiable information on a defined schedule, correcting or deleting it as needed.
+elementType: control
+parent: si
+aliases:
+- SI-18

@@ -1,0 +1,10 @@
+id: e825d85a-0c53-5e08-bbf1-db61893afd92
+externalId: CM-7(1)
+name: Least Functionality | Periodic Review
+description: Periodically reviews the system to identify unnecessary or nonsecure
+  functions, ports, protocols, software, and services, and disables or removes them.
+elementType: enhancement
+parent: cm-7
+aliases:
+- CM-7(1)
+- CM-7 (1)

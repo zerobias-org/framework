@@ -1,0 +1,10 @@
+id: 46712de9-455e-5e21-866b-fde913b6fec8
+externalId: AU-5(4)
+name: Response to Audit Logging Process Failures | Shutdown on Failure
+description: Invokes a full or partial system shutdown, or degraded operation, on
+  defined audit logging failures unless an alternate logging capability exists.
+elementType: enhancement
+parent: au-5
+aliases:
+- AU-5(4)
+- AU-5 (4)

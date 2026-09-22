@@ -1,0 +1,9 @@
+id: 979353d1-4501-554e-a560-1203b0cd93f9
+externalId: SI-22
+name: Information Diversity
+description: Identifies alternative sources of information for essential functions
+  and uses them when the primary source is corrupted or unavailable.
+elementType: control
+parent: si
+aliases:
+- SI-22

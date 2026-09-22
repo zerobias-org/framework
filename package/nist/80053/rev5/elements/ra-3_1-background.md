@@ -1,0 +1,2 @@
+- (a) Assess supply chain risks associated with [Assignment: organization-defined systems, system components, and system services]; and
+- (b) Update the supply chain risk assessment [Assignment: organization-defined frequency], when there are significant changes to the relevant supply chain, or when changes to the system, environments of operation, or other conditions may necessitate a change in the supply chain.

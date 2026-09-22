@@ -1,0 +1,2 @@
+- a. Establish policy and procedures to ensure that requirements for the protection of controlled unclassified information that is processed, stored or transmitted on external systems, are implemented in accordance with applicable laws, executive orders, directives, policies, regulations, and standards; and
+- b. Review and update the policy and procedures [Assignment: organization-defined frequency].

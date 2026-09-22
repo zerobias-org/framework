@@ -1,0 +1,9 @@
+id: 4c53c330-646c-5346-bc36-2c392fe7c612
+externalId: SC-46
+name: Cross Domain Policy Enforcement
+description: 'Implement a policy enforcement mechanism [Selection: physically; logically]
+  between the physical and/or network interfaces for the connecting security domains.'
+elementType: control
+parent: sc
+aliases:
+- SC-46

@@ -1,0 +1,1 @@
+Automatic or manual transfer of components from standby to active mode can occur upon the detection of component failures.

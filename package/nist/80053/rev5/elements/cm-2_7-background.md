@@ -1,0 +1,2 @@
+- (a) Issue [Assignment: organization-defined systems or system components] with [Assignment: organization-defined configurations] to individuals traveling to locations that the organization deems to be of significant risk; and
+- (b) Apply the following controls to the systems or components when the individuals return from travel: [Assignment: organization-defined controls].

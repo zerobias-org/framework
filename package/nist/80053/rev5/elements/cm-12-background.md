@@ -1,0 +1,3 @@
+- a. Identify and document the location of [Assignment: organization-defined information] and the specific system components on which the information is processed and stored;
+- b. Identify and document the users who have access to the system and system components where the information is processed and stored; and
+- c. Document changes to the location (i.e., system or system components) where the information is processed and stored.

@@ -1,0 +1,1 @@
+Organizations consider the Trusted Internet Connections (TIC) initiativerequirements for external network connections since limiting the number of access control points for remote access reduces attack surfaces.

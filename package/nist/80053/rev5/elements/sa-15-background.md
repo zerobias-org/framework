@@ -1,0 +1,6 @@
+- a. Require the developer of the system, system component, or system service to follow a documented development process that:
+- 1\. Explicitly addresses security and privacy requirements;
+- 2\. Identifies the standards and tools used in the development process;
+- 3\. Documents the specific tool options and tool configurations used in the development process; and
+- 4\. Documents, manages, and ensures the integrity of changes to the process and/or tools used in development; and
+- b. Review the development process, standards, tools, tool options, and tool configurations [Assignment: organization-defined frequency] to determine if the process, standards, tools, tool options and tool configurations selected and employed can satisfy the following security and privacy requirements: [Assignment: organization-defined security and privacy requirements].

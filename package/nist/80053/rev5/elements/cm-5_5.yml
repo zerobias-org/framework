@@ -1,0 +1,10 @@
+id: 43885e13-336c-59a0-929f-f24e1823f66c
+externalId: CM-5(5)
+name: Access Restrictions for Change | Privilege Limitation for Production and Operation
+description: Limits privileges to change system components in production environments,
+  and reviews and reevaluates those privileges periodically.
+elementType: enhancement
+parent: cm-5
+aliases:
+- CM-5(5)
+- CM-5 (5)

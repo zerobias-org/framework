@@ -1,0 +1,2 @@
+- a. Establish usage restrictions and implementation guidelines for the following system components: [Assignment: organization-defined system components]; and
+- b. Authorize, monitor, and control the use of such components within the system.

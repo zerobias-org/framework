@@ -1,0 +1,10 @@
+id: 5c0b91d7-7ea4-5689-a734-38c39b6d99cb
+externalId: SI-21
+name: Information Refresh
+description: 'Refresh [Assignment: organization-defined information] at [Assignment:
+  organization-defined frequencies] or generate the information on demand and delete
+  the information when no longer needed.'
+elementType: control
+parent: si
+aliases:
+- SI-21

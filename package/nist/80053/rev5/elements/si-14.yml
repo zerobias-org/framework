@@ -1,0 +1,9 @@
+id: 3dba1d28-9206-59d8-8b16-61ffb0064fd2
+externalId: SI-14
+name: Non-persistence
+description: Implements non-persistent system components and services that start in
+  a known state and terminate at session end or on a defined schedule.
+elementType: control
+parent: si
+aliases:
+- SI-14

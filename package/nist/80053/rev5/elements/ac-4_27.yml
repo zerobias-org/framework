@@ -1,0 +1,11 @@
+id: 9ac5c147-acfd-521e-8162-4eee3eadf725
+externalId: AC-4(27)
+name: Information Flow Enforcement | Redundant/Independent Filtering Mechanisms
+description: When transferring information between different security domains, implement
+  content filtering solutions that provide redundant and independent filtering mechanisms
+  for each data type.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(27)
+- AC-4 (27)

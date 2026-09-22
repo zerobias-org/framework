@@ -1,0 +1,10 @@
+id: 55e99df5-a0b9-5a63-8a4b-49cee1287982
+externalId: SI-3(8)
+name: Malicious Code Protection | Detect Unauthorized Commands
+description: Detects unauthorized operating system commands through the kernel API
+  on defined hardware, and warns, audits, or prevents their execution.
+elementType: enhancement
+parent: si-3
+aliases:
+- SI-3(8)
+- SI-3 (8)
