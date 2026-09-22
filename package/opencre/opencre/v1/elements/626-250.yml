@@ -8,6 +8,6 @@ links:
     - owasp.samm.v1_0.framework/v-aa-a
     - owasp.samm.v1_0.framework/v-aa-b
     - nist.800_218.v1_1.framework/pw_2_1
-    - nist.80053.rev5.framework/si-6
-    - nist.80053.rev5.framework/si-7
+    - nist.800-53.v5.framework/si-6
+    - nist.800-53.v5.framework/si-7
 parent: 433-442

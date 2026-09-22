@@ -6,13 +6,13 @@ elementType: cre
 links:
   demonstrates:
     - OWASP Top 10 2021/A01
-    - nist.80053.rev5.framework/ac-14
-    - nist.80053.rev5.framework/ac-16
-    - nist.80053.rev5.framework/ac-2
-    - nist.80053.rev5.framework/ac-24
-    - nist.80053.rev5.framework/ac-5
-    - nist.80053.rev5.framework/sc-2
-    - nist.80053.rev5.framework/ac-19
-    - nist.80053.rev5.framework/ac-25
+    - nist.800-53.v5.framework/ac-14
+    - nist.800-53.v5.framework/ac-16
+    - nist.800-53.v5.framework/ac-2
+    - nist.800-53.v5.framework/ac-24
+    - nist.800-53.v5.framework/ac-5
+    - nist.800-53.v5.framework/sc-2
+    - nist.800-53.v5.framework/ac-19
+    - nist.800-53.v5.framework/ac-25
     - PCI DSS/A3.4
 parent: 636-660

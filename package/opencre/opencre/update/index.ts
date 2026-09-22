@@ -40,7 +40,7 @@ const CONFIG: UpdateConfig = {
 };
 
 const standardFunctionMappings: Record<string, (x: string) => string> = {
-  "NIST 800-53 v5": (x) => `nist.80053.rev5.framework/${x.split(' ')[0].toLowerCase().replace(' ', '').replace('(', '_').replace(')', '')}`,
+  "NIST 800-53 v5": (x) => `nist.800-53.v5.framework/${x.split(' ')[0].toLowerCase().replace(' ', '').replace('(', '_').replace(')', '')}`,
   "Cloud Controls Matrix": (x) => `csa.ccm.v4_0_12.framework/${x.toLowerCase().replace(/\&/g, '_')}`,
   "ASVS": (x) => `owasp.asvs.v4_0_3.framework/${x.toLowerCase().slice(1)}`,
   "SAMM": (x) => `owasp.samm.v1_0.framework/${x.toLowerCase()}`,

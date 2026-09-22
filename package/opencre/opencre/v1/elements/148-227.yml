@@ -10,11 +10,11 @@ links:
     - iso.27001.2013.framework/8.1
     - iso.27001.2013.framework/8.19
     - csa.ccm.v4_0_12.framework/uem
-    - nist.80053.rev5.framework/sc-45
-    - nist.80053.rev5.framework/sc-49
-    - nist.80053.rev5.framework/sc-51
-    - nist.80053.rev5.framework/sc-25
-    - nist.80053.rev5.framework/pl-2
-    - nist.80053.rev5.framework/si-8
+    - nist.800-53.v5.framework/sc-45
+    - nist.800-53.v5.framework/sc-49
+    - nist.800-53.v5.framework/sc-51
+    - nist.800-53.v5.framework/sc-25
+    - nist.800-53.v5.framework/pl-2
+    - nist.800-53.v5.framework/si-8
     - DevSecOps Maturity Model (DSOMM)/dccf1949-b9a8-4ce8-b992-6a4a7f3a623a
 parent: 850-376

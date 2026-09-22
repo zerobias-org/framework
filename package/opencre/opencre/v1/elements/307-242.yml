@@ -6,18 +6,18 @@ elementType: cre
 links:
   demonstrates:
     - owasp.samm.v1_0.framework/d-ta-a
-    - nist.80053.rev5.framework/ra-1
-    - nist.80053.rev5.framework/ra-2
-    - nist.80053.rev5.framework/ra-3
-    - nist.80053.rev5.framework/ra-5
-    - nist.80053.rev5.framework/ra-6
-    - nist.80053.rev5.framework/ra-7
-    - nist.80053.rev5.framework/ra-8
-    - nist.80053.rev5.framework/ra-9
-    - nist.80053.rev5.framework/pm-11
-    - nist.80053.rev5.framework/pm-28
-    - nist.80053.rev5.framework/pm-8
-    - nist.80053.rev5.framework/pm-9
+    - nist.800-53.v5.framework/ra-1
+    - nist.800-53.v5.framework/ra-2
+    - nist.800-53.v5.framework/ra-3
+    - nist.800-53.v5.framework/ra-5
+    - nist.800-53.v5.framework/ra-6
+    - nist.800-53.v5.framework/ra-7
+    - nist.800-53.v5.framework/ra-8
+    - nist.800-53.v5.framework/ra-9
+    - nist.800-53.v5.framework/pm-11
+    - nist.800-53.v5.framework/pm-28
+    - nist.800-53.v5.framework/pm-8
+    - nist.800-53.v5.framework/pm-9
     - DevSecOps Maturity Model (DSOMM)/2858ac12-0179-40d9-9acf-1b839c030473
     - DevSecOps Maturity Model (DSOMM)/48f97f31-931c-46eb-9b3e-e2fec0cd0426
     - PCI DSS/10.4.2.1

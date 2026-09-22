@@ -105,7 +105,7 @@ externalId: <CRE-ID>         # Original CRE identifier (e.g., "002-630")
 elementType: cre             # Always "cre" for this framework
 links:                       # Optional cross-references
   demonstrates:              # Links to other security standards
-    - nist.80053.rev5.framework/sc-23_3
+    - nist.800-53.v5.framework/sc-23_3
     - owasp.asvs.v4_0_3.framework/3.2.1
     - CWE-384
 parent: <Parent-CRE-ID>      # Optional parent relationship
@@ -113,7 +113,7 @@ parent: <Parent-CRE-ID>      # Optional parent relationship
 
 ### Framework Mappings
 The update script maps CRE links to these frameworks:
-- **NIST 800-53 v5**: `nist.80053.rev5.framework/`
+- **NIST 800-53 v5**: `nist.800-53.v5.framework/`
 - **OWASP ASVS**: `owasp.asvs.v4_0_3.framework/`
 - **Cloud Controls Matrix**: `csa.ccm.v4_0_12.framework/`
 - **OWASP SAMM**: `owasp.samm.v1_0.framework/`
