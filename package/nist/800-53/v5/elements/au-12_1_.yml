@@ -5,9 +5,6 @@ description: Compiles audit records from system components into a system-wide, t
   audit trail within a defined tolerance.
 elementType: enhancement
 parent: au-12
-guidance: Audit trails are time-correlated if the time stamps in the individual audit
-  records can be reliably related to the time stamps in other audit records to achieve
-  a time ordering of the records within organizational tolerances.
 aliases:
 - AU-12(1)
 - AU-12 (1)

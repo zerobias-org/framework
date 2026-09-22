@@ -5,12 +5,6 @@ description: Require the developer of the system, system component, or system se
   to enable integrity verification of hardware components.
 elementType: enhancement
 parent: sa-10
-guidance: Hardware integrity verification allows organizations to detect unauthorized
-  changes to hardware components using developer-provided tools, techniques, methods,
-  and mechanisms. Organizations may verify the integrity of hardware components with
-  hard-to-copy labels, verifiable serial numbers provided by developers, and by requiring
-  the use of anti-tamper technologies. Delivered hardware components also include
-  hardware and firmware updates to such components.
 aliases:
 - SA-10(3)
 - SA-10 (3)

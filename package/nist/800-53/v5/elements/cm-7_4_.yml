@@ -5,10 +5,6 @@ description: Identifies unauthorized software and employs an allow-all, deny-by-
   policy to prohibit its execution, reviewed periodically.
 elementType: enhancement
 parent: cm-7
-guidance: Unauthorized software programs can be limited to specific versions or from
-  a specific source. The concept of prohibiting the execution of unauthorized software
-  may also be applied to user actions, system ports and protocols, IP addresses/ranges,
-  websites, and MAC addresses.
 aliases:
 - CM-7(4)
 - CM-7 (4)

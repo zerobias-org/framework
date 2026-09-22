@@ -4,8 +4,6 @@ name: Boundary Protection | Disable Sender Feedback on Protocol Validation Failu
 description: Disable feedback to senders on protocol format validation failure.
 elementType: enhancement
 parent: sc-7
-guidance: Disabling feedback to senders when there is a failure in protocol validation
-  format prevents adversaries from obtaining information that would otherwise be unavailable.
 aliases:
 - SC-7(23)
 - SC-7 (23)

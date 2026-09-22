@@ -5,10 +5,5 @@ description: 'Implement hardware-enforced separation and policy enforcement mech
   between [Assignment: organization-defined security domains].'
 elementType: control
 parent: sc
-guidance: System owners may require additional strength of mechanism and robustness
-  to ensure domain separation and policy enforcement for specific types of threats
-  and environments of operation. Hardware-enforced separation and policy enforcement
-  provide greater strength of mechanism than software-enforced separation and policy
-  enforcement.
 aliases:
 - SC-49

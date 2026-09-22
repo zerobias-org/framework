@@ -6,8 +6,6 @@ description: 'Perform security checks [Assignment: organization-defined frequenc
   or removal of system components.'
 elementType: enhancement
 parent: pe-3
-guidance: Organizations determine the extent, frequency, and/or randomness of security
-  checks to adequately mitigate risk associated with exfiltration.
 aliases:
 - PE-3(2)
 - PE-3 (2)

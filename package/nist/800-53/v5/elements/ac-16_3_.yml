@@ -6,14 +6,6 @@ description: 'Maintain the association and integrity of [Assignment: organizatio
   objects].'
 elementType: enhancement
 parent: ac-16
-guidance: Maintaining the association and integrity of security and privacy attributes
-  to subjects and objects with sufficient assurance helps to ensure that the attribute
-  associations can be used as the basis of automated policy actions. The integrity
-  of specific items, such as security configuration files, may be maintained through
-  the use of an integrity monitoring mechanism that detects anomalies and changes
-  that deviate frombaselines. Automated policy actions include retention date expirations,
-  access control decisions, information flow control decisions, and information disclosure
-  decisions.
 aliases:
 - AC-16(3)
 - AC-16 (3)

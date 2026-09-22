@@ -5,9 +5,6 @@ description: Detects unauthorized network services and audits or alerts designat
   personnel when they are detected.
 elementType: enhancement
 parent: si-4
-guidance: Unauthorized or unapproved network services include services in service-oriented
-  architectures that lack organizational verification or validation and may therefore
-  be unreliable or serve as malicious rogues for valid services.
 aliases:
 - SI-4(22)
 - SI-4 (22)

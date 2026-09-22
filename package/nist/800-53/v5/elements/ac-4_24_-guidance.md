@@ -1,0 +1,1 @@
+Converting data into normalized forms is one of most of effective mechanisms to stop malicious attacks and large classes of data exfiltration.

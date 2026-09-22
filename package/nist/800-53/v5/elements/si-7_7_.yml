@@ -7,12 +7,6 @@ description: 'Incorporate the detection of the following unauthorized changes in
   security-relevant changes to the system].'
 elementType: enhancement
 parent: si-7
-guidance: Integrating detection and response helps to ensure that detected events
-  are tracked, monitored, corrected, and available for historical purposes. Maintaining
-  historical records is important for being able to identify and discern adversary
-  actions over an extended time period and for possible legal actions. Security-relevant
-  changes include unauthorized changes to established configuration settings or the
-  unauthorized elevation of system privileges.
 aliases:
 - SI-7(7)
 - SI-7 (7)

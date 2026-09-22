@@ -6,10 +6,6 @@ description: Remove personally identifiable information elements from a dataset 
   release.
 elementType: enhancement
 parent: si-19
-guidance: Prior to releasing a dataset, a data custodian considers the intended uses
-  of the dataset and determines if it is necessary to release personally identifiable
-  information. If the personally identifiable information is not necessary, the information
-  can be removed using de-identification techniques.
 aliases:
 - SI-19(3)
 - SI-19 (3)

@@ -6,10 +6,6 @@ description: 'Require that the following user-installed software execute in a co
   user-installed software].'
 elementType: enhancement
 parent: cm-7
-guidance: Organizations identify software that may be of concern regarding its origin
-  or potential for containing malicious code. For this type of software, user installations
-  occur in confined environments of operation to limit or contain damage from malicious
-  code that may be executed.
 aliases:
 - CM-7(6)
 - CM-7 (6)

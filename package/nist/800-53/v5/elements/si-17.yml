@@ -6,11 +6,5 @@ description: 'Implement the indicated fail-safe procedures when the indicated fa
   fail-safe procedures].'
 elementType: control
 parent: si
-guidance: Failure conditions include the loss of communications among critical system
-  components or between system components and operational facilities. Fail-safe procedures
-  include alerting operator personnel and providing specific instructions on subsequent
-  steps to take. Subsequent steps may include doing nothing, reestablishing system
-  settings, shutting down processes, restarting the system, or contacting designated
-  organizational personnel.
 aliases:
 - SI-17

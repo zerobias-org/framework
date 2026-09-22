@@ -5,10 +5,6 @@ description: 'Establish connections to the system on demand and terminate connec
   after [Selection: completion of a request; a period of non-use].'
 elementType: enhancement
 parent: si-14
-guidance: Persistent connections to systems can provide advanced adversaries with
-  paths to move laterally through systems and potentially position themselves closer
-  to high value assets. Limiting the availability of such connections impedes the
-  adversary’s ability to move freely through organizational systems.
 aliases:
 - SI-14(3)
 - SI-14 (3)

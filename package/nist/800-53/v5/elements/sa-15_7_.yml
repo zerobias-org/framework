@@ -5,9 +5,6 @@ description: Requires the developer to perform automated vulnerability analysis,
   exploitation potential and mitigations, and deliver results to designated personnel.
 elementType: enhancement
 parent: sa-15
-guidance: Automated tools can be more effective at analyzing exploitable weaknesses
-  or deficiencies in large and complex systems, prioritizing vulnerabilities by severity,
-  and providing recommendations for risk mitigations.
 aliases:
 - SA-15(7)
 - SA-15 (7)

@@ -5,10 +5,6 @@ description: 'Remove previous versions of [Assignment: organization-defined soft
   and firmware components] after updated versions have been installed.'
 elementType: enhancement
 parent: si-2
-guidance: Previous versions of software or firmware components that are not removed
-  from the system after updates have been installed may be exploited by adversaries.
-  Some products may automatically remove previous versions of software and firmware
-  from the system.
 aliases:
 - SI-2(6)
 - SI-2 (6)

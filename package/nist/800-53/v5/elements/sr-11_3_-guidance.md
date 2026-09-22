@@ -1,0 +1,1 @@
+The type of component determines the type of scanning to be conducted (e.g., web application scanning if the component is a web application).

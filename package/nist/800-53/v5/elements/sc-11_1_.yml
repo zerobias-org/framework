@@ -5,11 +5,6 @@ description: Provides a trusted communications path that is irrefutably distingu
   from other paths, initiated for communications with defined security functions.
 elementType: enhancement
 parent: sc-11
-guidance: An irrefutable communications path permits the system to initiate a trusted
-  path, which necessitates that the user can unmistakably recognize the source of
-  the communication as a trusted system component. For example, the trusted path may
-  appear in an area of the display that other applications cannot access or be based
-  on the presence of an identifier that cannot be spoofed.
 aliases:
 - SC-11(1)
 - SC-11 (1)

@@ -5,9 +5,6 @@ description: Protect the integrity of information prior to storage on read-only 
   and control the media after such information has been recorded onto the media.
 elementType: enhancement
 parent: sc-34
-guidance: Controls prevent the substitution of media into systems or the reprogramming
-  of programmable read-only media prior to installation into the systems. Integrity
-  protection controls include a combination of prevention, detection, and response.
 aliases:
 - SC-34(2)
 - SC-34 (2)

@@ -5,8 +5,6 @@ description: Ensures standby components install successfully within a defined ti
   period after a failure is detected, triggering a defined alarm or action.
 elementType: enhancement
 parent: si-13
-guidance: Automatic or manual transfer of components from standby to active mode can
-  occur upon the detection of component failures.
 aliases:
 - SI-13(4)
 - SI-13 (4)

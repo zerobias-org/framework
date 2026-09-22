@@ -5,8 +5,5 @@ description: 'Implement software-enforced separation and policy enforcement mech
   between [Assignment: organization-defined security domains].'
 elementType: control
 parent: sc
-guidance: System owners may require additional strength of mechanism to ensure domain
-  separation and policy enforcement for specific types of threats and environments
-  of operation.
 aliases:
 - SC-50

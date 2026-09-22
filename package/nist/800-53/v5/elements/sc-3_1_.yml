@@ -5,10 +5,6 @@ description: Employ hardware separation mechanisms to implement security functio
   isolation.
 elementType: enhancement
 parent: sc-3
-guidance: Hardware separation mechanisms include hardware ring architectures that
-  are implemented within microprocessors and hardware-enforced address segmentation
-  used to support logically distinct storage objects with separate attributes (i.e.,
-  readable, writeable).
 aliases:
 - SC-3(1)
 - SC-3 (1)

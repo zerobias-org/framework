@@ -6,11 +6,6 @@ description: Requires the developer to use threat modeling and vulnerability ana
   from similar systems or services to inform current development.
 elementType: enhancement
 parent: sa-15
-guidance: Analysis of vulnerabilities found in similar software applications can inform
-  potential design and implementation issues for systems under development. Similar
-  systems or system components may exist within developer organizations. Vulnerability
-  information is available from a variety of public and private sector sources, including
-  the NIST National Vulnerability Database.
 aliases:
 - SA-15(8)
 - SA-15 (8)

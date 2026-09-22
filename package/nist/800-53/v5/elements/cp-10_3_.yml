@@ -1,0 +1,10 @@
+# Tombstone. CP-10(3) is withdrawn in NIST's SP 800-53 catalog ("Addressed
+# through tailoring"), so it is not carried as live content here. The file keeps
+# the withdrawal explicit and deletes the record for any consumer that loaded it
+# from the auditlogic rev5 copy of this framework.
+id: 3d339917-e31a-44a3-a09a-879caa6657a1
+externalId: CP-10(3)
+name: Contingency Plan | Compensating Security Controls
+description: Withdrawn by NIST — addressed through tailoring.
+elementType: enhancement
+deprecate: true

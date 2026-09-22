@@ -5,10 +5,6 @@ description: 'Identify [Assignment: organization-defined unacceptable mobile cod
   and take [Assignment: organization-defined corrective actions].'
 elementType: enhancement
 parent: sc-18
-guidance: Corrective actions when unacceptable mobile code is detected include blocking,
-  quarantine, or alerting administrators. Blocking includes preventing the transmission
-  of word processing files with embedded macros when such macros have been determined
-  to be unacceptable mobile code.
 aliases:
 - SC-18(1)
 - SC-18 (1)

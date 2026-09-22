@@ -5,13 +5,6 @@ description: 'Implement [Assignment: organization-defined security controls] to 
   the risk of compromise due to individuals having accounts on multiple systems.'
 elementType: enhancement
 parent: ia-5
-guidance: When individuals have accounts on multiple systems and use the same authenticators
-  such as passwords, there is the risk that a compromise of one account may lead to
-  the compromise of other accounts. Alternative approaches include having different
-  authenticators (passwords) on all systems, employing a single sign-on or federation
-  mechanism, or using some form of one-time passwords on all systems. Organizations
-  can also use rules of behavior (see) and access agreements (see) to mitigate the
-  risk of multiple system accounts.
 aliases:
 - IA-5(8)
 - IA-5 (8)

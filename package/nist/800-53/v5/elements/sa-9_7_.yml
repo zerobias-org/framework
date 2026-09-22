@@ -5,10 +5,6 @@ description: Provide the capability to check the integrity of information while 
   resides in the external system.
 elementType: enhancement
 parent: sa-9
-guidance: Storage of organizational information in an external system could limit
-  visibility into the security status of its data. The ability of the organization
-  to verify and validate the integrity of its stored data without transferring it
-  out of the external system provides such visibility.
 aliases:
 - SA-9(7)
 - SA-9 (7)

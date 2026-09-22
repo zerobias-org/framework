@@ -5,13 +5,6 @@ description: Requires the developer to verify that testing and evaluation comple
   cover the required controls at a defined level of rigor.
 elementType: enhancement
 parent: sa-11
-guidance: Verifying that testing and evaluation provides complete coverage of required
-  controls can be accomplished by a variety of analytic techniques ranging from informal
-  to formal. Each of these techniques provides an increasing level of assurance that
-  corresponds to the degree of formality of the analysis. Rigorously demonstrating
-  control coverage at the highest levels of assurance can be achieved using formal
-  modeling and analysis techniques, including correlation between control implementation
-  and corresponding test cases.
 aliases:
 - SA-11(7)
 - SA-11 (7)

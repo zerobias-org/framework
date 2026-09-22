@@ -6,8 +6,5 @@ description: 'Protect the availability of resources by allocating [Assignment: o
   controls]].'
 elementType: control
 parent: sc
-guidance: Priority protection prevents lower-priority processes from delaying or interfering
-  with the system that services higher-priority processes. Quotas prevent users or
-  processes from obtaining more than predetermined amounts of resources.
 aliases:
 - SC-6

@@ -6,11 +6,6 @@ description: 'Implement privileged access authorization to [Assignment: organiza
   activities].'
 elementType: enhancement
 parent: ra-5
-guidance: In certain situations, the nature of the vulnerability scanning may be more
-  intrusive, or the system component that is the subject of the scanning may contain
-  classified or controlled unclassified information, such as personally identifiable
-  information. Privileged access authorization to selected system components facilitates
-  more thorough vulnerability scanning and protects the sensitive nature of such scanning.
 aliases:
 - RA-5(5)
 - RA-5 (5)

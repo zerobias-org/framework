@@ -5,9 +5,6 @@ description: 'Prohibit the use of cached authenticators after [Assignment: organ
   time period].'
 elementType: enhancement
 parent: ia-5
-guidance: Cached authenticators are used to authenticate to the local machine when
-  the network is not available. If cached authentication information is out of date,
-  the validity of the authentication information may be questionable.
 aliases:
 - IA-5(13)
 - IA-5 (13)

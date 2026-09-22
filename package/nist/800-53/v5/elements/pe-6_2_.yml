@@ -5,12 +5,6 @@ description: Recognizes defined classes of intrusions and initiates defined resp
   actions using automated mechanisms.
 elementType: enhancement
 parent: pe-6
-guidance: Response actions can include notifying selected organizational personnel
-  or law enforcement personnel. Automated mechanisms implemented to initiate response
-  actions include system alert notifications, email and text messages, and activating
-  door locking mechanisms. Physical access monitoring can be coordinated with intrusion
-  detection systems and system monitoring capabilities to provide integrated threat
-  coverage for the organization.
 aliases:
 - PE-6(2)
 - PE-6 (2)

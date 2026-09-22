@@ -5,10 +5,6 @@ description: Requires nonlocal maintenance services to use comparably secure sys
   or removes and sanitizes the component before and after off-system service.
 elementType: enhancement
 parent: ma-4
-guidance: Comparable security capability on systems, diagnostic tools, and equipment
-  providing maintenance services implies that the implemented controls on those systems,
-  tools, and equipment are at least as comprehensive as the controls on the system
-  being serviced.
 aliases:
 - MA-4(3)
 - MA-4 (3)

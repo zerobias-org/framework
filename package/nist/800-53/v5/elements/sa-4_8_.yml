@@ -5,14 +5,6 @@ description: Requires the developer to produce a continuous monitoring plan for 
   effectiveness consistent with the organization's monitoring program.
 elementType: enhancement
 parent: sa-4
-guidance: The objective of continuous monitoring plans is to determine if the planned,
-  required, and deployed controls within the system, system component, or system service
-  continue to be effective over time based on the inevitable changes that occur. Developer
-  continuous monitoring plans include a sufficient level of detail such that the information
-  can be incorporated into continuous monitoring programs implemented by organizations.
-  Continuous monitoring plans can include the types of control assessment and monitoring
-  activities planned, frequency of control monitoring, and actions to be taken when
-  controls fail or become ineffective.
 aliases:
 - SA-4(8)
 - SA-4 (8)

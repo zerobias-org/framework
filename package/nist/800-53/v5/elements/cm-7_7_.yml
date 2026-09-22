@@ -5,9 +5,6 @@ description: Allows execution of binary or machine-executable code without sourc
   code or warranty only in confined environments, with explicit approval.
 elementType: enhancement
 parent: cm-7
-guidance: Code execution in protected environments applies to all sources of binary
-  or machine-executable code, including commercial software and firmware and open-source
-  software.
 aliases:
 - CM-7(7)
 - CM-7 (7)

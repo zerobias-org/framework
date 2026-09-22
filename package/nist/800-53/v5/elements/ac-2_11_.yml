@@ -5,12 +5,6 @@ description: 'Enforce [Assignment: organization-defined circumstances and/or usa
   conditions] for  [Assignment: organization-defined system accounts].'
 elementType: enhancement
 parent: ac-2
-guidance: Specifying and enforcing usage conditions helps to enforce the principle
-  of least privilege, increase user accountability, and enable effective account monitoring.
-  Account monitoring includes alerts generated if the account is used in violation
-  of organizational parameters. Organizations can describe specific conditions or
-  circumstances under which system accounts can be used, such as by restricting usage
-  to certain days of the week, time of day, or specific durations of time.
 aliases:
 - AC-2(11)
 - AC-2 (11)

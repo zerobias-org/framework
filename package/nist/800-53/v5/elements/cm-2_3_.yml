@@ -5,9 +5,6 @@ description: 'Retain [Assignment: organization-defined number] of previous versi
   of baseline configurations of the system to support rollback.'
 elementType: enhancement
 parent: cm-2
-guidance: Retaining previous versions of baseline configurations to support rollback
-  include hardware, software, firmware, configuration files, configuration records,
-  and associated documentation.
 aliases:
 - CM-2(3)
 - CM-2 (3)

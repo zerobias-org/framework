@@ -5,11 +5,6 @@ description: Refreshes or regenerates defined information on a schedule or on de
   and deletes it when no longer needed.
 elementType: enhancement
 parent: si-14
-guidance: Retaining information longer than is needed makes the information a potential
-  target for advanced adversaries searching for high value assets to compromise through
-  unauthorized disclosure, unauthorized modification, or exfiltration. For system-related
-  information, unnecessary retention provides advanced adversaries information that
-  can assist in their reconnaissance and lateral movement through the system.
 aliases:
 - SI-14(2)
 - SI-14 (2)

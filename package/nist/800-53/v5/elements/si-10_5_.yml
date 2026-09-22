@@ -6,11 +6,6 @@ description: 'Restrict the use of information inputs to [Assignment: organizatio
   trusted sources] and/or [Assignment: organization-defined formats].'
 elementType: enhancement
 parent: si-10
-guidance: Restricting the use of inputs to trusted sources and in trusted formats
-  applies the concept of authorized or permitted software to information inputs. Specifying
-  known trusted sources for information inputs and acceptable formats for such inputs
-  can reduce the probability of malicious activity. The information inputs are those
-  defined by the organization in the base control (SI-10).
 aliases:
 - SI-10(5)
 - SI-10 (5)

@@ -5,8 +5,6 @@ description: Verifies after system changes that impacted controls are implemente
   correctly and continue to meet security and privacy requirements.
 elementType: enhancement
 parent: cm-4
-guidance: Implementation in this context refers to installing changed code in the
-  operational system that may have an impact on security or privacy controls.
 aliases:
 - CM-4(2)
 - CM-4 (2)

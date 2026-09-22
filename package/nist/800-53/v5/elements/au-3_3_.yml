@@ -6,9 +6,6 @@ description: 'Limit personally identifiable information contained in audit recor
   organization-defined elements].'
 elementType: enhancement
 parent: au-3
-guidance: Limiting personally identifiable information in audit records when such
-  information is not needed for operational purposes helps reduce the level of privacy
-  risk created by a system.
 aliases:
 - AU-3(3)
 - AU-3 (3)

@@ -5,10 +5,6 @@ description: 'Automatically [Selection: remove; disable] temporary and emergency
   after [Assignment: organization-defined time period for each type of account].'
 elementType: enhancement
 parent: ac-2
-guidance: Management of temporary and emergency accounts includes the removal or disabling
-  of such accounts automatically after a predefined time period rather than at the
-  convenience of the system administrator. Automatic removal or disabling of accounts
-  provides a more consistent implementation.
 aliases:
 - AC-2(2)
 - AC-2 (2)

@@ -1,0 +1,1 @@
+Commercial off-the-shelf IA or IA-enabled information technology products used to protect classified information by cryptographic means may be required to use NSA-approved key management. See NSA CSFC.

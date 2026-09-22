@@ -1,0 +1,1 @@
+Network-accessible storage devices in external systems include online storage devices in public, hybrid, or community cloud-based systems.

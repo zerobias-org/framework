@@ -5,11 +5,6 @@ description: Identifies authorized hardware components, prohibits use of unautho
   ones, and reviews and updates the authorized list periodically.
 elementType: enhancement
 parent: cm-7
-guidance: Hardware components provide the foundation for organizational systems and
-  the platform for the execution of authorized software programs. Managing the inventory
-  of hardware components and controlling which hardware components are permitted to
-  be installed or connected to organizational systems is essential in order to provide
-  adequate security.
 aliases:
 - CM-7(9)
 - CM-7 (9)

@@ -5,11 +5,6 @@ description: 'Employ the following techniques to hide or conceal [Assignment: or
   system components]: [Assignment: organization-defined techniques].'
 elementType: enhancement
 parent: sc-30
-guidance: By hiding, disguising, or concealing critical system components, organizations
-  may be able to decrease the probability that adversaries target and successfully
-  compromise those assets. Potential means to hide, disguise, or conceal system components
-  include the configuration of routers or the use of encryption or virtualization
-  techniques.
 aliases:
 - SC-30(5)
 - SC-30 (5)

@@ -5,9 +5,6 @@ description: 'Require that users log out when [Assignment: organization-defined 
   period of expected inactivity or description of when to log out].'
 elementType: enhancement
 parent: ac-2
-guidance: Inactivity logout is behavior- or policy-based and requires users to take
-  physical action to log out when they are expecting inactivity longer than the defined
-  period. Automatic enforcement of inactivity logout is addressed by.
 aliases:
 - AC-2(5)
 - AC-2 (5)

@@ -5,9 +5,6 @@ description: Notify the user, upon successful logon, of the number of unsuccessf
   logon attempts since the last successful logon.
 elementType: enhancement
 parent: ac-9
-guidance: Information about the number of unsuccessful logon attempts since the last
-  successful logon allows the user to recognize if the number of unsuccessful logon
-  attempts is consistent with the user’s actual logon attempts.
 aliases:
 - AC-9(1)
 - AC-9 (1)

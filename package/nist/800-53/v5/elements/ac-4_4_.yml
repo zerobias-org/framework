@@ -5,9 +5,6 @@ description: Prevents encrypted information from bypassing flow control mechanis
   by decrypting it, blocking it, or terminating the session.
 elementType: enhancement
 parent: ac-4
-guidance: Flow control mechanisms include content checking, security policy filters,
-  and data type identifiers. The term encryption is extended to cover encoded data
-  not recognized by filtering mechanisms.
 aliases:
 - AC-4(4)
 - AC-4 (4)

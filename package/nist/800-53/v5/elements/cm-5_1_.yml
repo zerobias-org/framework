@@ -6,9 +6,6 @@ description: '(a) Enforce access restrictions using [Assignment: organization-de
   actions.'
 elementType: enhancement
 parent: cm-5
-guidance: Organizations log system accesses associated with applying configuration
-  changes to ensure that configuration change control is implemented and to support
-  after-the-fact actions should organizations discover any unauthorized changes.
 aliases:
 - CM-5(1)
 - CM-5 (1)

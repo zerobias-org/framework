@@ -5,9 +5,6 @@ description: Provides a warning to designated personnel when allocated audit log
   reaches a defined percentage of capacity.
 elementType: enhancement
 parent: au-5
-guidance: Organizations may have multiple audit log storage repositories distributed
-  across multiple system components with each repository having different storage
-  volume capacities.
 aliases:
 - AU-5(1)
 - AU-5 (1)

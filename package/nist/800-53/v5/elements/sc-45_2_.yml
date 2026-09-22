@@ -5,8 +5,6 @@ description: Identifies a secondary authoritative time source in a different geo
   region and synchronizes to it if the primary source is unavailable.
 elementType: enhancement
 parent: sc-45
-guidance: It may be necessary to employ geolocation information to determine that
-  the secondary authoritative time source is in a different geographic region.
 aliases:
 - SC-45(2)
 - SC-45 (2)

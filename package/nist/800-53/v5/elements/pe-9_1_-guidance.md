@@ -1,0 +1,1 @@
+Physically separate and redundant power cables ensure that power continues to flow in the event that one of the cables is cut or otherwise damaged.

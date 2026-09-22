@@ -5,9 +5,6 @@ description: Maintain availability of information in the event of the loss of cr
   keys by users.
 elementType: enhancement
 parent: sc-12
-guidance: Escrowing of encryption keys is a common practice for ensuring availability
-  in the event of key loss. A forgotten passphrase is an example of losing a cryptographic
-  key.
 aliases:
 - SC-12(1)
 - SC-12 (1)

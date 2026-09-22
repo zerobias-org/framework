@@ -6,10 +6,6 @@ description: 'Implement replay-resistant authentication mechanisms for access to
   (one or more): privileged accounts; non-privileged accounts].'
 elementType: enhancement
 parent: ia-2
-guidance: Authentication processes resist replay attacks if it is impractical to achieve
-  successful authentications by replaying previous authentication messages. Replay-resistant
-  techniques include protocols that use nonces or challenges such as time synchronous
-  or cryptographic authenticators.
 aliases:
 - IA-2(8)
 - IA-2 (8)

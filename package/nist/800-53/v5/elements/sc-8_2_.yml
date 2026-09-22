@@ -5,11 +5,6 @@ description: 'Maintain the [Selection (one or more): confidentiality; integrity]
   information during preparation for transmission and during reception.'
 elementType: enhancement
 parent: sc-8
-guidance: Information can be unintentionally or maliciously disclosed or modified
-  during preparation for transmission or during reception, including during aggregation,
-  at protocol transformation points, and during packing and unpacking. Such unauthorized
-  disclosures or modifications compromise the confidentiality or integrity of the
-  information.
 aliases:
 - SC-8(2)
 - SC-8 (2)

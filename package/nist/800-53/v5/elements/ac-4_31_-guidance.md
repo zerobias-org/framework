@@ -1,0 +1,1 @@
+Content that failed filtering checks can corrupt the system if transferred to the receiving domain.

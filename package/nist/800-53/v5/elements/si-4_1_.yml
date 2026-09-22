@@ -5,10 +5,6 @@ description: Connect and configure individual intrusion detection tools into a s
   intrusion detection system.
 elementType: enhancement
 parent: si-4
-guidance: Linking individual intrusion detection tools into a system-wide intrusion
-  detection system provides additional coverage and effective detection capabilities.
-  The information contained in one intrusion detection tool can be shared widely across
-  the organization, making the system-wide detection capability more robust and powerful.
 aliases:
 - SI-4(1)
 - SI-4 (1)

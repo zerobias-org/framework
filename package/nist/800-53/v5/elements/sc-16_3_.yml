@@ -5,9 +5,6 @@ description: 'Implement [Assignment: organization-defined mechanisms or techniqu
   to bind security and privacy attributes to transmitted information.'
 elementType: enhancement
 parent: sc-16
-guidance: Cryptographic mechanisms and techniques can provide strong security and
-  privacy attribute binding to transmitted information to help ensure the integrity
-  of such information.
 aliases:
 - SC-16(3)
 - SC-16 (3)

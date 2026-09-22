@@ -5,11 +5,6 @@ description: 'Authorize access to management of audit logging functionality to o
   [Assignment: organization-defined subset of privileged users or roles].'
 elementType: enhancement
 parent: au-9
-guidance: Individuals or roles with privileged access to a system and who are also
-  the subject of an audit by that system may affect the reliability of the audit information
-  by inhibiting audit activities or modifying audit records. Requiring privileged
-  access to be further defined between audit-related privileges and other privileges
-  limits the number of users or roles with audit-related privileges.
 aliases:
 - AU-9(4)
 - AU-9 (4)

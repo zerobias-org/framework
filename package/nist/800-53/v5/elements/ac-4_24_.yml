@@ -6,8 +6,6 @@ description: When transferring information between different security domains, p
   with its intended specification.
 elementType: enhancement
 parent: ac-4
-guidance: Converting data into normalized forms is one of most of effective mechanisms
-  to stop malicious attacks and large classes of data exfiltration.
 aliases:
 - AC-4(24)
 - AC-4 (24)

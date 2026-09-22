@@ -5,9 +5,6 @@ description: Requires the developer to define security-relevant hardware, softwa
   and firmware and provide a rationale that the definition is complete.
 elementType: enhancement
 parent: sa-17
-guidance: The security-relevant hardware, software, and firmware represent the portion
-  of the system, component, or service that is trusted to perform correctly to maintain
-  required security properties.
 aliases:
 - SA-17(2)
 - SA-17 (2)

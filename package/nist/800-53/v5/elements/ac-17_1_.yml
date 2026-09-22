@@ -4,11 +4,6 @@ name: Remote Access | Monitoring and Control
 description: Employ automated mechanisms to monitor and control remote access methods.
 elementType: enhancement
 parent: ac-17
-guidance: Monitoring and control of remote access methods allows organizations to
-  detect attacks and help ensure compliance with remote access policies by auditing
-  the connection activities of remote users on a variety of system components, including
-  servers, notebook computers, workstations, smart phones, and tablets. Audit logging
-  for remote access is enforced by. Audit events are defined in.
 aliases:
 - AC-17(1)
 - AC-17 (1)

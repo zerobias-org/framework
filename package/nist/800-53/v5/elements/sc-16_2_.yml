@@ -5,11 +5,6 @@ description: Implement anti-spoofing mechanisms to prevent adversaries from fals
   the security attributes indicating the successful application of the security process.
 elementType: enhancement
 parent: sc-16
-guidance: Some attack vectors operate by altering the security attributes of an information
-  system to intentionally and maliciously implement an insufficient level of security
-  within the system. The alteration of attributes leads organizations to believe that
-  a greater number of security functions are in place and operational than have actually
-  been implemented.
 aliases:
 - SC-16(2)
 - SC-16 (2)

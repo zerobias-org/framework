@@ -6,9 +6,6 @@ description: 'Take the following actions in response to unauthorized changes to 
   actions].'
 elementType: enhancement
 parent: cm-6
-guidance: Responses to unauthorized changes to configuration settings include alerting
-  designated organizational personnel, restoring established configuration settings,
-  or—in extreme cases—halting affected system processing.
 aliases:
 - CM-6(2)
 - CM-6 (2)

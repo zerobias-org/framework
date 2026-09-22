@@ -5,13 +5,6 @@ description: 'Implement [Assignment: organization-defined techniques and technol
   in associating security and privacy attributes to information.'
 elementType: enhancement
 parent: ac-16
-guidance: The association of security and privacy attributes to information within
-  systems is important for conducting automated access enforcement and flow enforcement
-  actions. The association of such attributes to information (i.e., binding) can be
-  accomplished with technologies and techniques that provide different levels of assurance.
-  For example, systems can cryptographically bind attributes to information using
-  digital signatures that support cryptographic keys protected by hardware devices
-  (sometimes known as hardware roots of trust).
 aliases:
 - AC-16(8)
 - AC-16 (8)

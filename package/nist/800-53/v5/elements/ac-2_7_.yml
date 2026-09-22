@@ -5,13 +5,6 @@ description: Establishes and monitors privileged user accounts by role or attrib
   and revokes access when it is no longer appropriate.
 elementType: enhancement
 parent: ac-2
-guidance: Privileged roles are organization-defined roles assigned to individuals
-  that allow those individuals to perform certain security-relevant functions that
-  ordinary users are not authorized to perform. Privileged roles include key management,
-  account management, database administration, system and network administration,
-  and web administration. A role-based access scheme organizes permitted system access
-  and privileges into roles. In contrast, an attribute-based access scheme specifies
-  allowed system access and privileges based on attributes.
 aliases:
 - AC-2(7)
 - AC-2 (7)

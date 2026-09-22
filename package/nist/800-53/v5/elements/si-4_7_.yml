@@ -5,7 +5,6 @@ description: Notifies incident response personnel of detected suspicious events 
   takes defined least-disruptive actions to terminate them.
 elementType: enhancement
 parent: si-4
-guidance: Least-disruptive actions include initiating requests for human responses.
 aliases:
 - SI-4(7)
 - SI-4 (7)

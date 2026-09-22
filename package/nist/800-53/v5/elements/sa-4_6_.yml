@@ -5,9 +5,6 @@ description: Requires use of NSA-approved information assurance products to prot
   classified information on lower-classification networks, evaluated per NSA procedures.
 elementType: enhancement
 parent: sa-4
-guidance: Commercial off-the-shelf IA or IA-enabled information technology products
-  used to protect classified information by cryptographic means may be required to
-  use NSA-approved key management. See NSA CSFC.
 aliases:
 - SA-4(6)
 - SA-4 (6)

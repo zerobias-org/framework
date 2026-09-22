@@ -5,9 +5,6 @@ description: Disables accounts within a defined period after they expire, lose t
   association with a user, violate policy, or go inactive.
 elementType: enhancement
 parent: ac-2
-guidance: Disabling expired, inactive, or otherwise anomalous accounts supports the
-  concepts of least privilege and least functionality which reduce the attack surface
-  of the system.
 aliases:
 - AC-2(3)
 - AC-2 (3)

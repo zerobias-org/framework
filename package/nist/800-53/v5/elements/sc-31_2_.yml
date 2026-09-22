@@ -5,8 +5,6 @@ description: 'Reduce the maximum bandwidth for identified covert [Selection (one
   more): storage; timing] channels to [Assignment: organization-defined values].'
 elementType: enhancement
 parent: sc-31
-guidance: The complete elimination of covert channels, especially covert timing channels,
-  is usually not possible without significant performance impacts.
 aliases:
 - SC-31(2)
 - SC-31 (2)

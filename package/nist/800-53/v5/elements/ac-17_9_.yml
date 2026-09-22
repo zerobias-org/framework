@@ -5,9 +5,6 @@ description: 'Provide the capability to disconnect or disable remote access to t
   system within [Assignment: organization-defined time period].'
 elementType: enhancement
 parent: ac-17
-guidance: The speed of system disconnect or disablement varies based on the criticality
-  of missions or business functions and the need to eliminate immediate or future
-  remote access to systems.
 aliases:
 - AC-17(9)
 - AC-17 (9)

@@ -6,9 +6,6 @@ description: 'When transferring information between different security domains, 
   action].'
 elementType: enhancement
 parent: ac-4
-guidance: Modifying non-releasable information can help prevent a data spill or attack
-  when information is transferred across security domains. Modification actions include
-  masking, permutation, alteration, removal, or redaction.
 aliases:
 - AC-4(23)
 - AC-4 (23)

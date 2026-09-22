@@ -6,10 +6,6 @@ description: Require the developer of the system or system component to minimize
   use of personally identifiable information in development and test environments.
 elementType: enhancement
 parent: sa-15
-guidance: Organizations can minimize the risk to an individual’s privacy by using
-  techniques such as de-identification or synthetic data. Limiting the use of personally
-  identifiable information in development and test environments helps reduce the level
-  of privacy risk created by a system.
 aliases:
 - SA-15(12)
 - SA-15 (12)

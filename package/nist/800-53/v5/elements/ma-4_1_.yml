@@ -5,8 +5,6 @@ description: Logs nonlocal maintenance and diagnostic sessions and reviews the r
   to detect anomalous behavior.
 elementType: enhancement
 parent: ma-4
-guidance: Audit logging for nonlocal maintenance is enforced by. Audit events are
-  defined in.
 aliases:
 - MA-4(1)
 - MA-4 (1)

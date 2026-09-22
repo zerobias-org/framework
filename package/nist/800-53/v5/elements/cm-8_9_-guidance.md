@@ -1,0 +1,1 @@
+System components that are not assigned to a system may be unmanaged, lack the required protection, and become an organizational vulnerability.

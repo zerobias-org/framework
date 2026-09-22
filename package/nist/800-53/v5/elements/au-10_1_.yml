@@ -5,11 +5,6 @@ description: Binds the identity of an information producer to the information, a
   provides a means for authorized individuals to determine that identity.
 elementType: enhancement
 parent: au-10
-guidance: Binding identities to the information supports audit requirements that provide
-  organizational personnel with the means to identify who produced specific information
-  in the event of an information transfer. Organizations determine and approve the
-  strength of attribute binding between the information producer and the information
-  based on the security category of the information and other relevant risk factors.
 aliases:
 - AU-10(1)
 - AU-10 (1)

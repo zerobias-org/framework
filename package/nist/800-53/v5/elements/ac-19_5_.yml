@@ -6,9 +6,6 @@ description: 'Employ [Selection: full-device encryption; container-based encrypt
   mobile devices].'
 elementType: enhancement
 parent: ac-19
-guidance: Container-based encryption provides a more fine-grained approach to data
-  and information encryption on mobile devices, including encrypting selected data
-  structures such as files, records, or fields.
 aliases:
 - AC-19(5)
 - AC-19 (5)

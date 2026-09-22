@@ -5,8 +5,6 @@ description: 'Scan for counterfeit system components [Assignment: organization-d
   frequency].'
 elementType: enhancement
 parent: sr-11
-guidance: The type of component determines the type of scanning to be conducted (e.g.,
-  web application scanning if the component is a web application).
 aliases:
 - SR-11(3)
 - SR-11 (3)

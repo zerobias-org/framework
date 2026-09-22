@@ -5,8 +5,6 @@ description: 'Provide protected storage for cryptographic keys [Selection: [Assi
   organization-defined safeguards]; hardware-protected key store].'
 elementType: enhancement
 parent: sc-28
-guidance: A Trusted Platform Module (TPM) is an example of a hardware-protected data
-  store that can be used to protect cryptographic keys.
 aliases:
 - SC-28(3)
 - SC-28 (3)

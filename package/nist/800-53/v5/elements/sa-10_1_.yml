@@ -5,13 +5,6 @@ description: Require the developer of the system, system component, or system se
   to enable integrity verification of software and firmware components.
 elementType: enhancement
 parent: sa-10
-guidance: Software and firmware integrity verification allows organizations to detect
-  unauthorized changes to software and firmware components using developer-provided
-  tools, techniques, and mechanisms. The integrity checking mechanisms can also address
-  counterfeiting of software and firmware components. Organizations verify the integrity
-  of software and firmware components, for example, through secure one-way hashes
-  provided by developers. Delivered software and firmware components also include
-  any updates to such components.
 aliases:
 - SA-10(1)
 - SA-10 (1)

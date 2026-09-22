@@ -5,8 +5,6 @@ description: When transferring information between different security domains, i
   content filtering mechanisms using multiple processes.
 elementType: enhancement
 parent: ac-4
-guidance: The use of multiple processes to implement content filtering mechanisms
-  reduces the likelihood of a single point of failure.
 aliases:
 - AC-4(30)
 - AC-4 (30)

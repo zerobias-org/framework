@@ -5,9 +5,6 @@ description: Verify session and network connection termination after the complet
   of nonlocal maintenance and diagnostic sessions.
 elementType: enhancement
 parent: ma-4
-guidance: Verifying the termination of a connection once maintenance is completed
-  ensures that connections established during nonlocal maintenance and diagnostic
-  sessions have been terminated and are no longer available for use.
 aliases:
 - MA-4(7)
 - MA-4 (7)

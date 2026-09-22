@@ -1,0 +1,1 @@
+SP 800-56A, SP 800-56B, and SP 800-56C provide guidance on cryptographic key establishment schemes and key derivation methods. SP 800-57-1, SP 800-57-2, and SP 800-57-3 provide guidance on cryptographic key management.

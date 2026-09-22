@@ -5,8 +5,6 @@ description: Authorizes network access to privileged commands only for compellin
   operational needs and documents the rationale.
 elementType: enhancement
 parent: ac-6
-guidance: Network access is any access across a network connection in lieu of local
-  access (i.e., user being physically present at the device).
 aliases:
 - AC-6(3)
 - AC-6 (3)

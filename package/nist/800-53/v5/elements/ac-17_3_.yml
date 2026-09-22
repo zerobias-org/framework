@@ -5,9 +5,6 @@ description: Route remote accesses through authorized and managed network access
   points.
 elementType: enhancement
 parent: ac-17
-guidance: Organizations consider the Trusted Internet Connections (TIC) initiativerequirements
-  for external network connections since limiting the number of access control points
-  for remote access reduces attack surfaces.
 aliases:
 - AC-17(3)
 - AC-17 (3)

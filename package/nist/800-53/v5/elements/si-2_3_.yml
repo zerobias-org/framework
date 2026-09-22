@@ -6,11 +6,6 @@ description: '(a) Measure the time between flaw identification and flaw remediat
   organization-defined benchmarks].'
 elementType: enhancement
 parent: si-2
-guidance: Organizations determine the time it takes on average to correct system flaws
-  after such flaws have been identified and subsequently establish organizational
-  benchmarks (i.e., time frames) for taking corrective actions. Benchmarks can be
-  established by the type of flaw or the severity of the potential vulnerability if
-  the flaw can be exploited.
 aliases:
 - SI-2(3)
 - SI-2 (3)

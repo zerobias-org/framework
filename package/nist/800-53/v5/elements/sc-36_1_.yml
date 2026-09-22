@@ -5,14 +5,6 @@ description: Employs polling techniques to identify faults, errors, or compromis
   in distributed processing and storage components, and takes defined action in response.
 elementType: enhancement
 parent: sc-36
-guidance: Distributed processing and/or storage may be used to reduce opportunities
-  for adversaries to compromise the confidentiality, integrity, or availability of
-  organizational information and systems. However, the distribution of processing
-  and storage components does not prevent adversaries from compromising one or more
-  of the components. Polling compares the processing results and/or storage content
-  from the distributed components and subsequently votes on the outcomes. Polling
-  identifies potential faults, compromises, or errors in the distributed processing
-  and storage components.
 aliases:
 - SC-36(1)
 - SC-36 (1)

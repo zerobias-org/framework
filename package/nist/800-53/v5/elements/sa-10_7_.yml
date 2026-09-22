@@ -6,16 +6,6 @@ description: 'Require [Assignment: organization-defined security and privacy rep
   and control process].'
 elementType: enhancement
 parent: sa-10
-guidance: Information security and privacy representatives can include system security
-  officers, senior agency information security officers, senior agency officials for
-  privacy, and system privacy officers. Representation by personnel with information
-  security and privacy expertise is important because changes to system configurations
-  can have unintended side effects, some of which may be security- or privacy-relevant.
-  Detecting such changes early in the process can help avoid unintended, negative
-  consequences that could ultimately affect the security and privacy posture of systems.
-  The configuration change management and control process in this control enhancement
-  refers to the change management and control process defined by organizations in
-  SA-10b.
 aliases:
 - SA-10(7)
 - SA-10 (7)

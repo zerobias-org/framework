@@ -5,8 +5,6 @@ description: Requires the information transfer process between security domains 
   validate filtering metadata without filtering message content itself.
 elementType: enhancement
 parent: ac-4
-guidance: The processes transferring information between filter pipelines have minimum
-  complexity and functionality to provide assurance that the processes operate correctly.
 aliases:
 - AC-4(32)
 - AC-4 (32)

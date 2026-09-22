@@ -4,8 +4,6 @@ name: Session Authenticity | Invalidate Session Identifiers at Logout
 description: Invalidate session identifiers upon user logout or other session termination.
 elementType: enhancement
 parent: sc-23
-guidance: Invalidating session identifiers at logout curtails the ability of adversaries
-  to capture and continue to employ previously valid session IDs.
 aliases:
 - SC-23(1)
 - SC-23 (1)

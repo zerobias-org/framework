@@ -1,0 +1,1 @@
+Before permitting the use of shared or group accounts, organizations consider the increased risk due to the lack of accountability with such accounts.

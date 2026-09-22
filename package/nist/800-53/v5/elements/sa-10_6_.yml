@@ -5,9 +5,6 @@ description: Requires the developer to execute procedures ensuring distributed s
   updates match the master copies exactly.
 elementType: enhancement
 parent: sa-10
-guidance: The trusted distribution of security-relevant hardware, software, and firmware
-  updates help to ensure that the updates are correct representations of the master
-  copies maintained by the developer and have not been tampered with during distribution.
 aliases:
 - SA-10(6)
 - SA-10 (6)

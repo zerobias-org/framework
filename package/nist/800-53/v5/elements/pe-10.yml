@@ -5,6 +5,3 @@ description: Provides an emergency power shutoff capability for the system, plac
   switches for authorized access, and protects them from unauthorized activation.
 elementType: control
 parent: pe
-guidance: Emergency power shutoff primarily applies to organizational facilities that
-  contain concentrations of system resources, including data centers, mainframe computer
-  rooms, server rooms, and areas with computer-controlled machinery.

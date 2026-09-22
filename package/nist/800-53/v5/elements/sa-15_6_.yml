@@ -5,10 +5,6 @@ description: Require the developer of the system, system component, or system se
   to implement an explicit process to continuously improve the development process.
 elementType: enhancement
 parent: sa-15
-guidance: Developers of systems, system components, and system services consider the
-  effectiveness and efficiency of their development processes for meeting quality
-  objectives and addressing the security and privacy capabilities in current threat
-  environments.
 aliases:
 - SA-15(6)
 - SA-15 (6)

@@ -5,8 +5,6 @@ description: Standardizes dynamic address allocation lease information and durat
   for devices, and audits lease assignments.
 elementType: enhancement
 parent: ia-3
-guidance: The Dynamic Host Configuration Protocol (DHCP) is an example of a means
-  by which clients can dynamically receive network address assignments.
 aliases:
 - IA-3(3)
 - IA-3 (3)

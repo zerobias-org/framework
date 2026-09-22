@@ -6,9 +6,6 @@ description: Compares internal system clocks with a defined authoritative time s
   period.
 elementType: enhancement
 parent: sc-45
-guidance: Synchronization of internal system clocks with an authoritative source provides
-  uniformity of time stamps for systems with multiple system clocks and systems connected
-  over a network.
 aliases:
 - SC-45(1)
 - SC-45 (1)

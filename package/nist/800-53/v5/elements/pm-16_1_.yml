@@ -5,11 +5,6 @@ description: Employ automated mechanisms to maximize the effectiveness of sharin
   threat intelligence information.
 elementType: enhancement
 parent: pm-16
-guidance: To maximize the effectiveness of monitoring, it is important to know what
-  threat observables and indicators the sensors need to be searching for. By using
-  well-established frameworks, services, and automated tools, organizations improve
-  their ability to rapidly share and feed the relevant threat detection signatures
-  into monitoring tools.
 aliases:
 - PM-16(1)
 - PM-16 (1)

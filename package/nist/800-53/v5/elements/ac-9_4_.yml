@@ -5,10 +5,6 @@ description: 'Notify the user, upon successful logon, of the following additiona
   information: [Assignment: organization-defined additional information].'
 elementType: enhancement
 parent: ac-9
-guidance: Organizations can specify additional information to be provided to users
-  upon logon, including the location of the last logon. User location is defined as
-  information that can be determined by systems, such as Internet Protocol (IP) addresses
-  from which network logons occurred, notifications of local logons, or device identifiers.
 aliases:
 - AC-9(4)
 - AC-9 (4)

@@ -5,10 +5,6 @@ description: Employ automated tools and mechanisms to integrate intrusion detect
   tools and mechanisms into access control and flow control mechanisms.
 elementType: enhancement
 parent: si-4
-guidance: Using automated tools and mechanisms to integrate intrusion detection tools
-  and mechanisms into access and flow control mechanisms facilitates a rapid response
-  to attacks by enabling the reconfiguration of mechanisms in support of attack isolation
-  and elimination.
 aliases:
 - SI-4(3)
 - SI-4 (3)

@@ -1,0 +1,1 @@
+Audit records can be generated from many different system components. The event types specified inare the event types for which audit logs are to be generated and are a subset of all event types for which the system can generate audit records.

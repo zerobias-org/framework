@@ -6,11 +6,6 @@ description: 'Install [Assignment: organization-defined security-relevant softwa
   components].'
 elementType: enhancement
 parent: si-2
-guidance: Due to system integrity and availability concerns, organizations consider
-  the methodology used to carry out automatic updates. Organizations balance the need
-  to ensure that the updates are installed as soon as possible with the need to maintain
-  configuration management and control with any mission or operational impacts that
-  automatic updates might impose.
 aliases:
 - SI-2(5)
 - SI-2 (5)

@@ -5,10 +5,6 @@ description: Implements security functions as a layered structure that minimizes
   between layers and avoids dependence by lower layers on higher ones.
 elementType: enhancement
 parent: sc-3
-guidance: The implementation of layered structures with minimized interactions among
-  security functions and non-looping layers (i.e., lower-layer functions do not depend
-  on higher-layer functions) enables the isolation of security functions and the management
-  of complexity.
 aliases:
 - SC-3(5)
 - SC-3 (5)

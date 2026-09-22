@@ -5,10 +5,6 @@ description: Require the developer of the system, system component, or system se
   to provide a description of the functional properties of the controls to be implemented.
 elementType: enhancement
 parent: sa-4
-guidance: Functional properties of security and privacy controls describe the functionality
-  (i.e., security or privacy capability, functions, or mechanisms) visible at the
-  interfaces of the controls and specifically exclude functionality and data structures
-  internal to the operation of the controls.
 aliases:
 - SA-4(1)
 - SA-4 (1)

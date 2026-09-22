@@ -5,11 +5,6 @@ description: Inspect the maintenance tools used by maintenance personnel for imp
   or unauthorized modifications.
 elementType: enhancement
 parent: ma-3
-guidance: Maintenance tools can be directly brought into a facility by maintenance
-  personnel or downloaded from a vendor’s website. If, upon inspection of the maintenance
-  tools, organizations determine that the tools have been modified in an improper
-  manner or the tools contain malicious code, the incident is handled consistent with
-  organizational policies and procedures for incident handling.
 aliases:
 - MA-3(1)
 - MA-3 (1)

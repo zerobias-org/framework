@@ -5,12 +5,6 @@ description: 'Implement cryptographic mechanisms to [Selection (one or more): pr
   unauthorized disclosure of information; detect changes to information] during transmission.'
 elementType: enhancement
 parent: sc-8
-guidance: Encryption protects information from unauthorized disclosure and modification
-  during transmission. Cryptographic mechanisms that protect the confidentiality and
-  integrity of information during transmission include TLS and IPSec. Cryptographic
-  mechanisms used to protect information integrity include cryptographic hash functions
-  that have applications in digital signatures, checksums, and message authentication
-  codes.
 aliases:
 - SC-8(1)
 - SC-8 (1)

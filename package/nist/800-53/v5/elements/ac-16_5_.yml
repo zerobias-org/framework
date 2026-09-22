@@ -5,11 +5,6 @@ description: Displays security and privacy attributes in human-readable form on 
   sent to output devices, using standard naming conventions.
 elementType: enhancement
 parent: ac-16
-guidance: System outputs include printed pages, screens, or equivalent items. System
-  output devices include printers, notebook computers, video displays, smart phones,
-  and tablets. To mitigate the risk of unauthorized exposure of information (e.g.,
-  shoulder surfing), the outputs display full attribute values when unmasked by the
-  subscriber.
 aliases:
 - AC-16(5)
 - AC-16 (5)

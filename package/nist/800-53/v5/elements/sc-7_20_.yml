@@ -5,11 +5,6 @@ description: 'Provide the capability to dynamically isolate [Assignment: organiz
   system components] from other system components.'
 elementType: enhancement
 parent: sc-7
-guidance: The capability to dynamically isolate certain internal system components
-  is useful when it is necessary to partition or separate system components of questionable
-  origin from components that possess greater trustworthiness. Component isolation
-  reduces the attack surface of organizational systems. Isolating selected system
-  components can also limit the damage from successful attacks when such attacks occur.
 aliases:
 - SC-7(20)
 - SC-7 (20)

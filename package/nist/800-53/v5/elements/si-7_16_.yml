@@ -6,11 +6,6 @@ description: 'Prohibit processes from executing without supervision for more tha
   [Assignment: organization-defined time period].'
 elementType: enhancement
 parent: si-7
-guidance: Placing a time limit on process execution without supervision is intended
-  to apply to processes for which typical or normal execution periods can be determined
-  and situations in which organizations exceed such periods. Supervision includes
-  timers on operating systems, automated responses, and manual oversight and response
-  when system process anomalies occur.
 aliases:
 - SI-7(16)
 - SI-7 (16)

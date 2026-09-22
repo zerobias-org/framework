@@ -6,11 +6,6 @@ description: Conduct system backup by maintaining a redundant secondary system t
   of information or disruption to operations.
 elementType: enhancement
 parent: cp-9
-guidance: The effect of system backup can be achieved by maintaining a redundant secondary
-  system that mirrors the primary system, including the replication of information.
-  If this type of redundancy is in place and there is sufficient geographic separation
-  between the two systems, the secondary system can also serve as the alternate processing
-  site.
 aliases:
 - CP-9(6)
 - CP-9 (6)

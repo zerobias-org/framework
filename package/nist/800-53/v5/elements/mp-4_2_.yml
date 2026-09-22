@@ -5,8 +5,6 @@ description: 'Restrict access to media storage areas and log access attempts and
   granted using [Assignment: organization-defined automated mechanisms].'
 elementType: enhancement
 parent: mp-4
-guidance: Automated mechanisms include keypads, biometric readers, or card readers
-  on the external entries to media storage areas.
 aliases:
 - MP-4(2)
 - MP-4 (2)

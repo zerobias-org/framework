@@ -6,8 +6,6 @@ description: Provides the capability to restore system components within defined
   a known state.
 elementType: enhancement
 parent: cp-10
-guidance: Restoration of system components includes reimaging, which restores the
-  components to known, operational states.
 aliases:
 - CP-10(4)
 - CP-10 (4)

@@ -5,11 +5,6 @@ description: Authenticates devices before establishing a connection using crypto
   based bidirectional authentication.
 elementType: enhancement
 parent: ia-3
-guidance: A local connection is a connection with a device that communicates without
-  the use of a network. A network connection is a connection with a device that communicates
-  through a network. A remote connection is a connection with a device that communicates
-  through an external network. Bidirectional authentication provides stronger protection
-  to validate the identity of other devices for connections that are of greater risk.
 aliases:
 - IA-3(1)
 - IA-3 (1)

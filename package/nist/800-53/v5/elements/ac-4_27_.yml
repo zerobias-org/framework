@@ -6,12 +6,6 @@ description: When transferring information between different security domains, i
   for each data type.
 elementType: enhancement
 parent: ac-4
-guidance: Content filtering is the process of inspecting information as it traverses
-  a cross-domain solution and determines if the information meets a predefined policy.
-  Redundant and independent content filtering eliminates a single point of failure
-  filtering system. Independence is defined as the implementation of a content filter
-  that uses a different code base and supporting libraries (e.g., two JPEG filters
-  using different vendors’ JPEG libraries) and multiple, independent system processes.
 aliases:
 - AC-4(27)
 - AC-4 (27)

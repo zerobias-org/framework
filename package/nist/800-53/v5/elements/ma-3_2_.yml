@@ -5,9 +5,6 @@ description: Check media containing diagnostic and test programs for malicious c
   before the media are used in the system.
 elementType: enhancement
 parent: ma-3
-guidance: If, upon inspection of media containing maintenance, diagnostic, and test
-  programs, organizations determine that the media contains malicious code, the incident
-  is handled consistent with organizational incident handling policies and procedures.
 aliases:
 - MA-3(2)
 - MA-3 (2)

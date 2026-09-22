@@ -5,9 +5,6 @@ description: Provides a real-time alert to designated personnel when defined aud
   logging failure events occur.
 elementType: enhancement
 parent: au-5
-guidance: Alerts provide organizations with urgent messages. Real-time alerts provide
-  these messages at information technology speed (i.e., the time from event detection
-  to alert occurs in seconds or less).
 aliases:
 - AU-5(2)
 - AU-5 (2)

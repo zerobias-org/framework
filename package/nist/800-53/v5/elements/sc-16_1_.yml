@@ -4,10 +4,6 @@ name: Transmission of Security and Privacy Attributes | Integrity Verification
 description: Verify the integrity of transmitted security and privacy attributes.
 elementType: enhancement
 parent: sc-16
-guidance: Part of verifying the integrity of transmitted information is ensuring that
-  security and privacy attributes that are associated with such information have not
-  been modified in an unauthorized manner. Unauthorized modification of security or
-  privacy attributes can result in a loss of integrity for transmitted information.
 aliases:
 - SC-16(1)
 - SC-16 (1)

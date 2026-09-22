@@ -6,8 +6,6 @@ description: When shared accounts or authenticators are employed, require users 
   be individually authenticated before granting access to the shared accounts or resources.
 elementType: enhancement
 parent: ia-2
-guidance: Individual authentication prior to shared group authentication mitigates
-  the risk of using group accounts or authenticators.
 aliases:
 - IA-2(5)
 - IA-2 (5)

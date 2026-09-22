@@ -6,10 +6,6 @@ description: 'Attach data tags containing [Assignment: organization-defined auth
   information].'
 elementType: enhancement
 parent: pt-2
-guidance: Data tags support the tracking and enforcement of authorized processing
-  by conveying the types of processing that are authorized along with the relevant
-  elements of personally identifiable information throughout the system. Data tags
-  may also support the use of automated tools.
 aliases:
 - PT-2(1)
 - PT-2 (1)

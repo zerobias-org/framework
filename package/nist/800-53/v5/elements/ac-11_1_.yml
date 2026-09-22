@@ -5,10 +5,6 @@ description: Conceal, via the device lock, information previously visible on the
   with a publicly viewable image.
 elementType: enhancement
 parent: ac-11
-guidance: The pattern-hiding display can include static or dynamic images, such as
-  patterns used with screen savers, photographic images, solid colors, clock, battery
-  life indicator, or a blank screen with the caveat that controlled unclassified information
-  is not displayed.
 aliases:
 - AC-11(1)
 - AC-11 (1)

@@ -4,7 +4,6 @@ name: Access Restrictions for Change | Limit Library Privileges
 description: Limit privileges to change software resident within software libraries.
 elementType: enhancement
 parent: cm-5
-guidance: Software libraries include privileged programs.
 aliases:
 - CM-5(6)
 - CM-5 (6)

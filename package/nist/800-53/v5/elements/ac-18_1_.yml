@@ -5,10 +5,6 @@ description: 'Protect wireless access to the system using authentication of [Sel
   (one or more): users; devices] and encryption.'
 elementType: enhancement
 parent: ac-18
-guidance: Wireless networking capabilities represent a significant potential vulnerability
-  that can be exploited by adversaries. To protect systems with wireless access points,
-  strong authentication of users and devices along with strong encryption can reduce
-  susceptibility to threats by adversaries involving wireless technologies.
 aliases:
 - AC-18(1)
 - AC-18 (1)

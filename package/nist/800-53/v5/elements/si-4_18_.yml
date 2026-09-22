@@ -5,8 +5,6 @@ description: Analyzes outbound communications traffic at external interfaces and
   interior points to detect covert exfiltration of information.
 elementType: enhancement
 parent: si-4
-guidance: Organization-defined interior points include subnetworks and subsystems.
-  Covert means that can be used to exfiltrate information include steganography.
 aliases:
 - SI-4(18)
 - SI-4 (18)

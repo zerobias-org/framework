@@ -5,8 +5,6 @@ description: Uses automated mechanisms to determine whether system components ha
   applicable security-relevant updates installed, on a defined schedule.
 elementType: enhancement
 parent: si-2
-guidance: Automated mechanisms can track and determine the status of known flaws for
-  system components.
 aliases:
 - SI-2(2)
 - SI-2 (2)

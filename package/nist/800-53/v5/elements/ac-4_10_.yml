@@ -6,11 +6,6 @@ description: Lets privileged administrators enable and disable defined security 
   privacy policy filters under specified conditions.
 elementType: enhancement
 parent: ac-4
-guidance: For example, as allowed by the system authorization, administrators can
-  enable security or privacy policy filters to accommodate approved data types. Administrators
-  also have the capability to select the filters that are executed on a specific data
-  flow based on the type of data that is being transferred, the source and destination
-  security domains, and other security or privacy relevant features, as needed.
 aliases:
 - AC-4(10)
 - AC-4 (10)

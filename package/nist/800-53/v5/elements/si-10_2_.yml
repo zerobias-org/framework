@@ -5,10 +5,6 @@ description: 'Review and resolve input validation errors within [Assignment: org
   time period].'
 elementType: enhancement
 parent: si-10
-guidance: Resolution of input validation errors includes correcting systemic causes
-  of errors and resubmitting transactions with corrected input. Input validation errors
-  are those related to the information inputs defined by the organization in the base
-  control (SI-10).
 aliases:
 - SI-10(2)
 - SI-10 (2)

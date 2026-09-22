@@ -7,10 +7,6 @@ description: 'Block inbound and outbound communications traffic between [Assignm
   end users and external service providers.'
 elementType: enhancement
 parent: sc-7
-guidance: Communication clients independently configured by end users and external
-  service providers include instant messaging clients and video conferencing software
-  and applications. Traffic blocking does not apply to communication clients that
-  are configured by organizations to perform authorized functions.
 aliases:
 - SC-7(19)
 - SC-7 (19)

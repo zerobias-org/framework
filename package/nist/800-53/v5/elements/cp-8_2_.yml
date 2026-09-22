@@ -5,10 +5,6 @@ description: Obtain alternate telecommunications services to reduce the likeliho
   of sharing a single point of failure with primary telecommunications services.
 elementType: enhancement
 parent: cp-8
-guidance: In certain circumstances, telecommunications service providers or services
-  may share the same physical lines, which increases the vulnerability of a single
-  failure point. It is important to have provider transparency for the actual physical
-  transmission capability for telecommunication services.
 aliases:
 - CP-8(2)
 - CP-8 (2)

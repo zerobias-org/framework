@@ -5,10 +5,6 @@ description: 'Enforce and monitor compliance with software installation policies
   [Assignment: organization-defined automated mechanisms].'
 elementType: enhancement
 parent: cm-11
-guidance: Organizations enforce and monitor compliance with software installation
-  policies using automated mechanisms to more quickly detect and respond to unauthorized
-  software installation which can be an indicator of an internal or external hostile
-  attack.
 aliases:
 - CM-11(3)
 - CM-11 (3)

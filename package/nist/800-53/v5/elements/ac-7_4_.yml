@@ -5,9 +5,6 @@ description: Allows an alternate authentication factor after repeated invalid lo
   attempts, and limits consecutive invalid attempts using that factor.
 elementType: enhancement
 parent: ac-7
-guidance: The use of alternate authentication factors supports the objective of availability
-  and allows a user who has inadvertently been locked out to use additional authentication
-  factors to bypass the lockout.
 aliases:
 - AC-7(4)
 - AC-7 (4)

@@ -4,9 +4,6 @@ name: Incident Reporting | Automated Reporting
 description: 'Report incidents using [Assignment: organization-defined automated mechanisms].'
 elementType: enhancement
 parent: ir-6
-guidance: The recipients of incident reports are specified in. Automated reporting
-  mechanisms include email, posting on websites (with automatic updates), and automated
-  incident response tools and programs.
 aliases:
 - IR-6(1)
 - IR-6 (1)

@@ -5,9 +5,6 @@ description: 'Prevent or restrict changes to the configuration of the system und
   the following circumstances: [Assignment: organization-defined circumstances].'
 elementType: enhancement
 parent: cm-3
-guidance: System configuration changes can adversely affect critical system security
-  and privacy functionality. Change restrictions can be enforced through automated
-  mechanisms.
 aliases:
 - CM-3(8)
 - CM-3 (8)

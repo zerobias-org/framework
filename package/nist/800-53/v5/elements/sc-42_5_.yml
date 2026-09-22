@@ -5,11 +5,6 @@ description: 'Employ [Assignment: organization-defined sensors] that are configu
   to minimize the collection of information about individuals that is not needed.'
 elementType: enhancement
 parent: sc-42
-guidance: Although policies to control for authorized use can be applied to information
-  once it is collected, minimizing the collection of information that is not needed
-  mitigates privacy risk at the system entry point and mitigates the risk of policy
-  control failures. Sensor configurations include the obscuring of human features,
-  such as blurring or pixelating flesh tones.
 aliases:
 - SC-42(5)
 - SC-42 (5)

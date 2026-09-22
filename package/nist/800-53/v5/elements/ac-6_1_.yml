@@ -5,13 +5,6 @@ description: Authorizes specific individuals or roles to access defined security
   and security-relevant information.
 elementType: enhancement
 parent: ac-6
-guidance: Security functions include establishing system accounts, configuring access
-  authorizations (i.e., permissions, privileges), configuring settings for events
-  to be audited, and establishing intrusion detection parameters. Security-relevant
-  information includes filtering rules for routers or firewalls, configuration parameters
-  for security services, cryptographic key management information, and access control
-  lists. Authorized personnel include security administrators, system administrators,
-  system security officers, system programmers, and other privileged users.
 aliases:
 - AC-6(1)
 - AC-6 (1)

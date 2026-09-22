@@ -1,0 +1,1 @@
+The senior accountable official for risk management leads the risk executive (function) in organization-wide risk management activities.

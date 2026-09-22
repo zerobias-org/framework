@@ -5,9 +5,6 @@ description: 'Implement [Assignment: organization-defined host-based boundary pr
   mechanisms] at [Assignment: organization-defined system components].'
 elementType: enhancement
 parent: sc-7
-guidance: Host-based boundary protection mechanisms include host-based firewalls.
-  System components that employ host-based boundary protection mechanisms include
-  servers, workstations, notebook computers, and mobile devices.
 aliases:
 - SC-7(12)
 - SC-7 (12)

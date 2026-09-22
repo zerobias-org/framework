@@ -5,8 +5,6 @@ description: 'Prohibit the use of [Assignment: organization-defined network acce
   storage devices] in external systems.'
 elementType: enhancement
 parent: ac-20
-guidance: Network-accessible storage devices in external systems include online storage
-  devices in public, hybrid, or community cloud-based systems.
 aliases:
 - AC-20(4)
 - AC-20 (4)

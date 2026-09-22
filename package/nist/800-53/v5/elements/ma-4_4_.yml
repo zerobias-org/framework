@@ -5,7 +5,6 @@ description: Protects nonlocal maintenance sessions with replay-resistant authen
   and separates them from other network sessions physically or logically.
 elementType: enhancement
 parent: ma-4
-guidance: Communications paths can be logically separated using encryption.
 aliases:
 - MA-4(4)
 - MA-4 (4)

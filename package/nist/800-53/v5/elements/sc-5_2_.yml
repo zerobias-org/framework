@@ -5,9 +5,6 @@ description: Manage capacity, bandwidth, or other redundancy to limit the effect
   of information flooding denial-of-service attacks.
 elementType: enhancement
 parent: sc-5
-guidance: Managing capacity ensures that sufficient capacity is available to counter
-  flooding attacks. Managing capacity includes establishing selected usage priorities,
-  quotas, partitioning, or load balancing.
 aliases:
 - SC-5(2)
 - SC-5 (2)

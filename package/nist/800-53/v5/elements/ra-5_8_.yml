@@ -5,12 +5,6 @@ description: Reviews historic audit logs to determine whether an identified vuln
   was previously exploited within a defined time period.
 elementType: enhancement
 parent: ra-5
-guidance: Reviewing historic audit logs to determine if a recently detected vulnerability
-  in a system has been previously exploited by an adversary can provide important
-  information for forensic analyses. Such analyses can help identify, for example,
-  the extent of a previous intrusion, the trade craft employed during the attack,
-  organizational information exfiltrated or modified, mission or business capabilities
-  affected, and the duration of the attack.
 aliases:
 - RA-5(8)
 - RA-5 (8)

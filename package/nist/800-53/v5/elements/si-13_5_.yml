@@ -5,10 +5,6 @@ description: 'Provide [Selection: real-time; near real-time] [Assignment: organi
   failover capability] for the system.'
 elementType: enhancement
 parent: si-13
-guidance: Failover refers to the automatic switchover to an alternate system upon
-  the failure of the primary system. Failover capability includes incorporating mirrored
-  system operations at alternate processing sites or periodic data mirroring at regular
-  intervals defined by the recovery time periods of organizations.
 aliases:
 - SI-13(5)
 - SI-13 (5)

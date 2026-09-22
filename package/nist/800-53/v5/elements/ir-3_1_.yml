@@ -5,10 +5,6 @@ description: 'Test the incident response capability using [Assignment: organizat
   automated mechanisms].'
 elementType: enhancement
 parent: ir-3
-guidance: Organizations use automated mechanisms to more thoroughly and effectively
-  test incident response capabilities. This can be accomplished by providing more
-  complete coverage of incident response issues, selecting realistic test scenarios
-  and environments, and stressing the response capability.
 aliases:
 - IR-3(1)
 - IR-3 (1)

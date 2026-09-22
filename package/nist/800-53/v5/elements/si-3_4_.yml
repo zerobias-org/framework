@@ -5,9 +5,6 @@ description: Update malicious code protection mechanisms only when directed by a
   user.
 elementType: enhancement
 parent: si-3
-guidance: Protection mechanisms for malicious code are typically categorized as security-related
-  software and, as such, are only updated by organizational personnel with appropriate
-  access privileges.
 aliases:
 - SI-3(4)
 - SI-3 (4)

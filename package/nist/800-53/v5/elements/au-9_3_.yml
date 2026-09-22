@@ -5,10 +5,6 @@ description: Implement cryptographic mechanisms to protect the integrity of audi
   information and audit tools.
 elementType: enhancement
 parent: au-9
-guidance: Cryptographic mechanisms used for protecting the integrity of audit information
-  include signed hash functions using asymmetric cryptography. This enables the distribution
-  of the public key to verify the hash information while maintaining the confidentiality
-  of the secret key used to generate the hash.
 aliases:
 - AU-9(3)
 - AU-9 (3)

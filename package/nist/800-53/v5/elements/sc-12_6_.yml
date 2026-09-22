@@ -5,10 +5,6 @@ description: Maintain physical control of cryptographic keys when stored informa
   is encrypted by external service providers.
 elementType: enhancement
 parent: sc-12
-guidance: For organizations that use external service providers (e.g., cloud service
-  or data center providers), physical control of cryptographic keys provides additional
-  assurance that information stored by such external providers is not subject to unauthorized
-  disclosure or modification.
 aliases:
 - SC-12(6)
 - SC-12 (6)

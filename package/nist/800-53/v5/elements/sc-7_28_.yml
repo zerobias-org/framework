@@ -5,9 +5,6 @@ description: 'Prohibit the direct connection of [Assignment: organization-define
   system] to a public network.'
 elementType: enhancement
 parent: sc-7
-guidance: A direct connection is a dedicated physical or virtual connection between
-  two or more systems. A public network is a network accessible to the public, including
-  the Internet and organizational extranets with public access.
 aliases:
 - SC-7(28)
 - SC-7 (28)

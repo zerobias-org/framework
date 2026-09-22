@@ -5,11 +5,6 @@ description: 'Ensure that cryptographic mechanisms used to provide the following
   are under configuration management: [Assignment: organization-defined controls].'
 elementType: enhancement
 parent: cm-3
-guidance: The controls referenced in the control enhancement refer to security and
-  privacy controls from the control catalog. Regardless of the cryptographic mechanisms
-  employed, processes and procedures are in place to manage those mechanisms. For
-  example, if system components use certificates for identification and authentication,
-  a process is implemented to address the expiration of those certificates.
 aliases:
 - CM-3(6)
 - CM-3 (6)

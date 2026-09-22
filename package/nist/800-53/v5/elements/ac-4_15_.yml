@@ -5,9 +5,6 @@ description: Examines information transferred between security domains for unsan
   content and prohibits its transfer per policy.
 elementType: enhancement
 parent: ac-4
-guidance: Unsanctioned information includes malicious code, information that is inappropriate
-  for release from the source network, or executable code that could disrupt or harm
-  the services or systems on the destination network.
 aliases:
 - AC-4(15)
 - AC-4 (15)

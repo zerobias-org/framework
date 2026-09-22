@@ -5,10 +5,6 @@ description: Implement cryptographic mechanisms to protect the confidentiality a
   integrity of remote access sessions.
 elementType: enhancement
 parent: ac-17
-guidance: Virtual private networks can be used to protect the confidentiality and
-  integrity of remote access sessions. Transport Layer Security (TLS) is an example
-  of a cryptographic protocol that provides end-to-end communications security over
-  networks and is used for Internet communications and online transactions.
 aliases:
 - AC-17(2)
 - AC-17 (2)

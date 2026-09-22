@@ -5,6 +5,5 @@ description: Employs hardware-based write-protection for defined firmware compon
   with defined procedures to disable and re-enable it for authorized modifications.
 elementType: control
 parent: sc
-guidance: None.
 aliases:
 - SC-51

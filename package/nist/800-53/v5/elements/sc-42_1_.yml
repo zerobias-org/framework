@@ -6,9 +6,6 @@ description: 'Verify that the system is configured so that data or information c
   individuals or roles.'
 elementType: enhancement
 parent: sc-42
-guidance: In situations where sensors are activated by authorized individuals, it
-  is still possible that the data or information collected by the sensors will be
-  sent to unauthorized entities.
 aliases:
 - SC-42(1)
 - SC-42 (1)

@@ -5,13 +5,6 @@ description: Maintain exclusive control of cryptographic keys for encrypted mate
   stored or transmitted through an external system.
 elementType: enhancement
 parent: sa-9
-guidance: Maintaining exclusive control of cryptographic keys in an external system
-  prevents decryption of organizational data by external system staff. Organizational
-  control of cryptographic keys can be implemented by encrypting and decrypting data
-  inside the organization as data is sent to and received from the external system
-  or by employing a component that permits encryption and decryption functions to
-  be local to the external system but allows exclusive organizational access to the
-  encryption keys.
 aliases:
 - SA-9(6)
 - SA-9 (6)
