@@ -21,7 +21,7 @@ name: Gate
 
 on:
   pull_request:
-    paths: ['package/**']
+    paths: ['package/**', '.github/workflows/gate.yml']
   workflow_dispatch:
     inputs:
       pr:
