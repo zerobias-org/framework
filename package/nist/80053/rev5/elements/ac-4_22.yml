@@ -1,0 +1,10 @@
+id: 4bc6488d-14f9-556c-bbf1-574f91a917ce
+externalId: AC-4(22)
+name: Information Flow Enforcement | Access Only
+description: Provides single-device access to platforms, applications, or data across
+  multiple security domains while preventing information flow between them.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(22)
+- AC-4 (22)

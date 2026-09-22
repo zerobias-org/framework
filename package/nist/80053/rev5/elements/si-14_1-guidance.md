@@ -1,0 +1,1 @@
+Trusted sources include software and data from write-once, read-only media or from selected offline secure storage facilities.

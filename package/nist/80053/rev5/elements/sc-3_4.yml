@@ -1,0 +1,10 @@
+id: f0ac1038-29d3-5e77-beae-426f69b02170
+externalId: SC-3(4)
+name: Security Function Isolation | Module Coupling and Cohesiveness
+description: Implement security functions as largely independent modules that maximize
+  internal cohesiveness within modules and minimize coupling between modules.
+elementType: enhancement
+parent: sc-3
+aliases:
+- SC-3(4)
+- SC-3 (4)

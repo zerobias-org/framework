@@ -1,0 +1,3 @@
+- (a) Require primary and alternate telecommunications service providers to have contingency plans;
+- (b) Review provider contingency plans to ensure that the plans meet organizational contingency requirements; and
+- (c) Obtain evidence of contingency testing and training by providers [Assignment: organization-defined frequency].

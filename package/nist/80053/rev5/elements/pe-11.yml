@@ -1,0 +1,7 @@
+id: 4a8c02c3-44c3-5bb4-8130-4dbc51eb5910
+externalId: PE-11
+name: Emergency Power
+description: Provides an uninterruptible power supply to enable an orderly shutdown
+  or transition to alternate power upon loss of primary power.
+elementType: control
+parent: pe

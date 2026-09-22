@@ -1,0 +1,1 @@
+Issuing authenticators in person or by a trusted external party enhances and reinforces the trustworthiness of the identity proofing process.

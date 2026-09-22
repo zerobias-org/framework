@@ -1,0 +1,1 @@
+Invalidating session identifiers at logout curtails the ability of adversaries to capture and continue to employ previously valid session IDs.

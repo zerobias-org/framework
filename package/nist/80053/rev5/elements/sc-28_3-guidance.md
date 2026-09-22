@@ -1,0 +1,1 @@
+A Trusted Platform Module (TPM) is an example of a hardware-protected data store that can be used to protect cryptographic keys.

@@ -1,0 +1,1 @@
+It may be necessary to employ geolocation information to determine that the secondary authoritative time source is in a different geographic region.

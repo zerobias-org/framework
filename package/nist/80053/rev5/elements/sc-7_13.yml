@@ -1,0 +1,10 @@
+id: eb309399-ccd6-5346-be0d-ae3d0f934368
+externalId: SC-7(13)
+name: Boundary Protection | Isolation of Security Tools, Mechanisms, and Support Components
+description: Isolates defined security tools, mechanisms, and support components from
+  other system components using physically separate subnetworks with managed interfaces.
+elementType: enhancement
+parent: sc-7
+aliases:
+- SC-7(13)
+- SC-7 (13)

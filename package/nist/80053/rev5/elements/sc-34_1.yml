@@ -1,0 +1,10 @@
+id: 22aa6947-96b4-5c54-9db8-9990029df818
+externalId: SC-34(1)
+name: Non-modifiable Executable Programs | No Writable Storage
+description: 'Employ [Assignment: organization-defined system components] with no
+  writeable storage that is persistent across component restart or power on/off.'
+elementType: enhancement
+parent: sc-34
+aliases:
+- SC-34(1)
+- SC-34 (1)

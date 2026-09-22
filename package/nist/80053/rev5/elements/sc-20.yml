@@ -1,0 +1,9 @@
+id: 2bf31285-6aad-52af-bb0b-ca277e282618
+externalId: SC-20
+name: Secure Name/Address Resolution Service (Authoritative Source)
+description: Provides data origin authentication and integrity verification with authoritative
+  name resolution responses, and supports chain-of-trust verification between domains.
+elementType: control
+parent: sc
+aliases:
+- SC-20

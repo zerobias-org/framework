@@ -1,0 +1,9 @@
+id: 0673fb14-f84e-5d07-bdbb-a5ca3578313b
+externalId: SI-13
+name: Predictable Failure Prevention
+description: Determines mean time to failure for defined system components and provides
+  substitute components with a means to exchange active and standby units.
+elementType: control
+parent: si
+aliases:
+- SI-13

@@ -1,0 +1,10 @@
+id: 5abe47b5-41cc-51a2-8e2a-4e95eb6de30e
+externalId: SC-10
+name: Network Disconnect
+description: 'Terminate the network connection associated with a communications session
+  at the end of the session or after [Assignment: organization-defined time period]
+  of inactivity.'
+elementType: control
+parent: sc
+aliases:
+- SC-10

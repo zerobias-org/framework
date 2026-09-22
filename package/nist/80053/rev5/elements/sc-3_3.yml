@@ -1,0 +1,10 @@
+id: 06ec83d2-1479-5977-b76d-3e688789fae0
+externalId: SC-3(3)
+name: Security Function Isolation | Minimize Nonsecurity Functionality
+description: Minimize the number of nonsecurity functions included within the isolation
+  boundary containing security functions.
+elementType: enhancement
+parent: sc-3
+aliases:
+- SC-3(3)
+- SC-3 (3)

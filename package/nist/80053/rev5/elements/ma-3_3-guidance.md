@@ -1,0 +1,1 @@
+Organizational information includes all information owned by organizations and any information provided to organizations for which the organizations serve as information stewards.

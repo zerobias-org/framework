@@ -1,0 +1,2 @@
+- a. Require personnel to report suspected incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and
+- b. Report incident information to [Assignment: organization-defined authorities].

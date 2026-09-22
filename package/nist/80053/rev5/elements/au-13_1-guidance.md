@@ -1,0 +1,1 @@
+Automated mechanisms include commercial services that provide notifications and alerts to organizations and automated scripts to monitor new posts on websites.

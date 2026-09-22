@@ -1,0 +1,7 @@
+- (a) Prohibit the use of unclassified mobile devices in facilities containing systems processing, storing, or transmitting classified information unless specifically permitted by the authorizing official; and
+- (b) Enforce the following restrictions on individuals permitted by the authorizing official to use unclassified mobile devices in facilities containing systems processing, storing, or transmitting classified information:
+    - (1\) Connection of unclassified mobile devices to classified systems is prohibited;
+    - (2\) Connection of unclassified mobile devices to unclassified systems requires approval from the authorizing official;
+    - (3\) Use of internal or external modems or wireless interfaces within the unclassified mobile devices is prohibited; and
+    - (4\) Unclassified mobile devices and the information stored on those devices are subject to random reviews and inspections by [Assignment: organization-defined security officials], and if classified inform
+- (c) Restrict the connection of classified mobile devices to classified systems in accordance with [Assignment: organization-defined security policies].

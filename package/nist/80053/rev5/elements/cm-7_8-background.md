@@ -1,0 +1,2 @@
+- (a) Prohibit the use of binary or machine-executable code from sources with limited or no warranty or without the provision of source code; and
+- (b) Allow exceptions only for compelling mission or operational requirements and with the approval of the authorizing official.

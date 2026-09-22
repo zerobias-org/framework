@@ -1,0 +1,2 @@
+- (a) Employ fire suppression systems that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders]; and
+- (b) Employ an automatic fire suppression capability when the facility is not staffed on a continuous basis.

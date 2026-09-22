@@ -1,0 +1,9 @@
+id: f74f377d-fde0-5d15-866b-bd40e2ccfceb
+externalId: SC-31
+name: Covert Channel Analysis
+description: Performs a covert channel analysis to identify potential storage or timing
+  channels and estimates their maximum bandwidth.
+elementType: control
+parent: sc
+aliases:
+- SC-31

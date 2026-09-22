@@ -1,0 +1,10 @@
+id: 6ee042a6-0f17-5e3b-bec9-594826e09876
+externalId: CA-3(7)
+name: Information Exchange | Transitive Information Exchanges
+description: Identifies downstream information exchanges through approved connections
+  and ensures they cease when controls on those systems cannot be verified.
+elementType: enhancement
+parent: ca-3
+aliases:
+- CA-3(7)
+- CA-3 (7)

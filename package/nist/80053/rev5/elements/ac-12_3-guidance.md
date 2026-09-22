@@ -1,0 +1,1 @@
+To increase usability, notify users of pending session termination and prompt users to continue the session. The pending session termination time period is based on the parameters defined in thebase control.

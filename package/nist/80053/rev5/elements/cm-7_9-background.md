@@ -1,0 +1,3 @@
+- (a) Identify [Assignment: organization-defined hardware components authorized for system use];
+- (b) Prohibit the use or connection of unauthorized hardware components;
+- (c) Review and update the list of authorized hardware components [Assignment: organization-defined frequency].

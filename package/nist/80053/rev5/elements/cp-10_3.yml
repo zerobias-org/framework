@@ -1,0 +1,9 @@
+# Tombstone. Withdrawn in NIST's SP 800-53 catalog, so it is not carried as
+# live content. The file must stay: `deprecate: true` is what deletes the
+# record this package loaded in earlier versions.
+id: 2c8d16e3-3d4f-54f3-b2ce-fc80dccd5b79
+externalId: CP-10(3)
+name: Compensating Security Controls
+description: Withdrawn by NIST — addressed through tailoring.
+elementType: enhancement
+deprecate: true

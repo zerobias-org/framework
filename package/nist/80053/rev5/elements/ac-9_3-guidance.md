@@ -1,0 +1,1 @@
+Information about changes to security-related account characteristics within a specified time period allows users to recognize if changes were made without their knowledge.

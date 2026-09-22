@@ -1,0 +1,10 @@
+id: 4f76f5b8-646b-5c34-a248-cd4eb8f0322a
+externalId: SI-4(18)
+name: System Monitoring | Analyze Traffic and Covert Exfiltration
+description: Analyzes outbound communications traffic at external interfaces and defined
+  interior points to detect covert exfiltration of information.
+elementType: enhancement
+parent: si-4
+aliases:
+- SI-4(18)
+- SI-4 (18)

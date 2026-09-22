@@ -1,0 +1,2 @@
+- (a) [Selection: Refresh [Assignment: organization-defined information][Assignment: organization-defined frequency]; Generate [Assignment: organization-defined information] on demand]; and
+- (b) Delete information when no longer needed.

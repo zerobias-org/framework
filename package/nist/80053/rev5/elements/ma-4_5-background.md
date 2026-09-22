@@ -1,0 +1,2 @@
+- (a) Require the approval of each nonlocal maintenance session by [Assignment: organization-defined personnel or roles]; and
+- (b) Notify the following personnel or roles of the date and time of planned nonlocal maintenance: [Assignment: organization-defined personnel or roles].

@@ -1,0 +1,10 @@
+id: c6ea7385-a818-55bd-bbe5-19bcf53466ae
+externalId: IA-5(7)
+name: Authenticator Management | No Embedded Unencrypted Static Authenticators
+description: Ensure that unencrypted static authenticators are not embedded in applications
+  or other forms of static storage.
+elementType: enhancement
+parent: ia-5
+aliases:
+- IA-5(7)
+- IA-5 (7)

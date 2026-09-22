@@ -1,0 +1,10 @@
+id: fed70eba-3614-5e1a-869a-c549c7a27f79
+externalId: SC-3(2)
+name: Security Function Isolation | Access and Flow Control Functions
+description: Isolate security functions enforcing access and information flow control
+  from nonsecurity functions and from other security functions.
+elementType: enhancement
+parent: sc-3
+aliases:
+- SC-3(2)
+- SC-3 (2)

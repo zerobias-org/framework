@@ -1,0 +1,11 @@
+id: a81c4847-797f-5cc3-bf0c-b81a12d3e83a
+externalId: CM-7(6)
+name: Least Functionality | Confined Environments with Limited Privileges
+description: 'Require that the following user-installed software execute in a confined
+  physical or virtual machine environment with limited privileges: [Assignment: organization-defined
+  user-installed software].'
+elementType: enhancement
+parent: cm-7
+aliases:
+- CM-7(6)
+- CM-7 (6)

@@ -1,0 +1,10 @@
+id: 4d2a022b-f2d3-560d-bc98-0bb2ea21022a
+externalId: AC-4(8)
+name: Information Flow Enforcement | Security and Privacy Policy Filters
+description: Enforces information flow control using policy filters, and blocks, strips,
+  modifies, or quarantines data after a filter failure.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(8)
+- AC-4 (8)

@@ -1,0 +1,9 @@
+id: fbf198e1-5fb8-5352-b622-7d6d6a34404f
+externalId: SC-41
+name: Port and I/O Device Access
+description: Physically or logically disables or removes defined connection ports
+  or input/output devices on defined systems or components.
+elementType: control
+parent: sc
+aliases:
+- SC-41

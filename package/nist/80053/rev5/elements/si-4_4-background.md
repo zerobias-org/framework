@@ -1,0 +1,2 @@
+- (a) Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic;
+- (b) Monitor inbound and outbound communications traffic [Assignment: organization-defined frequency] for [Assignment: organization-defined unusual or unauthorized activities or conditions].

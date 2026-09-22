@@ -1,0 +1,11 @@
+id: d0707ca4-9e16-5d1d-8ecc-0f5a09cec4d9
+externalId: SC-7(9)
+name: Boundary Protection | Restrict Threatening Outgoing Communications Traffic
+description: (a) Detect and deny outgoing communications traffic posing a threat to
+  external systems; and (b) Audit the identity of internal users associated with denied
+  communications.
+elementType: enhancement
+parent: sc-7
+aliases:
+- SC-7(9)
+- SC-7 (9)

@@ -1,0 +1,10 @@
+id: 38652352-db70-5455-aa13-9365a60c5db3
+externalId: SC-7
+name: Boundary Protection
+description: Monitors and controls communications at managed interfaces, separates
+  publicly accessible components into subnetworks, and connects externally only through
+  managed interfaces.
+elementType: control
+parent: sc
+aliases:
+- SC-7

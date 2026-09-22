@@ -1,0 +1,11 @@
+id: 672d8ab1-d055-5220-a868-2ea84ba303c5
+externalId: AC-4(12)
+name: Information Flow Enforcement | Data Type Identifiers
+description: 'When transferring information between different security domains, use
+  [Assignment: organization-defined data type identifiers] to validate data essential
+  for information flow decisions.'
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(12)
+- AC-4 (12)

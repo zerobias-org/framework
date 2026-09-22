@@ -1,0 +1,9 @@
+id: 2683842a-a74f-5375-8263-5f4f6230d95e
+externalId: SI-15
+name: Information Output Filtering
+description: Validates information output from defined software programs or applications
+  to ensure it is consistent with expected content.
+elementType: control
+parent: si
+aliases:
+- SI-15

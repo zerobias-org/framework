@@ -1,0 +1,3 @@
+- a. Provide the capability of shutting off power to [Assignment: organization-defined system or individual system components] in emergency situations;
+- b. Place emergency shutoff switches or devices in [Assignment: organization-defined location by system or system component] to facilitate access for authorized personnel; and
+- c. Protect emergency power shutoff capability from unauthorized activation.

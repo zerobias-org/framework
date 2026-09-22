@@ -1,0 +1,4 @@
+- a. Determine and document the [Assignment: organization-defined alternate work sites] allowed for use by employees;
+- b. Employ the following controls at alternate work sites: [Assignment: organization-defined controls];
+- c. Assess the effectiveness of controls at alternate work sites; and
+- d. Provide a means for employees to communicate with information security and privacy personnel in case of incidents.

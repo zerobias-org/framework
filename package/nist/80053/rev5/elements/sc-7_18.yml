@@ -1,0 +1,10 @@
+id: 3ba7c950-6f53-5a30-9205-5c6ae22f9e64
+externalId: SC-7(18)
+name: Boundary Protection | Fail Secure
+description: Prevent systems from entering unsecure states in the event of an operational
+  failure of a boundary protection device.
+elementType: enhancement
+parent: sc-7
+aliases:
+- SC-7(18)
+- SC-7 (18)

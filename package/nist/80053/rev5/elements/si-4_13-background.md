@@ -1,0 +1,3 @@
+- (a) Analyze communications traffic and event patterns for the system;
+- (b) Develop profiles representing common traffic and event patterns; and
+- (c) Use the traffic and event profiles in tuning system-monitoring devices.

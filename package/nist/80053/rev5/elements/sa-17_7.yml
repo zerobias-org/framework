@@ -1,0 +1,12 @@
+id: 9449e927-bc66-5452-b5d5-198d5d27ebf1
+externalId: SA-17(7)
+name: Developer Security and Privacy Architecture and Design | Structure for Least
+  Privilege
+description: Require the developer of the system, system component, or system service
+  to structure security-relevant hardware, software, and firmware to facilitate controlling
+  access with least privilege.
+elementType: enhancement
+parent: sa-17
+aliases:
+- SA-17(7)
+- SA-17 (7)

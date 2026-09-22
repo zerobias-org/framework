@@ -1,0 +1,10 @@
+id: b34ed747-d552-5e77-9d67-87e07db34917
+externalId: AC-7(4)
+name: Unsuccessful Logon Attempts | Use of Alternate Authentication Factor
+description: Allows an alternate authentication factor after repeated invalid logon
+  attempts, and limits consecutive invalid attempts using that factor.
+elementType: enhancement
+parent: ac-7
+aliases:
+- AC-7(4)
+- AC-7 (4)

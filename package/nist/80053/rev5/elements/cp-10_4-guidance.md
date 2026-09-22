@@ -1,0 +1,1 @@
+Restoration of system components includes reimaging, which restores the components to known, operational states.

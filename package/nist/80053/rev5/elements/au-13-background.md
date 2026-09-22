@@ -1,0 +1,4 @@
+- a. Monitor [Assignment: organization-defined open-source information and/or information sites] [Assignment: organization-defined frequency] for evidence of unauthorized disclosure of organizational information; and
+- b. If an information disclosure is discovered:
+    - 1\. Notify [Assignment: organization-defined personnel or roles]; and
+    - 2\. Take the following additional actions: [Assignment: organization-defined additional actions].

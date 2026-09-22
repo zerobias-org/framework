@@ -1,0 +1,10 @@
+id: ba11c226-8b0c-5997-8890-66377ca5fe7a
+externalId: AC-9(1)
+name: Previous Logon Notification | Unsuccessful Logons
+description: Notify the user, upon successful logon, of the number of unsuccessful
+  logon attempts since the last successful logon.
+elementType: enhancement
+parent: ac-9
+aliases:
+- AC-9(1)
+- AC-9 (1)
