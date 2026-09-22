@@ -1,0 +1,9 @@
+id: 060aff55-2a0d-585c-9af8-f32da3f5b5b7
+externalId: SC-35
+name: External Malicious Code Identification
+description: Include system components that proactively seek to identify network-based
+  malicious code or malicious websites.
+elementType: control
+parent: sc
+aliases:
+- SC-35

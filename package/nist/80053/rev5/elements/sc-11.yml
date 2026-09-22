@@ -1,0 +1,9 @@
+id: 2345aa55-a290-5dff-99a9-0be50b4c77e3
+externalId: SC-11
+name: Trusted Path
+description: Provides an isolated trusted communications path between users and trusted
+  system components, usable for security functions including authentication.
+elementType: control
+parent: sc
+aliases:
+- SC-11

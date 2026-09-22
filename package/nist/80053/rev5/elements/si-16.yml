@@ -1,0 +1,9 @@
+id: 971748b2-f8bf-529e-b34d-3e4e3388360d
+externalId: SI-16
+name: Memory Protection
+description: 'Implement the following controls to protect the system memory from unauthorized
+  code execution: [Assignment: organization-defined controls].'
+elementType: control
+parent: si
+aliases:
+- SI-16

@@ -1,0 +1,10 @@
+id: 1cf6450d-8e47-51f7-9cb4-1497af52ae14
+externalId: SC-17
+name: Public Key Infrastructure Certificates
+description: Issues public key certificates under a defined policy or obtains them
+  from an approved provider, including only approved trust anchors in certificate
+  stores.
+elementType: control
+parent: sc
+aliases:
+- SC-17

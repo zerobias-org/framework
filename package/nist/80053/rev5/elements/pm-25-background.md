@@ -1,0 +1,4 @@
+- a. Develop, document, and implement policies and procedures that address the use of personally identifiable information for internal testing, training, and research;
+- b. Limit or minimize the amount of personally identifiable information used for internal testing, training, and research purposes;
+- c. Authorize the use of personally identifiable information when such information is required for internal testing, training, and research; and
+- d. Review and update policies and procedures [Assignment: organization-defined frequency].

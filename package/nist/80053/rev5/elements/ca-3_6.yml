@@ -1,0 +1,11 @@
+id: fec6da59-6e93-5be3-95ce-09231a9e74ff
+externalId: CA-3(6)
+name: Information Exchange | Transfer Authorizations
+description: Verify that individuals or systems transferring data between interconnecting
+  systems have the requisite authorizations (i.e., write permissions or privileges)
+  prior to accepting such data.
+elementType: enhancement
+parent: ca-3
+aliases:
+- CA-3(6)
+- CA-3 (6)

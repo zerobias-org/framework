@@ -1,0 +1,2 @@
+- (a) Employ the following tools and techniques to analyze the characteristics and behavior of malicious code: [Assignment: organization-defined tools and techniques]; and
+- (b) Incorporate the results from malicious code analysis into organizational incident response and flaw remediation processes.

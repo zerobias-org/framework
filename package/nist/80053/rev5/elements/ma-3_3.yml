@@ -1,0 +1,10 @@
+id: c1d1635c-4904-51ec-932b-740dce5f1a5d
+externalId: MA-3(3)
+name: Maintenance Tools | Prevent Unauthorized Removal
+description: Prevents removal of maintenance equipment containing organizational information
+  by verifying, sanitizing, retaining it, or obtaining an explicit exemption.
+elementType: enhancement
+parent: ma-3
+aliases:
+- MA-3(3)
+- MA-3 (3)

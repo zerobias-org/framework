@@ -1,0 +1,11 @@
+id: ddd6cb6b-927a-550f-aa3b-6b9562000151
+externalId: SI-13(3)
+name: Predictable Failure Prevention | Manual Transfer Between Components
+description: 'Manually initiate transfers between active and standby system components
+  when the use of the active component reaches [Assignment: organization-defined percentage]
+  of the mean time to failure.'
+elementType: enhancement
+parent: si-13
+aliases:
+- SI-13(3)
+- SI-13 (3)

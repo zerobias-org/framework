@@ -1,0 +1,1 @@
+System backup information can be transferred to alternate storage sites either electronically or by the physical shipment of storage media.

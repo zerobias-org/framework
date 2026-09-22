@@ -1,0 +1,10 @@
+id: 3cccae60-9a09-52ef-840d-7aba75b1454f
+externalId: AC-4(26)
+name: Information Flow Enforcement | Audit Filtering Actions
+description: When transferring information between different security domains, record
+  and audit content filtering actions and results for the information being filtered.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(26)
+- AC-4 (26)

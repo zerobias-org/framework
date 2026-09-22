@@ -1,0 +1,2 @@
+- (a) Test malicious code protection mechanisms [Assignment: organization-defined frequency] by introducing known benign code into the system; and
+- (b) Verify that the detection of the code and the associated incident reporting occur.

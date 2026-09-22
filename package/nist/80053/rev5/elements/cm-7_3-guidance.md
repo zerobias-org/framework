@@ -1,0 +1,1 @@
+Organizations use the registration process to manage, track, and provide oversight for systems and implemented functions, ports, protocols, and services.

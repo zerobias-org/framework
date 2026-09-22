@@ -1,0 +1,2 @@
+- a. Perform a covert channel analysis to identify those aspects of communications within the system that are potential avenues for covert [Selection (one or more): storage; timing] channels; and
+- b. Estimate the maximum bandwidth of those channels.

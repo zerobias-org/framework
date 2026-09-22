@@ -1,0 +1,10 @@
+id: 2ea913b0-718f-58e3-b36e-f67a767518e3
+externalId: SA-10(3)
+name: Developer Configuration Management | Hardware Integrity Verification
+description: Require the developer of the system, system component, or system service
+  to enable integrity verification of hardware components.
+elementType: enhancement
+parent: sa-10
+aliases:
+- SA-10(3)
+- SA-10 (3)

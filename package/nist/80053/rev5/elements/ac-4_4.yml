@@ -1,0 +1,10 @@
+id: 5ac310cd-a188-5de2-92e5-e9df8d965998
+externalId: AC-4(4)
+name: Information Flow Enforcement | Flow Control of Encrypted Information
+description: Prevents encrypted information from bypassing flow control mechanisms
+  by decrypting it, blocking it, or terminating the session.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(4)
+- AC-4 (4)

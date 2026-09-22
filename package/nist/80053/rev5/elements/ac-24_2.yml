@@ -1,0 +1,11 @@
+id: fb177c25-8f0d-5a78-bfd2-ccd9312a9197
+externalId: AC-24(2)
+name: Access Control Decisions | No User or Process Identity
+description: 'Enforce access control decisions based on [Assignment: organization-defined
+  security or privacy attributes] that do not include the identity of the user or
+  process acting on behalf of the user.'
+elementType: enhancement
+parent: ac-24
+aliases:
+- AC-24(2)
+- AC-24 (2)

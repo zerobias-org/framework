@@ -1,0 +1,1 @@
+The complete elimination of covert channels, especially covert timing channels, is usually not possible without significant performance impacts.

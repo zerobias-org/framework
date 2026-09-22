@@ -1,0 +1,9 @@
+id: 00d80018-1de1-5b63-9af1-0d13de501811
+externalId: SC-32
+name: System Partitioning
+description: Partitions the system into defined components residing in separate physical
+  or logical domains based on defined circumstances.
+elementType: control
+parent: sc
+aliases:
+- SC-32

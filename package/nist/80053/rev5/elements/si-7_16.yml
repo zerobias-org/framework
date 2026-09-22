@@ -1,0 +1,11 @@
+id: e347d4e8-2f2a-57f1-85dc-a7559c36be74
+externalId: SI-7(16)
+name: Software, Firmware, and Information Integrity | Time Limit on Process Execution
+  Without Supervision
+description: 'Prohibit processes from executing without supervision for more than
+  [Assignment: organization-defined time period].'
+elementType: enhancement
+parent: si-7
+aliases:
+- SI-7(16)
+- SI-7 (16)

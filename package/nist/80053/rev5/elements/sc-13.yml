@@ -1,0 +1,9 @@
+id: e7b210d8-9e88-5a93-8c67-29668028aaed
+externalId: SC-13
+name: Cryptographic Protection
+description: Determines required cryptographic uses and implements the defined types
+  of cryptography for each specified use.
+elementType: control
+parent: sc
+aliases:
+- SC-13

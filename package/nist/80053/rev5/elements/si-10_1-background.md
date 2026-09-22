@@ -1,0 +1,3 @@
+- (a) Provide a manual override capability for input validation of the following information inputs: [Assignment: organization-defined inputs defined in the base control (SI-10)];
+- (b) Restrict the use of the manual override capability to only [Assignment: organization-defined authorized individuals]; and
+- (c) Audit the use of the manual override capability.

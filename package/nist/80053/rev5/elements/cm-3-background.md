@@ -1,0 +1,7 @@
+- a. Determine and document the types of changes to the system that are configuration-controlled;
+- b. Review proposed configuration-controlled changes to the system and approve or disapprove such changes with explicit consideration for security and privacy impact analyses;
+- c. Document configuration change decisions associated with the system;
+- d. Implement approved configuration-controlled changes to the system;
+- e. Retain records of configuration-controlled changes to the system for [Assignment: organization-defined time period];
+- f. Monitor and review activities associated with configuration-controlled changes to the system; and
+- g. Coordinate and provide oversight for configuration change control activities through [Assignment: organization-defined configuration change control element] that convenes [Selection (one or more): [Assignment: organization-defined frequency]; when [Assignment: organization-defined configuration change conditions]].

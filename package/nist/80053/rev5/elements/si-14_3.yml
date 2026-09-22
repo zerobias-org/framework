@@ -1,0 +1,10 @@
+id: 95e5ac79-746f-5b1b-8f3e-6e217edd3705
+externalId: SI-14(3)
+name: Non-persistence | Non-persistent Connectivity
+description: 'Establish connections to the system on demand and terminate connections
+  after [Selection: completion of a request; a period of non-use].'
+elementType: enhancement
+parent: si-14
+aliases:
+- SI-14(3)
+- SI-14 (3)

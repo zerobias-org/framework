@@ -1,0 +1,1 @@
+The use of multiple processes to implement content filtering mechanisms reduces the likelihood of a single point of failure.

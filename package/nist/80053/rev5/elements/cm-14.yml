@@ -1,0 +1,7 @@
+id: edd7bdf3-8e32-53a1-9fbe-30748db347ed
+externalId: CM-14
+name: Signed Components
+description: Prevents installation of defined software and firmware components unless
+  digitally signed with an organization-approved certificate.
+elementType: control
+parent: cm

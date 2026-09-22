@@ -1,0 +1,4 @@
+- a. Establish and maintain a cyber threat hunting capability to:
+    - 1\. Search for indicators of compromise in organizational systems; and
+    - 2\. Detect, track, and disrupt threats that evade existing controls; and
+- b. Employ the threat hunting capability [Assignment: organization-defined frequency].

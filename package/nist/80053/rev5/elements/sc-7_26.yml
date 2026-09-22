@@ -1,0 +1,11 @@
+id: c3ed4e5f-84d9-5ebf-9399-9aeb2b48821f
+externalId: SC-7(26)
+name: Boundary Protection | Classified National Security System Connections
+description: 'Prohibit the direct connection of a classified national security system
+  to an external network without the use of [Assignment: organization-defined boundary
+  protection device].'
+elementType: enhancement
+parent: sc-7
+aliases:
+- SC-7(26)
+- SC-7 (26)

@@ -1,0 +1,9 @@
+id: f152dd15-5fbd-5378-b411-92ed0a2697f9
+externalId: SI-19
+name: De-identification
+description: Removes defined elements of personally identifiable information from
+  datasets and evaluates the effectiveness of that de-identification periodically.
+elementType: control
+parent: si
+aliases:
+- SI-19

@@ -1,0 +1,10 @@
+id: d481ea10-f6b0-52d4-8d85-a5b946585875
+externalId: SI-19(8)
+name: De-identification | Motivated Intruder
+description: Perform a motivated intruder test on the de-identified dataset to determine
+  if the identified data remains or if the de-identified data can be re-identified.
+elementType: enhancement
+parent: si-19
+aliases:
+- SI-19(8)
+- SI-19 (8)

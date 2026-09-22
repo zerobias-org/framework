@@ -1,0 +1,9 @@
+id: f31de71d-20ca-5d8a-9887-190078e055b6
+externalId: SC-5
+name: Denial-of-service Protection
+description: Protects against or limits the effects of defined denial-of-service event
+  types, employing defined controls for each event type.
+elementType: control
+parent: sc
+aliases:
+- SC-5

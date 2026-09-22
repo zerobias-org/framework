@@ -1,0 +1,10 @@
+id: cd32afb1-4bfa-5217-bf7a-6a0512a18d4a
+externalId: SI-3
+name: Malicious Code Protection
+description: Implements, updates, and configures malicious code protection at system
+  entry and exit points to scan, detect, and respond to malicious code, addressing
+  false positives.
+elementType: control
+parent: si
+aliases:
+- SI-3

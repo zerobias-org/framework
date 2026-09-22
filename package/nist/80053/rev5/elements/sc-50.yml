@@ -1,0 +1,9 @@
+id: 949ecb97-5d27-5610-a56e-ef7cb4555925
+externalId: SC-50
+name: Software-enforced Separation and Policy Enforcement
+description: 'Implement software-enforced separation and policy enforcement mechanisms
+  between [Assignment: organization-defined security domains].'
+elementType: control
+parent: sc
+aliases:
+- SC-50

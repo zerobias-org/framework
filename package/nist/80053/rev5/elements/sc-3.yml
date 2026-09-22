@@ -1,0 +1,8 @@
+id: 18edb976-f03a-5d86-97df-714ee7d6628a
+externalId: SC-3
+name: Security Function Isolation
+description: Isolate security functions from nonsecurity functions.
+elementType: control
+parent: sc
+aliases:
+- SC-3

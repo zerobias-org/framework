@@ -1,0 +1,31 @@
+id: 1a20780a-f555-5d19-91a1-923768cb6284
+name: NIST SP 800-53 Rev. 5 - Security and Privacy Controls for Information
+  Systems and Organizations
+externalId: NIST 800-53 R5
+description: >-
+  Security and privacy controls for information systems and organizations, NIST
+  SP 800-53 Revision 5 (patch release 5.1.1): 20 families, 298 controls and 709
+  control enhancements, with the low, moderate, high and privacy baselines from
+  SP 800-53B.
+code: nist_80053_rev5
+status: approved
+url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+version: Rev. 5
+external: true
+internal: false
+elementTypes:
+  - id: 4959dccc-c1cf-5f93-98df-51828a29d0af
+    code: family
+    name: Family
+    description: Control family
+  - id: 6e94f8f5-1715-535d-909d-b16f0fd1ed0f
+    code: control
+    name: Control
+    description: Control
+  - id: 241da882-6769-5dd7-b890-fd1f46a1f5c8
+    code: enhancement
+    name: Enhancement
+    description: Control enhancement
+mappingTypes:
+  - control
+  - enhancement

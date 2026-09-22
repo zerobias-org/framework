@@ -1,0 +1,11 @@
+id: c5f750c3-2149-5bc7-9815-81a765eec802
+externalId: SC-2(1)
+name: Separation of System and User Functionality | Interfaces for Non-privileged
+  Users
+description: Prevent the presentation of system management functionality at interfaces
+  to non-privileged users.
+elementType: enhancement
+parent: sc-2
+aliases:
+- SC-2(1)
+- SC-2 (1)

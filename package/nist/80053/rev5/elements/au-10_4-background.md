@@ -1,0 +1,2 @@
+- (a) Validate the binding of the information reviewer identity to the information at the transfer or release points prior to release or transfer between [Assignment: organization-defined security domains]; and
+- (b) Perform [Assignment: organization-defined actions] in the event of a validation error.

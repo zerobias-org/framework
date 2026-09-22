@@ -1,0 +1,8 @@
+id: 423fda32-a5bf-59cf-a674-7e61767d4d30
+externalId: SC-39
+name: Process Isolation
+description: Maintain a separate execution domain for each executing system process.
+elementType: control
+parent: sc
+aliases:
+- SC-39

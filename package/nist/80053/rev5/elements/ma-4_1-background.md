@@ -1,0 +1,2 @@
+- (a) Log [Assignment: organization-defined audit events] for nonlocal maintenance and diagnostic sessions; and
+- (b) Review the audit records of the maintenance and diagnostic sessions to detect anomalous behavior.

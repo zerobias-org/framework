@@ -1,0 +1,9 @@
+id: 27e98275-0ffb-5004-896f-aa76fb8ede19
+externalId: SC-51
+name: Hardware-based Protection
+description: Employs hardware-based write-protection for defined firmware components,
+  with defined procedures to disable and re-enable it for authorized modifications.
+elementType: control
+parent: sc
+aliases:
+- SC-51

@@ -1,0 +1,10 @@
+id: a5229959-c3e4-5799-bf2b-cc7a2d50b569
+externalId: SC-31(1)
+name: Covert Channel Analysis | Test Covert Channels for Exploitability
+description: Test a subset of the identified covert channels to determine the channels
+  that are exploitable.
+elementType: enhancement
+parent: sc-31
+aliases:
+- SC-31(1)
+- SC-31 (1)

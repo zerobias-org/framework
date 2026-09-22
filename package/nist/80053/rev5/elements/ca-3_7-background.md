@@ -1,0 +1,2 @@
+- (a) Identify transitive (downstream) information exchanges with other systems through the systems identified in CA-3a; and
+- (b) Take measures to ensure that transitive (downstream) information exchanges cease when the controls on identified transitive (downstream) systems cannot be verified or validated.

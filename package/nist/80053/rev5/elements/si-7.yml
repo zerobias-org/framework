@@ -1,0 +1,9 @@
+id: 658ed8fa-8861-5895-9f4f-89505a82e80d
+externalId: SI-7
+name: Software, Firmware, and Information Integrity
+description: Employs integrity verification tools to detect unauthorized changes to
+  defined software, firmware, and information, and takes defined action when detected.
+elementType: control
+parent: si
+aliases:
+- SI-7

@@ -1,0 +1,11 @@
+id: b74772f3-cc94-50c9-a97c-72965d6fc25d
+externalId: SC-7(4)
+name: Boundary Protection | External Telecommunications Services
+description: Implements a managed interface and traffic flow policy for each external
+  telecommunications service, protecting transmitted information and controlling exceptions
+  and control plane traffic.
+elementType: enhancement
+parent: sc-7
+aliases:
+- SC-7(4)
+- SC-7 (4)

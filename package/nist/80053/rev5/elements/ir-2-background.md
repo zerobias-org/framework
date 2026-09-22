@@ -1,0 +1,5 @@
+- a. Provide incident response training to system users consistent with assigned roles and responsibilities:
+    - 1\. Within [Assignment: organization-defined time period] of assuming an incident response role or responsibility or acquiring system access;
+    - 2\. When required by system changes; and
+    - 3\. [Assignment: organization-defined frequency] thereafter; and
+- b. Review and update incident response training content [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].

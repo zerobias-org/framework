@@ -1,0 +1,10 @@
+id: e6c8c52e-5511-5a71-9708-07b3f938cc21
+externalId: SI-5
+name: Security Alerts, Advisories, and Directives
+description: Receives and generates security alerts, advisories, and directives, disseminates
+  them to designated recipients, and implements directives within established time
+  frames.
+elementType: control
+parent: si
+aliases:
+- SI-5

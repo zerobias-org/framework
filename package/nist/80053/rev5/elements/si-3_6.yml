@@ -1,0 +1,10 @@
+id: 045ae746-65cc-560d-8a16-57d56e3ed548
+externalId: SI-3(6)
+name: Malicious Code Protection | Testing and Verification
+description: Tests malicious code protection mechanisms on a defined schedule using
+  known benign code, verifying detection and incident reporting.
+elementType: enhancement
+parent: si-3
+aliases:
+- SI-3(6)
+- SI-3 (6)

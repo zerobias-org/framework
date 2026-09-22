@@ -1,0 +1,10 @@
+id: ba27eb8e-2f1e-5f2f-9769-81ef6840e71a
+externalId: SI-7(1)
+name: Software, Firmware, and Information Integrity | Integrity Checks
+description: Performs an integrity check of defined software, firmware, and information
+  at startup, transitional states, or on a defined schedule.
+elementType: enhancement
+parent: si-7
+aliases:
+- SI-7(1)
+- SI-7 (1)

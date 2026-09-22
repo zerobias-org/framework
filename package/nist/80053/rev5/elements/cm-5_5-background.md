@@ -1,0 +1,2 @@
+- (a) Limit privileges to change system components and system-related information within a production or operational environment; and
+- (b) Review and reevaluate privileges [Assignment: organization-defined frequency].

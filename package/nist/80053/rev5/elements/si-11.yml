@@ -1,0 +1,9 @@
+id: 2184558b-cd48-5eb5-ab15-a1e7ad212a95
+externalId: SI-11
+name: Error Handling
+description: Generates error messages with information needed for corrective action
+  without revealing exploitable details, shown only to designated personnel.
+elementType: control
+parent: si
+aliases:
+- SI-11

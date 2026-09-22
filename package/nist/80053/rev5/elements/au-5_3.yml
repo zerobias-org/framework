@@ -1,0 +1,11 @@
+id: e5fde564-a1c4-5064-b54b-9ea8bdfbcc62
+externalId: AU-5(3)
+name: Response to Audit Logging Process Failures | Configurable Traffic Volume Thresholds
+description: 'Enforce configurable network communications traffic volume thresholds
+  reflecting limits on audit log storage capacity and [Selection: reject; delay] network
+  traffic above those thresholds.'
+elementType: enhancement
+parent: au-5
+aliases:
+- AU-5(3)
+- AU-5 (3)

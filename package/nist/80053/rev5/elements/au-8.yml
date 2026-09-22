@@ -1,0 +1,7 @@
+id: c94c38d1-5ecd-5e2d-a290-712c0dd200f7
+externalId: AU-8
+name: Time Stamps
+description: Uses internal system clocks to generate time stamps for audit records,
+  recorded with defined granularity and a Coordinated Universal Time reference.
+elementType: control
+parent: au

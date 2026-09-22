@@ -1,0 +1,2 @@
+- (a) Include organizational data ownership requirements in the acquisition contract; and
+- (b) Require all data to be removed from the contractor’s system and returned to the organization within [Assignment: organization-defined time frame].

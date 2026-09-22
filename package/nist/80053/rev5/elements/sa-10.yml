@@ -1,0 +1,9 @@
+id: d03f3287-b0f0-5424-b2ea-a786ccd85350
+externalId: SA-10
+name: Developer Configuration Management
+description: Requires the developer to perform configuration management, document
+  and control changes, implement only approved changes, and track and report flaws.
+elementType: control
+parent: sa
+aliases:
+- SA-10

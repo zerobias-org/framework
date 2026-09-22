@@ -1,0 +1,10 @@
+id: f943948d-545d-5272-8786-fa24b410ce60
+externalId: SC-21
+name: Secure Name/Address Resolution Service (Recursive or Caching Resolver)
+description: Request and perform data origin authentication and data integrity verification
+  on the name/address resolution responses the system receives from authoritative
+  sources.
+elementType: control
+parent: sc
+aliases:
+- SC-21

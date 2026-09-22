@@ -1,0 +1,2 @@
+- (a) Notify terminated individuals of applicable, legally binding post-employment requirements for the protection of organizational information; and
+- (b) Require terminated individuals to sign an acknowledgment of post-employment requirements as part of the organizational termination process.

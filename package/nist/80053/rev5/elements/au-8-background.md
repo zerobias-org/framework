@@ -1,0 +1,2 @@
+- a. Use internal system clocks to generate time stamps for audit records; and
+- b. Record time stamps for audit records that meet [Assignment: organization-defined granularity of time measurement] and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or that include the local time offset as part of the time stamp.

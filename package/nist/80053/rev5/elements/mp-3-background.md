@@ -1,0 +1,2 @@
+- a. Mark system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
+- b. Exempt [Assignment: organization-defined types of system media] from marking if the media remain within [Assignment: organization-defined controlled areas].

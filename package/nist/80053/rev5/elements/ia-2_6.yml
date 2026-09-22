@@ -1,0 +1,11 @@
+id: 989cc096-167d-5753-883c-42e2c3cad772
+externalId: IA-2(6)
+name: Identification and Authentication (Organizational Users) | Access to Accounts
+  —separate Device
+description: Implements multi-factor authentication for account access where one factor
+  is provided by a separate device meeting defined strength requirements.
+elementType: enhancement
+parent: ia-2
+aliases:
+- IA-2(6)
+- IA-2 (6)

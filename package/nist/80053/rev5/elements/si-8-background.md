@@ -1,0 +1,2 @@
+- a. Employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages; and
+- b. Update spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.

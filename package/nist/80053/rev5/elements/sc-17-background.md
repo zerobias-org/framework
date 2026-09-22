@@ -1,0 +1,2 @@
+- a. Issue public key certificates under an [Assignment: organization-defined certificate policy] or obtain public key certificates from an approved service provider; and
+- b. Include only approved trust anchors in trust stores or certificate stores managed by the organization.

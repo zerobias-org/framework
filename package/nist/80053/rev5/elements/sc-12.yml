@@ -1,0 +1,9 @@
+id: 0a75fb48-08f1-5920-b118-33a099b69e5a
+externalId: SC-12
+name: Cryptographic Key Establishment and Management
+description: Establishes and manages cryptographic keys according to defined requirements
+  for generation, distribution, storage, access, and destruction.
+elementType: control
+parent: sc
+aliases:
+- SC-12

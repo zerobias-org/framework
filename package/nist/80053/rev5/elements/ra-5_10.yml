@@ -1,0 +1,10 @@
+id: 2c757ad1-f68a-5b73-b597-7587b32c654e
+externalId: RA-5(10)
+name: Vulnerability Monitoring and Scanning | Correlate Scanning Information
+description: Correlate the output from vulnerability scanning tools to determine the
+  presence of multi-vulnerability and multi-hop attack vectors.
+elementType: enhancement
+parent: ra-5
+aliases:
+- RA-5(10)
+- RA-5 (10)

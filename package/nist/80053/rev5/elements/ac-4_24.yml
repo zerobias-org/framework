@@ -1,0 +1,11 @@
+id: 163374a1-a798-53d6-b34e-b20cf87c6a00
+externalId: AC-4(24)
+name: Information Flow Enforcement | Internal Normalized Format
+description: When transferring information between different security domains, parse
+  incoming data into an internal normalized format and regenerate the data to be consistent
+  with its intended specification.
+elementType: enhancement
+parent: ac-4
+aliases:
+- AC-4(24)
+- AC-4 (24)

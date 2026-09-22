@@ -1,0 +1,2 @@
+- a. Screen individuals prior to authorizing access to the system; and
+- b. Rescreen individuals in accordance with [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of rescreening].

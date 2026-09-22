@@ -1,0 +1,2 @@
+- (a) Authorize the execution of privileged commands and access to security-relevant information via remote access only in a format that provides assessable evidence and for the following needs: [Assignment: organization-defined needs]; and
+- (b) Document the rationale for remote access in the security plan for the system.

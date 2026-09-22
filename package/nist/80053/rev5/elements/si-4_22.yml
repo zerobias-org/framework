@@ -1,0 +1,10 @@
+id: db1641ad-3f68-5896-8765-df0c395c5086
+externalId: SI-4(22)
+name: System Monitoring | Unauthorized Network Services
+description: Detects unauthorized network services and audits or alerts designated
+  personnel when they are detected.
+elementType: enhancement
+parent: si-4
+aliases:
+- SI-4(22)
+- SI-4 (22)

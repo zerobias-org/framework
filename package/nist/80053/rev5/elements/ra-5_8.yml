@@ -1,0 +1,10 @@
+id: c29c956a-4324-5b6d-b896-f084dd431caa
+externalId: RA-5(8)
+name: Vulnerability Monitoring and Scanning | Review Historic Audit Logs
+description: Reviews historic audit logs to determine whether an identified vulnerability
+  was previously exploited within a defined time period.
+elementType: enhancement
+parent: ra-5
+aliases:
+- RA-5(8)
+- RA-5 (8)

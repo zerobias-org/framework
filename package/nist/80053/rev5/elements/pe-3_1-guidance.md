@@ -1,0 +1,1 @@
+Control of physical access to the system provides additional physical security for those areas within facilities where there is a concentration of system components.

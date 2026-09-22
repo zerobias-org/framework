@@ -1,0 +1,3 @@
+- a. Provide audit record generation capability for the event types the system is capable of auditing as defined in AU-2a on [Assignment: organization-defined system components];
+- b. Allow [Assignment: organization-defined personnel or roles] to select the event types that are to be logged by specific components of the system; and
+- c. Generate audit records for the event types defined in AU-2c that include the audit record content defined in AU-3.

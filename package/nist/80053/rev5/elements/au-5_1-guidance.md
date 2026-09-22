@@ -1,0 +1,1 @@
+Organizations may have multiple audit log storage repositories distributed across multiple system components with each repository having different storage volume capacities.

@@ -1,0 +1,5 @@
+- a. Develop and document access agreements for organizational systems;
+- b. Review and update the access agreements [Assignment: organization-defined frequency]; and
+- c. Verify that individuals requiring access to organizational information and systems:
+    - 1\. Sign appropriate access agreements prior to being granted access; and
+    - 2\. Re-sign access agreements to maintain access to organizational systems when access agreements have been updated or [Assignment: organization-defined frequency].

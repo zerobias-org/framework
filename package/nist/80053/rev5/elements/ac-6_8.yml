@@ -1,0 +1,10 @@
+id: 5012d20a-00de-5f03-b507-aa96ee3df42d
+externalId: AC-6(8)
+name: Least Privilege | Privilege Levels for Code Execution
+description: 'Prevent the following software from executing at higher privilege levels
+  than users executing the software: [Assignment: organization-defined software].'
+elementType: enhancement
+parent: ac-6
+aliases:
+- AC-6(8)
+- AC-6 (8)

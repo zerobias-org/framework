@@ -1,0 +1,10 @@
+id: 8f2fdc70-4129-52e3-9af3-8bdf4d9d5ab1
+externalId: AC-6(2)
+name: Least Privilege | Non-privileged Access for Nonsecurity Functions
+description: Requires users with access to security functions to use non-privileged
+  accounts when performing nonsecurity functions.
+elementType: enhancement
+parent: ac-6
+aliases:
+- AC-6(2)
+- AC-6 (2)

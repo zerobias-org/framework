@@ -1,0 +1,11 @@
+id: 8423ea91-ed9f-51be-b4dd-83856595290c
+externalId: IA-5(1)
+name: Authenticator Management | Password-based Authentication
+description: Enforces password-based authentication requirements, including checks
+  against compromised-password lists, protected transmission and storage, and complexity
+  rules.
+elementType: enhancement
+parent: ia-5
+aliases:
+- IA-5(1)
+- IA-5 (1)

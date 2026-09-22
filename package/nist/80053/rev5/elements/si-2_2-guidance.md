@@ -1,0 +1,1 @@
+Automated mechanisms can track and determine the status of known flaws for system components.

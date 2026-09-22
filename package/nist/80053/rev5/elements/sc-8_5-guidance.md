@@ -1,0 +1,1 @@
+The purpose of a protected distribution system is to deter, detect, and/or make difficult physical access to the communication lines that carry national security information.
