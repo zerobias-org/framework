@@ -1,0 +1,10 @@
+id: d47fbcc6-7cef-5a15-8947-d8ad5dd9c60c
+name: Integrity Protection / Read-only Media
+description: The organization protects the integrity of information prior to storage on read-only media and controls the media after such information has been recorded onto the media.
+elementType: enhancement
+externalId: SC-34 (2)
+guidance: Security safeguards prevent the substitution of media into information systems or the reprogramming of programmable read-only media prior to installation into the systems. Security safeguards include, for example, a combination of prevention, detection, and response.
+parent: sc-34
+aliases:
+  - SC-34 (2)
+  - SC-34(2)

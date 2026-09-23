@@ -1,0 +1,10 @@
+id: 57db5a97-4651-5d8b-a030-73ddd92b10ad
+name: Allowed Certificate Authorities
+description: "The information system only allows the use of [Assignment: organization-defined certificate authorities] for verification of the establishment of protected sessions."
+elementType: enhancement
+externalId: SC-23 (5)
+guidance: Reliance on certificate authorities (CAs) for the establishment of secure sessions includes, for example, the use of Secure Socket Layer (SSL) and/or Transport Layer Security (TLS) certificates. These certificates, after verification by the respective certificate authorities, facilitate the establishment of protected sessions between web clients and web servers.
+parent: sc-23
+aliases:
+  - SC-23 (5)
+  - SC-23(5)

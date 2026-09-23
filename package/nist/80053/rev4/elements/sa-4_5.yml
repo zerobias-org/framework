@@ -1,0 +1,13 @@
+id: 962ca0bc-144f-54b8-a1e1-bd5f87054a11
+name: System / Component / Service Configurations
+description: |-
+  The organization requires the developer of the information system, system component, or information system service to:
+    (a) Deliver the system, component, or service with [Assignment: organization-defined security configurations] implemented; and
+    (b) Use the configurations as the default for any subsequent system, component, or service reinstallation or upgrade.
+elementType: enhancement
+externalId: SA-4 (5)
+guidance: Security configurations include, for example, the U.S. Government Configuration Baseline (USGCB) and any limitations on functions, ports, protocols, and services. Security characteristics include, for example, requiring that all default passwords have been changed.
+parent: sa-4
+aliases:
+  - SA-4 (5)
+  - SA-4(5)

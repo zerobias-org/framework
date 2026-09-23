@@ -1,0 +1,13 @@
+id: a677beb0-d3d4-58d0-a213-cc84428ea090
+name: Independent Verification Of Assessment Plans / Evidence
+description: |-
+  The organization:
+    (a) Requires an independent agent satisfying [Assignment: organization-defined independence criteria] to verify the correct implementation of the developer security assessment plan and the evidence produced during security testing/evaluation; and
+    (b) Ensures that the independent agent is either provided with sufficient information to complete the verification process or granted the authority to obtain such information.
+elementType: enhancement
+externalId: SA-11 (3)
+guidance: Independent agents have the necessary qualifications (i.e., expertise, skills, training, and experience) to verify the correct implementation of developer security assessment plans.
+parent: sa-11
+aliases:
+  - SA-11 (3)
+  - SA-11(3)

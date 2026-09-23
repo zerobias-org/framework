@@ -1,0 +1,10 @@
+id: 1afe8841-8118-5fc5-842e-be39bbf48316
+name: Dual Authorization
+description: "The organization enforces dual authorization for the deletion or destruction of [Assignment: organization-defined backup information]."
+elementType: enhancement
+externalId: CP-9 (7)
+guidance: Dual authorization ensures that the deletion or destruction of backup information cannot occur unless two qualified individuals carry out the task. Individuals deleting/destroying backup information possess sufficient skills/expertise to determine if the proposed deletion/destruction of backup information reflects organizational policies and procedures. Dual authorization may also be known as two-person control.
+parent: cp-9
+aliases:
+  - CP-9 (7)
+  - CP-9(7)

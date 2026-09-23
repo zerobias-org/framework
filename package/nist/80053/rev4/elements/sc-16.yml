@@ -1,0 +1,7 @@
+id: a6e09027-c5b4-52a3-a741-456950575d20
+name: Transmission Of Security Attributes
+description: 'The information system associates [Assignment: organization-defined security attributes] with information exchanged between information systems and between system components.'
+elementType: control
+externalId: SC-16
+guidance: Security attributes can be explicitly or implicitly associated with the information contained in organizational information systems or system components.
+parent: sc

@@ -1,0 +1,10 @@
+id: ebc3c1ed-0f9b-58cc-a926-6a42bc240d0e
+name: Security Compliance Checks
+description: The information system performs security compliance checks on constituent system components prior to the establishment of the internal connection.
+elementType: enhancement
+externalId: CA-9 (1)
+guidance: Security compliance checks may include, for example, verification of the relevant baseline configuration.
+parent: ca-9
+aliases:
+  - CA-9 (1)
+  - CA-9(1)

@@ -1,0 +1,10 @@
+id: 05634689-b1a3-5164-9081-937e9e6cfccf
+name: Review / Timing Interactions
+description: The organization accounts for timing interactions among information system components in determining appropriate responses for invalid inputs.
+elementType: enhancement
+externalId: SI-10 (4)
+guidance: In addressing invalid information system inputs received across protocol interfaces, timing interactions become relevant, where one protocol needs to consider the impact of the error response on other protocols within the protocol stack. For example, 802.11 standard wireless network protocols do not interact well with Transmission Control Protocols (TCP) when packets are dropped (which could be due to invalid packet input). TCP assumes packet losses are due to congestion, while packets lost over 802.11 links are typically dropped due to collisions or noise on the link. If TCP makes a congestion response, it takes precisely the wrong action in response to a collision event. Adversaries may be able to use apparently acceptable individual behaviors of the protocols in concert to achieve adverse effects through suitable construction of invalid input.
+parent: si-10
+aliases:
+  - SI-10 (4)
+  - SI-10(4)

@@ -1,0 +1,13 @@
+id: b885c8c7-c6de-517a-aa5c-4c74c3299390
+name: Dynamic Address Allocation
+description: |-
+  The organization:
+    (a) Standardizes dynamic address allocation lease information and the lease duration assigned to devices in accordance with [Assignment: organization-defined lease information and lease duration]; and
+    (b) Audits lease information when assigned to a device.
+elementType: enhancement
+externalId: IA-3 (3)
+guidance: DHCP-enabled clients obtaining leases for IP addresses from DHCP servers, is a typical example of dynamic address allocation for devices.
+parent: ia-3
+aliases:
+  - IA-3 (3)
+  - IA-3(3)

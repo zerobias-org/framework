@@ -1,0 +1,7 @@
+id: 261e6b73-8833-5309-bf4b-9916a8f81cbd
+name: Distributed Processing and Storage
+description: 'The organization distributes [Assignment: organization-defined processing and storage] across multiple physical locations.'
+elementType: control
+externalId: SC-36
+guidance: Distributing processing and storage across multiple physical locations provides some degree of redundancy or overlap for organizations, and therefore increases the work factor of adversaries to adversely impact organizational operations, assets, and individuals. This control does not assume a single primary processing or storage location, and thus allows for parallel processing and storage.
+parent: sc

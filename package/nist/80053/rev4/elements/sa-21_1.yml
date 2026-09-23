@@ -1,0 +1,10 @@
+id: b0c1c010-b7a0-5113-9a5e-f276090bfcab
+name: Validation Of Screening
+description: "The organization requires the developer of the information system, system component, or information system service take [Assignment: organization-defined actions] to ensure that the required access authorizations and screening criteria are satisfied."
+elementType: enhancement
+externalId: SA-21 (1)
+guidance: Satisfying required access authorizations and personnel screening criteria includes, for example, providing a listing of all the individuals authorized to perform development activities on the selected information system, system component, or information system service so that organizations can validate that the developer has satisfied the necessary authorization and screening requirements.
+parent: sa-21
+aliases:
+  - SA-21 (1)
+  - SA-21(1)

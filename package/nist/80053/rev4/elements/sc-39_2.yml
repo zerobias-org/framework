@@ -1,0 +1,9 @@
+id: c78508c0-36a4-566a-9c82-40a3fc85c8f2
+name: Thread Isolation
+description: "The information system maintains a separate execution domain for each thread in [Assignment: organization-defined multi-threaded processing]."
+elementType: enhancement
+externalId: SC-39 (2)
+parent: sc-39
+aliases:
+  - SC-39 (2)
+  - SC-39(2)

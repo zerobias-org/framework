@@ -1,0 +1,10 @@
+id: dfb13116-3b86-582f-9f73-a31b4165c4e6
+name: Respond To Unauthorized Changes
+description: "The organization employs [Assignment: organization-defined security safeguards] to respond to unauthorized changes to [Assignment: organization-defined configuration settings]."
+elementType: enhancement
+externalId: CM-6 (2)
+guidance: Responses to unauthorized changes to configuration settings can include, for example, alerting designated organizational personnel, restoring established configuration settings, or in extreme cases, halting affected information system processing.
+parent: cm-6
+aliases:
+  - CM-6 (2)
+  - CM-6(2)

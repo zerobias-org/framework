@@ -1,0 +1,13 @@
+id: b9045c71-1a38-5b9b-9d94-53709508670f
+name: Account Monitoring / Atypical Usage
+description: |-
+  The organization:
+    (a) Monitors information system accounts for [Assignment: organization-defined atypical usage]; and
+    (b) Reports atypical usage of information system accounts to [Assignment: organization-defined personnel or roles].
+elementType: enhancement
+externalId: AC-2 (12)
+guidance: Atypical usage includes, for example, accessing information systems at certain times of the day and from locations that are not consistent with the normal usage patterns of individuals working in organizations.
+parent: ac-2
+aliases:
+  - AC-2 (12)
+  - AC-2(12)

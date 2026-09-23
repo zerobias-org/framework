@@ -1,0 +1,10 @@
+id: 4d85a208-7ff8-5abf-8cf7-618603a69df7
+name: Visibility Of Encrypted Communications
+description: "The organization makes provisions so that [Assignment: organization-defined encrypted communications traffic] is visible to [Assignment: organization-defined information system monitoring tools]."
+elementType: enhancement
+externalId: SI-4 (10)
+guidance: Organizations balance the potentially conflicting needs for encrypting communications traffic and for having insight into such traffic from a monitoring perspective. For some organizations, the need to ensure the confidentiality of communications traffic is paramount; for others, mission-assurance is of greater concern. Organizations determine whether the visibility requirement applies to internal encrypted traffic, encrypted traffic intended for external destinations, or a subset of the traffic types.
+parent: si-4
+aliases:
+  - SI-4 (10)
+  - SI-4(10)

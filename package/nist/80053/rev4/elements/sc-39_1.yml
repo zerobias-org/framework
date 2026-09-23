@@ -1,0 +1,10 @@
+id: 3288d695-c6dc-5e59-aa44-23c7bfcd86c7
+name: Hardware Separation
+description: The information system implements underlying hardware separation mechanisms to facilitate process separation.
+elementType: enhancement
+externalId: SC-39 (1)
+guidance: Hardware-based separation of information system processes is generally less susceptible to compromise than software-based separation, thus providing greater assurance that the separation will be enforced. Underlying hardware separation mechanisms include, for example, hardware memory management.
+parent: sc-39
+aliases:
+  - SC-39 (1)
+  - SC-39(1)

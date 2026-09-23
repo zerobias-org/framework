@@ -1,0 +1,10 @@
+id: 78a0b449-1436-54a5-b2d3-57af9f4e0a76
+name: Network Accessible Storage Devices
+description: "The organization prohibits the use of [Assignment: organization-defined network accessible storage devices] in external information systems."
+elementType: enhancement
+externalId: AC-20 (4)
+guidance: Network accessible storage devices in external information systems include, for example, online storage devices in public, hybrid, or community cloud-based systems.
+parent: ac-20
+aliases:
+  - AC-20 (4)
+  - AC-20(4)

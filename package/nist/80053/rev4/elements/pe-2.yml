@@ -1,0 +1,12 @@
+id: d19d0730-9612-5656-afb0-b40c7a2108ae
+name: Physical Access Authorizations
+description: |-
+  The organization:
+    a. Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;
+    b. Issues authorization credentials for facility access;
+    c. Reviews the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; and
+    d. Removes individuals from the facility access list when access is no longer required.
+elementType: control
+externalId: PE-2
+guidance: This control applies to organizational employees and visitors. Individuals (e.g., employees, contractors, and others) with permanent physical access authorization credentials are not considered visitors. Authorization credentials include, for example, badges, identification cards, and smart cards. Organizations determine the strength of authorization credentials needed (including level of forge-proof badges, smart cards, or identification cards) consistent with federal standards, policies, and procedures. This control only applies to areas within facilities that have not been designated as publicly accessible.
+parent: pe

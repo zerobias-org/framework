@@ -1,0 +1,10 @@
+id: f9847802-beb3-5dd9-9dc6-612cc60ff330
+name: Network Access To Privileged Accounts - Replay Resistant
+description: The information system implements replay-resistant authentication mechanisms for network access to privileged accounts.
+elementType: enhancement
+externalId: IA-2 (8)
+guidance: Authentication processes resist replay attacks if it is impractical to achieve successful authentications by replaying previous authentication messages. Replay-resistant techniques include, for example, protocols that use nonces or challenges such as Transport Layer Security (TLS) and time synchronous or challenge-response one-time authenticators.
+parent: ia-2
+aliases:
+  - IA-2 (8)
+  - IA-2(8)

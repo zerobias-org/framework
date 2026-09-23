@@ -1,0 +1,10 @@
+id: cf55d8af-f1cc-575a-b954-4220048e8c61
+name: Wireless Access
+description: |-
+  The organization:
+    a. Establishes usage restrictions, configuration/connection requirements, and implementation guidance for wireless access; and
+    b. Authorizes wireless access to the information system prior to allowing such connections.
+elementType: control
+externalId: AC-18
+guidance: Wireless technologies include, for example, microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth. Wireless networks use authentication protocols (e.g., EAP/TLS, PEAP), which provide credential protection and mutual authentication.
+parent: ac

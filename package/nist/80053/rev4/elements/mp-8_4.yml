@@ -1,0 +1,10 @@
+id: f9a2a58f-1dfa-5216-9d27-789e1ba14e65
+name: Classified Information
+description: The organization downgrades information system media containing classified information prior to release to individuals without required access authorizations in accordance with NSA standards and policies.
+elementType: enhancement
+externalId: MP-8 (4)
+guidance: Downgrading of classified information uses approved sanitization tools, techniques, and procedures to transfer information confirmed to be unclassified from classified information systems to unclassified media.
+parent: mp-8
+aliases:
+  - MP-8 (4)
+  - MP-8(4)

@@ -1,0 +1,10 @@
+id: 329fc415-5a4f-5a0a-a406-d7d9df7b709b
+name: Temperature and Humidity Controls
+description: |-
+  The organization:
+    a. Maintains temperature and humidity levels within the facility where the information system resides at [Assignment: organization-defined acceptable levels]; and
+    b. Monitors temperature and humidity levels [Assignment: organization-defined frequency].
+elementType: control
+externalId: PE-14
+guidance: This control applies primarily to facilities containing concentrations of information system resources, for example, data centers, server rooms, and mainframe computer rooms.
+parent: pe

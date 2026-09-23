@@ -1,0 +1,22 @@
+source: NIST
+package: nist.csf.v1_1
+description: Cybersecurity Framework (CSF)
+url: https://www.nist.gov/cyberframework
+id: f5be85f1-e9e7-416e-b6b5-b2e6a21e56e3
+ownerId: 00000000-0000-0000-0000-000000000000
+created: 2025-01-14T19:04:31.718Z
+updated: 2025-01-14T19:04:31.718Z
+status: approved
+name: NIST CSF V1_1
+externalId: NIST CSF
+code: nist_csf_v1_1
+external: true
+internal: true
+elementTypes:
+  - id: 1eee0b8a-e63a-47a6-a211-d1459c2e8cfd
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
+type: framework

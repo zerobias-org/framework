@@ -1,0 +1,10 @@
+id: be1ef3a5-1601-55bd-b99d-eade3c89bef7
+name: Usage Restrictions
+description: |-
+  The organization:
+    a. Establishes usage restrictions and implementation guidance for [Assignment: organization-defined information system components] based on the potential to cause damage to the information system if used maliciously; and
+    b. Authorizes, monitors, and controls the use of such components within the information system.
+elementType: control
+externalId: SC-43
+guidance: Information system components include hardware, software, or firmware components (e.g., Voice Over Internet Protocol, mobile code, digital copiers, printers, scanners, optical devices, wireless technologies, mobile devices).
+parent: sc

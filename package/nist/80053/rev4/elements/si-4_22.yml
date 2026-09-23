@@ -1,0 +1,10 @@
+id: 67e52064-ba10-5d10-8f23-bc2e4460d518
+name: Unauthorized Network Services
+description: "The information system detects network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes] and [Selection (one or more): audits; alerts [Assignment: organization-defined personnel or roles]]."
+elementType: enhancement
+externalId: SI-4 (22)
+guidance: Unauthorized or unapproved network services include, for example, services in service-oriented architectures that lack organizational verification or validation and therefore may be unreliable or serve as malicious rogues for valid services.
+parent: si-4
+aliases:
+  - SI-4 (22)
+  - SI-4(22)

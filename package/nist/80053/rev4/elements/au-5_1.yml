@@ -1,0 +1,10 @@
+id: f1b6fbef-8142-5a0b-95a7-c9f221527b20
+name: Audit Storage Capacity
+description: "The information system provides a warning to [Assignment: organization-defined personnel, roles, and/or locations] within [Assignment: organization-defined time period] when allocated audit record storage volume reaches [Assignment: organization-defined percentage] of repository maximum audit record storage capacity."
+elementType: enhancement
+externalId: AU-5 (1)
+guidance: Organizations may have multiple audit data storage repositories distributed across multiple information system components, with each repository having different storage volume capacities.
+parent: au-5
+aliases:
+  - AU-5 (1)
+  - AU-5(1)

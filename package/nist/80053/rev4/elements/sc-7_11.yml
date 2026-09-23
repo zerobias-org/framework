@@ -1,0 +1,10 @@
+id: 129e55aa-2e2d-5eb6-aac2-2cc378f0ce4d
+name: Restrict Incoming Communications Traffic
+description: "The information system only allows incoming communications from [Assignment: organization-defined authorized sources] to be routed to [Assignment: organization-defined authorized destinations]."
+elementType: enhancement
+externalId: SC-7 (11)
+guidance: This control enhancement provides determinations that source and destination address pairs represent authorized/allowed communications. Such determinations can be based on several factors including, for example, the presence of source/destination address pairs in lists of authorized/allowed communications, the absence of address pairs in lists of unauthorized/disallowed pairs, or meeting more general rules for authorized/allowed source/destination pairs.
+parent: sc-7
+aliases:
+  - SC-7 (11)
+  - SC-7(11)

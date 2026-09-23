@@ -1,0 +1,10 @@
+id: 749c1375-25d2-5da2-aa66-83144c000a6e
+name: Attack Surface Reviews
+description: The organization requires the developer of the information system, system component, or information system service to perform attack surface reviews.
+elementType: enhancement
+externalId: SA-11 (6)
+guidance: "Attack surfaces of information systems are exposed areas that make those systems more vulnerable to cyber attacks. This includes any accessible areas where weaknesses or deficiencies in information systems (including the hardware, software, and firmware components) provide opportunities for adversaries to exploit vulnerabilities. Attack surface reviews ensure that developers: (i) analyze both design and implementation changes to information systems; and (ii) mitigate attack vectors generated as a result of the changes. Correction of identified flaws includes, for example, deprecation of unsafe functions."
+parent: sa-11
+aliases:
+  - SA-11 (6)
+  - SA-11(6)

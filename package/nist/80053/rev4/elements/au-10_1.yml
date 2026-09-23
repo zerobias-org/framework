@@ -1,0 +1,13 @@
+id: 56c9e9f5-67ca-5f2e-8bb1-c09efca23160
+name: Association Of Identities
+description: |-
+  The information system:
+    (a) Binds the identity of the information producer with the information to [Assignment: organization-defined strength of binding]; and
+    (b) Provides the means for authorized individuals to determine the identity of the producer of the information.
+elementType: enhancement
+externalId: AU-10 (1)
+guidance: This control enhancement supports audit requirements that provide organizational personnel with the means to identify who produced specific information in the event of an information transfer. Organizations determine and approve the strength of the binding between the information producer and the information based on the security category of the information and relevant risk factors.
+parent: au-10
+aliases:
+  - AU-10 (1)
+  - AU-10(1)

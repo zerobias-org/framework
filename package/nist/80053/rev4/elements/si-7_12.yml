@@ -1,0 +1,10 @@
+id: 2009840a-ca14-5c74-853d-8c676c923a81
+name: Integrity Verification
+description: "The organization requires that the integrity of [Assignment: organization-defined user-installed software] be verified prior to execution."
+elementType: enhancement
+externalId: SI-7 (12)
+guidance: Organizations verify the integrity of user-installed software prior to execution to reduce the likelihood of executing malicious code or code that contains errors from unauthorized modifications. Organizations consider the practicality of approaches to verifying software integrity including, for example, availability of checksums of adequate trustworthiness from software developers or vendors.
+parent: si-7
+aliases:
+  - SI-7 (12)
+  - SI-7(12)

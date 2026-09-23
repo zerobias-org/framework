@@ -1,0 +1,7 @@
+id: 00037afd-556f-5a95-b378-861bfdea37c4
+name: Service Identification and Authentication
+description: 'The organization identifies and authenticates [Assignment: organization-defined information system services] using [Assignment: organization-defined security safeguards].'
+elementType: control
+externalId: IA-9
+guidance: This control supports service-oriented architectures and other distributed architectural approaches requiring the identification and authentication of information system services. In such architectures, external services often appear dynamically. Therefore, information systems should be able to determine in a dynamic manner, if external providers and associated services are authentic. Safeguards implemented by organizational information systems to validate provider and service authenticity include, for example, information or code signing, provenance graphs, and/or electronic signatures indicating or including the sources of services.
+parent: ia

@@ -1,0 +1,10 @@
+id: 945a397f-aef1-5fcd-824e-2db74324af97
+name: Approved Solutions
+description: "The organization employs [Assignment: organization-defined solutions in approved configurations] to control the flow of [Assignment: organization-defined information] across security domains."
+elementType: enhancement
+externalId: AC-4 (20)
+guidance: Organizations define approved solutions and configurations in cross-domain policies and guidance in accordance with the types of information flows across classification boundaries. The Unified Cross Domain Management Office (UCDMO) provides a baseline listing of approved cross-domain solutions.
+parent: ac-4
+aliases:
+  - AC-4 (20)
+  - AC-4(20)

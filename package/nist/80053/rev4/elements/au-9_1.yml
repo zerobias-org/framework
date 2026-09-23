@@ -1,0 +1,10 @@
+id: c4bacf26-3769-572f-8bea-6da22a052a6c
+name: Hardware Write-once Media
+description: The information system writes audit trails to hardware-enforced, write-once media.
+elementType: enhancement
+externalId: AU-9 (1)
+guidance: This control enhancement applies to the initial generation of audit trails (i.e., the collection of audit records that represents the audit information to be used for detection, analysis, and reporting purposes) and to the backup of those audit trails. The enhancement does not apply to the initial generation of audit records prior to being written to an audit trail. Write-once, read-many (WORM) media includes, for example, Compact Disk-Recordable (CD-R) and Digital Video Disk-Recordable (DVD-R). In contrast, the use of switchable write-protection media such as on tape cartridges or Universal Serial Bus (USB) drives results in write-protected, but not write-once, media.
+parent: au-9
+aliases:
+  - AU-9 (1)
+  - AU-9(1)

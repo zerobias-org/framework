@@ -1,0 +1,10 @@
+id: 211ed5a1-0678-5dcd-aeae-46b15a076c04
+name: Security Tracking Tools
+description: The organization requires the developer of the information system, system component, or information system service to select and employ a security tracking tool for use during the development process.
+elementType: enhancement
+externalId: SA-15 (2)
+guidance: Information system development teams select and deploy security tracking tools, including, for example, vulnerability/work item tracking systems that facilitate assignment, sorting, filtering, and tracking of completed work items or tasks associated with system development processes.
+parent: sa-15
+aliases:
+  - SA-15 (2)
+  - SA-15(2)

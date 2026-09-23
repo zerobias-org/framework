@@ -1,0 +1,10 @@
+id: 1e356c69-350d-5c11-814c-15a0ffb93d68
+name: Configurable Traffic Volume Thresholds
+description: "The information system enforces configurable network communications traffic volume thresholds reflecting limits on auditing capacity and [Selection: rejects; delays] network traffic above those thresholds."
+elementType: enhancement
+externalId: AU-5 (3)
+guidance: Organizations have the capability to reject or delay the processing of network communications traffic if auditing such traffic is determined to exceed the storage capacity of the information system audit function. The rejection or delay response is triggered by the established organizational traffic volume thresholds which can be adjusted based on changes to audit storage capacity.
+parent: au-5
+aliases:
+  - AU-5 (3)
+  - AU-5(3)

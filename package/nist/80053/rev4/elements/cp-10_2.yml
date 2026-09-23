@@ -1,0 +1,10 @@
+id: ffe4cd48-ecba-59ee-9417-9d20a033dab0
+name: Transaction Recovery
+description: The information system implements transaction recovery for systems that are transaction-based.
+elementType: enhancement
+externalId: CP-10 (2)
+guidance: Transaction-based information systems include, for example, database management systems and transaction processing systems. Mechanisms supporting transaction recovery include, for example, transaction rollback and transaction journaling.
+parent: cp-10
+aliases:
+  - CP-10 (2)
+  - CP-10(2)

@@ -1,0 +1,7 @@
+id: 929b5e0e-8ffe-5b3a-ab1e-15d3b0029024
+name: Session Authenticity
+description: The information system protects the authenticity of communications sessions.
+elementType: control
+externalId: SC-23
+guidance: This control addresses communications protection at the session, versus packet level (e.g., sessions in service-oriented architectures providing web-based services) and establishes grounds for confidence at both ends of communications sessions in ongoing identities of other parties and in the validity of information transmitted. Authenticity protection includes, for example, protecting against man-in-the-middle attacks/session hijacking and the insertion of false information into sessions.
+parent: sc

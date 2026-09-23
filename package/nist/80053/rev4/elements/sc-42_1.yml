@@ -1,0 +1,10 @@
+id: f7bfdf7e-1627-5925-9741-f80e09f3bdb7
+name: Reporting To Authorized Individuals Or Roles
+description: "The organization ensures that the information system is configured so that data or information collected by the [Assignment: organization-defined sensors] is only reported to authorized individuals or roles."
+elementType: enhancement
+externalId: SC-42 (1)
+guidance: In situations where sensors are activated by authorized individuals (e.g., end users), it is still possible that the data/information collected by the sensors will be sent to unauthorized entities.
+parent: sc-42
+aliases:
+  - SC-42 (1)
+  - SC-42(1)
