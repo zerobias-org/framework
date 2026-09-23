@@ -1,0 +1,10 @@
+id: c003f503-3dd2-5696-baf8-6a27c64717bf
+name: Locate / Remove / Redact / Anonymize PII
+description: "The organization, where feasible and within the limits of technology, locates and removes/redacts specified PII and/or uses anonymization and de-identification techniques to permit use of the retained information while reducing its sensitivity and reducing the risk resulting from disclosure."
+elementType: enhancement
+externalId: DM-1 (1)
+guidance: "NIST Special Publication 800-122 provides guidance on anonymization"
+parent: dm-1
+aliases:
+  - DM-1 (1)
+  - DM-1(1)

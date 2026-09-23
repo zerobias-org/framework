@@ -1,0 +1,10 @@
+id: 98b338c3-5233-50e5-a611-5be27cdab0e7
+name: Redundant Cabling
+description: "The organization employs redundant power cabling paths that are physically separated by [Assignment: organization-defined distance]."
+elementType: enhancement
+externalId: PE-9 (1)
+guidance: Physically separate, redundant power cables help to ensure that power continues to flow in the event one of the cables is cut or otherwise damaged.
+parent: pe-9
+aliases:
+  - PE-9 (1)
+  - PE-9(1)

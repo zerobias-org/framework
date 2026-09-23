@@ -1,0 +1,22 @@
+source: NIST
+package: nist.800_39.v1
+description: SP 800-39 - Managing Information Security Risk
+url: https://csrc.nist.gov/publications/detail/sp/800-39/final
+id: ec7641c5-1fae-41ba-93e7-b7a66db3d806
+ownerId: 00000000-0000-0000-0000-000000000000
+created: 2025-01-14T19:04:31.718Z
+updated: 2025-01-14T19:04:31.718Z
+status: approved
+name: NIST 800_39 V1
+externalId: NIST 800-39
+code: nist_800_39_v1
+external: true
+internal: true
+elementTypes:
+  - id: 50c42f10-e1a2-4bc7-9c7a-393de6ec57b2
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
+type: framework

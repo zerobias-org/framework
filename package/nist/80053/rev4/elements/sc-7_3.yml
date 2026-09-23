@@ -1,0 +1,10 @@
+id: 73a92086-4a9e-5562-a30b-f05b556870ce
+name: Access Points
+description: The organization limits the number of external network connections to the information system.
+elementType: enhancement
+externalId: SC-7 (3)
+guidance: Limiting the number of external network connections facilitates more comprehensive monitoring of inbound and outbound communications traffic. The Trusted Internet Connection (TIC) initiative is an example of limiting the number of external network connections.
+parent: sc-7
+aliases:
+  - SC-7 (3)
+  - SC-7(3)

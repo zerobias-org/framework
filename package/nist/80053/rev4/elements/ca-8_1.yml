@@ -1,0 +1,10 @@
+id: 9a67d52e-db50-53ad-914b-838e97de8907
+name: Independent Penetration Agent Or Team
+description: The organization employs an independent penetration agent or penetration team to perform penetration testing on the information system or system components.
+elementType: enhancement
+externalId: CA-8 (1)
+guidance: Independent penetration agents or teams are individuals or groups who conduct impartial penetration testing of organizational information systems. Impartiality implies that penetration agents or teams are free from any perceived or actual conflicts of interest with regard to the development, operation, or management of the information systems that are the targets of the penetration testing. Supplemental guidance for CA-2 (1) provides additional information regarding independent assessments that can be applied to penetration testing.
+parent: ca-8
+aliases:
+  - CA-8 (1)
+  - CA-8(1)

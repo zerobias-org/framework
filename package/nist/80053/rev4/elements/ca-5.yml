@@ -1,0 +1,10 @@
+id: 758b527d-accf-5595-837a-52aeff3845c5
+name: Plan Of Action and Milestones
+description: |-
+  The organization:
+    a. Develops a plan of action and milestones for the information system to document the organization's planned remedial actions to correct weaknesses or deficiencies noted during the assessment of the security controls and to reduce or eliminate known vulnerabilities in the system; and
+    b. Updates existing plan of action and milestones [Assignment: organization-defined frequency] based on the findings from security controls assessments, security impact analyses, and continuous monitoring activities.
+elementType: control
+externalId: CA-5
+guidance: Plans of action and milestones are key documents in security authorization packages and are subject to federal reporting requirements established by OMB.
+parent: ca

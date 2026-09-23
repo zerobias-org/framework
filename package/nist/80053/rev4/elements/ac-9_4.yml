@@ -1,0 +1,10 @@
+id: b9d41348-1a1e-5f43-8c45-a9b0bf6e3872
+name: Additional Logon Information
+description: "The information system notifies the user, upon successful logon (access), of the following additional information: [Assignment: organization-defined information to be included in addition to the date and time of the last logon (access)]."
+elementType: enhancement
+externalId: AC-9 (4)
+guidance: This control enhancement permits organizations to specify additional information to be provided to users upon logon including, for example, the location of last logon. User location is defined as that information which can be determined by information systems, for example, IP addresses from which network logons occurred, device identifiers, or notifications of local logons.
+parent: ac-9
+aliases:
+  - AC-9 (4)
+  - AC-9(4)

@@ -1,0 +1,10 @@
+id: e28dada8-4d47-5b97-b95f-9b676fef7591
+name: Real-time Alerts
+description: "The information system provides an alert in [Assignment: organization-defined real-time period] to [Assignment: organization-defined personnel, roles, and/or locations] when the following audit failure events occur: [Assignment: organization-defined audit failure events requiring real-time alerts]."
+elementType: enhancement
+externalId: AU-5 (2)
+guidance: Alerts provide organizations with urgent messages. Real-time alerts provide these messages at information technology speed (i.e., the time from event detection to alert occurs in seconds or less).
+parent: au-5
+aliases:
+  - AU-5 (2)
+  - AU-5(2)

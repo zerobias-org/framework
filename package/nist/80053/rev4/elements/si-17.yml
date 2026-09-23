@@ -1,0 +1,7 @@
+id: 4aac63e4-b4ae-50e6-91ca-5cbb0396ed02
+name: Fail-safe Procedures
+description: 'The information system implements [Assignment: organization-defined fail-safe procedures] when [Assignment: organization-defined failure conditions occur].'
+elementType: control
+externalId: SI-17
+guidance: Failure conditions include, for example, loss of communications among critical system components or between system components and operational facilities. Fail-safe procedures include, for example, alerting operator personnel and providing specific instructions on subsequent steps to take (e.g., do nothing, reestablish system settings, shut down processes, restart the system, or contact designated organizational personnel).
+parent: si

@@ -1,0 +1,13 @@
+id: 16fce224-dcc0-5675-ad81-bbb603be359b
+name: Periodic Review
+description: |-
+  The organization:
+    (a) Reviews the information system [Assignment: organization-defined frequency] to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and
+    (b) Disables [Assignment: organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure].
+elementType: enhancement
+externalId: CM-7 (1)
+guidance: The organization can either make a determination of the relative security of the function, port, protocol, and/or service or base the security decision on the assessment of other entities. Bluetooth, FTP, and peer-to-peer networking are examples of less than secure protocols.
+parent: cm-7
+aliases:
+  - CM-7 (1)
+  - CM-7(1)

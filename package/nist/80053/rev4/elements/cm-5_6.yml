@@ -1,0 +1,10 @@
+id: dda27e08-2b5e-5b50-931b-1752975c935e
+name: Limit Library Privileges
+description: The organization limits privileges to change software resident within software libraries.
+elementType: enhancement
+externalId: CM-5 (6)
+guidance: Software libraries include privileged programs.
+parent: cm-5
+aliases:
+  - CM-5 (6)
+  - CM-5(6)

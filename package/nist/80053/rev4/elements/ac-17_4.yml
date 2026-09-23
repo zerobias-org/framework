@@ -1,0 +1,12 @@
+id: 13f8375c-6607-5604-b0b2-0d4b5ab7d9bb
+name: Privileged Commands / Access
+description: |-
+  The organization:
+    (a) Authorizes the execution of privileged commands and access to security-relevant information via remote access only for [Assignment: organization-defined needs]; and
+    (b) Documents the rationale for such access in the security plan for the information system.
+elementType: enhancement
+externalId: AC-17 (4)
+parent: ac-17
+aliases:
+  - AC-17 (4)
+  - AC-17(4)

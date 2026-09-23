@@ -1,0 +1,10 @@
+id: d2a4c1ed-a89e-5b89-8557-eca283e82aa7
+name: Data Type Identifiers
+description: "The information system, when transferring information between different security domains, uses [Assignment: organization-defined data type identifiers] to validate data essential for information flow decisions."
+elementType: enhancement
+externalId: AC-4 (12)
+guidance: Data type identifiers include, for example, filenames, file types, file signatures/tokens, and multiple internal file signatures/tokens. Information systems may allow transfer of data only if compliant with data type format specifications.
+parent: ac-4
+aliases:
+  - AC-4 (12)
+  - AC-4(12)

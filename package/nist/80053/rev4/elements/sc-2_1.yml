@@ -1,0 +1,10 @@
+id: fadaee96-4c32-5ace-ba64-fa86ddc7fd62
+name: Interfaces For Non-privileged Users
+description: The information system prevents the presentation of information system management-related functionality at an interface for non-privileged users.
+elementType: enhancement
+externalId: SC-2 (1)
+guidance: This control enhancement ensures that administration options (e.g., administrator privileges) are not available to general users (including prohibiting the use of the grey-out option commonly used to eliminate accessibility to such information). Such restrictions include, for example, not presenting administration options until users establish sessions with administrator privileges.
+parent: sc-2
+aliases:
+  - SC-2 (1)
+  - SC-2(1)

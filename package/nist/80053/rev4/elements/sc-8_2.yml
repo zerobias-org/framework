@@ -1,0 +1,10 @@
+id: f160e16f-058d-5790-a764-90ddcffdacfd
+name: Pre / Post Transmission Handling
+description: "The information system maintains the [Selection (one or more): confidentiality; integrity] of information during preparation for transmission and during reception."
+elementType: enhancement
+externalId: SC-8 (2)
+guidance: Information can be either unintentionally or maliciously disclosed or modified during preparation for transmission or during reception including, for example, during aggregation, at protocol transformation points, and during packing/unpacking. These unauthorized disclosures or modifications compromise the confidentiality or integrity of the information.
+parent: sc-8
+aliases:
+  - SC-8 (2)
+  - SC-8(2)

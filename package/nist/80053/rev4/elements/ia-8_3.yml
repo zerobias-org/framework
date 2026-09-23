@@ -1,0 +1,10 @@
+id: 86ad2cad-a117-51fd-8a76-a31ac2553ca9
+name: Use Of Ficam-approved Products
+description: "The organization employs only FICAM-approved information system components in [Assignment: organization-defined information systems] to accept third-party credentials."
+elementType: enhancement
+externalId: IA-8 (3)
+guidance: This control enhancement typically applies to information systems that are accessible to the general public, for example, public-facing websites. FICAM-approved information system components include, for example, information technology products and software libraries that have been approved by the Federal Identity, Credential, and Access Management conformance program.
+parent: ia-8
+aliases:
+  - IA-8 (3)
+  - IA-8(3)

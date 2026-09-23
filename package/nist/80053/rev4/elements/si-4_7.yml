@@ -1,0 +1,10 @@
+id: 4004e8af-a71c-5f0a-8583-5a2430ae0d2c
+name: Automated Response To Suspicious Events
+description: "The information system notifies [Assignment: organization-defined incident response personnel (identified by name and/or by role)] of detected suspicious events and takes [Assignment: organization-defined least-disruptive actions to terminate suspicious events]."
+elementType: enhancement
+externalId: SI-4 (7)
+guidance: Least-disruptive actions may include, for example, initiating requests for human responses.
+parent: si-4
+aliases:
+  - SI-4 (7)
+  - SI-4(7)

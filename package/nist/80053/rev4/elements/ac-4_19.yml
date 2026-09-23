@@ -1,0 +1,10 @@
+id: f24a906a-5bb3-5930-a240-cb42f5f5a61b
+name: Validation Of Metadata
+description: The information system, when transferring information between different security domains, applies the same security policy filtering to metadata as it applies to data payloads.
+elementType: enhancement
+externalId: AC-4 (19)
+guidance: This control enhancement requires the validation of metadata and the data to which the metadata applies. Some organizations distinguish between metadata and data payloads (i.e., only the data to which the metadata is bound). Other organizations do not make such distinctions, considering metadata and the data to which the metadata applies as part of the payload. All information (including metadata and the data to which the metadata applies) is subject to filtering and inspection.
+parent: ac-4
+aliases:
+  - AC-4 (19)
+  - AC-4(19)

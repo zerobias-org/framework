@@ -1,0 +1,10 @@
+id: 0f328327-f645-588d-85d3-6dbfb2832122
+name: Layered Structures
+description: The organization implements security functions as a layered structure minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers.
+elementType: enhancement
+externalId: SC-3 (5)
+guidance: The implementation of layered structures with minimized interactions among security functions and non-looping layers (i.e., lower-layer functions do not depend on higher-layer functions) further enables the isolation of security functions and management of complexity.
+parent: sc-3
+aliases:
+  - SC-3 (5)
+  - SC-3(5)

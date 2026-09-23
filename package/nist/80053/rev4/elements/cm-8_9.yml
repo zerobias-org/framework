@@ -1,0 +1,13 @@
+id: b450ac5e-3235-522f-a688-bb84f0214213
+name: Assignment Of Components To Systems
+description: |-
+  The organization:
+    (a) Assigns [Assignment: organization-defined acquired information system components] to an information system; and
+    (b) Receives an acknowledgement from the information system owner of this assignment.
+elementType: enhancement
+externalId: CM-8 (9)
+guidance: Organizations determine the criteria for or types of information system components (e.g., microprocessors, motherboards, software, programmable logic controllers, and network devices) that are subject to this control enhancement.
+parent: cm-8
+aliases:
+  - CM-8 (9)
+  - CM-8(9)

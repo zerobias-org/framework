@@ -1,0 +1,10 @@
+id: 34a9a15b-1383-57b2-87b1-a8189366e118
+name: Removal Of Previous Versions Of Software / Firmware
+description: "The organization removes [Assignment: organization-defined software and firmware components] after updated versions have been installed."
+elementType: enhancement
+externalId: SI-2 (6)
+guidance: Previous versions of software and/or firmware components that are not removed from the information system after updates have been installed may be exploited by adversaries. Some information technology products may remove older versions of software and/or firmware automatically from the information system.
+parent: si-2
+aliases:
+  - SI-2 (6)
+  - SI-2(6)

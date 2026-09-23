@@ -1,0 +1,10 @@
+id: c099ec03-d2ab-54f9-81b3-57c28287ef3d
+name: Transmit Access Authorization Information
+description: "The information system transmits [Assignment: organization-defined access authorization information] using [Assignment: organization-defined security safeguards] to [Assignment: organization-defined information systems] that enforce access control decisions."
+elementType: enhancement
+externalId: AC-24 (1)
+guidance: In distributed information systems, authorization processes and access control decisions may occur in separate parts of the systems. In such instances, authorization information is transmitted securely so timely access control decisions can be enforced at the appropriate locations. To support the access control decisions, it may be necessary to transmit as part of the access authorization information, supporting security attributes. This is due to the fact that in distributed information systems, there are various access control decisions that need to be made and different entities (e.g., services) make these decisions in a serial fashion, each requiring some security attributes to make the decisions. Protecting access authorization information (i.e., access control decisions) ensures that such information cannot be altered, spoofed, or otherwise compromised during transmission.
+parent: ac-24
+aliases:
+  - AC-24 (1)
+  - AC-24(1)

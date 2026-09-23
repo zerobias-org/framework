@@ -1,0 +1,10 @@
+id: 2b09e935-3009-5b23-9af1-b6c5095bb28f
+name: Changes By Authorized Individuals
+description: "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds]."
+elementType: enhancement
+externalId: AU-12 (3)
+guidance: This control enhancement enables organizations to extend or limit auditing as necessary to meet organizational requirements. Auditing that is limited to conserve information system resources may be extended to address certain threat situations. In addition, auditing may be limited to a specific set of events to facilitate audit reduction, analysis, and reporting. Organizations can establish time thresholds in which audit actions are changed, for example, near real-time, within minutes, or within hours.
+parent: au-12
+aliases:
+  - AU-12 (3)
+  - AU-12(3)

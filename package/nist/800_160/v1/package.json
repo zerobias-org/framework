@@ -1,0 +1,33 @@
+{
+  "name": "@zerobias-org/framework-nist-800_160-v1",
+  "version": "3.0.0",
+  "description": "Framework package for nist-800_160-v1",
+  "author": "team@neverfail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/nist/800_160/v1/"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "baselines.*",
+    "elements/*",
+    "mappings/*"
+  ],
+  "dependencies": {
+    "@zerobias-org/suite-nist-800_160": "latest"
+  },
+  "zerobias": {
+    "package": "nist.800_160.v1.framework",
+    "import-artifact": "framework",
+    "dataloader-version": "1.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
+  }
+}

@@ -1,0 +1,10 @@
+id: c6678f52-e0ab-5b90-aca7-5c8fa17c2628
+name: Dynamic Management
+description: The information system dynamically manages identifiers.
+elementType: enhancement
+externalId: IA-4 (5)
+guidance: In contrast to conventional approaches to identification which presume static accounts for preregistered users, many distributed information systems including, for example, service-oriented architectures, rely on establishing identifiers at run time for entities that were previously unknown. In these situations, organizations anticipate and provision for the dynamic establishment of identifiers. Preestablished trust relationships and mechanisms with appropriate authorities to validate identities and related credentials are essential.
+parent: ia-4
+aliases:
+  - IA-4 (5)
+  - IA-4(5)

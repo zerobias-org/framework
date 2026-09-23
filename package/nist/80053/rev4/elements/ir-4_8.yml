@@ -1,0 +1,10 @@
+id: 8b427780-4634-5004-9452-34f1ec0fce19
+name: Correlation With External Organizations
+description: "The organization coordinates with [Assignment: organization-defined external organizations] to correlate and share [Assignment: organization-defined incident information] to achieve a cross-organization perspective on incident awareness and more effective incident responses."
+elementType: enhancement
+externalId: IR-4 (8)
+guidance: The coordination of incident information with external organizations including, for example, mission/business partners, military/coalition partners, customers, and multitiered developers, can provide significant benefits. Cross-organizational coordination with respect to incident handling can serve as an important risk management capability. This capability allows organizations to leverage critical information from a variety of sources to effectively respond to information security-related incidents potentially affecting the organization's operations, assets, and individuals.
+parent: ir-4
+aliases:
+  - IR-4 (8)
+  - IR-4(8)

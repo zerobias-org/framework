@@ -1,0 +1,10 @@
+id: b338581b-c69f-534a-80ab-78b5b68b6737
+name: Restrict Inputs To Trusted Sources and Approved Formats
+description: "The organization restricts the use of information inputs to [Assignment: organization-defined trusted sources] and/or [Assignment: organization-defined formats]."
+elementType: enhancement
+externalId: SI-10 (5)
+guidance: This control enhancement applies the concept of whitelisting to information inputs. Specifying known trusted sources for information inputs and acceptable formats for such inputs can reduce the probability of malicious activity.
+parent: si-10
+aliases:
+  - SI-10 (5)
+  - SI-10(5)

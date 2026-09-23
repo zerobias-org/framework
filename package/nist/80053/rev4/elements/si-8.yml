@@ -1,0 +1,10 @@
+id: 77241e51-6482-5f96-83ec-2c9670f9569f
+name: Spam Protection
+description: |-
+  The organization:
+    a. Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
+    b. Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+elementType: control
+externalId: SI-8
+guidance: Information system entry and exit points include, for example, firewalls, electronic mail servers, web servers, proxy servers, remote-access servers, workstations, mobile devices, and notebook/laptop computers. Spam can be transported by different means including, for example, electronic mail, electronic mail attachments, and web accesses. Spam protection mechanisms include, for example, signature definitions.
+parent: si

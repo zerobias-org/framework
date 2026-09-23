@@ -1,0 +1,10 @@
+id: 77654e99-b3fb-5066-b19a-9d0bcd1ae068
+name: Use Of Ficam-issued Profiles
+description: The information system conforms to FICAM-issued profiles.
+elementType: enhancement
+externalId: IA-8 (4)
+guidance: This control enhancement addresses open identity management standards. To ensure that these standards are viable, robust, reliable, sustainable (e.g., available in commercial information technology products), and interoperable as documented, the United States Government assesses and scopes identity management standards and technology implementations against applicable federal legislation, directives, policies, and requirements.  The result is FICAM-issued implementation profiles of approved protocols (e.g., FICAM authentication protocols such as SAML 2.0 and OpenID 2.0, as well as other protocols such as the FICAM Backend Attribute Exchange).
+parent: ia-8
+aliases:
+  - IA-8 (4)
+  - IA-8(4)

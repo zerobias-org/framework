@@ -1,0 +1,22 @@
+source: NIST
+package: nist.privacyframework.v1
+description: NIST Privacy Framework
+url: https://www.nist.gov/privacy-framework
+id: a26814a6-4cf0-4196-b7e8-bc49fe8238d9
+ownerId: 00000000-0000-0000-0000-000000000000
+created: 2025-01-14T19:04:31.718Z
+updated: 2025-01-14T19:04:31.718Z
+status: approved
+name: NIST PRIVACYFRAMEWORK V1
+externalId: NIST Privacy Framework
+code: nist_privacyframework_v1
+external: true
+internal: true
+elementTypes:
+  - id: e9a2a186-6f38-41b8-87a4-b96043ce62c4
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
+type: framework

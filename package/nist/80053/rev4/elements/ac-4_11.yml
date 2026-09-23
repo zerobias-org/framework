@@ -1,0 +1,10 @@
+id: 265a6de0-10d9-50e1-a997-02733a684e8d
+name: Configuration Of Security Policy Filters
+description: "The information system provides the capability for privileged administrators to configure [Assignment: organization-defined security policy filters] to support different security policies."
+elementType: enhancement
+externalId: AC-4 (11)
+guidance: For example, to reflect changes in security policies, administrators can change the list of 'dirty words' that security policy mechanisms check in accordance with the definitions provided by organizations.
+parent: ac-4
+aliases:
+  - AC-4 (11)
+  - AC-4(11)

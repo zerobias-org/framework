@@ -1,0 +1,10 @@
+id: 123984e3-08da-5e41-a6df-2e0733b83839
+name: Polling Techniques
+description: "The organization employs polling techniques to identify potential faults, errors, or compromises to [Assignment: organization-defined distributed processing and storage components]."
+elementType: enhancement
+externalId: SC-36 (1)
+guidance: Distributed processing and/or storage may be employed to reduce opportunities for adversaries to successfully compromise the confidentiality, integrity, or availability of information and information systems. However, distribution of processing and/or storage components does not prevent adversaries from compromising one (or more) of the distributed components. Polling compares the processing results and/or storage content from the various distributed components and subsequently voting on the outcomes. Polling identifies potential faults, errors, or compromises in distributed processing and/or storage components.
+parent: sc-36
+aliases:
+  - SC-36 (1)
+  - SC-36(1)

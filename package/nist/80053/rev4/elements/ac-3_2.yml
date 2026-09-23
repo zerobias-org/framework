@@ -1,0 +1,10 @@
+id: f54e790a-11e5-5fe2-9907-879b22f70a3c
+name: Dual Authorization
+description: "The information system enforces dual authorization for [Assignment: organization-defined privileged commands and/or other organization-defined actions]."
+elementType: enhancement
+externalId: AC-3 (2)
+guidance: Dual authorization mechanisms require the approval of two authorized individuals in order to execute. Organizations do not require dual authorization mechanisms when immediate responses are necessary to ensure public and environmental safety. Dual authorization may also be known as two-person control.
+parent: ac-3
+aliases:
+  - AC-3 (2)
+  - AC-3(2)

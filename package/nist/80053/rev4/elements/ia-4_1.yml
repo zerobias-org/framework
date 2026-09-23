@@ -1,0 +1,10 @@
+id: fa0f770a-7754-551a-b926-46ba558bfff2
+name: Prohibit Account Identifiers As Public Identifiers
+description: The organization prohibits the use of information system account identifiers that are the same as public identifiers for individual electronic mail accounts.
+elementType: enhancement
+externalId: IA-4 (1)
+guidance: Prohibiting the use of information systems account identifiers that are the same as some public identifier such as the individual identifier section of an electronic mail address, makes it more difficult for adversaries to guess user identifiers on organizational information systems.
+parent: ia-4
+aliases:
+  - IA-4 (1)
+  - IA-4(1)

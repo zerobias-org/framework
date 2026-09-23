@@ -1,0 +1,14 @@
+id: e134ca93-7982-5c16-9e0f-9fc9b6733c44
+name: Role-based Schemes
+description: |-
+  The organization:
+    (a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
+    (b) Monitors privileged role assignments; and
+    (c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate.
+elementType: enhancement
+externalId: AC-2 (7)
+guidance: Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. These privileged roles include, for example, key management, account management, network and system administration, database administration, and web administration.
+parent: ac-2
+aliases:
+  - AC-2 (7)
+  - AC-2(7)

@@ -1,0 +1,10 @@
+id: 63213a50-772f-50c5-acc0-a51ebc643ce8
+name: Full Device / Container-based  Encryption
+description: "The organization employs [Selection: full-device encryption; container encryption] to protect the confidentiality and integrity of information on [Assignment: organization-defined mobile devices]."
+elementType: enhancement
+externalId: AC-19 (5)
+guidance: Container-based encryption provides a more fine-grained approach to the encryption of data/information on mobile devices, including for example, encrypting selected data structures such as files, records, or fields.
+parent: ac-19
+aliases:
+  - AC-19 (5)
+  - AC-19(5)

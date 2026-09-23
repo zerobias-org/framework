@@ -1,0 +1,7 @@
+id: 784fbad7-c198-52b2-b93d-1d87d3c584b5
+name: Content Of Audit Records
+description: The information system generates audit records containing information that establishes what type of event occurred, when the event occurred, where the event occurred, the source of the event, the outcome of the event, and the identity of any individuals or subjects associated with the event.
+elementType: control
+externalId: AU-3
+guidance: Audit record content that may be necessary to satisfy the requirement of this control, includes, for example, time stamps, source and destination addresses, user/process identifiers, event descriptions, success/fail indications, filenames involved, and access control or flow control rules invoked. Event outcomes can include indicators of event success or failure and event-specific results (e.g., the security state of the information system after the event occurred).
+parent: au

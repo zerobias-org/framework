@@ -1,0 +1,13 @@
+id: f9dd6262-37b9-5337-9bfa-2cfe59217593
+name: Standby Component Installation / Notification
+description: |-
+  The organization, if information system component failures are detected:
+    (a) Ensures that the standby components are successfully and transparently installed within [Assignment: organization-defined time period]; and
+    (b) [Selection (one or more): activates [Assignment: organization-defined alarm]; automatically shuts down the information system].
+elementType: enhancement
+externalId: SI-13 (4)
+guidance: Automatic or manual transfer of components from standby to active mode can occur, for example, upon detection of component failures.
+parent: si-13
+aliases:
+  - SI-13 (4)
+  - SI-13(4)

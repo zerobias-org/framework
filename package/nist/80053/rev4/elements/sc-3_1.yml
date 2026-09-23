@@ -1,0 +1,10 @@
+id: 48c32833-09fa-5917-bae4-cb40115934c4
+name: Hardware Separation
+description: The information system utilizes underlying hardware separation mechanisms to implement security function isolation.
+elementType: enhancement
+externalId: SC-3 (1)
+guidance: Underlying hardware separation mechanisms include, for example, hardware ring architectures, commonly implemented within microprocessors, and hardware-enforced address segmentation used to support logically distinct storage objects with separate attributes (i.e., readable, writeable).
+parent: sc-3
+aliases:
+  - SC-3 (1)
+  - SC-3(1)

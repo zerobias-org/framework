@@ -1,0 +1,11 @@
+id: 6599ad3f-7533-5cb3-8ba1-99b5882af2db
+name: Software Usage Restrictions
+description: |-
+  The organization:
+    a. Uses software and associated documentation in accordance with contract agreements and copyright laws;
+    b. Tracks the use of software and associated documentation protected by quantity licenses to control copying and distribution; and
+    c. Controls and documents the use of peer-to-peer file sharing technology to ensure that this capability is not used for the unauthorized distribution, display, performance, or reproduction of copyrighted work.
+elementType: control
+externalId: CM-10
+guidance: Software license tracking can be accomplished by manual methods (e.g., simple spreadsheets) or automated methods (e.g., specialized tracking applications) depending on organizational needs.
+parent: cm

@@ -1,0 +1,10 @@
+id: 7e213958-060e-5388-898d-8eb3c906f495
+name: Inspection Of Information Systems, Components, Or Devices
+description: "The organization inspects [Assignment: organization-defined information systems, system components, or devices] [Selection (one or more): at random; at [Assignment: organization-defined frequency], upon [Assignment: organization-defined indications of need for inspection]] to detect tampering."
+elementType: enhancement
+externalId: SA-18 (2)
+guidance: This control enhancement addresses both physical and logical tampering and is typically applied to mobile devices, notebook computers, or other system components taken out of organization-controlled areas. Indications of need for inspection include, for example, when individuals return from travel to high-risk locations.
+parent: sa-18
+aliases:
+  - SA-18 (2)
+  - SA-18(2)

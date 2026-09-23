@@ -1,0 +1,24 @@
+source: NIST
+package: nist.800_66.rev2
+description: >-
+  NIST SP 800-66 Rev. 2 - Implementing the Health Insurance Portability and
+  Accountability Act (HIPAA) Security Rule: A Cybersecurity Resource Guide
+url: https://csrc.nist.gov/pubs/sp/800/66/r2/final
+id: b97c835a-122b-4950-a2dd-d08ce6e4cf33
+ownerId: 00000000-0000-0000-0000-000000000000
+created: 2025-01-14T19:04:31.718Z
+updated: 2025-01-14T19:04:31.718Z
+status: approved
+name: NIST 800_66 REV2
+externalId: NIST 800-66
+code: nist_800_66_rev2
+external: true
+internal: true
+elementTypes:
+  - id: 8e3fdf4c-17fa-4bf5-a212-5b181b5ba377
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
+type: framework

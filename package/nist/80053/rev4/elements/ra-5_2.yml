@@ -1,0 +1,9 @@
+id: 8a5c6dc4-5e49-5044-946a-b70a48bbfde7
+name: Update By Frequency / Prior To New Scan / When Identified
+description: "The organization updates the information system vulnerabilities scanned [Selection (one or more): [Assignment: organization-defined frequency]; prior to a new scan; when new vulnerabilities are identified and reported]."
+elementType: enhancement
+externalId: RA-5 (2)
+parent: ra-5
+aliases:
+  - RA-5 (2)
+  - RA-5(2)

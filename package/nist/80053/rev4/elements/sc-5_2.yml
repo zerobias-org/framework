@@ -1,0 +1,10 @@
+id: 27f4680a-475f-55d6-8400-3ee6876de4e8
+name: Excess Capacity / Bandwidth / Redundancy
+description: The information system manages excess capacity, bandwidth, or other redundancy to limit the effects of information flooding denial of service attacks.
+elementType: enhancement
+externalId: SC-5 (2)
+guidance: Managing excess capacity ensures that sufficient capacity is available to counter flooding attacks. Managing excess capacity may include, for example, establishing selected usage priorities, quotas, or partitioning.
+parent: sc-5
+aliases:
+  - SC-5 (2)
+  - SC-5(2)

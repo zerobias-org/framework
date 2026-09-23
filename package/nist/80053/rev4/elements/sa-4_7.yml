@@ -1,0 +1,12 @@
+id: 2a5f26aa-fd80-53bd-90e9-c5fd2aaa3b00
+name: Niap-approved  Protection Profiles
+description: |-
+  The organization:
+    (a) Limits the use of commercially provided information assurance (IA) and IA-enabled information technology products to those products that have been successfully evaluated against a National Information Assurance partnership (NIAP)-approved Protection Profile for a specific technology type, if such a profile exists; and
+    (b) Requires, if no NIAP-approved Protection Profile exists for a specific technology type but a commercially provided information technology product relies on cryptographic functionality to enforce its security policy, that the cryptographic module is FIPS-validated.
+elementType: enhancement
+externalId: SA-4 (7)
+parent: sa-4
+aliases:
+  - SA-4 (7)
+  - SA-4(7)

@@ -1,0 +1,10 @@
+id: 773ac2c6-bba7-5777-821c-9c117f5cff34
+name: Dynamic Account Creation
+description: "The information system creates [Assignment: organization-defined information system accounts] dynamically."
+elementType: enhancement
+externalId: AC-2 (8)
+guidance: Dynamic approaches for creating information system accounts (e.g., as implemented within service-oriented architectures) rely on establishing accounts (identities) at run time for entities that were previously unknown. Organizations plan for dynamic creation of information system accounts by establishing trust relationships and mechanisms with the appropriate authorities to validate related authorizations and privileges.
+parent: ac-2
+aliases:
+  - AC-2 (8)
+  - AC-2(8)

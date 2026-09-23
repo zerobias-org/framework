@@ -1,0 +1,10 @@
+id: af4bbfbc-b413-5049-80e2-4b003024887c
+name: Analyze Traffic / Covert Exfiltration
+description: "The organization analyzes outbound communications traffic at the external boundary of the information system (i.e., system perimeter) and at [Assignment: organization-defined interior points within the system (e.g., subsystems, subnetworks)] to detect covert exfiltration of information."
+elementType: enhancement
+externalId: SI-4 (18)
+guidance: Covert means that can be used for the unauthorized exfiltration of organizational information include, for example, steganography.
+parent: si-4
+aliases:
+  - SI-4 (18)
+  - SI-4(18)
