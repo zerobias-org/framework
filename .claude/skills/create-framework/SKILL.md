@@ -127,6 +127,58 @@ Delete the template `elements/example-1.yml`, then:
 
 Every `id` (in `index.yml` and every element) must be **unique repo-wide**.
 
+#### Element content rules — apply while generating, not after
+
+`description` is a short summary, **not** the requirement text. Dumping a
+requirement straight from the source document into `description` is the single
+largest source of violations in existing packages.
+
+- **`description`** — plain text only, no markdown/HTML/newlines, **under 200
+  characters**.
+- **`background`** — the full requirement text, markdown, any length, in
+  `elements/<code>-background.md`. A per-element file wins over a shared
+  `elements/background.md`, which wins over an inline `background:` key.
+- **`links`** — `Record<predicate, alias[]>`, alias being
+  `<packageCode>/<elementCode>` or a product package code. Predicates in use:
+  `demonstrates` (framework), `supports` (product). Verify every alias against
+  the live catalog, never against repo files — the `ResourceLinker` drops
+  unresolvable aliases **silently**, so a wrong guess is invisible. Emit nothing
+  and report the gap instead.
+
+So for each requirement: put the full text in `<code>-background.md`, then write
+one plain sentence into `description`. Write the background **first** — once the
+text is only in `description`, truncating it loses the original.
+
+`scripts/csvToElements.ts` copies the CSV's `description` column through
+verbatim: it does **not** check length or strip newlines. Check the output before
+committing:
+
+```bash
+python3 - <<'EOF'
+import glob, yaml, re, sys
+files = sorted(glob.glob('package/<a>/<f>/<v>/elements/*.yml'))
+if not files:
+    sys.exit('no elements matched that glob — fix the path before trusting this')
+bad_count = 0
+for f in files:
+    d = (yaml.safe_load(open(f)) or {}).get('description')
+    if not isinstance(d, str): continue
+    t = d.strip()
+    bad = [n for n, c in (('>=200', len(t) >= 200), ('newline', '\n' in t),
+           ('markdown', bool(re.search(r'\*\*[^*]+\*\*|\[[^\]]+\]\([^)]*\)|`[^`]+`', t)))) if c]
+    if bad:
+        bad_count += 1
+        print(f.split('/')[-1], bad, len(t))
+print(f'{bad_count} of {len(files)} elements violate the rules')
+EOF
+```
+
+It exits non-zero on a glob that matches nothing, so a mistyped path cannot read
+as a clean package.
+
+Retire an element with `deprecate: true`, never by deleting the file — deletion
+loses the `id` and orphans the loaded row and anything referencing it.
+
 ### A7. Drop the gradle marker
 
 ```bash
@@ -146,6 +198,13 @@ zbb :<a>:<f>:<v>:gate
 `gate` needs `NEON_API_KEY`/`NEON_PROJECT_ID`; without them the dataloader
 integration step is skipped locally and CI runs it on push. Fix any errors and
 re-run until `validateContent` passes.
+
+`validateContent` also runs `ElementContentRules` (shipped in `zb.content` since
+build-tools 1.0.141), which reports the rules in A6. This repo has no
+`element-rules-baseline.txt`, so it is currently `WARN_UNENFORCED`: violations
+are **reported but do not fail the build**. Do not read a passing gate as
+evidence the descriptions are fine — read the warnings. A new package should add
+none.
 
 ### A9. Commit, push, PR (base = `dev`)
 
@@ -167,6 +226,8 @@ gh pr create --base dev \
 ## Validation
 - [x] \`zbb :<a>:<f>:<v>:validateContent\` passes
 - [x] All elements have descriptions
+- [x] Descriptions are plain text under 200 chars; full text in \`<code>-background.md\`
+- [x] \`validateContent\` reports no element content rule violations
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)"
 ```
