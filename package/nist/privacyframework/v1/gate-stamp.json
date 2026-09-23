@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0-dev.0",
-  "branch": "dev",
-  "sourceHash": "c1080daaefb4d5f0bedd51b43a26dcfbf7422d4c32938c1a1fff9dbabea3e969",
+  "version": "3.0.1-uat.0",
+  "branch": "fix/nist-framework-names",
+  "sourceHash": "bed2fa9571fe0f24e12db74833d1e56d8c383d46b250a5e66ab20ec1a9c1fc2c",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
