@@ -1,0 +1,10 @@
+id: 400b7162-4d8c-56ae-a31c-9f4c2b01a48f
+name: Group Authentication
+description: The organization requires individuals to be authenticated with an individual authenticator when a group authenticator is employed.
+elementType: enhancement
+externalId: IA-2 (5)
+guidance: Requiring individuals to use individual authenticators as a second level of authentication helps organizations to mitigate the risk of using group authenticators.
+parent: ia-2
+aliases:
+  - IA-2 (5)
+  - IA-2(5)

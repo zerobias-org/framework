@@ -1,0 +1,10 @@
+id: 78de0c10-1b05-5ad8-995f-130e83d04407
+name: Auditing Capability For Significant Events
+description: "The information system, upon detection of a potential integrity violation, provides the capability to audit the event and initiates the following actions: [Selection (one or more): generates an audit record; alerts current user; alerts [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined other actions]]."
+elementType: enhancement
+externalId: SI-7 (8)
+guidance: Organizations select response actions based on types of software, specific software, or information for which there are potential integrity violations.
+parent: si-7
+aliases:
+  - SI-7 (8)
+  - SI-7(8)

@@ -1,0 +1,13 @@
+id: a4b2fdda-5127-5427-bed4-a4c83ce0ae18
+name: Security-relevant Components
+description: |-
+  The organization requires the developer of the information system, system component, or information system service to:
+    (a) Define security-relevant hardware, software, and firmware; and
+    (b) Provide a rationale that the definition for security-relevant hardware, software, and firmware is complete.
+elementType: enhancement
+externalId: SA-17 (2)
+guidance: Security-relevant hardware, software, and firmware represent the portion of the information system, component, or service that must be trusted to perform correctly in order to maintain required security properties.
+parent: sa-17
+aliases:
+  - SA-17 (2)
+  - SA-17(2)

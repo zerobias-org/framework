@@ -1,0 +1,10 @@
+id: c9a79c58-9bf6-5b4f-bb9d-ce05fa66db0e
+name: Plan / Coordinate With Other Organizational Entities
+description: "The organization plans and coordinates security-related activities affecting the information system with [Assignment: organization-defined individuals or groups] before conducting such activities in order to reduce the impact on other organizational entities."
+elementType: enhancement
+externalId: PL-2 (3)
+guidance: Security-related activities include, for example, security assessments, audits, hardware and software maintenance, patch management, and contingency plan testing. Advance planning and coordination includes emergency and nonemergency (i.e., planned or nonurgent unplanned) situations. The process defined by organizations to plan and coordinate security-related activities can be included in security plans for information systems or other documents, as appropriate.
+parent: pl-2
+aliases:
+  - PL-2 (3)
+  - PL-2(3)

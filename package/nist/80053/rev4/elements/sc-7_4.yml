@@ -1,0 +1,15 @@
+id: 64321233-b2f2-5320-9b3d-ea6b40a18fd1
+name: External Telecommunications Services
+description: |-
+  The organization:
+    (a) Implements a managed interface for each external telecommunication service;
+    (b) Establishes a traffic flow policy for each managed interface;
+    (c) Protects the confidentiality and integrity of the information being transmitted across each interface;
+    (d) Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and
+    (e) Reviews exceptions to the traffic flow policy [Assignment: organization-defined frequency] and removes exceptions that are no longer supported by an explicit mission/business need.
+elementType: enhancement
+externalId: SC-7 (4)
+parent: sc-7
+aliases:
+  - SC-7 (4)
+  - SC-7(4)

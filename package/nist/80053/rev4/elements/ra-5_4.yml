@@ -1,0 +1,10 @@
+id: 20094e10-0f4c-511d-8d50-f59a1ed94852
+name: Discoverable Information
+description: "The organization determines what information about the information system is discoverable by adversaries and subsequently takes [Assignment: organization-defined corrective actions]."
+elementType: enhancement
+externalId: RA-5 (4)
+guidance: Discoverable information includes information that adversaries could obtain without directly compromising or breaching the information system, for example, by collecting information the system is exposing or by conducting extensive searches of the web. Corrective actions can include, for example, notifying appropriate organizational personnel, removing designated information, or changing the information system to make designated information less relevant or attractive to adversaries.
+parent: ra-5
+aliases:
+  - RA-5 (4)
+  - RA-5(4)

@@ -1,0 +1,10 @@
+id: f3f2d2f9-1907-5b8c-889a-df438992afff
+name: Automated Security Response
+description: "The information system implements [Assignment: organization-defined security responses] automatically if baseline configurations are changed in an unauthorized manner."
+elementType: enhancement
+externalId: CM-3 (5)
+guidance: Security responses include, for example, halting information system processing, halting selected system functions, or issuing alerts/notifications to organizational personnel when there is an unauthorized modification of a configuration item.
+parent: cm-3
+aliases:
+  - CM-3 (5)
+  - CM-3(5)

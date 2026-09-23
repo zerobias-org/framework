@@ -1,0 +1,10 @@
+id: 7fb4fa59-456e-56d2-a424-35f58670fea2
+name: Personnel Screening
+description: |-
+  The organization:
+    a. Screens individuals prior to authorizing access to the information system; and
+    b. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].
+elementType: control
+externalId: PS-3
+guidance: Personnel screening and rescreening activities reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, guidance, and specific criteria established for the risk designations of assigned positions. Organizations may define different rescreening conditions and frequencies for personnel accessing information systems based on types of information processed, stored, or transmitted by the systems.
+parent: ps

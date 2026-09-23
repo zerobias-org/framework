@@ -1,0 +1,10 @@
+id: 195dea30-b7a0-5cca-9e27-5cf7b10ed01c
+name: Reuse Of Threat / Vulnerability Information
+description: The organization requires the developer of the information system, system component, or information system service to use threat modeling and vulnerability analyses from similar systems, components, or services to inform the current development process.
+elementType: enhancement
+externalId: SA-15 (8)
+guidance: Analysis of vulnerabilities found in similar software applications can inform potential design or implementation issues for information systems under development. Similar information systems or system components may exist within developer organizations. Authoritative vulnerability information is available from a variety of public and private sector sources including, for example, the National Vulnerability Database.
+parent: sa-15
+aliases:
+  - SA-15 (8)
+  - SA-15(8)

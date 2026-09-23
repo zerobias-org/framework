@@ -1,0 +1,10 @@
+id: de316b57-ea41-5139-997c-eb3af1ce8ffb
+name: Assessed Configurations / Approved Deviations
+description: The organization includes assessed component configurations and any approved deviations to current deployed configurations in the information system component inventory.
+elementType: enhancement
+externalId: CM-8 (6)
+guidance: This control enhancement focuses on configuration settings established by organizations for information system components, the specific components that have been assessed to determine compliance with the required configuration settings, and any approved deviations from established configuration settings.
+parent: cm-8
+aliases:
+  - CM-8 (6)
+  - CM-8(6)

@@ -1,0 +1,10 @@
+id: 48524f45-e309-5169-96f3-d317391ce19d
+name: Audit Backup On Separate Physical Systems / Components
+description: "The information system backs up audit records [Assignment: organization-defined frequency] onto a physically different system or system component than the system or component being audited."
+elementType: enhancement
+externalId: AU-9 (2)
+guidance: This control enhancement helps to ensure that a compromise of the information system being audited does not also result in a compromise of the audit records.
+parent: au-9
+aliases:
+  - AU-9 (2)
+  - AU-9(2)

@@ -1,0 +1,10 @@
+id: 95a5fb06-b30c-5df3-b212-822c7ff30411
+name: Explicitly Indicate Current Participants
+description: "The information system provides an explicit indication of current participants in [Assignment: organization-defined online meetings and teleconferences]."
+elementType: enhancement
+externalId: SC-15 (4)
+guidance: This control enhancement helps to prevent unauthorized individuals from participating in collaborative computing sessions without the explicit knowledge of other participants.
+parent: sc-15
+aliases:
+  - SC-15 (4)
+  - SC-15(4)

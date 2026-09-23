@@ -1,0 +1,9 @@
+id: 4be1fdbd-ca94-56db-940d-9b103438d1a5
+name: Successful / Unsuccessful Logons
+description: "The information system notifies the user of the number of [Selection: successful logons/accesses; unsuccessful logon/access attempts; both] during [Assignment: organization-defined time period]."
+elementType: enhancement
+externalId: AC-9 (2)
+parent: ac-9
+aliases:
+  - AC-9 (2)
+  - AC-9(2)

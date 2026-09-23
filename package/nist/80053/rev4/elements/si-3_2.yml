@@ -1,0 +1,10 @@
+id: ccb98a0d-b841-50e5-a0f6-0d45252961fb
+name: Automatic Updates
+description: The information system automatically updates malicious code protection mechanisms.
+elementType: enhancement
+externalId: SI-3 (2)
+guidance: Malicious code protection mechanisms include, for example, signature definitions. Due to information system integrity and availability concerns, organizations give careful consideration to the methodology used to carry out automatic updates.
+parent: si-3
+aliases:
+  - SI-3 (2)
+  - SI-3(2)

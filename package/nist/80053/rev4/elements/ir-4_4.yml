@@ -1,0 +1,10 @@
+id: 36482d5a-1f0b-52af-8386-3f855cfcaaf4
+name: Information Correlation
+description: The organization correlates incident information and individual incident responses to achieve an organization-wide perspective on incident awareness and response.
+elementType: enhancement
+externalId: IR-4 (4)
+guidance: Sometimes the nature of a threat event, for example, a hostile cyber attack, is such that it can only be observed by bringing together information from different sources including various reports and reporting procedures established by organizations.
+parent: ir-4
+aliases:
+  - IR-4 (4)
+  - IR-4(4)

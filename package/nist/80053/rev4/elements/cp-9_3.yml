@@ -1,0 +1,10 @@
+id: 77b2abf4-f2a0-5539-b656-1447a56a8da9
+name: Separate Storage For Critical Information
+description: "The organization stores backup copies of [Assignment: organization-defined critical information system software and other security-related information] in a separate facility or in a fire-rated container that is not collocated with the operational system."
+elementType: enhancement
+externalId: CP-9 (3)
+guidance: Critical information system software includes, for example, operating systems, cryptographic key management systems, and intrusion detection/prevention systems. Security-related information includes, for example, organizational inventories of hardware, software, and firmware components. Alternate storage sites typically serve as separate storage facilities for organizations.
+parent: cp-9
+aliases:
+  - CP-9 (3)
+  - CP-9(3)

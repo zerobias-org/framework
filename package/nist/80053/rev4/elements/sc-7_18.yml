@@ -1,0 +1,10 @@
+id: def5424e-ac57-536e-a7ed-a8f7231d5d75
+name: Fail Secure
+description: The information system fails securely in the event of an operational failure of a boundary protection device.
+elementType: enhancement
+externalId: SC-7 (18)
+guidance: Fail secure is a condition achieved by employing information system mechanisms to ensure that in the event of operational failures of boundary protection devices at managed interfaces (e.g., routers, firewalls, guards, and application gateways residing on protected subnetworks commonly referred to as demilitarized zones), information systems do not enter into unsecure states where intended security properties no longer hold. Failures of boundary protection devices cannot lead to, or cause information external to the devices to enter the devices, nor can failures permit unauthorized information releases.
+parent: sc-7
+aliases:
+  - SC-7 (18)
+  - SC-7(18)

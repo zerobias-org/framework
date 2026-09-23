@@ -1,0 +1,13 @@
+id: 5b1d4baa-2e24-545e-ade9-bd81de878db5
+name: Information With Special Protection Measures
+description: |-
+  The organization ensures that individuals accessing an information system processing, storing, or transmitting information requiring special protection:
+    (a) Have valid access authorizations that are demonstrated by assigned official government duties; and
+    (b) Satisfy [Assignment: organization-defined additional personnel screening criteria].
+elementType: enhancement
+externalId: PS-3 (3)
+guidance: Organizational information requiring special protection includes, for example, Controlled Unclassified Information (CUI) and Sources and Methods Information (SAMI).  Personnel security criteria include, for example, position sensitivity background screening requirements.
+parent: ps-3
+aliases:
+  - PS-3 (3)
+  - PS-3(3)

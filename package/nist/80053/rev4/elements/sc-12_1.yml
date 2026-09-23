@@ -1,0 +1,10 @@
+id: cecc9011-0458-5e1d-a6c6-d16e042bf2d7
+name: Availability
+description: The organization maintains availability of information in the event of the loss of cryptographic keys by users.
+elementType: enhancement
+externalId: SC-12 (1)
+guidance: Escrowing of encryption keys is a common practice for ensuring availability in the event of loss of keys (e.g., due to forgotten passphrase).
+parent: sc-12
+aliases:
+  - SC-12 (1)
+  - SC-12(1)

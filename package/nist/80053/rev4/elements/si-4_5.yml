@@ -1,0 +1,10 @@
+id: 8c3349ba-9aa3-55cd-921a-b85fa90a243c
+name: System-generated Alerts
+description: "The information system alerts [Assignment: organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [Assignment: organization-defined compromise indicators]."
+elementType: enhancement
+externalId: SI-4 (5)
+guidance: Alerts may be generated from a variety of sources, including, for example, audit records or inputs from malicious code protection mechanisms, intrusion detection or prevention mechanisms, or boundary protection devices such as firewalls, gateways, and routers. Alerts can be transmitted, for example, telephonically, by electronic mail messages, or by text messaging. Organizational personnel on the notification list can include, for example, system administrators, mission/business owners, system owners, or information system security officers.
+parent: si-4
+aliases:
+  - SI-4 (5)
+  - SI-4(5)

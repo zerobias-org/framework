@@ -1,0 +1,10 @@
+id: 41d610cb-f6f2-5e05-ba62-d24dcad54ada
+name: Human Reviews
+description: "The information system enforces the use of human reviews for [Assignment: organization-defined information flows] under the following conditions: [Assignment: organization-defined conditions]."
+elementType: enhancement
+externalId: AC-4 (9)
+guidance: Organizations define security policy filters for all situations where automated flow control decisions are possible. When a fully automated flow control decision is not possible, then a human review may be employed in lieu of, or as a complement to, automated security policy filtering. Human reviews may also be employed as deemed necessary by organizations.
+parent: ac-4
+aliases:
+  - AC-4 (9)
+  - AC-4(9)

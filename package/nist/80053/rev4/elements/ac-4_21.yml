@@ -1,0 +1,10 @@
+id: 10b6f9db-3ba9-5c65-adbe-fdebee8ef51a
+name: Physical / Logical Separation Of Information Flows
+description: "The information system separates information flows logically or physically using [Assignment: organization-defined mechanisms and/or techniques] to accomplish [Assignment: organization-defined required separations by types of information]."
+elementType: enhancement
+externalId: AC-4 (21)
+guidance: Enforcing the separation of information flows by type can enhance protection by ensuring that information is not commingled while in transit and by enabling flow control by transmission paths perhaps not otherwise achievable. Types of separable information include, for example, inbound and outbound communications traffic, service requests and responses, and information of differing security categories.
+parent: ac-4
+aliases:
+  - AC-4 (21)
+  - AC-4(21)

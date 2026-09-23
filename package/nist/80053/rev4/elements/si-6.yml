@@ -1,0 +1,12 @@
+id: aeb3122e-bde7-5110-aa69-ba57ddb0123e
+name: Security Function Verification
+description: |-
+  The information system:
+    a. Verifies the correct operation of [Assignment: organization-defined security functions];
+    b. Performs this verification [Selection (one or more): [Assignment: organization-defined system transitional states]; upon command by user with appropriate privilege; [Assignment: organization-defined frequency]];
+    c. Notifies [Assignment: organization-defined personnel or roles] of failed security verification tests; and
+    d. [Selection (one or more): shuts the information system down; restarts the information system; [Assignment: organization-defined alternative action(s)]] when anomalies are discovered.
+elementType: control
+externalId: SI-6
+guidance: Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights.
+parent: si

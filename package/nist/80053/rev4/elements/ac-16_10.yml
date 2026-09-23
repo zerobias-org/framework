@@ -1,0 +1,10 @@
+id: 0c1958bf-1efd-502c-b48e-6f77db410366
+name: Attribute Configuration By Authorized Individuals
+description: The information system provides authorized individuals the capability to define or change the type and value of security attributes available for association with subjects and objects.
+elementType: enhancement
+externalId: AC-16 (10)
+guidance: The content or assigned values of security attributes can directly affect the ability of individuals to access organizational information. Therefore, it is important for information systems to be able to limit the ability to create or modify security attributes to authorized individuals only.
+parent: ac-16
+aliases:
+  - AC-16 (10)
+  - AC-16(10)

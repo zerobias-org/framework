@@ -1,0 +1,10 @@
+id: e4ef5c9e-cf71-50cc-ae95-987789eed8a9
+name: Blocks Communication From Non-organizationally Configured Hosts
+description: "The information system blocks both inbound and outbound communications traffic between [Assignment: organization-defined communication clients] that are independently configured by end users and external service providers."
+elementType: enhancement
+externalId: SC-7 (19)
+guidance: Communication clients independently configured by end users and external service providers include, for example, instant messaging clients. Traffic blocking does not apply to communication clients that are configured by organizations to perform authorized functions.
+parent: sc-7
+aliases:
+  - SC-7 (19)
+  - SC-7(19)

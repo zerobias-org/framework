@@ -1,0 +1,10 @@
+id: e0fa5402-fcb8-5067-ab9e-01f4fd2b9d2d
+name: Integration Of Detection and Response
+description: "The organization incorporates the detection of unauthorized [Assignment: organization-defined security-relevant changes to the information system] into the organizational incident response capability."
+elementType: enhancement
+externalId: SI-7 (7)
+guidance: This control enhancement helps to ensure that detected events are tracked, monitored, corrected, and available for historical purposes. Maintaining historical records is important both for being able to identify and discern adversary actions over an extended period of time and for possible legal actions. Security-relevant changes include, for example, unauthorized changes to established configuration settings or unauthorized elevation of information system privileges.
+parent: si-7
+aliases:
+  - SI-7 (7)
+  - SI-7(7)

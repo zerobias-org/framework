@@ -1,0 +1,7 @@
+id: 0ff3f535-1023-5a5a-9f62-183e5b72c2f0
+name: Information System Recovery and Reconstitution
+description: The organization provides for the recovery and reconstitution of the information system to a known state after a disruption, compromise, or failure.
+elementType: control
+externalId: CP-10
+guidance: Recovery is executing information system contingency plan activities to restore organizational missions/business functions. Reconstitution takes place following recovery and includes activities for returning organizational information systems to fully operational states. Recovery and reconstitution operations reflect mission and business priorities, recovery point/time and reconstitution objectives, and established organizational metrics consistent with contingency plan requirements. Reconstitution includes the deactivation of any interim information system capabilities that may have been needed during recovery operations. Reconstitution also includes assessments of fully restored information system capabilities, reestablishment of continuous monitoring activities, potential information system reauthorizations, and activities to prepare the systems against future disruptions, compromises, or failures. Recovery/reconstitution capabilities employed by organizations can include both automated mechanisms and manual procedures.
+parent: cp

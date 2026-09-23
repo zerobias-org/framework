@@ -1,0 +1,10 @@
+id: 0ba58770-fcfd-5d27-a7e5-1848e5bb0738
+name: Transfer To Alternate Storage Site
+description: "The organization transfers information system backup information to the alternate storage site [Assignment: organization-defined time period and transfer rate consistent with the recovery time and recovery point objectives]."
+elementType: enhancement
+externalId: CP-9 (5)
+guidance: Information system backup information can be transferred to alternate storage sites either electronically or by physical shipment of storage media.
+parent: cp-9
+aliases:
+  - CP-9 (5)
+  - CP-9(5)

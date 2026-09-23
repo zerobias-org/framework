@@ -1,0 +1,9 @@
+id: 9d09beee-4390-5882-9d4f-7a999424cb89
+name: Test Covert Channels For Exploitability
+description: The organization tests a subset of the identified covert channels to determine which channels are exploitable.
+elementType: enhancement
+externalId: SC-31 (1)
+parent: sc-31
+aliases:
+  - SC-31 (1)
+  - SC-31(1)

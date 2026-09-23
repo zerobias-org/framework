@@ -1,0 +1,10 @@
+id: 70dcaf3d-632f-5af3-83e5-6ad980bd9395
+name: Updates Only By Privileged Users
+description: The information system updates malicious code protection mechanisms only when directed by a privileged user.
+elementType: enhancement
+externalId: SI-3 (4)
+guidance: This control enhancement may be appropriate for situations where for reasons of security or operational continuity, updates are only applied when selected/approved by designated organizational personnel.
+parent: si-3
+aliases:
+  - SI-3 (4)
+  - SI-3(4)

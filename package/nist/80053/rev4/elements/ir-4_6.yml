@@ -1,0 +1,10 @@
+id: eabb4170-dede-5ecf-8985-89168c2aa554
+name: Insider Threats - Specific Capabilities
+description: The organization implements incident handling capability for insider threats.
+elementType: enhancement
+externalId: IR-4 (6)
+guidance: While many organizations address insider threat incidents as an inherent part of their organizational incident response capability, this control enhancement provides additional emphasis on this type of threat and the need for specific incident handling capabilities (as defined within organizations) to provide appropriate and timely responses.
+parent: ir-4
+aliases:
+  - IR-4 (6)
+  - IR-4(6)

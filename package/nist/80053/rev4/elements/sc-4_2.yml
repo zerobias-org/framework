@@ -1,0 +1,10 @@
+id: 2115e94e-e5ec-56c1-9212-1edf2c667f1f
+name: Periods Processing
+description: "The information system prevents unauthorized information transfer via shared resources in accordance with [Assignment: organization-defined procedures] when system processing explicitly switches between different information classification levels or security categories."
+elementType: enhancement
+externalId: SC-4 (2)
+guidance: This control enhancement applies when there are explicit changes in information processing levels during information system operations, for example, during multilevel processing and periods processing with information at different classification levels or security categories. Organization-defined procedures may include, for example, approved sanitization processes for electronically stored information.
+parent: sc-4
+aliases:
+  - SC-4 (2)
+  - SC-4(2)

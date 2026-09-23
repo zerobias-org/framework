@@ -1,0 +1,10 @@
+id: 65cb65a7-f774-5bb5-963d-3d9d0ec2e52f
+name: Read Only Access
+description: "The organization authorizes read-only access to audit information to [Assignment: organization-defined subset of privileged users]."
+elementType: enhancement
+externalId: AU-9 (6)
+guidance: Restricting privileged user authorizations to read-only helps to limit the potential damage to organizations that could be initiated by such users (e.g., deleting audit records to cover up malicious activity).
+parent: au-9
+aliases:
+  - AU-9 (6)
+  - AU-9(6)

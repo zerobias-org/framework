@@ -1,0 +1,13 @@
+id: d54e71ac-8ce2-51b2-b268-a92f6298b862
+name: Risk Assessments / Organizational Approvals
+description: |-
+  The organization:
+    (a) Conducts an organizational assessment of risk prior to the acquisition or outsourcing of dedicated information security services; and
+    (b) Ensures that the acquisition or outsourcing of dedicated information security services is approved by [Assignment: organization-defined personnel or roles].
+elementType: enhancement
+externalId: SA-9 (1)
+guidance: Dedicated information security services include, for example, incident monitoring, analysis and response, operation of information security-related devices such as firewalls, or key management services.
+parent: sa-9
+aliases:
+  - SA-9 (1)
+  - SA-9(1)

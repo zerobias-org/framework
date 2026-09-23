@@ -1,0 +1,10 @@
+id: 06a128db-1444-5181-8f18-c89b79fe5bbd
+name: Host-based Protection
+description: "The organization implements [Assignment: organization-defined host-based boundary protection mechanisms] at [Assignment: organization-defined information system components]."
+elementType: enhancement
+externalId: SC-7 (12)
+guidance: Host-based boundary protection mechanisms include, for example, host-based firewalls. Information system components employing host-based boundary protection mechanisms include, for example, servers, workstations, and mobile devices.
+parent: sc-7
+aliases:
+  - SC-7 (12)
+  - SC-7(12)

@@ -1,0 +1,22 @@
+source: NIST
+package: nist.800_63b.2017
+description: SP 800-63B - Digital Identity Guidelines (partial mapping)
+url: https://pages.nist.gov/800-63-3/sp800-63b.html
+id: e084794a-b09a-40e2-8f36-4ecd676a6944
+ownerId: 00000000-0000-0000-0000-000000000000
+created: 2025-01-14T19:04:31.718Z
+updated: 2025-01-14T19:04:31.718Z
+status: approved
+name: NIST 800_63B 2017
+externalId: NIST 800-63B
+code: nist_800_63b_2017
+external: true
+internal: true
+elementTypes:
+  - id: b8b1c368-79fd-4c2a-8a5c-d9d7f3947809
+    code: control
+    name: Control
+    description: Control
+mappingTypes:
+  - control
+type: framework

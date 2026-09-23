@@ -1,0 +1,10 @@
+id: 1d858569-e8b0-5e28-af0e-25bcda8b08b6
+name: Maximum Bandwidth
+description: "The organization reduces the maximum bandwidth for identified covert [Selection (one or more); storage; timing] channels to [Assignment: organization-defined values]."
+elementType: enhancement
+externalId: SC-31 (2)
+guidance: Information system developers are in the best position to reduce the maximum bandwidth for identified covert storage and timing channels.
+parent: sc-31
+aliases:
+  - SC-31 (2)
+  - SC-31(2)

@@ -1,0 +1,10 @@
+id: 958d428c-6325-536a-b08c-3cdbec835932
+name: No User Or Process Identity
+description: "The information system enforces access control decisions based on [Assignment: organization-defined security attributes] that do not include the identity of the user or process acting on behalf of the user."
+elementType: enhancement
+externalId: AC-24 (2)
+guidance: In certain situations, it is important that access control decisions can be made without information regarding the identity of the users issuing the requests. These are generally instances where preserving individual privacy is of paramount importance. In other situations, user identification information is simply not needed for access control decisions and, especially in the case of distributed information systems, transmitting such information with the needed degree of assurance may be very expensive or difficult to accomplish.
+parent: ac-24
+aliases:
+  - AC-24 (2)
+  - AC-24(2)

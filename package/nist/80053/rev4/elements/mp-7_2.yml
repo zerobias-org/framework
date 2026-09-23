@@ -1,0 +1,10 @@
+id: 936f3b46-61ea-5bd9-89a8-73570c9d0f92
+name: Prohibit Use Of Sanitization-resistant Media
+description: The organization prohibits the use of sanitization-resistant media in organizational information systems.
+elementType: enhancement
+externalId: MP-7 (2)
+guidance: Sanitization-resistance applies to the capability to purge information from media. Certain types of media do not support sanitize commands, or if supported, the interfaces are not supported in a standardized way across these devices. Sanitization-resistant media include, for example, compact flash, embedded flash on boards and devices, solid state drives, and USB removable media.
+parent: mp-7
+aliases:
+  - MP-7 (2)
+  - MP-7(2)

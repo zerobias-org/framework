@@ -1,0 +1,10 @@
+id: dc2450b6-50df-516d-9ea8-0930e9b18907
+name: Inspect Media
+description: The organization checks media containing diagnostic and test programs for malicious code before the media are used in the information system.
+elementType: enhancement
+externalId: MA-3 (2)
+guidance: If, upon inspection of media containing maintenance diagnostic and test programs, organizations determine that the media contain malicious code, the incident is handled consistent with organizational incident handling policies and procedures.
+parent: ma-3
+aliases:
+  - MA-3 (2)
+  - MA-3(2)

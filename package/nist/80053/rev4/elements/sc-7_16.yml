@@ -1,0 +1,10 @@
+id: 05e9b739-f09a-5d56-971a-9f6a589a9a29
+name: Prevent Discovery Of Components / Devices
+description: The information system prevents discovery of specific system components composing a managed interface.
+elementType: enhancement
+externalId: SC-7 (16)
+guidance: This control enhancement protects network addresses of information system components that are part of managed interfaces from discovery through common tools and techniques used to identify devices on networks. Network addresses are not available for discovery (e.g., network address not published or entered in domain name systems), requiring prior knowledge for access. Another obfuscation technique is to periodically change network addresses.
+parent: sc-7
+aliases:
+  - SC-7 (16)
+  - SC-7(16)

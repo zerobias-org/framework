@@ -1,0 +1,10 @@
+id: 62910c75-b16c-591c-9bcf-57d30dec0968
+name: Error Handling
+description: |-
+  The information system:
+    a. Generates error messages that provide information necessary for corrective actions without revealing information that could be exploited by adversaries; and
+    b. Reveals error messages only to [Assignment: organization-defined personnel or roles].
+elementType: control
+externalId: SI-11
+guidance: Organizations carefully consider the structure/content of error messages. The extent to which information systems are able to identify and handle error conditions is guided by organizational policy and operational requirements. Information that could be exploited by adversaries includes, for example, erroneous logon attempts with passwords entered by mistake as the username, mission/business information that can be derived from (if not stated explicitly by) information recorded, and personal information such as account numbers, social security numbers, and credit card numbers. In addition, error messages may provide a covert channel for transmitting information.
+parent: si

@@ -1,0 +1,10 @@
+id: 0a8b5ca5-a511-55f2-a883-27aea189ca7f
+name: Restrict Configurations By Users
+description: The organization identifies and explicitly authorizes users allowed to independently configure wireless networking capabilities.
+elementType: enhancement
+externalId: AC-18 (4)
+guidance: Organizational authorizations to allow selected users to configure wireless networking capability are enforced in part, by the access enforcement mechanisms employed within organizational information systems.
+parent: ac-18
+aliases:
+  - AC-18 (4)
+  - AC-18(4)

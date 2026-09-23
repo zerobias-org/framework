@@ -1,0 +1,9 @@
+id: 0053e2cd-1ceb-5b96-ae72-d5f7ba66ea58
+name: Unsuccessful Logons
+description: The information system notifies the user, upon successful logon/access, of the number of unsuccessful logon/access attempts since the last successful logon/access.
+elementType: enhancement
+externalId: AC-9 (1)
+parent: ac-9
+aliases:
+  - AC-9 (1)
+  - AC-9(1)

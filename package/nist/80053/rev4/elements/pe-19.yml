@@ -1,0 +1,7 @@
+id: 68e7352b-b05c-5c96-a650-9c12d3030878
+name: Information Leakage
+description: The organization protects the information system from information leakage due to electromagnetic signals emanations.
+elementType: control
+externalId: PE-19
+guidance: Information leakage is the intentional or unintentional release of information to an untrusted environment from electromagnetic signals emanations. Security categories or classifications of information systems (with respect to confidentiality) and organizational security policies guide the selection of security controls employed to protect systems against information leakage due to electromagnetic signals emanations.
+parent: pe
