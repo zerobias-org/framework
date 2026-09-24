@@ -3,7 +3,6 @@ name: Alternative Configuration Management Processes
 description: The organization provides an alternate configuration management process using organizational personnel in the absence of a dedicated developer configuration management team.
 elementType: enhancement
 externalId: SA-10 (2)
-guidance: "Alternate configuration management processes may be required, for example, when organizations use commercial off-the-shelf (COTS) information technology products. Alternate configuration management processes include organizational personnel that: (i) are responsible for reviewing/approving proposed changes to information systems, system components, and information system services; and (ii) conduct security impact analyses prior to the implementation of any changes to systems, components, or services (e.g., a configuration control board that considers security impacts of changes during development and includes representatives of both the organization and the developer, when applicable)."
 parent: sa-10
 aliases:
   - SA-10 (2)

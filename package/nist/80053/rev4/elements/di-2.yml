@@ -1,10 +1,6 @@
 id: 6e4b9880-24ae-5a52-a00a-869b259b467c
 name: Data Integrity and Data Integrity Board
-description: |-
-  The organization:
-    a. Documents processes to ensure the integrity of personally identifiable information (PII) through existing security controls; and
-    b. Establishes a Data Integrity Board when appropriate to oversee organizational Computer Matching Agreements123 and to ensure that those agreements comply with the computer matching provisions of the Privacy Act.
+description: Requires documenting processes to ensure PII integrity through security controls and establishing a Data Integrity Board to oversee computer matching agreements.
 elementType: control
 externalId: DI-2
-guidance: "Organizations conducting or participating in Computer Matching Agreements with other organizations regarding applicants for and recipients of financial assistance or payments under federal benefit programs or regarding certain computerized comparisons involving federal personnel or payroll records establish a Data Integrity Board to oversee and coordinate their implementation of such matching agreements. In many organizations, the Data Integrity Board is led by the Senior Agency Official for Privacy (SAOP)/Chief Privacy Officer (CPO). The Data Integrity Board ensures that controls are in place to maintain both the quality and the integrity of data shared under Computer Matching Agreements."
 parent: di

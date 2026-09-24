@@ -3,7 +3,6 @@ name: Invalidate Session Identifiers At Logout
 description: The information system invalidates session identifiers upon user logout or other session termination.
 elementType: enhancement
 externalId: SC-23 (1)
-guidance: This control enhancement curtails the ability of adversaries from capturing and continuing to employ previously valid session IDs.
 parent: sc-23
 aliases:
   - SC-23 (1)

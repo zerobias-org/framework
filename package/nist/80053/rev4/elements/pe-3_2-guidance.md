@@ -1,0 +1,1 @@
+Organizations determine the extent, frequency, and/or randomness of security checks to adequately mitigate risk associated with exfiltration.

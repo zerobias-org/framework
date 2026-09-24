@@ -1,0 +1,1 @@
+Real-time notice is defined as notice at the point of collection. A layered notice approach involves providing individuals with a summary of key points in the organization’s privacy policy. A second notice provides more detailed/specific information
