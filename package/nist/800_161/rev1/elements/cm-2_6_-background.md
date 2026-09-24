@@ -1,0 +1,1 @@
+The enterprise should maintain or require the maintenance of a baseline configuration of applicable suppliers, developers, system integrators, external system service providers, and other ICT/OT-related service providers’ development, test (and staging, if applicable) environments, and any configuration of interfaces.

@@ -1,0 +1,1 @@
+Federal IT Security Professional-Designer-NG, issued by Federal IT Security Institute. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 651 (Enterprise Architect) at the Intermediate proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

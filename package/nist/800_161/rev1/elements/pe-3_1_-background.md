@@ -1,0 +1,1 @@
+Physical access controls should be extended to contractor personnel. Any contractor resources that provid services support with physical access to the supply chain infrastructure and any relevant elements should adhere to access controls. Policies and procedures should be consistent with those applied to employee personnel with similar levels of physical access.

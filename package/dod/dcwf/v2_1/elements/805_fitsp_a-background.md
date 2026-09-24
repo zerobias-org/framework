@@ -1,0 +1,1 @@
+Federal IT Security Professional-Auditor-NG, issued by Federal IT Security Institute. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 805 (IT Program Auditor) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

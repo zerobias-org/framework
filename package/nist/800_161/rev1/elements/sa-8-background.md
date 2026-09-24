@@ -1,0 +1,12 @@
+The following security engineering techniques are helpful for managing cybersecurity risks throughout the supply chain.
+
+- a. Anticipate the maximum possible ways that the ICT/OT product or service can be misused or abused in order to help identify how to protect the product or system from such uses. Address intended and unintended use scenarios in architecture and design.
+- b. Design network and security architectures, systems, and components based on the enterprise’s risk tolerance, as determined by risk assessments (see Section 2 and Appendix C).
+- c. Document and gain management acceptance and approval for risk that is not fully mitigated.
+- d. Limit the number, size, and privilege levels of critical elements. Using criticality analysis will aid in determining which elements or functions are critical. See criticality analysis in Appendix C and NISTIR 8179, Criticality Analysis Process Model: Prioritizing Systems and Components.
+- e. Use security mechanisms that help to reduce opportunities to exploit supply chain cybersecurity vulnerabilities, such as encryption, access control, identity management, and malware or tampering discovery.
+- f. Design information system components and elements to be difficult to disable (e.g., tamperproofing techniques), and if they are disabled, trigger notification methods such as audit trails, tamper evidence, or alarms.
+- g. Design delivery mechanisms (e.g., downloads for software) to avoid unnecessary exposure or access to the supply chain and the systems/components traversing the supply chain during delivery.
+- h. Design relevant validation mechanisms to be used during implementation and operation.
+
+Departments and agencies should refer to Appendix F to implement this guidance in accordance with Executive Order 14028, Improving the Nation’s Cybersecurity.

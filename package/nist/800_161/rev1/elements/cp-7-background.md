@@ -1,0 +1,1 @@
+When managed by suppliers, developers, system integrators, external system service providers, and other ICT/OT-related service providers, alternative storage sites are considered within an enterprise’s supply chain. Enterprises should apply appropriate supply chain cybersecurity controls to those processing sites.

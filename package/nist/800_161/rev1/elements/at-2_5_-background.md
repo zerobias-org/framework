@@ -1,0 +1,1 @@
+Provide literacy training on recognizing suspicious communications on an advanced persistent threat (APT) in the enterprise’s supply chain. Enterprises should require their prime contractors to implement this control and flow down this requirement to relevant sub-level contractors.
