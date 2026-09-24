@@ -1,0 +1,1 @@
+CyberSec First Responder, issued by Logical Operations, Inc. dba CERTNEXUS. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 221 (Cyber Crime Investigator) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

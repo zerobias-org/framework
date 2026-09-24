@@ -1,0 +1,1 @@
+Federal IT Security Professional-Operator-NG, issued by Federal IT Security Institute. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 411 (Technical Support Specialist) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

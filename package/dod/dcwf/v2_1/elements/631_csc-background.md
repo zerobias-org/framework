@@ -1,0 +1,1 @@
+Cyber Secure Coder, issued by Logical Operations, Inc. dba CERTNEXUS. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 631 (Information Systems Security Developer) at the Intermediate proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

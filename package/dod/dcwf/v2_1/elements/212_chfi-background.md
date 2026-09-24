@@ -1,0 +1,1 @@
+Computer Hacking Forensics Investigator, issued by EC-Council - International Council of E-Commerce Consultants. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 212 (Cyber Defense Forensics Analyst) at the Intermediate proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

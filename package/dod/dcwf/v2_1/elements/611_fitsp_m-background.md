@@ -1,0 +1,1 @@
+Federal IT Security Professional-Manager-NG, issued by Federal IT Security Institute. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 611 (Authorizing Official/Designated Representative) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).
