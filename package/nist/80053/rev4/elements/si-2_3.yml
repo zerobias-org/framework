@@ -1,12 +1,8 @@
 id: 5870ef8a-c4bf-5119-be42-a6c4bf0baf71
 name: Time To Remediate Flaws / Benchmarks For Corrective Actions
-description: |-
-  The organization:
-    (a) Measures the time between flaw identification and flaw remediation; and
-    (b) Establishes [Assignment: organization-defined benchmarks] for taking corrective actions.
+description: Requires measuring the time between flaw identification and remediation and establishing benchmarks for taking corrective actions.
 elementType: enhancement
 externalId: SI-2 (3)
-guidance: This control enhancement requires organizations to determine the current time it takes on the average to correct information system flaws after such flaws have been identified, and subsequently establish organizational benchmarks (i.e., time frames) for taking corrective actions. Benchmarks can be established by type of flaw and/or severity of the potential vulnerability if the flaw can be exploited.
 parent: si-2
 aliases:
   - SI-2 (3)

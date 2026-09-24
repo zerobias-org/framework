@@ -3,7 +3,6 @@ name: Processing Domains
 description: "The information system uses protected processing domains to enforce [Assignment: organization-defined information flow control policies] as a basis for flow control decisions."
 elementType: enhancement
 externalId: AC-4 (2)
-guidance: Within information systems, protected processing domains are processing spaces that have controlled interactions with other processing spaces, thus enabling control of information flows between these spaces and to/from data/information objects. A protected processing domain can be provided, for example, by implementing domain and type enforcement. In domain and type enforcement, information system processes are assigned to domains; information is identified by types; and information flows are controlled based on allowed information accesses (determined by domain and type), allowed signaling among domains, and allowed process transitions to other domains.
 parent: ac-4
 aliases:
   - AC-4 (2)

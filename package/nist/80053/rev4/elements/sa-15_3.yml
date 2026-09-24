@@ -1,9 +1,8 @@
 id: 578501f0-5ea4-522f-a18c-e062e429a24a
 name: Criticality Analysis
-description: "The organization requires the developer of the information system, system component, or information system service to perform a criticality analysis at [Assignment: organization-defined breadth/depth] and at [Assignment: organization-defined decision points in the system development life cycle]."
+description: Requires developers to perform a criticality analysis at defined breadth and depth at decision points in the system development life cycle.
 elementType: enhancement
 externalId: SA-15 (3)
-guidance: This control enhancement provides developer input to the criticality analysis performed by organizations in SA-14. Developer input is essential to such analysis because organizations may not have access to detailed design documentation for information system components that are developed as commercial off-the-shelf (COTS) information technology products (e.g., functional specifications, high-level designs, low-level designs, and source code/hardware schematics).
 parent: sa-15
 aliases:
   - SA-15 (3)

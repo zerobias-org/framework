@@ -3,7 +3,6 @@ name: Risk Minimization Techniques
 description: "The organization, where feasible, uses techniques to minimize the risk to privacy of using PII for research, testing, or training"
 elementType: enhancement
 externalId: DM-3 (1)
-guidance: "Organizations can minimize risk to privacy of PII by using techniques such as de-identification"
 parent: dm-3
 aliases:
   - DM-3 (1)

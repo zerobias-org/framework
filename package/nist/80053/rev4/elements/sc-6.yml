@@ -1,7 +1,6 @@
 id: b98b3340-f504-5769-9bb9-d90ba7b459ef
 name: Resource Availability
-description: 'The information system protects the availability of resources by allocating [Assignment: organization-defined resources] by [Selection (one or more); priority; quota; [Assignment: organization-defined security safeguards]].'
+description: Requires protecting resource availability by allocating defined resources based on priority, quota, or other defined safeguards.
 elementType: control
 externalId: SC-6
-guidance: Priority protection helps prevent lower-priority processes from delaying or interfering with the information system servicing any higher-priority processes. Quotas prevent users or processes from obtaining more than predetermined amounts of resources. This control does not apply to information system components for which there are only single users/roles.
 parent: sc

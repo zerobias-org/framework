@@ -1,0 +1,4 @@
+The information system provides an audit reduction and report generation capability that:
+
+- a. Supports on-demand audit review, analysis, and reporting requirements and after-the-fact investigations of security incidents; and
+- b. Does not alter the original content or time ordering of audit records.

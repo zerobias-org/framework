@@ -1,9 +1,8 @@
 id: 21a00cd4-a7d2-52bb-91e7-a5acf27cc904
 name: Facility / Information System Boundaries
-description: "The organization performs security checks [Assignment: organization-defined frequency] at the physical boundary of the facility or information system for unauthorized exfiltration of information or removal of information system components."
+description: Requires performing periodic security checks at facility or system boundaries for unauthorized exfiltration of information or removal of components.
 elementType: enhancement
 externalId: PE-3 (2)
-guidance: Organizations determine the extent, frequency, and/or randomness of security checks to adequately mitigate risk associated with exfiltration.
 parent: pe-3
 aliases:
   - PE-3 (2)

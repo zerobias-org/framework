@@ -3,7 +3,6 @@ name: Time Limit On Process Execution W/o Supervision
 description: "The organization does not allow processes to execute without supervision for more than [Assignment: organization-defined time period]."
 elementType: enhancement
 externalId: SI-7 (16)
-guidance: This control enhancement addresses processes for which normal execution periods can be determined and situations in which organizations exceed such periods. Supervision includes, for example, operating system timers, automated responses, or manual oversight and response when information system process anomalies occur.
 parent: si-7
 aliases:
   - SI-7 (16)

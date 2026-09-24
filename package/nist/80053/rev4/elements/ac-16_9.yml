@@ -1,9 +1,8 @@
 id: 6ae1ccb1-3bd4-58ac-bb2d-06911367886d
 name: Attribute Reassignment
-description: "The organization ensures that security attributes associated with information are reassigned only via re-grading mechanisms validated using [Assignment: organization-defined techniques or procedures]."
+description: Requires that security attributes associated with information be reassigned only through validated re-grading mechanisms.
 elementType: enhancement
 externalId: AC-16 (9)
-guidance: Validated re-grading mechanisms are employed by organizations to provide the requisite levels of assurance for security attribute reassignment activities. The validation is facilitated by ensuring that re-grading mechanisms are single purpose and of limited function. Since security attribute reassignments can affect security policy enforcement actions (e.g., access/flow enforcement decisions), using trustworthy re-grading mechanisms is necessary to ensure that such mechanisms perform in a consistent/correct mode of operation.
 parent: ac-16
 aliases:
   - AC-16 (9)

@@ -1,7 +1,6 @@
 id: 97a80a00-b40c-5597-9531-2674c884f31c
 name: Water Damage Protection
-description: The organization protects the information system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel.
+description: Requires protecting the information system from water damage by providing accessible, working master shutoff or isolation valves known to key personnel.
 elementType: control
 externalId: PE-15
-guidance: This control applies primarily to facilities containing concentrations of information system resources including, for example, data centers, server rooms, and mainframe computer rooms. Isolation valves can be employed in addition to or in lieu of master shutoff valves to shut off water supplies in specific areas of concern, without affecting entire organizations.
 parent: pe

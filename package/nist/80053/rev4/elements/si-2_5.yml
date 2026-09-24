@@ -3,7 +3,6 @@ name: Automatic Software / Firmware Updates
 description: "The organization installs [Assignment: organization-defined security-relevant software and firmware updates] automatically to [Assignment: organization-defined information system components]."
 elementType: enhancement
 externalId: SI-2 (5)
-guidance: Due to information system integrity and availability concerns, organizations give careful consideration to the methodology used to carry out automatic updates. Organizations must balance the need to ensure that the updates are installed as soon as possible with the need to maintain configuration management and with any mission or operational impacts that automatic updates might impose.
 parent: si-2
 aliases:
   - SI-2 (5)

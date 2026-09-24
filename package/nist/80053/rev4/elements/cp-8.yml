@@ -1,7 +1,6 @@
 id: c1673bf2-cb4f-55fd-ab2e-59d5ca341ee9
 name: Telecommunications Services
-description: 'The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of [Assignment: organization-defined information system operations] for essential missions and business functions within [Assignment: organization-defined time period] when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.'
+description: Requires establishing alternate telecommunications services with agreements to resume operations within a defined time period when primary services are unavailable.
 elementType: control
 externalId: CP-8
-guidance: This control applies to telecommunications services (data and voice) for primary and alternate processing and storage sites. Alternate telecommunications services reflect the continuity requirements in contingency plans to maintain essential missions/business functions despite the loss of primary telecommunications services. Organizations may specify different time periods for primary/alternate sites. Alternate telecommunications services include, for example, additional organizational or commercial ground-based circuits/lines or satellites in lieu of ground-based communications. Organizations consider factors such as availability, quality of service, and access when entering into alternate telecommunications agreements.
 parent: cp

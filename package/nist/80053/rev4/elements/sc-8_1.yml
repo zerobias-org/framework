@@ -1,9 +1,8 @@
 id: c881047d-6850-5edf-8592-8f5070e2e5fb
 name: Cryptographic Or Alternate Physical Protection
-description: "The information system implements cryptographic mechanisms to [Selection (one or more): prevent unauthorized disclosure of information; detect changes to information] during transmission unless otherwise protected by [Assignment: organization-defined alternative physical safeguards]."
+description: Requires cryptographic mechanisms to prevent unauthorized disclosure of, or detect changes to, information during transmission unless otherwise physically protected.
 elementType: enhancement
 externalId: SC-8 (1)
-guidance: Encrypting information for transmission protects information from unauthorized disclosure and modification. Cryptographic mechanisms implemented to protect information integrity include, for example, cryptographic hash functions which have common application in digital signatures, checksums, and message authentication codes. Alternative physical security safeguards include, for example, protected distribution systems.
 parent: sc-8
 aliases:
   - SC-8 (1)

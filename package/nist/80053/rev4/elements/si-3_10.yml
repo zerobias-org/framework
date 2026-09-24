@@ -1,12 +1,8 @@
 id: bbc60c79-2211-5261-bfb0-f6c6daed18f5
 name: Malicious Code Analysis
-description: |-
-  The organization:
-    (a) Employs [Assignment: organization-defined tools and techniques] to analyze the characteristics and behavior of malicious code; and
-    (b) Incorporates the results from malicious code analysis into organizational incident response and flaw remediation processes.
+description: Requires using defined tools and techniques to analyze malicious code characteristics and behavior, and incorporating results into incident response and flaw remediation.
 elementType: enhancement
 externalId: SI-3 (10)
-guidance: The application of selected malicious code analysis tools and techniques provides organizations with a more in-depth understanding of adversary tradecraft (i.e., tactics, techniques, and procedures) and the functionality and purpose of specific instances of malicious code. Understanding the characteristics of malicious code facilitates more effective organizational responses to current and future threats. Organizations can conduct malicious code analyses by using reverse engineering techniques or by monitoring the behavior of executing code.
 parent: si-3
 aliases:
   - SI-3 (10)

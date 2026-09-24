@@ -1,9 +1,8 @@
 id: bb60de69-fca6-5696-b76d-5320e9471e2a
 name: Review System Changes
-description: "The organization reviews information system changes [Assignment: organization-defined frequency] and [Assignment: organization-defined circumstances] to determine whether unauthorized changes have occurred."
+description: Requires periodically reviewing information system changes under defined circumstances to determine whether unauthorized changes occurred.
 elementType: enhancement
 externalId: CM-5 (2)
-guidance: Indications that warrant review of information system changes and the specific circumstances justifying such reviews may be obtained from activities carried out by organizations during the configuration change process.
 parent: cm-5
 aliases:
   - CM-5 (2)

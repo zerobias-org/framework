@@ -3,7 +3,6 @@ name: Chain Of Custody
 description: The information system maintains reviewer/releaser identity and credentials within the established chain of custody for all information reviewed or released.
 elementType: enhancement
 externalId: AU-10 (3)
-guidance: Chain of custody is a process that tracks the movement of evidence through its collection, safeguarding, and analysis life cycle by documenting each person who handled the evidence, the date and time it was collected or transferred, and the purpose for the transfer. If the reviewer is a human or if the review function is automated but separate from the release/transfer function, the information system associates the identity of the reviewer of the information to be released with the information and the information label. In the case of human reviews, this control enhancement provides organizational officials the means to identify who reviewed and released the information. In the case of automated reviews, this control enhancement ensures that only approved review functions are employed.
 parent: au-10
 aliases:
   - AU-10 (3)

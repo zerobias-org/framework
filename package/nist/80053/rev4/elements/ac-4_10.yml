@@ -1,9 +1,8 @@
 id: 3fa7c750-8134-52f0-b231-d759e116179a
 name: Enable / Disable Security Policy Filters
-description: "The information system provides the capability for privileged administrators to enable/disable [Assignment: organization-defined security policy filters] under the following conditions: [Assignment: organization-defined conditions]."
+description: Requires providing privileged administrators the capability to enable or disable defined security policy filters under specified conditions.
 elementType: enhancement
 externalId: AC-4 (10)
-guidance: For example, as allowed by the information system authorization, administrators can enable security policy filters to accommodate approved data types.
 parent: ac-4
 aliases:
   - AC-4 (10)

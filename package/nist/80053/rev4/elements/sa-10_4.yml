@@ -1,9 +1,8 @@
 id: 178c1e55-419a-595e-81ff-060a43046353
 name: Trusted Generation
-description: The organization requires the developer of the information system, system component, or information system service to employ tools for comparing newly generated versions of security-relevant hardware descriptions and software/firmware source and object code with previous versions.
+description: Requires developers to employ tools comparing newly generated versions of security-relevant hardware descriptions and software or firmware code with previous versions.
 elementType: enhancement
 externalId: SA-10 (4)
-guidance: This control enhancement addresses changes to hardware, software, and firmware components between versions during development. In contrast, SA-10 (1) and SA-10 (3) allow organizations to detect unauthorized changes to hardware, software, and firmware components through the use of tools, techniques, and/or mechanisms provided by developers.
 parent: sa-10
 aliases:
   - SA-10 (4)

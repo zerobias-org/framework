@@ -1,0 +1,8 @@
+The organization:
+
+- a. Employs malicious code protection mechanisms at information system entry and exit points to detect and eradicate malicious code;
+- b. Updates malicious code protection mechanisms whenever new releases are available in accordance with organizational configuration management policy and procedures;
+- c. Configures malicious code protection mechanisms to:
+    - 1\. Perform periodic scans of the information system [Assignment: organization-defined frequency] and real-time scans of files from external sources at [Selection (one or more); endpoint; network entry/exit points] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+    - 2\. [Selection (one or more): block malicious code; quarantine malicious code;  send alert to administrator; [Assignment: organization-defined action]] in response to malicious code detection; and
+- d. Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
