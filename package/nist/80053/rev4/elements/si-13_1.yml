@@ -1,6 +1,6 @@
 id: b0120010-54cb-51b4-8e01-ac955ab07aa5
 name: Transferring Component Responsibilities
-description: "The organization takes information system components out of service by transferring component responsibilities to substitute components no later than [Assignment: organization-defined fraction or percentage] of mean time to failure."
+description: Requires taking components out of service by transferring responsibilities to substitutes no later than a defined fraction of mean time to failure.
 elementType: enhancement
 externalId: SI-13 (1)
 parent: si-13

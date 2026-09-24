@@ -1,6 +1,6 @@
 id: dded3827-00ba-520a-bea4-e6f9dc58a3a4
 name: Content Check Encrypted Information
-description: "The information system prevents encrypted information from bypassing content-checking mechanisms by [Selection (one or more): decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; [Assignment: organization-defined procedure or method]]."
+description: Requires preventing encrypted information from bypassing content-checking mechanisms by decrypting, blocking, or terminating sessions carrying it.
 elementType: enhancement
 externalId: AC-4 (4)
 parent: ac-4

@@ -1,10 +1,6 @@
 id: b1f129c0-ab71-5482-b05c-3208068d138b
 name: Visitor Access Records
-description: |-
-  The organization:
-    a. Maintains visitor access records to the facility where the information system resides for [Assignment: organization-defined time period]; and
-    b. Reviews visitor access records [Assignment: organization-defined frequency].
+description: Requires maintaining visitor access records to the facility for an organization-defined period and reviewing them at a defined frequency.
 elementType: control
 externalId: PE-8
-guidance: Visitor access records include, for example, names and organizations of persons visiting, visitor signatures, forms of identification, dates of access, entry and departure times, purposes of visits, and names and organizations of persons visited. Visitor access records are not required for publicly accessible areas.
 parent: pe

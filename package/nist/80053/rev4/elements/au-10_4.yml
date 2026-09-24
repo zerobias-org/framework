@@ -1,12 +1,8 @@
 id: 02823924-8513-5d4e-afa2-5414695af1ca
 name: Validate Binding Of Information Reviewer Identity
-description: |-
-  The information system:
-    (a) Validates the binding of the information reviewer identity to the information at the transfer or release points prior to release/transfer between [Assignment: organization-defined security domains]; and
-    (b) Performs [Assignment: organization-defined actions] in the event of a validation error.
+description: Requires validating the binding of information reviewer identity before release or transfer between security domains and acting on validation errors.
 elementType: enhancement
 externalId: AU-10 (4)
-guidance: This control enhancement prevents the modification of information between review and transfer/release. The validation of bindings can be achieved, for example, by the use of cryptographic checksums. Organizations determine validations are in response to user requests or generated automatically.
 parent: au-10
 aliases:
   - AU-10 (4)

@@ -1,9 +1,8 @@
 id: 68a6756d-841d-52cb-bcf6-d57dc3a7f562
 name: Continue  Essential Missions / Business Functions
-description: The organization plans for the continuance of essential missions and business functions with little or no loss of operational continuity and sustains that continuity until full information system restoration at primary processing and/or storage sites.
+description: Requires planning for continuance of essential missions and business functions with little or no operational continuity loss until full system restoration.
 elementType: enhancement
 externalId: CP-2 (5)
-guidance: Organizations may choose to carry out the contingency planning activities in this control enhancement as part of organizational business continuity planning including, for example, as part of business impact analyses. Primary processing and/or storage sites defined by organizations as part of contingency planning may change depending on the circumstances associated with the contingency (e.g., backup sites may become primary sites).
 parent: cp-2
 aliases:
   - CP-2 (5)

@@ -1,13 +1,8 @@
 id: b6a1b39a-b449-5b10-91ed-e9c7d3e25c3e
 name: Authorized Software / Whitelisting
-description: |-
-  The organization:
-    (a) Identifies [Assignment: organization-defined software programs authorized to execute on the information system];
-    (b) Employs a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the information system; and
-    (c) Reviews and updates the list of authorized software programs [Assignment: organization-defined frequency].
+description: Requires identifying authorized software, enforcing a deny-all permit-by-exception policy allowing only its execution, and periodically updating the authorized software list.
 elementType: enhancement
 externalId: CM-7 (5)
-guidance: The process used to identify software programs that are authorized to execute on organizational information systems is commonly referred to as whitelisting. In addition to whitelisting, organizations consider verifying the integrity of white-listed software programs using, for example, cryptographic checksums, digital signatures, or hash functions. Verification of white-listed software can occur either prior to execution or at system startup.
 parent: cm-7
 aliases:
   - CM-7 (5)

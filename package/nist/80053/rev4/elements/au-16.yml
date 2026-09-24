@@ -1,7 +1,6 @@
 id: 52dbf0a1-2a29-5144-a2a8-68a65a4a8bd7
 name: Cross-organizational Auditing
-description: 'The organization employs [Assignment: organization-defined methods] for coordinating [Assignment: organization-defined audit information] among external organizations when audit information is transmitted across organizational boundaries.'
+description: Requires employing defined methods to coordinate audit information among external organizations when it is transmitted across organizational boundaries.
 elementType: control
 externalId: AU-16
-guidance: When organizations use information systems and/or services of external organizations, the auditing capability necessitates a coordinated approach across organizations. For example, maintaining the identity of individuals that requested particular services across organizational boundaries may often be very difficult, and doing so may prove to have significant performance ramifications. Therefore, it is often the case that cross-organizational auditing (e.g., the type of auditing capability provided by service-oriented architectures) simply captures the identity of individuals issuing requests at the initial information system, and subsequent systems record that the requests emanated from authorized individuals.
 parent: au

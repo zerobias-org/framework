@@ -1,14 +1,6 @@
 id: 8347d8e6-2805-5d33-b402-b6e61b0e6627
 name: Contingency Planning Policy and Procedures
-description: |-
-  The organization:
-    a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:
-      1. A contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-      2. Procedures to facilitate the implementation of the contingency planning policy and associated contingency planning controls; and
-    b. Reviews and updates the current:
-      1. Contingency planning policy [Assignment: organization-defined frequency]; and
-      2. Contingency planning procedures [Assignment: organization-defined frequency].
+description: Requires developing, disseminating, and periodically reviewing a contingency planning policy and supporting procedures.
 elementType: control
 externalId: CP-1
-guidance: This control addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the CP family. Policy and procedures reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Security program policies and procedures at the organization level may make the need for system-specific policies and procedures unnecessary. The policy can be included as part of the general information security policy for organizations or conversely, can be represented by multiple policies reflecting the complex nature of certain organizations. The procedures can be established for the security program in general and for particular information systems, if needed. The organizational risk management strategy is a key factor in establishing policy and procedures.
 parent: cp

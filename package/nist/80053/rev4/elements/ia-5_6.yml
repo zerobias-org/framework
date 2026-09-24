@@ -3,7 +3,6 @@ name: Protection Of Authenticators
 description: The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access.
 elementType: enhancement
 externalId: IA-5 (6)
-guidance: For information systems containing multiple security categories of information without reliable physical or logical separation between categories, authenticators used to grant access to the systems are protected commensurate with the highest security category of information on the systems.
 parent: ia-5
 aliases:
   - IA-5 (6)

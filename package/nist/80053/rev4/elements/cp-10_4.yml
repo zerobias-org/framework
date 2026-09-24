@@ -1,9 +1,8 @@
 id: 0b76133b-e30a-54a8-83ea-0afd5dd5fbf7
 name: Restore Within Time Period
-description: "The organization provides the capability to restore information system components within [Assignment: organization-defined restoration time-periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components."
+description: Requires providing the capability to restore information system components within defined time periods from integrity-protected, known operational configurations.
 elementType: enhancement
 externalId: CP-10 (4)
-guidance: Restoration of information system components includes, for example, reimaging which restores components to known, operational states.
 parent: cp-10
 aliases:
   - CP-10 (4)

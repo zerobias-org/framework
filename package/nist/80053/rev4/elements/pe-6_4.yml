@@ -1,9 +1,8 @@
 id: cfa6f6c6-0e17-5bf7-80ff-d2313c047fec
 name: Monitoring Physical Access To Information Systems
-description: "The organization monitors physical access to the information system in addition to the physical access monitoring of the facility as [Assignment: organization-defined physical spaces containing one or more components of the information system]."
+description: Requires monitoring physical access specifically to the information system in addition to general facility access monitoring.
 elementType: enhancement
 externalId: PE-6 (4)
-guidance: This control enhancement provides additional monitoring for those areas within facilities where there is a concentration of information system components (e.g., server rooms, media storage areas, communications centers).
 parent: pe-6
 aliases:
   - PE-6 (4)

@@ -1,11 +1,6 @@
 id: 1e6fae0e-2290-5a3d-a484-16edd22782ea
 name: Alternate Work Site
-description: |-
-  The organization:
-    a. Employs [Assignment: organization-defined security controls] at alternate work sites;
-    b. Assesses as feasible, the effectiveness of security controls at alternate work sites; and
-    c. Provides a means for employees to communicate with information security personnel in case of security incidents or problems.
+description: Requires employing defined security controls at alternate work sites, assessing their effectiveness, and providing a means for employees to report security incidents.
 elementType: control
 externalId: PE-17
-guidance: Alternate work sites may include, for example, government facilities or private residences of employees. While commonly distinct from alternative processing sites, alternate work sites may provide readily available alternate locations as part of contingency operations. Organizations may define different sets of security controls for specific alternate work sites or types of sites depending on the work-related activities conducted at those sites. This control supports the contingency planning activities of organizations and the federal telework initiative.
 parent: pe

@@ -1,9 +1,8 @@
 id: 8097726b-fc00-5017-bffa-ce077035b21f
 name: Penetration Testing
-description: "The organization requires the developer of the information system, system component, or information system service to perform penetration testing at [Assignment: organization-defined breadth/depth] and with [Assignment: organization-defined constraints]."
+description: Requires developers to perform penetration testing at a defined breadth and depth with defined constraints.
 elementType: enhancement
 externalId: SA-11 (5)
-guidance: Penetration testing is an assessment methodology in which assessors, using all available information technology product and/or information system documentation (e.g., product/system design specifications, source code, and administrator/operator manuals) and working under specific constraints, attempt to circumvent implemented security features of information technology products and information systems. Penetration testing can include, for example, white, gray, or black box testing with analyses performed by skilled security professionals simulating adversary actions. The objective of penetration testing is to uncover potential vulnerabilities in information technology products and information systems resulting from implementation errors, configuration faults, or other operational deployment weaknesses or deficiencies. Penetration tests can be performed in conjunction with automated and manual code reviews to provide greater levels of analysis than would ordinarily be possible.
 parent: sa-11
 aliases:
   - SA-11 (5)

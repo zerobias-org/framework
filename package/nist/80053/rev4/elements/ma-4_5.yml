@@ -1,12 +1,8 @@
 id: 2372b88e-0b1c-578b-85b4-a4005a0bc0dc
 name: Approvals and Notifications
-description: |-
-  The organization:
-    (a) Requires the approval of each nonlocal maintenance session by [Assignment: organization-defined personnel or roles]; and
-    (b) Notifies [Assignment: organization-defined personnel or roles] of the date and time of planned nonlocal maintenance.
+description: Requires approving each nonlocal maintenance session and notifying designated personnel of planned session dates and times.
 elementType: enhancement
 externalId: MA-4 (5)
-guidance: Notification may be performed by maintenance personnel. Approval of nonlocal maintenance sessions is accomplished by organizational personnel with sufficient information security and information system knowledge to determine the appropriateness of the proposed maintenance.
 parent: ma-4
 aliases:
   - MA-4 (5)

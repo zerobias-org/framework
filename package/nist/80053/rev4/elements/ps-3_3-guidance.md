@@ -1,0 +1,1 @@
+Organizational information requiring special protection includes, for example, Controlled Unclassified Information (CUI) and Sources and Methods Information (SAMI).  Personnel security criteria include, for example, position sensitivity background screening requirements.

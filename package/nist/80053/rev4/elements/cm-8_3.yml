@@ -1,12 +1,8 @@
 id: 57d49a0c-40e9-5354-bf49-a634007f2e83
 name: Automated Unauthorized Component Detection
-description: |-
-  The organization:
-    (a) Employs automated mechanisms [Assignment: organization-defined frequency] to detect the presence of unauthorized hardware, software, and firmware components within the information system; and
-    (b) Takes the following actions when unauthorized components are detected: [Selection (one or more): disables network access by such components; isolates the components; notifies [Assignment: organization-defined personnel or roles]].
+description: Requires automated mechanisms to periodically detect unauthorized hardware, software, and firmware components and take defined actions such as isolation or notification.
 elementType: enhancement
 externalId: CM-8 (3)
-guidance: This control enhancement is applied in addition to the monitoring for unauthorized remote connections and mobile devices. Monitoring for unauthorized system components may be accomplished on an ongoing basis or by the periodic scanning of systems for that purpose. Automated mechanisms can be implemented within information systems or in other separate devices. Isolation can be achieved, for example, by placing unauthorized information system components in separate domains or subnets or otherwise quarantining such components. This type of component isolation is commonly referred to as sandboxing.
 parent: cm-8
 aliases:
   - CM-8 (3)

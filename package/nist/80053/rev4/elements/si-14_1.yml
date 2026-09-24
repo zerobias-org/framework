@@ -3,7 +3,6 @@ name: Refresh From Trusted Sources
 description: "The organization ensures that software and data employed during information system component and service refreshes are obtained from [Assignment: organization-defined trusted sources]."
 elementType: enhancement
 externalId: SI-14 (1)
-guidance: Trusted sources include, for example, software/data from write-once, read-only media or from selected off-line secure storage facilities.
 parent: si-14
 aliases:
   - SI-14 (1)

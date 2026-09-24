@@ -1,11 +1,6 @@
 id: 6c55c19d-0e91-59b2-8ba3-f7219304c7d8
 name: Security Authorization Process
-description: |-
-  The organization:
-    a. Manages (i.e., documents, tracks, and reports) the security state of organizational information systems and the environments in which those systems operate through security authorization processes;
-    b. Designates individuals to fulfill specific roles and responsibilities within the organizational risk management process; and
-    c. Fully integrates the security authorization processes into an organization-wide risk management program.
+description: Requires managing the security state of systems through authorization processes, designating risk management roles, and integrating authorization into an organization-wide risk management program.
 elementType: control
 externalId: PM-10
-guidance: Security authorization processes for information systems and environments of operation require the implementation of an organization-wide risk management process, a Risk Management Framework, and associated security standards and guidelines. Specific roles within the risk management process include an organizational risk executive (function) and designated authorizing officials for each organizational information system and common control provider. Security authorization processes are integrated with organizational continuous monitoring processes to facilitate ongoing understanding and acceptance of risk to organizational operations and assets, individuals, other organizations, and the Nation.
 parent: pm

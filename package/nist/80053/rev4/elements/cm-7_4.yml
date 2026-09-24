@@ -1,13 +1,8 @@
 id: 8a1a24be-5315-54f4-b53f-8f74ed89e509
 name: Unauthorized Software / Blacklisting
-description: |-
-  The organization:
-    (a) Identifies [Assignment: organization-defined software programs not authorized to execute on the information system];
-    (b) Employs an allow-all, deny-by-exception policy to prohibit the execution of unauthorized software programs on the information system; and
-    (c) Reviews and updates the list of unauthorized software programs [Assignment: organization-defined frequency].
+description: Requires identifying unauthorized software, enforcing a deny-by-exception policy prohibiting its execution, and periodically updating the unauthorized software list.
 elementType: enhancement
 externalId: CM-7 (4)
-guidance: The process used to identify software programs that are not authorized to execute on organizational information systems is commonly referred to as blacklisting. Organizations can implement CM-7 (5) instead of this control enhancement if whitelisting (the stronger of the two policies) is the preferred approach for restricting software program execution.
 parent: cm-7
 aliases:
   - CM-7 (4)

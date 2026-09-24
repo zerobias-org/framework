@@ -1,12 +1,8 @@
 id: 90b0222a-6f90-5526-aaca-236b069b0f97
 name: Restrict Threatening Outgoing Communications Traffic
-description: |-
-  The information system:
-    (a) Detects and denies outgoing communications traffic posing a threat to external information systems; and
-    (b) Audits the identity of internal users associated with denied communications.
+description: Requires detecting and denying outgoing communications traffic that threatens external systems, and auditing the identity of internal users involved.
 elementType: enhancement
 externalId: SC-7 (9)
-guidance: Detecting outgoing communications traffic from internal actions that may pose threats to external information systems is sometimes termed extrusion detection. Extrusion detection at information system boundaries as part of managed interfaces includes the analysis of incoming and outgoing communications traffic searching for indications of internal threats to the security of external systems. Such threats include, for example, traffic indicative of denial of service attacks and traffic containing malicious code.
 parent: sc-7
 aliases:
   - SC-7 (9)
