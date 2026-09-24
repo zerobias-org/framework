@@ -1,0 +1,1 @@
+Ensure that all viable commands are known to the mission/spacecraft owner. Perform analysis of critical (backdoor/hardware) commands that could adversely affect mission success if used maliciously. Only use or include critical commands for the purpose of providing emergency access where commanding authority is appropriately restricted.

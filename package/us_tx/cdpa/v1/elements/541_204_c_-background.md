@@ -1,0 +1,1 @@
+A controller that processes personal data under an exemption in this subchapter bears the burden of demonstrating that the processing of the personal data qualifies for the exemption and complies with the requirements of Subsections (a) and (b).

@@ -1,0 +1,1 @@
+The Controller shall notify the Data Subject of any breach, damage or illegal access to their Personal Data that would cause damage to their data or cause prejudice to their rights and interests, in accordance with the Regulations.

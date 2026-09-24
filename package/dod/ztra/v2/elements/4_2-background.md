@@ -1,0 +1,1 @@
+The ability to prevent or arrest software supply chain attacks, which occur "when a cyber threat actor infiltrates a software vendor’s network and employs malicious code to compromise the software before the vendor sends it to their customers."

@@ -1,0 +1,1 @@
+Programming languages, both compiled and interpreted, provide many built-in checks and protections. Use such capabilities during development and in the shipped software. Interpreted languages typically have significant security enforcement built-in, although additional measures can be enabled.

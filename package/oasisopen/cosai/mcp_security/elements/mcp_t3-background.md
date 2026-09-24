@@ -1,0 +1,1 @@
+Insufficient validation and sanitization of inputs flowing through MCP tool calls, prompts, and resource URIs, enabling injection attacks including command injection, path traversal, SQL injection, and cross-site scripting through MCP message payloads.

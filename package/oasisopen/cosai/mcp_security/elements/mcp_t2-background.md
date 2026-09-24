@@ -1,0 +1,1 @@
+MCP does not define access control mechanisms, leaving authorization decisions to implementations. This can lead to excessive permissions, privilege escalation, unauthorized resource access, and failure to enforce least-privilege principles across MCP tool invocations.

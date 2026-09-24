@@ -1,0 +1,1 @@
+Implement disaster recovery plans that contain procedures for taking regular data backups that can be used to restore critical data. Ensure backups are stored off system and is protected from common methods adversaries may use to gain access and destroy the backups to prevent recovery.

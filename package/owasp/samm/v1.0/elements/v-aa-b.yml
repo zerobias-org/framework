@@ -1,9 +1,6 @@
 id: c2824627-19ec-4766-9b25-d86b9480514a
 name: Architecture Mitigation
-description: >
-  Architecture mitigation focuses on ensuring that all threats identified during
-  Threat Assessment are adequately mitigated, and existing reference
-  architectures updated to address any unhandled threats.
+description: Ensures threats identified during threat assessment are adequately mitigated and reference architectures updated to address unhandled threats.
 elementType: stream
 externalId: V-AA-B
 parent: v-aa

@@ -1,0 +1,1 @@
+When using COTS or Open-Source, protect the version numbers being used as these numbers can be cross referenced against public repos to identify Common Vulnerability Exposures (CVEs) and exploits available.

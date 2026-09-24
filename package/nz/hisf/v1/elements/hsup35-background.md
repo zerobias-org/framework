@@ -1,0 +1,1 @@
+Access to information and its associated assets is defined and authorised according to the business, customer and security requirements by adhering to the organisation's identity and access management policy or procedures.

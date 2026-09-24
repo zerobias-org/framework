@@ -1,0 +1,1 @@
+Training Data Poisoning occurs when the data used to train or fine-tune an LLM is manipulated to introduce vulnerabilities, backdoors, or biases that compromise the model's security, effectiveness, or ethical behavior.

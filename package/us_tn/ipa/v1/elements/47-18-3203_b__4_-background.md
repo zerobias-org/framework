@@ -1,0 +1,1 @@
+If a controller is unable to authenticate the request using commercially reasonable efforts, then the controller is not required to comply with a request to initiate an action under subsection (a) and may request that the consumer provide additional information reasonably necessary to authenticate the consumer and the consumer's request.

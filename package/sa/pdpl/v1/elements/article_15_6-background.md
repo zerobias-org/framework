@@ -1,0 +1,1 @@
+The Disclosure is necessary to achieve legitimate interests of the Controller, without prejudice to the rights and interests of the Data Subject, and provided that no Sensitive Data is to be processed.

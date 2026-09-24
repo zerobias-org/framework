@@ -1,0 +1,1 @@
+The entity requesting Disclosure is a Public Entity, and the Collection or Processing of the Personal Data is required for public interest or security purposes, or to implement another law, to fulfill judicial requirements.

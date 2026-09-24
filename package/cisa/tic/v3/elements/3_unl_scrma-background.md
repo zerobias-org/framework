@@ -1,0 +1,1 @@
+Supply chain risk management involves implementing a systematic process for managing risk exposures, threats, and vulnerabilities throughout the supply chain. It also involves developing risk response strategies for the risks presented by the supplier, the supplied products and services, or the cyber supply chain.

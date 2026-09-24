@@ -1,0 +1,1 @@
+Prompt Injection occurs when an attacker manipulates the input to an LLM through crafted prompts that cause the model to act in unintended ways. This can be direct (jailbreaking) or indirect (manipulating external data sources).

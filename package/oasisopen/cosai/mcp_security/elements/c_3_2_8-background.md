@@ -1,0 +1,1 @@
+Design MCP tool interfaces and user experiences that clearly communicate security implications to users. Implement clear permission prompts, action previews, and risk indicators to enable informed consent for tool invocations with security-sensitive operations.

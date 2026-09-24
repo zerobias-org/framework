@@ -1,0 +1,1 @@
+Apply comprehensive input validation and sanitization to all data flowing through MCP messages, including tool parameters, resource URIs, and prompt content. Implement allowlists, schema validation, and context-aware filtering to prevent injection attacks.

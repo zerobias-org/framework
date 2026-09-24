@@ -1,0 +1,1 @@
+A set of processes that ensures that data assets are formally managed throughout the enterprise. A data governance model establishes authority and management and decision making parameters related to the data produced or managed by theenterprise.

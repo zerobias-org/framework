@@ -1,0 +1,1 @@
+Personal data processed by a controller under this subchapter may not be processed for any purpose other than a purpose listed in this subchapter unless otherwise allowed by this chapter. Personal data processed by a controller under this subchapter may be processed to the extent that the processing of the data is:

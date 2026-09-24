@@ -1,10 +1,6 @@
 id: f81a4d49-1adf-445a-8e13-0ebb2b18a37c
 externalId: MCP-T5
 name: Inadequate Data Protection and Confidentiality Controls
-description: >-
-  MCP does not define data classification or confidentiality mechanisms,
-  risking exposure of sensitive data through tool descriptions, resource
-  content, conversation context, or cross-server data leakage when multiple
-  MCP servers share a conversation context.
+description: MCP does not define data classification or confidentiality mechanisms, risking sensitive data exposure through tool descriptions, resource content, or cross-server leakage.
 elementType: threat_category
 parent: contextualized_threats

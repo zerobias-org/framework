@@ -1,0 +1,1 @@
+Deploy MCP servers and tool executions within sandboxed environments with strict resource isolation. Use containerization, process isolation, and network segmentation to contain potential compromises and prevent lateral movement between MCP components.

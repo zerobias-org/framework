@@ -1,0 +1,1 @@
+Implementing appropriate measures to verify that the Data Subject has given their explicit consent to the Collection of the Personal Data, changing the purpose of the Collection, or Disclosure or Publishing of the Personal Data in accordance with the provisions of this Law and the Credit Information Law.

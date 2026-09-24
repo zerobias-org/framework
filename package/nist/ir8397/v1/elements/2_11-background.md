@@ -1,0 +1,1 @@
+Use the verification techniques recommended in this section to gain assurance that included code is at least as secure as code developed locally. The components of the software must be continually monitored against databases of known vulnerabilities.

@@ -1,7 +1,5 @@
 id: d5a8516f-3d6f-4b37-95f4-e2e3cc7f5eff
 externalId: 3.PEP.DO.DNVAC
 name: Domain Name Verification for Agency Clients
-description: Domain name verification protections ensure that domain name
-  lookups from agency clients, whether for internal or external domains, are
-  validated according to Domain Name System Security Extensions (DNSSEC).
+description: Requires validating domain name lookups from agency clients, whether internal or external, according to DNSSEC.
 elementType: control

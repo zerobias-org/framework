@@ -1,0 +1,1 @@
+Authenticated received chain allows for an intermediary, like a mailing list or forwarding service, to sign its own authentication of the original email, allowing downstream entities to accept the intermediary’s authentication even if the email was changed.

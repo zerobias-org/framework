@@ -1,9 +1,5 @@
 id: 9b7791b7-ce7d-4c1f-8884-2abbcff9df55
 externalId: CM0043
 name: Backdoor Commands
-description: Ensure that all viable commands are known to the mission/spacecraft
-  owner. Perform analysis of critical (backdoor/hardware) commands that could
-  adversely affect mission success if used maliciously. Only use or include
-  critical commands for the purpose of providing emergency access where
-  commanding authority is appropriately restricted.
+description: Requires the mission owner to know all viable commands, analyze critical backdoor or hardware commands for risk, and restrict their use to authorized emergency access.
 elementType: control

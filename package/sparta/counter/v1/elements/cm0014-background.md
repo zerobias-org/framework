@@ -1,0 +1,1 @@
+Software/Firmware must verify a trust chain that extends through the hardware root of trust, boot loader, boot configuration file, and operating system image, in that order. The trusted boot/RoT computing module should be implemented on radiation tolerant burn-in (non-programmable) equipment.

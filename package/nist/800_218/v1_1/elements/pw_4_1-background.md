@@ -1,3 +1,5 @@
+Acquire and maintain well-secured software components (e.g., software libraries, modules, middleware, frameworks) from commercial, open-source, and other third-party developers for use by the organization’s software.
+
 **Example 1**: Review and evaluate third-party software components in the context of their expected use. If a component is to be used in a substantially different way in the future, perform the review and evaluation again with that new context in mind.
 
 **Example 2**: Determine secure configurations for software components, and make these available (e.g., as configuration-as-code) so developers can readily use the configurations.

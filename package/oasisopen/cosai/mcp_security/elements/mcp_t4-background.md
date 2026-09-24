@@ -1,0 +1,1 @@
+MCP does not enforce a distinction between trusted instructions and untrusted data, creating risks of indirect prompt injection where attacker-controlled data in MCP tool responses or resources is interpreted as instructions by the LLM, leading to unauthorized actions.

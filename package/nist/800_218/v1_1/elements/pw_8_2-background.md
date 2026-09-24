@@ -1,3 +1,5 @@
+Scope the testing, design the tests, perform the testing, and document the results, including recording and triaging all discovered issues and recommended remediations in the development team’s workflow or issue tracking system.
+
 **Example 1**: Perform robust functional testing of security features.
 
 **Example 2**: Integrate dynamic vulnerability testing into the project’s automated test suite.

@@ -1,0 +1,1 @@
+Require explicit human approval for high-risk MCP tool invocations including data modifications, external communications, and privileged operations. Implement approval workflows, break-glass procedures, and escalation mechanisms to maintain human oversight of agentic actions.

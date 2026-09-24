@@ -1,0 +1,1 @@
+Inadequate logging and monitoring capabilities in MCP implementations, making it difficult to detect security incidents, trace tool invocations, audit data access patterns, and maintain accountability for actions taken through MCP-connected AI systems.

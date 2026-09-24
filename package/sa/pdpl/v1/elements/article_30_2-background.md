@@ -1,0 +1,1 @@
+The Regulations shall identify the situations where the Controller shall appoint one or more persons as personal data protection officer(s). and shall set the responsibilities of any such person in accordance with the provisions of this Law.
