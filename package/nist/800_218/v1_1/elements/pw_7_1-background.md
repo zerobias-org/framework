@@ -1,3 +1,5 @@
+Determine whether code review (a person looks directly at the code to find issues) and/or code analysis (tools are used to find issues in code, either in a fully automated way or in conjunction with a person) should be used, as defined by the organization.
+
 **Example 1**: Follow the organization’s policies or guidelines for when code review should be performed and how it should be conducted. This may include third-party code and reusable code modules written in-house.
 
 **Example 2**: Follow the organization’s policies or guidelines for when code analysis should be performed and how it should be conducted.

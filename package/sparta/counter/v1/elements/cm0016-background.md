@@ -1,0 +1,1 @@
+Create prioritized list of software weakness classes (e.g., Common Weakness Enumerations), based on system-specific considerations, to be used during static code analysis for prioritization of static analysis results.

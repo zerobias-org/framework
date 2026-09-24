@@ -1,0 +1,1 @@
+The Controller may not process Personal Data without taking sufficient steps to verify the Personal Data accuracy, completeness, timeliness and relevance to the purpose for which it is collected in accordance with the provisions of the Law.

@@ -1,0 +1,1 @@
+Establish governance processes for the MCP server lifecycle including vetting, approval, version management, deprecation, and decommissioning. Implement policies for server registry management, update procedures, and vulnerability response to maintain supply chain security.

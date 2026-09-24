@@ -1,0 +1,1 @@
+We recommend using a fuzzer, which performs automatic active testing; fuzzers create huge numbers of inputs during testing. Typically, only a tiny fraction of the inputs trigger code problems. These tools can try an immense number of inputs with minimal human supervision.

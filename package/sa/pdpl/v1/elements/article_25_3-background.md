@@ -1,0 +1,1 @@
+The Regulations shall set out the provisions concerning the aforementioned advertising and awareness-raising materials, as well as the conditions and situations concerning the consent of the recipient to receive aforementioned materials.

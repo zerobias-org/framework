@@ -1,0 +1,1 @@
+Establish and verify agent identity through robust authentication mechanisms including OAuth 2.1 with PKCE, mutual TLS, or equivalent protocols. Ensure MCP clients and servers can authenticate each other and maintain verifiable identity chains across tool invocations.

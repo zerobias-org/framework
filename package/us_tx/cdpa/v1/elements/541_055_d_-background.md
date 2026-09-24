@@ -1,0 +1,1 @@
+A controller that operates exclusively online and has a direct relationship with a consumer from whom the controller collects personal information is only required to provide an e-mail address for the submission of requests described by Subsection (c).

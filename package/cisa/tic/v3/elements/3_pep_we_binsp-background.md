@@ -1,0 +1,1 @@
+Break and Inspect systems, or encryption proxies, terminate encrypted traffic, logging or performing policy enforcement against the plaintext, and re- encrypting the traffic, if applicable, before transmitting to the final destination.

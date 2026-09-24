@@ -1,8 +1,5 @@
 id: d7cba3e7-9dd8-4cc5-b907-5bbef208022d
 externalId: A.03.12.05.ODP[01]
 name: Information Exchange
-description: "one or more of the following PARAMETER VALUES are selected:
-  {interconnection security agreements; information exchange security
-  agreements; memoranda of understanding or agreement; service-level agreements;
-  user agreements; non-disclosure agreements; other types of agreements}."
+description: Selects one or more agreement types, such as interconnection security agreements, memoranda of understanding, or service-level agreements, to govern information exchange.
 elementType: control

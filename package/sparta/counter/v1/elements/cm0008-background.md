@@ -1,0 +1,1 @@
+As penetration testing and vulnerability scanning is a best practice, protecting the results from these tests and scans is equally important. These reports and results typically outline detailed vulnerabilities and how to exploit them. As with countermeasure CM0001, protecting sensitive information from disclosure to threat actors is imperative.

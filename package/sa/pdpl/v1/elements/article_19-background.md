@@ -1,0 +1,1 @@
+The Controller shall implement all the necessary organizational, administrative and technical measures to protect Personal Data, including during the Transfer of Personal Data, in accordance with the provisions and controls set out in the Regulations.

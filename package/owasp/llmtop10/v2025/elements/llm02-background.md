@@ -1,0 +1,1 @@
+Insecure Output Handling refers to vulnerabilities where LLM outputs are passed to downstream components without proper validation, potentially enabling XSS, CSRF, SSRF, privilege escalation, or remote code execution.

@@ -1,0 +1,1 @@
+Except as otherwise provided by this chapter, a controller shall comply with a request submitted by a consumer to exercise the consumer's rights pursuant to Section 541.051 as provided by this section.

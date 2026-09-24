@@ -1,0 +1,1 @@
+Hospitals processing health information are to ensure: a: information security responsibilities are clearly defined and assigned b: a governance body overseeing health information security activities is in place c: at least one individual is responsible for health information security.

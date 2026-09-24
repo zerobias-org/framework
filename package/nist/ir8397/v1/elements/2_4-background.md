@@ -1,0 +1,1 @@
+We recommend using heuristic tools to examine the code for hardcoded passwords and private encryption keys. While the primary method to reduce the chance of malicious code is integrity measures, heuristic tools may assist by identifying small sections of code that are suspicious.

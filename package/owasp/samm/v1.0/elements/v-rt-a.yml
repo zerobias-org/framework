@@ -1,9 +1,6 @@
 id: 2527fb8d-0aaf-4b9f-94f9-efd802cba7ca
 name: Control Verification
-description: >
-  Control Verification validates that security controls and requirements are met
-  through testing derived from requirements, and prevents the introduction of
-  bugs into later releases through regression testing.
+description: Validates that security controls and requirements are met through requirements-derived testing and prevents regressions via regression testing.
 elementType: stream
 externalId: V-RT-A
 parent: v-rt

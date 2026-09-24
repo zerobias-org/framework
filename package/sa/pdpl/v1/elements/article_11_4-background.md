@@ -1,0 +1,1 @@
+If the Personal Data collected is no longer necessary for the purpose for which it has been collected, the Controller shall, without undue delay, cease their Collection and destroy previously collected Personal Data.

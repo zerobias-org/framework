@@ -1,0 +1,1 @@
+Utilize a two-person system to achieve a high level of security for systems with command level access to the spacecraft. Under this rule all access and actions require the presence of two authorized people at all times.

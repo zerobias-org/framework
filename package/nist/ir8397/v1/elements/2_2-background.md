@@ -1,0 +1,1 @@
+Automated support for verification can be as simple as a script or as sophisticated as a fully-integrated system. We recommend automated verification to ensure that static analysis does not report new weaknesses, run tests consistently, check results accurately, and minimize the need for human effort and expertise.

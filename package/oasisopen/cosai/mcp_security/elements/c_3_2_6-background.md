@@ -1,0 +1,1 @@
+Implement cryptographic verification for MCP resources including server packages, tool definitions, and data sources. Use code signing, package integrity checks, and trusted registries to ensure resource authenticity and prevent supply chain attacks.

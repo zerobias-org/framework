@@ -1,0 +1,1 @@
+Supply Chain Vulnerabilities in LLM applications can arise from compromised pre-trained models, poisoned training data from third parties, vulnerable plugins, or outdated components that introduce security risks.

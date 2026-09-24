@@ -1,6 +1,6 @@
 id: d8ee858a-1699-432c-8422-c81bbeedf9ac
 name: Bidirectional Authentication
-description: Identify and authenticate systems and system components, where possible, before establishing a network connection using bidirectional authentication that is cryptographically based and replay resistant.
+description: Requires identifying and authenticating systems and components before establishing network connections using cryptographically based, replay-resistant bidirectional authentication.
 elementType: cmmc_requirement
 externalId: IA.L3-3.5.1e
 aliases:

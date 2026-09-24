@@ -1,0 +1,1 @@
+If there is a legal basis for retaining the Personal Data for a specific period, in which case the Personal Data shall be destroyed upon the lapse of that period or when the purpose of the Collection is satisfied, whichever longer.

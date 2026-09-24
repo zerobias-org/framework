@@ -1,0 +1,1 @@
+A controller shall establish a process for a consumer to appeal the controller's refusal to take action on a request within a reasonable period of time after the consumer's receipt of the decision under Section 541.052(c).

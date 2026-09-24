@@ -1,0 +1,1 @@
+The methods and means of Personal Data Collection shall not conflict with any legal provisions, shall be appropriate for the circumstances of the Data Subject, shall be direct, clear and secure, and shall not involve any deception, misleading or extortion.

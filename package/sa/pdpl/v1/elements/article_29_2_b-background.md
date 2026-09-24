@@ -1,0 +1,1 @@
+There is an adequate level of protection for Personal Data outside the Kingdom. Such level of protection shall be at least equivalent to the level of protection guaranteed by the Law and Regulations, according to the results of an assessment conducted by the Competent Authority in coordination with whomever it deems appropriate from the other relevant authorities.

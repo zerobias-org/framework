@@ -1,0 +1,1 @@
+Some test cases are created specifically to show the presence (and later, the absence) of a bug. These are sometimes called “regression tests”. Inputs recorded from production operations may also be good sources of test cases.

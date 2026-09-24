@@ -1,0 +1,1 @@
+The A&A process establishes the extent to which a particular design and implementation, meet a set of specified security requirements defined by the organization, government guidelines, and federal mandates into a formal authorization package.

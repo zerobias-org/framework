@@ -1,0 +1,1 @@
+Implement fine-grained access control and secure delegation mechanisms for MCP tool invocations. Enforce least-privilege principles, scope-based permissions, and capability-based authorization to prevent privilege escalation and unauthorized resource access.

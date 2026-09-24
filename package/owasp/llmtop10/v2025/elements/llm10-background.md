@@ -1,0 +1,1 @@
+Model Theft involves unauthorized access, copying, or extraction of proprietary LLM models, including model weights, parameters, or architecture, leading to economic loss, competitive disadvantage, or unauthorized use of the model.

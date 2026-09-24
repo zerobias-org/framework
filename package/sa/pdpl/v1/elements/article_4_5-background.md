@@ -1,0 +1,1 @@
+The right to request a Destruction of their Personal Data held by the Controller when such Personal Data is no longer needed by Data Subject, without prejudice to the provisions of Article (18) of this Law.

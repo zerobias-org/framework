@@ -1,0 +1,1 @@
+Inadequate trust boundary enforcement in MCP deployments, where clients, servers, and upstream services operate with excessive trust. This includes confused deputy attacks, privilege escalation through tool chaining, and failure to maintain proper isolation between MCP components.

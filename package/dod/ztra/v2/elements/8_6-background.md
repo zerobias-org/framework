@@ -1,0 +1,1 @@
+Provides a comprehensive, flexible, repeatable, and measurable process that any organization can use to manage information security and privacy risk for organizations and systems and links to a suite of NIST standards and guidelines to support implementation of risk management programs tomeet the requirements of the Federal Information Security Modernization Act (FISMA).
