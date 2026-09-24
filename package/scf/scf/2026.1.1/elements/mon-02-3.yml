@@ -1,6 +1,6 @@
 id: b1edd81d-aab0-43e6-84d2-a2e356918ec3
 name: Integration of Scanning & Other Monitoring Information
-description: Automated mechanisms exist to integrate the analysis of audit records with analysis of vulnerability scanners, network performance, system monitoring and other sources to further enhance the ability to identify inappropriate or unusual activity.
+description: Requires automated integration of audit record analysis with vulnerability scanning, network performance and other monitoring to spot unusual activity.
 elementType: enhancement
 externalId: MON-02.3
 parent: mon-02

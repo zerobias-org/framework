@@ -1,9 +1,6 @@
 id: 8bd18454-bf76-42e3-833c-95541a02148c
 name: Populating Facial Recognition Databases
-description: |-
-  Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that create, or expand, facial recognition databases through scraping facial images from:
-  (1) The Internet; or 
-  (2) Closed-Circuit Television (CCTV) footage.
+description: Requires prohibiting AI that builds or expands facial recognition databases by scraping images from the internet or CCTV footage.
 elementType: enhancement
 externalId: AAT-19.6
 parent: aat-19

@@ -1,9 +1,6 @@
 id: e90e8548-94af-48b2-a3df-549c83d0e822
 name: Emergency Shutoff
-description: |-
-  Facility security mechanisms exist to shut off power in emergency situations by:
-  (1) Placing emergency shutoff switches or devices in close proximity to systems or system components to facilitate safe and easy access for personnel; and
-  (2) Protecting emergency power shutoff capability from unauthorized activation.
+description: Requires placing accessible emergency power shutoff switches near systems while protecting them from unauthorized activation.
 elementType: enhancement
 externalId: PES-07.2
 parent: pes-07

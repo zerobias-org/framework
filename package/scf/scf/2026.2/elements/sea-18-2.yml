@@ -1,6 +1,6 @@
 id: 97a8b37a-2cb5-44f3-8ec9-eeb047c83c1f
 name: Truncated Banner
-description: Mechanisms exist to utilize a truncated system use notification / logon banner on systems not capable of displaying a logon banner from a centralized directory services technology (e.g., Active Directory, Entra ID, etc.).
+description: Requires using a truncated system use notification banner on systems unable to display a logon banner from centralized directory services.
 elementType: enhancement
 externalId: SEA-18.2
 parent: sea-18

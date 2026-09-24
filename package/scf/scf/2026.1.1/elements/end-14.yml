@@ -1,10 +1,6 @@
 id: 3b4cb947-2422-4716-b30c-08edd93926c2
 name: Collaborative Computing Devices
-description: |-
-  Mechanisms exist to unplug or prohibit the remote activation of collaborative computing devices with the following exceptions: 
-  (1) Networked whiteboards; 
-  (2) Video teleconference cameras; and 
-  (3) Teleconference microphones.
+description: Requires unplugging or disabling remote activation of collaborative computing devices except networked whiteboards and video/teleconference equipment.
 elementType: control
 externalId: END-14
 parent: end

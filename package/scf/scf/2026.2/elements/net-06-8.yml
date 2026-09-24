@@ -1,9 +1,6 @@
 id: d929173a-6f71-41e8-91ca-485ac9e691df
 name: Network Device Plane Segmentation
-description: |-
-  Automated mechanisms exist to separate network appliance functions (e.g., management, control and data planes) to prevent ordinary traffic from accessing functions that:
-  (1) Manage network appliances; and/or
-  (2) Affect network operations.
+description: Requires automated separation of network appliance management, control and data plane functions to prevent ordinary traffic from affecting network operations.
 elementType: enhancement
 externalId: NET-06.8
 parent: net-06

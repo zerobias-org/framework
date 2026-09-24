@@ -1,0 +1,1 @@
+Mechanisms exist to require the developers of Technology Assets, Applications and/or Services (TAAS) to produce a plan for the continuous monitoring of cybersecurity and data protection control effectiveness.

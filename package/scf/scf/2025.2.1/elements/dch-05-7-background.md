@@ -1,0 +1,1 @@
+Mechanisms exist to provide a consistent, organizationally agreed upon interpretation of cybersecurity & data privacy attributes employed in access enforcement and flow enforcement decisions between distributed system components.

@@ -1,6 +1,6 @@
 id: aad72207-17de-5ec9-9286-eeabc5e85188
 name: Information Assurance Enabled Products
-description: Mechanisms exist to limit the use of commercially-provided Information Assurance (IA) and IA-enabled IT products to those products that have been successfully evaluated against a National Information Assurance partnership (NIAP)-approved Protection Profile or the cryptographic module is FIPS-validated or NSA-approved.
+description: Requires limiting use of Information Assurance products to those NIAP-approved or with FIPS-validated or NSA-approved cryptographic modules.
 elementType: enhancement
 externalId: TDA-02.2
 controlQuestion: Does the organization limit the use of commercially-provided Information Assurance (IA) and IA-enabled IT products to those products that have been successfully evaluated against a National Information Assurance partnership (NIAP)-approved Protection Profile or the cryptographic module is FIPS-validated or NSA-approved?

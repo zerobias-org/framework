@@ -1,6 +1,6 @@
 id: 7c41d92e-6393-4653-ad7c-a1f486c06eff
 name: Threat Analysis & Flaw Remediation During Development
-description: Mechanisms exist to require system developers and integrators to create and execute a Security Testing and Evaluation (ST&E) plan, or similar process, to identify and remediate flaws during development.
+description: Requires developers and integrators to run a security testing and evaluation plan to identify and remediate flaws during development.
 elementType: control
 externalId: IAO-04
 parent: iao

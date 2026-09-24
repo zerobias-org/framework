@@ -1,6 +1,6 @@
 id: 7205bf14-1972-59c7-923e-f863bb768ba4
 name: Investigation Access Restrictions
-description: Mechanisms exist to support official investigations by provisioning government investigators with "least privileges" and "least functionality" to ensure that government investigators only have access to the data and systems needed to perform the investigation.
+description: Requires provisioning government investigators with least privilege and least functionality so they only access data needed for the investigation.
 elementType: enhancement
 externalId: CPL-05.2
 controlQuestion: Does the organization support official investigations by provisioning government investigators with "least privileges" and "least functionality" to ensure that government investigators only have access to the data and systems needed to perform the investigation?

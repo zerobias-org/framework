@@ -1,6 +1,6 @@
 id: 6d396cc7-e739-5b58-b07b-f856966ce8e6
 name: Transfer Authorizations
-description: Mechanisms exist to verify that individuals or systems transferring data between interconnecting systems have the requisite authorizations (e.g., write permissions or privileges) prior to transferring said data.
+description: Requires verifying that individuals or systems transferring data between interconnecting systems have the required authorizations first.
 elementType: enhancement
 externalId: DCH-14.2
 controlQuestion: Does the organization verify that individuals or systems transferring data between interconnecting systems have the requisite authorizations (e.g., write permissions or privileges) prior to transferring said data?

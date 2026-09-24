@@ -1,10 +1,6 @@
 id: fc5a934d-44a8-4245-ab3f-50e8b030f8c7
 name: Quantum Threat Intelligence Monitoring
-description: |-
-  Mechanisms exist to maintain an ongoing quantum threat intelligence function that monitors:
-  (1) Cryptanalytic threat developments;
-  (2) Quantum computing capability advances; and
-  (3) NIST and/or regulatory updates to approved algorithm lists.
+description: Requires an ongoing quantum threat intelligence function that monitors cryptanalytic developments, quantum computing advances and regulatory algorithm updates.
 elementType: enhancement
 externalId: QTS-05.1
 parent: qts-05

@@ -1,10 +1,6 @@
 id: 99e296c2-e249-42fd-8052-000b0d486dd4
 name: Usage Restrictions of Personal Data (PD)
-description: |-
-  Mechanisms exist to restrict collecting, receiving, processing, storing, transmitting, sharing and/or updating Personal Data (PD) to:
-  (1) The purpose(s) originally collected, consistent with the data privacy notice(s);
-  (2) What is authorized by the data subject, or authorized agent; and
-  (3) What is consistent with applicable laws, regulations and contractual obligations.
+description: Requires restricting personal data processing to the originally disclosed purpose, what the data subject authorized, and applicable legal requirements.
 elementType: enhancement
 externalId: PRI-05.4
 parent: pri-05

@@ -1,6 +1,6 @@
 id: f9ba1676-4610-4733-9639-15f9cb4f58c4
 name: Privileged Environments
-description: Mechanisms exist to prevent privileged operating environments from existing within unprivileged operating environments, including physical or virtual deployments of Technology Assets, Applications and/or Services (TAAS).
+description: Requires preventing privileged operating environments from existing within unprivileged environments, whether physical or virtual deployments.
 elementType: control
 externalId: SEA-22
 parent: sea

@@ -1,6 +1,6 @@
 id: 74ac878f-195b-4a1a-9e2b-75a969d86814
 name: Redundant Secondary System
-description: Mechanisms exist to maintain a failover capability, which is not collocated with the primary Technology Asset, Application and/or Service (TAAS), which can be activated with little-to-no loss of information or disruption to operations.
+description: Requires maintaining a failover capability not collocated with the primary system that can be activated with little to no loss of information or disruption.
 elementType: enhancement
 externalId: BCD-11.7
 parent: bcd-11

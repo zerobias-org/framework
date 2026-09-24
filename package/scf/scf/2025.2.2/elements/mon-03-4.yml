@@ -1,6 +1,6 @@
 id: b93a4aa5-aca0-4ca8-93bb-a0e0a54603ce
 name: Verbosity Logging for Boundary Devices
-description: Mechanisms exist to verbosely log all traffic (both allowed and blocked) arriving at network boundary devices, including firewalls, Intrusion Detection / Prevention Systems (IDS/IPS) and inbound and outbound proxies.
+description: Requires verbosely logging all allowed and blocked traffic at network boundary devices, including firewalls, IDS/IPS and proxies.
 elementType: enhancement
 externalId: MON-03.4
 parent: mon-03

@@ -1,6 +1,6 @@
 id: 6ddba805-0ccc-53d6-bfcd-092aeb98fc40
 name: Internal Vulnerability Assessment Scans
-description: Mechanisms exist to perform quarterly internal vulnerability scans, which includes all segments of the organization's internal network, as well as rescans until passing results are obtained or all “high” vulnerabilities are resolved, as defined by the Common Vulnerability Scoring System (CVSS).
+description: Requires quarterly internal vulnerability scans across all network segments with rescans until high vulnerabilities are resolved.
 elementType: enhancement
 externalId: VPM-06.7
 controlQuestion: Does the organization perform quarterly internal vulnerability scans, which includes all segments of the organization's internal network, as well as rescans until passing results are obtained or all “high” vulnerabilities are resolved, as defined by the Common Vulnerability Scoring System (CVSS)?

@@ -1,6 +1,6 @@
 id: c856b586-3724-4648-bde0-dd0bb930e218
 name: Mobile Device Tampering
-description: Mechanisms exist to protect mobile devices from tampering through inspecting devices returning from locations that the organization deems to be of significant risk, prior to the device being connected to the organization's network.
+description: Requires inspecting mobile devices returning from high-risk locations for tampering before reconnecting them to the network.
 elementType: control
 externalId: MDM-04
 parent: mdm

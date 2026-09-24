@@ -1,6 +1,6 @@
 id: d857e27b-143d-4f6d-b106-86b71965cf32
 name: Cross-Organizational Monitoring
-description: Mechanisms exist to coordinate sanitized event logs among external organizations to identify anomalous events when event logs are shared across organizational boundaries, without giving away sensitive or critical business data.
+description: Requires coordinating sanitized event logs with external organizations to identify anomalous events without exposing sensitive business data.
 elementType: control
 externalId: MON-14
 parent: mon

@@ -1,6 +1,6 @@
 id: 12c4d64c-db0a-4ba4-962e-74e3ecddd396
 name: Identification & Authentication for Devices
-description: Mechanisms exist to uniquely identify and centrally Authenticate, Authorize and Audit (AAA) devices before establishing a connection using bidirectional authentication that is cryptographically- based and replay resistant.
+description: Requires uniquely identifying and centrally authenticating devices before connection using cryptographic, replay-resistant bidirectional authentication.
 elementType: control
 externalId: IAC-04
 parent: iac

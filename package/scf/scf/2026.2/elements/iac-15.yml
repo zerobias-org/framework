@@ -1,10 +1,6 @@
 id: 2aef1ce1-c31c-4aea-b61c-f6d76298b8f6
 name: Account Management
-description: |-
-  Mechanisms exist to:
-  (1) Define authorized system account types;
-  (2) Define prohibited system account types; and
-  (3) Proactively govern individual, group, system, service, application, guest and temporary accounts.
+description: Requires defining authorized and prohibited account types and proactively governing individual, group, system, service, application, guest and temporary accounts.
 elementType: control
 externalId: IAC-15
 parent: iac

@@ -1,9 +1,6 @@
 id: a25d3d54-a927-4191-9821-ecce107909f1
 name: Security, Compliance & Resilience Requirements Definition
-description: |-
-  Mechanisms exist to proactively govern Technology Assets, Applications and/or Services (TAAS) by:
-  (1) Defining technical security, compliance and resilience requirements; and
-  (2) Performing a criticality analysis at predefined decision points in the Secure Development Life Cycle (SDLC).
+description: Requires proactively governing technology assets, applications and services by defining security, compliance and resilience requirements and performing criticality analysis in the SDLC.
 elementType: control
 externalId: PRM-05
 parent: prm

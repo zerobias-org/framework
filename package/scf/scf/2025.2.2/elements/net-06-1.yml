@@ -1,6 +1,6 @@
 id: 5117dc56-f9ff-437e-8918-a36f3332345e
 name: Security Management Subnets
-description: Mechanisms exist to implement security management subnets to isolate security tools and support components from other internal system components by implementing separate subnetworks with managed interfaces to other components of the system.
+description: Requires implementing isolated security management subnets with managed interfaces to separate security tools from other system components.
 elementType: enhancement
 externalId: NET-06.1
 parent: net-06

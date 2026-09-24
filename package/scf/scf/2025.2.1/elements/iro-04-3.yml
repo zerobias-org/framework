@@ -1,6 +1,6 @@
 id: 791a5015-b6cb-4bf9-8487-e22a10a05c58
 name: Continuous Incident Response Improvements
-description: "Mechanisms exist to use qualitative and quantitative data from incident response testing to: \r\n(1) Determine the effectiveness of incident response processes;\r\n(2) Continuously improve incident response processes; and\r\n(3) Provide incident response measures and metrics that are accurate, consistent, and in a reproducible format."
+description: Requires using incident response testing data to gauge effectiveness, drive continuous improvement, and produce consistent, reproducible metrics.
 elementType: enhancement
 externalId: IRO-04.3
 parent: iro-04

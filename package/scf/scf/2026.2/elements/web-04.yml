@@ -1,6 +1,6 @@
 id: 63142f27-5643-418e-bdd5-f4cd58453666
 name: Client-Facing Web Services
-description: Mechanisms exist to deploy reasonably-expected security, compliance and resilience controls to protect the confidentiality and availability of client data that is stored, transmitted or processed by the Internet-based service.
+description: Requires deploying reasonably expected security, compliance and resilience controls to protect confidentiality and availability of client data on internet-based services.
 elementType: control
 externalId: WEB-04
 parent: web

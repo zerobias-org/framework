@@ -1,6 +1,6 @@
 id: 112d749d-5e3a-4d82-a5ba-a223972659c4
 name: Signed Components
-description: Mechanisms exist to prevent the installation of software and firmware components without verification that the component has been digitally signed using an organization-approved certificate authority.
+description: Requires preventing installation of software or firmware components unless digitally signed by an organization-approved certificate authority.
 elementType: enhancement
 externalId: CHG-04.2
 parent: chg-04

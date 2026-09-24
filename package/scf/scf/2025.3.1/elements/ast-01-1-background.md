@@ -1,0 +1,1 @@
+Mechanisms exist to identify and assess the security of Technology Assets, Applications and/or Services (TAAS), Applications and/or Services (TAAS) that support more than one critical business function.

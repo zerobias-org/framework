@@ -1,10 +1,6 @@
 id: 8dc85a71-bfc0-4f3b-836f-73658cd0786d
 name: Session Management
-description: |-
-  Mechanisms exist to control AI agent sessions by:
-  (1) Embedding session IDs into the requests to the AI model;
-  (2) Implementing capabilities to correlate sessions; and
-  (3) Terminating sessions after a defined time period.
+description: Requires controlling AI agent sessions by embedding session IDs, correlating sessions, and terminating sessions after a defined time period.
 elementType: enhancement
 externalId: AAT-30.2
 parent: aat-30

@@ -1,10 +1,6 @@
 id: 5ee2bd6b-e938-4f26-b14d-0341f7f9c4ae
 name: Continued Use of Personal Data (PD)
-description: |-
-  Mechanisms exist to govern the continued use of Personal Data (PD) as it is collected, received, processed, stored, transmitted, shared and/or updated until:
-  (1) Disposal of PD occurs when there is no longer a legitimate business purpose;
-  (2) Disposal of PD occurs when the data retention timeline for the use case is met; and/or
-  (3) Continued use of PD is prohibited upon withdrawal of data subject consent.
+description: Requires governing continued use of personal data until disposal is due, the retention timeline is met, or consent is withdrawn.
 elementType: enhancement
 externalId: PRI-03.9
 parent: pri-03

@@ -1,6 +1,6 @@
 id: d51d1117-edc2-49bf-9097-ea79c938ac97
 name: Manual Code Review
-description: Mechanisms exist to require the developers of systems, system components or services to employ a manual code review process to identify and remediate unique flaws that require knowledge of the application’s requirements and design.
+description: Requires a manual code review process to identify and remediate flaws requiring knowledge of application requirements and design.
 elementType: enhancement
 externalId: TDA-09.7
 parent: tda-09

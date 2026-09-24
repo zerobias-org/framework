@@ -1,9 +1,6 @@
 id: 3220a04e-59a8-469f-84f8-71b29c5b5332
 name: Software Design Review
-description: |-
-  Mechanisms exist to have an independent review of the software design to validate:
-  (1) Applicable security, compliance and resilience requirements are met; and
-  (2) Identified risks are remediated.
+description: 'Mechanisms exist to have an independent review of the software design to validate: (1) Applicable security, compliance and resilience requirements are met; and (2) Identified risks are remediated.'
 elementType: enhancement
 externalId: TDA-06.5
 parent: tda-06

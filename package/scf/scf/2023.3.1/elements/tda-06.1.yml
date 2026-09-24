@@ -1,6 +1,6 @@
 id: 5e0cf1a7-b8e5-5c96-ad7a-ddd68b509412
 name: Criticality Analysis
-description: Mechanisms exist to require the developer of the system, system component or service to perform a criticality analysis at organization-defined decision points in the Secure Development Life Cycle (SDLC).
+description: Requires developers to perform a criticality analysis at defined decision points in the development lifecycle.
 elementType: enhancement
 externalId: TDA-06.1
 controlQuestion: Does the organization require the developer of the system, system component or service to perform a criticality analysis at organization-defined decision points in the Secure Development Life Cycle (SDLC)?

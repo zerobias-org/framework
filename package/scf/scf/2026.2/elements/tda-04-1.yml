@@ -1,6 +1,6 @@
 id: bac38be7-023a-40b5-942f-9c4ac2c346aa
 name: Functional Properties
-description: Mechanisms exist to require software developers to provide information describing the functional properties of the security, compliance and resilience controls to be utilized within Technology Assets, Applications and/or Services (TAAS) in sufficient detail to permit analysis and testing of the controls.
+description: Requires software developers to describe functional properties of security, compliance and resilience controls in sufficient detail for analysis and testing.
 elementType: enhancement
 externalId: TDA-04.1
 parent: tda-04

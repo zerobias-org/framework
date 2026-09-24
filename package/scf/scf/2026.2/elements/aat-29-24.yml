@@ -1,10 +1,6 @@
 id: c8cf8fb3-a668-4bcc-8d62-434b2ef9e7cd
 name: Resource Limiting
-description: |-
-  Automated mechanisms exist to enforce resource limits for Artificial Intelligence (AI) and Autonomous Technologies (AAT), including:
-  (1) Energy consumption;
-  (2) Processing capacity; and
-  (3) Financial consumption (e.g., allocated budget).
+description: Requires automated enforcement of AI and Autonomous Technologies resource limits, including energy consumption, processing capacity and financial consumption.
 elementType: enhancement
 externalId: AAT-29.24
 parent: aat-29

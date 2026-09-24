@@ -1,6 +1,6 @@
 id: b9bbd168-4759-5ec4-8252-0b8cc274b99e
 name: Redundant Secondary System
-description: Mechanisms exist to maintain a failover system, which is not collocated with the primary system, application and/or service, which can be activated with little-to-no loss of information or disruption to operations.
+description: Requires maintaining a non-collocated failover system that can be activated with little to no loss of information or disruption.
 elementType: enhancement
 externalId: BCD-11.7
 controlQuestion: Does the organization maintain a failover system, which is not collocated with the primary system, application and/or service, which can be activated with little-to-no loss of information or disruption to operations?

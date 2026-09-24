@@ -1,6 +1,6 @@
 id: 074fd96b-eb3e-4c17-8624-19bca976fac8
 name: Anomalous Behavior
-description: Mechanisms exist to utilize User & Entity Behavior Analytics (UEBA) and/or User Activity Monitoring (UAM) solutions to detect and respond to anomalous behavior that could indicate account compromise or other malicious activities.
+description: Requires using User and Entity Behavior Analytics or User Activity Monitoring to detect and respond to anomalous behavior indicating compromise.
 elementType: control
 externalId: MON-16
 parent: mon

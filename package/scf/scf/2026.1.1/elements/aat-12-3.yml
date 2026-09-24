@@ -1,9 +1,6 @@
 id: c7acc2a8-99c3-4b34-8908-f43b5512a176
 name: Data Source Lineage & Origin Disclosure
-description: |-
-  Mechanisms exist to ensure Artificial Intelligence and Autonomous Technologies (AAT) publicly disclose information with sufficient detail to assess:
-  (1) Content lineage; and 
-  (2) The origin of data used by the AAT.
+description: Requires AI and autonomous technologies to publicly disclose enough detail to assess content lineage and the origin of data used.
 elementType: enhancement
 externalId: AAT-12.3
 parent: aat-12

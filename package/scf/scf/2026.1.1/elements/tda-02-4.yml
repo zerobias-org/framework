@@ -1,9 +1,6 @@
 id: f32c4b54-1a12-445e-86dc-88d9ec05f2cf
 name: Pre-Established Secure Configurations
-description: |-
-  Mechanisms exist to ensure vendors / manufacturers:
-  (1) Deliver the Technology Asset, Application and/or Service (TAAS) with a pre-established, secure configuration implemented; and
-  (2) Use the pre-established, secure configuration as the default for any subsequent TAAS reinstallation or upgrade.
+description: Requires vendors to deliver products with a pre-established secure configuration and use it as the default for reinstallation or upgrade.
 elementType: enhancement
 externalId: TDA-02.4
 parent: tda-02

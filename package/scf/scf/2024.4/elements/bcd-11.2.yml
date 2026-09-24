@@ -1,6 +1,6 @@
 id: c7f43d84-58e4-5daa-af41-51729ee97db6
 name: Separate Storage for Critical Information
-description: Mechanisms exist to store backup copies of critical software and other security-related information in a separate facility or in a fire-rated container that is not collocated with the system being backed up.
+description: Requires storing backup copies of critical software and security information in a separate, fire-rated facility away from the backed-up system.
 elementType: enhancement
 externalId: BCD-11.2
 controlQuestion: Does the organization store backup copies of critical software and other security-related information in a separate facility or in a fire-rated container that is not collocated with the system being backed up?

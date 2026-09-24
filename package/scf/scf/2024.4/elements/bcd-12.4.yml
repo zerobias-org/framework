@@ -1,6 +1,6 @@
 id: 5de35b48-524d-52ca-a495-ed053453f618
 name: Restore Within Time Period
-description: Mechanisms exist to restore systems, applications and/or services within organization-defined restoration time-periods from configuration-controlled and integrity-protected information; representing a known, operational state for the asset.
+description: Requires restoring systems, applications, and services within defined time periods from configuration-controlled, integrity-protected information.
 elementType: enhancement
 externalId: BCD-12.4
 controlQuestion: Does the organization restore systems, applications and/or services within organization-defined restoration time-periods from configuration-controlled and integrity-protected information; representing a known, operational state for the asset?

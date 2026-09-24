@@ -1,9 +1,6 @@
 id: 48cd191a-e4a4-4d0d-b3c3-53a6b024010f
 name: Post-Quantum Cryptography (PQC) Migration Progress Oversight
-description: |-
-  Mechanisms exist to establish reportable metrics that:
-  (1) Measure migration progress against the Post-Quantum Cryptography Agility Plan (PQCAP); and
-  (2) Report progress periodically to executive leadership.
+description: Requires reportable metrics that measure migration progress against the post-quantum cryptography agility plan and report progress periodically to executive leadership.
 elementType: enhancement
 externalId: QTS-03.2
 parent: qts-03

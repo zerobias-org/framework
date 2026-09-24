@@ -1,6 +1,6 @@
 id: 7a228de0-7280-43a8-b2ca-cc39a34631b7
 name: Network Access Control (NAC)
-description: Automated mechanisms exist to employ Network Access Control (NAC), or a similar technology, which is capable of detecting unauthorized devices and disable network access to those unauthorized devices.
+description: Requires automated Network Access Control that detects unauthorized devices and disables their network access.
 elementType: enhancement
 externalId: AST-02.5
 parent: ast-02

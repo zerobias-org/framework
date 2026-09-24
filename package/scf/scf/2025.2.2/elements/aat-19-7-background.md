@@ -1,0 +1,1 @@
+Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that infer human emotions of an individual based on observed characteristics.

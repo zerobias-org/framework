@@ -1,0 +1,1 @@
+Mechanisms exist to define the basis for confidence that implemented practices conform to applicable security, compliance and resilience controls, where the control implementation performs as intended.

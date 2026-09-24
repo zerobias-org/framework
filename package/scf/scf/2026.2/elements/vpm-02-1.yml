@@ -1,9 +1,6 @@
 id: 6034e770-1569-4a08-98fc-a484234fd50b
 name: Known Exploited Vulnerabilities (KEV) Mitigations
-description: |-
-  Mechanisms exist to prioritize remediation and mitigation of Known Exploited Vulnerabilities (KEV) by:
-  (1) Reducing or removing public exposure to exploitation; and
-  (2) Expediting patch deployment actions.
+description: Requires prioritizing remediation of known exploited vulnerabilities by reducing public exposure and expediting patch deployment.
 elementType: enhancement
 externalId: VPM-02.1
 parent: vpm-02

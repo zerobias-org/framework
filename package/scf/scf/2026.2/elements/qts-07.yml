@@ -1,11 +1,6 @@
 id: 24f1ca7d-05e4-4e6f-bbae-1cdbec1e9533
 name: Cryptographic Incident Response (Emergency Algorithm Transition)
-description: |-
-  Mechanisms exist to establish the capability to respond to the compromise or disallowance of a Post-Quantum Cryptography (PQC) or classical algorithm on a compressed timeline, including:
-  (1) Pre-identified algorithm alternates;
-  (2) Tested rollback and roll-forward procedures;
-  (3) Customer and/or counterparty communication templates; and
-  (4) Incident response rehearsals against defined scenarios.
+description: Requires the capability to respond to compromise of a cryptographic algorithm on a compressed timeline, including pre-identified alternates, rollback procedures and rehearsals.
 elementType: control
 externalId: QTS-07
 parent: qts

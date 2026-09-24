@@ -1,0 +1,1 @@
+Mechanisms exist to craft disclosures and communications to data subjects such that the material is readily accessible and written in a manner that is concise, unambiguous and understandable by a reasonable person.

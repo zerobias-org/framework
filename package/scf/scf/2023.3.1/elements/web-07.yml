@@ -1,6 +1,6 @@
 id: 734f3fae-1305-56bb-b325-7a23f841e152
 name: Web Security Standard
-description: Mechanisms exist to ensure the Open Web Application Security Project (OWASP) Application Security Verification Standard is incorporated into the organization's Secure Systems Development Lifecycle (SSDLC) process.
+description: Requires incorporating the OWASP Application Security Verification Standard into the secure development lifecycle process.
 elementType: control
 externalId: WEB-07
 controlQuestion: Does the organization ensure the Open Web Application Security Project (OWASP) Application Security Verification Standard is followed when developing web applications?

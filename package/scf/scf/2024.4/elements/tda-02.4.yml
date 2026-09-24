@@ -1,6 +1,6 @@
 id: 9e99426b-852f-58cb-9f94-1d52fa90f0be
 name: Pre-Established Secure Configurations
-description: "Mechanisms exist to ensure vendors / manufacturers:\r\n (1) Deliver the system, component, or service with a pre-established, secure configuration implemented; and\r\n (2) Use the pre-established, secure configuration as the default for any subsequent system, component, or service reinstallation or upgrade."
+description: Requires vendors to deliver systems with a pre-established secure configuration and use it as the default for reinstalls or upgrades.
 elementType: enhancement
 externalId: TDA-02.4
 controlQuestion: "Does the organization ensure vendors / manufacturers:\r\n (1) Deliver the system, component, or service with a pre-established, secure configuration implemented; and\r\n (2) Use the pre-established, secure configuration as the default for any subsequent system, component, or service reinstallation or upgrade?"

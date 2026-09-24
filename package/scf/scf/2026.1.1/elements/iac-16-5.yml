@@ -1,6 +1,6 @@
 id: 683df85b-0409-47c7-9674-8e501c65737c
 name: Manual Override
-description: Mechanisms exist to enable a manual override of the current account privileges to enable the timely response to unusual conditions without terminating the current session and establishing a new session as a higher-privileged user.
+description: Requires enabling manual override of current account privileges to allow timely response to unusual conditions without starting a new higher-privileged session.
 elementType: enhancement
 externalId: IAC-16.5
 parent: iac-16

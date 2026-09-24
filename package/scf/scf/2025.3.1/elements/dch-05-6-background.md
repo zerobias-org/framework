@@ -1,0 +1,1 @@
+Mechanisms exist to require personnel to associate and maintain the association of cybersecurity and data protection attributes with individuals and objects in accordance with cybersecurity and data protection policies.

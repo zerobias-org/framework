@@ -1,8 +1,6 @@
 id: 6ce4537c-ae16-4305-bb6f-d80e01daa400
 name: Component Disposal
-description: |-
-  [deprecated - incorporated into AST-09]
-  Mechanisms exist to dispose of system components using organization-defined techniques and methods to prevent such components from entering the gray market.
+description: '[deprecated - incorporated into AST-09] Mechanisms exist to dispose of system components using organization-defined techniques and methods to prevent such components from entering the gray market.'
 elementType: enhancement
 externalId: TDA-11.2
 parent: tda-11

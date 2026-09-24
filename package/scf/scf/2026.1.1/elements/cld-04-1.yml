@@ -1,6 +1,6 @@
 id: 4f08e78b-aaf6-4b7a-b652-110cfaf013cb
 name: API Gateway
-description: Mechanisms exist to implement an Application Programming Interface (API) Gateway, or similar technology, to serve as a controlled entry point that manages interactions between client-facing requests and backend services.
+description: Requires implementing an API Gateway, or similar technology, as a controlled entry point managing interactions between client-facing requests and backend services.
 elementType: enhancement
 externalId: CLD-04.1
 parent: cld-04

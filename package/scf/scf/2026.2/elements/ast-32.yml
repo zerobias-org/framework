@@ -1,10 +1,6 @@
 id: b2bd1e89-8dfc-47d6-bd04-d10e6ffce338
 name: Automated Network Asset Discovery
-description: |-
-  Mechanisms exist to automate network asset discovery through Software Defined Networking (SDN), or similar technologies, that analyzes network traffic to:
-  (1) Identify;
-  (2) Document; and 
-  (3) Track devices.
+description: Requires automating network asset discovery via Software Defined Networking or similar technology to identify, document and track devices.
 elementType: control
 externalId: AST-32
 parent: ast

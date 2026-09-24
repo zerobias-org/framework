@@ -1,6 +1,6 @@
 id: ac416fa4-b3cc-4e1d-9edc-a14acb1b3708
 name: Just-In-Time Notice & Updated Consent
-description: "Mechanisms exist to present data subjects with a new or updated consent request to process, store and/or share Personal Data (PD) in conjunction with the data action, when:\r\n(1) The original circumstances under which an individual gave consent have changed; or\r\n(2) A significant amount of time has passed since an individual gave consent."
+description: Requires re-presenting a consent request to process personal data when circumstances have changed or significant time has passed.
 elementType: enhancement
 externalId: PRI-03.2
 parent: pri-03

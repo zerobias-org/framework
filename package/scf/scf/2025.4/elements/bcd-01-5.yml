@@ -1,6 +1,6 @@
 id: a4cf46b3-55b5-41c4-b13b-92302388850c
 name: Recovery Operations Criteria
-description: Mechanisms exist to define specific criteria that must be met to initiate Business Continuity / Disaster Recover (BC/DR) plans that facilitate business continuity operations capable of meeting applicable Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs).
+description: Requires defining criteria to initiate business continuity and disaster recovery plans that meet recovery time and point objectives.
 elementType: enhancement
 externalId: BCD-01.5
 parent: bcd-01
