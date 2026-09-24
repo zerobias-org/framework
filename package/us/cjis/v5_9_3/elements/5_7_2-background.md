@@ -1,0 +1,1 @@
+The system configuration documentation often contains sensitive details (e.g., descriptions of applications, processes, procedures, data structures, authorization processes, data flow, etc.) Agencies shall protect the system documentation from unauthorized access consistent with the provisions described in Section 5.5 Access Control.

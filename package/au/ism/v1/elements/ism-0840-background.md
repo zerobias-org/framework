@@ -1,0 +1,1 @@
+When outsourcing the destruction of media storing non-accountable material, a National Association for Information Destruction AAA certified destruction service with endorsements, as specified in ASIO’s Protective Security Circular-167, is used.

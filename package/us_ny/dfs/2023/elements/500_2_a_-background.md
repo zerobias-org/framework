@@ -1,0 +1,1 @@
+Each covered entity shall maintain a cybersecurity program designed to protect the confidentiality, integrity and availability of the covered entity’s information systems and nonpublic information stored on those information systems.

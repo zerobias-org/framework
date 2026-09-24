@@ -1,11 +1,5 @@
 id: 2e3380ae-09dd-417e-924f-f12362c50f8e
 externalId: "2504"
 name: Backups
-description: "The Supplier shall hold accessible and secured current backups of
-  data and information needed to recover operation of their Functions and
-  protect Data. Backup procedures and media shall include:\r
-
-  i) Appropriate encryption technology\r
-
-  ii) Integrity validation."
+description: Requires the Supplier to hold accessible, secured, current backups of data needed to recover its Functions, using appropriate encryption and integrity validation.
 elementType: control

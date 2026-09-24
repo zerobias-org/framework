@@ -1,0 +1,1 @@
+A consumer shall have the right, at any time, to direct a business that sells or shares personal information about the consumer to third parties not to sell or share the consumer’s personal information. This right may be referred to as the right to opt-out of sale or sharing.

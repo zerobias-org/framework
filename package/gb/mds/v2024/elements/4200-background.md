@@ -1,0 +1,1 @@
+The Supplier shall, when an incident occurs, incorporate root cause analysis and lessons learned information from incident response activities into incident response procedures, training and testing. The Supplier shall implement the resulting improvements immediately or, at minimum, within 30 days of the completion of the root cause analysis.

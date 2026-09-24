@@ -1,0 +1,9 @@
+For the purpose of this policy, a personal firewall is an application that controls network traffic to and from a user device, permitting or denying communications based on policy. A personal firewall shall be employed on all mobile devices that have a full-feature operating system (i.e., laptops or tablets with Windows or Linux/Unix operating systems). At a minimum, the personal firewall shall perform the following activities:
+
+- 1\. Manage program access to the Internet.
+- 2\. Block unsolicited requests to connect to the user device.
+- 3\. Filter incoming traffic by IP address or protocol.
+- 4\. Filter incoming traffic by destination ports.
+- 5\. Maintain an IP traffic log.
+
+Mobile devices with limited-feature operating systems (i.e., tablets, smartphones) may not support a personal firewall. However, these operating systems have a limited number of system services installed, carefully controlled network access, and to a certain extent, perform functions similar to a personal firewall on a device with a full-feature operating system. Appropriately configured MDM software is capable of controlling which applications are allowed on the device.

@@ -1,0 +1,1 @@
+When an essential operator that has been designated as a critical operator suffers an incident, the reference CSIRTs will coordinate with the Ministry of the Interior, through its Cybersecurity Coordination Office, as provided for in article 11.2 of the Royal Decree- Law 12/2018, of September 7.

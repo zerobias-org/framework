@@ -1,0 +1,5 @@
+- a. Provide incident response training to system users consistent with assigned roles and responsibilities:
+    - 1\. Prior to assuming an incident response role or responsibility or acquiring system access;
+    - 2\. When required by system changes; and
+    - 3\. Annually thereafter; and
+- b. Review and update incident response training content annually and following any security incidents involving unauthorized access to CJI or systems used to process, store, or transmit CJI.

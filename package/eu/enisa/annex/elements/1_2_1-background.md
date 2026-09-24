@@ -1,0 +1,1 @@
+As part of their policy on the security of network and information systems referred to in point 1.1., the relevant entities shall lay down responsibilities and authorities for network and information system security and assign them to roles, allocate them according to the relevant entities’ needs, and communicate them to the management bodies.

@@ -1,0 +1,1 @@
+The Supplier shall understand and manage security risks to Functions and Data that arise as a result of dependencies on external suppliers. This includes ensuring that appropriate measures are employed where third party services are used.

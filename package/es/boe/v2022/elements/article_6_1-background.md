@@ -1,0 +1,1 @@
+Security is understood as a comprehensive process made up of all human, material, technical, legal and organizational elements related to the information system. The application of the ENS will be governed by this principle, which excludes any specific action or short-term treatment.

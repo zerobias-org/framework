@@ -1,0 +1,7 @@
+The network infrastructure shall control the flow of information between interconnected systems. Information flow control regulates where information is allowed to travel within an information system and between information systems (as opposed to who is allowed to access the information) and without explicit regard to subsequent accesses to that information. In other words, controlling how data moves from one place to the next in a secure manner. Examples of controls that are better expressed as flow control than access control (see Section 5.5) are:
+
+- 1\. Prevent CJI from being transmitted unencrypted across the public network.
+- 2\. Block outside traffic that claims to be from within the agency.
+- 3\. Do not pass any web requests to the public network that are not from the internal web proxy.
+
+Specific examples of flow control enforcement can be found in boundary protection devices (e.g., proxies, gateways, guards, encrypted tunnels, firewalls, and routers) that employ rule sets or establish configuration settings that restrict information system services or provide a packet filtering capability.

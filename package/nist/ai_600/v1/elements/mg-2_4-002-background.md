@@ -1,0 +1,1 @@
+Establish and maintain procedures for escalating GAI system incidents to the organizational risk management authority when speciﬁc criteria for deactivation or disengagement is met for a particular context of use or for the GAI system as a whole.

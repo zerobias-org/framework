@@ -1,0 +1,1 @@
+provide an independent assurance, or an audit report, in relation to the sound management of risks associated with the carrying out of TLPT, including the due protection of the financial entity’s confidential information and redress for the business risks of the financial entity;

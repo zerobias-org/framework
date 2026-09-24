@@ -1,0 +1,1 @@
+The Supplier shall appropriately sanitise before reuse and / or disposal the devices, equipment, and removable storage media & devices holding data important to the operation of business Functions and that protect all Data.

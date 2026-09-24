@@ -1,0 +1,1 @@
+In information systems, the person responsible for the information, the person responsible for the service, the person responsible for security and the person responsible for the system will be differentiated.

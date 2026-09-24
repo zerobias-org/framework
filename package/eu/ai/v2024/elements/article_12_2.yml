@@ -8,7 +8,5 @@ aliases:
   - 12_2
   - 12-2
 name: Article 12.2
-description: 'In order to ensure a level of traceability of the functioning of a high-risk
-  AI system that is appropriate to the intended purpose of the system, logging capabilities
-  shall enable the recording of events relevant for:'
+description: Requires logging capabilities that record events relevant to the traceability of a high-risk AI system's functioning throughout its lifecycle.
 elementType: control

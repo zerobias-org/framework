@@ -1,0 +1,1 @@
+in accordance with the relevant entities’ classification of assets, the type, strength and quality of the cryptographic measures required to protect the relevant entities’ assets, including data at rest and data in transit;

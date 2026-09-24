@@ -1,0 +1,1 @@
+The Supplier shall develop recovery plans for all systems that deliver Functions and protect Data. Recovery plans must also be tested at least annually with any deficiencies being recorded, risk assessed and resolved within defined timelines.

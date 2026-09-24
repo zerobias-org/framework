@@ -1,0 +1,4 @@
+- a. Receive system security alerts, advisories, and directives from external source(s) (e.g., CISA, Multi-State Information Sharing & Analysis Center [MS-ISAC], U.S. Computer Emergency Readiness Team [USCERT], hardware/software providers, federal/state advisories, etc.) on an ongoing basis;
+- b. Generate internal security alerts, advisories, and directives as deemed necessary;
+- c. Disseminate security alerts, advisories, and directives to: organizational personnel implementing, operating, maintaining, and using the system; and
+- d. Implement security directives in accordance with established time frames, or notify the issuing organization of the degree of noncompliance.

@@ -1,0 +1,1 @@
+To correct or, where appropriate, demand responsibilities, each user who accesses the information system must be uniquely identified, so that it is known, at all times, who receives access rights, what type they are, and who has carried out a certain activity.

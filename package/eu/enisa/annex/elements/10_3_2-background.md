@@ -1,0 +1,1 @@
+For the purpose of point 10.3.1., the relevant entities shall include in the individual’s terms and conditions of employment, contract or agreement the responsibilities and duties that are still valid after termination of employment or contract, such as confidentiality clauses.

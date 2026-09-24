@@ -1,0 +1,1 @@
+Identify metrics that reﬂect the eﬀectiveness of security measures, such as data provenance, the number of unauthorized access attempts, inference, bypass, extraction, penetrations, or provenance veriﬁcation.

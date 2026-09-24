@@ -1,0 +1,1 @@
+Limit the controller’s collection of personal data to only the personal data that is adequate, relevant and reasonably necessary to serve the purposes the controller specified in paragraph (a) of this subsection;

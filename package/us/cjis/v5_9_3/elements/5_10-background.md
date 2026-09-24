@@ -1,0 +1,3 @@
+Examples of systems and communications safeguards range from boundary and transmission protection to securing an agency’s virtualized environment. In addition, applications, services, or information systems must have the capability to ensure system integrity through the detection and protection against unauthorized changes to software and information. This section details the policy for protecting systems and communications infrastructures.
+
+Refer to Section 5.13.4 for additional system integrity requirements related to mobile devices used to access CJI.

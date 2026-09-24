@@ -1,8 +1,5 @@
 id: 37058877-dc1f-4681-ae97-60aecbb79f43
 externalId: ISM-0325
 name: ISM-0325
-description: Any media connected to a system with a higher sensitivity or
-  classification than the media is reclassified to the higher sensitivity or
-  classification, unless the media is read-only or the system has a mechanism
-  through which read-only access can be ensured.
+description: Requires media connected to a higher-classified system to be reclassified accordingly, unless the media is read-only or read-only access can be ensured.
 elementType: control

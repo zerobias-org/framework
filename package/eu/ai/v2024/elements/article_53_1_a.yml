@@ -8,8 +8,5 @@ aliases:
   - 53_1_a
   - 53-1-a
 name: Article 53.1(a)
-description: draw up and keep up-to-date the technical documentation of the model,
-  including its training and testing process and the results of its evaluation, which
-  shall contain, at a minimum, the information set out in Annex XI for the purpose
-  of providing it, upon request, to the AI Office and the national competent authorities;
+description: Requires providers of general-purpose AI models to draw up and keep current technical documentation of the model's training and testing for the AI Office and national authorities.
 elementType: control

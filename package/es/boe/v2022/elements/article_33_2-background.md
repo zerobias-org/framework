@@ -1,0 +1,1 @@
+Without prejudice to the provisions of article 19.4 of Royal Decree-Law 12/2018, of September 7, public sector entities will notify the CCN of those incidents that have a significant impact on the security of the information systems concerned. in accordance with the corresponding Technical Safety Instruction.

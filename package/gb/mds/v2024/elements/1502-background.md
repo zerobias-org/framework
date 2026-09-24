@@ -1,0 +1,1 @@
+The Supplier shall restrict physical access to sensitive areas within an organisation's premises to only those who are authorised to have access. The Supplier shall maintain and manage an inventory of those staff who have privileged physical access.

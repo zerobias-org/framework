@@ -1,0 +1,1 @@
+The entities within the scope of application of this royal decree will require, in an objective and non-discriminatory manner, that the organizations that provide them with security services have qualified professionals with suitable levels of management and maturity in the services provided.

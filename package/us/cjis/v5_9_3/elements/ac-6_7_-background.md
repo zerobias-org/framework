@@ -1,0 +1,2 @@
+- a. Review annually the privileges assigned to non-privileged and privileged users to validate the need for such privileges; and
+- b. Reassign or remove privileges, if necessary, to correctly reflect organizational mission and business needs.

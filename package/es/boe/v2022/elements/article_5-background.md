@@ -1,0 +1,1 @@
+The ultimate objective of information security is to guarantee that an organization will be able to meet its objectives, develop its functions and exercise its powers using information systems. Therefore, in terms of information security, the following basic principles must be taken into account:

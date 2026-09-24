@@ -1,21 +1,5 @@
 id: 835be141-5e75-4b52-b07b-b2889c039eef
 externalId: 2.9.2
 name: Key dependencies are managed
-description: "FRFIs should manage key dependencies required to support the EDRP,
-  such as:\r
-
-  \r
-
-  Information security requirements for data security and storage (e.g.,
-  encryption); and, \r
-
-  Location of technology asset centres, backup sites, service provider locations
-  and proximity to primary data centres, and other critical technology assets
-  and locations.\r
-
-  \r
-
-  Principle 13: FRFIs should perform scenario testing on disaster recovery
-  capabilities to confirm its technology services operate as expected through
-  disruption"
+description: Requires managing key EDRP dependencies, including data security and storage requirements and the location of technology asset centres, backup sites and provider facilities.
 elementType: control

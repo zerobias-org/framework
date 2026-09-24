@@ -1,0 +1,1 @@
+The Supplier shall have appropriate management policies and processes in place to govern their approach to the security of the network and information systems supporting Functions and protection of Data.

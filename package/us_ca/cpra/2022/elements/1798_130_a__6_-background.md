@@ -1,0 +1,1 @@
+Ensure that all individuals responsible for handling consumer inquiries about the business’ privacy practices or the business’ compliance with this title are informed of all requirements in Sections 1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.125, and this section, and how to direct consumers to exercise their rights under those sections.

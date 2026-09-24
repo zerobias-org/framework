@@ -1,0 +1,1 @@
+Establish organizational roles, policies, and procedures for communicating GAI incidents and performance to AI Actors and downstream stakeholders (including those potentially impacted), via community or oﬃcial resources (e.g., AI incident database, AVID, CVE, NVD, or OECD AI incident monitor).

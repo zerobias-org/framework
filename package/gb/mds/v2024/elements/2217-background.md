@@ -1,0 +1,1 @@
+The Supplier shall inventory all generic, service and system accounts used on the network. Every account shall be owned by a single named individual who is responsible and accountable for the account and its usage.

@@ -1,0 +1,1 @@
+Personnel accessing systems or data using an organisation-owned mobile device or desktop computer are either prohibited from using it for personal purposes or have enforced separation of work data from any personal data.

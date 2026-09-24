@@ -1,0 +1,1 @@
+Controlled access to the information systems included in the scope of application of this royal decree must be limited to duly authorized users, processes, devices or other information systems, and exclusively to the permitted functions.

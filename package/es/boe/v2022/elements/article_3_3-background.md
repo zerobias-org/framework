@@ -1,0 +1,1 @@
+In any case, the measures to be implemented as a consequence of the risk analysis and, where appropriate, the impact evaluation referred to in the previous section will prevail, if they are aggravated with respect to those provided for in this document. decree.

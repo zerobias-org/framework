@@ -1,0 +1,1 @@
+Policies are in place to bolster oversight of GAI systems with independent evaluations or assessments of GAI models or systems where the type and robustness of evaluations are proportional to the identiﬁed risks.

@@ -1,0 +1,4 @@
+- a. Require that the presented identity evidence be validated and verified through agency-defined resolution, validation, and verification methods.
+- b. Identity proofing SHALL NOT be performed to determine suitability or entitlement to gain access to services or benefits.
+- c. 1. Collection of PII SHALL be limited to the minimum necessary to resolve to a unique identity in a given context.
+    - 2\. Collection of PII SHALL be limited to the minimum necessary to validate the existence of the claimed identity and associate the claimed identity with the applicant providing identity evidence for appropriate identity resolution, validation, and verification...

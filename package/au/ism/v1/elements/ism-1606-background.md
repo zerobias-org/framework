@@ -1,0 +1,1 @@
+When using a software-based isolation mechanism to share a physical server’s hardware, patches, updates or vendor mitigations for vulnerabilities are applied to the isolation mechanism and underlying operating system in a timely manner.

@@ -1,0 +1,1 @@
+Deﬁne acceptable use policies for GAI interfaces, modalities, and human-AI conﬁgurations (i.e., for chatbots and decision-making tasks), including criteria for the kinds of queries GAI applications should refuse to respond to.

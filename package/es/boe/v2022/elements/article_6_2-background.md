@@ -1,0 +1,1 @@
+Maximum attention will be paid to raising the awareness of the people involved in the process and that of the hierarchical managers, to prevent ignorance, lack of organization and coordination or adequate instructions from constituting sources of risk for the security.

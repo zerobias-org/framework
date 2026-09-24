@@ -2,12 +2,7 @@ id: 9da5934e-d011-4455-a142-bd0b375fec85
 name: >-
   Securing Build Pipelines-Verification-Find and Eliminate Sources Of
   Non-Determinism
-description: >-
-  _Assurance categories: Moderate to high and risk categories: moderate to high_
-
-
-  Timestamps, locale differences, and embedded version information are just a
-  few of the things that may affect determinism in the build process
+description: Requires identifying and eliminating build non-determinism sources such as timestamps, locale differences and embedded version information.
 elementType: control
 externalId: >-
   Securing Build Pipelines-Verification-Find and Eliminate Sources Of

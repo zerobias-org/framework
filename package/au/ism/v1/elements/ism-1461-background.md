@@ -1,0 +1,1 @@
+When using a software-based isolation mechanism to share a physical server’s hardware for SECRET or TOP SECRET computing environments, the physical server and all computing environments are of the same classification and belong to the same security domain.

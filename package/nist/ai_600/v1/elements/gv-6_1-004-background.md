@@ -1,0 +1,1 @@
+Draft and maintain well-deﬁned contracts and service level agreements (SLAs) that specify content ownership, usage rights, quality standards, security requirements, and content provenance expectations for GAI systems.

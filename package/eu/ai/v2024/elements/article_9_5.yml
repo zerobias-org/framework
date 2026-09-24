@@ -8,13 +8,5 @@ aliases:
   - 9_5
   - 9-5
 name: Article 9.5
-description: "The risk management measures referred to in paragraph 2, point (d),\
-  \ shall be such that the relevant residual risk associated with each hazard, as\
-  \ well as the overall residual risk of the high-risk AI systems is judged to be\
-  \ acceptable.   In identifying the most appropriate risk management measures, the\
-  \ following shall be ensured:    \r\n\r\nEnd - With a view to eliminating or reducing\
-  \ risks related to the use of the high-risk AI system, due consideration shall be\
-  \ given to the technical knowledge, experience, education, the training to be expected\
-  \ by the deployer, and the presumable context in which the system is intended to\
-  \ be used."
+description: Requires risk management measures to reduce residual risk to an acceptable level, considering the deployer's expected knowledge, training and context of use.
 elementType: control

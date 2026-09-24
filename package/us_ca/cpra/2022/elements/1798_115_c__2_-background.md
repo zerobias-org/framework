@@ -1,0 +1,1 @@
+The category or categories of consumers’ personal information it has disclosed for a business purpose, or if the business has not disclosed consumers’ personal information for a business purpose, it shall disclose that fact.

@@ -1,0 +1,1 @@
+the third-party service provider’s policies and procedures for access controls, including its use of multi-factor authentication as required by section 500.12 of this Part, to limit access to relevant information systems and nonpublic information;

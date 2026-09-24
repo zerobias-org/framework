@@ -1,0 +1,1 @@
+The relevant entities shall segment systems into networks or zones in accordance with the results of the risk assessment referred to in point 2.1. They shall segment their systems and networks from third parties’ systems and networks.

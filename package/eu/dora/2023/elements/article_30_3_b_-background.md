@@ -1,0 +1,1 @@
+notice periods and reporting obligations of the ICT third-party service provider to the financial entity, including notification of any development that might have a material impact on the ICT third-party service provider’s ability to effectively provide the ICT services supporting critical or important functions in line with agreed service levels;

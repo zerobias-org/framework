@@ -8,8 +8,5 @@ aliases:
   - 10_2_f
   - 10-2-f
 name: Article 10.2(f)
-description: examination in view of possible biases that are likely to affect the
-  health and safety of persons, have a negative impact on fundamental rights or lead
-  to discrimination prohibited under Union law, especially where data outputs influence
-  inputs for future operations;
+description: Requires examining data sets for possible biases that could affect health and safety, harm fundamental rights, or lead to prohibited discrimination, especially where outputs feed future operations.
 elementType: control

@@ -1,0 +1,1 @@
+FRFIs should implement approved, risk-based security configuration baselines for technology assets and security defence tools, including those provided by third parties. Where possible, security configuration baselines for different defence layers should disable settings and access by default. FRFIs should define and implement processes to manage configuration deviations.

@@ -1,0 +1,2 @@
+- a. Enable authorized users to determine whether access authorizations assigned to a sharing partner match the information’s access and use restrictions as defined in an executed information exchange agreement; and
+- b. Employ attribute-based access control (see AC-2(d)(3)) or manual processes as defined in information exchange ag

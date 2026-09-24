@@ -1,0 +1,1 @@
+The operation, administration and activity registration functions will be the minimum necessary, and it will be ensured that they are only carried out by authorized people, from also authorized locations or equipment; Time restrictions and authorized access points may be required, where appropriate.

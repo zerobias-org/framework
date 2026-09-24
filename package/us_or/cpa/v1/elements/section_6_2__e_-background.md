@@ -1,0 +1,1 @@
+Require the processor to delete the personal data or return the personal data to the controller at the controller’s direction or at the end of the provision of services, unless a law requires the processor to retain the personal data;

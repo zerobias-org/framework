@@ -1,0 +1,1 @@
+Functions that are unnecessary or inappropriate for the intended purpose will be eliminated or deactivated by controlling the configuration. Ordinary use of the system must be simple and safe, so that unsafe use requires a conscious act on the part of the user.

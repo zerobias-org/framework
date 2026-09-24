@@ -1,0 +1,2 @@
+- a. Identify and document separation of duties based on specific duties, operations, or information systems, as necessary, to mitigate risk to CJI; and
+- b. Define system access authorizations to support separation of duties.

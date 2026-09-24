@@ -1,0 +1,1 @@
+The Supplier shall implement, update and document system hardening procedures. Implement, update and document baseline configurations settings for all information technology products deployed in organisational systems; this shall include the restriction of user actions and of unsupported software and hardware.

@@ -1,0 +1,1 @@
+The Supplier shall implement threat intelligence capabilities (internally or externally) as part of a risk assessment to guide and inform the development of organisational systems, security architectures, selection of security solutions, monitoring, threat hunting, system security alerts and advisories, response and recovery activities.

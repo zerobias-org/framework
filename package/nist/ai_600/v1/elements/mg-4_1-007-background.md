@@ -1,0 +1,1 @@
+Verify that AI Actors responsible for monitoring reported issues can eﬀectively evaluate GAI system performance including the application of content provenance data tracking techniques, and promptly escalate issues for response.
