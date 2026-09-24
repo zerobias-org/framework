@@ -1,0 +1,1 @@
+Following maintenance or repair activities for IT equipment, the IT equipment is inspected to confirm it retains its approved software configuration and that no unauthorised modifications have taken place.

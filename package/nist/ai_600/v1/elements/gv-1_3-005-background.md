@@ -1,0 +1,1 @@
+Maintain an updated hierarchy of identiﬁed and expected GAI risks connected to contexts of GAI model advancement and use, potentially including specialized risk levels for GAI systems that address issues such as model collapse and algorithmic monoculture.

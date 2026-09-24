@@ -1,0 +1,1 @@
+When using a software-based isolation mechanism to share a physical server’s hardware, the isolation mechanism is from a vendor that has demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products.

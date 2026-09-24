@@ -1,0 +1,1 @@
+The Supplier shall manage and maintain an inventory of all physical access devices used on their premises. The inventory should contain a unique identifier for the device regardless of the type (e.g. RFID card, access fob or door key) as well as the named individual who it is assigned to.

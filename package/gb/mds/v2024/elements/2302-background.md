@@ -1,0 +1,1 @@
+The Supplier shall protect and control data in transit, including the use of encryption where appropriate, for data important to the operation of the Functions and all Data. This includes the transfer of data to third parties.

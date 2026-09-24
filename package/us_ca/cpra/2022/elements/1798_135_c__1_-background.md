@@ -1,0 +1,1 @@
+Not require a consumer to create an account or provide additional information beyond what is necessary in order to direct the business not to sell or share the consumer’s personal information or to limit use or disclosure of the consumer’s sensitive personal information.

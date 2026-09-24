@@ -1,0 +1,1 @@
+The person responsible for security will determine decisions to satisfy the information and service security requirements, supervise the implementation of the necessary measures to ensure that the requirements are satisfied and report on these issues.

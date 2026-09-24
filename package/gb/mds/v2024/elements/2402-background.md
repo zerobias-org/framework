@@ -1,0 +1,7 @@
+The Supplier shall implement a vulnerability and patch management process to identify, report, and remediate application and system (internal and external facing) vulnerabilities that is approved by the application or system owner and is commensurate with the level of risk by:
+
+- i) Performing vulnerability scans on a monthly basis and during any major system or application updates
+- ii) Implementing vendor patches or fixes prioritising using the CVSS v3 scoring
+- iii) Developing a Risk Treatment Plan to address identified vulnerabilities.
+
+The Supplier shall address vulnerabilities in accordance with the Supplier’s internal vulnerability remediation timelines and in line with reasonable industry standards for vulnerability management based on CVSS v3 or above.

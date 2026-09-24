@@ -1,0 +1,1 @@
+Deﬁne use cases, contexts of use, capabilities, and negative impacts where structured human feedback exercises, e.g., GAI red-teaming, would be most beneﬁcial for GAI risk measurement and management based on the context of use.

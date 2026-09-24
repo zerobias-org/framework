@@ -1,0 +1,1 @@
+The security of information systems will be attended to and will be reviewed and audited by qualified, dedicated and instructed personnel in all phases of their life cycle: planning, design, acquisition, construction, deployment, exploitation, maintenance, incident management and dismantling.

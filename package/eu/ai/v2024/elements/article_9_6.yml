@@ -8,8 +8,5 @@ aliases:
   - 9_6
   - 9-6
 name: Article 9.6
-description: High-risk AI systems shall be tested for the purpose of identifying the
-  most appropriate and targeted risk management measures. Testing shall ensure that
-  high-risk AI systems perform consistently for their intended purpose and that they
-  are in compliance with the requirements set out in this Section.
+description: Requires high-risk AI systems to be tested to identify appropriate risk management measures and ensure consistent, compliant performance.
 elementType: control

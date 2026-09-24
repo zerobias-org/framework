@@ -1,0 +1,1 @@
+utilize qualified cybersecurity personnel of the covered entity, an affiliate or a thirdparty service provider sufficient to manage the covered entity’s cybersecurity risks and to perform or oversee the performance of the core cybersecurity functions specified in section 500.2(b)(1)–(6) of this Part;

@@ -1,0 +1,1 @@
+The Supplier shall perform Business Continuity Risk Assessments to determine relevant risks, threats, and likelihood & impact of a service outage or Data Breach. The Supplier shall record the output of these Risk Assessments within a risk register along with the required controls and/or procedures to mitigate or remove the risk and/or threat.

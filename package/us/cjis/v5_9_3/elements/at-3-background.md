@@ -1,0 +1,59 @@
+- a. Provide role-based security and privacy training to personnel with the following roles and responsibilities:
+    - All individuals with unescorted access to a physically secure location;
+    - General User: A user, but not a process, who is authorized to use an information system;
+    - Privileged User: A user that is authorized (and, therefore, trusted) to perform security-relevant functions that general users are not authorized to perform;
+    - Organizational Personnel with Security Responsibilities: Personnel with the responsibility to ensure the confidentiality, integrity, and availability of CJI and the implementation of technology in a manner compliant with the CJISSECPOL.
+        - 1\. Before authorizing access to the system, information, or performing assigned duties, and annually thereafter; and
+        - 2\. When required by system changes.
+- b. Update role-based training content annually and following audits of the CSA and local agencies; changes in the information system operating environment; security incidents; or when changes are made to the CJIS Security Policy;
+- c. Incorporate lessons learned from internal or external security incidents or breaches into role-based training;
+- d. Incorporate the minimum following topics into the appropriate role-based training content:
+    - 1\. All individuals with unescorted access to a physically secure location
+- a. Access, Use and Dissemination of Criminal History Record Information (CHRI), NCIC Restricted Files Information, and NCIC Non-Restricted Files Information Penalties
+- b. Reporting Security Events
+- c. Incident Response Training
+- d. System Use Notification
+- e. Physical Access Authorizations
+- f. Physical Access Control
+- g. Monitoring Physical Access
+- h. Visitor Control
+- i. Personnel Sanctions
+    - 2\. General User: A user, but not a process, who is authorized to use an information system. In addition to AT-3 (d) (1) above, include the following topics:
+- a. Criminal Justice Information
+- b. Proper Access, Use, and Dissemination of NCIC Non-Restricted Files Information
+- c. Personally Identifiable Information
+- d. Information Handling
+- e. Media Storage
+- f. Media Access
+- g. Audit Monitoring, Analysis, and Reporting
+- h. Access Enforcement
+- i. Least Privilege
+- j. System Access Control
+- k. Access Control Criteria
+- l. System Use Notification
+- m. Session Lock
+- n. Personally Owned Information Systems
+- o. Password
+- p. Access Control for Display Medium
+- q. Encryption
+- r. Malicious Code Protection
+- s. Spam and Spyware Protection
+- t. Cellular Devices
+- u. Mobile Device Management
+- v. Wireless Device Risk Mitigations
+- w. Wireless Device Malicious Code Protection
+- x. Literacy Training and Awareness/Social Engineering and Mining
+- y. Identification and Authentication (Organizational Users)
+- z. Media Protection
+    - 3\. Privileged User: A user that is authorized (and, therefore, trusted) to perform security-relevant functions that general users are not authorized to perform. In addition to AT-3 (d) (1) and (2) above, include the following topics:
+- a. Access Control
+- b. System and Communications Protection and Information Integrity
+- c. Patch Management
+- d. Data backup and storage—centralized or decentralized approach
+- e. Most recent changes to the CJIS Security Policy
+    - 4\. Organizational Personnel with Security Responsibilities: Personnel with the responsibility to ensure the confidentiality, integrity, and availability of CJI and the implementation of technology in a manner compliant with the CJISSECPOL. In addition to AT-3 (d) (1), (2), and (3) above, include the following topics:
+- a. Local Agency Security Officer Role
+- b. Authorized Recipient Security Officer Role2
+- c. Additional state/local/tribal/territorial or federal agency roles and responsibilities
+- d. Summary of audit findings from previous state audits of local agencies
+- e. Findings from the last FBI CJIS Division audit

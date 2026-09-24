@@ -1,0 +1,1 @@
+In accordance with Article 16 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010, the ESAs, through the Joint Committee, shall by 17 July 2024develop common guidelines on the estimation of aggregated annual costs and losses referred to in paragraph 10.

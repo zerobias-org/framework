@@ -1,0 +1,1 @@
+The Supplier shall employ automated discovery and management tools to maintain an up-to-date, complete, accurate, and readily available inventory of data, people, systems and supporting infrastructure used to support business Functions and protect Data.

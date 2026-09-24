@@ -1,0 +1,1 @@
+A processor shall adhere to a controller’s instructions and shall assist the controller in meeting the controller’s obligations under sections 1 to 9 of this 2023 Act. In assisting the controller, the processor must:

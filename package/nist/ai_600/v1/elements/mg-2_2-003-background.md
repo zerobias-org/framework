@@ -1,0 +1,1 @@
+Evaluate feedback loops between GAI system content provenance and human reviewers, and update where needed. Implement real-time monitoring systems to aﬃrm that content provenance protocols remain eﬀective.

@@ -1,0 +1,1 @@
+Conduct after-action assessments for GAI system incidents to verify incident response and recovery processes are followed and eﬀective, including to follow procedures for communicating incidents to relevant AI Actors and where applicable, relevant legal and regulatory bodies.

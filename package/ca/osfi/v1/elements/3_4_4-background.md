@@ -1,0 +1,1 @@
+FRFIs should establish a cyber incident response team with tools and capabilities available on a continuous basis to rapidly respond, contain and recover from cyber security events and incidents that could materially impact the FRFI’s technology assets, customers and other stakeholders.

@@ -1,0 +1,1 @@
+The Supplier shall have established roles and responsibilities for the security of networks and information systems at all levels, with clear and well-understood channels for communicating and escalating risks.

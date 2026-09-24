@@ -8,7 +8,5 @@ aliases:
   - 51_2
   - 51-2
 name: Article 51.2
-description: A general-purpose AI model shall be presumed to have high impact capabilities
-  pursuant to paragraph 1, point (a), when the cumulative amount of computation used
-  for its training measured in floating point operations is greater than 1025.
+description: Presumes a general-purpose AI model has high-impact capabilities when its cumulative training computation exceeds 10^25 floating point operations.
 elementType: control

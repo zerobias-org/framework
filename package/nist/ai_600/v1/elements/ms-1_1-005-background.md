@@ -1,0 +1,1 @@
+Evaluate novel methods and technologies for the measurement of GAI-related risks including in content provenance, oﬀensive cyber, and CBRN, while maintaining the models’ ability to produce valid, reliable, and factually accurate outputs.

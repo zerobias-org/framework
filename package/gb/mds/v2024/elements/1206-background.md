@@ -1,0 +1,1 @@
+The Supplier shall monitor security controls on an ongoing basis to ensure the continued effectiveness of the controls. Any identified deficiencies should be recorded, reported to leadership, and mitigated within agreed timeframes.

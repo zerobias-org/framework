@@ -1,0 +1,4 @@
+- a. Establish agency-level policies governing the use of external systems consistent with the trust relationships established with other organizations owning, operating, and/or maintaining external systems, allowing authorized individuals to:
+    - 1\. Access the system from external systems; and
+    - 2\. Process, store, or transmit organization-controlled information using external systems; or
+- b. Prohibit the use of personally-owned information systems including mobile devices (i.e., bring your own device [BYOD]) and publicly accessible systems for accessing, processing, storing, or transmitting CJI.

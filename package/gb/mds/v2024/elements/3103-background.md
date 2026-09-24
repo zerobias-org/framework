@@ -1,0 +1,1 @@
+The Supplier shall hold logging data securely and grant read access only to accounts with business needs. The Supplier shall protect audit tools from unauthorised access, modification and deletion. Logging data shall be retained and protected from deletion to a documented retention period, after which it shall be deleted.

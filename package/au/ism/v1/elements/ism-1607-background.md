@@ -1,0 +1,1 @@
+When using a software-based isolation mechanism to share a physical server’s hardware, integrity and log monitoring are performed for the isolation mechanism and underlying operating system in a timely manner.

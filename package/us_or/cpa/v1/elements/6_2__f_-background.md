@@ -1,0 +1,1 @@
+Require the processor to make available to the controller, at the controller’s request, all information the controller needs to verify that the processor has complied with all obligations the processor has under sections 1 to 9 of this 2023 Act;

@@ -1,0 +1,1 @@
+use defensive infrastructure and the implementation of policies and procedures to protect the covered entity’s information systems, and the nonpublic information stored on those information systems, from unauthorized access, use or other malicious acts;

@@ -1,0 +1,1 @@
+The Supplier shall ensure that staff have appropriate awareness, knowledge and skills to carry out their organisational roles effectively in relation to the security of network and information systems supporting the operation of business Functions and protection of Data.

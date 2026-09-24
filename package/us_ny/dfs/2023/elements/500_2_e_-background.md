@@ -1,0 +1,1 @@
+All documentation and information relevant to the covered entity’s cybersecurity program, including the relevant and applicable provisions of a cybersecurity program maintained by an affiliate and adopted by the covered entity, shall be made available to the superintendent upon request.

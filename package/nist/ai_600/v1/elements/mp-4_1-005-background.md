@@ -1,0 +1,1 @@
+Establish policies for collection, retention, and minimum quality of data, in consideration of the following risks Disclosure of inappropriate CBRN information; Use of Illegal or dangerous content; Oﬀensive cyber capabilities; Training data imbalances that could give rise to harmful biases; Leak of personally identiﬁable information, including facial likenesses of individuals.

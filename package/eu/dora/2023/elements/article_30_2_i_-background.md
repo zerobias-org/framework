@@ -1,0 +1,1 @@
+the conditions for the participation of ICT third-party service providers in the financial entities’ ICT security awareness programmes and digital operational resilience training in accordance with Article 13(6).

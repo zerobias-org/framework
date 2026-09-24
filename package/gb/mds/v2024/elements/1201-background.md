@@ -1,0 +1,1 @@
+The Supplier shall have effective internal processes for managing risks (to the security of network and information systems that protect all Data) and communicating associated activities and solutions.

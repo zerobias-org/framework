@@ -1,0 +1,1 @@
+To comply with the minimum requirements established in this royal decree, the entities included in its scope of application will adopt the corresponding security measures and reinforcements indicated in Annex II, taking into account:

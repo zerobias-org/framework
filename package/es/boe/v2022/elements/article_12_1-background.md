@@ -1,0 +1,1 @@
+The information security policy is the set of guidelines that govern the way in which an organization manages and protects the information it processes and the services it provides. To this end, the instrument that approves said security policy must include, at a minimum, the following points:

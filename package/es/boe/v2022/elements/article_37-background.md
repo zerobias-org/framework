@@ -1,0 +1,1 @@
+Each entity that owns the information systems included in the scope of application of this royal decree and, where appropriate, its agencies, bodies, departments or units, will establish its control mechanisms to truly and effectively guarantee compliance with the ENS.

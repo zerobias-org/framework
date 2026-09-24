@@ -1,7 +1,5 @@
 id: 8de4a629-a588-43fd-8700-b31f992692e7
 externalId: ISM-1695
 name: ISM-1695
-description: Patches, updates or other vendor mitigations for vulnerabilities in
-  operating systems of workstations, non-internet-facing servers and
-  non-internet-facing network devices are applied within one month of release.
+description: Requires patches for operating systems of workstations and non-internet-facing servers and network devices to be applied within one month of release.
 elementType: control

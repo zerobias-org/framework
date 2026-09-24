@@ -1,0 +1,1 @@
+FRFIs should establish a framework of principles necessary to govern, manage, evolve and consistently implement IT architecture across the institution in support of the enterprise’s strategic technology, security and business goals and requirements.

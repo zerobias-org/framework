@@ -1,0 +1,1 @@
+Require the processor to enter into a subcontract with a person the processor engages to assist with processing personal data on the controller’s behalf and in the subcontract require the subcontractor to meet the processor’s obligations under the processor’s contract with the controller; and

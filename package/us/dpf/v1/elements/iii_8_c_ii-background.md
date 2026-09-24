@@ -1,0 +1,1 @@
+Where confidential commercial information can be readily separated from other personal information subject to an access request, the organization should redact the confidential commercial information and make available the nonconfidential information.

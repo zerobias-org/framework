@@ -1,0 +1,1 @@
+Incidents and errors are communicated to relevant AI Actors, including aﬀected communities. Processes for tracking, responding to, and recovering from incidents and errors are followed and documented.

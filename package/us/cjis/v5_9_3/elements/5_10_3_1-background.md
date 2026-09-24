@@ -1,0 +1,9 @@
+The application, service, or information system shall separate user functionality (including user interface services) from information system management functionality.
+
+The application, service, or information system shall physically or logically separate user interface services (e.g., public web pages) from information storage and management services (e.g., database management). Separation may be accomplished through the use of one or more of the following:
+
+- 1\. Different computers.
+- 2\. Different central processing units.
+- 3\. Different instances of the operating system.
+- 4\. Different network addresses.
+- 5\. Other methods approved by the FBI CJIS ISO.

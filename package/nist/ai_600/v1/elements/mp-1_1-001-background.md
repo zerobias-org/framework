@@ -1,0 +1,1 @@
+When identifying intended purposes, consider factors such as internal vs. external use, narrow vs. broad application scope, ﬁne-tuning, and varieties of data sources (e.g., grounding, retrieval-augmented generation).

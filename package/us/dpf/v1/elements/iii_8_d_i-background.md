@@ -1,0 +1,1 @@
+Access can be provided in the form of disclosure of the relevant personal information by an organization to the individual and does not require access by the individual to an organization’s data base.

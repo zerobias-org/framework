@@ -1,0 +1,1 @@
+The Supplier shall reasonably ensure everything required to deliver, maintain or support networks and information systems that support delivery of all Functions which protect all Data are determined and understood. This includes people and systems, as well as any supporting infrastructure (such as power or cooling).

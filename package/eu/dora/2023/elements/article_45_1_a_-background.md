@@ -1,0 +1,1 @@
+aims to enhance the digital operational resilience of financial entities, in particular through raising awareness in relation to cyber threats, limiting or impeding the cyber threats’ ability to spread, supporting defence capabilities, threat detection techniques, mitigation strategies or response and recovery stages;

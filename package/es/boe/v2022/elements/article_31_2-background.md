@@ -1,0 +1,1 @@
+The audit will be carried out based on the category of the system and, where applicable, the corresponding specific compliance profile, as provided in Annexes I and III and in accordance with the provisions of the Audit Security Technical Instruction. of Information Systems Security.

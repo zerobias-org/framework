@@ -1,0 +1,1 @@
+Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.

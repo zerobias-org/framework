@@ -1,0 +1,3 @@
+The perimeter of the information system will be protected, especially if it is connected to public networks, as defined in Law 9/2014, of May 9, General Telecommunications, reinforcing the tasks of prevention, detection and response to incidents. of security.
+
+In any case, the risks derived from the interconnection of the system with other systems will be analyzed and their connection point will be controlled. For adequate interconnection between systems, the provisions of the corresponding Technical Safety Instruction will be followed.

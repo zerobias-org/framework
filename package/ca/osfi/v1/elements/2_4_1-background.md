@@ -1,0 +1,1 @@
+The SDLC framework should outline processes and controls in each phase of the SDLC life cycle to achieve security and functionality, while ensuring systems and software perform as expected to support business objectives. The SDLC framework can include software development methodologies adopted by the FRFI (e.g., Agile, Waterfall).

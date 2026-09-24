@@ -1,0 +1,1 @@
+The comprehensive security process implemented must be continually updated and improved. To this end, the criteria and methods recognized in national and international practice relating to information technology security management will be applied.

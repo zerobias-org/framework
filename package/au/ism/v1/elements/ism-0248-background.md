@@ -1,0 +1,1 @@
+System owners deploying OFFICIAL: Sensitive or PROTECTED systems with radio frequency transmitters (including any wireless capabilities) that will be located within 20 meters of SECRET or TOP SECRET systems contact ASD for an emanation security threat assessment.
