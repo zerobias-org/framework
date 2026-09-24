@@ -1,6 +1,6 @@
 id: 00a4b536-153f-5538-b0b9-2f2f51672c92
 name: Endpoint Security Validation
-description: Automated mechanisms exist to validate the security posture of the endpoint devices (e.g., software versions, patch levels, etc.) prior to allowing devices to connect to organizational technology assets.
+description: Requires automated validation of endpoint security posture, such as software versions and patch levels, before allowing network connection.
 elementType: enhancement
 externalId: NET-14.7
 controlQuestion: Does the organization validate the security posture of the endpoint devices (e.g., software versions, patch levels, etc.) prior to allowing devices to connect to organizational technology assets?

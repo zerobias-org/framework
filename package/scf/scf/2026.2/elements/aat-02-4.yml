@@ -1,10 +1,6 @@
 id: be9281f6-c0e8-42fa-b7fa-e2bd6660e669
 name: AI Threat Modeling & Risk Assessment
-description: |-
-  Mechanisms exist to conduct Artificial Intelligence (AI) and Autonomous Technologies (AAT)-specific threat modeling and risk assessments to address the following criteria across the lifecycle of the AAT:
-  (1) Attack surfaces;
-  (2) Adversarial threats; and 
-  (3) Abuse / misuse scenarios.
+description: Requires AI and Autonomous Technologies-specific threat modeling and risk assessments covering attack surfaces, adversarial threats and abuse or misuse scenarios across the lifecycle.
 elementType: enhancement
 externalId: AAT-02.4
 parent: aat-02

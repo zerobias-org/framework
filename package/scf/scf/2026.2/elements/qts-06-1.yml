@@ -1,11 +1,6 @@
 id: 2c996218-feba-4c20-a5d6-90dfd6defe84
 name: Entropy Source & Random Bit Generation
-description: |-
-  Mechanisms exist to use validated entropy sources and random bit generators that comply with NIST SP 800-90B to support Post-Quantum Cryptography (PQC):
-  (1) Key generation;
-  (2) Nonce generation;
-  (3) Probabilistic algorithm inputs; and
-  (4) Key validation.
+description: Requires validated entropy sources and random bit generators compliant with NIST SP 800-90B to support post-quantum key generation, nonces and algorithm inputs.
 elementType: enhancement
 externalId: QTS-06.1
 parent: qts-06

@@ -1,6 +1,6 @@
 id: 1f8c5de9-a29e-48a3-bf6d-ca1c89281a06
 name: Previous Logon Notification
-description: Mechanisms exist to configure systems that process, store or transmit sensitive and/or regulated data to notify the user, upon successful logon, of the number of unsuccessful logon attempts since the last successful logon.
+description: Requires notifying users at successful logon of the number of unsuccessful logon attempts since their last successful logon on systems handling sensitive data.
 elementType: control
 externalId: SEA-19
 parent: sea

@@ -1,10 +1,6 @@
 id: 9108cca3-e792-400b-bb04-8b1123c9b820
 name: Software Repository Protections
-description: |-
-  Mechanisms exist to protect software repositories from importing untrusted and/or malicious software artifacts by:
-  (1) Scanning artifacts for malicious content;
-  (2) Verifying a digital signature or secure hash provided over a secure channel; and
-  (3) Scanning artifacts to identify plain text or encoded secrets and keys.
+description: Requires protecting software repositories from untrusted artifacts by scanning for malicious content, verifying signatures, and scanning for exposed secrets.
 elementType: enhancement
 externalId: CFG-09.2
 parent: cfg-09

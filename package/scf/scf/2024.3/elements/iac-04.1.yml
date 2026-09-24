@@ -1,6 +1,6 @@
 id: f6da5ab5-32f2-5f67-9587-66a7b8d928e6
 name: Device Attestation
-description: Mechanisms exist to ensure device identification and authentication is accurate by centrally-managing the joining of systems to the domain as part of the initial asset configuration management process.
+description: Requires accurate device identification and authentication by centrally managing systems joining the domain during asset configuration.
 elementType: enhancement
 externalId: IAC-04.1
 controlQuestion: Does the organization ensure device identification and authentication is accurate by centrally-managing the joining of systems to the domain as part of the initial asset configuration management process?

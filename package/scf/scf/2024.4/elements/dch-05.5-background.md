@@ -1,0 +1,1 @@
+Mechanisms exist to display cybersecurity & data privacy attributes in human-readable form on each object that the system transmits to output devices to identify special dissemination, handling or distribution instructions using human-readable, standard naming conventions.

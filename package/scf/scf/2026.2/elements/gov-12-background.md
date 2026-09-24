@@ -1,0 +1,1 @@
+Mechanisms exist to avoid and/or constrain the forced exfiltration of sensitive and/or regulated information (e.g., Intellectual Property (IP)) to the host government for purposes of market access or market management practices.

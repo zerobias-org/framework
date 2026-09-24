@@ -1,6 +1,6 @@
 id: e8c4befb-cd79-403e-969d-0e573280cac2
 name: Host Intrusion Detection and Prevention Systems (HIDS / HIPS)
-description: Mechanisms exist to utilize Host-based Intrusion Detection / Prevention Systems (HIDS / HIPS), or similar technologies, to monitor for and protect against anomalous host activity, including lateral movement across the network.
+description: Requires host-based intrusion detection and prevention to monitor for and protect against anomalous activity, including lateral movement.
 elementType: control
 externalId: END-07
 parent: end

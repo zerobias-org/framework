@@ -1,10 +1,6 @@
 id: 0f78d1bf-9205-4aac-8a7d-33655cef8dd2
 name: Post-Quantum Cryptography Agility Plan (PSCAP)
-description: |-
-  Mechanisms exist to develop a risk-prioritized Post-Quantum Cryptography Agility Plan (PQCAP) that:
-  (1) Enables cryptographic agility;
-  (2) Aligns with evolving security standards; and
-  (3) Defines the approach for selecting and implementing PQC algorithms.
+description: Requires a risk-prioritized post-quantum cryptography agility plan that enables cryptographic agility, aligns with evolving standards and defines an algorithm selection approach.
 elementType: control
 externalId: QTS-03
 parent: qts

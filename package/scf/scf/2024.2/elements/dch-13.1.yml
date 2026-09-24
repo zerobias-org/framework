@@ -1,6 +1,6 @@
 id: 07728b54-3788-5327-8758-f86b3d45ba86
 name: Limits of Authorized Use
-description: "Mechanisms exist to prohibit external parties, systems and services from storing, processing and transmitting data unless authorized individuals first: \r\n ▪ Verifying the implementation of required security controls; or\r\n ▪ Retaining a processing agreement with the entity hosting the external systems or service."
+description: Requires external parties to verify required security controls or maintain a processing agreement before storing, processing, or transmitting data.
 elementType: enhancement
 externalId: DCH-13.1
 controlQuestion: "Does the organization prohibit external parties, systems and services from storing, processing and transmitting data unless authorized individuals first: \r\n ▪ Verifying the implementation of required security controls; or\r\n ▪ Retaining a processing agreement with the entity hosting the external systems or service?"

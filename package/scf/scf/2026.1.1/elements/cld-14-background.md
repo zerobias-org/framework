@@ -1,0 +1,1 @@
+Mechanisms exist to prohibit access to, or usage of, hosted Technology Assets, Applications and/or Services (TAAS) until applicable security, compliance and/or resilience control implementation is verified.

@@ -1,0 +1,1 @@
+Mechanisms exist to constrain the host government from having unrestricted and non-monitored access to the organization's Technology Assets, Applications, Services and/or Data (TAASD) that could potentially violate other applicable statutory, regulatory and/or contractual obligations.

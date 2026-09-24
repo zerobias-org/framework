@@ -1,0 +1,1 @@
+Mechanisms exist to perform quarterly internal vulnerability scans, which includes all segments of the organization's internal network, as well as rescans until passing results are obtained or all “high” vulnerabilities are resolved, as defined by the Common Vulnerability Scoring System (CVSS).

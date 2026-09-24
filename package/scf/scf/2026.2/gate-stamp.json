@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "branch": "fix/scf-na-sentinel",
-  "sourceHash": "100d30ed7fca35b7c47ae4dc56aba53726ebf300156ce9b7613a7b9fcee2da0e",
+  "version": "1.0.2-uat.0",
+  "branch": "task/task-14-d-scf",
+  "sourceHash": "aa3a487e51c3ad6a3adf5cf5bcdc3b3b88ae45563bf4620b0c8d2dc8be07e748",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",

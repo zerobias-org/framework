@@ -1,6 +1,6 @@
 id: e978144f-465e-4ca0-a097-2b132810aa60
 name: Data Source Integrity
-description: Mechanisms exist to protect the integrity of source data to prevent accidental contamination or malicious corruption (e.g., data poisoning) that could compromise the performance of Artificial Intelligence and Autonomous Technologies (AAT).
+description: Requires protecting source data integrity to prevent accidental contamination or malicious data poisoning that could degrade AI performance.
 elementType: enhancement
 externalId: AAT-12.2
 parent: aat-12

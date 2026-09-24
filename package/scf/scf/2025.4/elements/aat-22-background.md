@@ -1,0 +1,1 @@
+Mechanisms exist to ensure the deployment of Artificial Intelligence (AI) and Autonomous Technologies (AAT) includes appropriate technical and organizational measures so that AAT are used in accordance with the AAT developer-provided instructions for use.

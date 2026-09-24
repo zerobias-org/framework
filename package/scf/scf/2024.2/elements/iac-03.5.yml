@@ -1,6 +1,6 @@
 id: 656c8424-5827-582d-bc72-88ba5ac7912f
 name: Acceptance of External Authenticators
-description: Mechanisms exist to restrict the use of external authenticators to those that are National Institute of Standards and Technology (NIST)-compliant and maintain a list of accepted external authenticators.
+description: Requires restricting external authenticators to NIST-compliant ones and maintaining a list of accepted authenticators.
 elementType: enhancement
 externalId: IAC-03.5
 controlQuestion: Does the organization restrict the use of external authenticators to those that are National Institute of Standards and Technology (NIST)-compliant and maintain a list of accepted external authenticators?

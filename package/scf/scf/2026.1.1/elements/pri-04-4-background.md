@@ -1,0 +1,1 @@
+Mechanisms exist to promptly inform data subjects of the utilization purpose when their Personal Data (PD) is acquired and not received directly from the data subject, except where that utilization purpose was disclosed in advance to the data subject.

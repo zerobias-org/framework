@@ -1,0 +1,1 @@
+Mechanisms exist to ensure the organization ceases collecting, receiving, processing, storing, transmitting, sharing and/or updating Personal Data (PD) upon receiving a data subject's consent revocation.

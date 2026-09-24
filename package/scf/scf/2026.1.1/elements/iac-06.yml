@@ -1,10 +1,6 @@
 id: 587208e0-2b98-4383-b8be-65fbc9a2b611
 name: Multi-Factor Authentication (MFA)
-description: |-
-  Automated mechanisms exist to enforce Multi-Factor Authentication (MFA) for:
-  (1) Remote network access; 
-  (2) Third-party Technology Assets, Applications and/or Services (TAAS); and/ or
-  (3) Non-console access to critical TAAS that store, transmit and/or process sensitive/regulated data.
+description: Requires automated enforcement of multi-factor authentication for remote access, third-party systems, and non-console access to critical systems handling sensitive data.
 elementType: control
 externalId: IAC-06
 parent: iac

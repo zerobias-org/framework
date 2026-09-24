@@ -1,0 +1,1 @@
+Mechanisms exist to govern Supply Chain Risk Management (SCRM) sanctions that require the removal and prohibition of certain technology services and/or equipment that are designated as supply chain threats by a statutory or regulatory body.

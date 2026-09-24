@@ -1,6 +1,6 @@
 id: 62240789-7df1-4e42-9842-ad1dab1ba3b2
 name: Account Lockout
-description: Mechanisms exist to enforce a limit for consecutive invalid login attempts by a user during an organization-defined time period and automatically locks the account when the maximum number of unsuccessful attempts is exceeded.
+description: Requires enforcing a limit on consecutive failed login attempts and automatically locking the account when the limit is exceeded.
 elementType: control
 externalId: IAC-22
 parent: iac

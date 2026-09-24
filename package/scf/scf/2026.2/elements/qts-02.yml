@@ -1,9 +1,6 @@
 id: 36a0e979-2cb8-43e1-9122-7b3018db7d62
 name: Cryptographic Agility Risk Assessment (CARA)
-description: |-
-  Mechanisms exist to perform a Cryptographic Agility Risk Assessment (CARA) that analyzes Technology Assets, Applications, Services and Data (TAASD) to:
-  (1) Identify TAASD most vulnerable to quantum-enabled cryptanalytic threats; and
-  (2) Prioritize TAASD based on potential business impact.
+description: Requires a cryptographic agility risk assessment that identifies assets most vulnerable to quantum-enabled cryptanalytic threats and prioritizes them by business impact.
 elementType: control
 externalId: QTS-02
 parent: qts

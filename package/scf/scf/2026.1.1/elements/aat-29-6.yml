@@ -1,9 +1,6 @@
 id: 798b5e92-dc58-46f5-a969-711e59ab4c39
 name: Privileged Role & Delegation Boundaries
-description: |-
-  Mechanisms exist to prevent privilege escalation or unauthorized delegation by AI agents by:
-  (1) Monitoring and enforcing dynamic roles; and
-  (2) Establishing cross-agent delegation boundaries and privileged actions.
+description: Requires preventing privilege escalation or unauthorized delegation by AI agents through dynamic role enforcement and cross-agent delegation boundaries.
 elementType: enhancement
 externalId: AAT-29.6
 parent: aat-29

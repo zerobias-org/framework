@@ -1,6 +1,6 @@
 id: bd5961ad-5b0e-45ba-bc14-1d5d73dd279e
 name: PKI-Based Authentication
-description: Automated mechanisms exist to validate certificates by constructing and verifying a certification path to an accepted trust anchor including checking certificate status information for PKI-based authentication.
+description: Requires automated validation of certificates by building and verifying a certification path to a trusted anchor for PKI-based authentication.
 elementType: enhancement
 externalId: IAC-10.2
 parent: iac-10

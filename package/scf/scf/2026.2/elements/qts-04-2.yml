@@ -1,11 +1,6 @@
 id: 4fa2259d-f840-4951-889a-171661fea879
 name: Cryptographic Bill of Materials (CBOM)
-description: |-
-  Mechanisms exist to develop and maintain a Cryptographic Bill of Materials (CBOM) by analyzing the organization's cryptographic architecture, including:
-  (1) Hardware;
-  (2) Firmware;
-  (3) Software modules; and
-  (4) Communication protocols.
+description: Requires developing and maintaining a cryptographic bill of materials covering hardware, firmware, software modules and communication protocols.
 elementType: enhancement
 externalId: QTS-04.2
 parent: qts-04

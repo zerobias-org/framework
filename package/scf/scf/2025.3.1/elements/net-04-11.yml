@@ -1,6 +1,6 @@
 id: a96f48be-bb87-427b-9a56-9e0234a23b77
 name: Approved Solutions
-description: Automated mechanisms exist to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains.
+description: Requires automated examination of information transferred between security domains to detect and block unsanctioned information.
 elementType: enhancement
 externalId: NET-04.11
 parent: net-04

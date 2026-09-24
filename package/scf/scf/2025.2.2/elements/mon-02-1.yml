@@ -1,6 +1,6 @@
 id: a74162d7-d045-4d86-8356-f1e4e17f46ed
 name: Correlate Monitoring Information
-description: Automated mechanisms exist to correlate both technical and non-technical information from across the enterprise by a Security Incident Event Manager (SIEM) or similar automated tool, to enhance organization-wide situational awareness.
+description: Requires automated correlation of technical and non-technical enterprise information via a SIEM to enhance organization-wide situational awareness.
 elementType: enhancement
 externalId: MON-02.1
 parent: mon-02

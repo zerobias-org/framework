@@ -1,6 +1,6 @@
 id: 55ddefcb-b74f-4782-8a81-94b80998eb67
 name: Software Bill of Materials (SBOM)
-description: Mechanisms exist to generate, or obtain, a Software Bill of Materials (SBOM) for Technology Assets, Applications and/or Services (TAAS) that lists software packages in use, including versions and applicable licenses.
+description: Requires generating or obtaining a Software Bill of Materials listing software packages, versions and applicable licenses in use.
 elementType: enhancement
 externalId: TDA-04.2
 parent: tda-04

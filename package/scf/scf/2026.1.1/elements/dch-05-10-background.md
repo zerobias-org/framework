@@ -1,0 +1,1 @@
+Mechanisms exist to provide authorized individuals the capability to define or change the type and value of cybersecurity and data protection attributes available for association with subjects and objects.

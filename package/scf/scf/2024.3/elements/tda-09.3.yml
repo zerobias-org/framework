@@ -1,6 +1,6 @@
 id: 4d599853-bf08-54fa-9f3a-468eae149760
 name: Dynamic Code Analysis
-description: Mechanisms exist to require the developers of systems, system components or services to employ dynamic code analysis tools to identify and remediate common flaws and document the results of the analysis.
+description: Requires developers to use dynamic code analysis tools to identify, remediate and document common code flaws.
 elementType: enhancement
 externalId: TDA-09.3
 controlQuestion: Does the organization require the developers of systems, system components or services to employ dynamic code analysis tools to identify and remediate common flaws and document the results of the analysis?

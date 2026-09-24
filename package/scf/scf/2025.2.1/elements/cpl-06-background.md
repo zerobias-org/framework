@@ -1,0 +1,1 @@
+Mechanisms exist to constrain the host government from having unrestricted and non-monitored access to the organization's systems, applications and services that could potentially violate other applicable statutory, regulatory and/or contractual obligations.

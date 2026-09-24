@@ -1,6 +1,6 @@
 id: da5bc62e-7235-5dbc-9bf1-f349a6d0f1df
 name: Documentation Requirements
-description: "Mechanisms exist to obtain, protect and distribute administrator documentation for systems that describe:\r\n ▪ Secure configuration, installation and operation of the system;\r\n ▪ Effective use and maintenance of security features/functions; and\r\n ▪ Known vulnerabilities regarding configuration and use of administrative (e.g., privileged) functions."
+description: Requires administrator documentation covering secure configuration, use of security features, and known vulnerabilities in administrative functions.
 elementType: control
 externalId: TDA-04
 controlQuestion: "Does the organization obtain, protect and distribute administrator documentation for systems that describe:\r\n ▪ Secure configuration, installation and operation of the system;\r\n ▪ Effective use and maintenance of security features/functions; and\r\n ▪ Known vulnerabilities regarding configuration and use of administrative (e.g., privileged) functions?"

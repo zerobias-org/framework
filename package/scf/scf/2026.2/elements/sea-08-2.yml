@@ -1,9 +1,6 @@
 id: 5eb43fa6-d318-4c64-ba7b-047cd856a740
 name: Non-Persistent Information
-description: |-
-  Mechanisms exist to:
-  (1) Generate or refresh information per an organization-defined frequency; and
-  (2) Delete information when no longer needed.
+description: 'Mechanisms exist to: (1) Generate or refresh information per an organization-defined frequency; and (2) Delete information when no longer needed.'
 elementType: enhancement
 externalId: SEA-08.2
 parent: sea-08

@@ -1,6 +1,6 @@
 id: 65861e06-a8ef-5aef-9ff5-aaef2fcd53f8
 name: Detection of Unsanctioned Information
-description: Automated mechanisms exist to implement security policy filters requiring fully enumerated formats that restrict data structure and content, when transferring information between different security domains.
+description: Requires automated security policy filters using fully enumerated formats to restrict data structure and content between security domains.
 elementType: enhancement
 externalId: NET-04.10
 controlQuestion: Does the organization use automated mechanisms to implement security policy filters requiring fully enumerated formats that restrict data structure and content, when transferring information between different security domains?

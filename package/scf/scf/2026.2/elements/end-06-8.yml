@@ -1,13 +1,6 @@
 id: dd32031d-f3dd-41c0-95af-fbeaaa75538e
 name: Extended Detection & Response (XDR)
-description: |-
-  Mechanisms exist to implement Extended Detection & Response (XDR) technologies to correlate data and respond to threats across multiple security layers, including:
-  (1) Endpoints;
-  (2) On-premises networks; 
-  (3) Cloud-based networks;
-  (4) Electronic communications; 
-  (5) Applications; and
-  (6) Services.
+description: Requires implementing Extended Detection and Response technologies to correlate data and respond to threats across endpoints, networks, communications, applications and services.
 elementType: enhancement
 externalId: END-06.8
 parent: end-06

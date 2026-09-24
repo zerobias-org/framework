@@ -1,6 +1,6 @@
 id: c4b9c0d6-bf98-590a-85c7-cfe8d87f5181
 name: Cybersecurity & Data Privacy Requirements Definition
-description: Mechanisms exist to identify critical system components and functions by performing a criticality analysis for critical systems, system components or services at pre-defined decision points in the Secure Development Life Cycle (SDLC).
+description: Requires a criticality analysis identifying critical system components and functions at defined points in the development lifecycle.
 elementType: control
 externalId: PRM-05
 controlQuestion: Does the organization identify critical system components and functions by performing a criticality analysis for critical systems, system components or services at pre-defined decision points in the Secure Development Life Cycle (SDLC)?

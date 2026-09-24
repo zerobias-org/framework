@@ -1,11 +1,6 @@
 id: 6c3c3de1-67d3-415f-8729-e0bab138a465
 name: Harvest Now, Decrypt Later (HNDL) Mitigation
-description: |-
-  Mechanisms exist to mitigate Harvest Now, Decrypt Later (HNDL) risk by minimizing an adversary's ability to collect long-lived data through Zero Trust Network Architecture (ZTNA) that enforces:
-  (1) Continuous authentication;
-  (2) Data microsegmentation;
-  (3) Least privilege; and
-  (4) Identity-based access control.
+description: Requires mitigating harvest-now-decrypt-later risk through zero trust architecture enforcing continuous authentication, microsegmentation, least privilege and identity-based access.
 elementType: enhancement
 externalId: QTS-01.4
 parent: qts-01

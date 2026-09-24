@@ -1,6 +1,6 @@
 id: 513c493e-688f-4bb9-b3ff-004bfd2a7477
 name: Account Separation Between Infrastructure Environments
-description: Mechanisms exist to separate non-privileged accounts between infrastructure environments to reduce the risk that a compromise in one infrastructure environment laterally affects another infrastructure environment.
+description: Requires separating non-privileged accounts between infrastructure environments to limit lateral spread of a compromise.
 elementType: enhancement
 externalId: IAC-15.10
 parent: iac-15

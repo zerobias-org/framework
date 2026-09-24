@@ -1,6 +1,6 @@
 id: ccd34bfd-200d-4ae4-811a-1f3434115c15
 name: Role-Based Access Control (RBAC)
-description: Mechanisms exist to enforce Role-Based Access Control (RBAC) for Technology Assets, Applications, Services and/or Data (TAASD) to restrict access to individuals assigned specific roles with legitimate business needs.
+description: Requires enforcing role-based access control to restrict access to individuals assigned specific roles with legitimate business need.
 elementType: control
 externalId: IAC-08
 parent: iac

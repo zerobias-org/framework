@@ -1,6 +1,6 @@
 id: 86ee7c2b-827f-5878-8e42-6d9fae5c6b69
 name: Secure Settings By Default
-description: Mechanisms exist to implement secure configuration settings by default to reduce the likelihood of software being deployed with weak security settings that would put the asset at a greater risk of compromise.
+description: Requires implementing secure default configuration settings to reduce the risk of software being deployed with weak security.
 elementType: enhancement
 externalId: TDA-09.6
 controlQuestion: Does the organization implement secure configuration settings by default to reduce the likelihood of software being deployed with weak security settings that would put the asset at a greater risk of compromise?

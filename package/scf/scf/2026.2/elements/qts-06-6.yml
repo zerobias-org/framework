@@ -1,10 +1,6 @@
 id: 8948e5ca-b522-4f19-a193-657fa5457d51
 name: Post-Quantum Cryptography (PQC) Key Management
-description: |-
-  Mechanisms exist to manage cryptographic keys and certificates in a manner that supports Post-Quantum Cryptography (PQC) transition by:
-  (1) Shortening validity periods for quantum-vulnerable certificates to reduce exposure;
-  (2) Preparing Public Key Infrastructure (PKI) for PQC roots of trust or dual-root hybrid trust models; and
-  (3) Ensuring key generation uses quantum-safe entropy sources.
+description: Requires managing cryptographic keys and certificates for post-quantum transition by shortening validity periods, preparing PKI for hybrid trust and using quantum-safe entropy.
 elementType: enhancement
 externalId: QTS-06.6
 parent: qts-06

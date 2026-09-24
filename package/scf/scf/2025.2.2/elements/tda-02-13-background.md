@@ -1,0 +1,1 @@
+Mechanisms exist to notify applicable stakeholders about potentially exploitable vulnerabilities in organization-developed products and/or services, as required by statutory, regulatory and/or contractual obligations.

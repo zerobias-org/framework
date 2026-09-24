@@ -1,6 +1,6 @@
 id: 1b678813-1574-56ff-a04d-70ed7812e4e5
 name: Authenticated Received Chain (ARC)
-description: Mechanisms exist to utilize an authenticated received chain that allows for an intermediary to sign its own authentication of the original email, allowing downstream entities to accept the intermediary’s authentication even if the email was changed.
+description: Requires an Authenticated Received Chain so intermediaries can sign email authentication, letting downstream entities trust it even if the email changed.
 elementType: enhancement
 externalId: NET-20.3
 controlQuestion: Does the organization utilize an authenticated received chain that allows for an intermediary to sign its own authentication of the original email, allowing downstream entities to accept the intermediary’s authentication even if the email was changed?

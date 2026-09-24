@@ -1,0 +1,1 @@
+Architect and implement a secure and resilient defense-in-depth methodology that enforces the concept of “least functionality” through restricting network access to systems, applications and services.

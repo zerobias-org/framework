@@ -1,0 +1,1 @@
+Mechanisms exist to govern former employee behavior by formally notifying terminated individuals of their applicable, legally binding post-employment requirements for the protection of sensitive/regulated data.

@@ -1,10 +1,6 @@
 id: b78788e3-d345-4d99-9e2c-0a32f4b557aa
 name: Data Fiduciary
-description: |-
-  Mechanisms exist to appoint an individual to determine the following criteria about Personal Data (PD):
-  (1) The purpose why PD is necessary; 
-  (2) Authorized methods to collect, receive, process, store, transmit, share, update and/or dispose PD; and
-  (3) Authorized parties PD may be shared with.
+description: Requires appointing an individual to determine the purpose, authorized collection methods, and authorized recipients of personal data.
 elementType: enhancement
 externalId: PRI-01.8
 parent: pri-01

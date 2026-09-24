@@ -1,11 +1,6 @@
 id: 7a0f56e1-3497-49b5-afe1-1cd8eec24e63
 name: PQC Implementation Validation & Interoperability Testing
-description: |-
-  Mechanisms exist to validate that each Post-Quantum Cryptography (PQC) implementation:
-  (1) Meets functional and cryptographic requirements;
-  (2) Is interoperable with counterparties and successors;
-  (3) Meets performance criteria for its use case; and
-  (4) Documents test results and exceptions.
+description: Requires validating that each post-quantum cryptography implementation meets functional, interoperability and performance requirements and documents test results.
 elementType: control
 externalId: QTS-08
 parent: qts

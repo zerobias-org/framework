@@ -1,9 +1,6 @@
 id: f6169b50-089b-43bb-87e9-a4cecaff0237
 name: Identity Providers (IdP) & Authorization Servers
-description: |-
-  Mechanisms exist to employ identity providers and authorization servers to manage user, device and Non-Person Entity (NPE) identities, attributes and access rights that support authentication and authorization decisions:
-  (1) In accordance with organization-defined identification and authentication policy; and
-  (2) Using organization-defined mechanisms.
+description: Requires using identity providers and authorization servers to manage user, device and non-person entity identities and access rights for authentication decisions.
 elementType: enhancement
 externalId: IAC-01.4
 parent: iac-01

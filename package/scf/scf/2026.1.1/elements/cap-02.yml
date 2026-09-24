@@ -1,6 +1,6 @@
 id: b0bf4680-4c14-4a44-b16a-3ae3a550556c
 name: Resource Priority
-description: Mechanisms exist to control resource utilization of Technology Assets, Applications and/or Services (TAAS) that are susceptible to Denial of Service (DoS) attacks to limit and prioritize the use of resources.
+description: Requires controlling resource utilization of systems susceptible to denial-of-service attacks to limit and prioritize resource use.
 elementType: control
 externalId: CAP-02
 parent: cap

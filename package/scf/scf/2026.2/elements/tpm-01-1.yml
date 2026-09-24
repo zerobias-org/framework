@@ -1,6 +1,6 @@
 id: 583e53d1-d55d-4eda-8029-9562eb31caa8
 name: Third-Party Inventories
-description: Mechanisms exist to maintain a current, accurate and complete list of External Service Providers (ESPs) that can potentially impact the Confidentiality, Integrity, Availability and/or Safety (CIAS) of the organization's Technology Assets, Applications, Services and/or Data (TAASD).
+description: Requires maintaining a current, accurate list of External Service Providers that can impact confidentiality, integrity, availability or safety of assets and data.
 elementType: enhancement
 externalId: TPM-01.1
 parent: tpm-01

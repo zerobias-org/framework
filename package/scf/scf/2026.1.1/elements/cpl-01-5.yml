@@ -1,11 +1,6 @@
 id: 8431afcc-d23d-42e5-9e06-acaea09c49d3
 name: Declaration of Conformity
-description: |-
-  Mechanisms exist to generate a declaration of conformity for each conformity assessment, where the document:
-  (1) Is concise;
-  (2) Unambiguously reflects the current status;
-  (3) Is physically or electronically signed; and
-  (4) Where possible, is machine readable.
+description: Requires a concise, signed and where possible machine-readable declaration of conformity for each conformity assessment.
 elementType: enhancement
 externalId: CPL-01.5
 parent: cpl-01

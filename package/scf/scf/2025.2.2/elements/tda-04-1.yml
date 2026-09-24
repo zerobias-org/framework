@@ -1,6 +1,6 @@
 id: 9c825e3b-46cf-4579-8517-bf3d9b61891a
 name: Functional Properties
-description: Mechanisms exist to require software developers to provide information describing the functional properties of the security controls to be utilized within systems, system components or services in sufficient detail to permit analysis and testing of the controls.
+description: Requires software developers to describe security control functional properties in enough detail to permit analysis and testing.
 elementType: enhancement
 externalId: TDA-04.1
 parent: tda-04

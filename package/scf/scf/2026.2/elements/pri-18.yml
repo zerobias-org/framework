@@ -1,11 +1,6 @@
 id: 33dea739-0e47-4711-90d1-74a3212740da
 name: Data Controller Communications
-description: |-
-  Mechanisms exist to receive and process data controller communications pertaining to:
-  (1) Receiving and responding to data subject requests;
-  (2) Updating/correcting Personal Data (PD); 
-  (3) Accounting for disclosures of PD; and
-  (4) Accounting for PD that is stored, processed and/or transmitted on behalf of the data controller.
+description: Requires processing data controller communications on data subject requests, PD corrections, disclosure accounting and PD handled on the controller's behalf.
 elementType: control
 externalId: PRI-18
 parent: pri

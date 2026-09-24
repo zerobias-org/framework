@@ -1,0 +1,1 @@
+Mechanisms exist to maintain records of data subject requests and responses in accordance with an established documentation retention schedule that adheres to applicable statutory, regulatory and/or contractual obligations.

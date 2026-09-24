@@ -1,0 +1,1 @@
+Mechanisms exist to isolate sensitive/regulated data enclaves (secure zones) from corporate-provided IT resources by providing enclave-specific IT services (e.g., directory services, DNS, NTP, ITAM, antimalware, patch management, etc.) to those isolated network segments.
