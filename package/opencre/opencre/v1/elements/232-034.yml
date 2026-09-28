@@ -6,7 +6,6 @@ elementType: cre
 links:
   demonstrates:
     - NIST 800-63/7.1.1
-    - CWE-16
     - owasp.wstg.v5.benchmark/wstg-sess-02
     - OWASP Cheat Sheets/Cross-Site Request Forgery Prevention Cheat Sheet
     - owasp.asvs.v4_0_3.framework/3.4.4
