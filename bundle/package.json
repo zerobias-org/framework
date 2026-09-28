@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.70",
+  "version": "0.0.71",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -70,7 +70,7 @@
     "@zerobias-org/framework-nz-hisf-suppliers": "2.0.1",
     "@zerobias-org/framework-nz-hisf-v1": "2.0.1",
     "@zerobias-org/framework-oasisopen-cosai-mcp_security": "2.0.1",
-    "@zerobias-org/framework-opencre-opencre-v1": "2.0.4",
+    "@zerobias-org/framework-opencre-opencre-v1": "2.0.5",
     "@zerobias-org/framework-owasp-asvs-v4.0.3": "3.0.1",
     "@zerobias-org/framework-owasp-llmtop10-v2025": "2.0.1",
     "@zerobias-org/framework-owasp-samm-v1.0": "3.0.1",
