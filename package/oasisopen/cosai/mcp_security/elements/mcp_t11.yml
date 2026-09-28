@@ -1,10 +1,6 @@
 id: 2b140b1f-e931-4d02-a59c-362399565b16
 externalId: MCP-T11
 name: Supply Chain and Lifecycle Security Failures
-description: >-
-  Risks from the MCP server ecosystem including malicious or compromised MCP
-  servers, typosquatting in server registries, lack of server provenance
-  verification, insecure update mechanisms, and dependency vulnerabilities
-  in MCP server implementations.
+description: Covers risks from the MCP server ecosystem, including malicious or compromised servers, registry typosquatting, unverified provenance, insecure updates, and dependency vulnerabilities.
 elementType: threat_category
 parent: conventional_threats

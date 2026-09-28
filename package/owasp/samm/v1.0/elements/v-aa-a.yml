@@ -1,10 +1,6 @@
 id: 3a5142ac-7eac-4fb4-8dfd-d3e67816746b
 name: Architecture Validation
-description: >
-  Architecture validation confirms the security of the software and supporting
-  architecture by identifying application and infrastructure architecture
-  components and verifying their provision of security objectives and
-  requirements.
+description: Confirms the security of software and supporting architecture by identifying components and verifying they meet security objectives and requirements.
 elementType: stream
 externalId: V-AA-A
 parent: v-aa

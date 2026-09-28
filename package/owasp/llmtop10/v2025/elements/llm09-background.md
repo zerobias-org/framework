@@ -1,0 +1,1 @@
+Overreliance on LLMs occurs when users or systems place excessive trust in LLM outputs without proper verification, leading to misinformation, security vulnerabilities, legal issues, or reputational damage from AI hallucinations.

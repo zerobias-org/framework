@@ -1,0 +1,1 @@
+We recommend using a static analysis tool to check code for many kinds of vulnerabilities and for compliance with the organization’s coding standards. Static source code analysis should be done as soon as code is written.

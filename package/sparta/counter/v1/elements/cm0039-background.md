@@ -1,0 +1,1 @@
+Employ the principle of least privilege, allowing only authorized processes which are necessary to accomplish assigned tasks in accordance with system functions. Ideally maintain a separate execution domain for each executing process.

@@ -1,0 +1,1 @@
+Enforce TLS 1.3 or equivalent encryption for all MCP network communications. Implement certificate validation, certificate pinning where appropriate, and secure configuration of both HTTP/SSE and stdio transport mechanisms to protect data in transit.

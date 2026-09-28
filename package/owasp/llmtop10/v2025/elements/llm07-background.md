@@ -1,0 +1,1 @@
+Insecure Plugin Design refers to vulnerabilities in LLM plugins that can be exploited through malicious requests, insufficient access controls, or failure to validate inputs, potentially leading to data exfiltration or code execution.

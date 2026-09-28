@@ -1,0 +1,1 @@
+MCP does not define resource management or rate limiting mechanisms, enabling denial-of-service attacks through excessive tool invocations, resource exhaustion, recursive tool calls, and unbounded context consumption in MCP-connected AI systems.

@@ -1,0 +1,1 @@
+Link click-through protections ensure that when a link in communications is clicked, the requester is directed to a protection that verifies the security of the link destination before permitting access.

@@ -1,0 +1,1 @@
+Excessive Agency occurs when an LLM-based system is granted too many capabilities, permissions, or autonomy, enabling the model to perform harmful actions beyond its intended scope due to erroneous outputs or prompt injection.

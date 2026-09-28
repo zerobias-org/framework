@@ -1,0 +1,1 @@
+Code-based, or structural, test cases are based on the implementation. Code-based test cases may also come from coverage metrics. Most code should be executed during unit testing. We recommend that executing the test suite achieves a minimum of 80 % statement coverage.

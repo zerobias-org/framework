@@ -1,0 +1,1 @@
+MCP servers binding to network interfaces without proper isolation controls, enabling unauthorized access from other processes or network hosts. This is particularly critical for local MCP servers using SSE transport that may inadvertently expose services beyond localhost.

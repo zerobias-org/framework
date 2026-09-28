@@ -1,0 +1,1 @@
+Access to health information and its associated assets is defined and authorised according to the business and security requirements and adhere to the hospitals identity and access management policy or procedures.

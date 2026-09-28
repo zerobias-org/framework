@@ -1,0 +1,1 @@
+The content of the Personal Data shall be appropriate and limited to the minimum amount necessary to achieve the purpose of the Collection. Content that may lead to specifically identifying Data Subject once the purpose of Collection is achieved shall be avoided. The Regulations shall set out the necessary controls in this regard.

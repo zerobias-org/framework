@@ -1,0 +1,1 @@
+MCP lacks a built-in authentication framework, leaving identity verification to individual implementations. This creates risks of unauthenticated access, identity spoofing, and credential theft across MCP clients, servers, and transport layers.

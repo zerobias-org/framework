@@ -1,0 +1,1 @@
+MCP lacks built-in integrity verification mechanisms for tool definitions, resource content, and server responses, enabling tool definition tampering, response manipulation, and man-in-the-middle attacks that can alter the behavior of MCP-connected AI systems.

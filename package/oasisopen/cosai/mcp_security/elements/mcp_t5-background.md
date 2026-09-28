@@ -1,0 +1,1 @@
+MCP does not define data classification or confidentiality mechanisms, risking exposure of sensitive data through tool descriptions, resource content, conversation context, or cross-server data leakage when multiple MCP servers share a conversation context.

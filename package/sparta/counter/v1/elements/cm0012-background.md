@@ -1,0 +1,1 @@
+Generate Software Bill of Materials (SBOM) against the entire software supply chain and cross correlate with known vulnerabilities (e.g., Common Vulnerabilities and Exposures) to mitigate known vulnerabilities. Protect the SBOM according to countermeasures in CM0001.

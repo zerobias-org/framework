@@ -1,0 +1,1 @@
+Inform managers, systems administrators, and users of organizational systems of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems.

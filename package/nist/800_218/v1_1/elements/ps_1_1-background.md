@@ -1,3 +1,5 @@
+Store all forms of code – including source code, executable code, and configuration-as-code – based on the principle of least privilege so that only authorized personnel, tools, services, etc. have access.
+
 **Example 1**: Store all source code and configuration-as-code in a code repository, and restrict access to it based on the nature of the code. For example, open-source code intended for public access may need its integrity and availability protected; other code may also need its confidentiality protected.
 
 **Example 2**: Use version control features of the repository to track all changes made to the code with accountability to the individual account.

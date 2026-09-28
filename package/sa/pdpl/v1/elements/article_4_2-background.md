@@ -1,0 +1,1 @@
+The right to access their Personal Data held by the Controller, in accordance with the rules and procedures set out in the Regulations, and without prejudice to the provisions of Article (9) of this Law.

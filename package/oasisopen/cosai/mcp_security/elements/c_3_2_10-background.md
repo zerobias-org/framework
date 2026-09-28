@@ -1,0 +1,1 @@
+Implement comprehensive logging for all MCP operations including tool invocations, resource access, authentication events, and error conditions. Ensure logs capture sufficient context for incident investigation, compliance auditing, and anomaly detection in MCP-connected systems.

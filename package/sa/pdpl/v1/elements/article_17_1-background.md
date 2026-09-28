@@ -1,0 +1,1 @@
+If Personal Data is corrected, completed or updated, the Controller shall notify such amendment to all the other entities to which such Personal Data has been transferred and make the amendment available to such entities.

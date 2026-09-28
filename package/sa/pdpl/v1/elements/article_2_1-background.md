@@ -1,0 +1,1 @@
+The Law applies to any Processing of Personal Data related to individuals that takes place in the Kingdom by any means, including the Processing of Personal Data related to individuals residing in the Kingdom by any means from any party outside the Kingdom. This includes the data of the deceased if it would lead to them or a member of their family being identified specifically.

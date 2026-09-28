@@ -1,10 +1,6 @@
 id: 83b2d357-9cad-4f4c-a596-255b7f1d3a0c
 externalId: MCP-T10
 name: Resource Management/Rate Limiting Absence
-description: >-
-  MCP does not define resource management or rate limiting mechanisms,
-  enabling denial-of-service attacks through excessive tool invocations,
-  resource exhaustion, recursive tool calls, and unbounded context
-  consumption in MCP-connected AI systems.
+description: MCP does not define resource management or rate limiting mechanisms, enabling denial-of-service through excessive tool invocations or unbounded context consumption.
 elementType: threat_category
 parent: conventional_threats

@@ -1,0 +1,1 @@
+Establish policy and procedures to prevent individuals (i.e., insiders) from masquerading as individuals with valid access to areas where commanding of the spacecraft is possible. Establish an Insider Threat Program to aid in the prevention of people with authorized access performing malicious activities.

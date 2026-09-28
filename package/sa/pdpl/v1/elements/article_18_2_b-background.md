@@ -1,0 +1,1 @@
+If the Personal Data is closely related to a case under consideration before a judicial authority and the retention of the Personal Data is required for that purpose, in which case the Personal Data shall be destroyed once the judicial procedures are concluded.

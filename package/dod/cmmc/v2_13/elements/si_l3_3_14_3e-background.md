@@ -1,0 +1,1 @@
+Include specialized assets such as IoT, IIoT, OT, GFE, Restricted Information Systems and test equipment in the scope of the specified enhanced security requirements or are segregated in purpose-specific networks.

@@ -1,0 +1,1 @@
+A controller shall provide, and shall describe in a privacy notice, one (1) or more secure and reliable means for a consumer to submit a request to exercise the consumer rights in § 47-18-3203. Such means must take into account the:

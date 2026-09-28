@@ -1,3 +1,5 @@
+Provide role-based training for all personnel with responsibilities that contribute to secure development. Periodically review personnel proficiency and role-based training, and update the training as needed.
+
 **Example 1**: Document the desired outcomes of training for each role.
 
 **Example 2**: Define the type of training or curriculum required to achieve the desired outcome for each role.

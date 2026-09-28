@@ -1,0 +1,1 @@
+Components/Software that cannot be procured from the original component manufacturer or their authorized franchised distribution network should be approved by the supply chain board or equivalent to prevent and detect counterfeit and fraudulent parts, materials, and software.

@@ -1,0 +1,1 @@
+Organisations are to ensure:  a)  information security responsibilities are clearly defined and assigned b)  a governance body or steering committee overseeing information security activities is in place c)  there is at least one individual responsible for maintaining information security within the organisation.

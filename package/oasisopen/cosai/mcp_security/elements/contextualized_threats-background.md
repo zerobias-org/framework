@@ -1,0 +1,1 @@
+Known security threats that take on new significance or manifest differently in the MCP context, including data protection, integrity verification, transport security, network isolation, and trust boundary design failures.

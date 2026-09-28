@@ -1,0 +1,1 @@
+Use threat modeling, attack surface analysis, and vulnerability analysis to inform the current development process using analysis from similar systems, components, or services where applicable. Reduce attack surface where possible based on threats.

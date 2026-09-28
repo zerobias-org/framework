@@ -1,0 +1,1 @@
+Use cryptographic signatures and remote attestation to verify the integrity of MCP tool definitions, server responses, and resource content. Implement hash-based verification, signed manifests, and attestation protocols to detect tampering.

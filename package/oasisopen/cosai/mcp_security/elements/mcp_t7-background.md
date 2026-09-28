@@ -1,0 +1,1 @@
+Vulnerabilities in MCP session management and transport layer security, including session hijacking, token theft, replay attacks, and inadequate encryption of MCP communications across both stdio and HTTP/SSE transport mechanisms.

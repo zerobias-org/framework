@@ -1,0 +1,1 @@
+The Controller shall cooperate with the Competent Authority in performing its duties to supervise the implementation of the provisions of this Law and the Regulations, and shall take such steps as necessary in connection with the related matters referred to the Controller by the Competent Authority.

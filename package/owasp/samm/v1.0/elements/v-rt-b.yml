@@ -1,9 +1,6 @@
 id: 1e8a1e1b-258e-479a-9295-5158dc5f54c7
 name: Misuse/Abuse Testing
-description: >
-  Misuse/Abuse Testing leverages fuzzing, misuse/abuse cases, and the
-  identification of any functionality or resources in the software that can be
-  abused in order to identify weaknesses in features to attack an application.
+description: Uses fuzzing and misuse/abuse cases to identify functionality or resources that can be abused to attack an application.
 elementType: stream
 externalId: V-RT-B
 parent: v-rt

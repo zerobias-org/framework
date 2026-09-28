@@ -1,0 +1,1 @@
+Model Denial of Service attacks aim to consume excessive computational resources, making the LLM unavailable or degrading its performance. This includes resource-heavy queries, context window exhaustion, and recursive expansion attacks.

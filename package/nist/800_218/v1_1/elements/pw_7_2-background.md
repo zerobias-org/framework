@@ -1,3 +1,5 @@
+Perform the code review and/or code analysis based on the organization’s secure coding standards, and record and triage all discovered issues and recommended remediations in the development team’s workflow or issue tracking system.
+
 **Example 1**: Perform peer review of code, and review any existing code review, analysis, or testing results as part of the peer review.
 
 **Example 2**: Use expert reviewers to check code for backdoors and other malicious content.

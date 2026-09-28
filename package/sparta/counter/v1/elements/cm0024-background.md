@@ -1,0 +1,1 @@
+Develop and implement anti-counterfeit policy and procedures designed to detect and prevent counterfeit components from entering the information system, including tamper resistance and protection against the introduction of malicious code or hardware.

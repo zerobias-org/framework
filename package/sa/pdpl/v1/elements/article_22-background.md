@@ -1,0 +1,1 @@
+The Controller shall conduct an impact assessment of Personal Data Processing in relation to any product or service, based on the nature of the activity carried out by the Controller, in accordance with the relevant provisions of the Regulations.

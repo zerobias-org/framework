@@ -1,0 +1,1 @@
+Risks from the MCP server ecosystem including malicious or compromised MCP servers, typosquatting in server registries, lack of server provenance verification, insecure update mechanisms, and dependency vulnerabilities in MCP server implementations.

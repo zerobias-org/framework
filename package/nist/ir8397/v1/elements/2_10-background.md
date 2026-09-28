@@ -1,0 +1,1 @@
+If the software provides a web service, use a dynamic application security testing (DAST) tool or Interactive Application Security Testing (IAST) tool to detect vulnerabilities. These tools monitor for general unusual behavior and internal faults during execution.

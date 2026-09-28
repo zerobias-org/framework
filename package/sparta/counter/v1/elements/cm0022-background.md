@@ -1,0 +1,1 @@
+Conduct a criticality analysis to identify mission critical functions, critical components, and data flows and reduce the vulnerability of such functions and components through secure system design. Focus supply chain protection on the most critical components/functions. Leverage other countermeasures like segmentation and least privilege to protect the critical components.

@@ -1,3 +1,5 @@
+Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SDLC. Periodically review and maintain the defined roles and responsibilities, updating them as needed.
+
 **Example 1**: Define SDLC-related roles and responsibilities for all members of the software development team.
 
 **Example 2**: Integrate the security roles into the software development team.

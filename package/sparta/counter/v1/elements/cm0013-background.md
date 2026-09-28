@@ -1,0 +1,1 @@
+Ensure proper protections are in place for ensuring dependency confusion is mitigated like ensuring that internal dependencies be pulled from private repositories vice public repositories, ensuring that your CI/CD/development environment is secure as defined in CM0004 and validate dependency integrity by ensuring checksums match official packages.

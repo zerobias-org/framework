@@ -1,7 +1,5 @@
 id: 5386f728-b228-4573-a687-3b80917fcdbf
 externalId: 3.PEP.UN.LCTPR
 name: Link Click- through Protections
-description: Link click-through protections ensure that when a link in
-  communications is clicked, the requester is directed to a protection that
-  verifies the security of the link destination before permitting access.
+description: Requires link click-through protections that verify a link's destination security before permitting access when the link is clicked.
 elementType: control

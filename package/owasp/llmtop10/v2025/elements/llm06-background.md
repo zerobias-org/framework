@@ -1,0 +1,1 @@
+Sensitive Information Disclosure occurs when an LLM inadvertently reveals confidential data through its responses, including PII, proprietary algorithms, credentials, or other sensitive information from training data or prompts.

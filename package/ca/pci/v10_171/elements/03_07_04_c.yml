@@ -1,7 +1,5 @@
 id: d9b872c4-f1c3-4dce-8c59-61da1a6b443b
 externalId: 03.07.04.C
 name: Maintenance Tools
-description: Prevent the removal of system maintenance equipment containing CI
-  by verifying that there is no CI on the equipment, sanitizing or destroying
-  the equipment, or retaining the equipment within the facility.
+description: Requires preventing removal of maintenance equipment containing controlled information by verifying it is free of CI, sanitizing or destroying it, or retaining it on-site.
 elementType: control

@@ -1,0 +1,1 @@
+With the exception of Sensitive Data, Personal Data may be processed for marketing purposes, if it is collected directly from the Data Subject and their consent is given in accordance with the provisions of Law; the Regulations shall set out the controls in such regard.

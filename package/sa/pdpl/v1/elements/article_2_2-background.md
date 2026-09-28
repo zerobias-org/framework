@@ -1,0 +1,1 @@
+The scope of applying the Law excludes the individual's Personal Data Processing for purposes that do not go beyond personal or family use, as long as the Data Subject did not publish or disclose it to others. The Regulations shall define personal and family use provided in this Paragraph.

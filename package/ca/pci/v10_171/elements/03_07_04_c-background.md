@@ -1,0 +1,1 @@
+Prevent the removal of system maintenance equipment containing CI by verifying that there is no CI on the equipment, sanitizing or destroying the equipment, or retaining the equipment within the facility.
