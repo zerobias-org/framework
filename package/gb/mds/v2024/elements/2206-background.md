@@ -1,0 +1,1 @@
+The Supplier shall limit access to systems’ audit/security logging data and functionality to privileged user groups that have a confirmed requirement in accordance with the principle of least privilege.

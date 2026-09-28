@@ -1,0 +1,2 @@
+- a. Establish and document usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed; and
+- b. Authorize each type of remote access to the system prior to allowing such connections.

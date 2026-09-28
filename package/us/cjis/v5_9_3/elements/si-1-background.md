@@ -1,0 +1,9 @@
+- a. Develop, document, and disseminate to all organizational personnel with system and information integrity responsibilities and information system owners:
+    - 1\. Agency-level system and information integrity policy that:
+        - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+        - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+    - 2\. Procedures to facilitate the implementation of the system and information integrity policy and the associated system and information integrity controls;
+- b. Designate organizational personnel with system and information integrity responsibilities to manage the development, documentation, and dissemination of the system and information integrity policy and procedures; and
+- c. Review and update the current system and information integrity:
+    - 1\. Policy annually and following any security incidents involving unauthorized access to CJI or systems used to process, store, or transmit CJI; and
+    - 2\. Procedures annually and following any security incidents involving unauthorized access to CJI or systems used to process, store, or transmit CJI.

@@ -1,0 +1,1 @@
+The security category of an information system will modulate the balance between the importance of the information it handles and the services it provides and the security effort required, depending on the risks to which it is exposed, under the principle of proportionality.

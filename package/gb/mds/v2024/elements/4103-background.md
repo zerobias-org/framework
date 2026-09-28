@@ -1,0 +1,1 @@
+The Supplier shall carry out exercises to test response plans at least every 12 months, using past incidents that affected their (and other’s) organisation, and scenarios that draw on threat intelligence and risk assessments.

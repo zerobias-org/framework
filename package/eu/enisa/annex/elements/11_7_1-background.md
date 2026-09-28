@@ -1,0 +1,1 @@
+The relevant entities shall ensure that users are authenticated by multiple authentication factors or continuous authentication mechanisms for accessing the relevant entities’ network and information systems, where appropriate, in accordance with the classification of the asset to be accessed.

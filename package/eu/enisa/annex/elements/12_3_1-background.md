@@ -1,0 +1,1 @@
+The relevant entities shall establish, implement and apply a policy on the management of removable storage media and communicate it to their employees and third parties who handle removable storage media at the relevant entities’ premises or other locations where the removable media is connected to the relevant entities’ network and information systems.

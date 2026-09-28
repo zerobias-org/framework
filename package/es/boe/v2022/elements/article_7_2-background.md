@@ -1,0 +1,1 @@
+Risk management will allow the maintenance of a controlled environment, minimizing risks to acceptable levels. The reduction to these levels will be carried out through an appropriate application of security measures, in a balanced manner and proportionate to the nature of the information processed, the services to be provided and the risks to which they are exposed.

@@ -1,0 +1,1 @@
+The Supplier shall conduct practical exercises in awareness training for their organisation that are aligned with current threat scenarios and provide feedback to individuals involved in the training and their supervisors.

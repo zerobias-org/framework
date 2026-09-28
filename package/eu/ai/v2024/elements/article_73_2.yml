@@ -8,10 +8,5 @@ aliases:
   - 73_2
   - 73-2
 name: Article 73.2
-description: "The report referred to in paragraph 1 shall be made immediately after\
-  \ the provider has established a causal link between the AI system and the serious\
-  \ incident or the reasonable likelihood of such a link, and, in any event, not later\
-  \ than 15 days after the provider or, where applicable, the deployer, becomes aware\
-  \ of the serious incident.  \r\n\r\nThe period for the reporting referred to in\
-  \ the first subparagraph shall take account of the severity of the serious incident."
+description: Requires serious incident reports to be made once a causal link with the AI system is established or reasonably likely, and in any case within 15 days of becoming aware.
 elementType: control

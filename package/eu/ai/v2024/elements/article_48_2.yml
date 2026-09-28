@@ -8,8 +8,5 @@ aliases:
   - 48_2
   - 48-2
 name: Article 48.2
-description: For high-risk AI systems provided digitally, a digital CE marking shall
-  be used, only if it can easily be accessed via the interface from which that system
-  is accessed or via an easily accessible machine-readable code or other electronic
-  means.
+description: Requires digitally provided high-risk AI systems to use a digital CE marking accessible via the system's interface or an easily accessible machine-readable code.
 elementType: control

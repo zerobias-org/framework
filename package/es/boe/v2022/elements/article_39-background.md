@@ -1,0 +1,1 @@
+The ENS will remain permanently updated, developing and perfecting itself over time, in parallel with the advancement of the services provided by public sector entities, technological evolution, the emergence or consolidation of new international standards on security and auditing and the risks to which the information systems concerned are exposed.

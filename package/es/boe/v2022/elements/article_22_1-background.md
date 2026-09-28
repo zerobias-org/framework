@@ -1,0 +1,1 @@
+In the organization and implementation of security, special attention will be paid to the information stored or in transit through portable or mobile equipment or devices, peripheral devices, information media and communications over open networks, which must be analyzed. especially to achieve adequate protection.

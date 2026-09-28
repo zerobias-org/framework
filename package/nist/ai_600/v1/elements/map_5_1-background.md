@@ -1,0 +1,1 @@
+Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identiﬁed and documented.

@@ -1,0 +1,2 @@
+- a. Employ integrity verification tools to detect unauthorized changes to software, firmware, and information systems that contain or process CJI; and
+- b. Take the following actions when unauthorized changes to the software, firmware, and information are detected: notify organizational personnel responsible for software, firmware, and/or information integrity and implement incident response procedures as appropriate.

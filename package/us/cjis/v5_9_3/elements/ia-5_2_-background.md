@@ -1,0 +1,6 @@
+- (a) For public key-based authentication:
+    - 1\. Enforce authorized access to the corresponding private key; and
+    - 2\. Map the authenticated identity to the account of the individual or group; and
+- (b) When public key infrastructure (PKI) is used:
+    - 1\. Validate certificates by constructing and verifying a certification path to an accepted trust anchor, including checking certificate status information; and
+    - 2\. Implement a local cache of revocation data to support path discovery and validation.

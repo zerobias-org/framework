@@ -1,0 +1,1 @@
+The Supplier shall have an up-to-date incident response plan that is grounded in a thorough risk assessment that takes account of business Functions and protection of Data and covers a range of incident scenarios.

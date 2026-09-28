@@ -1,0 +1,1 @@
+Document how content provenance data is tracked and how that data interacts with privacy and security. ConsiderAnonymizing data to protect the privacy of human subjects; Leveraging privacy output ﬁlters; Removing any personally identiﬁable information (PII) to prevent potential harm or misuse.

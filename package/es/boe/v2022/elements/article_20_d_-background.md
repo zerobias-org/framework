@@ -1,0 +1,1 @@
+Security configuration guides will be applied for the different technologies, adapted to the categorization of the system, in order to eliminate or deactivate functions that are unnecessary or inappropriate.

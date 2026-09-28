@@ -1,0 +1,2 @@
+- a. Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic;
+- b. Monitor inbound and outbound communications traffic continuously for unusual or unauthorized activities or conditions such as: the presence of malicious code or unauthorized use of legitimate code or credentials within organizational systems or propagating among system components, signaling to external systems, and the unauthorized exporting of information.

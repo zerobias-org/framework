@@ -1,0 +1,1 @@
+Use human moderation systems where appropriate to review generated content in accordance with human-AI conﬁguration policies established in the Govern function, aligned with socio-cultural norms in the context of use, and for settings where AI models are demonstrated to perform poorly.

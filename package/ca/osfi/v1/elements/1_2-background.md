@@ -1,0 +1,1 @@
+Principle 2: FRFIs should define, document, approve and implement a strategic technology and cyber plan(s). The plan(s) should align to business strategy and set goals and objectives that are measurable and evolve with changes in the FRFI’s technology and cyber environment.

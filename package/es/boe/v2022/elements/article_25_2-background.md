@@ -1,0 +1,1 @@
+Likewise, there will be detection mechanisms, classification criteria, analysis and resolution procedures, as well as communication channels to interested parties and a record of actions. This log will be used for continuous improvement of system security.

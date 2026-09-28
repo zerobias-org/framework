@@ -1,0 +1,1 @@
+All information in non-electronic support that has been the direct cause or consequence of the electronic information referred to in this royal decree must be protected with the same degree of security as this. To do this, the measures that correspond to the nature of the support will be applied, in accordance with the applicable regulations.

@@ -1,6 +1,6 @@
 id: b382a764-3a03-4550-9622-ae4ec4a1dd85
 name: 10.2.3
-description: Verify that the application source code and third party libraries do not contain back doors, such as hard-coded or additional undocumented accounts or keys, code obfuscation, undocumented binary blobs, rootkits, or anti-debugging, insecure debugging features, or otherwise out of date, insecure, or hidden functionality that could be used maliciously if discovered.
+description: Verify that the application source code and third-party libraries contain no back doors, such as hard-coded accounts, code obfuscation, rootkits, or other hidden functionality.
 externalId: 10.2.3
 parent: '10_2'
 links:

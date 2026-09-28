@@ -1,0 +1,9 @@
+- a. Develop, document, and disseminate to all personnel when their unescorted logical or physical access to any information system results in the ability, right, or privilege to view, modify, or make use of unencrypted CJI:
+    - 1\. Organization-level awareness and training policy that:
+        - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+        - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+    - 2\. Procedures to facilitate the implementation of the awareness and training policy and the associated awareness and training controls;
+- b. Designate organizational personnel with information security awareness and training responsibilities to manage the development, documentation, and dissemination of the awareness and training policy and procedures; and
+- c. Review and update the current awareness and training:
+    - 1\. Policy annually and following changes in the information system operating environment, when security incidents occur, or when changes to the CJIS Security Policy are made; and
+    - 2\. Procedures annually and following changes in the information system operating environment, when security incidents occur, or when changes to the CJIS Security Policy are made.

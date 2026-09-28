@@ -1,0 +1,11 @@
+- a. Provide security and privacy literacy training to system users (including managers, senior executives, and contractors):
+    - 1\. As part of initial training for new users prior to accessing CJI and annually thereafter; and
+    - 2\. When required by system changes or within 30 days of any security event for individuals involved in the event;
+- b. Employ one or more of the following techniques to increase the security and privacy awareness of system users:
+    - 1\. Displaying posters
+    - 2\. Offering supplies inscribed with security and privacy reminders
+    - 3\. Displaying logon screen messages
+    - 4\. Generating email advisories or notices from organizational officials
+    - 5\. Conducting awareness events
+- c. Update literacy training and awareness content annually and following changes in the information system operating environment, when security incidents occur, or when changes are made in the CJIS Security Policy; and
+- d. Incorporate lessons learned from internal or external security incidents or breaches into literacy training and awareness techniques.

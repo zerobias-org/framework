@@ -1,0 +1,1 @@
+The use of common infrastructure and services of public administrations, including shared or transversal ones, will facilitate compliance with the provisions of this royal decree. The specific cases of use of these infrastructures and services will be determined by each public administration.

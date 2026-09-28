@@ -1,0 +1,1 @@
+Assess adverse impacts, including health and wellbeing impacts for value chain or other AI Actors that are exposed to sexually explicit, oﬀensive, or violent information during GAI training and maintenance.

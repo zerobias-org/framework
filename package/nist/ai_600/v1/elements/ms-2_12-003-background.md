@@ -1,0 +1,1 @@
+Measure or estimate environmental impacts (e.g., energy and water consumption) for training, ﬁne tuning, and deploying models Verify tradeoﬀs between resources used at inference time versus additional resources required at training time.

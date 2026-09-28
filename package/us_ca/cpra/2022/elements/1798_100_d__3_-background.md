@@ -1,0 +1,1 @@
+Grants the business rights to take reasonable and appropriate steps to help ensure that the third party, service provider, or contractor uses the personal information transferred in a manner consistent with the business’ obligations under this title.

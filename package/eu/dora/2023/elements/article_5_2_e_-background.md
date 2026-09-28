@@ -1,0 +1,1 @@
+approve, oversee and periodically review the implementation of the financial entity’s ICT business continuity policy and ICT response and recovery plans, referred to, respectively, in Article 11(1) and (3), which may be adopted as a dedicated specific policy forming an integral part of the financial entity’s overall business continuity policy and response and recovery plan;

@@ -1,0 +1,1 @@
+The audit reports will be presented to the person responsible for the system and the person responsible for security. These reports will be analyzed by the latter who will present their conclusions to the person responsible for the system so that appropriate corrective measures can be taken.

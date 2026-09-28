@@ -1,0 +1,1 @@
+The Supplier shall closely manage and maintain identity and access control for users/admins, devices and systems accessing their networks and information systems supporting business Functions and protecting all Data.

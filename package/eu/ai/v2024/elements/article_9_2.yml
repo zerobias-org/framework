@@ -8,8 +8,5 @@ aliases:
   - 9_2
   - 9-2
 name: Article 9.2
-description: 'The risk management system shall be understood as a continuous iterative
-  process planned and run throughout the entire lifecycle of a high-risk AI system,
-  requiring regular systematic review and updating. It shall comprise the following
-  steps:'
+description: Defines the risk management system as a continuous, iterative process run throughout a high-risk AI system's lifecycle, requiring regular review and updating.
 elementType: control

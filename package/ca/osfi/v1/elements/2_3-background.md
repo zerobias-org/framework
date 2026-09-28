@@ -1,0 +1,1 @@
+Principle 6: Effective processes are in place to govern and manage technology projects, from initiation to closure, to ensure that project outcomes are aligned with business objectives and are achieved within the FRFI’s risk appetite.

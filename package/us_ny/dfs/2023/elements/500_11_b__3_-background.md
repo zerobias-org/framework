@@ -1,0 +1,1 @@
+notice to be provided to the covered entity in the event of a cybersecurity event directly impacting the covered entity’s information systems or the covered entity’s nonpublic information being held by the third-party service provider; and

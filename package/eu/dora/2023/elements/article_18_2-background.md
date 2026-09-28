@@ -1,0 +1,1 @@
+Financial entities shall classify cyber threats as significant based on the criticality of the services at risk, including the financial entity’s transactions and operations, number and/or relevance of clients or financial counterparts targeted and the geographical spread of the areas at risk.

@@ -1,0 +1,1 @@
+Deﬁne relevant groups of interest (e.g., demographic groups, subject matter experts, experience with GAI technology) within the context of use as part of plans for gathering structured public feedback.

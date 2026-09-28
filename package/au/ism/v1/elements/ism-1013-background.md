@@ -1,0 +1,1 @@
+The effective range of wireless communications outside an organisation’s area of control is limited by implementing RF shielding on facilities in which SECRET or TOP SECRET wireless networks are used.

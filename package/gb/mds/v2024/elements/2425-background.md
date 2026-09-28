@@ -1,0 +1,1 @@
+The Supplier shall implement an integrity verification tool to detect unauthorised changes to web-facing, critical software and firmware. Upon discovering discrepancies, the tool should automatically trigger the incident response process.

@@ -1,0 +1,1 @@
+Document sources and types of training data and their origins, potential biases present in the data related to the GAI application and its content provenance, architecture, training process of the pre-trained model including information on hyperparameters, training duration, and any ﬁne-tuning or retrieval-augmented generation processes applied.

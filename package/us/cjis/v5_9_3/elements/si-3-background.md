@@ -1,0 +1,6 @@
+- a. Implement signature-based malicious code protection mechanisms at system entry and exit points to detect and eradicate malicious code; 2
+- b. Automatically update malicious code protection mechanisms as new releases are available in accordance with organizational configuration management policy and procedures;
+- c. Configure malicious code protection mechanisms to:
+    - 1\. Perform periodic scans of the system at least daily and real-time scans of files from external sources at network entry and exit points and on all servers and endpoint devices as the files are downloaded, opened, or executed in accordance with organizational policy; and
+    - 2\. Block or quarantine malicious code, take mitigating action(s), and when necessary, implement incident response procedures; and send alert to system/network administrators and/or organizational personnel with information security responsibilities in response to malicious code detection; and5
+- d. Address the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the system.

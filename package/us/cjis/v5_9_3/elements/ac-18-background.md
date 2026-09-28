@@ -1,0 +1,2 @@
+- a. Establish configuration requirements, connection requirements, and implementation guidance for each type of wireless access; and
+- b. Authorize each type of wireless access to the system prior to allowing such connections.

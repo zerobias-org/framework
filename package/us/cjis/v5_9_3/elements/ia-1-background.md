@@ -1,0 +1,9 @@
+- a. Develop, document, and disseminate to authorized personnel:
+    - 1\. Agency/Entity identification and authentication policy that:
+        - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+        - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+    - 2\. Procedures to facilitate the implementation of the identification and authentication policy and the associated identification and authentication controls;
+- b. Designate an individual with security responsibilities to manage the development, documentation, and dissemination of the identification and authentication policy and procedures; and
+- c. Review and update the current identification and authentication:
+    - 1\. Policy annually and following any security incidents involving unauthorized access to CJI or systems used to process, store, or transmit CJI; and
+    - 2\. Procedures annually and following any security incidents involving unauthorized access to CJI or systems used to process, store, or transmit CJI.

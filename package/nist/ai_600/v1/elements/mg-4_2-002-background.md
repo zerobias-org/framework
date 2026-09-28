@@ -1,0 +1,1 @@
+Practice and follow incident response plans for addressing the generation of inappropriate or harmful content and adapt processes based on ﬁndings to prevent future occurrences. Conduct post-mortem analyses of incidents with relevant AI Actors, to understand the root causes and implement preventive measures.

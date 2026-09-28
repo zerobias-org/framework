@@ -1,0 +1,1 @@
+The Supplier shall implement and maintain full disk level encryption on all endpoints to industry standard solutions, for example, full disk encryption solutions using AES-256 encryption algorithm or FIPS equivalent.

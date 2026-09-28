@@ -1,0 +1,2 @@
+- (a) Accept only external authenticators that are NIST-compliant; and
+- (b) Document and maintain a list of accepted external authenticators.

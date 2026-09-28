@@ -1,0 +1,1 @@
+FRFIs should clearly define and implement a cyber incident taxonomy. This taxonomy should include specific cyber and information security incident classification, such as severity, category, type and root cause. It should be designed to support the FRFI in responding to, managing and reporting on cyber security incidents.

@@ -1,0 +1,1 @@
+By virtue of the principle of proportionality and seeking an effective and efficient application of the ENS to certain entities or specific sectors of activity, specific compliance profiles may be implemented that will include that set of security measures that, resulting from the mandatory risk analysis , are suitable for a specific security category.

@@ -1,0 +1,1 @@
+Permanent evaluation and monitoring will allow the security status of the systems to be adjusted based on configuration deficiencies, identified vulnerabilities and updates that affect them, as well as early detection of any incident that occurs on them.

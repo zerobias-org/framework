@@ -1,0 +1,1 @@
+The determination of the security category will be carried out based on the assessment of the impact that an incident that affects the security of the information or services with detriment to the availability, authenticity, integrity, confidentiality or traceability would have, following the procedure described in Annex I.

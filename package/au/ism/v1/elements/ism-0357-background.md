@@ -1,0 +1,1 @@
+Non-volatile EPROM media is sanitised by applying three times the manufacturer’s specified ultraviolet erasure time and then overwriting it at least once in its entirety with a random pattern followed by a read back for verification.

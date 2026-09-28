@@ -1,0 +1,2 @@
+- a. Enforce a limit of five (5) consecutive invalid logon attempts by a user during a 15-minute time period; and3
+- b. Automatically lock the account or node until released by an administrator when the maximum number of unsuccessful attempts is exceeded.

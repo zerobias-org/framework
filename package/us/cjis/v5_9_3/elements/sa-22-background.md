@@ -1,0 +1,2 @@
+- a. Replace system components when support for the components is no longer available from the developer, vendor, or manufacturer; or
+- b. Provide the following options for alternative sources for continued support for unsupported components: original manufacturer support, or original contracted vendor support.

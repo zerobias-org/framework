@@ -1,0 +1,1 @@
+Each covered entity shall notify the superintendent electronically in the form set forth on the department’s website as promptly as possible but in no event later than 72 hours after determining that a cybersecurity incident has occurred at the covered entity, its affiliates, or a third-party service provider.

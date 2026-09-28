@@ -1,0 +1,1 @@
+Establish, maintain, and evaluate eﬀectiveness of organizational processes and procedures for post-deployment monitoring of GAI systems, particularly for potential confabulation, CBRN, or cyber risks.

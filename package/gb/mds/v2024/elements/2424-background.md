@@ -1,0 +1,1 @@
+The Supplier shall ensure administrator credentials are stored through an approved and secured storage mechanism (process/location/tools etc.) and quarterly audits are performed to ensure the control is consistently applied and functions appropriately.

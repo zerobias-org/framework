@@ -1,0 +1,1 @@
+Create mechanisms to provide protections for whistleblowers who report, based on reasonable belief, when the organization violates relevant laws or poses a speciﬁc and empirically well-substantiated negative risk to public safety (or has already caused harm).

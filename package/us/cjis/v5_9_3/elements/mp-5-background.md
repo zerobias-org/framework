@@ -1,0 +1,4 @@
+- a. Protect and control digital and non-digital media to help prevent compromise of the data during transport outside of the physically secure locations or controlled areas using encryption, as defined in Section 5.10.1.2 of this Policy. Physical media will be protected at the same level as the information would be protected in electronic form. Restrict the activities associated with transport of electronic and physical media to authorized personnel;
+- b. Maintain accountability for system media during transport outside of the physically secure location or controlled areas;
+- c. Document activities associated with the transport of system media; and
+- d. Restrict the activities associated with the transport of system media to authorized personnel.

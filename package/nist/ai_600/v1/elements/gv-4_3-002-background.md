@@ -1,0 +1,1 @@
+Establish organizational practices to identify the minimum set of criteria necessary for GAI system incident reporting such as System ID (auto-generated most likely), Title, Reporter, System/Source, Data Reported, Date of Incident, Description, Impact(s), Stakeholder(s) Impacted.

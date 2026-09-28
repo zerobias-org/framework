@@ -1,0 +1,1 @@
+Compile statistics on actual policy violations, take-down requests, and intellectual property infringement for organizational GAI systems Analyze transparency reports across demographic groups, languages groups.

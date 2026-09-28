@@ -1,8 +1,5 @@
 id: 418af180-9cad-48fc-851c-c578afd39857
 externalId: "2204"
 name: Principle of Least Functionality
-description: The Supplier shall ensure that all information systems are
-  configured to provide only essential capabilities and to prohibit or restrict
-  the use of non-essential functions, such as ports, protocols, programmes and
-  services that are not integral to the operation of that information system.
+description: Requires the Supplier to configure information systems to provide only essential capabilities, prohibiting or restricting non-essential ports, protocols, programmes and services.
 elementType: control

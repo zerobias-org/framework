@@ -8,7 +8,5 @@ aliases:
   - 15_1
   - 15-1
 name: Article 15.1
-description: High-risk AI systems shall be designed and developed in such a way that
-  they achieve an appropriate level of accuracy, robustness, and cybersecurity, and
-  that they perform consistently in those respects throughout their lifecycle.
+description: Requires high-risk AI systems to achieve and consistently maintain an appropriate level of accuracy, robustness and cybersecurity throughout their lifecycle.
 elementType: control

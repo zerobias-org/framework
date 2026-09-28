@@ -1,0 +1,1 @@
+The Supplier shall have senior-level accountability for the security of networks and information systems, and delegates decision-making authority appropriately and effectively. Risks to network and information systems that protect all Data are considered in the context of other organisational risks.

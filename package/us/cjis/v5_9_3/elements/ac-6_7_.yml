@@ -1,9 +1,5 @@
 id: c3a871e9-c3d5-4559-beed-92f43a7c633d
 externalId: AC-6(7)
 name: LEAST PRIVILEGE | REVIEW OF USER PRIVILEGES
-description: "a. Review annually the privileges assigned to non-privileged and
-  privileged users to validate the need for such privileges; and\r
-
-  b. Reassign or remove privileges, if necessary, to correctly reflect
-  organizational mission and business needs."
+description: Requires annually reviewing privileged and non-privileged user access to validate the need for those privileges, reassigning or removing them as needed.
 elementType: control

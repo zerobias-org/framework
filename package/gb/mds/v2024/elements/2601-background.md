@@ -1,0 +1,1 @@
+The Supplier shall develop and maintain a positive cyber security culture which encourages employees to make information security part of their day-to-day activities and incentivises them for doing so.

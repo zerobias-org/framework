@@ -8,12 +8,5 @@ aliases:
   - 50_3
   - 50-3
 name: Article 50.3
-description: Deployers of an emotion recognition system or a biometric categorisation
-  system shall inform the natural persons exposed thereto of the operation of the
-  system, and shall process the personal data in accordance with Regulations (EU)
-  2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, as applicable. This obligation
-  shall not apply to AI systems used for biometric categorisation and emotion recognition,
-  which are permitted by law to detect, prevent or investigate criminal offences,
-  subject to appropriate safeguards for the rights and freedoms of third parties,
-  and in accordance with Union law.
+description: Requires deployers of emotion recognition or biometric categorisation systems to inform exposed persons of the system's operation and to process personal data per applicable EU data protection law.
 elementType: control

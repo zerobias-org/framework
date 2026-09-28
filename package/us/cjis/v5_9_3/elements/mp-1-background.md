@@ -1,0 +1,9 @@
+- a. Develop, document, and disseminate to authorized individuals:
+    - 1\. Agency-level media protection policy that:
+        - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among agency entities, and compliance; and
+        - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+    - 2\. Procedures to facilitate the implementation of the media protection policy and the associated media protection controls;
+- b. Designate an individual with security responsibilities to manage the development, documentation, and dissemination of the media protection policy and procedures; and
+- c. Review and update the current media protection: 2
+    - 1\. Policy at least annually and following any security incidents involving digital and/or non-digital media; and
+    - 2\. Procedures at least annually and following any security incidents involving digital and/or non-digital media.

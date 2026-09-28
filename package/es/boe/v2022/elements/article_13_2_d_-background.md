@@ -1,0 +1,1 @@
+The person responsible for the system, by himself or through his own or contracted resources, will be in charge of developing the specific way of implementing security in the system and supervising its daily operation, and may delegate to administrators or operators under his control. responsibility.

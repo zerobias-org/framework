@@ -1,0 +1,1 @@
+The CISO shall timely report to the senior governing body or senior officer(s) on material cybersecurity issues, such as significant cybersecurity events and significant changes to the covered entity’s cybersecurity program.

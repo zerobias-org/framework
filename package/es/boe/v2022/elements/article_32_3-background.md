@@ -1,0 +1,1 @@
+The results of the report will be used by the competent authorities who will promote the appropriate measures that facilitate the continuous improvement of the state of security using, where appropriate, dashboards and indicators that contribute to decision-making through the use of tools. that the CCN provides for this purpose.

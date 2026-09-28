@@ -1,0 +1,2 @@
+- a. Generate error messages that provide information necessary for corrective actions without revealing information that could be exploited; and
+- b. Reveal error messages only to organizational personnel with information security responsibilities.

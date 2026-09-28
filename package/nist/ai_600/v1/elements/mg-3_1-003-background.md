@@ -1,0 +1,1 @@
+Re-assess model risks after ﬁne-tuning or retrieval-augmented generation implementation and for any third-party GAI models deployed for applications and/or use cases that were not evaluated in initial testing.

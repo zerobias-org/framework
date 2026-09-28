@@ -1,0 +1,1 @@
+Use techniques such as anonymization, diﬀerential privacy or other privacy- enhancing technologies to minimize the risks associated with linking AI-generated content back to individual human subjects.

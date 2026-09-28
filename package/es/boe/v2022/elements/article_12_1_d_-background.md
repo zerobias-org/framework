@@ -1,0 +1,1 @@
+The structure and composition of the committee or committees for security management and coordination, detailing their scope of responsibility and the relationship with other elements of the organization.

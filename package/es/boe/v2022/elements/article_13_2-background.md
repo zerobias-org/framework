@@ -1,0 +1,1 @@
+The security policy, in application of the principle of differentiation of responsibilities referred to in article 11 and as detailed in section 3.1 of annex II, must be known by all people who are part of the organization and clearly identify unequivocally to those responsible for ensuring compliance, who will have the following functions:

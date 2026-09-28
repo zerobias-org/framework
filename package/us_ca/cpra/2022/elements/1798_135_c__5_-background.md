@@ -1,0 +1,1 @@
+For consumers under 16 years of age who do not consent to the sale or sharing of their personal information, refrain from selling or sharing the personal information of the consumer under 16 years of age and wait for at least 12 months before requesting the consumer’s consent again, or as authorized by regulations or until the consumer attains 16 years of age.

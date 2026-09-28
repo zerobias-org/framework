@@ -1,0 +1,1 @@
+The Supplier shall employ policies and processes to appropriately manage unsuccessful login attempts to standard and privileged accounts. The Supplier shall lock accounts after at most ten unsuccessful login attempts for a minimum of 15 minutes; the duration of which should increase between multiple account lockouts.

@@ -1,0 +1,1 @@
+Adopt administrative, technical and physical safeguards that are reasonably designed to protect the security and confidentiality of the personal data the processor processes, taking into account how the processor processes the personal data and the information available to the processor; and

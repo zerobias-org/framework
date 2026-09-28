@@ -1,0 +1,1 @@
+Provide a clear and conspicuous link on the business’ internet homepages, titled “Do Not Sell or Share My Personal Information,” to an internet web page that enables a consumer, or a person authorized by the consumer, to opt out of the sale or sharing of the consumer’s personal information.

@@ -1,0 +1,1 @@
+Establish a test plan and response policy, before developing highly capable models, to periodically evaluate whether the model may misuse CBRN information or capabilities and/or oﬀensive cyber capabilities.

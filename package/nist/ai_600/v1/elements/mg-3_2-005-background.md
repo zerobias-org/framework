@@ -1,0 +1,1 @@
+Implement content ﬁlters to prevent the generation of inappropriate, harmful, false, illegal, or violent content related to the GAI application, including for CSAM and NCII. These ﬁlters can be rule-based or leverage additional machine learning models to ﬂag problematic inputs and outputs.

@@ -1,0 +1,1 @@
+If using CDNs, disclosing the IP addresses of web servers under an organisation’s control (referred to as origin servers) is avoided and access to the origin servers is restricted to the CDNs and authorised management networks.

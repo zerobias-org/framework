@@ -1,0 +1,1 @@
+The minimum requirements will be required in proportion to the risks identified in each system, in accordance with the provisions of article 28, some of which may be ignored in systems without significant risks.

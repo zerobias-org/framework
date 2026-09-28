@@ -1,0 +1,1 @@
+Establish minimum thresholds for performance or assurance criteria and review as part of deployment approval (“go/”no-go”) policies, procedures, and processes, with reviewed processes and approval thresholds reﬂecting measurement of GAI capabilities and risks.

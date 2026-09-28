@@ -1,0 +1,3 @@
+- a. Identity proof users that require accounts for logical access to systems based on appropriate identity assurance level requirements as specified in applicable standards and guidelines;
+- b. Resolve user identities to a unique individual; and
+- c. Collect, validate, and verify identity evidence.

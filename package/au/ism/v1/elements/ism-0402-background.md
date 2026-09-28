@@ -1,0 +1,1 @@
+Applications are comprehensively tested for vulnerabilities, using static application security testing and dynamic application security testing, prior to their initial release and any subsequent releases.

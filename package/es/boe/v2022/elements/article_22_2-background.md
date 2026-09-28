@@ -1,0 +1,1 @@
+Procedures will be applied to guarantee the recovery and long-term conservation of electronic documents produced by the information systems included in the scope of application of this royal decree, when this is required.

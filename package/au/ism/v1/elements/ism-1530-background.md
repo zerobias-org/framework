@@ -1,0 +1,1 @@
+Servers, network devices and cryptographic equipment are secured in security containers or secure rooms suitable for their classification taking into account the combination of security zones they reside in.

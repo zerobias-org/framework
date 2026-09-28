@@ -1,0 +1,1 @@
+Describes how a consumer may exercise the consumer’s rights under sections 1 to 9 of this 2023 Act, including how a consumer may appeal a controller’s denial of a consumer’s request under section 4 of this 2023 Act;

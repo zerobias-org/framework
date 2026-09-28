@@ -1,0 +1,1 @@
+Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented. Documentation provides suﬃcient information to assist relevant AI Actors when making decisions and taking subsequent actions.

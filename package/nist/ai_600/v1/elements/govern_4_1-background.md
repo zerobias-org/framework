@@ -1,0 +1,1 @@
+Organizational policies and practices are in place to foster a critical thinking and safety-ﬁrst mindset in the design, development, deployment, and uses of AI systems to minimize potential negative impacts.

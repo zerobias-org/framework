@@ -1,0 +1,1 @@
+Use any personal information collected from the consumer in connection with the business’ verification of the consumer’s request solely for the purposes of verification and shall not further disclose the personal information, retain it longer than necessary for purposes of verification, or use it for unrelated purposes.

@@ -1,0 +1,1 @@
+Use digital content transparency solutions to enable the documentation of each instance where content is generated, modiﬁed, or shared to provide a tamper- proof history of the content, promote transparency, and enable traceability.Robust version control systems can also be applied to track changes across the AIlifecycle over time.

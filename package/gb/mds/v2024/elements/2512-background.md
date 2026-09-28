@@ -1,0 +1,1 @@
+The Supplier shall require multi-factor authentication to establish non local maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.

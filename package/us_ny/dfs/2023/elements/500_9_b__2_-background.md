@@ -1,0 +1,1 @@
+criteria for the assessment of the confidentiality, integrity, security and availability of the covered entity’s information systems and nonpublic information, including the adequacy of existing controls in the context of identified risks; and

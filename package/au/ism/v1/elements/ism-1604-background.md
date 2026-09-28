@@ -1,0 +1,1 @@
+When using a software-based isolation mechanism to share a physical server’s hardware, the configuration of the isolation mechanism is hardened by removing unneeded functionality and restricting access to the administrative interface used to manage the isolation mechanism.

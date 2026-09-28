@@ -1,7 +1,5 @@
 id: 994d4b1f-595f-48db-b0a7-6c4e53faa2c1
 externalId: "2512"
 name: MFA for Remote Maintenance Activities
-description: The Supplier shall require multi-factor authentication to establish
-  non local maintenance sessions via external network connections and terminate
-  such connections when nonlocal maintenance is complete.
+description: Requires the Supplier to enforce multi-factor authentication for non-local maintenance sessions over external connections and terminate them once maintenance is complete.
 elementType: control

@@ -1,0 +1,10 @@
+When CJI is at rest (i.e., stored digitally) outside the boundary of the physically secure location, the data shall be protected via encryption. When encryption is employed, agencies shall either encrypt CJI in accordance with the standard in Section 5.10.1.2.1 above, or use a symmetric cipher that is FIPS 197 certified (AES) and at least 256 bit strength.
+
+- 1\. When agencies implement encryption on CJI at rest, the passphrase used to unlock the cipher shall meet the following requirements:
+    - a. Be at least 10 characters
+    - b. Not be a dictionary word.
+    - c. Include at least one (1) upper case letter, one (1) lower case letter, one (1) number, and one (1) special character.
+    - d. Be changed when previously authorized personnel no longer require access.
+- 2\. Multiple files maintained in the same unencrypted folder shall have separate and distinct passphrases. A single passphrase may be used to encrypt an entire folder or disk containing multiple files. All audit requirements found in Section 5.4.1 Auditable Events and Content (Information Systems) shall be applied.
+
+NOTE: Commonly available encryption tools often use a key to unlock the cipher to allow data access; this key is called a passphrase. While similar to a password, a passphrase is not used for user authentication. Additionally, the passphrase contains stringent character requirements making it more secure and thus providing a higher level of confidence that the passphrase will not be compromised.

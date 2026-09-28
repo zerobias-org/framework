@@ -1,0 +1,1 @@
+representations and warranties addressing the third-party service provider’s cybersecurity policies and procedures that relate to the security of the covered entity’s information systems or nonpublic information.

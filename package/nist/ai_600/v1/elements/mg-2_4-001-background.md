@@ -1,0 +1,1 @@
+Establish and maintain communication plans to inform AI stakeholders as part of the deactivation or disengagement process of a speciﬁc GAI system (including for open-source models) or context of use, including reasons, workarounds, user access removal, alternative processes, contact information, etc.

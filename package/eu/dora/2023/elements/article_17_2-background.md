@@ -1,0 +1,1 @@
+Financial entities shall record all ICT-related incidents and significant cyber threats. Financial entities shall establish appropriate procedures and processes to ensure a consistent and integrated monitoring, handling and follow-up of ICT- related incidents, to ensure that root causes are identified, documented and addressed in order to prevent the occurrence of such incidents.

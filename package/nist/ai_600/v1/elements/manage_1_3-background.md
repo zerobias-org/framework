@@ -1,0 +1,1 @@
+Responses to the AI risks deemed high priority, as identiﬁed by the MAP function, are developed, planned, and documented. Risk response options can include mitigating, transferring, avoiding, or accepting.

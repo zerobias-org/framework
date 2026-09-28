@@ -1,0 +1,1 @@
+At the business’ discretion, utilize a single, clearly labeled link on the business’ internet homepages, in lieu of complying with paragraphs (1) and (2), if that link easily allows a consumer to opt out of the sale or sharing of the consumer’s personal information and to limit the use or disclosure of the consumer’s sensitive personal information.

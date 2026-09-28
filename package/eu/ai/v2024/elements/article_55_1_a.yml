@@ -8,7 +8,5 @@ aliases:
   - 55_1_a
   - 55-1-a
 name: Article 55.1(a)
-description: perform model evaluation in accordance with standardised protocols and
-  tools reflecting the state of the art, including conducting and documenting adversarial
-  testing of the model with a view to identifying and mitigating systemic risks;
+description: Requires providers of general-purpose AI models with systemic risk to perform state-of-the-art model evaluation, including documented adversarial testing, to identify and mitigate systemic risks.
 elementType: control

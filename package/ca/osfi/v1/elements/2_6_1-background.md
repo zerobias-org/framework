@@ -1,0 +1,1 @@
+The patch management process should define clear roles and responsibilities for all stakeholders involved. Patching should follow the FRFI’s existing change management processes, including emergency change processes. Patches should be tested before deployment to the production environment.

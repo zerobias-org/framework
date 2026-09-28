@@ -1,0 +1,1 @@
+The security of the system must contemplate actions related to aspects of prevention, detection and response, in order to minimize its vulnerabilities and ensure that threats to it do not materialize or, if they do, do not seriously affect the system. to the information it handles or the services it provides.

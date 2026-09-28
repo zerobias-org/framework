@@ -1,0 +1,3 @@
+Each public administration will have a security policy formally approved by the competent body. Likewise, each body or entity with its own legal personality included in the subjective scope of article 2 must have a security policy formally approved by the competent body.
+
+However, all or part of the subjects of an institutional public sector may be included in the subjective scope of the security policy approved by the Administration with which they have a relationship, dependence or affiliation, when so determined by the bodies. competent in the exercise of organizational powers.

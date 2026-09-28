@@ -1,0 +1,1 @@
+Principle 3: FRFIs should establish a technology and cyber risk management framework (RMF). The framework should set out a risk appetite for technology and cyber risks and define FRFI’s processes and requirements to identify, assess, manage, monitor and report on technology and cyber risks.

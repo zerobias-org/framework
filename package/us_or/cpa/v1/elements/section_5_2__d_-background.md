@@ -1,0 +1,1 @@
+Discriminate against a consumer that exercises a right provided to the consumer under sections 1 to 9 of this 2023 Act by means such as denying goods or services, charging different prices or rates for goods or services or providing a different level of quality or selection of goods or services to the consumer.

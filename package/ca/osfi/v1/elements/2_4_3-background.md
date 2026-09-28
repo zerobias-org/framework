@@ -1,0 +1,1 @@
+By integrating application security controls and requirements into software development and technology operations, new software and services can be delivered rapidly without compromising application security. When these practices are employed, FRFIs should ensure they are aligned with the SDLC framework and applicable technology and cyber policies and standards.

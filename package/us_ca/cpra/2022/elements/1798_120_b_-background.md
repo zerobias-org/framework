@@ -1,0 +1,1 @@
+A business that sells consumers’ personal information to, or shares it with, third parties shall provide notice to consumers, pursuant to subdivision (a) of Section 1798.135, that this information may be sold or shared and that consumers have the “right to opt-out” of the sale or sharing of their personal information.

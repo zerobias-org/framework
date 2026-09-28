@@ -1,0 +1,1 @@
+on receipt of an intimation of personal data breach under sub-section (6) of section 8, to direct any urgent remedial or mitigation measures in the event of a personal data breach, and to inquire into such personal data breach and impose penalty as provided in this Act;

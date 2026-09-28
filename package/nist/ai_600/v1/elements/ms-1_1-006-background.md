@@ -1,0 +1,1 @@
+Implement continuous monitoring of GAI system impacts to identify whether GAI outputs are equitable across various sub-populations. Seek active and direct feedback from aﬀected communities via structured feedback mechanisms or red- teaming to monitor and improve outputs.

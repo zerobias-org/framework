@@ -1,0 +1,1 @@
+In these cases, the person responsible or in charge of the treatment, advised by the data protection delegate, will carry out a risk analysis in accordance with article 24 of the General Data Protection Regulation and, in the cases of its article 35, a data protection impact assessment.

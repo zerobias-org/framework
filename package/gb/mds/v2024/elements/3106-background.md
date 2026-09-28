@@ -1,0 +1,1 @@
+The Supplier shall ensure that monitoring staff skills, tools and roles, including any that are outsourced, reflect governance and reporting requirements, expected threats and the complexities of the network or system data they need to use. Monitoring staff have contextual knowledge of the Functions and requirements for the protection of Data.

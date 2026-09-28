@@ -1,0 +1,1 @@
+Allow a consumer or authorized agent to send a signal to the controller that indicates the consumer’s preference to opt out of the sale of personal data or targeted advertising under section 3 (1)(d) of this 2023 Act by means of a platform, technology or mechanism that:

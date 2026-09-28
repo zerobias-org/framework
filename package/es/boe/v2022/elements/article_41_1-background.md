@@ -1,0 +1,1 @@
+The power to carry out the assessments referred to in article 40, as well as, where appropriate, its subsequent modification, will correspond to the person responsible or responsible for the information or services affected.

@@ -1,0 +1,4 @@
+- a. Designate individuals authorized to make information publicly accessible;
+- b. Train authorized individuals to ensure that publicly accessible information does not contain nonpublic information;
+- c. Review the proposed content of information prior to posting onto the publicly accessible system to ensure that nonpublic information is not included; and
+- d. Review the content on the publicly accessible system for nonpublic information quarterly and remove such information, if discovered.

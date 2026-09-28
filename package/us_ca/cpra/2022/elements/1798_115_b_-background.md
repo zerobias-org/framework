@@ -1,0 +1,1 @@
+A business that sells or shares personal information about a consumer, or that discloses a consumer’s personal information for a business purpose, shall disclose, pursuant to paragraph (4) of subdivision (a) of Section 1798.130, the information specified in subdivision (a) to the consumer upon receipt of a verifiable consumer request from the consumer.

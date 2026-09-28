@@ -1,0 +1,2 @@
+- a. Establish configuration requirements, connection requirements, and implementation guidance for organization-controlled mobile devices, to include when such devices are outside of controlled areas; and
+- b. Authorize the connection of mobile devices to organizational systems.

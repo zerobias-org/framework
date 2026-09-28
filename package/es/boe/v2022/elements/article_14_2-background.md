@@ -1,0 +1,1 @@
+This management will be carried out through the analysis and treatment of the risks to which the system is exposed. Without prejudice to the provisions of Annex II, some internationally recognized methodology will be used.

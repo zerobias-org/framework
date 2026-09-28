@@ -1,0 +1,12 @@
+- (a) Memorized Secret Authenticators and Verifiers:
+    - 1\. Maintain a list of commonly-used, expected, or compromised passwords and update the list quarterly and when organizational passwords are suspected to have been compromised directly or indirectly;
+    - 2\. Require immediate selection of a new password upon account recovery;3
+    - 3\. Allow user selection of long passwords and passphrases, including spaces and all printable characters;3
+    - 4\. Employ automated tools to assist the user in selecting strong password authenticators;3
+    - 5\. Enforce the following composition and complexity rules when agencies elect to follow basic password standards:
+- (a) Not be a proper name.
+- (b) Not be the same as the Userid.
+- (c) Expire within a maximum of 90 calendar days.
+- (d) Not be identical to the previous ten (10) passwords.
+- (e) Not be displayed when entered.
+    - 6\. If chosen by the subscriber, memorized secrets SHALL be at least 8 characters in length.

@@ -1,0 +1,8 @@
+- a. Identify, report, and correct system flaws;
+- b. Test software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation; 2
+- c. Install security-relevant software and firmware updates within the number of days listed after the release of the updates;5
+    - Critical – 15 days
+    - High – 30 days
+    - Medium – 60 days
+    - Low – 90 days; and
+- d. Incorporate flaw remediation into the organizational configuration management process.

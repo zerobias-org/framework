@@ -1,0 +1,1 @@
+An organisation’s systems, applications and data are not accessed or administered by a service provider unless a contractual arrangement exists between the organisation and the service provider to do so.
