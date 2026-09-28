@@ -5,8 +5,8 @@ externalId: 841-757
 elementType: cre
 links:
   demonstrates:
-    - NIST 800-63/5.1.4.2
-    - NIST 800-63/5.1.5.2
+    - nist.800_63b.2017.framework/5_1_4_2
+    - nist.800_63b.2017.framework/5_1_5_2
     - owasp.asvs.v4_0_3.framework/2.8.3
     - CWE-326
     - CAPEC-112

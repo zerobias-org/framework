@@ -112,15 +112,28 @@ parent: <Parent-CRE-ID>      # Optional parent relationship
 ```
 
 ### Framework Mappings
-The update script maps CRE links to these frameworks:
+The update script (`index.ts`, `standardFunctionMappings`) maps CRE links to these catalog packages:
 - **NIST 800-53 v5**: `nist.80053.rev5.framework/`
 - **OWASP ASVS**: `owasp.asvs.v4_0_3.framework/`
 - **Cloud Controls Matrix**: `csa.ccm.v4_0_12.framework/`
 - **OWASP SAMM**: `owasp.samm.v1_0.framework/`
-- **ISO 27001**: `iso.27001.2013.framework/`
+- **ISO 27001**: `iso.27001.2022a.framework/` — OpenCRE cites the 2022 Annex A numbering
 - **NIST SSDF**: `nist.800_218.v1_1.framework/`
-- **CWE**: Direct reference (e.g., `CWE-384`)
-- **CAPEC**: Direct reference (e.g., `CAPEC-196`)
+- **PCI DSS**: `pci_ssc.dss.v4_0_1.framework/` (incl. appendix `A1`–`A3`)
+- **OWASP Top 10 2021**: `owasp.top10.2021.framework/`
+- **OWASP Top10 for LLM**: `owasp.llmtop10.v2025.framework/`
+- **NIST 800-63**: `nist.800_63b.2017.framework/` — numbered sections only
+- **MITRE ATLAS**: bare id (e.g. `AML.T0051`) — `mitre.mitre.atlas.standard` is collected content whose elements alias the bare id
+- **WSTG**: `owasp.wstg.v5.benchmark/`
+- **CWE** / **CAPEC**: `CWE-384` / `CAPEC-196` — no catalog package; these do not resolve
+
+Everything else (and any section a mapping rejects as malformed) is emitted as `<standard name>/<section>`, which does not resolve either. The ResourceLinker matches aliases literally and drops misses silently, so verify a new mapping against the live catalog's element aliases, not against repo files.
+
+Regenerate from the committed cache (no fetch) to review a mapping change in isolation:
+
+```bash
+cd package/opencre/opencre/update && npx tsx index.ts --from-cache
+```
 
 ## Common Tasks
 

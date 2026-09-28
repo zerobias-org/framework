@@ -5,8 +5,8 @@ externalId: 686-110
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top10 for LLM/LLM01:2025
-    - MITRE ATLAS/AML.T0051.000
+    - owasp.llmtop10.v2025.framework/llm01
+    - AML.T0051.000
     - 'ENISA/Table 3:'
     - 'BIML/BIML-24(LLM): input:2'
     - OWASP AI Exchange/directpromptinjection

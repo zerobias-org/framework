@@ -10,7 +10,7 @@ links:
     - 'ENISA/Table 5:'
     - ENISA/Apply modifications on inputs
     - ENISA/Implement tools to detect if a data point is an adversarial example or not
-    - MITRE ATLAS/AML.M0010
-    - MITRE ATLAS/AML.M0009
+    - AML.M0010
+    - AML.M0009
     - OWASP AI Exchange/evasioninputhandling
 parent: 802-101

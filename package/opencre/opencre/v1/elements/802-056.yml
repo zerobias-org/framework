@@ -5,11 +5,11 @@ externalId: 802-056
 elementType: cre
 links:
   demonstrates:
-    - NIST 800-63/5.1.1.2
+    - nist.800_63b.2017.framework/5_1_1_2
     - owasp.wstg.v5.benchmark/wstg-athn-03
-    - NIST 800-63/5.2.2
-    - NIST 800-63/5.1.4.2
-    - NIST 800-63/5.1.5.2
+    - nist.800_63b.2017.framework/5_2_2
+    - nist.800_63b.2017.framework/5_1_4_2
+    - nist.800_63b.2017.framework/5_1_5_2
     - owasp.asvs.v4_0_3.framework/2.2.1
     - CWE-307
     - OWASP Cheat Sheets/Authentication Cheat Sheet
@@ -22,5 +22,5 @@ links:
     - CAPEC-600
     - CAPEC-652
     - CAPEC-653
-    - PCI DSS/8.3.4
+    - pci_ssc.dss.v4_0_1.framework/8_3_4
 parent: 270-568

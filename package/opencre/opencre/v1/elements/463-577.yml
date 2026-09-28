@@ -5,12 +5,12 @@ externalId: 463-577
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/5.25
-    - iso.27001.2013.framework/5.24
-    - iso.27001.2013.framework/5.27
-    - iso.27001.2013.framework/5.28
-    - iso.27001.2013.framework/6.8
-    - iso.27001.2013.framework/5.26
+    - iso.27001.2022a.framework/5_25
+    - iso.27001.2022a.framework/5_24
+    - iso.27001.2022a.framework/5_27
+    - iso.27001.2022a.framework/5_28
+    - iso.27001.2022a.framework/6_8
+    - iso.27001.2022a.framework/5_26
     - owasp.samm.v1_0.framework/o-im-b
     - csa.ccm.v4_0_12.framework/sef
     - nist.800_218.v1_1.framework/rv_1_3
@@ -26,6 +26,6 @@ links:
     - DevSecOps Maturity Model (DSOMM)/534f60bf-0995-4314-bb9c-f0f2bf204694
     - DevSecOps Maturity Model (DSOMM)/58c46807-fee9-448b-b6dd-8050c464ab52
     - DevSecOps Maturity Model (DSOMM)/c72da779-86cc-45b1-a339-190ce5093171
-    - PCI DSS/12.10.3
-    - PCI DSS/A1.2.2
+    - pci_ssc.dss.v4_0_1.framework/12_10_3
+    - pci_ssc.dss.v4_0_1.framework/a1_2_2
 parent: 887-750

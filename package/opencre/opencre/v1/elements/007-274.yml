@@ -6,7 +6,7 @@ elementType: cre
 links:
   demonstrates:
     - owasp.samm.v1_0.framework/o-em-b
-    - PCI DSS/6.3.3
-    - PCI DSS/6.5
-    - PCI DSS/6.5.1
+    - pci_ssc.dss.v4_0_1.framework/6_3_3
+    - pci_ssc.dss.v4_0_1.framework/6_5
+    - pci_ssc.dss.v4_0_1.framework/6_5_1
 parent: 148-227

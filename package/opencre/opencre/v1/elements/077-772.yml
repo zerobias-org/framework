@@ -5,8 +5,8 @@ externalId: 077-772
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top10 for LLM/LLM02:2025
-    - MITRE ATLAS/AML.T0036
+    - owasp.llmtop10.v2025.framework/llm02
+    - AML.T0036
     - ETSI/6.1
     - 'ENISA/Table 3:'
     - OWASP AI Exchange/devdataleak

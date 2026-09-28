@@ -5,7 +5,7 @@ externalId: 724-770
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top 10 2021/A01
+    - owasp.top10.2021.framework/a01
     - nist.80053.rev5.framework/ac-14
     - nist.80053.rev5.framework/ac-16
     - nist.80053.rev5.framework/ac-2
@@ -14,5 +14,5 @@ links:
     - nist.80053.rev5.framework/sc-2
     - nist.80053.rev5.framework/ac-19
     - nist.80053.rev5.framework/ac-25
-    - PCI DSS/A3.4
+    - pci_ssc.dss.v4_0_1.framework/a3_4
 parent: 636-660

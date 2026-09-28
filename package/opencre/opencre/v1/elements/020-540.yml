@@ -5,8 +5,8 @@ externalId: 020-540
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top10 for LLM/LLM04:2025
-    - MITRE ATLAS/AML.T0018.000
+    - owasp.llmtop10.v2025.framework/llm04
+    - AML.T0018.000
     - ETSI/5.1
     - 'ENISA/Table 3:'
     - OWASP Top10 for ML/ML10:2023

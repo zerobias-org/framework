@@ -5,7 +5,7 @@ externalId: 780-757
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top10 for LLM/LLM05:2025
-    - MITRE ATLAS/AML.T0051
+    - owasp.llmtop10.v2025.framework/llm05
+    - AML.T0051
     - OWASP AI Exchange/outputcontainsconventionalinjection
 parent: 738-144

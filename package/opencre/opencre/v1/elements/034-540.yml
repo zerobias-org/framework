@@ -5,9 +5,9 @@ externalId: 034-540
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top10 for LLM/LLM02:2025
-    - MITRE ATLAS/AML.T0024.001
-    - MITRE ATLAS/AML.T0024.000
+    - owasp.llmtop10.v2025.framework/llm02
+    - AML.T0024.001
+    - AML.T0024.000
     - ETSI/6.4.1
     - ETSI/6.4.2
     - ETSI/6.4.3

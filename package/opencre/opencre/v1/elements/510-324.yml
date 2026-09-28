@@ -5,11 +5,11 @@ externalId: 510-324
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/5.35
-    - iso.27001.2013.framework/5.36
-    - iso.27001.2013.framework/5.5
+    - iso.27001.2022a.framework/5_35
+    - iso.27001.2022a.framework/5_36
+    - iso.27001.2022a.framework/5_5
     - owasp.samm.v1_0.framework/g-pc-b
     - DevSecOps Maturity Model (DSOMM)/72737130-472c-4984-80f8-9ab2f1c2ed5d
-    - PCI DSS/12.4
-    - PCI DSS/A3.1
+    - pci_ssc.dss.v4_0_1.framework/12_4
+    - pci_ssc.dss.v4_0_1.framework/a3_1
 parent: 217-168

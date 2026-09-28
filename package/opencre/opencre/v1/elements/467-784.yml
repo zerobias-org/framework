@@ -5,13 +5,13 @@ externalId: 467-784
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/8.21
-    - iso.27001.2013.framework/8.23
+    - iso.27001.2022a.framework/8_21
+    - iso.27001.2022a.framework/8_23
     - nist.80053.rev5.framework/sc-22
     - nist.80053.rev5.framework/sc-7
-    - PCI DSS/1.2
-    - PCI DSS/1.3
-    - PCI DSS/1.3.3
-    - PCI DSS/1.4
-    - PCI DSS/1.4.1
+    - pci_ssc.dss.v4_0_1.framework/1_2
+    - pci_ssc.dss.v4_0_1.framework/1_3
+    - pci_ssc.dss.v4_0_1.framework/1_3_3
+    - pci_ssc.dss.v4_0_1.framework/1_4
+    - pci_ssc.dss.v4_0_1.framework/1_4_1
 parent: 850-376
