@@ -1,0 +1,1 @@
+When installing, updating, or removing an information system, information system component, or network component, the enterprise needs to update the inventory to ensure traceability for tracking critical components. In addition, the information system’s configuration needs to be updated to ensure an accurate inventory of supply chain protections and then re-baselined accordingly.

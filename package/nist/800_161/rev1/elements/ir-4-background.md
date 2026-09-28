@@ -1,0 +1,1 @@
+Suspected cybersecurity supply chain events that may trigger an organization’s C-SCRM incident handling processes. Refer to Appendix G: Task 3.4 for examples of supply chain events. C-SCRM-specific supplemental guidance is provided in control enhancements.

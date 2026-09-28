@@ -1,0 +1,1 @@
+If an enterprise needs to purchase components, they need to ensure that the product specifications are “fit for purpose” and meet the enterprise’s requirements, whether purchasing directly from the OEM, channel partners, or a secondary market.

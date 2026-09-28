@@ -1,0 +1,1 @@
+Certified Information Security Manager, issued by ISACA (Information Systems Audit and Control Association). Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 752 (Cyber Policy and Strategy Planner) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

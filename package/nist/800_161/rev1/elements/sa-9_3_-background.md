@@ -1,0 +1,14 @@
+Relationships with providers should meet the following supply chain security requirements:
+
+- a. The requirements definition is complete and reviewed for accuracy and completeness, including the assignment of criticality to various components and defining operational concepts and associated scenarios for intended and unintended use.
+- b. Requirements are based on needs, relevant compliance drivers, criticality analysis, and assessments of cybersecurity risks throughout the supply chain.
+- c. Cyber supply chain threats, vulnerabilities, and associated risks are identified and documented.
+- d. Enterprise data and information integrity, confidentiality, and availability requirements are defined and shared with the system suppliers, developers, system integrators, external system service providers, and other ICT/OT-related service providers as appropriate.
+- e. The consequences of non-compliance with C-SCRM requirements and information system security requirements are defined and documented.
+- f. There is a clear delineation of accountabilities, roles, and responsibilities between contractors when multiple disparate providers are engaged in supporting a system or mission and business function.
+- g. The requirements detail service contract completion and what defines the end of the suppliers, developers, system integrators, external system service providers, or other ICT/OT-related service providers’ relationship. This is important to know for re-compete, potential change in provider, and to manage system end-of-life processes.
+- h. Establish negotiated agreements for relationship termination to ensure a safe and secure termination, such as removing data from cloud environments.
+
+Departments and agencies should refer to Appendix F to implement this guidance in accordance with
+
+Executive Order 14028, Improving the Nation’s Cybersecurity.

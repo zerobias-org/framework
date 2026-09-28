@@ -1,0 +1,1 @@
+Certified Cloud Security Professional, issued by (ISC)2 (International Information System Security Certification Consortium, Inc). Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 752 (Cyber Policy and Strategy Planner) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

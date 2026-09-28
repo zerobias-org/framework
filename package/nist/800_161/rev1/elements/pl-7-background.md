@@ -1,0 +1,1 @@
+The concept of operations (CONOPS) should describe how the enterprise intends to operate the system from the perspective of C-SCRM. It should integrate C-SCRM and be managed and updated throughout the applicable system’s SDLC to address cybersecurity risks throughout the supply chain.

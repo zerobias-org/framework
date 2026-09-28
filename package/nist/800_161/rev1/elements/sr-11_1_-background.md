@@ -1,0 +1,1 @@
+The C-SCRM PMO can assist in identifying resources that can provide anti-counterfeit training and/or may be able to conduct such training for the enterprise. The CSCRM PMO can also assist in identifying which personnel should receive the training.

@@ -1,0 +1,1 @@
+Cisco Certified Network Professional, issued by CISCO Systems. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 451 (System Administrator) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

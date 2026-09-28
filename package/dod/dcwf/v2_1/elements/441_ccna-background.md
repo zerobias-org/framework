@@ -1,0 +1,1 @@
+CISCO Certified Network Associate, issued by Cisco Systems. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 441 (Network Operations Specialist) at the Advanced proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

@@ -1,0 +1,1 @@
+C-SCRM controls are managed centrally at Level 1 through the CSCRM Strategy and Implementation Plan and at Level 1 and Level 2 through the C-SCRM Policy. The C-SCRM PMO described in Section 2 centrally manages C-SCRM controls at Level 1 and Level. At Level 3, C-SCRM controls are managed on an information system basis though the SSP and/or CSCRM Plan.

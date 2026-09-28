@@ -1,0 +1,1 @@
+GIAC Continuous Monitoring, issued by GIAC (Global Information Assurance Certification). Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 722 (Information Systems Security Manager) at the Intermediate proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

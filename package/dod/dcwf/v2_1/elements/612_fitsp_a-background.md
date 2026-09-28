@@ -1,0 +1,1 @@
+Federal IT Security Professional - Auditor - NG, issued by FITSI (Federal IT Security Institute). Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 612 (Security Control Assessor) at the Intermediate proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

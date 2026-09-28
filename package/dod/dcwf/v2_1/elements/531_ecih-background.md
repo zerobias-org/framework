@@ -1,0 +1,1 @@
+Certified Incident Handler, issued by EC-Council - International Council of E-Commerce Consultants. Accepted DoD 8140 foundational qualification option (personnel certification) for DCWF Work Role 531 (Cyber Defense Incident Responder) at the Intermediate proficiency level, per the DoD 8140 Foundational Qualification Matrix V2.1 (effective 2025-09-19).

@@ -1,0 +1,1 @@
+In a C-SCRM context, this control includes the enterprise’s use of system integrator or external service provider infrastructure. Enterprises should add language to contracts on coordinating audit information requirements and information exchange agreements with vendors.

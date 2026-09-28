@@ -1,0 +1,1 @@
+Provide literacy training on cyber threats specific to the enterprise’s supply chain environment. Enterprises should require their prime contractors to implement this control and flow down this requirement to relevant sub-level contractors
