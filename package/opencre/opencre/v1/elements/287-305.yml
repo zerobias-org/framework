@@ -9,11 +9,11 @@ links:
     - OWASP Cheat Sheets/Key Management Cheat Sheet
     - owasp.asvs.v4_0_3.framework/1.6.1
     - CWE-320
-    - PCI DSS/3.5.1.3
-    - PCI DSS/3.7
-    - PCI DSS/3.7.4
-    - PCI DSS/3.7.6
-    - PCI DSS/3.7.7
-    - PCI DSS/3.7.8
-    - PCI DSS/3.7.9
+    - pci_ssc.dss.v4_0_1.framework/3_5_1_3
+    - pci_ssc.dss.v4_0_1.framework/3_7
+    - pci_ssc.dss.v4_0_1.framework/3_7_4
+    - pci_ssc.dss.v4_0_1.framework/3_7_6
+    - pci_ssc.dss.v4_0_1.framework/3_7_7
+    - pci_ssc.dss.v4_0_1.framework/3_7_8
+    - pci_ssc.dss.v4_0_1.framework/3_7_9
 parent: 820-877

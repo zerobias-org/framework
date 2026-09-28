@@ -6,25 +6,25 @@ elementType: cre
 links:
   demonstrates:
     - OWASP Cheat Sheets/Abuse Case Cheat Sheet
-    - iso.27001.2013.framework/5.13
+    - iso.27001.2022a.framework/5_13
     - owasp.asvs.v4_0_3.framework/1.8.2
     - OWASP Cheat Sheets/User Privacy Protection Cheat Sheet
-    - PCI DSS/12.5.2.1
-    - PCI DSS/12.8.2
-    - PCI DSS/12.9.1
-    - PCI DSS/12.9.2
-    - PCI DSS/3.1
-    - PCI DSS/3.5.1.1
-    - PCI DSS/3.5.1.2
-    - PCI DSS/4.1
-    - PCI DSS/5.3.2.1
-    - PCI DSS/9.3.1
-    - PCI DSS/9.4.6
-    - PCI DSS/9.4.7
-    - PCI DSS/9.5.1
-    - PCI DSS/9.5.1.2.1
-    - PCI DSS/A2.1.2
-    - PCI DSS/A3.2.5
-    - PCI DSS/A3.2.5.1
-    - PCI DSS/A3.2.5.2
+    - pci_ssc.dss.v4_0_1.framework/12_5_2_1
+    - pci_ssc.dss.v4_0_1.framework/12_8_2
+    - pci_ssc.dss.v4_0_1.framework/12_9_1
+    - pci_ssc.dss.v4_0_1.framework/12_9_2
+    - pci_ssc.dss.v4_0_1.framework/3_1
+    - pci_ssc.dss.v4_0_1.framework/3_5_1_1
+    - pci_ssc.dss.v4_0_1.framework/3_5_1_2
+    - pci_ssc.dss.v4_0_1.framework/4_1
+    - pci_ssc.dss.v4_0_1.framework/5_3_2_1
+    - pci_ssc.dss.v4_0_1.framework/9_3_1
+    - pci_ssc.dss.v4_0_1.framework/9_4_6
+    - pci_ssc.dss.v4_0_1.framework/9_4_7
+    - pci_ssc.dss.v4_0_1.framework/9_5_1
+    - pci_ssc.dss.v4_0_1.framework/9_5_1_2_1
+    - pci_ssc.dss.v4_0_1.framework/a2_1_2
+    - pci_ssc.dss.v4_0_1.framework/a3_2_5
+    - pci_ssc.dss.v4_0_1.framework/a3_2_5_1
+    - pci_ssc.dss.v4_0_1.framework/a3_2_5_2
 parent: 074-873

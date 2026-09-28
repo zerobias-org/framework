@@ -6,6 +6,6 @@ elementType: cre
 links:
   demonstrates:
     - nist.800_218.v1_1.framework/pw_8_2
-    - PCI DSS/11.1
-    - PCI DSS/11.2.1
+    - pci_ssc.dss.v4_0_1.framework/11_1
+    - pci_ssc.dss.v4_0_1.framework/11_2_1
 parent: 207-435

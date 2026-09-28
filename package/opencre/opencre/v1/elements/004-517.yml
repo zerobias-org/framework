@@ -5,8 +5,8 @@ externalId: 004-517
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/8.26
-    - iso.27001.2013.framework/5.14
+    - iso.27001.2022a.framework/8_26
+    - iso.27001.2022a.framework/5_14
     - owasp.samm.v1_0.framework/d-sr-a
     - owasp.samm.v1_0.framework/g-pc-a
     - csa.ccm.v4_0_12.framework/ais-02
@@ -19,33 +19,33 @@ links:
     - DevSecOps Maturity Model (DSOMM)/03643ca2-03c2-472b-8e19-956bf02fe9b7
     - DevSecOps Maturity Model (DSOMM)/ffe86caf-2fec-4630-b514-2db83983984d
     - DevSecOps Maturity Model (DSOMM)/4cae98c2-4163-44ed-bb88-3c67c569533a
-    - PCI DSS/10.4.1.1
-    - PCI DSS/10.7.1
-    - PCI DSS/10.7.2
-    - PCI DSS/10.7.3
-    - PCI DSS/1.1.1
-    - PCI DSS/11.6
-    - PCI DSS/12.3.2
-    - PCI DSS/1.2.5
-    - PCI DSS/12.5
-    - PCI DSS/1.2.6
-    - PCI DSS/2.2
-    - PCI DSS/3.4
-    - PCI DSS/3.4.1
-    - PCI DSS/3.5
-    - PCI DSS/4.1.1
-    - PCI DSS/6.5.5
-    - PCI DSS/8.2.1
-    - PCI DSS/9.3.2
-    - PCI DSS/9.3.3
-    - PCI DSS/9.4.1
-    - PCI DSS/9.5.1.1
-    - PCI DSS/A1.2.3
-    - PCI DSS/A2.1
-    - PCI DSS/A2.1.1
-    - PCI DSS/A2.1.3
-    - PCI DSS/A3.2
-    - PCI DSS/A3.3.1
-    - PCI DSS/A3.3.1.2
-    - PCI DSS/A3.5
+    - pci_ssc.dss.v4_0_1.framework/10_4_1_1
+    - pci_ssc.dss.v4_0_1.framework/10_7_1
+    - pci_ssc.dss.v4_0_1.framework/10_7_2
+    - pci_ssc.dss.v4_0_1.framework/10_7_3
+    - pci_ssc.dss.v4_0_1.framework/1_1_1
+    - pci_ssc.dss.v4_0_1.framework/11_6
+    - pci_ssc.dss.v4_0_1.framework/12_3_2
+    - pci_ssc.dss.v4_0_1.framework/1_2_5
+    - pci_ssc.dss.v4_0_1.framework/12_5
+    - pci_ssc.dss.v4_0_1.framework/1_2_6
+    - pci_ssc.dss.v4_0_1.framework/2_2
+    - pci_ssc.dss.v4_0_1.framework/3_4
+    - pci_ssc.dss.v4_0_1.framework/3_4_1
+    - pci_ssc.dss.v4_0_1.framework/3_5
+    - pci_ssc.dss.v4_0_1.framework/4_1_1
+    - pci_ssc.dss.v4_0_1.framework/6_5_5
+    - pci_ssc.dss.v4_0_1.framework/8_2_1
+    - pci_ssc.dss.v4_0_1.framework/9_3_2
+    - pci_ssc.dss.v4_0_1.framework/9_3_3
+    - pci_ssc.dss.v4_0_1.framework/9_4_1
+    - pci_ssc.dss.v4_0_1.framework/9_5_1_1
+    - pci_ssc.dss.v4_0_1.framework/a1_2_3
+    - pci_ssc.dss.v4_0_1.framework/a2_1
+    - pci_ssc.dss.v4_0_1.framework/a2_1_1
+    - pci_ssc.dss.v4_0_1.framework/a2_1_3
+    - pci_ssc.dss.v4_0_1.framework/a3_2
+    - pci_ssc.dss.v4_0_1.framework/a3_3_1
+    - pci_ssc.dss.v4_0_1.framework/a3_3_1_2
+    - pci_ssc.dss.v4_0_1.framework/a3_5
 parent: 766-162

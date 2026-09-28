@@ -5,8 +5,8 @@ externalId: 701-654
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top10 for LLM/LLM03:2025
-    - MITRE ATLAS/AML.T0010.003
+    - owasp.llmtop10.v2025.framework/llm03
+    - AML.T0010.003
     - 'ENISA/Table 3:'
     - OWASP Top10 for ML/ML06:2023
     - 'BIML/BIML-78(2020): data:2'

@@ -5,8 +5,8 @@ externalId: 433-442
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/8.29
-    - iso.27001.2013.framework/8.33
+    - iso.27001.2022a.framework/8_29
+    - iso.27001.2022a.framework/8_33
     - owasp.samm.v1_0.framework/v-st-a
     - owasp.samm.v1_0.framework/v-st-b
     - owasp.samm.v1_0.framework/v-rt-a
@@ -71,6 +71,6 @@ links:
     - DevSecOps Maturity Model (DSOMM)/ab0a4b51-3b18-43f1-a6fc-a98e4b28453d
     - DevSecOps Maturity Model (DSOMM)/2ebfc421-8c76-415c-a3b0-fa518915bd10
     - DevSecOps Maturity Model (DSOMM)/598897a2-358e-441f-984c-e12ec4f6110a
-    - PCI DSS/3.3.1.2
-    - PCI DSS/9.4.5.1
+    - pci_ssc.dss.v4_0_1.framework/3_3_1_2
+    - pci_ssc.dss.v4_0_1.framework/9_4_5_1
 parent: 616-305

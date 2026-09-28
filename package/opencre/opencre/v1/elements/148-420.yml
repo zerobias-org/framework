@@ -5,11 +5,11 @@ externalId: 148-420
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top 10 2021/A09
+    - owasp.top10.2021.framework/a09
     - nist.80053.rev5.framework/au-10
     - nist.80053.rev5.framework/au-8
     - nist.80053.rev5.framework/au-9
-    - PCI DSS/10.3.4
-    - PCI DSS/10.5
-    - PCI DSS/9.4.5
+    - pci_ssc.dss.v4_0_1.framework/10_3_4
+    - pci_ssc.dss.v4_0_1.framework/10_5
+    - pci_ssc.dss.v4_0_1.framework/9_4_5
 parent: 842-876

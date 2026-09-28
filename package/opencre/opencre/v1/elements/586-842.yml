@@ -5,7 +5,7 @@ externalId: 586-842
 elementType: cre
 links:
   demonstrates:
-    - OWASP Top 10 2021/A07
-    - PCI DSS/8.2
-    - PCI DSS/8.2.4
+    - owasp.top10.2021.framework/a07
+    - pci_ssc.dss.v4_0_1.framework/8_2
+    - pci_ssc.dss.v4_0_1.framework/8_2_4
 parent: 636-660

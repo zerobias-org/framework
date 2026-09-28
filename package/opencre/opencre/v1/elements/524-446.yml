@@ -5,7 +5,7 @@ externalId: 524-446
 elementType: cre
 links:
   demonstrates:
-    - NIST 800-63/5.2.8
+    - nist.800_63b.2017.framework/5_2_8
     - owasp.asvs.v4_0_3.framework/2.2.6
     - CWE-308
     - OWASP Cheat Sheets/Authentication Cheat Sheet
@@ -25,9 +25,9 @@ links:
     - CAPEC-652
     - CAPEC-653
     - CAPEC-70
-    - PCI DSS/8.3.1
-    - PCI DSS/8.3.11
-    - PCI DSS/8.4
-    - PCI DSS/8.5
-    - PCI DSS/8.6
+    - pci_ssc.dss.v4_0_1.framework/8_3_1
+    - pci_ssc.dss.v4_0_1.framework/8_3_11
+    - pci_ssc.dss.v4_0_1.framework/8_4
+    - pci_ssc.dss.v4_0_1.framework/8_5
+    - pci_ssc.dss.v4_0_1.framework/8_6
 parent: 062-850

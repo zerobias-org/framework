@@ -5,7 +5,7 @@ externalId: 440-361
 elementType: cre
 links:
   demonstrates:
-    - NIST 800-63/5.2.1
+    - nist.800_63b.2017.framework/5_2_1
     - owasp.asvs.v4_0_3.framework/2.8.6
     - CWE-613
 parent: 062-850

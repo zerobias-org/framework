@@ -5,11 +5,11 @@ externalId: 872-574
 elementType: cre
 links:
   demonstrates:
-    - iso.27001.2013.framework/8.7
-    - PCI DSS/5.1
-    - PCI DSS/5.2
-    - PCI DSS/5.2.1
-    - PCI DSS/5.2.2
-    - PCI DSS/5.3.2
-    - PCI DSS/5.3.3
+    - iso.27001.2022a.framework/8_7
+    - pci_ssc.dss.v4_0_1.framework/5_1
+    - pci_ssc.dss.v4_0_1.framework/5_2
+    - pci_ssc.dss.v4_0_1.framework/5_2_1
+    - pci_ssc.dss.v4_0_1.framework/5_2_2
+    - pci_ssc.dss.v4_0_1.framework/5_3_2
+    - pci_ssc.dss.v4_0_1.framework/5_3_3
 parent: 148-227

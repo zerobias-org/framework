@@ -8,6 +8,6 @@ links:
     - OWASP Proactive Controls/C9
     - CWE-778
     - owasp.asvs.v4_0_3.framework/7.1.4
-    - PCI DSS/10.2.2
-    - PCI DSS/10.5.1
+    - pci_ssc.dss.v4_0_1.framework/10_2_2
+    - pci_ssc.dss.v4_0_1.framework/10_5_1
 parent: 402-706

@@ -39,13 +39,33 @@ const CONFIG: UpdateConfig = {
   elementsPath: path.join(process.cwd(), '../v1/elements')
 };
 
-const standardFunctionMappings: Record<string, (x: string) => string> = {
+// A mapping returns `null` for a section it cannot place (malformed or free-text upstream data);
+// the link then falls through to the unmapped `<standard>/<section>` form rather than emitting a
+// package alias that names an element which cannot exist.
+//
+// Aliases are resolved literally by the ResourceLinker, which drops a miss silently. Newer
+// mappings therefore emit the target element's file code exactly (e.g. `10.2.1` -> `10_2_1`)
+// instead of relying on the dataloader's separator respelling.
+const dotted = (x: string) => x.replace(/\./g, '_');
+
+const standardFunctionMappings: Record<string, (x: string) => string | null> = {
   "NIST 800-53 v5": (x) => `nist.80053.rev5.framework/${x.split(' ')[0].toLowerCase().replace(' ', '').replace('(', '_').replace(')', '')}`,
   "Cloud Controls Matrix": (x) => `csa.ccm.v4_0_12.framework/${x.toLowerCase().replace(/\&/g, '_')}`,
   "ASVS": (x) => `owasp.asvs.v4_0_3.framework/${x.toLowerCase().slice(1)}`,
   "SAMM": (x) => `owasp.samm.v1_0.framework/${x.toLowerCase()}`,
-  "ISO 27001": (x) => `iso.27001.2013.framework/${x.toLowerCase()}`,
-  "NIST SSDF": (x) => `nist.800_218.v1_1.framework/${x.toLowerCase().replace(/\./g, '_')}`,
+  // OpenCRE cites the ISO/IEC 27001:2022 Annex A numbering (5.1-8.34), not 2013's A.x.y.z.
+  "ISO 27001": (x) => /^\d+\.\d+$/.test(x) ? `iso.27001.2022a.framework/${dotted(x)}` : null,
+  // Two upstream entries carry sentence fragments instead of a PO/PS/PW/RV id.
+  "NIST SSDF": (x) => /^[A-Z]{2}\.\d+\.\d+$/.test(x) ? `nist.800_218.v1_1.framework/${dotted(x.toLowerCase())}` : null,
+  // Appendix requirements (A1-A3) are cited as `A3.2.1`; the package files them as `a3_2_1`.
+  "PCI DSS": (x) => /^A?\d+(\.\d+)*$/.test(x) ? `pci_ssc.dss.v4_0_1.framework/${dotted(x.toLowerCase())}` : null,
+  "OWASP Top 10 2021": (x) => /^A\d{2}$/.test(x) ? `owasp.top10.2021.framework/${x.toLowerCase()}` : null,
+  "OWASP Top10 for LLM": (x) => /^LLM\d{2}:2025$/.test(x) ? `owasp.llmtop10.v2025.framework/${x.split(':')[0].toLowerCase()}` : null,
+  // `mitre.mitre.atlas.standard` is collected, not package-loaded: its elements carry the bare
+  // ATLAS id (`AML.T0051`) as their alias, with no package prefix.
+  "MITRE ATLAS": (x) => /^AML\.[TM]\d{4}(\.\d{3})?$/.test(x) ? x : null,
+  // 800-63 is cited by `section`; only the numbered 800-63B sections map (not appendices or prose).
+  "NIST 800-63": (x) => /^\d+(\.\d+)+$/.test(x) ? `nist.800_63b.2017.framework/${dotted(x)}` : null,
   "CWE": (x) => `CWE-${x}`,
   "CAPEC": (x) => `CAPEC-${x}`,
   "OWASP Web Security Testing Guide (WSTG)": (x) => `owasp.wstg.v5.benchmark/${x.toLowerCase()}`
@@ -222,6 +242,10 @@ class OpenCREUpdater {
     if (mapping) {
       try {
         const mappedName = mapping(document.sectionID || document.section || document.name);
+        if (mappedName === null) {
+          this.unmapped.add(document.name);
+          return `${document.name}/${document.sectionID || document.section}`;
+        }
         const [packageName, element] = mappedName.split('/');
         
         if (element === undefined) {
@@ -464,13 +488,16 @@ class OpenCREUpdater {
     return mappings;
   }
 
-  async run(forceUpdate: boolean = false): Promise<{ elements: any[], mappings: Record<string, any> }> {
+  async run(forceUpdate: boolean = false, fromCache: boolean = false): Promise<{ elements: any[], mappings: Record<string, any> }> {
     try {
-      // Fetch fresh data
-      const newData = await this.fetchLatestData();
-      
+      // --from-cache regenerates from the committed cache, so a mapping change can be reviewed
+      // without also pulling in whatever changed upstream since the last fetch.
+      const newData: OpenCREData = fromCache
+        ? JSON.parse(fs.readFileSync(this.config.localDataPath, 'utf8'))
+        : await this.fetchLatestData();
+
       // Check for changes unless forced update
-      if (!forceUpdate) {
+      if (!forceUpdate && !fromCache) {
         const hasChanges = this.hasDataChanged(newData);
         if (!hasChanges) {
           logger.info('No changes detected, skipping update. Use --force to override.');
@@ -508,11 +535,12 @@ class OpenCREUpdater {
 // CLI interface
 async function main() {
   const forceUpdate = process.argv.includes('--force');
+  const fromCache = process.argv.includes('--from-cache');
   const updater = new OpenCREUpdater(CONFIG);
-  
+
   try {
     logger.info('Starting OpenCRE framework update...');
-    const result = await updater.run(forceUpdate);
+    const result = await updater.run(forceUpdate, fromCache);
     logger.info(`Update completed successfully. Processed ${result.elements.length} elements.`);
   } catch (error) {
     logger.error('Update failed:', error as Error);

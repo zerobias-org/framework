@@ -15,8 +15,8 @@ links:
     - CWE-1111
     - CWE-1112
     - CWE-1118
-    - PCI DSS/1.2.3
-    - PCI DSS/1.2.4
-    - PCI DSS/12.5.2
-    - PCI DSS/A3.2.1
+    - pci_ssc.dss.v4_0_1.framework/1_2_3
+    - pci_ssc.dss.v4_0_1.framework/1_2_4
+    - pci_ssc.dss.v4_0_1.framework/12_5_2
+    - pci_ssc.dss.v4_0_1.framework/a3_2_1
 parent: 820-877
