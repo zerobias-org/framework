@@ -1,0 +1,1 @@
+Mechanisms exist to provide the capability to associate cybersecurity and data protection attributes with individuals and objects by authorized individuals (or processes acting on behalf of individuals).

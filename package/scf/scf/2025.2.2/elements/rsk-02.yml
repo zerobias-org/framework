@@ -1,6 +1,6 @@
 id: 42dbb42e-e748-4969-80bf-869b3849057a
 name: Risk-Based Security Categorization
-description: "Mechanisms exist to categorize systems and data in accordance with applicable laws, regulations and contractual obligations that:\r\n(1) Document the security categorization results (including supporting rationale) in the security plan for systems; and\r\n(2) Ensure the security categorization decision is reviewed and approved by the asset owner."
+description: Requires categorizing systems and data per applicable laws, documenting results, and having the asset owner review and approve the categorization.
 elementType: control
 externalId: RSK-02
 parent: rsk

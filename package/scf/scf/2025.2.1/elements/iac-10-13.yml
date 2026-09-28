@@ -1,6 +1,6 @@
 id: 92ab5e00-2044-4c39-aa0c-c01c9682ff48
 name: Events Requiring Authenticator Change
-description: "Mechanisms exist to change authentication credentials:\r\n(1) At predefined intervals; and/or\r\n(2) Upon suspicion of credential compromise."
+description: 'Mechanisms exist to change authentication credentials: (1) At predefined intervals; and/or (2) Upon suspicion of credential compromise.'
 elementType: enhancement
 externalId: IAC-10.13
 parent: iac-10

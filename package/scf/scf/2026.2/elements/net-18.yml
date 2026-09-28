@@ -1,6 +1,6 @@
 id: 0f0ea6b2-31ba-43f5-a0c3-da35a614edfc
 name: DNS & Content Filtering
-description: Mechanisms exist to force Internet-bound network traffic through a proxy device (e.g., Policy Enforcement Point (PEP)) for URL content filtering and DNS filtering to limit a user's ability to connect to dangerous or prohibited Internet sites.
+description: Requires routing internet-bound traffic through a policy enforcement proxy for URL and DNS filtering to block dangerous sites.
 elementType: control
 externalId: NET-18
 parent: net

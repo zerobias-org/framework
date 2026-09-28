@@ -1,6 +1,6 @@
 id: 18fc058d-4fd2-4f6c-9b5b-b6fdeb9a03a5
 name: Separation of Development, Testing and Operational Environments
-description: Mechanisms exist to manage separate development, testing and operational environments to reduce the risks of unauthorized access or changes to the operational environment and to ensure no impact to production Technology Assets, Applications and/or Services (TAAS).
+description: Requires managing separate development, testing and operational environments to reduce risk of unauthorized changes to production systems.
 elementType: control
 externalId: TDA-08
 parent: tda

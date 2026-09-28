@@ -1,0 +1,1 @@
+Mechanisms exist to maintain a current registration for Artificial Intelligence (AI) and Autonomous Technologies (AAT) with the appropriate governing body, as required by statutory or regulatory requirements.

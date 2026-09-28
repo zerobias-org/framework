@@ -1,0 +1,1 @@
+Mechanisms exist to integrate cybersecurity and data protection into Development, Security and Operations (DevSecOps) to prioritize secure practices throughout the Software Development Lifecycle (SDLC).

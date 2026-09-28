@@ -1,6 +1,6 @@
 id: 0186c9ec-6f18-5b49-8db7-1471faeea835
 name: Sensor Capability
-description: "Mechanisms exist to configure embedded sensors on systems to: \r\n ▪ Prohibit the remote activation of sensing capabilities; and\r\n ▪ Provide an explicit indication of sensor use to users."
+description: 'Mechanisms exist to configure embedded sensors on systems to: ▪ Prohibit the remote activation of sensing capabilities; and ▪ Provide an explicit indication of sensor use to users.'
 elementType: control
 externalId: END-13
 controlQuestion: "Does the organization configure embedded sensors on systems to: \r\n ▪ Prohibit the remote activation of sensing capabilities; and\r\n ▪ Provide an explicit indication of sensor use to users?"

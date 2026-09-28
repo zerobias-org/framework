@@ -1,6 +1,6 @@
 id: a47a7ccd-4e5d-4936-86a3-22bb7f7cb39e
 name: Transfer Activity Limits
-description: Mechanisms exist to establish organization-defined "normal business activities" to identify anomalous transaction activities that can reduce the opportunity for sending (outbound) and/or receiving (inbound) fraudulent actions.
+description: Requires defining normal business activities to identify anomalous inbound or outbound transactions that could indicate fraud.
 elementType: enhancement
 externalId: DCH-25.1
 parent: dch-25

@@ -1,6 +1,6 @@
 id: 51a3f142-8b32-4fc1-a7d9-c00e458e7e16
 name: Privileged Account Separation
-description: Mechanisms exist to separate privileged accounts between infrastructure environments to reduce the risk of a compromise in one infrastructure environment from laterally affecting other infrastructure environments.
+description: Requires separating privileged accounts between infrastructure environments to prevent a compromise from spreading laterally.
 elementType: enhancement
 externalId: IAC-16.2
 parent: iac-16

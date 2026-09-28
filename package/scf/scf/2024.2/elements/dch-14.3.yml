@@ -1,6 +1,6 @@
 id: 9f409f95-dd8a-5d85-a8a9-06bfe42a9873
 name: Data Access Mapping
-description: Mechanisms exist to leverage data-specific Access Control Lists (ACL) or Interconnection Security Agreements (ISAs) to generate a logical map of the parties with whom sensitive/regulated data is shared.
+description: Requires using access control lists or interconnection agreements to map the parties with whom sensitive data is shared.
 elementType: enhancement
 externalId: DCH-14.3
 controlQuestion: Does the organization leverage data-specific Access Control Lists (ACL) or Interconnection Security Agreements (ISAs) to generate a logical map of the parties with whom sensitive/regulated data is shared?

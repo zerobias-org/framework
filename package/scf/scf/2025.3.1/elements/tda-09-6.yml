@@ -1,6 +1,6 @@
 id: 3503639f-823b-4955-8530-2294749f983c
 name: Secure Settings By Default
-description: Mechanisms exist to implement secure configuration settings by default to reduce the likelihood of Technology Assets, Applications and/or Services (TAAS) being deployed with weak security settings that would put the TAAS at a greater risk of compromise.
+description: Requires implementing secure configuration settings by default to reduce risk of deploying assets with weak security settings.
 elementType: enhancement
 externalId: TDA-09.6
 parent: tda-09

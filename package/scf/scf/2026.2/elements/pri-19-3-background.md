@@ -1,0 +1,1 @@
+Mechanisms exist to provide data subjects with sufficient details of the logic and parameters used by Automated Decision-Making Technology (ADMT) to process the Personal Data (PD) to generate an output with respect to the data subject.

@@ -1,6 +1,6 @@
 id: 14ada088-1c08-5ff0-a968-69639dffef42
 name: Remote Maintenance Comparable Security & Sanitization
-description: Mechanisms exist to require systems performing remote, non-local maintenance and / or diagnostic services implement a security capability comparable to the capability implemented on the system being serviced.
+description: Requires remote, non-local maintenance and diagnostic services to implement security capabilities comparable to those on the serviced system.
 elementType: enhancement
 externalId: MNT-05.6
 controlQuestion: Does the organization require systems performing remote, non-local maintenance and / or diagnostic services implement a security capability comparable to the capability implemented on the system being serviced?

@@ -1,0 +1,1 @@
+Enforce the concept of “least privilege” consistently across all systems, applications and services for individual, group and service accounts through a documented and standardized Identity and Access Management (IAM) capability.

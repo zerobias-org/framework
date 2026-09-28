@@ -1,9 +1,6 @@
 id: 4951e94e-e995-47ac-8245-563f486bac95
 name: Supply Chain Risk Management (SCRM)
-description: |-
-  Mechanisms exist to:
-  (1) Evaluate security risks and threats associated with Technology Assets, Applications and/or Services (TAAS) supply chains; and
-  (2) Take appropriate remediation actions to minimize the organization's exposure to those risks and threats, as necessary.
+description: Requires evaluating security risks in technology asset supply chains and taking remediation actions to minimize the organization's exposure.
 elementType: control
 externalId: TPM-03
 parent: tpm

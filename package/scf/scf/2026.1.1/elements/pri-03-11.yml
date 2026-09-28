@@ -1,10 +1,6 @@
 id: ec206bba-b6a7-44cf-9e1d-d18327fd3d09
 name: Communicating Processing Changes
-description: |-
-  Mechanisms exist to notify data subjects of processing changes affecting their Personal Data (PD), including:
-  (1) Erasure of PD;
-  (2) Remediation of incorrect PD; and/or
-  (3) Processing restrictions affecting their PD.
+description: Requires notifying data subjects of processing changes affecting their personal data, including erasure, correction or restrictions.
 elementType: enhancement
 externalId: PRI-03.11
 parent: pri-03

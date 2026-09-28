@@ -1,11 +1,6 @@
 id: fdfb1886-e741-4df1-a8bf-5d45c2c2f1b7
 name: Risk Treatment Options
-description: |-
-  Mechanisms exist to select appropriate risk treatment options, based on applicable risk assessment findings, including:
-  (1) Mitigating the risk to an acceptable level;
-  (2) Avoiding the risk (e.g., terminating the project);
-  (3) Transferring the risk to a third party (e.g., insurance, service provider, etc.); or
-  (4) Accepting the risk.
+description: 'Requires selecting an appropriate risk treatment option based on assessment findings: mitigating, avoiding, transferring or accepting the risk.'
 elementType: enhancement
 externalId: RSK-06.3
 parent: rsk-06

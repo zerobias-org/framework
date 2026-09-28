@@ -1,9 +1,6 @@
 id: a9f62f92-ea0a-42fc-933e-098fa3b3df91
 name: Multi-Agent Trust & Communication Validation
-description: |-
-  Mechanisms exist to validate AI agent to AI agent communications to:
-  (1) Detect poisoning or consensus manipulation; and 
-  (2) Identify rogue or compromised AI agents in distributed or multi-agent environments.
+description: Requires validating AI agent-to-agent communications to detect poisoning or consensus manipulation and identify rogue or compromised agents.
 elementType: enhancement
 externalId: AAT-16.14
 parent: aat-16

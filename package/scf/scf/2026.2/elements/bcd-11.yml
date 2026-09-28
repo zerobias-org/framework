@@ -1,6 +1,6 @@
 id: ccf420b6-f430-4b1e-bb48-0927e16d838c
 name: Data Backups
-description: Mechanisms exist to create recurring backups of data, software and/or system images, as well as verify the integrity of these backups, to ensure the availability of the data to satisfy Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs).
+description: Requires creating recurring backups of data, software and system images and verifying their integrity to meet recovery time and recovery point objectives.
 elementType: control
 externalId: BCD-11
 parent: bcd

@@ -1,0 +1,1 @@
+Mechanisms exist to validate design-level cryptographic agility across protocols, libraries, kernels and hardware to ensure Technology Assets, Applications and/or Services (TAAS) can support larger Post-Quantum Cryptography (PQC) key, signature and ciphertext sizes.

@@ -1,0 +1,1 @@
+Mechanisms exist to enable users to digitally sign their emails, allowing external parties to authenticate the email’s sender and its contents according to the Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication protocol.

@@ -1,10 +1,6 @@
 id: ac50baa6-79bd-4647-97b0-865dc6e2216d
 name: Documentation Requirements
-description: |-
-  Mechanisms exist to obtain, protect and distribute administrator documentation for Technology Assets, Applications and/or Services (TAAS) that describe:
-  (1) Secure configuration, installation and operation of the TAAS;
-  (2) Effective use and maintenance of security features/functions; and
-  (3) Known vulnerabilities regarding configuration and use of administrative (e.g., privileged) functions.
+description: Requires obtaining, protecting and distributing administrator documentation covering secure configuration, effective use of security features, and known vulnerabilities.
 elementType: control
 externalId: TDA-04
 parent: tda

@@ -1,6 +1,6 @@
 id: ef6191e6-32be-5054-8e4a-e4ffad45a3d9
 name: Defense-In-Depth (DiD) Architecture
-description: Mechanisms exist to implement security functions as a layered structure minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers.
+description: Requires implementing layered security functions that minimize interactions between layers and avoid dependence on higher layers.
 elementType: control
 externalId: SEA-03
 controlQuestion: Does the organization implement security functions as a layered structure minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers?

@@ -1,12 +1,6 @@
 id: 4c4f09ff-2ac9-49e9-ad86-1cb219a56630
 name: AI & Autonomous Technologies Human Domain Knowledge Reliance
-description: |-
-  Mechanisms exist to document the extent to which human domain knowledge is employed to improve Artificial Intelligence (AI) and Autonomous Technologies (AAT) performance including:
-  (1) Reinforcement Learning from Human Feedback (RLHF);
-  (2) Fine-tuning;
-  (3) Retrieval- augmented generation;
-  (4) Content moderation; and
-  (5) Business rules.
+description: Requires documenting how human domain knowledge such as RLHF, fine-tuning and content moderation is used to improve AI performance.
 elementType: enhancement
 externalId: AAT-20.3
 parent: aat-20

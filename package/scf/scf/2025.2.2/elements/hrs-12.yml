@@ -1,6 +1,6 @@
 id: 0896f1a2-c4f4-4fbb-a436-0eff3ebfc45d
 name: Incompatible Roles
-description: Mechanisms exist to avoid incompatible development-specific roles through limiting and reviewing developer privileges to change hardware, software and firmware components within a production/operational environment.
+description: Requires limiting and reviewing developer privileges to change production hardware, software, or firmware to avoid incompatible roles.
 elementType: control
 externalId: HRS-12
 parent: hrs

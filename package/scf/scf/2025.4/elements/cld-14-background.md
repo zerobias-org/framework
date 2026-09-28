@@ -1,0 +1,1 @@
+Mechanisms exist to prohibit access to, or usage of, hosted Technology Assets, Applications and/or Services (TAAS) until applicable cybersecurity and data protection control implementation is verified.

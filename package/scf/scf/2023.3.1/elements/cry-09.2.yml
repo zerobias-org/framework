@@ -1,6 +1,6 @@
 id: 2235f0b7-4604-5c07-9b69-9ca922a4767d
 name: Asymmetric Keys
-description: Mechanisms exist to facilitate the production and management of asymmetric cryptographic keys using Federal Information Processing Standards (FIPS)-compliant key management technology and processes that protect the user’s private key.
+description: Requires producing and managing asymmetric cryptographic keys using FIPS-compliant technology that protects the user's private key.
 elementType: enhancement
 externalId: CRY-09.2
 controlQuestion: Does the organization facilitate the production and management of asymmetric cryptographic keys using Federal Information Processing Standards (FIPS)-compliant key management technology and processes that protect the user’s private key?

@@ -1,0 +1,1 @@
+Mechanisms exist to require software developers to provide information describing the functional properties of the security controls to be utilized within Technology Assets, Applications and/or Services (TAAS) in sufficient detail to permit analysis and testing of the controls.

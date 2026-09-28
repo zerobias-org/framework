@@ -1,10 +1,6 @@
 id: 2c0bb45e-4374-4721-bd1a-f7bb14b5dcee
 name: Incident Pattern Analysis
-description: |-
-  Mechanisms exist to analyze historical incidents in aggregate to identify:
-  (1) Patterns;
-  (2) Trends; and 
-  (3) Other common root causes in order to address the vulnerability and risk.
+description: 'Mechanisms exist to analyze historical incidents in aggregate to identify: (1) Patterns; (2) Trends; and (3) Other common root causes in order to address the vulnerability and risk.'
 elementType: enhancement
 externalId: IRO-09.4
 parent: iro-09

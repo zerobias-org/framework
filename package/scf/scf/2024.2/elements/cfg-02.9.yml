@@ -1,6 +1,6 @@
 id: 86f3d1d7-5877-5989-9231-326442c85afe
 name: Baseline Tailoring
-description: "Mechanisms exist to allow baseline controls to be specialized or customized by applying a defined set of tailoring actions that are specific to:\r\n ▪ Mission / business functions;\r\n ▪ Operational environment;\r\n ▪ Specific threats or vulnerabilities; or\r\n ▪ Other conditions or situations that could affect mission / business success."
+description: Requires allowing baseline controls to be tailored to mission needs, operational environment, specific threats, or other business-affecting conditions.
 elementType: enhancement
 externalId: CFG-02.9
 controlQuestion: "Does the organization allow baseline controls to be specialized or customized by applying a defined set of tailoring actions that are specific to:\r\n ▪ Mission / business functions;\r\n ▪ Operational environment;\r\n ▪ Specific threats or vulnerabilities; or\r\n ▪ Other conditions or situations that could affect mission / business success?"

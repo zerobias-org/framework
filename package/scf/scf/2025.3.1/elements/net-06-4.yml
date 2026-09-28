@@ -1,6 +1,6 @@
 id: 4da09170-5d6d-42b1-ad14-1b802cd9e0c1
 name: Segregation From Enterprise Services
-description: Mechanisms exist to isolate sensitive/regulated data enclaves (secure zones) from corporate-provided IT resources by providing enclave-specific IT services (e.g., directory services, DNS, NTP, ITAM, antimalware, patch management, etc.) to those isolated network segments.
+description: Requires isolating sensitive data enclaves from corporate IT resources by providing enclave-specific services like directory, DNS and patch management.
 elementType: enhancement
 externalId: NET-06.4
 parent: net-06

@@ -1,6 +1,6 @@
 id: 6102a0f4-2e71-4892-9221-390e7e6f22ba
 name: Database Access
-description: Mechanisms exist to restrict access to databases containing sensitive and/or regulated data to only necessary Technology Assets, Applications and/or Services (TAAS) or those individuals whose job requires such access.
+description: Requires restricting access to databases holding sensitive or regulated data to only the systems and individuals whose jobs require it.
 elementType: enhancement
 externalId: IAC-20.2
 parent: iac-20

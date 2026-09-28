@@ -1,6 +1,6 @@
 id: 6530494f-b57c-51be-a985-6b83c7636901
 name: Secure Name / Address Resolution Service (Recursive or Caching Resolver)
-description: Mechanisms exist to perform data origin authentication and data integrity verification on the Domain Name Service (DNS) resolution responses received from authoritative sources when requested by client systems.
+description: Requires performing data origin authentication and integrity verification on DNS resolution responses from authoritative sources.
 elementType: enhancement
 externalId: NET-10.2
 controlQuestion: Does the organization perform data origin authentication and data integrity verification on the Domain Name Service (DNS) resolution responses received from authoritative sources when requested by client systems?

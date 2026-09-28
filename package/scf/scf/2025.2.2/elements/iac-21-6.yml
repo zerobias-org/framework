@@ -1,6 +1,6 @@
 id: 75be04bb-52d1-4ad5-b897-f088057ac876
 name: Network Access to Privileged Commands
-description: Mechanisms exist to authorize remote access to perform privileged commands on critical systems or where sensitive/regulated data is stored, transmitted and/or processed only for compelling operational needs.
+description: Requires authorizing remote privileged commands on critical or sensitive systems only for compelling operational needs.
 elementType: enhancement
 externalId: IAC-21.6
 parent: iac-21

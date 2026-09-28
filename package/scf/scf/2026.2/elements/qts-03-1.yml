@@ -1,9 +1,6 @@
 id: 8ecf52fe-474f-4ea4-bab6-92919ad6961b
 name: Post-Quantum Cryptography (PQC) Transition Planning & Hybrid Mode Support
-description: |-
-  Mechanisms exist to allocate resources to:
-  (1) Transition legacy Technology Assets, Applications and/or Services (TAAS) to Post-Quantum Cryptography (PQC) algorithms; and
-  (2) Support hybrid cryptography during a defined transition period.
+description: Requires allocating resources to transition legacy systems to post-quantum cryptography algorithms and to support hybrid cryptography during the transition period.
 elementType: enhancement
 externalId: QTS-03.1
 parent: qts-03

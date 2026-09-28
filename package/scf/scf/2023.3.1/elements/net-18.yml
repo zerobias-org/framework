@@ -1,6 +1,6 @@
 id: 86172b3e-cf17-5716-a354-834013061a78
 name: DNS & Content Filtering
-description: Mechanisms exist to force Internet-bound network traffic through a proxy device for URL content filtering and DNS filtering to limit a user's ability to connect to dangerous or prohibited Internet sites.
+description: Requires routing internet-bound traffic through a proxy for URL and DNS content filtering to limit access to dangerous or prohibited sites.
 elementType: control
 externalId: NET-18
 controlQuestion: Does the organization force Internet-bound network traffic through a proxy device for URL content filtering and DNS filtering to limit a user's ability to connect to dangerous or prohibited Internet sites?

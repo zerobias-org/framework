@@ -1,9 +1,6 @@
 id: 6e10d75d-7052-4dd6-be2e-fb3d0096b10c
 name: Assessor Access
-description: |-
-  Mechanisms exist to grant assessors minimum necessary access to conduct conformity assessments, including:
-  (1) Logical access to design, development, production, inspection and testing artifacts; and 
-  (2) Physical access to facilities.
+description: Requires granting assessors minimum necessary logical and physical access to conduct conformity assessments.
 elementType: enhancement
 externalId: CPL-03.3
 parent: cpl-03

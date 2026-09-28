@@ -1,0 +1,1 @@
+Mechanisms exist to develop access profile rules for sensitive/regulated Technology Assets, Applications, Services and/or Data (TAASD) access based on User, Data, Network, Environment & Device attributes.

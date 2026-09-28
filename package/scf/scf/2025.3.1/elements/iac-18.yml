@@ -1,6 +1,6 @@
 id: 0e7b7acb-c673-4e9d-811a-9a1c1e2cb26a
 name: User Responsibilities for Account Management
-description: Mechanisms exist to compel users to follow accepted practices in the use of authentication mechanisms (e.g., passwords, passphrases, physical or logical security tokens, smart cards, certificates, etc.).
+description: Requires users to follow accepted practices for authentication mechanisms, such as passwords, tokens, smart cards, or certificates.
 elementType: control
 externalId: IAC-18
 parent: iac

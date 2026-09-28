@@ -1,0 +1,1 @@
+Mechanisms exist to implement an Application Programming Interface (API) Gateway, or similar technology, to serve as a controlled entry point that manages interactions between client-facing requests and backend services.

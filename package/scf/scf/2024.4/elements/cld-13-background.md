@@ -1,0 +1,1 @@
+Mechanisms exist to specify applicable cybersecurity & data protection controls that must be implemented on external systems, consistent with the contractual obligations established with the External Service Providers (ESP) owning, operating and/or maintaining external systems, applications and/or services.

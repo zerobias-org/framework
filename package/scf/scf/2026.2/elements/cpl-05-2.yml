@@ -1,6 +1,6 @@
 id: 447b886f-fe88-4640-9ebc-27592b3b99c8
 name: Investigation Access Restrictions
-description: Mechanisms exist to support official investigations by provisioning government investigators with "least privileges" and "least functionality" to ensure that government investigators only have access to the Technology Assets, Applications, Services and/or Data (TAASD) needed to perform the investigation.
+description: Requires provisioning government investigators with least privileges and least functionality so they only access assets needed to perform their investigation.
 elementType: enhancement
 externalId: CPL-05.2
 parent: cpl-05

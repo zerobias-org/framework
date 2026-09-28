@@ -1,0 +1,1 @@
+Mechanisms exist to dynamically associate cybersecurity & data privacy attributes with individuals and objects as information is created, combined, or transformed, in accordance with organization-defined cybersecurity and data privacy policies.

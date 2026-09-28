@@ -1,6 +1,6 @@
 id: 18a41de7-24aa-4dc4-b183-216e019e0154
 name: Correlation with Physical Monitoring
-description: Automated mechanisms exist to correlate information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual or malevolent activity.
+description: Requires automated correlation of audit records with physical access monitoring to better identify suspicious or malevolent activity.
 elementType: enhancement
 externalId: MON-02.4
 parent: mon-02

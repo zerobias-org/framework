@@ -1,6 +1,6 @@
 id: fd138458-4dee-477d-b6a9-4f6397f8f7d8
 name: AI & Autonomous Technologies Event Logging
-description: "Mechanisms exist to ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) system event logging capabilities at a minimum provide:\r\n(1) Start date, start time, end date and end time for each use;\r\n(2) Database(s) against which input data has been checked by the system;\r\n(3) Input data for which the search has led to a match; and\r\n(4) Identification of individual(s) involved in the verification of the results."
+description: Requires AI event logs to capture start/end times, databases checked, matched input data and identities of individuals verifying results.
 elementType: enhancement
 externalId: AAT-16.8
 parent: aat-16

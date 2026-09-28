@@ -1,0 +1,1 @@
+Mechanisms exist to ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) are designed and developed so its operation is sufficiently transparent such that output can be easily interpreted by personnel implementing the AAT.

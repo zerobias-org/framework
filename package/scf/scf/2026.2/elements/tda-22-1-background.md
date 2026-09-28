@@ -1,0 +1,1 @@
+Mechanisms exist to include a detailed cybersecurity risk assessment in the technical documentation for Technology Assets, Applications and/or Services (TAAS) to demonstrate applicable risks in approved use cases.

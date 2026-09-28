@@ -1,9 +1,6 @@
 id: 8f341cac-360a-4cd2-96b7-aedb4df817ed
 name: Emergent Behavior & Collusion Protections
-description: |-
-  Mechanisms exist to detect and contain emergent or collusive behaviors among multiple Artificial Intelligence (AI) and Autonomous Technologies (AAT), including:
-  (1) Automated or human-triggered containment; and 
-  (2) Formal investigation to determine the root cause of agentic cascades or collusion.
+description: Requires detecting and containing emergent or collusive behavior among multiple AI agents, including containment measures and root-cause investigation.
 elementType: enhancement
 externalId: AAT-16.13
 parent: aat-16

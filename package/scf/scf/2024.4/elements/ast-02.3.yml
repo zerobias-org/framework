@@ -1,6 +1,6 @@
 id: 47c948a4-9528-5989-89f2-3d7fbc7cf2c4
 name: Component Duplication Avoidance
-description: Mechanisms exist to establish and maintain an authoritative source and repository to provide a trusted source and accountability for approved and implemented system components that prevents assets from being duplicated in other asset inventories.
+description: Requires an authoritative repository of approved system components to provide accountability and prevent duplicate asset inventories.
 elementType: enhancement
 externalId: AST-02.3
 controlQuestion: Does the organization establish and maintain an authoritative source and repository to provide a trusted source and accountability for approved and implemented system components that prevents assets from being duplicated in other asset inventories?

@@ -1,6 +1,6 @@
 id: 748fa91b-4e1b-43fe-ac6a-31155038a368
 name: Wireless Link Protection
-description: Mechanisms exist to protect external and internal wireless links from signal parameter attacks through monitoring for unauthorized wireless connections, including scanning for unauthorized wireless access points and taking appropriate action, if an unauthorized connection is discovered.
+description: Requires monitoring wireless links for unauthorized connections, including scanning for rogue access points and acting on unauthorized connections found.
 elementType: enhancement
 externalId: NET-12.1
 parent: net-12

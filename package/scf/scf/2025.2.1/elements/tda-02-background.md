@@ -1,0 +1,1 @@
+Mechanisms exist to design, develop and produce products and/or services in such a way that risk-based technical and functional specifications ensure Minimum Viable Product (MVP) criteria establish an appropriate level of security and resiliency based on applicable risks and threats.

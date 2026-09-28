@@ -1,6 +1,6 @@
 id: d848a142-afcd-5c9e-9eac-23cfc3d667b6
 name: Ports, Protocols & Services In Use
-description: Mechanisms exist to require the developers of systems, system components or services to identify early in the Secure Development Life Cycle (SDLC), the functions, ports, protocols and services intended for use.
+description: Requires developers to identify intended functions, ports, protocols and services early in the development lifecycle.
 elementType: enhancement
 externalId: TDA-02.1
 controlQuestion: Does the organization require the developers of systems, system components or services to identify early in the Secure Development Life Cycle (SDLC), the functions, ports, protocols and services intended for use?

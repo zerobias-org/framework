@@ -1,6 +1,6 @@
 id: b5312518-bb38-417c-bcc2-b46b46a7705d
 name: Cloud Access Security Broker (CASB)
-description: Mechanisms exist to utilize a Cloud Access Security Broker (CASB), or similar technology, to provide boundary protection and monitoring functions that both provide access to the cloud and protect the organization from misuse of cloud resources.
+description: Requires using a Cloud Access Security Broker to provide boundary protection, monitor cloud access, and guard against misuse of cloud resources.
 elementType: control
 externalId: CLD-11
 parent: cld

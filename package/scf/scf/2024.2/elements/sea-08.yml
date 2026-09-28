@@ -1,6 +1,6 @@
 id: fda8e1e2-66c7-5abc-82a4-9694d9bd9dda
 name: Non-Persistence
-description: Mechanisms exist to implement non-persistent system components and services that are initiated in a known state and terminated upon the end of the session of use or periodically at an organization-defined frequency.
+description: Requires non-persistent system components that initiate in a known state and terminate at session end or a set frequency.
 elementType: control
 externalId: SEA-08
 controlQuestion: Does the organization implement non-persistent system components and services that are initiated in a known state and terminated upon the end of the session of use or periodically at an organization-defined frequency?

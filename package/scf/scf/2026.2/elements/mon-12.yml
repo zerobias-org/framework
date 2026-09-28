@@ -1,9 +1,6 @@
 id: bd9d724c-994f-4de5-ad65-e03fe5a5851c
 name: Session Audit
-description: |-
-  Mechanisms exist to provide session audit capabilities that can: 
-  (1) Capture and log all content related to a user session; and
-  (2) Remotely view all content related to an established user session in real time.
+description: Requires session audit capabilities that capture and log user session content and allow remote real-time viewing of it.
 elementType: control
 externalId: MON-12
 parent: mon

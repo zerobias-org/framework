@@ -1,6 +1,6 @@
 id: 42c2ab9a-217b-49e5-881a-f21b5b61aad9
 name: Error Handling
-description: "Mechanisms exist to handle error conditions by: \r\n(1) Identifying potentially security-relevant error conditions;\r\n(2) Generating error messages that provide information necessary for corrective actions without revealing sensitive or potentially harmful information in error logs and administrative messages that could be exploited; and\r\n(3) Revealing error messages only to authorized personnel."
+description: Requires generating error messages with information for corrective action while withholding sensitive details from unauthorized personnel.
 elementType: control
 externalId: TDA-19
 parent: tda

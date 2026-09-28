@@ -1,6 +1,6 @@
 id: 2efb3ff0-d500-404e-bfa8-993a4f620b6c
 name: On-Site Client Segregation
-description: Mechanisms exist to ensure client-specific sensitive and/or regulated data is isolated from other data when client-specific sensitive and/or regulated data is processed or stored within multi-client workspaces.
+description: Requires isolating client-specific sensitive or regulated data from other data when processed or stored in multi-client workspaces.
 elementType: control
 externalId: PES-18
 parent: pes

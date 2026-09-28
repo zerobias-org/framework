@@ -1,10 +1,6 @@
 id: 91a1358a-d61a-478f-be88-67d1326dee03
 name: Incident Tracking Repository
-description: |-
-  Mechanisms exist to maintain a repository of cybersecurity events and incidents that documents:
-  (1) Details of the incident (e.g., category, severity, affected parties, etc.);
-  (2) Remediation actions taken through incident closure; and
-  (3) A summary from the Root Cause Analysis (RCA), if applicable.
+description: Requires maintaining a repository of cybersecurity incidents documenting details, remediation actions taken, and root cause analysis summaries.
 elementType: enhancement
 externalId: IRO-09.3
 parent: iro-09

@@ -1,0 +1,1 @@
+Mechanisms exist to periodically assess disclosed purposes for which Personal Data (PD) is collected, received, processed, stored, transmitted and/or shared to ensure compatibility with reasonable consumer expectations.

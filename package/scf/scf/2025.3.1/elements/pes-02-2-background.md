@@ -1,0 +1,1 @@
+Mechanisms exist to enforce a "two-person rule" for physical access by requiring two authorized individuals with separate access cards, keys or PINs, to access highly-sensitive areas (e.g., safe, high-security cage, etc.).

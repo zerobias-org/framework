@@ -1,11 +1,6 @@
 id: d744d12b-ccce-4fc8-99bd-0053b5384340
 name: Cryptographic Exception Register
-description: |-
-  Mechanisms exist to govern each Post-Quantum Cryptography (PQC) deviation in a formal cryptographic exception register that contains, at a minimum:
-  (1) Asset and/or process owner(s);
-  (2) Compensating control(s);
-  (3) Planned remediation date; and
-  (4) Re-evaluation date.
+description: Requires a formal register documenting each post-quantum cryptography deviation, including owner, compensating controls, remediation date and re-evaluation date.
 elementType: enhancement
 externalId: QTS-02.1
 parent: qts-02

@@ -1,6 +1,6 @@
 id: 8643960f-9af0-436c-9688-547ff2b26e67
 name: File Integrity Monitoring (FIM)
-description: Mechanisms exist to utilize a File Integrity Monitor (FIM), or similar change-detection technology, on critical Technology Assets, Applications and/or Services (TAAS) to generate alerts for unauthorized modifications.
+description: Requires using a File Integrity Monitor, or similar technology, on critical assets to generate alerts for unauthorized modifications.
 elementType: enhancement
 externalId: MON-01.7
 parent: mon-01

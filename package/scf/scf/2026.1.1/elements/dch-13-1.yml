@@ -1,9 +1,6 @@
 id: fb3a50aa-7bbf-485f-9d1b-78887bf371e9
 name: Limits of Authorized Use
-description: |-
-  Mechanisms exist to prohibit external parties, including Technology Assets, Applications and/or Services (TAAS), from storing, processing and transmitting data unless authorized individuals first: 
-  (1) Verifying the implementation of required security, compliance and/or resilience controls; or
-  (2) Retaining a processing agreement with the entity hosting the external TAAS.
+description: Requires prohibiting external parties from storing, processing or transmitting data unless required security, compliance and resilience controls are verified or a processing agreement exists.
 elementType: enhancement
 externalId: DCH-13.1
 parent: dch-13

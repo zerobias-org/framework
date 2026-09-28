@@ -1,0 +1,1 @@
+Automated mechanisms exist to perform Continuous Control Monitoring (CCM) to assess and report the conformity status of the organization’s Technology Assets, Applications, Services and Data (TAASD) against applicable security, compliance and resilience controls.

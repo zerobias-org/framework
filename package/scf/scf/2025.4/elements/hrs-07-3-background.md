@@ -1,0 +1,1 @@
+Mechanisms exist to proactively restrict logical and physical access when an individual with access to sensitive/regulated data is under investigation for personnel sanctions that may lead to employment termination.

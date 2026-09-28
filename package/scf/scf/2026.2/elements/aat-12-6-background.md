@@ -1,0 +1,1 @@
+Mechanisms exist to prohibit Artificial Intelligence and Autonomous Technologies (AAT) from training, fine-tuning and/or improving capabilities using organizational data without prior, explicit consent from applicable data owner(s).

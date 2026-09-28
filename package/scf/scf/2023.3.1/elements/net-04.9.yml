@@ -1,6 +1,6 @@
 id: dae0d661-1772-58df-9c51-1541ef290b52
 name: Decomposition Into Policy-Related Subcomponents
-description: Automated mechanisms exist to decompose information into policy-relevant subcomponents for submission to policy enforcement mechanisms, when transferring information between different security domains.
+description: Requires automated decomposition of information into policy-relevant subcomponents for policy enforcement when crossing security domains.
 elementType: enhancement
 externalId: NET-04.9
 controlQuestion: Does the organization decompose information into policy-relevant subcomponents for submission to policy enforcement mechanisms, when transferring information between different security domains?

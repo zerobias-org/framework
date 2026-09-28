@@ -1,9 +1,6 @@
 id: bfce71aa-5139-45c0-8dd5-7c1d755cd28c
 name: Resilience Capabilities
-description: |-
-  Mechanisms exist to ensure security, compliance and resilience are designed and implemented to provide resistance to:
-  (1) Unintentional errors (by users or software); and 
-  (2) Intentional attack or circumvention.
+description: Requires designing security, compliance and resilience to resist unintentional errors and intentional attack or circumvention.
 elementType: enhancement
 externalId: SEA-01.3
 parent: sea-01

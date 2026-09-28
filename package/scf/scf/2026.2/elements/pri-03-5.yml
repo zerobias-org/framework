@@ -1,10 +1,6 @@
 id: db3e5bd5-68f5-413c-bef1-91416a601fa3
 name: Product or Service Delivery Restrictions
-description: |-
-  Mechanisms exist to prevent discrimination against a data subject for exercising their legal rights pertaining to modifying or revoking consent, including prohibiting:
-  (1) Refusing products and/or services;
-  (2) Charging different rates for goods and/or services; and
-  (3) Providing different levels of quality.
+description: Requires preventing discrimination against data subjects who exercise consent rights, including refusing service or charging different rates.
 elementType: enhancement
 externalId: PRI-03.5
 parent: pri-03

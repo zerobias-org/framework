@@ -1,6 +1,6 @@
 id: 0846ac03-eee6-5053-b0ff-c45e3e39dd77
 name: Layered Network Defenses
-description: Mechanisms exist to implement security functions as a layered structure that minimizes interactions between layers of the design and avoids any dependence by lower layers on the functionality or correctness of higher layers.
+description: Requires implementing security functions as a layered structure that minimizes interactions between layers and avoids dependence on higher layers.
 elementType: control
 externalId: NET-02
 controlQuestion: Does the organization implement security functions as a layered structure that minimizes interactions between layers of the design and avoids any dependence by lower layers on the functionality or correctness of higher layers?

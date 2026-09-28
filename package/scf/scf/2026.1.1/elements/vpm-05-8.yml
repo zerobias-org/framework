@@ -1,9 +1,6 @@
 id: 2b3c9251-245e-4f5a-844b-8542435b5026
 name: Software Patch Integrity
-description: |-
-  Mechanisms exist to ensure software and/or firmware patches are:
-  (1) Obtained from trusted sources; and 
-  (2) Checked for integrity.
+description: 'Mechanisms exist to ensure software and/or firmware patches are: (1) Obtained from trusted sources; and (2) Checked for integrity.'
 elementType: enhancement
 externalId: VPM-05.8
 parent: vpm-05

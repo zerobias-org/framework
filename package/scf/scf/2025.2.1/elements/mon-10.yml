@@ -1,6 +1,6 @@
 id: 4a0a809a-80fb-45b6-931f-2bec078ff6be
 name: Event Log Retention
-description: Mechanisms exist to retain event logs for a time period consistent with records retention requirements to provide support for after-the-fact investigations of security incidents and to meet statutory, regulatory and contractual retention requirements.
+description: Requires retaining event logs long enough to support after-the-fact incident investigations and meet retention obligations.
 elementType: control
 externalId: MON-10
 parent: mon

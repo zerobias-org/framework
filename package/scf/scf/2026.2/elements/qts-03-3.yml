@@ -1,9 +1,6 @@
 id: f4c0c020-5699-4d7b-862b-ff3fc2ad0913
 name: Post-Quantum Cryptography (PQC) Supply Chain Visibility
-description: |-
-  Mechanisms exist to require vendors to disclose Post-Quantum Cryptography (PQC) support roadmaps that include:
-  (1) Identification of PQC-related limitations; and
-  (2) Supported upgrade paths to ensure long-lived devices (e.g., OT, IoT and embedded systems) can support PQC capabilities.
+description: Requires vendors to disclose post-quantum cryptography support roadmaps, including known limitations and supported upgrade paths for long-lived devices.
 elementType: enhancement
 externalId: QTS-03.3
 parent: qts-03

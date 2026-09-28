@@ -1,11 +1,6 @@
 id: 5e719c9a-585a-498b-8255-aa866518c52b
 name: Third-Party Scope Review
-description: |-
-  Mechanisms exist to perform recurring validation of the Responsible, Accountable, Supportive, Consulted & Informed (RASCI) matrix, or similar documentation, to ensure security, compliance and resilience control assignments accurately reflect current:
-  (1) Contractual obligations for the External Service Provider (ESP);
-  (2) Business practices;
-  (3) Applicable stakeholders; and
-  (4) Deployed Technology Assets, Applications and/or Services (TAAS).
+description: Requires recurring validation of the RASCI matrix to ensure control assignments reflect current contractual obligations, business practices, stakeholders and assets.
 elementType: enhancement
 externalId: TPM-05.5
 parent: tpm-05

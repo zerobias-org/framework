@@ -1,0 +1,1 @@
+Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that utilize manipulative or deceptive techniques (including biased data) to impair an individual's ability to make a reasonably informed decision.

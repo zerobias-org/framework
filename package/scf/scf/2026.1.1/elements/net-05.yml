@@ -1,10 +1,6 @@
 id: 8584b48a-b23a-424b-844c-b806ffd10944
 name: Interconnection Security Agreements (ISAs)
-description: |-
-  Mechanisms exist to authorize connections from systems to other systems using Interconnection Security Agreements (ISAs), or similar methods, that document, for each interconnection:
-  (1) Interface characteristics;
-  (2) Security, compliance and resilience requirements; and;
-  (3) The nature of the information communicated.
+description: Requires authorizing system interconnections via Interconnection Security Agreements documenting interface characteristics, security requirements and information communicated.
 elementType: control
 externalId: NET-05
 parent: net

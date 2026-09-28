@@ -1,6 +1,6 @@
 id: 4a72848c-847d-4f3f-86c8-97f5ddcb65a4
 name: Transfer Authorizations
-description: Mechanisms exist to verify that individuals or Technology Assets, Applications and/or Services (TAAS) transferring data between interconnecting TAAS have the requisite authorizations (e.g., write permissions or privileges) prior to transferring said data.
+description: Requires verifying that individuals or systems transferring data between interconnected systems have requisite write authorizations before the transfer.
 elementType: enhancement
 externalId: DCH-14.2
 parent: dch-14

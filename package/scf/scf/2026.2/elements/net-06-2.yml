@@ -1,6 +1,6 @@
 id: d7825056-165e-4e8b-a0f0-d7aec04ff57b
 name: Virtual Local Area Network (VLAN) Separation
-description: Mechanisms exist to enable Virtual Local Area Networks (VLANs) to limit the ability of devices on a network to directly communicate with other devices on the subnet and limit an attacker's ability to laterally move to compromise neighboring systems.
+description: Requires using VLANs to limit direct device communication on a subnet and limit lateral movement by attackers.
 elementType: enhancement
 externalId: NET-06.2
 parent: net-06

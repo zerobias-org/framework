@@ -1,0 +1,1 @@
+Mechanisms exist to use a robust Web Application Framework to support the development of secure web applications, including web services, web resources and web Application Programming Interfaces (APIs).

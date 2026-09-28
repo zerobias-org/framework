@@ -1,0 +1,1 @@
+Mechanisms exist to establish and maintain a current inventory of all Technology Assets, Applications and/or Services (TAAS) that collect, receive, process, store, transmit, update and/or share Personal Data (PD).

@@ -1,6 +1,6 @@
 id: 4ff22846-c72c-4b4f-b795-5d7ebf3550a9
 name: Website Change Detection
-description: Mechanisms exist to detect and respond to Indicators of Compromise (IoC) for unauthorized alterations, additions, deletions or changes on websites that store, process and/or transmit sensitive and/or regulated data.
+description: Requires detecting and responding to indicators of compromise for unauthorized changes on websites handling sensitive or regulated data.
 elementType: control
 externalId: WEB-13
 parent: web

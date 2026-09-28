@@ -1,0 +1,1 @@
+Mechanisms exist to define formal processes to store, process and/or transmit sensitive/regulated data using External Service Providers (ESP) owned, operated and/or maintained external systems, applications and/or services , in accordance with all applicable statutory, regulatory and/or contractual obligations.

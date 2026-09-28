@@ -1,0 +1,1 @@
+Mechanisms exist to generate appropriate technical documentation artifacts for products and/or services in sufficient detail to demonstrate conformity with applicable statutory, regulatory and contractual compliance requirements.

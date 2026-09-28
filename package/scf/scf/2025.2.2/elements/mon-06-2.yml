@@ -1,6 +1,6 @@
 id: c2479c15-eea0-4b2e-92d0-30198483cf70
 name: Trend Analysis Reporting
-description: Mechanisms exist to employ trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/or the types of activities used in the continuous monitoring process need to be modified based on empirical data.
+description: Requires trend analysis to determine whether control implementations or continuous monitoring activities need modification based on empirical data.
 elementType: enhancement
 externalId: MON-06.2
 parent: mon-06

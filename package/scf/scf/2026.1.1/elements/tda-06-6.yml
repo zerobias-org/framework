@@ -1,10 +1,6 @@
 id: 8005b617-4b4b-4ba1-8160-186dc2495dbc
 name: Software Design Root Cause Analysis
-description: |-
-  Mechanisms exist to assess software design processes that includes: 
-  (1) Conducting Root Cause Analysis (RCA) to identify the underlying causes of issues or failures;
-  (2) Developing actions to address the root cause of the issue or failure; and
-  (3) Implementing the actions and monitoring the implementation for effectiveness.
+description: Requires assessing software design processes through root cause analysis of issues, developing corrective actions, and monitoring their effectiveness.
 elementType: enhancement
 externalId: TDA-06.6
 parent: tda-06

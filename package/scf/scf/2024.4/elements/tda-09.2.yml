@@ -1,6 +1,6 @@
 id: 9c98187a-1525-51fe-aadf-bfac43de4794
 name: Static Code Analysis
-description: Mechanisms exist to require the developers of systems, system components or services to employ static code analysis tools to identify and remediate common flaws and document the results of the analysis.
+description: Requires developers to use static code analysis tools to identify, remediate and document common code flaws.
 elementType: enhancement
 externalId: TDA-09.2
 controlQuestion: Does the organization require the developers of systems, system components or services to employ static code analysis tools to identify and remediate common flaws and document the results of the analysis?

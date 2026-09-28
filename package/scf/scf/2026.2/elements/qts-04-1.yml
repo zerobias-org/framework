@@ -1,13 +1,6 @@
 id: fe791c08-f0f7-4a48-8749-518a76867b99
 name: Post-Quantum Cryptography (PQC) Asset Inventory
-description: |-
-  Mechanisms exist to maintain a current inventory of cryptographic assets that includes:
-  (1) Algorithms (asymmetric and symmetric);
-  (2) Key lengths;
-  (3) Libraries;
-  (4) Protocols;
-  (5) Associated Technology Assets, Applications and/or Services (TAAS) utilizing the cryptography; and
-  (6) Federal Information Processing Standards (FIPS) validation status from the Cryptographic Module Validation Program (CMVP), including certificate number, if applicable.
+description: Requires maintaining a current inventory of cryptographic assets, including algorithms, key lengths, libraries, protocols, associated systems and FIPS validation status.
 elementType: enhancement
 externalId: QTS-04.1
 parent: qts-04

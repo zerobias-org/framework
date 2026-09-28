@@ -1,6 +1,6 @@
 id: f4d186c8-e94d-5d3d-99d0-03af812d3481
 name: Asset Inventories
-description: "Mechanisms exist to perform inventories of technology assets that:\r\n (1) Accurately reflects the current systems, applications and services in use; \r\n (2) Identifies authorized software products, including business justification details;\r\n (3) Is at the level of granularity deemed necessary for tracking and reporting;\r\n (4) Includes organization-defined information deemed necessary to achieve effective property accountability; and\r\n (5) Is available for review and audit by designated organizational personnel."
+description: Requires an accurate technology asset inventory identifying authorized software, granular enough for tracking and available for audit review.
 elementType: control
 externalId: AST-02
 controlQuestion: "Does the organization perform inventories of technology assets that:\r\n (1) Accurately reflects the current systems, applications and services in use; \r\n (2) Identifies authorized software products, including business justification details;\r\n (3) Is at the level of granularity deemed necessary for tracking and reporting;\r\n (4) Includes organization-defined information deemed necessary to achieve effective property accountability; and\r\n (5) Is available for review and audit by designated organizational personnel?"

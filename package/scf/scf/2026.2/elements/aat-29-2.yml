@@ -1,9 +1,6 @@
 id: 7528b688-ea78-484b-a08f-9c542a0b395c
 name: AI Agent Limitations
-description: |-
-  Mechanisms exist to implement limitations for AI agents according to:
-  (1) Least privileges, where the AI agent operates with the minimal permissions necessary to perform designated tasks; and
-  (2) Least functionality, where the AI agent is restricted to communicate with the minimal Technology Assets, Applications and/or Services (TAAS) and networks necessary to perform designated tasks.
+description: Requires limiting AI agents to least privilege, minimal permissions needed for their tasks, and least functionality, restricting them to only necessary systems and networks.
 elementType: enhancement
 externalId: AAT-29.2
 parent: aat-29

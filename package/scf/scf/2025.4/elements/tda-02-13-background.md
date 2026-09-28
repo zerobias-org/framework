@@ -1,0 +1,1 @@
+Mechanisms exist to notify applicable stakeholders about potentially exploitable vulnerabilities in organization-developed Technology Assets, Applications and/or Services (TAAS), as required by statutory, regulatory and/or contractual obligations.

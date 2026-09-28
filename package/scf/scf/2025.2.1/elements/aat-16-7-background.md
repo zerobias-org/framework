@@ -1,0 +1,1 @@
+Mechanisms exist to validate the information source(s) and quality of pre-trained models used in Artificial Intelligence (AI) and Autonomous Technologies (AAT) training, maintenance and improvement-related activities.

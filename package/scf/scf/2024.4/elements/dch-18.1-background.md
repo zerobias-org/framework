@@ -1,0 +1,1 @@
+Mechanisms exist to minimize sensitive/regulated data that is processed, stored and/or transmitted throughout the information lifecycle to only those elements necessary to support necessary business processes.

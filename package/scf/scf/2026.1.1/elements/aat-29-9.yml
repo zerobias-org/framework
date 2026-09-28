@@ -1,10 +1,6 @@
 id: 77f20417-a018-474e-adfe-f71d10b069f9
 name: AI Agent Identity & Impersonation Defense
-description: |-
-  Mechanisms exist to ensure user identification and authentication methods are capable of preventing AI agents from 
-  (1) Spoofing;
-  (2) Mimicry; and/or
-  (3) Impersonation attacks.
+description: Mechanisms exist to ensure user identification and authentication methods are capable of preventing AI agents from (1) Spoofing; (2) Mimicry; and/or (3) Impersonation attacks.
 elementType: enhancement
 externalId: AAT-29.9
 parent: aat-29

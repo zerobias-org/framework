@@ -1,6 +1,6 @@
 id: 4d779a6a-def6-4f40-87ba-d3f08eaea711
 name: Transaction Recovery
-description: Mechanisms exist to utilize specialized backup mechanisms that will allow transaction recovery for transaction-based Technology Assets, Applications and/or Services (TAAS) in accordance with Recovery Point Objectives (RPOs).
+description: Requires specialized backup mechanisms enabling transaction recovery for transaction-based systems in accordance with recovery point objectives.
 elementType: enhancement
 externalId: BCD-12.1
 parent: bcd-12

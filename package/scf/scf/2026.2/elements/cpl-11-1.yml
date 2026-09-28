@@ -1,10 +1,6 @@
 id: d72aca9a-44c7-4fff-bea9-31513054bbc6
 name: USML or CCL Identification
-description: |-
-  Mechanisms exist to identify if the organization handles United States Munitions List (USML) or Commerce Control List (CCL):
-  (1) Items;
-  (2) Technical data; and/or
-  (3) Provides defense services.
+description: 'Mechanisms exist to identify if the organization handles United States Munitions List (USML) or Commerce Control List (CCL): (1) Items; (2) Technical data; and/or (3) Provides defense services.'
 elementType: enhancement
 externalId: CPL-11.1
 parent: cpl-11

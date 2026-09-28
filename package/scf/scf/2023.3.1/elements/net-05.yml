@@ -1,6 +1,6 @@
 id: 577cf808-2721-50fc-9f8e-90064d8be427
 name: System Interconnections
-description: Mechanisms exist to authorize connections from systems to other systems using Interconnection Security Agreements (ISAs) that document, for each interconnection, the interface characteristics, cybersecurity & data privacy requirements and the nature of the information communicated.
+description: Requires authorizing system interconnections via Interconnection Security Agreements documenting interface characteristics and data privacy requirements.
 elementType: control
 externalId: NET-05
 controlQuestion: Does the organization authorize connections from systems to other systems using Interconnection Security Agreements (ISAs) that document, for each interconnection, the interface characteristics, cybersecurity & data privacy requirements and the nature of the information communicated?

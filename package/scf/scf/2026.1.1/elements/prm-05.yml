@@ -1,6 +1,6 @@
 id: 2b1585de-e245-4b70-8af0-538f41f6d3ec
 name: Security, Compliance & Resilience Requirements Definition
-description: Mechanisms exist to identify critical system components and functions by performing a criticality analysis for critical Technology Assets, Applications and/or Services (TAAS) at pre-defined decision points in the Secure Development Life Cycle (SDLC).
+description: Requires performing a criticality analysis of critical system components and functions at predefined points in the development lifecycle.
 elementType: control
 externalId: PRM-05
 parent: prm

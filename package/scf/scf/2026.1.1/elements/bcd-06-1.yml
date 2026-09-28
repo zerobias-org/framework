@@ -1,12 +1,6 @@
 id: 009afe1e-6830-491b-bd82-d54ea2a37a1f
 name: Contingency Planning Components
-description: |-
-  Mechanisms exist to identify components that potentially impact the organization's ability to execute contingency plans, including changes to:
-  (1) Personnel roles;
-  (2) Business processes (including the use of third-party services);
-  (3) Deployed technologies; 
-  (4) Data repositories and/or data flows; and/or
-  (5) Physical infrastructure.
+description: Requires identifying changes to personnel, business processes, technologies, data flows or physical infrastructure impacting contingency plans.
 elementType: enhancement
 externalId: BCD-06.1
 parent: bcd-06

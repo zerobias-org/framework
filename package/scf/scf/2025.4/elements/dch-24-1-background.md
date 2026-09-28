@@ -1,0 +1,1 @@
+Automated mechanisms exist to identify by data classification type to ensure adequate cybersecurity and data protection controls are in place to protect organizational information and individual data protection.

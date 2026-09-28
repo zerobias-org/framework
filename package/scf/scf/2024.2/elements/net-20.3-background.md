@@ -1,0 +1,1 @@
+Mechanisms exist to utilize an authenticated received chain that allows for an intermediary to sign its own authentication of the original email, allowing downstream entities to accept the intermediary’s authentication even if the email was changed.

@@ -1,0 +1,1 @@
+Mechanisms exist to ensure that organizational personnel impacted by sensitive/regulated data spills can continue to carry out assigned tasks while contaminated Technology Assets, Applications and/or Services (TAAS) are undergoing corrective actions.

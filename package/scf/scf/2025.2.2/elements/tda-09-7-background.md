@@ -1,0 +1,1 @@
+Mechanisms exist to require the developers of systems, system components or services to employ a manual code review process to identify and remediate unique flaws that require knowledge of the application’s requirements and design.

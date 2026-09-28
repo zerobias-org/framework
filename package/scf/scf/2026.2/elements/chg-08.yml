@@ -1,9 +1,6 @@
 id: a655b18c-f6cc-44ba-9ab7-92404d831264
 name: Dual Approval For High-Impact Environments
-description: |-
-  Mechanisms exist to require dual approval for any changes that might result in a serious incident that could adversely impact:
-  (1) Business processes; and/or
-  (2) Technology Assets, Applications, Services and/or Data (TAASD).
+description: Requires dual approval for changes that could result in a serious incident adversely impacting business processes or technology assets and data.
 elementType: control
 externalId: CHG-08
 parent: chg

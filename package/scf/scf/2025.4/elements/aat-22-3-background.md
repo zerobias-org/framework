@@ -1,0 +1,1 @@
+Mechanisms exist to ensure no action or decision is taken by the deployer of an Artificial Intelligence (AI) and Autonomous Technologies (AAT) based solely based on AAT-generated evidence, unless that evidence has been separately verified and confirmed by at least two (2) individuals with the necessary competence, training and authority.
