@@ -97,12 +97,41 @@ Legacy `auditmation` metadata key is accepted; prefer `zerobias`.
 
 ## Validator philosophy
 
-The dataloader is the source of truth for schema rules (UUID format, semver, status enum, elementType lookup, baseline shape, description non-blank, etc.). The gate validator (`build.gradle.kts`) only enforces what the dataloader CANNOT or DOES NOT see:
+The dataloader is the source of truth for schema rules (UUID format, semver, status enum, elementType lookup, baseline shape, description non-blank, etc.). The repo's gate validator (`build.gradle.kts`) only enforces what the dataloader CANNOT or DOES NOT see:
 
 1. **Filesystem ↔ npm-name ↔ `zerobias.package` triangulation** — dataloader reads `zerobias.package` but never the npm `name` and has no view of the directory layout
 2. **Repo-wide unique `id` UUIDs** across `index.yml` AND every `elements/*.yml` — dataloader processes one artifact at a time; cross-cuts only surface in DB collisions
 
-This avoids drift when the dataloader tightens.
+This avoids drift when the dataloader tightens. Separately, `zb.content` itself runs the
+**element content rules** on every package — a content-quality check the dataloader does not
+make (see below).
+
+## Element content rules
+
+Elements (`elements/<code>.yml`) follow the element content rules — canonical reference:
+[docs/ElementContentRules.md](../../docs/ElementContentRules.md) (meta-repo). In short:
+
+- **`description`** — plain text, one line, **under 200 characters**: a summary, not the requirement text.
+- **Full text → `elements/<code>-background.md`**, as markdown that renders (blank lines between
+  paragraphs, `- a.` bullets, 4-space nesting, escaped digit labels).
+- **`links`** aliases must resolve in the **live catalog** — the linker drops misses silently.
+- Retire an element with `deprecate: true`, never by deleting the file.
+- **Control guidance → `elements/<code>-guidance.md`** — only once prod runs dataloader
+  ≥ 2.0.93 (`npm view @zerobias-com/platform-dataloader dist-tags`); an older dataloader loads
+  the control with no guidance, silently.
+
+**Enforcement:** `validateContent` checks these rules on every package. `zb.elementRules=enforce`
+is switched on together with zerobias-org/framework#283 — the last violating package,
+`nist/80053/rev4` — so until then violations only warn: read the `[element-rules]` line, a
+green gate is not proof. Expected warnings: `opencre` link aliases with no catalog target
+(CWE, CAPEC, Cheat Sheets, …), kept by decision. No `element-rules-baseline.txt` — fix the
+package instead.
+
+Gate: the CI `gate.yml` runs on each PR and pushes the refreshed stamps. Versions: the
+publish workflow patch-bumps on `main` — no manual bump.
+
+To fix a package, use the `fix-element-content` skill (meta-repo `.claude/skills/`), which
+also carries the scripts for surveying, applying and verifying.
 
 ## Creating a new framework package
 
