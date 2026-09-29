@@ -129,6 +129,8 @@ Every `id` (in `index.yml` and every element) must be **unique repo-wide**.
 
 #### Element content rules — apply while generating, not after
 
+Full reference: [docs/ElementContentRules.md](../../../../../docs/ElementContentRules.md) (meta-repo); fixing an existing package: the `fix-element-content` skill.
+
 `description` is a short summary, **not** the requirement text. Dumping a
 requirement straight from the source document into `description` is the single
 largest source of violations in existing packages.
@@ -199,11 +201,11 @@ zbb :<a>:<f>:<v>:gate
 integration step is skipped locally and CI runs it on push. Fix any errors and
 re-run until `validateContent` passes.
 
-`validateContent` also runs `ElementContentRules` (shipped in `zb.content` since
-build-tools 1.0.141), which reports the rules in A6. This repo has no
-`element-rules-baseline.txt`, so it is currently `WARN_UNENFORCED`: violations
-are **reported but do not fail the build**. Do not read a passing gate as
-evidence the descriptions are fine — read the warnings. A new package should add
+`validateContent` also runs `ElementContentRules` (in `zb.content`), which checks
+the rules in A6. Until `zb.elementRules=enforce` is switched on in this repo (it
+lands with #283, see `CLAUDE.md` → *Element content rules*), violations are
+**reported but do not fail the build** — read the `[element-rules]` line, a
+passing gate is not evidence the descriptions are fine. A new package must add
 none.
 
 ### A9. Commit, push, PR (base = `dev`)
