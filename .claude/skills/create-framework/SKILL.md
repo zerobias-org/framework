@@ -206,7 +206,7 @@ the rules in A6. Until `zb.elementRules=enforce` is switched on in this repo (it
 lands with #283, see `CLAUDE.md` → *Element content rules*), violations are
 **reported but do not fail the build** — read the `[element-rules]` line, a
 passing gate is not evidence the descriptions are fine. A new package must add
-none. Never add an `element-rules-baseline.txt`.
+none.
 
 ### A9. Commit, push, PR (base = `dev`)
 

@@ -124,8 +124,8 @@ Elements (`elements/<code>.yml`) follow the element content rules — canonical 
 is switched on together with zerobias-org/framework#283 — the last violating package,
 `nist/80053/rev4` — so until then violations only warn: read the `[element-rules]` line, a
 green gate is not proof. Expected warnings: `opencre` link aliases with no catalog target
-(CWE, CAPEC, Cheat Sheets, …), kept by decision. No `element-rules-baseline.txt` — fix the
-package instead.
+(CWE, CAPEC, Cheat Sheets, …), kept by decision. There is no exceptions list — a violating
+package is fixed, not recorded.
 
 Gate: the CI `gate.yml` runs on each PR and pushes the refreshed stamps. Versions: the
 publish workflow patch-bumps on `main` — no manual bump.
