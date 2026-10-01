@@ -1,0 +1,26 @@
+id: 9797a1b6-78bc-4423-96fb-b7549d3cc648
+name: Secure Controls Framework 2026.3
+description: SCF Council Secure Controls Framework 2026.3
+externalId: SCF-2026.3
+code: scf_2026_3
+status: approved
+url: https://securecontrolsframework.com/
+version: '2026.3'
+external: true
+internal: true
+elementTypes:
+  - id: cd23d0b4-bf5e-47b4-a9e1-ae6d9bcd36a0
+    code: domain
+    name: Domain
+    description: SCF Security Domain
+  - id: 029b09c6-5fd2-4323-96a0-45bf3d41b9cd
+    code: control
+    name: Control
+    description: SCF Security Control
+  - id: b28fa08c-5a7e-49ad-a185-0d6080706c04
+    code: enhancement
+    name: Enhancement
+    description: SCF Control Enhancement
+mappingTypes:
+  - control
+  - enhancement
