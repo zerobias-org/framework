@@ -76,14 +76,21 @@ not from the generated package directories. Consequences:
 
 ## Upstream column drift
 
-SCF renames and drops workbook columns between releases. Two changes already
-absorbed, both reflected in `types.ts`:
+SCF renames, drops and inserts workbook columns between releases. Changes
+already absorbed:
 
-- maturity columns `SP-CMM n` → `C|P-CMM n`
+- maturity columns `SP-CMM n` → `C|P-CMM n` → `SCR-CMM Level n` — resolved by
+  level number (`resolveCmmColumns`)
 - `Methods To Comply With SCF Controls` removed in 2025.4, replaced by
   per-firm-size `Possible Solutions & Considerations` columns
+- domain principles `(C|P) Principles` → `(SCR) Principles` (2026.2) — resolved
+  by the `Principles` suffix
+- `Legacy SCF #` inserted next to `SCF #` (2026.3) — the old substring fallback
+  let it overwrite the real ID, producing a single `none.yml` element that the
+  gate rejected as a sentinel
 
-`excel-parser.ts` matches headers exactly first, then falls back to substring
-matching, so a renamed column silently yields an empty field rather than an
-error. After any upstream release, diff a generated element against the previous
-version before merging.
+`mapRowToObject` matches headers exactly (whitespace-normalized) first; the
+substring fallback only fills a key that has no exact column, so a new column
+can no longer shadow an existing one. A renamed column still silently yields an
+empty field rather than an error. After any upstream release, diff a generated
+element against the previous version before merging.
