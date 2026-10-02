@@ -1,9 +1,6 @@
 id: 10b879ab-e355-43b3-8270-0c13444bd083
 name: AI Agent Data Pipeline & Input Integrity
-description: |-
-  Mechanisms exist to validate, sanitize and monitor all data inputs and retrieval pipelines for AI agents to:
-  (1) Ensure data provenance; and 
-  (2) Prevent unauthorized access risks (e.g., injection, manipulation or exfiltration).
+description: Requires validating, sanitizing and monitoring AI agent data inputs and retrieval pipelines to ensure data provenance and prevent injection, manipulation or exfiltration risks.
 elementType: enhancement
 externalId: AAT-39.5
 parent: aat-39

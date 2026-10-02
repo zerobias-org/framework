@@ -1,0 +1,1 @@
+Mechanisms exist to notify customers about investigation request notifications, unless the applicable legal basis for a government agency's action prohibits notification (e.g., potential criminal prosecution).

@@ -1,0 +1,1 @@
+Mechanisms exist to ensure developers of Technology Assets, Applications and/or Services (TAAS) who lack the requisite skillset receive suitable training on Secure Software Development Practices (SSDP).

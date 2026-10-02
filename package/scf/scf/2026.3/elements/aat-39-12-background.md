@@ -1,0 +1,1 @@
+Mechanisms exist to detect and mitigate prompt injection / input attacks that seek to manipulate AI agent instructions, bypass security, compliance and/or resilience controls or result in unauthorized actions.

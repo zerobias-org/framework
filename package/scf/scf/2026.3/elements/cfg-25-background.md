@@ -1,0 +1,1 @@
+Mechanisms exist to prevent an individual responsible for operating a control from unilaterally modifying the Control Assurance Automation (CAA) automated collection, transformation, or scoring logic used to evidence that control.

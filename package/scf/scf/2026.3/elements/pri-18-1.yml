@@ -1,10 +1,6 @@
 id: 8ca1ca9b-dd2a-459f-8bb8-9c52099aa290
 name: Disclosure Request Rejections
-description: |-
-  Mechanisms exist to reject disclosure requests that are:
-  (1) Unjustified;
-  (2) Unauthenticated or untrustworthy; and/or
-  (3) Unlawful.
+description: 'Mechanisms exist to reject disclosure requests that are: (1) Unjustified; (2) Unauthenticated or untrustworthy; and/or (3) Unlawful.'
 elementType: enhancement
 externalId: PRI-18.1
 parent: pri-18

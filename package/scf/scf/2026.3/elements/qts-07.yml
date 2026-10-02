@@ -1,9 +1,6 @@
 id: b201df1f-21eb-48e6-8675-5d664651b0ca
 name: Post-Quantum Cryptography (PQC) Discovery & Visibility
-description: |-
-  Mechanisms exist to gain situational awareness into the organization's current cryptographic landscape through a formal discovery process that uses a combination of:
-  (1) Automated tools; and
-  (2) Manual techniques.
+description: Requires a formal cryptographic discovery process, combining automated tools and manual techniques, to gain awareness of the current cryptographic landscape.
 elementType: control
 externalId: QTS-07
 parent: qts

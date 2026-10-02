@@ -1,9 +1,6 @@
 id: 58fc6d1a-8d96-4c88-aa8e-d0f4d94c4bc2
 name: Integrity Assurance & Enforcement (IAE)
-description: |-
-  Automated mechanisms exist to:
-  (1) Identify unauthorized deviations from an approved secure baseline configuration; and
-  (2) Implement automated resiliency actions to remediate the unauthorized change.
+description: Requires automated identification of unauthorized deviations from approved secure baselines and automated resiliency actions to remediate the change.
 elementType: enhancement
 externalId: CFG-08.2
 parent: cfg-08

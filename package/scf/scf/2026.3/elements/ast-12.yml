@@ -1,9 +1,6 @@
 id: 0b357030-b91c-44ec-a3e2-5334e096ba88
 name: Prohibited Technology Assets, Applications and/or Services (TAAS)
-description: |-
-  Mechanisms exist to govern Supply Chain Risk Management (SCRM) sanctions that require the removal and prohibition of certain Technology Assets, Applications and/or Services (TAAS) that are designated as supply chain threats by:
-  (1) A statutory or regulatory body; or
-  (2) An internally performed risk assessment.
+description: Requires removing and prohibiting technology assets designated as supply chain threats by a statutory or regulatory body or an internal risk assessment.
 elementType: control
 externalId: AST-12
 parent: ast

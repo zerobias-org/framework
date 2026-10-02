@@ -1,0 +1,1 @@
+Mechanisms exist to require developers and/or process owners to identify, document and justify the business need for the ports, protocols and other services necessary to operate their technology solutions.

@@ -1,0 +1,1 @@
+Mechanisms exist to back up event logs and security-relevant telemetry onto a physically different system or system component than the Security Incident Event Manager (SIEM) or similar automated tool.

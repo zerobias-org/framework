@@ -1,6 +1,6 @@
 id: e3c03a97-d666-43f6-9c49-398d87b333d1
 name: Third-Party Access Revocation
-description: Mechanisms exist to timely revoke third-party physical and logical access to organizational Technology Assets, Applications, Services and Data (TAASD) upon cessation of third-party services or when such access is no longer required.
+description: Requires timely revocation of third-party physical and logical access when services end or the access is no longer required.
 elementType: enhancement
 externalId: TPM-24.4
 parent: tpm-24

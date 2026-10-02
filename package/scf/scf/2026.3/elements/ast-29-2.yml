@@ -1,6 +1,6 @@
 id: f2efd07a-5d89-404c-9513-74899c12cadb
 name: Logical Tampering Protection
-description: "Mechanisms exist to assess the integrity of critical Technology Assets, Applications and/or Services (TAAS) to detect evidence of tampering, where:\n(1)\tLogical assessments evaluate the integrity of critical components (e.g., configuration settings); and\n(2)\tPhysical assessments evaluate assets for evidence of unauthorized access and/or modifications."
+description: Requires assessing critical assets for tampering evidence through logical checks of configuration integrity and physical checks for unauthorized access or modification.
 elementType: enhancement
 externalId: AST-29.2
 parent: ast-29

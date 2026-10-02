@@ -1,0 +1,1 @@
+Mechanisms exist to establish control objectives as the basis for the design, selection, implementation and management of the organization's internal security, compliance and resilience control system.

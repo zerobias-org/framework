@@ -1,9 +1,6 @@
 id: 7ef57765-e992-40c0-951b-d74d403e13d2
 name: Compliance As Code (CAC) Credential Lifecycle Management
-description: |-
-  Mechanisms exist to rotate, expire and revoke credentials for Control Assurance Automation (CAA) automated identities:
-  (1) On a defined cycle; and
-  (2) Upon personnel, tooling or scope change.
+description: 'Mechanisms exist to rotate, expire and revoke credentials for Control Assurance Automation (CAA) automated identities: (1) On a defined cycle; and (2) Upon personnel, tooling or scope change.'
 elementType: control
 externalId: IAC-52
 parent: iac

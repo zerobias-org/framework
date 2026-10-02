@@ -1,0 +1,1 @@
+Mechanisms exist to ensure applicable knowledge, documentation, configurations, credentials, procedures and operational responsibilities are transferred to authorized personnel, a replacement third-party or internally-managed service prior to the cessation of third-party services.

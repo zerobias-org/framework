@@ -1,6 +1,6 @@
 id: 7da41c09-fd2d-43e8-9df3-66c3496c38b9
 name: Compensating Controls for Quantum-Vulnerable Systems
-description: Mechanisms exist to implement short-term compensating measures for Technology Assets, Applications and Services (TAAS) that cannot be migrated to Post-Quantum Cryptography (PQC) on the planned schedule, (e.g., network segmentation, additional pre-shared-key layers, reduced key lifetimes, out-of-band key transport and data minimization).
+description: Requires short-term compensating measures, such as network segmentation or reduced key lifetimes, for systems that cannot migrate to post-quantum cryptography on schedule.
 elementType: enhancement
 externalId: QTS-04.2
 parent: qts-04

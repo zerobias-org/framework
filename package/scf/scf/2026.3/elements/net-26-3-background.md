@@ -1,0 +1,1 @@
+Automated mechanisms exist to validate the security posture of the endpoint devices (e.g., software versions and patch levels) prior to allowing devices to connect to organizational Technology Assets, Applications and/or Services (TAAS).

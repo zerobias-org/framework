@@ -1,0 +1,1 @@
+Mechanisms exist to generate, or obtain, Bills of Material (BOMs) that identify the components comprising Technology Assets, Applications and/or Services (TAAS), including component versions and supplier information.

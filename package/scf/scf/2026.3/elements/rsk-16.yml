@@ -1,10 +1,6 @@
 id: e765bd58-799e-4c73-ad48-ddf7b6831c54
 name: Risk Response
-description: |-
-  Mechanisms exist to ensure proper risk response actions were performed to remediate findings from security, compliance and/or resilience-related:
-  (1) Assessments;
-  (2) Audits; and/or
-  (3) Incidents.
+description: 'Mechanisms exist to ensure proper risk response actions were performed to remediate findings from security, compliance and/or resilience-related: (1) Assessments; (2) Audits; and/or (3) Incidents.'
 elementType: control
 externalId: RSK-16
 parent: rsk

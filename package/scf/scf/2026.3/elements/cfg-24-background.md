@@ -1,0 +1,1 @@
+Mechanisms exist to detect and alert on changes to Control Assurance Automation (CAA) collection or scoring logic that could alter reported control status without corresponding, authorized change records.
