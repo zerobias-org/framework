@@ -1,11 +1,6 @@
 id: 4748f661-86a7-49ab-bdc8-3d9581232789
 name: Replay-Resistant Multi-Factor Authentication (MFA)
-description: |-
-  Automated mechanisms exist to enforce replay-resistant Multi-Factor Authentication (MFA) through authenticators whose outputs cannot be reused, using:
-  (1) Nonces;
-  (2) One-time challenges;
-  (3) Time-synchronous values; and/or
-  (4) Channel binding.
+description: Requires replay-resistant MFA using authenticators whose outputs cannot be reused, such as nonces, one-time challenges, time-synchronous values or channel binding.
 elementType: enhancement
 externalId: IAC-37.1
 parent: iac-37

@@ -1,0 +1,1 @@
+Automated mechanisms exist to implement Content Disarm and Reconstruction (CDR) to remove active content from files traversing trust boundaries, resulting in reconstructed content containing only known safe elements.

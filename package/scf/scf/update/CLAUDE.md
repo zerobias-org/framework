@@ -17,6 +17,8 @@ via `zerobias.migrates-from` on each generated package.
 | `github-client.ts` | Release discovery, version compare, asset download w/ size validation |
 | `excel-parser.ts` | Workbook → domains + controls (sheet + header-row detection) |
 | `types.ts` | Workbook column-header keys and element/index shapes |
+| `content-rules.ts` | Element content rules at generation time — port of the meta-repo `fix-element-content` scripts |
+| `summaries.json` | `{textHash: description}` — one-line summaries for SCF source texts that break the rules |
 | `cache/` | Downloaded `.xlsx` files — **git-tracked**, and the tool's only version state |
 
 ## Run
@@ -45,6 +47,7 @@ For SCF `<v>`, `package/scf/scf/<v>/`:
 
 - `index.yml` — framework metadata; `elementTypes` = domain / control / enhancement, `mappingTypes` = control + enhancement
 - `elements/<code>.yml` — one file per domain, control and enhancement (`AC-01.1` → `ac-01-1.yml`)
+- `elements/<code>-background.md` — the full SCF text, as markdown, for every element whose description needed a summary
 - `package.json` — npm name `@zerobias-org/framework-scf-scf-<v>`, `zerobias.package` `scf.scf.<v_>.framework` (dots → underscores), suite dep `@zerobias-org/suite-scf-scf`
 - `.npmrc` — copied from the repo root
 - `build.gradle.kts` — `plugins { id("zb.content") }`, so zbb discovers the package
@@ -52,6 +55,36 @@ For SCF `<v>`, `package/scf/scf/<v>/`:
 The npm-name / `zerobias.package` / directory triple is exactly what the gate's
 `contentValidator` triangulates (see root `build.gradle.kts`); changing the
 naming here without changing it there fails the gate.
+
+A `--force` run over a version that already exists keeps every element `id`, and does
+not rewrite `index.yml` or `package.json`: they are published, and new ids orphan the
+rows the dataloader loaded.
+
+## Element content rules
+
+Generated elements follow the meta-repo's `docs/ElementContentRules.md`: `description`
+is one plain line under 200 characters, and the full text goes to `<code>-background.md`.
+SCF control text is long and multi-line, so for about 600 elements per version the
+description comes from `summaries.json`, keyed by `textHash` (sha1 of the
+whitespace-normalized source text). A control whose text is unchanged between releases
+reuses its summary. Text that only needs its line breaks joined is joined without a
+summary.
+
+`content-rules.ts` is a port of the skill's `rules.py` / `heur.py` / `mdconv.py` /
+`fix.py`. It reproduces the hand fix of SCF 2023.3.1–2026.2 (c1e48cf52) byte for byte,
+3634/3634 elements. Keep it in sync with the skill. A drifting `norm` silently misses
+every stored summary.
+
+**New SCF text with no summary fails the run.** The run writes `missing-summaries.json`
+(the skill's worklist format, git-ignored) and writes nothing to the package. The fix:
+
+1. Write the summaries with the skill's `summary-prompt.md` (meta-repo
+   `.claude/skills/fix-element-content/`) and validate them with its `validate.py`.
+2. Merge them into `summaries.json`.
+3. Re-run `npm run update`.
+
+This fails on purpose. The gate only warns until `zb.elementRules=enforce`, so
+otherwise a release with violations ships green, as 2026.3 1.0.0 did.
 
 ## Element shape
 

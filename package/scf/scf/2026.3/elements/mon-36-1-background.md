@@ -1,0 +1,1 @@
+Mechanisms exist to coordinate sanitized event logs and security-relevant telemetry among external organizations to identify anomalous events when that data is shared across organizational boundaries, without giving away sensitive or critical business data.

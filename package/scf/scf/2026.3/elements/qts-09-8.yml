@@ -1,10 +1,6 @@
 id: 01372675-9796-4b8f-9ec8-6109965af072
 name: Algorithm Negotiation Integrity
-description: |-
-  Mechanisms exist to configure Technology Assets, Applications and/or Services (TAAS) to prevent attackers from forcing quantum-vulnerable algorithms through:
-  (1) Integrity-protected algorithm negotiation (e.g., TLS 1.3 handshake transcript);
-  (2) Disallowing negotiation of classical-only cipher suites once Post-Quantum Cryptography (PQC) is deployed; and
-  (3) Monitoring for downgrade attempts.
+description: Requires configuring systems to prevent forced downgrade to quantum-vulnerable algorithms through integrity-protected negotiation and monitoring for downgrade attempts.
 elementType: enhancement
 externalId: QTS-09.8
 parent: qts-09

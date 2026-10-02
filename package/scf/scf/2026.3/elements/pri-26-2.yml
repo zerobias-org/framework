@@ -1,9 +1,6 @@
 id: 8df3c003-4edd-4ff4-b8fb-6dc389d957c2
 name: Alternative Opt-Out Link
-description: |-
-  Mechanisms exist to publish a single, clearly labeled link that allows data subjects to efficiently exercise opt-out rights to:
-  (1) Limit the collection and/or use of Personal Data (PD); and
-  (2) Prohibit the sale or sharing of PD.
+description: Requires a single, clearly labeled opt-out link letting data subjects limit use of their personal data and prohibit its sale or sharing.
 elementType: enhancement
 externalId: PRI-26.2
 parent: pri-26

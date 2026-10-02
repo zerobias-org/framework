@@ -1,9 +1,6 @@
 id: 56c04038-df21-4dd5-b8ce-a0687e9fe31a
 name: Attribute-Based Access Control (ABAC)
-description: |-
-  Automated mechanisms exist to enforce Attribute-Based Access Control (ABAC) through policy-driven, dynamic authorizations to:
-  (1) Enforce usage conditions for users and/or role; and
-  (2) Support the secure sharing of information.
+description: Requires enforcing Attribute-Based Access Control (ABAC) through policy-driven, dynamic authorizations that enforce usage conditions and support secure sharing.
 elementType: control
 externalId: IAC-07
 parent: iac

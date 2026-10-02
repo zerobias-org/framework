@@ -1,0 +1,1 @@
+Mechanisms exist to establish contingency measures to maintain security, compliance, resilience and continuity of operations when a third-party relationship is terminated unexpectedly or the third-party is unable or unwilling to support an orderly transition.

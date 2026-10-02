@@ -1,0 +1,1 @@
+Maintain a tested incident response capability that enables trained responders to identify, analyze, contain, eradicate and recover from incidents according to documented Incident Response Plans (IRPs).

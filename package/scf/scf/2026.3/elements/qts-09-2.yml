@@ -1,10 +1,6 @@
 id: c650092d-8da2-4381-bfbd-6a87ad1e155a
 name: Stateful Hash-Based Signatures for Firmware & Code Signing
-description: |-
-  Mechanisms exist to enforce stateful hash-based signature schemes in accordance with NIST SP 800-208 and require state-management controls necessary to prevent one-time key reuse for:
-  (1) Firmware signing;
-  (2) Secure boot signing; and
-  (3) Other long-lifetime code-signing use cases.
+description: Requires stateful hash-based signature schemes per NIST SP 800-208 with state-management controls to prevent key reuse in firmware and boot signing.
 elementType: enhancement
 externalId: QTS-09.2
 parent: qts-09

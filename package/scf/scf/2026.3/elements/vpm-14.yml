@@ -1,6 +1,6 @@
 id: 3c48e5a9-f80d-4fd8-9980-55439033b975
 name: External Vulnerability Assessment
-description: Mechanisms exist to perform quarterly external vulnerability scans (outside the organization's network looking inward) via a reputable vulnerability service provider, which include rescans until passing results are obtained or all “high” vulnerabilities are resolved, as defined by the Common Vulnerability Scoring System (CVSS).
+description: Requires quarterly external vulnerability scans with rescans until high vulnerabilities are resolved per CVSS scoring.
 elementType: control
 externalId: VPM-14
 parent: vpm

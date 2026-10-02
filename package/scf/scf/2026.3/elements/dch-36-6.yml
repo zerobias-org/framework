@@ -1,10 +1,6 @@
 id: 8ebc6458-0ce8-4304-b524-28a3f79636ac
 name: Differential Privacy
-description: |-
-  Mechanisms exist to implement differential privacy to prevent the disclosure of Personal Data (PD) by adding non-deterministic noise to analysis results using:
-  (1) A defined privacy loss parameter;
-  (2) Noise calibrated to query sensitivity; and
-  (3) Accounting for cumulative privacy loss across queries.
+description: Requires differential privacy that adds calibrated noise to analysis results, using a defined privacy loss parameter and tracking cumulative privacy loss.
 elementType: enhancement
 externalId: DCH-36.6
 parent: dch-36

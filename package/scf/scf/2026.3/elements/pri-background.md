@@ -1,0 +1,1 @@
+Execute risk-based and legally defensible data privacy practices that conform with applicable statutory, regulatory and contractual obligations to protect sensitive Personal Data (sPD) throughout its lifecycle.

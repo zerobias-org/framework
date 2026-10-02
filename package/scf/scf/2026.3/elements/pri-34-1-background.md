@@ -1,0 +1,1 @@
+Mechanisms exist to ensure data brokers that collect Personal Data (PD) from a source other than directly from the data subject adhere to all applicable statutory, regulatory and/or contractual obligations.

@@ -1,6 +1,6 @@
 id: b424c9da-50a3-4131-85eb-fd194364466c
 name: Sender Policy Framework (SPF)
-description: Mechanisms exist to validate the legitimacy of email communications through configuring a Domain Naming Service (DNS) Sender Policy Framework (SPF) record to specify the IP addresses and/or hostnames that are authorized to send email from the specified domain.
+description: Requires configuring a DNS SPF record specifying which IP addresses or hostnames may send email from the domain to validate legitimacy.
 elementType: enhancement
 externalId: NET-39.2
 parent: net-39

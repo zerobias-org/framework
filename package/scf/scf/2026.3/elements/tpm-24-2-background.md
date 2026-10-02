@@ -1,0 +1,1 @@
+Mechanisms exist to ensure applicable Technology Assets, Applications, Services and Data (TAASD) can be securely and reliably transferred, migrated or otherwise made available to a replacement third-party or internally-managed service prior to the cessation of third-party services.

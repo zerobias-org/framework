@@ -1,0 +1,1 @@
+Mechanisms exist to timely revoke third-party physical and logical access to organizational Technology Assets, Applications, Services and Data (TAASD) upon cessation of third-party services or when such access is no longer required.

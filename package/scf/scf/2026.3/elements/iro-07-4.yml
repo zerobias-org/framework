@@ -1,6 +1,6 @@
 id: e1443dae-dd08-475f-bfea-8cc88b866750
 name: Automatic Disabling of Technology Assets, Applications and/or Services (TAAS)
-description: Mechanisms exist to automatically disable Technology Assets, Applications and/or Services (TAAS), upon detection of a possible incident that meets organizational criteria, which allows for forensic analysis to be performed.
+description: Requires automatically disabling technology assets upon detection of a possible incident meeting organizational criteria to allow forensic analysis.
 elementType: enhancement
 externalId: IRO-07.4
 parent: iro-07

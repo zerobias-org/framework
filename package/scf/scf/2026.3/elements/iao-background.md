@@ -1,0 +1,1 @@
+Execute Information Assurance (IA) practices to validate that expected security, compliance and resilience controls are appropriately designed and operating as intended for Technology Assets, Applications and Services (TAAS).

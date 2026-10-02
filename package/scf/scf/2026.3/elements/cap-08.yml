@@ -1,6 +1,6 @@
 id: 8a08363b-fa76-448e-a2f0-5f6575c69f47
 name: Resiliency Planning For Alternate Sites
-description: Mechanisms exist to include resiliency planning in performance and capacity planning to ensure alternate storage and/or processing sites have adequate capacity to run production operations throughout the duration of Business Continuity and Disaster Recovery (BD/DR) operations.
+description: Requires resiliency planning so alternate storage and processing sites have adequate capacity to run production operations throughout BC/DR operations.
 elementType: control
 externalId: CAP-08
 parent: cap

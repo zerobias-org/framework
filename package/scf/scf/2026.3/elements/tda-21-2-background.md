@@ -1,0 +1,1 @@
+Mechanisms exist to generate, or obtain, a Hardware Bill of Materials (HBOM) for Technology Assets, Applications and/or Services (TAAS) that lists hardware components in use, including component identifiers, versions and suppliers.

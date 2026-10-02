@@ -1,11 +1,6 @@
 id: 1c5bd05c-56eb-4c44-9b90-3f934c223c05
 name: Secure Engineering & Architecture Policy
-description: |-
-  Mechanisms exist to establish a formal, documented secure engineering and architecture policy that:
-  (1) Conveys executive management's intent;
-  (2) Provides organizational direction and expected behaviors;
-  (3) Is reviewed at least annually; and
-  (4) Is updated, as necessary, to adapt to evolving risks, threats and other changes that affect the organization.
+description: Requires a formal, documented Secure Engineering and Architecture policy that conveys management intent, is reviewed at least annually and is updated as risks evolve.
 elementType: control
 externalId: SEA-01
 parent: sea

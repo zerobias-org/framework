@@ -1,10 +1,6 @@
 id: f7989dce-4bab-404e-81f1-a1862b96036a
 name: Release Owner Gate (ROG) For AI-Augmented Content
-description: |-
-  Mechanisms exist to implement a Release Owner Gate (ROG), or similar function, that prohibits the external release of AI-augmented content without formal Subject Matter Expert (SME) review and Line of Business (LOB) approval that validates:
-  (1) Material facts;
-  (2) Citations; and
-  (3) Other relevant content that could discredit the organization.
+description: Requires a Release Owner Gate prohibiting external release of AI-augmented content without subject matter expert review and business approval validating facts and citations.
 elementType: control
 externalId: AAT-17
 parent: aat

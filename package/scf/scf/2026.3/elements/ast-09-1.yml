@@ -1,10 +1,6 @@
 id: 4b7943ba-d133-4d9c-8429-a78b95878ac9
 name: Dynamic Host Configuration Protocol (DHCP) Server Logging
-description: |-
-  Mechanisms exist to enable Dynamic Host Configuration Protocol (DHCP) server logging to:
-  (1) Improve asset inventories;
-  (2) Assist in detecting unknown systems; and
-  (3) Provide support during troubleshooting or forensic analysis activities.
+description: Requires enabling DHCP server logging to improve asset inventories, detect unknown systems and support troubleshooting or forensic analysis.
 elementType: enhancement
 externalId: AST-09.1
 parent: ast-09

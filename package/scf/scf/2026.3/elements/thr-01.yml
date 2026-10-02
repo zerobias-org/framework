@@ -1,11 +1,6 @@
 id: 7372fb2c-2383-45d0-9962-c39b0d189a0e
 name: Threat Management Policy
-description: |-
-  Mechanisms exist to establish a formal, documented threat management policy that:
-  (1) Conveys executive management's intent;
-  (2) Provides organizational direction and expected behaviors;
-  (3) Is reviewed at least annually; and
-  (4) Is updated, as necessary, to adapt to evolving risks, threats and other changes that affect the organization.
+description: Requires a formal, documented Threat Management policy that conveys management intent, is reviewed at least annually and is updated as risks evolve.
 elementType: control
 externalId: THR-01
 parent: thr

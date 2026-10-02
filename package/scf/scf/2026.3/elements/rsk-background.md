@@ -1,0 +1,1 @@
+Proactively identify, assess, prioritize and treat risks to align Technology Assets, Applications, Services and Data (TAASD)-related decisions with the organization's defined risk appetite and risk tolerance.

@@ -1,9 +1,6 @@
 id: ccd887c8-f17e-4782-9759-6ec607c5bc2f
 name: Secure Disposal, Destruction or Re-Use of Equipment
-description: |-
-  Mechanisms exist to securely dispose of, destroy or repurpose technology assets using organization-defined techniques and methods to prevent:
-  (1) Data recovery; and
-  (2) Components from being resold, redistributed and/or reused through unauthorized channels.
+description: Requires securely disposing of, destroying or repurposing technology assets to prevent data recovery and unauthorized resale or reuse of components.
 elementType: control
 externalId: AST-22
 parent: ast

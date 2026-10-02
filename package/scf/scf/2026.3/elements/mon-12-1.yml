@@ -1,6 +1,6 @@
 id: 468ee38c-78c1-47e2-9624-9338ca7a381b
 name: Event Log & Security-Relevant Telemetry Backup on Separate Physical Systems / Components
-description: Mechanisms exist to back up event logs and security-relevant telemetry onto a physically different system or system component than the Security Incident Event Manager (SIEM) or similar automated tool.
+description: Requires backing up event logs and security-relevant telemetry onto a physically different system or component than the SIEM or similar tool.
 elementType: enhancement
 externalId: MON-12.1
 parent: mon-12

@@ -1,0 +1,1 @@
+Mechanisms exist to define formal processes to store, process and/or transmit sensitive and/or regulated data using External Service Providers (ESP) owned, operated and/or maintained external Technology Assets, Applications and/or Services (TAAS), in accordance with all applicable statutory, regulatory and/or contractual obligations.

@@ -1,0 +1,1 @@
+Mechanisms exist to bring Control Assurance Automation (CAA) engineering pipelines, tooling and automated collection under the same governance and risk oversight applied to other technology functions.

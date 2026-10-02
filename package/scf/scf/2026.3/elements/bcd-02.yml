@@ -1,9 +1,6 @@
 id: a7a1fb19-6826-48ba-aeee-e09a70e88c34
 name: Business Continuity Management System (BCMS)
-description: |-
-  Mechanisms exist to operate a Business Continuity Management System (BCMS) to achieve resilient Technology Assets, Applications, Services and/or Data (TAASD) during:
-  (1) Routine operations; and
-  (2) Adverse conditions.
+description: Requires operating a Business Continuity Management System (BCMS) to keep technology assets resilient during routine operations and adverse conditions.
 elementType: control
 externalId: BCD-02
 parent: bcd

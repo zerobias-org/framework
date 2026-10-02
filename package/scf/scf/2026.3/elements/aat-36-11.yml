@@ -1,9 +1,6 @@
 id: 28fd6791-0eb0-4892-917a-aa9709b618b7
 name: Anomaly Detection & Human Oversight
-description: |-
-  Mechanisms exist to analyze anomalous Artificial Intelligence (AI) and Autonomous Technologies (AAT) behavior and provide escalation paths for human oversight, including:
-  (1) Real-time review; and
-  (2) Intervention.
+description: Requires analyzing anomalous AI and Autonomous Technologies behavior and providing escalation paths for human oversight, including real-time review and intervention.
 elementType: enhancement
 externalId: AAT-36.11
 parent: aat-36
