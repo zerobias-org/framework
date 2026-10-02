@@ -1,6 +1,6 @@
 id: b210a103-de01-4a2f-8a21-d348c93c78fc
 name: API Gateway
-description: Mechanisms exist to implement an Application Programming Interface (API) Gateway, or similar technology, to serve as a controlled entry point that manages interactions between client-facing requests and backend services.
+description: Requires implementing an API Gateway, or similar technology, as a controlled entry point managing interactions between client-facing requests and backend services.
 elementType: control
 externalId: NET-36
 parent: net

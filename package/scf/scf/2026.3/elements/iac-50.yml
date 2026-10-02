@@ -1,11 +1,6 @@
 id: a0332122-dfb1-457b-bb3d-96f4acc557be
 name: Compliance As Code (CAC) Identity Governance
-description: |-
-  Mechanisms exist to inventory, uniquely identify and assign accountable ownership for Control Assurance Automation (CAA) automated identifies, including:
-  (1) Service accounts;
-  (2) API keys;
-  (3) OAuth grants; and
-  (4) Machine and workload identities.
+description: Requires inventorying, uniquely identifying and assigning owners for CAA automated identities, such as service accounts, API keys, OAuth grants and workload identities.
 elementType: control
 externalId: IAC-50
 parent: iac

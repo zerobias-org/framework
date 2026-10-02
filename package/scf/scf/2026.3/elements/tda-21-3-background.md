@@ -1,0 +1,1 @@
+Mechanisms exist to generate, or obtain, an Indentured Bill of Materials (IBOM) that documents the hierarchical relationship between assemblies, sub-assemblies and components comprising Technology Assets, Applications and/or Services (TAAS).

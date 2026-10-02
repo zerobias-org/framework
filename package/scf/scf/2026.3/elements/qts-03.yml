@@ -1,6 +1,6 @@
 id: 8446291f-95e8-4738-994d-00ba4a9b41ed
 name: Data Shelf-Life Classification for Post-Quantum Cryptography (PQC) Prioritization
-description: Mechanisms exist to classify Technology Assets, Applications, Services and Data (TAASD) by confidentiality shelf-life and use that classification as a direct input to Post-Quantum Cryptography (PQC) migration prioritization, including prioritizing data with a shelf-life exceeding the expected PQC arrival horizon.
+description: Requires classifying assets and data by confidentiality shelf-life to prioritize post-quantum cryptography migration, especially data outlasting the PQC arrival horizon.
 elementType: control
 externalId: QTS-03
 parent: qts

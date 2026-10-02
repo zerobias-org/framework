@@ -1,10 +1,6 @@
 id: 6953f994-f294-499c-9786-8e9db3d1d7ea
 name: High-Risk Technology Assets, Applications and/or Services (TAAS) Categorization
-description: |-
-  Mechanisms exist to categorize Technology Assets, Applications and/or Services (TAAS) as "High Risk" if it poses a significant risk of harm to an individual's:
-  (1) Health;
-  (2) Safety; and/or 
-  (3) Fundamental human rights.
+description: Requires categorizing technology assets as High Risk when they pose significant risk of harm to an individual's health, safety or fundamental human rights.
 elementType: enhancement
 externalId: AST-15.1
 parent: ast-15

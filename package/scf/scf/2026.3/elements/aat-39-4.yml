@@ -1,10 +1,6 @@
 id: 13527df3-fa26-4306-8318-e85f4e25ccf9
 name: AI Agent Orchestration Protocol Safeguards
-description: |-
-  Mechanisms exist to validate, secure and restrict AI agent orchestration protocols to prevent:
-  (1) Unauthorized tool chaining;
-  (2) Context manipulation; and/or
-  (3) Protocol-based escalation.
+description: 'Mechanisms exist to validate, secure and restrict AI agent orchestration protocols to prevent: (1) Unauthorized tool chaining; (2) Context manipulation; and/or (3) Protocol-based escalation.'
 elementType: enhancement
 externalId: AAT-39.4
 parent: aat-39

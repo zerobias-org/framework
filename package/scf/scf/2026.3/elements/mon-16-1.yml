@@ -1,6 +1,6 @@
 id: 7ced0eee-60e5-4486-a63a-2ad07ce67dde
 name: Unusual Transactions
-description: Mechanisms exist to define "normal business activities" to identify anomalous transaction activities that can reduce the opportunity for sending (outbound) and/or receiving (inbound) hostile and/or fraudulent actions.
+description: Requires defining normal business activities to identify anomalous inbound or outbound transactions that may be hostile or fraudulent.
 elementType: enhancement
 externalId: MON-16.1
 parent: mon-16

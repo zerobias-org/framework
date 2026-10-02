@@ -1,6 +1,6 @@
 id: 59b5cd85-40eb-4632-aceb-f7510680213d
 name: Content Disarm and Reconstruction (CDR)
-description: Automated mechanisms exist to implement Content Disarm and Reconstruction (CDR) to remove active content from files traversing trust boundaries, resulting in reconstructed content containing only known safe elements.
+description: Requires Content Disarm and Reconstruction (CDR) to strip active content from files crossing trust boundaries, leaving only known safe elements.
 elementType: enhancement
 externalId: NET-03.11
 parent: net-03

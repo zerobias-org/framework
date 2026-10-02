@@ -1,0 +1,1 @@
+Mechanisms exist to maintain command and control capabilities via alternate communications channels and designating alternative decision makers if primary decision makers are unavailable during a designated crisis situation.

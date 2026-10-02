@@ -1,6 +1,6 @@
 id: 919234ca-63da-48ad-9be4-1f4d56f24f45
 name: Changes by Authorized Individuals
-description: Mechanisms exist to provide privileged users or roles the capability to change the auditing to be performed on specified system components, based on specific event criteria within specified time thresholds.
+description: Requires giving privileged users the capability to change system auditing configurations based on event criteria within specified time thresholds.
 elementType: enhancement
 externalId: MON-29.1
 parent: mon-29

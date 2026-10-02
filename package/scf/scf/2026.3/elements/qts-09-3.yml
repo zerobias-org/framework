@@ -1,9 +1,6 @@
 id: ab9dfe61-ddcc-4580-a739-95e67bd07ee7
 name: Approved Post-Quantum Cryptography (PQC) Algorithm Use
-description: |-
-  Mechanisms exist to define:
-  (1) Approved Post-Quantum Cryptography (PQC) algorithms, including asymmetric and symmetric algorithms; and
-  (2) Required validation levels for approved algorithms (e.g., FIPS 140-3 validated).
+description: Requires defining approved post-quantum cryptography algorithms and the required validation levels, such as FIPS 140-3, for their use.
 elementType: enhancement
 externalId: QTS-09.3
 parent: qts-09

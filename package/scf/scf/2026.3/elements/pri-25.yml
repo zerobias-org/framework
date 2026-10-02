@@ -1,10 +1,6 @@
 id: 1c765e73-744f-4eae-9df0-d25b075374ca
 name: Cookie Management
-description: |-
-  Mechanisms exist to configure cookies to minimize security exposure, including:
-  (1) Restricting cookies to secure, encrypted channels;
-  (2) Preventing client-side script access to session cookies; and
-  (3) Constraining cross-site cookie transmission.
+description: Requires configuring cookies to minimize exposure by restricting them to encrypted channels, blocking script access to session cookies and limiting cross-site sending.
 elementType: control
 externalId: PRI-25
 parent: pri

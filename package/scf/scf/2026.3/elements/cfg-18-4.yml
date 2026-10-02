@@ -1,9 +1,6 @@
 id: c1bda049-2a3e-4410-89a0-e1b56d9863c5
 name: Embedded Sensor Configuration Verification
-description: |-
-  Mechanisms exist to verify embedded sensor configurations so that the delivery of collected data is restricted to authorized:
-  (1) Repositories; and/or
-  (2) Individuals or roles.
+description: 'Mechanisms exist to verify embedded sensor configurations so that the delivery of collected data is restricted to authorized: (1) Repositories; and/or (2) Individuals or roles.'
 elementType: enhancement
 externalId: CFG-18.4
 parent: cfg-18

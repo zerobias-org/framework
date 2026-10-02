@@ -1,0 +1,1 @@
+Govern the organization’s Security, Compliance & Resilience Program (SCRP) through accountable oversight, evidence-based decision-making and defensible evidence that the organization is secure, compliant and resilient.

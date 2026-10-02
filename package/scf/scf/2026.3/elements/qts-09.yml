@@ -1,6 +1,6 @@
 id: 5eccb5a8-a2df-445a-acf2-eb2746f911fb
 name: Crypto-Agility Architecture
-description: Mechanisms exist to validate design-level cryptographic agility across protocols, libraries, kernels and hardware to ensure Technology Assets, Applications and/or Services (TAAS) can support larger Post-Quantum Cryptography (PQC) key, signature and ciphertext sizes.
+description: Requires validating design-level cryptographic agility across protocols, libraries, kernels and hardware to support larger post-quantum key and signature sizes.
 elementType: control
 externalId: QTS-09
 parent: qts

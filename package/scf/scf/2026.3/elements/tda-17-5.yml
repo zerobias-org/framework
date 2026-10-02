@@ -1,6 +1,6 @@
 id: 4ed1f34c-b15d-45b6-81c3-236a9dfdf8df
 name: Manual Code Review
-description: Mechanisms exist to require the developers of Technology Assets, Applications and/or Services (TAAS) to employ a manual code review process to identify and remediate unique flaws that require knowledge of the application's requirements and design.
+description: Requires developers to employ manual code review to find and fix flaws that require knowledge of the application's requirements and design.
 elementType: enhancement
 externalId: TDA-17.5
 parent: tda-17

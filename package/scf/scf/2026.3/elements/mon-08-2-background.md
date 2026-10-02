@@ -1,0 +1,1 @@
+Automated mechanisms exist to correlate information from event log and security-relevant telemetry with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual or malevolent activity.

@@ -1,0 +1,1 @@
+Mechanisms exist to govern the return, transfer, retention and/or secure destruction of organizational Technology Assets, Applications, Services and Data (TAASD) held, managed or processed by third-parties upon cessation of third-party services.

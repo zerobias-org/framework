@@ -1,0 +1,1 @@
+Mechanisms exist to identify and mitigate potential accessibility problems to the alternate processing sites that would impact mitigation and recovery activities, in the event of an area-wide disruption or disaster.

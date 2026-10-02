@@ -1,11 +1,6 @@
 id: 65c192a3-c57b-4cd1-8bcf-ee2cdde96b10
 name: Cloud Security Policy
-description: |-
-  Mechanisms exist to establish a formal, documented cloud security policy that:
-  (1) Conveys executive management's intent;
-  (2) Provides organizational direction and expected behaviors;
-  (3) Is reviewed at least annually; and
-  (4) Is updated, as necessary, to adapt to evolving risks, threats and other changes that affect the organization.
+description: Requires a formal, documented Cloud Security policy that conveys management intent, is reviewed at least annually and is updated as risks evolve.
 elementType: control
 externalId: CLD-01
 parent: cld
