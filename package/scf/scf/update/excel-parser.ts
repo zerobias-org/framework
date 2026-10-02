@@ -204,6 +204,13 @@ export class ExcelParser {
     const headers = rawData[headerRow];
     const domains: SCFDomainData[] = [];
 
+    // The principles column is renamed with each SCF rebrand — "Cybersecurity &
+    // Data Privacy by Design (C|P) Principles" -> "Security, Compliance &
+    // Resilience (SCR) Principles" (2026.2) — which silently emptied every
+    // domain description. Resolve it by its stable suffix instead.
+    const principlesColumn = headers.findIndex((h: any) => /\bPrinciples\s*$/i.test(String(h || '').trim()));
+    if (principlesColumn === -1) logger.warning('Domain principles column not found; domain descriptions will fall back to the domain name');
+
     for (let i = headerRow + 1; i < rawData.length; i++) {
       const row = rawData[i];
       if (!row || row.length === 0) continue;
@@ -218,7 +225,7 @@ export class ExcelParser {
       const domain: SCFDomainData = {
         'SCF Domain': domainObj['SCF Domain'] || '',
         'SCF Identifier': domainObj['SCF Identifier'] || '',
-        'Cybersecurity & Data Privacy by Design (C|P) Principles': domainObj['Cybersecurity & Data Privacy by Design (C|P) Principles'] || '',
+        'Cybersecurity & Data Privacy by Design (C|P) Principles': principlesColumn === -1 ? '' : String(row[principlesColumn] ?? '').trim(),
         'Principle Intent': domainObj['Principle Intent'] || ''
       };
 
@@ -318,24 +325,37 @@ export class ExcelParser {
     return -1;
   }
 
+  // 2026.3 added a "Legacy SCF #" column right of "SCF #". The old substring
+  // fallback let it overwrite the real ID, so every control was emitted under
+  // its legacy number or collapsed into a single "NONE" element. An exact
+  // (whitespace-normalized) header now always wins, and the fuzzy fallback
+  // only fills a key that has no exact column and was not already filled.
   private mapRowToObject(headers: any[], row: any[], template: Record<string, string>): Record<string, string> {
     const result: Record<string, string> = { ...template };
+    const normalize = (s: string) => s.replace(/\s+/g, ' ').trim();
+    const keys = Object.keys(template);
+    const normalizedHeaders = headers.map(h => normalize(String(h || '')));
+    const exactKeys = new Set(keys.filter(k => normalizedHeaders.includes(normalize(k))));
+    const fuzzyFilled = new Set<string>();
 
-    for (let i = 0; i < headers.length && i < row.length; i++) {
-      const header = String(headers[i] || '').trim();
+    for (let i = 0; i < normalizedHeaders.length && i < row.length; i++) {
+      const header = normalizedHeaders[i];
       const value = String(row[i] || '').trim();
+      if (!header || !value) continue;
 
-      if (header && value) {
-        if (result.hasOwnProperty(header)) {
-          result[header] = value;
-        } else {
-          for (const templateKey of Object.keys(template)) {
-            if (header.includes(templateKey) || templateKey.includes(header)) {
-              result[templateKey] = value;
-              break;
-            }
-          }
-        }
+      const exact = keys.find(k => normalize(k) === header);
+      if (exact) {
+        result[exact] = value;
+        continue;
+      }
+
+      const fuzzy = keys.find(k => {
+        const key = normalize(k);
+        return !exactKeys.has(k) && !fuzzyFilled.has(k) && (header.includes(key) || key.includes(header));
+      });
+      if (fuzzy) {
+        result[fuzzy] = value;
+        fuzzyFilled.add(fuzzy);
       }
     }
 
