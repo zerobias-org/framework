@@ -1,10 +1,6 @@
 id: 92961cac-fe11-51fa-b15a-6316b831ae28
 name: Collaborative Computing Devices
-description: |-
-  The information system:
-    a. Prohibits remote activation of collaborative computing devices with the following exceptions: [Assignment: organization-defined exceptions where remote activation is to be allowed]; and
-    b. Provides an explicit indication of use to users physically present at the devices.
+description: Prohibits remote activation of collaborative computing devices except for defined exceptions, and requires an explicit indication of use to users present at the devices.
 elementType: control
 externalId: SC-15
-guidance: Collaborative computing devices include, for example, networked white boards, cameras, and microphones. Explicit indication of use includes, for example, signals to users when collaborative computing devices are activated.
 parent: sc

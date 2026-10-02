@@ -1,9 +1,8 @@
 id: 4d55104e-94c5-5aba-b751-ca5dde155613
 name: Unclassified National Security System Connections
-description: "The organization prohibits the direct connection of an [Assignment: organization-defined unclassified, national security system] to an external network without the use of [Assignment: organization-defined boundary protection device]."
+description: Requires prohibiting direct connection of an unclassified national security system to an external network without a boundary protection device.
 elementType: enhancement
 externalId: CA-3 (1)
-guidance: Organizations typically do not have control over external networks (e.g., the Internet). Approved boundary protection devices (e.g., routers, firewalls) mediate communications (i.e., information flows) between unclassified national security systems and external networks. This control enhancement is required for organizations processing, storing, or transmitting Controlled Unclassified Information (CUI).
 parent: ca-3
 aliases:
   - CA-3 (1)

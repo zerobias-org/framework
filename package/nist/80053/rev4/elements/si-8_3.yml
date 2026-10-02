@@ -3,7 +3,6 @@ name: Continuous Learning Capability
 description: The information system implements spam protection mechanisms with a learning capability to more effectively identify legitimate communications traffic.
 elementType: enhancement
 externalId: SI-8 (3)
-guidance: Learning mechanisms include, for example, Bayesian filters that respond to user inputs identifying specific traffic as spam or legitimate by updating algorithm parameters and thereby more accurately separating types of traffic.
 parent: si-8
 aliases:
   - SI-8 (3)

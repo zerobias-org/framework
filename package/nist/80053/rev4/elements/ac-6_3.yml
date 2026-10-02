@@ -1,9 +1,8 @@
 id: aeea89d0-343e-5d03-8ae5-e8b59d944f4f
 name: Network Access To Privileged Commands
-description: "The organization authorizes network access to [Assignment: organization-defined privileged commands] only for [Assignment: organization-defined compelling operational needs] and documents the rationale for such access in the security plan for the information system."
+description: Requires authorizing network access to privileged commands only for compelling operational needs, with documented rationale.
 elementType: enhancement
 externalId: AC-6 (3)
-guidance: Network access is any access across a network connection in lieu of local access (i.e., user being physically present at the device).
 parent: ac-6
 aliases:
   - AC-6 (3)

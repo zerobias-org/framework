@@ -1,12 +1,8 @@
 id: 0f16ffef-d799-5ed6-a52f-73503938cf40
 name: Access To Output By Authorized Individuals
-description: |-
-  The organization:
-    (a) Controls physical access to output from [Assignment: organization-defined output devices]; and
-    (b) Ensures that only authorized individuals receive output from the device.
+description: Requires controlling physical access to output devices and ensuring that only authorized individuals receive device output.
 elementType: enhancement
 externalId: PE-5 (1)
-guidance: Controlling physical access to selected output devices includes, for example, placing printers, copiers, and facsimile machines in controlled areas with keypad access controls or limiting access to individuals with certain types of badges.
 parent: pe-5
 aliases:
   - PE-5 (1)

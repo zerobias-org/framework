@@ -1,9 +1,8 @@
 id: 991b7c1c-1c91-519d-aea5-2b2c264dec67
 name: Isolation Of Security Tools / Mechanisms / Support Components
-description: "The organization isolates [Assignment: organization-defined information security tools, mechanisms, and support components] from other internal information system components by implementing physically separate subnetworks with managed interfaces to other components of the system."
+description: Requires isolating defined information security tools, mechanisms, and support components on physically separate subnetworks with managed interfaces.
 elementType: enhancement
 externalId: SC-7 (13)
-guidance: Physically separate subnetworks with managed interfaces are useful, for example, in isolating computer network defenses from critical operational processing networks to prevent adversaries from discovering the analysis and forensics techniques of organizations.
 parent: sc-7
 aliases:
   - SC-7 (13)

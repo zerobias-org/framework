@@ -1,0 +1,5 @@
+The organization:
+
+- (a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
+- (b) Monitors privileged role assignments; and
+- (c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate.

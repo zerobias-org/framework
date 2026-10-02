@@ -1,12 +1,8 @@
 id: cd84342e-365a-56df-a137-040e423aa5f6
 name: Use Of Information Assurance Products
-description: |-
-  The organization:
-    (a) Employs only government off-the-shelf (GOTS) or commercial off-the-shelf (COTS) information assurance (IA) and IA-enabled information technology products that compose an NSA-approved solution to protect classified information when the networks used to transmit the information are at a lower classification level than the information being transmitted; and
-    (b) Ensures that these products have been evaluated and/or validated by NSA or in accordance with NSA-approved procedures.
+description: Requires using only NSA-approved GOTS or COTS information assurance products to protect classified information on lower-classification networks, evaluated per NSA procedures.
 elementType: enhancement
 externalId: SA-4 (6)
-guidance: COTS IA or IA-enabled information technology products used to protect classified information by cryptographic means may be required to use NSA-approved key management.
 parent: sa-4
 aliases:
   - SA-4 (6)

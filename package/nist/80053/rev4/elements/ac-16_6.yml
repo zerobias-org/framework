@@ -1,9 +1,8 @@
 id: e7e45d82-0d40-5666-bff8-5bfd3b227270
 name: Maintenance Of Attribute Association By Organization
-description: "The organization allows personnel to associate, and maintain the association of [Assignment: organization-defined security attributes] with [Assignment: organization-defined subjects and objects] in accordance with [Assignment: organization-defined security policies]."
+description: Requires allowing personnel to associate and maintain security attribute associations with subjects and objects per policy.
 elementType: enhancement
 externalId: AC-16 (6)
-guidance: This control enhancement requires individual users (as opposed to the information system) to maintain associations of security attributes with subjects and objects.
 parent: ac-16
 aliases:
   - AC-16 (6)

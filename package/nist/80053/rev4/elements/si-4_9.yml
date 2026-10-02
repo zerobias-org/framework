@@ -3,7 +3,6 @@ name: Testing Of Monitoring Tools
 description: "The organization tests intrusion-monitoring tools [Assignment: organization-defined frequency]."
 elementType: enhancement
 externalId: SI-4 (9)
-guidance: Testing intrusion-monitoring tools is necessary to ensure that the tools are operating correctly and continue to meet the monitoring objectives of organizations. The frequency of testing depends on the types of tools used by organizations and methods of deployment.
 parent: si-4
 aliases:
   - SI-4 (9)

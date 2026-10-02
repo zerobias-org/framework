@@ -1,6 +1,6 @@
 id: 153c2dc8-c2b8-5c4d-a5df-efeba399a96f
 name: Manual Transfer Between Components
-description: "The organization manually initiates transfers between active and standby information system components [Assignment: organization-defined frequency] if the mean time to failure exceeds [Assignment: organization-defined time period]."
+description: Requires manually initiating transfers between active and standby components at a defined frequency if mean time to failure exceeds a defined period.
 elementType: enhancement
 externalId: SI-13 (3)
 parent: si-13

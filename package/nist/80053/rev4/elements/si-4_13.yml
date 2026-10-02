@@ -1,10 +1,6 @@
 id: 31bb0551-f7a2-58a1-b6e6-b71471028637
 name: Analyze Traffic / Event Patterns
-description: |-
-  The organization:
-    (a) Analyzes communications traffic/event patterns for the information system;
-    (b) Develops profiles representing common traffic patterns and/or events; and
-    (c) Uses the traffic/event profiles in tuning system-monitoring devices to reduce the number of false positives and the number of false negatives.
+description: Requires analyzing communications traffic and event patterns, developing profiles of common patterns, and using them to tune monitoring devices and reduce false results.
 elementType: enhancement
 externalId: SI-4 (13)
 parent: si-4

@@ -1,9 +1,6 @@
 id: 4f88cb94-9bdc-50ed-a5ee-4daca03ebb49
 name: Voice Over Internet Protocol
-description: |-
-  The organization:
-    a. Establishes usage restrictions and implementation guidance for Voice over Internet Protocol (VoIP) technologies based on the potential to cause damage to the information system if used maliciously; and
-    b. Authorizes, monitors, and controls the use of VoIP within the information system.
+description: Requires establishing usage restrictions and guidance for VoIP technologies based on risk, and authorizing, monitoring, and controlling their use.
 elementType: control
 externalId: SC-19
 parent: sc

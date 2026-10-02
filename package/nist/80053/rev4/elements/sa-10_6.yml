@@ -1,9 +1,8 @@
 id: f2767ae7-c4e9-51f4-af3d-ab2846c36482
 name: Trusted Distribution
-description: The organization requires the developer of the information system, system component, or information system service to execute procedures for ensuring that security-relevant hardware, software, and firmware updates distributed to the organization are exactly as specified by the master copies.
+description: Requires developers to execute procedures ensuring distributed security-relevant hardware, software, and firmware updates match the master copies exactly.
 elementType: enhancement
 externalId: SA-10 (6)
-guidance: The trusted distribution of security-relevant hardware, software, and firmware updates helps to ensure that such updates are faithful representations of the master copies maintained by the developer and have not been tampered with during distribution.
 parent: sa-10
 aliases:
   - SA-10 (6)

@@ -1,11 +1,6 @@
 id: 1bdcc771-1ff0-5575-a4c4-fa6cecfb1360
 name: Authentication / Separation Of Maintenance Sessions
-description: |-
-  The organization protects nonlocal maintenance sessions by:
-    (a) Employing [Assignment: organization-defined authenticators that are replay resistant]; and
-    (b) Separating the maintenance sessions from other network sessions with the information system by either:
-      (1) Physically separated communications paths; or
-      (2) Logically separated communications paths based upon encryption.
+description: Requires protecting nonlocal maintenance sessions using replay-resistant authenticators and separating them from other network sessions physically or through encryption.
 elementType: enhancement
 externalId: MA-4 (4)
 parent: ma-4

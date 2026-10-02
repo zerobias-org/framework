@@ -1,9 +1,8 @@
 id: 3d80133e-1db1-522d-b72a-2cdc19ad9fb7
 name: Analyze Communications Traffic Anomalies
-description: "The organization analyzes outbound communications traffic at the external boundary of the information system and selected [Assignment: organization-defined interior points within the system (e.g., subnetworks, subsystems)] to discover anomalies."
+description: Requires analyzing outbound communications traffic at the system's external boundary and defined interior points to discover anomalies.
 elementType: enhancement
 externalId: SI-4 (11)
-guidance: Anomalies within organizational information systems include, for example, large file transfers, long-time persistent connections, unusual protocols and ports in use, and attempted communications with suspected malicious external addresses.
 parent: si-4
 aliases:
   - SI-4 (11)

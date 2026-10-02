@@ -1,7 +1,6 @@
 id: eb1f82a1-52cb-5a5d-bb3c-12fa514f0ee7
 name: Authority to Collect
-description: "The organization determines and documents the legal authority that permits the collection, use, maintenance, and sharing of personally identifiable information (PII), either generally or in support of a specific program or information system need"
+description: Requires determining and documenting the legal authority permitting collection, use, maintenance, and sharing of personally identifiable information.
 elementType: control
 externalId: AP-1
-guidance: "Before collecting PII, the organization determines whether the contemplated collection of PII is legally authorized. Program officials consult with the Senior Agency Official for Privacy (SAOP)/Chief Privacy Officer (CPO) and legal counsel regarding the authority of any program or activity to collect PII. The authority to collect PII is documented in the System of Records Notice (SORN) and/or Privacy Impact Assessment (PIA) or other applicable documentation such as Privacy Act Statements or Computer Matching Agreements"
 parent: ap

@@ -1,13 +1,8 @@
 id: 0913612a-1505-502a-ac6f-c51ca0b0e627
 name: Long-term Alternate Power Supply - Self-contained
-description: |-
-  The organization provides a long-term alternate power supply for the information system that is:
-    (a) Self-contained;
-    (b) Not reliant on external power generation; and
-    (c) Capable of maintaining [Selection: minimally required operational capability; full operational capability] in the event of an extended loss of the primary power source.
+description: Requires providing a self-contained, non-externally-reliant long-term alternate power supply capable of maintaining defined operational capability during extended power loss.
 elementType: enhancement
 externalId: PE-11 (2)
-guidance: This control enhancement can be satisfied, for example, by the use of one or more generators with sufficient capacity to meet the needs of the organization. Long-term alternate power supplies for organizational information systems are either manually or automatically activated.
 parent: pe-11
 aliases:
   - PE-11 (2)

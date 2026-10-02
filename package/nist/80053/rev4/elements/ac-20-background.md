@@ -1,0 +1,4 @@
+The organization establishes terms and conditions, consistent with any trust relationships established with other organizations owning, operating, and/or maintaining external information systems, allowing authorized individuals to:
+
+- a. Access the information system from external information systems; and
+- b. Process, store, or transmit organization-controlled information using external information systems.

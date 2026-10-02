@@ -1,6 +1,6 @@
 id: 089b3372-3632-5289-b14e-320c983418ad
 name: Emergency Power
-description: 'The organization provides a short-term uninterruptible power supply to facilitate [Selection (one or more): an orderly shutdown of the information system; transition of the information system to long-term alternate power] in the event of a primary power source loss.'
+description: Requires providing a short-term uninterruptible power supply to enable orderly shutdown or transition to alternate power upon loss of primary power.
 elementType: control
 externalId: PE-11
 parent: pe

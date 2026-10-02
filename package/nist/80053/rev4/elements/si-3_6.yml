@@ -1,9 +1,6 @@
 id: 9786f392-eb4a-58f9-8feb-e74bfdb9c0a6
 name: Testing / Verification
-description: |-
-  The organization:
-    (a) Tests malicious code protection mechanisms [Assignment: organization-defined frequency] by introducing a known benign, non-spreading test case into the information system; and
-    (b) Verifies that both detection of the test case and associated incident reporting occur.
+description: Requires testing malicious code protection mechanisms with a benign, non-spreading test case and verifying detection and incident reporting occur.
 elementType: enhancement
 externalId: SI-3 (6)
 parent: si-3

@@ -3,7 +3,6 @@ name: Remote Disconnect Verification
 description: The information system implements remote disconnect verification at the termination of nonlocal maintenance and diagnostic sessions.
 elementType: enhancement
 externalId: MA-4 (7)
-guidance: Remote disconnect verification ensures that remote connections from nonlocal maintenance sessions have been terminated and are no longer available for use.
 parent: ma-4
 aliases:
   - MA-4 (7)

@@ -1,11 +1,6 @@
 id: 632c365c-d5c5-5b25-aa11-437ba4d024bf
 name: Automated Vulnerability Analysis
-description: |-
-  The organization requires the developer of the information system, system component, or information system service to:
-    (a) Perform an automated vulnerability analysis using [Assignment: organization-defined tools];
-    (b) Determine the exploitation potential for discovered vulnerabilities;
-    (c) Determine potential risk mitigations for delivered vulnerabilities; and
-    (d) Deliver the outputs of the tools and results of the analysis to [Assignment: organization-defined personnel or roles].
+description: Requires developers to run automated vulnerability analysis, determine exploitation potential and mitigations, and deliver results to designated personnel.
 elementType: enhancement
 externalId: SA-15 (7)
 parent: sa-15
