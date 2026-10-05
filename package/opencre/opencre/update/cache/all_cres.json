@@ -2811,24 +2811,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1059.html",
-            "id": "CWE:1059:Insufficient Technical Documentation:https://cwe.mitre.org/data/definitions/1059.html",
-            "name": "CWE",
-            "section": "Insufficient Technical Documentation",
-            "sectionID": "1059",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://owaspsamm.org/model/design/threat-assessment/stream-b",
             "id": "SAMM:D-TA-B:Threat modeling:https://owaspsamm.org/model/design/threat-assessment/stream-b",
             "name": "SAMM",
@@ -2911,96 +2893,6 @@
             ]
           },
           "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1053.html",
-            "id": "CWE:1053:Missing Documentation for Design:https://cwe.mitre.org/data/definitions/1053.html",
-            "name": "CWE",
-            "section": "Missing Documentation for Design",
-            "sectionID": "1053",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1110.html",
-            "id": "CWE:1110:Incomplete Design Documentation:https://cwe.mitre.org/data/definitions/1110.html",
-            "name": "CWE",
-            "section": "Incomplete Design Documentation",
-            "sectionID": "1110",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1111.html",
-            "id": "CWE:1111:Incomplete I/O Documentation:https://cwe.mitre.org/data/definitions/1111.html",
-            "name": "CWE",
-            "section": "Incomplete I/O Documentation",
-            "sectionID": "1111",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1112.html",
-            "id": "CWE:1112:Incomplete Documentation of Program Execution:https://cwe.mitre.org/data/definitions/1112.html",
-            "name": "CWE",
-            "section": "Incomplete Documentation of Program Execution",
-            "sectionID": "1112",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1118.html",
-            "id": "CWE:1118:Insufficient Documentation of Error Handling Techniques:https://cwe.mitre.org/data/definitions/1118.html",
-            "name": "CWE",
-            "section": "Insufficient Documentation of Error Handling Techniques",
-            "sectionID": "1118",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
         },
         {
           "document": {
@@ -13865,24 +13757,6 @@
         },
         {
           "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/16.html",
-            "id": "CWE:16:https://cwe.mitre.org/data/definitions/16.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "16",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
             "description": "Disable Introspection on the GraphQL endpoint.",
             "doctype": "Tool",
             "hyperlink": "https://github.com/zaproxy/zap-extensions/blob/main/addOns/graphql/src/main/java/org/zaproxy/addon/graphql/ExtensionGraphQl.java",
@@ -16725,24 +16599,6 @@
         },
         {
           "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/937.html",
-            "id": "CWE:937:https://cwe.mitre.org/data/definitions/937.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "937",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
             "doctype": "CRE",
             "id": "613-286",
             "name": "Dependency management",
@@ -16938,24 +16794,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1059.html",
-            "id": "CWE:1059:Insufficient Technical Documentation:https://cwe.mitre.org/data/definitions/1059.html",
-            "name": "CWE",
-            "section": "Insufficient Technical Documentation",
-            "sectionID": "1059",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cheatsheetseries.owasp.org/cheatsheets/Abuse_Case_Cheat_Sheet.html",
             "id": "OWASP Cheat Sheets:Abuse Case Cheat Sheet:https://cheatsheetseries.owasp.org/cheatsheets/Abuse_Case_Cheat_Sheet.html",
             "name": "OWASP Cheat Sheets",
@@ -17004,96 +16842,6 @@
             ]
           },
           "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1053.html",
-            "id": "CWE:1053:Missing Documentation for Design:https://cwe.mitre.org/data/definitions/1053.html",
-            "name": "CWE",
-            "section": "Missing Documentation for Design",
-            "sectionID": "1053",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1110.html",
-            "id": "CWE:1110:Incomplete Design Documentation:https://cwe.mitre.org/data/definitions/1110.html",
-            "name": "CWE",
-            "section": "Incomplete Design Documentation",
-            "sectionID": "1110",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1111.html",
-            "id": "CWE:1111:Incomplete I/O Documentation:https://cwe.mitre.org/data/definitions/1111.html",
-            "name": "CWE",
-            "section": "Incomplete I/O Documentation",
-            "sectionID": "1111",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1112.html",
-            "id": "CWE:1112:Incomplete Documentation of Program Execution:https://cwe.mitre.org/data/definitions/1112.html",
-            "name": "CWE",
-            "section": "Incomplete Documentation of Program Execution",
-            "sectionID": "1112",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1118.html",
-            "id": "CWE:1118:Insufficient Documentation of Error Handling Techniques:https://cwe.mitre.org/data/definitions/1118.html",
-            "name": "CWE",
-            "section": "Insufficient Documentation of Error Handling Techniques",
-            "sectionID": "1118",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
         },
         {
           "document": {
@@ -17254,24 +17002,6 @@
               "family:standard",
               "maturity:stable",
               "source:owasp_asvs",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
               "subtype:requirements_standard"
             ]
           },
@@ -17446,24 +17176,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1059.html",
-            "id": "CWE:1059:Insufficient Technical Documentation:https://cwe.mitre.org/data/definitions/1059.html",
-            "name": "CWE",
-            "section": "Insufficient Technical Documentation",
-            "sectionID": "1059",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cheatsheetseries.owasp.org/cheatsheets/Abuse_Case_Cheat_Sheet.html",
             "id": "OWASP Cheat Sheets:Abuse Case Cheat Sheet:https://cheatsheetseries.owasp.org/cheatsheets/Abuse_Case_Cheat_Sheet.html",
             "name": "OWASP Cheat Sheets",
@@ -17495,96 +17207,6 @@
             ]
           },
           "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1053.html",
-            "id": "CWE:1053:Missing Documentation for Design:https://cwe.mitre.org/data/definitions/1053.html",
-            "name": "CWE",
-            "section": "Missing Documentation for Design",
-            "sectionID": "1053",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1110.html",
-            "id": "CWE:1110:Incomplete Design Documentation:https://cwe.mitre.org/data/definitions/1110.html",
-            "name": "CWE",
-            "section": "Incomplete Design Documentation",
-            "sectionID": "1110",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1111.html",
-            "id": "CWE:1111:Incomplete I/O Documentation:https://cwe.mitre.org/data/definitions/1111.html",
-            "name": "CWE",
-            "section": "Incomplete I/O Documentation",
-            "sectionID": "1111",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1112.html",
-            "id": "CWE:1112:Incomplete Documentation of Program Execution:https://cwe.mitre.org/data/definitions/1112.html",
-            "name": "CWE",
-            "section": "Incomplete Documentation of Program Execution",
-            "sectionID": "1112",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1118.html",
-            "id": "CWE:1118:Insufficient Documentation of Error Handling Techniques:https://cwe.mitre.org/data/definitions/1118.html",
-            "name": "CWE",
-            "section": "Insufficient Documentation of Error Handling Techniques",
-            "sectionID": "1118",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
         },
         {
           "document": {
@@ -35566,24 +35188,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/16.html",
-            "id": "CWE:16:https://cwe.mitre.org/data/definitions/16.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "16",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html",
             "id": "OWASP Cheat Sheets:Choosing and Using Security Questions Cheat Sheet:https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html",
             "name": "OWASP Cheat Sheets",
@@ -50501,24 +50105,6 @@
         },
         {
           "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
             "doctype": "CRE",
             "id": "062-850",
             "name": "MFA/OTP",
@@ -62052,24 +61638,6 @@
         },
         {
           "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
             "doctype": "CRE",
             "id": "062-850",
             "name": "MFA/OTP",
@@ -65166,24 +64734,6 @@
               "family:standard",
               "maturity:stable",
               "source:nist_ssdf",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/16.html",
-            "id": "CWE:16:https://cwe.mitre.org/data/definitions/16.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "16",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
               "subtype:requirements_standard"
             ]
           },
@@ -80876,24 +80426,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1042.html",
-            "id": "CWE:1042:Static Member Data Element outside of a Singleton Class Element:https://cwe.mitre.org/data/definitions/1042.html",
-            "name": "CWE",
-            "section": "Static Member Data Element outside of a Singleton Class Element",
-            "sectionID": "1042",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cwe.mitre.org/data/definitions/1046.html",
             "id": "CWE:1046:Creation of Immutable Text Using String Concatenation:https://cwe.mitre.org/data/definitions/1046.html",
             "name": "CWE",
@@ -80948,24 +80480,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1063.html",
-            "id": "CWE:1063:Creation of Class Instance within a Static Code Block:https://cwe.mitre.org/data/definitions/1063.html",
-            "name": "CWE",
-            "section": "Creation of Class Instance within a Static Code Block",
-            "sectionID": "1063",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cwe.mitre.org/data/definitions/1067.html",
             "id": "CWE:1067:Excessive Execution of Sequential Searches of Data Resource:https://cwe.mitre.org/data/definitions/1067.html",
             "name": "CWE",
@@ -80984,83 +80498,11 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1072.html",
-            "id": "CWE:1072:Data Resource Access without Use of Connection Pooling:https://cwe.mitre.org/data/definitions/1072.html",
-            "name": "CWE",
-            "section": "Data Resource Access without Use of Connection Pooling",
-            "sectionID": "1072",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1073.html",
-            "id": "CWE:1073:Non-SQL Invokable Control Element with Excessive Number of Data Resource Accesses:https://cwe.mitre.org/data/definitions/1073.html",
-            "name": "CWE",
-            "section": "Non-SQL Invokable Control Element with Excessive Number of Data Resource Accesses",
-            "sectionID": "1073",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1084.html",
-            "id": "CWE:1084:Invokable Control Element with Excessive File or Data Access Operations:https://cwe.mitre.org/data/definitions/1084.html",
-            "name": "CWE",
-            "section": "Invokable Control Element with Excessive File or Data Access Operations",
-            "sectionID": "1084",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cwe.mitre.org/data/definitions/1089.html",
             "id": "CWE:1089:Large Data Table with Excessive Number of Indices:https://cwe.mitre.org/data/definitions/1089.html",
             "name": "CWE",
             "section": "Large Data Table with Excessive Number of Indices",
             "sectionID": "1089",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1094.html",
-            "id": "CWE:1094:Excessive Index Range Scan for a Data Resource:https://cwe.mitre.org/data/definitions/1094.html",
-            "name": "CWE",
-            "section": "Excessive Index Range Scan for a Data Resource",
-            "sectionID": "1094",
             "tags": [
               "audience:developer",
               "family:taxonomy",
@@ -106573,24 +106015,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1009.html",
-            "id": "CWE:1009:https://cwe.mitre.org/data/definitions/1009.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "1009",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://github.com/OWASP/ASVS/blob/v4.0.3/4.0/en/0x10-V1-Architecture.md#v17-errors-logging-and-auditing-architecture",
             "id": "ASVS:V1.7.1:Verify that a common logging format and approach is used across the system.:https://github.com/OWASP/ASVS/blob/v4.0.3/4.0/en/0x10-V1-Architecture.md#v17-errors-logging-and-auditing-architecture",
             "name": "ASVS",
@@ -113129,24 +112553,6 @@
             "name": "CWE",
             "section": "Improper Validation of Integrity Check Value",
             "sectionID": "354",
-            "tags": [
-              "audience:developer",
-              "family:taxonomy",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:risk_list"
-            ]
-          },
-          "ltype": "Automatically linked to"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/391.html",
-            "id": "CWE:391:Unchecked Error Condition:https://cwe.mitre.org/data/definitions/391.html",
-            "name": "CWE",
-            "section": "Unchecked Error Condition",
-            "sectionID": "391",
             "tags": [
               "audience:developer",
               "family:taxonomy",
@@ -128865,24 +128271,6 @@
         },
         {
           "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/310.html",
-            "id": "CWE:310:https://cwe.mitre.org/data/definitions/310.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "310",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
             "doctype": "CRE",
             "id": "141-555",
             "name": "Fail securely",
@@ -132876,24 +132264,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://github.com/OWASP/ASVS/blob/v4.0.3/4.0/en/0x10-V1-Architecture.md#v16-cryptographic-architecture",
             "id": "ASVS:V1.6.4:Verify that the architecture treats client-side secrets--such as symmetric keys, passwords, or API tokens--as insecure and never uses them to protect or access sensitive data.:https://github.com/OWASP/ASVS/blob/v4.0.3/4.0/en/0x10-V1-Architecture.md#v16-cryptographic-architecture",
             "name": "ASVS",
@@ -134733,24 +134103,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet.html",
             "id": "OWASP Cheat Sheets:Key Management Cheat Sheet:https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet.html",
             "name": "OWASP Cheat Sheets",
@@ -135761,24 +135113,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet.html",
             "id": "OWASP Cheat Sheets:Key Management Cheat Sheet:https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet.html",
             "name": "OWASP Cheat Sheets",
@@ -136317,24 +135651,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet.html",
             "id": "OWASP Cheat Sheets:Key Management Cheat Sheet:https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet.html",
             "name": "OWASP Cheat Sheets",
@@ -136404,24 +135720,6 @@
               "family:standard",
               "maturity:stable",
               "source:owasp_cheat_sheets",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/320.html",
-            "id": "CWE:320:https://cwe.mitre.org/data/definitions/320.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "320",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
               "subtype:requirements_standard"
             ]
           },
@@ -137058,24 +136356,6 @@
               "family:standard",
               "maturity:stable",
               "source:nist_800_63",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/255.html",
-            "id": "CWE:255:https://cwe.mitre.org/data/definitions/255.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "255",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
               "subtype:requirements_standard"
             ]
           },
@@ -142180,24 +141460,6 @@
         {
           "document": {
             "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/16.html",
-            "id": "CWE:16:https://cwe.mitre.org/data/definitions/16.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "16",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
             "hyperlink": "https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/06-Session_Management_Testing/02-Testing_for_Cookies_Attributes.html#host-prefix",
             "id": "OWASP Web Security Testing Guide (WSTG):WSTG-SESS-02:https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/06-Session_Management_Testing/02-Testing_for_Cookies_Attributes.html#host-prefix",
             "name": "OWASP Web Security Testing Guide (WSTG)",
@@ -142599,24 +141861,6 @@
               "family:standard",
               "maturity:stable",
               "source:nist_800_63",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/16.html",
-            "id": "CWE:16:https://cwe.mitre.org/data/definitions/16.html",
-            "name": "CWE",
-            "section": "",
-            "sectionID": "16",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
               "subtype:requirements_standard"
             ]
           },
@@ -151104,24 +150348,6 @@
               "family:standard",
               "maturity:stable",
               "source:owasp_cheat_sheets",
-              "subtype:requirements_standard"
-            ]
-          },
-          "ltype": "Linked To"
-        },
-        {
-          "document": {
-            "doctype": "Standard",
-            "hyperlink": "https://cwe.mitre.org/data/definitions/1110.html",
-            "id": "CWE:1110:Incomplete Design Documentation:https://cwe.mitre.org/data/definitions/1110.html",
-            "name": "CWE",
-            "section": "Incomplete Design Documentation",
-            "sectionID": "1110",
-            "tags": [
-              "audience:developer",
-              "family:standard",
-              "maturity:stable",
-              "source:cwe",
               "subtype:requirements_standard"
             ]
           },
