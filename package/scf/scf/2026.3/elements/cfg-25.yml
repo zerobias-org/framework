@@ -1,6 +1,6 @@
 id: 879a29da-33d5-4eb5-9f56-65fc5f7bdf2d
 name: Control Assurance Automation (CAA) Separation of Duties
-description: Mechanisms exist to prevent an individual responsible for operating a control from unilaterally modifying the Control Assurance Automation (CAA) automated collection, transformation, or scoring logic used to evidence that control.
+description: Requires preventing a control operator from unilaterally modifying the Control Assurance Automation (CAA) logic used to evidence that control.
 elementType: control
 externalId: CFG-25
 parent: cfg

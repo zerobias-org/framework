@@ -1,11 +1,6 @@
 id: a803978e-09be-4027-9297-af59b031b37d
 name: De-Identification (Anonymization)
-description: |-
-  Mechanisms exist to de-identify sensitive and/or regulated data through
-  (1) Anonymization;
-  (2) De-identification;
-  (3) Pseudonymization; and/or
-  (4) Redaction.
+description: Mechanisms exist to de-identify sensitive and/or regulated data through (1) Anonymization; (2) De-identification; (3) Pseudonymization; and/or (4) Redaction.
 elementType: control
 externalId: DCH-36
 parent: dch

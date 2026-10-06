@@ -1,6 +1,6 @@
 id: d4b91ffd-3785-4762-9b86-2bfc488ed447
 name: Periodic Review of Individual & Service Account Privileges
-description: Mechanisms exist to periodically-review the privileges assigned to individuals and service accounts to validate the need for such privileges and reassign or remove unnecessary privileges, as necessary.
+description: Requires periodically reviewing privileges assigned to individuals and service accounts to reassign or remove unnecessary access.
 elementType: control
 externalId: IAC-12
 parent: iac

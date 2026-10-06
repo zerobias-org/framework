@@ -1,0 +1,1 @@
+Mechanisms exist to regularly assess the effectiveness of existing Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related security, compliance and resilience controls, including reports of errors and potential impacts on affected communities.

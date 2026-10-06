@@ -1,11 +1,6 @@
 id: e45b1dd5-10c5-4db7-9391-cfdb0d7328cf
 name: Infrastructure Hardening & Isolation
-description: |-
-  Mechanisms exist to protect, isolate and harden infrastructure resources used by AI agents, including:
-  (1) Resource allocation;
-  (2) Privilege management;
-  (3) Network segmentation; and 
-  (4) Workload isolation.
+description: Requires protecting, isolating and hardening infrastructure used by AI agents through resource allocation, privilege management, network segmentation and workload isolation.
 elementType: enhancement
 externalId: AAT-39.1
 parent: aat-39

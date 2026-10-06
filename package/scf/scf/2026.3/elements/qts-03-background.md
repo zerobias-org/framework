@@ -1,0 +1,1 @@
+Mechanisms exist to classify Technology Assets, Applications, Services and Data (TAASD) by confidentiality shelf-life and use that classification as a direct input to Post-Quantum Cryptography (PQC) migration prioritization, including prioritizing data with a shelf-life exceeding the expected PQC arrival horizon.

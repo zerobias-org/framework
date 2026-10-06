@@ -1,9 +1,6 @@
 id: 3326cd5e-461a-43cc-8a25-082dba6ec689
 name: Embedded Technology Inventory Management
-description: |-
-  Mechanisms exist to augment organizational IT Asset Management (ITAM) processes for Operational Technology (OT) and Internet of Things (IoT) devices with:
-  (1) Passive network monitoring; and
-  (2) Periodic physical inspections.
+description: Requires augmenting IT asset management for OT and IoT devices with passive network monitoring and periodic physical inspections.
 elementType: control
 externalId: EMB-04
 parent: emb

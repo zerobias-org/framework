@@ -1,0 +1,1 @@
+Mechanisms exist to identify and appoint a Chief Privacy Officer (CPO), or equivalent role, with the authority, mission, accountability and resources to coordinate, develop and implement, applicable data privacy requirements and manage data privacy risks through the organization-wide data privacy program.

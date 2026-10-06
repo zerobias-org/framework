@@ -1,10 +1,6 @@
 id: 242880f6-14fd-4a86-b5a1-c39f8d380b8c
 name: Risk Monitoring
-description: |-
-  Mechanisms exist to monitor risk as an integral part of the continuous monitoring strategy, including: 
-  (1) The effectiveness of security, compliance and resilience controls; 
-  (2) Changes to the organization's risk profile; and 
-  (3) Changes to Technology Assets, Applications and/or Services (TAAS) that affect risk.
+description: Requires monitoring risk within continuous monitoring, covering control effectiveness, changes to the risk profile and asset changes that affect risk.
 elementType: control
 externalId: RSK-22
 parent: rsk

@@ -1,10 +1,6 @@
 id: 00682337-4b1d-4dfc-aa0f-eea7f464c12c
 name: Use of Third-Party Devices
-description: |-
-  Mechanisms exist to reduce the risk associated with third-party assets that are connected to the network from:
-  (1) Harming organizational assets;
-  (2) Accessing unauthorized resources within the organization; and/or
-  (3) Exfiltrating organizational data.
+description: Requires reducing the risk of network-connected third-party assets harming organizational assets, accessing unauthorized resources or exfiltrating data.
 elementType: control
 externalId: AST-26
 parent: ast

@@ -1,9 +1,6 @@
 id: ccb99d2b-42ed-4730-8c38-75ed62df94b5
 name: Control Assurance Automation (CAA) Evidence Integrity & Provenance
-description: |-
-  Mechanisms exist to preserve the integrity and chain of custody of logs, telemetry and evidence collected by Control Assurance Automation (CAA) automation, including:
-  (1) Verification of source-to-repository transfer; and
-  (2) Tamper-evident storage.
+description: Requires preserving the integrity and chain of custody of CAA-collected evidence through verified source-to-repository transfer and tamper-evident storage.
 elementType: control
 externalId: CPL-30
 parent: cpl

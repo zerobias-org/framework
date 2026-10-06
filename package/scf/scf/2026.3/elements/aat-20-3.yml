@@ -1,9 +1,6 @@
 id: d2f903e4-aad4-45e9-afdb-3ab3615b4e27
 name: Social Scoring
-description: |-
-  Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that: 
-  (1) Evaluate human subjects over a certain period of time based on their social behavior or known, inferred or predicted personal or personality characteristics; and
-  (2) Assign a "social score" branding or equivalent classification.
+description: Requires prohibiting AI that evaluates people over time on social behavior or personal traits to assign a social score classification.
 elementType: enhancement
 externalId: AAT-20.3
 parent: aat-20

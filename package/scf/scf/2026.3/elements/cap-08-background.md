@@ -1,0 +1,1 @@
+Mechanisms exist to include resiliency planning in performance and capacity planning to ensure alternate storage and/or processing sites have adequate capacity to run production operations throughout the duration of Business Continuity and Disaster Recovery (BD/DR) operations.

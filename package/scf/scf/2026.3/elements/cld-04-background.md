@@ -1,0 +1,1 @@
+Mechanisms exist to ensure in the event cloud services are decommissioned, data is securely transitioned to new systems or archived in accordance with applicable organizational standards, as well as statutory, regulatory and contractual obligations.

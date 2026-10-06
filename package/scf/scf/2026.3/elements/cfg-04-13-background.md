@@ -1,0 +1,1 @@
+Mechanisms exist to securely govern Radio Frequency Identification (RFID) deployments to ensure RFID is used safely and securely to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.

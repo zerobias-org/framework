@@ -1,11 +1,6 @@
 id: 01a8ce98-8346-4836-ac93-ebc05a0c3d66
 name: Comprehensive Asset Inventory Management
-description: |-
-  Mechanisms exist to maintain a dynamically updated inventory of Technology Assets, Applications, Services and/or Data (TAASD) that provides a highly contextualized understanding of every asset that is capable of providing operational visibility required to:
-  (1) Detect anomalies;
-  (2) Manage complex vulnerabilities;
-  (3) Maintain compliance; and
-  (4) Maintain resilient capabilities.
+description: Requires a dynamically updated, highly contextualized asset inventory that supports anomaly detection, vulnerability management, compliance and resilience.
 elementType: control
 externalId: AST-08
 parent: ast

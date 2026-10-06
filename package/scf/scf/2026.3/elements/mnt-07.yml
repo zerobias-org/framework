@@ -1,9 +1,6 @@
 id: 85d470f4-0b4e-4e06-9495-062f640a843c
 name: Maintenance Validation
-description: |-
-  Mechanisms exist to validate:
-  (1) Maintenance activities were appropriately performed according to the work order; and 
-  (2) Applicable security, compliance and resilience controls are operational.
+description: 'Mechanisms exist to validate: (1) Maintenance activities were appropriately performed according to the work order; and (2) Applicable security, compliance and resilience controls are operational.'
 elementType: control
 externalId: MNT-07
 parent: mnt

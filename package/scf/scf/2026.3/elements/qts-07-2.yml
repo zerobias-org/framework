@@ -1,10 +1,6 @@
 id: 003a0ee3-401c-45e0-a8aa-ebf81ccc8464
 name: Post-Quantum Cryptography Exposure
-description: |-
-  Mechanisms exist to maintain a current inventory of Technology Assets, Applications and/or Services (TAAS) with Post-Quantum Cryptography (PQC) exposure, including:
-  (1) Public key algorithms vulnerable to Cryptographically Relevant Quantum Computers (CRQCs);
-  (2) Long-lived keys and certificates (e.g., CA roots and firmware signing keys); and
-  (3) TAAS that cannot easily adopt PQC upgrades (e.g., embedded and RTOS).
+description: Requires a current inventory of assets with post-quantum cryptography exposure, including vulnerable public key algorithms, long-lived keys and hard-to-upgrade assets.
 elementType: enhancement
 externalId: QTS-07.2
 parent: qts-07

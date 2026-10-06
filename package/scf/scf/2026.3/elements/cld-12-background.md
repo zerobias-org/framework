@@ -1,0 +1,1 @@
+Mechanisms exist to specify applicable security, compliance and resilience that must be implemented on external Technology Assets, Applications and/or Services (TAAS), consistent with the contractual obligations established with the External Service Providers (ESP) owning, operating and/or maintaining external TAAS.

@@ -1,6 +1,6 @@
 id: 7a728fb5-986b-4484-a6ad-26e95e3bdeab
 name: AI Agent Prompt Injection Defense
-description: Mechanisms exist to detect and mitigate prompt injection / input attacks that seek to manipulate AI agent instructions, bypass security, compliance and/or resilience controls or result in unauthorized actions.
+description: Requires detecting and mitigating prompt injection attacks that manipulate AI agent instructions, bypass controls, or cause unauthorized actions.
 elementType: enhancement
 externalId: AAT-39.12
 parent: aat-39

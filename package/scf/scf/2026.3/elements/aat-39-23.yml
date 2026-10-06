@@ -1,9 +1,6 @@
 id: 651820db-0ca1-443c-bd91-dd5d98e9cbfd
 name: AI Agent Output Integrity & Verification
-description: |-
-  Mechanisms exist to validate AI agent-generated outputs through the use of:
-  (1) Content scanning; and
-  (2) Output vetting through human review and approvals, where appropriate.
+description: 'Mechanisms exist to validate AI agent-generated outputs through the use of: (1) Content scanning; and (2) Output vetting through human review and approvals, where appropriate.'
 elementType: enhancement
 externalId: AAT-39.23
 parent: aat-39

@@ -1,14 +1,6 @@
 id: b5462af6-864c-41ba-8fdb-4c8cd47c3d07
 name: Data Subject Opt-In Consent
-description: |-
-  Mechanisms exist to obtain consent from data subjects to opt-in for the following Personal Data (PD) actions:
-  (1) Collecting;
-  (2) Receiving; 
-  (3) Processing;
-  (4) Storing;
-  (5) Transmitting;
-  (6) Sharing; and/or
-  (7) Updating.
+description: Requires obtaining opt-in consent from data subjects for collecting, processing, storing, transmitting, sharing or updating their personal data.
 elementType: control
 externalId: PRI-27
 parent: pri

@@ -1,6 +1,6 @@
 id: 071ae890-bfbf-4fe2-a490-c2ac08cd75aa
 name: Remote Maintenance Comparable Security & Sanitization
-description: Mechanisms exist to require Technology Assets, Applications and/or Services (TAAS) performing remote, non-local maintenance and/or diagnostic services implement a security capability comparable to the capability implemented on the system being serviced.
+description: Requires systems performing remote, non-local maintenance or diagnostics to implement security comparable to that of the system being serviced.
 elementType: control
 externalId: MNT-13
 parent: mnt

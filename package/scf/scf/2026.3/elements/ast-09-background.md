@@ -1,0 +1,1 @@
+Automated mechanisms exist to perform asset discovery to identify Technology Assets, Applications and/or Services (TAAS) connected to organizational networks, including assets not present in existing inventories.

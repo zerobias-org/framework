@@ -1,0 +1,1 @@
+Automated mechanisms exist to update endpoint protection-related Technology Assets, Applications and/or Services (TAAS) when new releases are available, in accordance with organization-defined configuration and change management practices.

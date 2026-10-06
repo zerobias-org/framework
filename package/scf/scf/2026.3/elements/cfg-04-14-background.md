@@ -1,0 +1,1 @@
+Mechanisms exist to securely configure contactless access control systems incorporating contactless RFID or smart cards to protect the confidentiality and integrity of data and prevent the compromise of secure spaces.
