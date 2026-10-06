@@ -1,9 +1,8 @@
 id: 4734d07a-e11f-5a84-9d03-8d4fc3d27238
 name: Verification Of Security Functions
-description: The organization, after the information system is changed, checks the security functions to verify that the functions are implemented correctly, operating as intended, and producing the desired outcome with regard to meeting the security requirements for the system.
+description: Requires checking security functions after system changes to verify they operate correctly and meet security requirements.
 elementType: enhancement
 externalId: CM-4 (2)
-guidance: Implementation is this context refers to installing changed code in the operational information system.
 parent: cm-4
 aliases:
   - CM-4 (2)

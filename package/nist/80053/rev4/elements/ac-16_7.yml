@@ -3,7 +3,6 @@ name: Consistent Attribute Interpretation
 description: The organization provides a consistent interpretation of security attributes transmitted between distributed information system components.
 elementType: enhancement
 externalId: AC-16 (7)
-guidance: In order to enforce security policies across multiple components in distributed information systems (e.g., distributed database management systems, cloud-based systems, and service-oriented architectures), organizations provide a consistent interpretation of security attributes that are used in access enforcement and flow enforcement decisions. Organizations establish agreements and processes to ensure that all distributed information system components implement security attributes with consistent interpretations in automated access/flow enforcement actions.
 parent: ac-16
 aliases:
   - AC-16 (7)

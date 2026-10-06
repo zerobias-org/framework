@@ -3,7 +3,6 @@ name: Automated Testing
 description: The organization employs automated mechanisms to more thoroughly and effectively test the incident response capability.
 elementType: enhancement
 externalId: IR-3 (1)
-guidance: "Organizations use automated mechanisms to more thoroughly and effectively test incident response capabilities, for example: (i) by providing more complete coverage of incident response issues; (ii) by selecting more realistic test scenarios and test environments; and (iii) by stressing the response capability."
 parent: ir-3
 aliases:
   - IR-3 (1)

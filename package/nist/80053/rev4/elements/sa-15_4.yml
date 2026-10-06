@@ -1,10 +1,6 @@
 id: 82ba16da-db63-525f-ab79-4b87e4aa5616
 name: Threat Modeling / Vulnerability Analysis
-description: |-
-  The organization requires that developers perform threat modeling and a vulnerability analysis for the information system at [Assignment: organization-defined breadth/depth] that:
-    (a) Uses [Assignment: organization-defined information concerning impact, environment of operations, known or assumed threats, and acceptable risk levels];
-    (b) Employs [Assignment: organization-defined tools and methods]; and
-    (c) Produces evidence that meets [Assignment: organization-defined acceptance criteria].
+description: Requires developers to perform threat modeling and vulnerability analysis using defined risk information and tools, producing evidence meeting acceptance criteria.
 elementType: enhancement
 externalId: SA-15 (4)
 parent: sa-15

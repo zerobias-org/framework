@@ -1,13 +1,8 @@
 id: 54f52394-971a-58b5-82bb-6ae073dc69a3
 name: Classified Information Requiring Special Protection
-description: |-
-  The organization ensures that access to classified information requiring special protection is granted only to individuals who:
-    (a) Have a valid access authorization that is demonstrated by assigned official government duties;
-    (b) Satisfy associated personnel security criteria; and
-    (c) Have read, understood, and signed a nondisclosure agreement.
+description: Requires granting access to specially protected classified information only to individuals with valid authorization, satisfied security criteria, and a signed nondisclosure agreement.
 elementType: enhancement
 externalId: PS-6 (2)
-guidance: Classified information requiring special protection includes, for example, collateral information, Special Access Program (SAP) information, and Sensitive Compartmented Information (SCI). Personnel security criteria reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance.
 parent: ps-6
 aliases:
   - PS-6 (2)

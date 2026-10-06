@@ -1,9 +1,8 @@
 id: a8586e59-2770-557d-b24a-795effd191d1
 name: Decomposition Into Policy-relevant Subcomponents
-description: "The information system, when transferring information between different security domains, decomposes information into [Assignment: organization-defined policy-relevant subcomponents] for submission to policy enforcement mechanisms."
+description: Requires decomposing information into defined policy-relevant subcomponents for submission to policy enforcement mechanisms when transferring between security domains.
 elementType: enhancement
 externalId: AC-4 (13)
-guidance: Policy enforcement mechanisms apply filtering, inspection, and/or sanitization rules to the policy-relevant subcomponents of information to facilitate flow enforcement prior to transferring such information to different security domains. Parsing transfer files facilitates policy decisions on source, destination, certificates, classification, attachments, and other security-related component differentiators.
 parent: ac-4
 aliases:
   - AC-4 (13)

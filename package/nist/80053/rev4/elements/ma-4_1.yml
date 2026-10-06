@@ -1,9 +1,6 @@
 id: 1a97c1aa-0f86-52b3-b1d6-bce43a1dfc88
 name: Auditing and Review
-description: |-
-  The organization:
-    (a) Audits nonlocal maintenance and diagnostic sessions [Assignment: organization-defined audit events]; and
-    (b) Reviews the records of the maintenance and diagnostic sessions.
+description: Requires auditing nonlocal maintenance and diagnostic sessions for defined audit events and reviewing the resulting session records.
 elementType: enhancement
 externalId: MA-4 (1)
 parent: ma-4

@@ -1,9 +1,8 @@
 id: c0d991f8-060d-564e-a752-93c67e7dca4e
 name: External Organizations
-description: "The organization accepts the results of an assessment of [Assignment: organization-defined information system] performed by [Assignment: organization-defined external organization] when the assessment meets [Assignment: organization-defined requirements]."
+description: Requires accepting results of security assessments performed by external organizations when they meet defined requirements.
 elementType: enhancement
 externalId: CA-2 (3)
-guidance: Organizations may often rely on assessments of specific information systems by other (external) organizations. Utilizing such existing assessments (i.e., reusing existing assessment evidence) can significantly decrease the time and resources required for organizational assessments by limiting the amount of independent assessment activities that organizations need to perform. The factors that organizations may consider in determining whether to accept assessment results from external organizations can vary. Determinations for accepting assessment results can be based on, for example, past assessment experiences one organization has had with another organization, the reputation that organizations have with regard to assessments, the level of detail of supporting assessment documentation provided, or mandates imposed upon organizations by federal legislation, policies, or directives.
 parent: ca-2
 aliases:
   - CA-2 (3)

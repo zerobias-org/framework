@@ -1,9 +1,8 @@
 id: a90ee1c2-1dd4-513e-ae9b-bbb22daf920c
 name: Non-privileged Access For Nonsecurity Functions
-description: "The organization requires that users of information system accounts, or roles, with access to [Assignment: organization-defined security functions or security-relevant information], use non-privileged accounts or roles, when accessing nonsecurity functions."
+description: Requires users with access to security functions or security-relevant information to use non-privileged accounts when accessing nonsecurity functions.
 elementType: enhancement
 externalId: AC-6 (2)
-guidance: This control enhancement limits exposure when operating from within privileged accounts or roles. The inclusion of roles addresses situations where organizations implement access control policies such as role-based access control and where a change of role provides the same degree of assurance in the change of access authorizations for both the user and all processes acting on behalf of the user as would be provided by a change between a privileged and non-privileged account.
 parent: ac-6
 aliases:
   - AC-6 (2)

@@ -1,11 +1,6 @@
 id: f8f59bb9-b3a2-57df-b4ef-5e3ac806b092
 name: Contingency Training
-description: |-
-  The organization provides contingency training to information system users consistent with assigned roles and responsibilities:
-    a. Within [Assignment: organization-defined time period] of assuming a contingency role or responsibility;
-    b. When required by information system changes; and
-    c. [Assignment: organization-defined frequency] thereafter.
+description: Requires providing contingency training to system users within a defined time of assuming a contingency role, upon system changes, and periodically thereafter.
 elementType: control
 externalId: CP-3
-guidance: Contingency training provided by organizations is linked to the assigned roles and responsibilities of organizational personnel to ensure that the appropriate content and level of detail is included in such training. For example, regular users may only need to know when and where to report for duty during contingency operations and if normal duties are affected; system administrators may require additional training on how to set up information systems at alternate processing and storage sites; and managers/senior leaders may receive more specific training on how to conduct mission-essential functions in designated off-site locations and how to establish communications with other governmental entities for purposes of coordination on contingency-related activities. Training for contingency roles/responsibilities reflects the specific continuity requirements in the contingency plan.
 parent: cp

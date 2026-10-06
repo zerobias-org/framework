@@ -1,6 +1,6 @@
 id: 09839d6a-b99a-5f47-bca1-33449424b53c
 name: Asymmetric Keys
-description: "The organization produces, controls, and distributes asymmetric cryptographic keys using [Selection: NSA-approved key management technology and processes; approved PKI Class 3 certificates or prepositioned keying material; approved PKI Class 3 or Class 4 certificates and hardware security tokens that protect the user's private key]."
+description: Requires producing, controlling, and distributing asymmetric cryptographic keys using NSA-approved technology or approved PKI certificates and hardware tokens.
 elementType: enhancement
 externalId: SC-12 (3)
 parent: sc-12

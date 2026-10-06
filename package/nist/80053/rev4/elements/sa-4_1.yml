@@ -1,9 +1,8 @@
 id: 517d066c-598b-55dc-a20d-e58e7fcae563
 name: Functional Properties Of Security Controls
-description: The organization requires the developer of the information system, system component, or information system service to provide a description of the functional properties of the security controls to be employed.
+description: Requires developers to describe the functional properties of the security controls employed.
 elementType: enhancement
 externalId: SA-4 (1)
-guidance: Functional properties of security controls describe the functionality (i.e., security capability, functions, or mechanisms) visible at the interfaces of the controls and specifically exclude functionality and data structures internal to the operation of the controls.
 parent: sa-4
 aliases:
   - SA-4 (1)

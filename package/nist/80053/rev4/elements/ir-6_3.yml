@@ -3,7 +3,6 @@ name: Coordination With Supply Chain
 description: The organization provides security incident information to other organizations involved in the supply chain for information systems or information system components related to the incident.
 elementType: enhancement
 externalId: IR-6 (3)
-guidance: Organizations involved in supply chain activities include, for example, system/product developers, integrators, manufacturers, packagers, assemblers, distributors, vendors, and resellers. Supply chain incidents include, for example, compromises/breaches involving information system components, information technology products, development processes or personnel, and distribution processes or warehousing facilities. Organizations determine the appropriate information to share considering the value gained from support by external organizations with the potential for harm due to sensitive information being released to outside organizations of perhaps questionable trustworthiness.
 parent: ir-6
 aliases:
   - IR-6 (3)

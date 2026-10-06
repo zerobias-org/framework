@@ -3,7 +3,6 @@ name: Verify Boot Process
 description: "The information system verifies the integrity of the boot process of [Assignment: organization-defined devices]."
 elementType: enhancement
 externalId: SI-7 (9)
-guidance: Ensuring the integrity of boot processes is critical to starting devices in known/trustworthy states. Integrity verification mechanisms provide organizational personnel with assurance that only trusted code is executed during boot processes.
 parent: si-7
 aliases:
   - SI-7 (9)

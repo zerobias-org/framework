@@ -3,7 +3,6 @@ name: Separate Subnets For Connecting To Different Security Domains
 description: The information system implements separate network addresses (i.e., different subnets) to connect to systems in different security domains.
 elementType: enhancement
 externalId: SC-7 (22)
-guidance: Decomposition of information systems into subnets helps to provide the appropriate level of protection for network connections to different security domains containing information with different security categories or classification levels.
 parent: sc-7
 aliases:
   - SC-7 (22)

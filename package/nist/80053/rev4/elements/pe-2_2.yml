@@ -1,9 +1,8 @@
 id: 0df0eefb-2129-510b-bb6b-3b102e0180c3
 name: Two Forms Of Identification
-description: "The organization requires two forms of identification from [Assignment: organization-defined list of acceptable forms of identification] for visitor access to the facility where the information system resides."
+description: Requires two forms of identification from a defined acceptable list for visitor access to the facility housing the information system.
 elementType: enhancement
 externalId: PE-2 (2)
-guidance: Acceptable forms of government photo identification include, for example, passports, Personal Identity Verification (PIV) cards, and drivers' licenses. In the case of gaining access to facilities using automated mechanisms, organizations may use PIV cards, key cards, PINs, and biometrics.
 parent: pe-2
 aliases:
   - PE-2 (2)

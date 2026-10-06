@@ -3,7 +3,6 @@ name: Disable Sender Feedback On Protocol Validation Failure
 description: The information system disables feedback to senders on protocol format validation failure.
 elementType: enhancement
 externalId: SC-7 (23)
-guidance: Disabling feedback to senders when there is a failure in protocol validation format prevents adversaries from obtaining information which would otherwise be unavailable.
 parent: sc-7
 aliases:
   - SC-7 (23)

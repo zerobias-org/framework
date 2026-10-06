@@ -1,7 +1,6 @@
 id: e9bf5cda-5211-5b68-b85f-3f38fb307651
 name: Wireless Link Protection
-description: 'The information system protects external and internal [Assignment: organization-defined wireless links] from [Assignment: organization-defined types of signal parameter attacks or references to sources for such attacks].'
+description: Requires protecting external and internal wireless links from defined types of signal parameter attacks.
 elementType: control
 externalId: SC-40
-guidance: This control applies to internal and external wireless communication links that may be visible to individuals who are not authorized information system users. Adversaries can exploit the signal parameters of wireless links if such links are not adequately protected. There are many ways to exploit the signal parameters of wireless links to gain intelligence, deny service, or to spoof users of organizational information systems. This control reduces the impact of attacks that are unique to wireless systems. If organizations rely on commercial service providers for transmission services as commodity items rather than as fully dedicated services, it may not be possible to implement this control.
 parent: sc
