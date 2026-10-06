@@ -1,7 +1,7 @@
 {
   "version": "2.1.0-uat.0",
-  "branch": "fix/stub-restricted-source-text",
-  "sourceHash": "361cb6ead104a4a84e30b8001d51d4fa05107bf8d4b0ff4b890474d5ba624482",
+  "branch": "fix/scf-strm-missing-elements",
+  "sourceHash": "23637563abafc30927da11cbcfcb8ba45edbd3d131c416be4aca385b13b3566d",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",

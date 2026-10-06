@@ -1,0 +1,1 @@
+Require any administrative or superuser actions to be performed from a physical workstation which is dedicated to those specific tasks and isolated from all other functions and networks, and especially from any form of internet access

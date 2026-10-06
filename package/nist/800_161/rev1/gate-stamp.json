@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "branch": "task/task-14-c-dcwf-161",
-  "sourceHash": "8ee0597944752e84678f63e6af6701581a45197125bce23f05fd027af8b4bb7d",
+  "version": "2.0.1-uat.0",
+  "branch": "fix/scf-strm-missing-elements",
+  "sourceHash": "f127ab63269f90bcd6917357450b2576b780c5d523b1575a3d3f7812e89763ae",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
