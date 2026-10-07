@@ -1,0 +1,1 @@
+the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council (2) in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.

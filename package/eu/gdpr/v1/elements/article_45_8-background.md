@@ -1,0 +1,5 @@
+The Commission shall publish in the
+
+Official Journal of the European Union
+
+and on its website a list of the third countries, territories and specified sectors within a third country and international organisations for which it has decided that an adequate level of protection is or is no longer ensured.
