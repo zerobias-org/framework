@@ -4,7 +4,7 @@ externalId: EU GDPR V1
 description: General Data Protection Regulation (GDPR)
 code: eu_gdpr_v1_scf
 status: approved
-url: http://ec.europa.eu/justice/data-protection/reform/index_en.htm
+url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
 version: v1
 external: true
 internal: false
@@ -13,5 +13,13 @@ elementTypes:
     code: control
     name: Control
     description: Control
+  - id: 4efad804-fc61-4aaf-a8ee-59ffcea4a165
+    code: chapter
+    name: Chapter
+    description: A chapter of the Regulation
+  - id: abb449ec-eeaa-4a39-95b3-12f07e5d2bbc
+    code: section
+    name: Section
+    description: A section within a chapter of the Regulation
 mappingTypes:
   - control

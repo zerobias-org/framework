@@ -1,5 +1,8 @@
 id: 5f9c0572-9099-479f-92ec-580deec8f8af
-externalId: Article 15.3
 name: Article 15.3
-description: Requires the controller to provide a copy of the personal data undergoing processing, chargeable only for further copies, and in commonly used electronic form when requested electronically.
+description: The controller shall provide a copy of the personal data undergoing processing.
 elementType: control
+externalId: Article 15.3
+parent: article_15
+aliases:
+- '15.3'
