@@ -1,9 +1,8 @@
 id: 422ae565-f6ad-53f3-ba0c-3d9596903abe
 name: Authorized Use
-description: "The organization employs the following measures: [Assignment: organization-defined measures], so that data or information collected by [Assignment: organization-defined sensors] is only used for authorized purposes."
+description: Requires defined measures ensuring that data collected by defined sensors is used only for authorized purposes.
 elementType: enhancement
 externalId: SC-42 (2)
-guidance: Information collected by sensors for a specific authorized purpose potentially could be misused for some unauthorized purpose. For example, GPS sensors that are used to support traffic navigation could be misused to track movements of individuals.  Measures to mitigate such activities include, for example, additional training to ensure that authorized parties do not abuse their authority, or (in the case where sensor data/information is maintained by external parties) contractual restrictions on the use of the data/information.
 parent: sc-42
 aliases:
   - SC-42 (2)

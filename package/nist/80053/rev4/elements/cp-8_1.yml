@@ -1,12 +1,8 @@
 id: 07783b98-2e63-557e-9ede-769ce77a9b59
 name: Priority Of Service Provisions
-description: |-
-  The organization:
-    (a) Develops primary and alternate telecommunications service agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives); and
-    (b) Requests Telecommunications Service Priority for all telecommunications services used for national security emergency preparedness in the event that the primary and/or alternate telecommunications services are provided by a common carrier.
+description: Requires developing telecommunications service agreements with priority-of-service provisions and requesting priority service for national security preparedness.
 elementType: enhancement
 externalId: CP-8 (1)
-guidance: Organizations consider the potential mission/business impact in situations where telecommunications service providers are servicing other organizations with similar priority-of-service provisions.
 parent: cp-8
 aliases:
   - CP-8 (1)

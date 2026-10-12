@@ -1,14 +1,6 @@
 id: 3c1cd35a-637d-59eb-8ac9-f96502d005df
 name: Information System Component Inventory
-description: |-
-  The organization:
-    a. Develops and documents an inventory of information system components that:
-      1. Accurately reflects the current information system;
-      2. Includes all components within the authorization boundary of the information system;
-      3. Is at the level of granularity deemed necessary for tracking and reporting; and
-      4. Includes [Assignment: organization-defined information deemed necessary to achieve effective information system component accountability]; and
-    b. Reviews and updates the information system component inventory [Assignment: organization-defined frequency].
+description: Requires developing, documenting, and periodically updating an accurate inventory of information system components within the authorization boundary.
 elementType: control
 externalId: CM-8
-guidance: Organizations may choose to implement centralized information system component inventories that include components from all organizational information systems. In such situations, organizations ensure that the resulting inventories include system-specific information required for proper component accountability (e.g., information system association, information system owner). Information deemed necessary for effective accountability of information system components includes, for example, hardware inventory specifications, software license information, software version numbers, component owners, and for networked components or devices, machine names and network addresses. Inventory specifications include, for example, manufacturer, device type, model, serial number, and physical location.
 parent: cm

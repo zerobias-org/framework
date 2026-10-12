@@ -1,10 +1,6 @@
 id: 5a85abe1-d1f6-58be-b97c-ec737ad37f91
 name: Component Authenticity
-description: |-
-  The organization:
-    a. Develops and implements anti-counterfeit policy and procedures that include the means to detect and prevent counterfeit components from entering the information system; and
-    b. Reports counterfeit information system components to [Selection (one or more): source of counterfeit component; [Assignment: organization-defined external reporting organizations]; [Assignment: organization-defined personnel or roles]].
+description: Requires anti-counterfeit policy and procedures to detect and prevent counterfeit components from entering the system, and reporting counterfeit components to designated parties.
 elementType: control
 externalId: SA-19
-guidance: Sources of counterfeit components include, for example, manufacturers, developers, vendors, and contractors. Anti-counterfeiting policy and procedures support tamper resistance and provide a level of protection against the introduction of malicious code. External reporting organizations include, for example, US-CERT.
 parent: sa

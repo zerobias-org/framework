@@ -1,9 +1,8 @@
 id: 325b60da-4976-57d8-94df-70001b53f61e
 name: Conceal / Randomize Communications
-description: "The information system implements cryptographic mechanisms to conceal or randomize communication patterns unless otherwise protected by [Assignment: organization-defined alternative physical safeguards]."
+description: Requires cryptographic mechanisms to conceal or randomize communication patterns unless otherwise protected by defined physical safeguards.
 elementType: enhancement
 externalId: SC-8 (4)
-guidance: This control enhancement addresses protection against unauthorized disclosure of information. Communication patterns include, for example, frequency, periods, amount, and predictability. Changes to communications patterns can reveal information having intelligence value especially when combined with other available information related to missions/business functions supported by organizational information systems. This control enhancement prevents the derivation of intelligence based on communications patterns and applies to both internal and external networks or links that may be visible to individuals who are not authorized users. Encrypting the links and transmitting in continuous, fixed/random patterns prevents the derivation of intelligence from the system communications patterns. Alternative physical safeguards include, for example, protected distribution systems.
 parent: sc-8
 aliases:
   - SC-8 (4)

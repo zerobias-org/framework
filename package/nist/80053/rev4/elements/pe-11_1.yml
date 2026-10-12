@@ -1,9 +1,8 @@
 id: 8f9f1993-94c7-50b9-936f-d249daf28695
 name: Long-term Alternate Power Supply - Minimal Operational Capability
-description: The organization provides a long-term alternate power supply for the information system that is capable of maintaining minimally required operational capability in the event of an extended loss of the primary power source.
+description: Requires providing a long-term alternate power supply capable of maintaining minimally required operational capability during an extended primary power loss.
 elementType: enhancement
 externalId: PE-11 (1)
-guidance: This control enhancement can be satisfied, for example, by the use of a secondary commercial power supply or other external power supply. Long-term alternate power supplies for the information system can be either manually or automatically activated.
 parent: pe-11
 aliases:
   - PE-11 (1)

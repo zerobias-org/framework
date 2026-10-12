@@ -3,7 +3,6 @@ name: Prohibit Installation Without Privileged Status
 description: The information system prohibits user installation of software without explicit privileged status.
 elementType: enhancement
 externalId: CM-11 (2)
-guidance: Privileged status can be obtained, for example, by serving in the role of system administrator.
 parent: cm-11
 aliases:
   - CM-11 (2)

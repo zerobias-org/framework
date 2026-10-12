@@ -1,12 +1,8 @@
 id: 0c9b289e-06bc-5a6a-beca-05ed2ce42631
 name: Limits On Authorized Use
-description: |-
-  The organization permits authorized individuals to use an external information system to access the information system or to process, store, or transmit organization-controlled information only when the organization:
-    (a) Verifies the implementation of required security controls on the external system as specified in the organization's information security policy and security plan; or
-    (b) Retains approved information system connection or processing agreements with the organizational entity hosting the external information system.
+description: Requires verifying required security controls on external systems or retaining approved connection agreements before permitting authorized use.
 elementType: enhancement
 externalId: AC-20 (1)
-guidance: This control enhancement recognizes that there are circumstances where individuals using external information systems (e.g., contractors, coalition partners) need to access organizational information systems. In those situations, organizations need confidence that the external information systems contain the necessary security safeguards (i.e., security controls), so as not to compromise, damage, or otherwise harm organizational information systems. Verification that the required security controls have been implemented can be achieved, for example, by third-party, independent assessments, attestations, or other means, depending on the confidence level required by organizations.
 parent: ac-20
 aliases:
   - AC-20 (1)
