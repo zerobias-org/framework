@@ -1,7 +1,6 @@
 id: b430842f-f6b7-5f3a-a610-be0b28187e88
 name: Monitoring For Information Disclosure
-description: 'The organization monitors [Assignment: organization-defined open source information and/or information sites] [Assignment: organization-defined frequency] for evidence of unauthorized disclosure of organizational information.'
+description: Requires monitoring defined open source information sites for evidence of unauthorized disclosure of organizational information.
 elementType: control
 externalId: AU-13
-guidance: Open source information includes, for example, social networking sites.
 parent: au

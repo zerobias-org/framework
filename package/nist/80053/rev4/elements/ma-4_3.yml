@@ -1,12 +1,8 @@
 id: 797eab37-afbb-5b63-90d8-f1999b58d96c
 name: Comparable Security / Sanitization
-description: |-
-  The organization:
-    (a) Requires that nonlocal maintenance and diagnostic services be performed from an information system that implements a security capability comparable to the capability implemented on the system being serviced; or
-    (b) Removes the component to be serviced from the information system prior to nonlocal maintenance or diagnostic services, sanitizes the component (with regard to organizational information) before removal from organizational facilities, and after the service is performed, inspects and sanitizes the component (with regard to potentially malicious software) before reconnecting the component to the information system.
+description: Requires that nonlocal maintenance be performed from a system with comparable security capability, or that serviced components be removed, sanitized, and inspected before reconnection.
 elementType: enhancement
 externalId: MA-4 (3)
-guidance: Comparable security capability on information systems, diagnostic tools, and equipment providing maintenance services implies that the implemented security controls on those systems, tools, and equipment are at least as comprehensive as the controls on the information system being serviced.
 parent: ma-4
 aliases:
   - MA-4 (3)

@@ -1,9 +1,8 @@
 id: 291bbb91-0de2-5f02-8f82-834c05720340
 name: Nonsystem-related Maintenance
-description: The organization ensures that non-escorted personnel performing maintenance activities not directly associated with the information system but in the physical proximity of the system, have required access authorizations.
+description: Requires that non-escorted personnel performing maintenance activities near but not directly on the information system have required access authorizations.
 elementType: enhancement
 externalId: MA-5 (5)
-guidance: Personnel performing maintenance activities in other capacities not directly related to the information system include, for example, physical plant personnel and janitorial personnel.
 parent: ma-5
 aliases:
   - MA-5 (5)

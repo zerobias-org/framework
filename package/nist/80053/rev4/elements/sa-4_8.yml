@@ -1,9 +1,8 @@
 id: 3dc97f94-1e0d-5d4a-bc93-2c4ca0ea39b6
 name: Continuous Monitoring Plan
-description: "The organization requires the developer of the information system, system component, or information system service to produce a plan for the continuous monitoring of security control effectiveness that contains [Assignment: organization-defined level of detail]."
+description: Requires developers to produce a plan for continuous monitoring of security control effectiveness at a defined level of detail.
 elementType: enhancement
 externalId: SA-4 (8)
-guidance: The objective of continuous monitoring plans is to determine if the complete set of planned, required, and deployed security controls within the information system, system component, or information system service continue to be effective over time based on the inevitable changes that occur. Developer continuous monitoring plans include a sufficient level of detail such that the information can be incorporated into the continuous monitoring strategies and programs implemented by organizations.
 parent: sa-4
 aliases:
   - SA-4 (8)

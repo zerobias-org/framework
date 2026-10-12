@@ -1,9 +1,8 @@
 id: 42670506-904c-54fe-9f9a-e73e38b45911
 name: Audit Level Adjustment
-description: The organization adjusts the level of audit review, analysis, and reporting within the information system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.
+description: Requires adjusting the level of audit review, analysis, and reporting when risk changes based on law enforcement, intelligence, or other credible information.
 elementType: enhancement
 externalId: AU-6 (10)
-guidance: The frequency, scope, and/or depth of the audit review, analysis, and reporting may be adjusted to meet organizational needs based on new information received.
 parent: au-6
 aliases:
   - AU-6 (10)

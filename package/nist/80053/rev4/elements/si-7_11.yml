@@ -3,7 +3,6 @@ name: Confined Environments With Limited Privileges
 description: "The organization requires that [Assignment: organization-defined user-installed software] execute in a confined physical or virtual machine environment with limited privileges."
 elementType: enhancement
 externalId: SI-7 (11)
-guidance: Organizations identify software that may be of greater concern with regard to origin or potential for containing malicious code. For this type of software, user installations occur in confined environments of operation to limit or contain damage from malicious code that may be executed.
 parent: si-7
 aliases:
   - SI-7 (11)

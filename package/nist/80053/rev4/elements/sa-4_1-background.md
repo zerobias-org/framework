@@ -1,0 +1,1 @@
+The organization requires the developer of the information system, system component, or information system service to provide a description of the functional properties of the security controls to be employed.

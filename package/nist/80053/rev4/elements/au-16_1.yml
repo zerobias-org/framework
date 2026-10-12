@@ -3,7 +3,6 @@ name: Identity Preservation
 description: The organization requires that the identity of individuals be preserved in cross-organizational audit trails.
 elementType: enhancement
 externalId: AU-16 (1)
-guidance: This control enhancement applies when there is a need to be able to trace actions that are performed across organizational boundaries to a specific individual.
 parent: au-16
 aliases:
   - AU-16 (1)

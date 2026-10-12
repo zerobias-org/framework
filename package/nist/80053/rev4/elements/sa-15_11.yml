@@ -1,9 +1,8 @@
 id: 45580cc7-0ff3-55ee-91e0-0ff4ce5e7330
 name: Archive Information System / Component
-description: The organization requires the developer of the information system or system component to archive the system or component to be released or delivered together with the corresponding evidence supporting the final security review.
+description: Requires developers to archive the released or delivered system or component together with evidence supporting the final security review.
 elementType: enhancement
 externalId: SA-15 (11)
-guidance: Archiving relevant documentation from the development process can provide a readily available baseline of information that can be helpful during information system/component upgrades or modifications.
 parent: sa-15
 aliases:
   - SA-15 (11)

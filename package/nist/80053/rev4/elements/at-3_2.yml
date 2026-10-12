@@ -1,9 +1,8 @@
 id: bb644ff8-ed61-592f-bcd8-bb5596b4cf85
 name: Physical Security Controls
-description: "The organization provides [Assignment: organization-defined personnel or roles] with initial and [Assignment: organization-defined frequency] training in the employment and operation of physical security controls."
+description: Requires providing defined personnel initial and periodic training in employing and operating physical security controls.
 elementType: enhancement
 externalId: AT-3 (2)
-guidance: Physical security controls include, for example, physical access control devices, physical intrusion alarms, monitoring/surveillance equipment, and security guards (deployment and operating procedures). Organizations identify personnel with specific roles and responsibilities associated with physical security controls requiring specialized training.
 parent: at-3
 aliases:
   - AT-3 (2)

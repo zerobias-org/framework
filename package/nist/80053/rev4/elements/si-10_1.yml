@@ -1,10 +1,6 @@
 id: 0e1da34e-fcfd-5406-9915-80e0aaed66f3
 name: Manual Override Capability
-description: |-
-  The information system:
-    (a) Provides a manual override capability for input validation of [Assignment: organization-defined inputs];
-    (b) Restricts the use of the manual override capability to only [Assignment: organization-defined authorized individuals]; and
-    (c) Audits the use of the manual override capability.
+description: Requires a manual override capability for input validation, restricted to authorized individuals, with auditing of its use.
 elementType: enhancement
 externalId: SI-10 (1)
 parent: si-10
