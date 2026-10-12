@@ -1,11 +1,6 @@
 id: 5417ef11-1d6f-5a2d-9126-fc9d0ff4117d
 name: Information Security Resources
-description: |-
-  The organization:
-    a. Ensures that all capital planning and investment requests include the resources needed to implement the information security program and documents all exceptions to this requirement;
-    b. Employs a business case/Exhibit 300/Exhibit 53 to record the resources required; and
-    c. Ensures that information security resources are available for expenditure as planned.
+description: Requires ensuring capital planning requests include information security program resources, documenting exceptions, and ensuring resources are available as planned.
 elementType: control
 externalId: PM-3
-guidance: Organizations consider establishing champions for information security efforts and as part of including the necessary resources, assign specialized expertise and resources as needed. Organizations may designate and empower an Investment Review Board (or similar group) to manage and provide oversight for the information security-related aspects of the capital planning and investment control process.
 parent: pm

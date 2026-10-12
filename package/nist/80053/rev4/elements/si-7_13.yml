@@ -1,9 +1,8 @@
 id: 06efc8c6-f7bb-5fb6-81e0-4846cc3004fd
 name: Code Execution In Protected Environments
-description: "The organization allows execution of binary or machine-executable code obtained from sources with limited or no warranty and without the provision of source code only in confined physical or virtual machine environments and with the explicit approval of [Assignment: organization-defined personnel or roles]."
+description: Allows execution of unwarranted binary or machine-executable code only in confined environments with explicit personnel approval.
 elementType: enhancement
 externalId: SI-7 (13)
-guidance: This control enhancement applies to all sources of binary or machine-executable code including, for example, commercial software/firmware and open source software.
 parent: si-7
 aliases:
   - SI-7 (13)

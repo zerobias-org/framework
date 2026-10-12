@@ -3,7 +3,6 @@ name: Central Management
 description: The organization centrally manages the flaw remediation process.
 elementType: enhancement
 externalId: SI-2 (1)
-guidance: Central management is the organization-wide management and implementation of flaw remediation processes. Central management includes planning, implementing, assessing, authorizing, and monitoring the organization-defined, centrally managed flaw remediation security controls.
 parent: si-2
 aliases:
   - SI-2 (1)

@@ -1,12 +1,8 @@
 id: a24c31f9-edb5-5abb-aae3-87ecc2abcef2
 name: Access To Output By Individual Identity
-description: |-
-  The information system:
-    (a) Controls physical access to output from [Assignment: organization-defined output devices]; and
-    (b) Links individual identity to receipt of the output from the device.
+description: Requires the information system to control physical access to output devices and link individual identity to receipt of device output.
 elementType: enhancement
 externalId: PE-5 (2)
-guidance: Controlling physical access to selected output devices includes, for example, installing security functionality on printers, copiers, and facsimile machines that allows organizations to implement authentication (e.g., using a PIN or hardware token) on output devices prior to the release of output to individuals.
 parent: pe-5
 aliases:
   - PE-5 (2)

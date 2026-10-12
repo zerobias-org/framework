@@ -3,7 +3,6 @@ name: Inbound and Outbound Communications Traffic
 description: "The information system monitors inbound and outbound communications traffic [Assignment: organization-defined frequency] for unusual or unauthorized activities or conditions."
 elementType: enhancement
 externalId: SI-4 (4)
-guidance: Unusual/unauthorized activities or conditions related to information system inbound and outbound communications traffic include, for example, internal traffic that indicates the presence of malicious code within organizational information systems or propagating among system components, the unauthorized exporting of information, or signaling to external information systems. Evidence of malicious code is used to identify potentially compromised information systems or information system components.
 parent: si-4
 aliases:
   - SI-4 (4)

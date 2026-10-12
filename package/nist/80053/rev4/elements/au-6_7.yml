@@ -3,7 +3,6 @@ name: Permitted Actions
 description: "The organization specifies the permitted actions for each [Selection (one or more): information system process; role; user] associated with the review, analysis, and reporting of audit information."
 elementType: enhancement
 externalId: AU-6 (7)
-guidance: Organizations specify permitted actions for information system processes, roles, and/or users associated with the review, analysis, and reporting of audit records through account management techniques. Specifying permitted actions on audit information is a way to enforce the principle of least privilege. Permitted actions are enforced by the information system and include, for example, read, write, execute, append, and delete.
 parent: au-6
 aliases:
   - AU-6 (7)

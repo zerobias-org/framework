@@ -1,9 +1,8 @@
 id: 20e77fbf-f16e-5158-a3b3-8eaced44b584
 name: Ensure Delivery / Transmission
-description: "The organization employs [Assignment: organization-defined security safeguards] to ensure that only [Assignment: organization-defined individuals or information systems] receive the [Assignment: organization-defined information, information system components, or devices]."
+description: Requires safeguards ensuring that only defined individuals or systems receive the defined information, components, or devices.
 elementType: enhancement
 externalId: SC-37 (1)
-guidance: Techniques and/or methods employed by organizations to ensure that only designated information systems or individuals receive particular information, system components, or devices include, for example, sending authenticators via courier service but requiring recipients to show some form of government-issued photographic identification as a condition of receipt.
 parent: sc-37
 aliases:
   - SC-37 (1)

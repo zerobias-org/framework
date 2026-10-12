@@ -1,0 +1,1 @@
+The organization downgrades information system media containing classified information prior to release to individuals without required access authorizations in accordance with NSA standards and policies.
