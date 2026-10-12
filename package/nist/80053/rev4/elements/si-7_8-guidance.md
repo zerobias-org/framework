@@ -1,0 +1,1 @@
+Organizations select response actions based on types of software, specific software, or information for which there are potential integrity violations.

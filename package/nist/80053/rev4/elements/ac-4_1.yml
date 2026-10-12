@@ -1,9 +1,8 @@
 id: ca8443e3-ae56-591b-afb4-d08d398e4f8a
 name: Object Security Attributes
-description: "The information system uses [Assignment: organization-defined security attributes] associated with [Assignment: organization-defined information, source, and destination objects] to enforce [Assignment: organization-defined information flow control policies] as a basis for flow control decisions."
+description: Requires using security attributes of information, source, and destination objects as a basis for information flow control decisions.
 elementType: enhancement
 externalId: AC-4 (1)
-guidance: Information flow enforcement mechanisms compare security attributes associated with information (data content and data structure) and source/destination objects, and respond appropriately (e.g., block, quarantine, alert administrator) when the mechanisms encounter information flows not explicitly allowed by information flow policies. For example, an information object labeled Secret would be allowed to flow to a destination object labeled Secret, but an information object labeled Top Secret would not be allowed to flow to a destination object labeled Secret. Security attributes can also include, for example, source and destination addresses employed in traffic filter firewalls. Flow enforcement using explicit security attributes can be used, for example, to control the release of certain types of information.
 parent: ac-4
 aliases:
   - AC-4 (1)

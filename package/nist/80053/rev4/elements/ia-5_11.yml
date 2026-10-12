@@ -3,7 +3,6 @@ name: Hardware Token-based Authentication
 description: "The information system, for hardware token-based authentication, employs mechanisms that satisfy [Assignment: organization-defined token quality requirements]."
 elementType: enhancement
 externalId: IA-5 (11)
-guidance: Hardware token-based authentication typically refers to the use of PKI-based tokens, such as the U.S. Government Personal Identity Verification (PIV) card. Organizations define specific requirements for tokens, such as working with a particular PKI.
 parent: ia-5
 aliases:
   - IA-5 (11)

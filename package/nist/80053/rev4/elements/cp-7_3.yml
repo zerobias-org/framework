@@ -1,9 +1,8 @@
 id: 836fcc99-36a4-5523-8ea1-e396328a7176
 name: Priority Of Service
-description: The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives).
+description: Requires developing alternate processing site agreements that include priority-of-service provisions consistent with availability requirements.
 elementType: enhancement
 externalId: CP-7 (3)
-guidance: Priority-of-service agreements refer to negotiated agreements with service providers that ensure that organizations receive priority treatment consistent with their availability requirements and the availability of information resources at the alternate processing site.
 parent: cp-7
 aliases:
   - CP-7 (3)

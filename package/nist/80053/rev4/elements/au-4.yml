@@ -3,5 +3,4 @@ name: Audit Storage Capacity
 description: 'The organization allocates audit record storage capacity in accordance with [Assignment: organization-defined audit record storage requirements].'
 elementType: control
 externalId: AU-4
-guidance: Organizations consider the types of auditing to be performed and the audit processing requirements when allocating audit storage capacity. Allocating sufficient audit storage capacity reduces the likelihood of such capacity being exceeded and resulting in the potential loss or reduction of auditing capability.
 parent: au

@@ -1,9 +1,8 @@
 id: c5727e76-bd6f-51ef-a95d-2e8e8823b287
 name: Detection Of Unsanctioned Information
-description: "The information system, when transferring information between different security domains, examines the information for the presence of [Assignment: organized-defined unsanctioned information] and prohibits the transfer of such information in accordance with the [Assignment: organization-defined security policy]."
+description: Requires examining information transferred between security domains for unsanctioned content and prohibiting its transfer per policy.
 elementType: enhancement
 externalId: AC-4 (15)
-guidance: Detection of unsanctioned information includes, for example, checking all information to be transferred for malicious code and dirty words.
 parent: ac-4
 aliases:
   - AC-4 (15)

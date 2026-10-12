@@ -1,12 +1,6 @@
 id: d9f07e23-480e-5f35-a7fe-2341a6a9b44e
 name: Information System Backup
-description: |-
-  The organization:
-    a. Conducts backups of user-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];
-    b. Conducts backups of system-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];
-    c. Conducts backups of information system documentation including security-related documentation [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]; and
-    d. Protects the confidentiality, integrity, and availability of backup information at storage locations.
+description: Requires conducting backups of user-level, system-level, and documentation information at defined frequencies and protecting backup confidentiality, integrity, and availability.
 elementType: control
 externalId: CP-9
-guidance: System-level information includes, for example, system-state information, operating system and application software, and licenses. User-level information includes any information other than system-level information. Mechanisms employed by organizations to protect the integrity of information system backups include, for example, digital signatures and cryptographic hashes. Protection of system backup information while in transit is beyond the scope of this control. Information system backups reflect the requirements in contingency plans as well as other organizational requirements for backing up information.
 parent: cp

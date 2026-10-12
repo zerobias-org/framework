@@ -1,6 +1,6 @@
 id: 5b811153-49a2-5139-a98d-3b5ce38a4de8
 name: Network Access To Non-privileged Accounts - Separate Device
-description: "The information system implements multifactor authentication for network access to non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [Assignment: organization-defined strength of mechanism requirements]."
+description: Requires multifactor authentication for network access to non-privileged accounts with one factor provided by a separate device meeting defined strength requirements.
 elementType: enhancement
 externalId: IA-2 (7)
 parent: ia-2

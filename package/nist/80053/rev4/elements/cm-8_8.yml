@@ -3,7 +3,6 @@ name: Automated Location Tracking
 description: The organization employs automated mechanisms to support tracking of information system components by geographic location.
 elementType: enhancement
 externalId: CM-8 (8)
-guidance: The use of automated mechanisms to track the location of information system components can increase the accuracy of component inventories. Such capability may also help organizations rapidly identify the location and responsible individuals of system components that have been compromised, breached, or are otherwise in need of mitigation actions.
 parent: cm-8
 aliases:
   - CM-8 (8)

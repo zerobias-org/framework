@@ -1,9 +1,8 @@
 id: b0f76e18-6ce9-528e-a21f-8ec3bb0a6bf0
 name: Privileged Access
-description: "The information system implements privileged access authorization to [Assignment: organization-identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities]."
+description: Requires implementing privileged access authorization to system components for selected vulnerability scanning activities.
 elementType: enhancement
 externalId: RA-5 (5)
-guidance: In certain situations, the nature of the vulnerability scanning may be more intrusive or the information system component that is the subject of the scanning may contain highly sensitive information. Privileged access authorization to selected system components facilitates more thorough vulnerability scanning and also protects the sensitive nature of such scanning.
 parent: ra-5
 aliases:
   - RA-5 (5)

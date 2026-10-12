@@ -3,7 +3,6 @@ name: Validate As Genuine and Not Altered
 description: "The organization employs [Assignment: organization-defined security safeguards] to validate that the information system or system component received is genuine and has not been altered."
 elementType: enhancement
 externalId: SA-12 (10)
-guidance: For some information system components, especially hardware, there are technical means to help determine if the components are genuine or have been altered. Security safeguards used to validate the authenticity of information systems and information system components include, for example, optical/nanotechnology tagging and side-channel analysis. For hardware, detailed bill of material information can highlight the elements with embedded logic complete with component and production location.
 parent: sa-12
 aliases:
   - SA-12 (10)

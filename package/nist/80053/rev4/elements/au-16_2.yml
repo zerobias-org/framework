@@ -1,9 +1,8 @@
 id: 3c9dc2a4-b94d-556c-ba28-93d850bb1765
 name: Sharing Of Audit Information
-description: "The organization provides cross-organizational audit information to [Assignment: organization-defined organizations] based on [Assignment: organization-defined cross-organizational sharing agreements]."
+description: Requires providing cross-organizational audit information to defined organizations based on established sharing agreements.
 elementType: enhancement
 externalId: AU-16 (2)
-guidance: Because of the distributed nature of the audit information, cross-organization sharing of audit information may be essential for effective analysis of the auditing being performed. For example, the audit records of one organization may not provide sufficient information to determine the appropriate or inappropriate use of organizational information resources by individuals in other organizations. In some instances, only the home organizations of individuals have the appropriate knowledge to make such determinations, thus requiring the sharing of audit information among organizations.
 parent: au-16
 aliases:
   - AU-16 (2)

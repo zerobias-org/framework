@@ -1,0 +1,4 @@
+The organization:
+
+- a. Establishes and documents usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed; and
+- b. Authorizes remote access to the information system prior to allowing such connections.
