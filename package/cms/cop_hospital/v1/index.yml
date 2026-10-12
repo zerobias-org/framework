@@ -1,0 +1,21 @@
+id: b31b2682-5a60-449b-beb1-6e74a1db2799
+name: CMS Conditions of Participation for Hospitals (42 CFR Part 482)
+externalId: 42 CFR Part 482
+description: CMS Conditions of Participation for Hospitals, 42 CFR Part 482 (eCFR snapshot 2026-08-01)
+code: cms_cop_hospital_v1
+status: approved
+url: https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-482
+version: v1
+external: true
+internal: false
+elementTypes:
+  - id: 4fbe3aaf-3034-4976-9f05-97663b046873
+    code: subpart
+    name: Subpart
+    description: 42 CFR Part 482 subpart
+  - id: 2f2306c1-29bc-465a-ae5a-48607e457472
+    code: condition
+    name: Condition
+    description: Condition of participation / special requirement (section)
+mappingTypes:
+  - condition
