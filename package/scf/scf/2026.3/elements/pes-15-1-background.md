@@ -1,0 +1,1 @@
+Physical access control mechanisms exist to temporarily store undelivered packages or deliveries in a dedicated, secure area (e.g., security cage and secure room) that is locked, access-controlled and monitored with surveillance cameras and/or security guards.

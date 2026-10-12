@@ -1,10 +1,6 @@
 id: 2f2253a9-4076-40e7-be67-d9cd4b526608
 name: AI Agent Resource Limiting
-description: |-
-  Automated mechanisms exist to enforce resource limits for Artificial Intelligence (AI) and Autonomous Technologies (AAT), including:
-  (1) Energy consumption;
-  (2) Processing capacity; and
-  (3) Financial consumption (e.g., allocated budget).
+description: Requires automated enforcement of AI and Autonomous Technologies resource limits, including energy consumption, processing capacity and financial consumption.
 elementType: enhancement
 externalId: AAT-39.24
 parent: aat-39

@@ -1,0 +1,1 @@
+Mechanisms exist to provide real-time and/or layered notice when Personal Data (PD) is collected that provides data subjects with a summary of key points or more detailed information that is specific to the organization's data privacy notice.

@@ -1,0 +1,1 @@
+Enforce a standardized classification methodology to determine data sensitivity and support Technology Assets, Applications and Services (TAAS) criticality decisions, enabling appropriate data handling, protection, retention and disposal requirements.

@@ -1,10 +1,6 @@
 id: b57f9522-5b77-4f2a-8f56-aea4f7186623
 name: Data Fiduciary
-description: |-
-  Mechanisms exist to identify and appoint a Data Fiduciary, or equivalent role, that determines:
-  (1) The purpose(s) for which Personal Data (PD) is necessary;
-  (2) Authorized methods to collect, receive, process, store, transmit, share, update and/or dispose of PD; and
-  (3) Authorized parties with whom PD may be shared.
+description: Requires appointing a Data Fiduciary, or equivalent, to determine the purposes, authorized methods and authorized recipients for personal data.
 elementType: enhancement
 externalId: PRI-03.4
 parent: pri-03

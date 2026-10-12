@@ -1,6 +1,6 @@
 id: 6b773a7c-80e4-4a2b-a321-742214bae563
 name: Periodic Configuration Reviews
-description: Mechanisms exist to periodically review Technology Assets, Applications and/or Services (TAAS) configurations to identify and disable unnecessary and/or non-secure functions, ports, protocols and services.
+description: Requires periodically reviewing technology asset configurations to identify and disable unnecessary or non-secure functions, ports, protocols and services.
 elementType: control
 externalId: CFG-08
 parent: cfg

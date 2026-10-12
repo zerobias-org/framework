@@ -1,0 +1,1 @@
+Mechanisms exist to design Technology Assets, Applications and/or Services (TAAS) so that required capabilities continue to operate in a controlled and acceptable manner, when conditions are both routine and degraded.

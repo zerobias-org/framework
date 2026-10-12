@@ -1,11 +1,6 @@
 id: 5635c160-edfc-43f0-a60a-f92ed1e713d0
 name: Mobile Device Management Policy
-description: |-
-  Mechanisms exist to establish a formal, documented mobile device management policy that:
-  (1) Conveys executive management's intent;
-  (2) Provides organizational direction and expected behaviors;
-  (3) Is reviewed at least annually; and
-  (4) Is updated, as necessary, to adapt to evolving risks, threats and other changes that affect the organization.
+description: Requires a formal, documented Mobile Device Management policy that conveys management intent, is reviewed at least annually and is updated as risks evolve.
 elementType: control
 externalId: MDM-01
 parent: mdm

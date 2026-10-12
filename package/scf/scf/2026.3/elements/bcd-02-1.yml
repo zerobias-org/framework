@@ -1,9 +1,6 @@
 id: 0feb3cbe-fd18-424c-a617-2b57d0f157b8
 name: Defined Operational Resilience Requirements
-description: |-
-  Mechanisms exist to define operational resilience requirements for Technology Assets, Applications, Services and/or Data (TAASD) to operate in a controlled and acceptable manner during:
-  (1) Routine operations; and
-  (2) Adverse conditions.
+description: Requires defining operational resilience requirements so technology assets operate in a controlled, acceptable manner during routine operations and adverse conditions.
 elementType: enhancement
 externalId: BCD-02.1
 parent: bcd-02

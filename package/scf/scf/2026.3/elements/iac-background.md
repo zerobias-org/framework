@@ -1,0 +1,1 @@
+Implement secure, compliant and resilient Identity and Access Management (IAM) capabilities that enforce least privilege across human users, devices, service accounts and other Non-Person Entities (NPEs).

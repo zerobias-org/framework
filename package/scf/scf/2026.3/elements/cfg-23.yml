@@ -1,6 +1,6 @@
 id: 30138c92-71a5-4e0b-be78-49a50a2eb144
 name: Control Assurance Automation (CAA) Change Control
-description: Mechanisms exist to place Control Assurance Automation (CAA) collection code, queries and transformation logic under version control, peer review, testing and change management commensurate with the sensitivity of the Technology Assets, Applications, Services and/or Data (TAASD) accessed.
+description: Requires placing Control Assurance Automation (CAA) code, queries and transformation logic under version control, peer review, testing and change management.
 elementType: control
 externalId: CFG-23
 parent: cfg
