@@ -1,9 +1,6 @@
 id: 359cfc50-36e6-42c0-be2c-ceb093de93b1
 name: Designated Roles To View Error Messages
-description: |-
-  Mechanisms exist to:
-  (1) Define personnel and/or role(s) authorized to receive security-relevant error messages; and
-  (2) Restrict access to error messages to authorized personnel and/or role(s).
+description: Requires defining personnel and roles authorized to receive security-relevant error messages and restricting access to those messages accordingly.
 elementType: enhancement
 externalId: TDA-12.2
 parent: tda-12

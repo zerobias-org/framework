@@ -1,9 +1,6 @@
 id: b08d9cf3-ab9b-483d-b4f6-2863c434e470
 name: AI TEVV Model Collapse Mitigations
-description: |-
-  Mechanisms exist to mitigate concerns of model collapse by:
-  (1) Assessing the proportion of synthetic to non-synthetic training data; and
-  (2) Verifying training data is not overly homogenous or Artificial Intelligence (AI) and Autonomous Technologies (AAT) system-produced.
+description: Requires mitigating model collapse by assessing synthetic-to-real training data ratios and verifying training data is not overly homogenous.
 elementType: enhancement
 externalId: AAT-28.13
 parent: aat-28

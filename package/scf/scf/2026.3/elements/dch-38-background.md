@@ -1,0 +1,1 @@
+Mechanisms exist to use aliases to name assets, which are mission-critical and/or contain highly-sensitive and/or regulated data, are unique and not readily associated with a product, project or type of data.

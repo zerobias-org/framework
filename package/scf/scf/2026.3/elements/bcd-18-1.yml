@@ -1,9 +1,6 @@
 id: fb017b9d-e936-4402-9909-08dbd9cebfa6
 name: Restore Within Time Period
-description: |-
-  Mechanisms exist to restore Technology Assets, Applications, Services and/or Data (TAASD) to a known, operational state for the asset:
-  (1) From configuration-controlled and integrity-protected information; and
-  (2) Within organization-defined restoration time-periods.
+description: Requires restoring technology assets to a known operational state from integrity-protected information within organization-defined restoration time periods.
 elementType: enhancement
 externalId: BCD-18.1
 parent: bcd-18

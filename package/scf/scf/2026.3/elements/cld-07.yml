@@ -1,6 +1,6 @@
 id: 2afe18b1-0266-43a8-9863-8a7c6b3262b1
 name: Multi-Tenant Environments
-description: Mechanisms exist to ensure multi-tenant owned or managed assets (physical and virtual) are designed and governed such that provider and customer (tenant) user access is appropriately segmented from other tenant users.
+description: Requires multi-tenant assets to be designed and governed so provider and customer access is appropriately segmented from other tenants.
 elementType: control
 externalId: CLD-07
 parent: cld

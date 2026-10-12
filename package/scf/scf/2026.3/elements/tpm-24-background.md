@@ -1,0 +1,1 @@
+Mechanisms exist to establish, maintain and execute a documented exit strategy for applicable third-party relationships prior to the cessation of third-party services to support an orderly, secure, compliant and resilient transition to another third-party or to internally-managed services.

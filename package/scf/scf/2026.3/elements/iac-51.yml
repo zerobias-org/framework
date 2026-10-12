@@ -1,9 +1,6 @@
 id: 35fac2fb-66d7-406e-aea3-c294a726391d
 name: Compliance As Code (CAC) Least Privileges
-description: |-
-  Mechanisms exist to restrict Control Assurance Automation (CAA) automated identities to:
-  (1) Provide read-only, least-privilege access; and
-  (2) Prohibit write and/or administrative permissions.
+description: 'Mechanisms exist to restrict Control Assurance Automation (CAA) automated identities to: (1) Provide read-only, least-privilege access; and (2) Prohibit write and/or administrative permissions.'
 elementType: control
 externalId: IAC-51
 parent: iac

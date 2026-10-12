@@ -1,0 +1,1 @@
+Mechanisms exist to facilitate the receipt, validation, fulfillment and documentation of data subject rights requests in accordance with applicable statutory, regulatory and/or contractual obligations.

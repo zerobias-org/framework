@@ -1,0 +1,1 @@
+Mechanisms exist to restrict collecting, receiving, processing, storing, transmitting and/or sharing of photographic and/or video surveillance image collection that can identify individuals to legitimate business needs.

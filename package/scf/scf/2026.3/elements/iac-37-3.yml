@@ -1,6 +1,6 @@
 id: b034414b-2473-420e-943b-df2215635bac
 name: Out-of-Band (OOB) Multi-Factor Authentication (MFA)
-description: Mechanisms exist to implement Out-of-Band (OOB) Multi-Factor Authentication (MFA) for access to privileged and non-privileged accounts such that one of the factors is independently provided by a device separate from the system being accessed.
+description: Requires out-of-band MFA for privileged and non-privileged accounts, with one factor provided by a device separate from the system being accessed.
 elementType: enhancement
 externalId: IAC-37.3
 parent: iac-37

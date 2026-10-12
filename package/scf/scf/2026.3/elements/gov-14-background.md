@@ -1,0 +1,1 @@
+Mechanisms exist to constrain the host government's ability to leverage the organization's Technology Assets, Applications and/or Services (TAAS) for economic or political espionage and/or cyberwarfare activities.

@@ -1,6 +1,6 @@
 id: 03d3ca0d-e001-458d-93db-e11a0ead66d9
 name: Account Lockout
-description: Mechanisms exist to enforce a limit for consecutive invalid login attempts by a user during an organization-defined time period and automatically locks the account when the maximum number of unsuccessful attempts is exceeded.
+description: Requires enforcing a limit on consecutive failed login attempts and automatically locking the account when the limit is exceeded.
 elementType: enhancement
 externalId: CFG-04.1
 parent: cfg-04

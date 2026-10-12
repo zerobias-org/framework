@@ -1,10 +1,6 @@
 id: c6707c18-c851-4a29-aaa3-9d3d1b33864b
 name: Baseline Configuration Reviews & Updates
-description: |-
-  Mechanisms exist to review and update secure baseline configurations:
-  (1) At least annually;
-  (2) When required due to so; or
-  (3) As part of system component installations and upgrades.
+description: Requires reviewing and updating secure baseline configurations at least annually, when required, and as part of system component installations and upgrades.
 elementType: control
 externalId: CFG-07
 parent: cfg

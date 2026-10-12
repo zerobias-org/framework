@@ -1,0 +1,1 @@
+Mechanisms exist to enable a manual override of the current account privileges to enable the timely response to unusual conditions without terminating the current session and establishing a new session as a higher-privileged user.

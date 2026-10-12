@@ -1,0 +1,1 @@
+Mechanisms exist to inventory, document and maintain data flows for data that is resident (permanently or temporarily) within geographically distributed Technology Assets, Applications and/or Services (TAAS) (physical and virtual).

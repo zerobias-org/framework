@@ -1,0 +1,1 @@
+Mechanisms exist to ensure client-specific sensitive and/or regulated data is isolated from other data when client-specific sensitive and/or regulated data is processed or stored within multi-client workspaces.

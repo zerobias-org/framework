@@ -1,0 +1,1 @@
+Establish and enforce secure configuration baselines that implement least privilege and least functionality for Technology Assets, Applications and Services (TAAS) to support a defensible secure configuration posture.

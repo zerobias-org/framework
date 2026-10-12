@@ -6,6 +6,7 @@ import path from 'path';
 
 import { GitHubClient } from './github-client.js';
 import { ExcelParser } from './excel-parser.js';
+import { applyContentRules, MissingSummary, textHash, norm } from './content-rules.js';
 import {
   SCFUpdateConfig,
   SCFVersionInfo,
@@ -174,11 +175,15 @@ class SCFUpdater {
 
     const frameworkId = UUID.generateV4().toString();
     
-    // Create framework index in version directory
-    await this.createFrameworkIndex(scfData, frameworkId, versionDir);
-    
-    // Create package.json for this version
-    await this.createPackageJson(scfData, versionDir);
+    // A regenerated (--force) version is already published: rewriting index.yml would
+    // mint new framework/elementType ids and package.json would reset the version the
+    // publish workflow bumped. Write them only for a new version.
+    if (!fs.existsSync(path.join(versionDir, 'index.yml'))) {
+      await this.createFrameworkIndex(scfData, frameworkId, versionDir);
+    }
+    if (!fs.existsSync(path.join(versionDir, 'package.json'))) {
+      await this.createPackageJson(scfData, versionDir);
+    }
     
     // Copy .npmrc from root
     await this.copyNpmrc(versionDir);
@@ -447,29 +452,62 @@ class SCFUpdater {
     }
   }
 
+  // Element content rules (meta-repo docs/ElementContentRules.md): the source text SCF
+  // ships in a control description is long and multi-line, so it goes to
+  // <code>-background.md and `description` gets a one-line summary from
+  // summaries.json, keyed by the hash of the source text so unchanged controls reuse
+  // theirs across SCF versions. Text with no stored summary fails the run rather than
+  // shipping a violating package: the gate only warns until zb.elementRules=enforce.
   private async saveElementsToFiles(elements: SCFElement[], elementsDir: string): Promise<void> {
-    let savedCount = 0;
-    
+    const summaries: Record<string, string> = JSON.parse(
+      fs.readFileSync(path.join(process.cwd(), 'summaries.json'), 'utf8')
+    );
+    const planned: { code: string; element: SCFElement; background?: string }[] = [];
+    const missing = new Map<string, MissingSummary>();
+
     for (const element of elements) {
-      try {
-        const filename = `${element.externalId.toLowerCase().replace(/\./g, '-')}.yml`;
-        const filepath = path.join(elementsDir, filename);
-        
-        const cleanElement = this.cleanObject(element);
-        const yamlContent = yml.dump(cleanElement, {
-          indent: 2,
-          lineWidth: -1,
-          noRefs: true
-        });
-        
-        fs.writeFileSync(filepath, yamlContent, 'utf8');
-        savedCount++;
-      } catch (error) {
-        logger.error(`Error saving element ${element.externalId}:`, error as Error);
+      const code = element.externalId.toLowerCase().replace(/\./g, '-');
+      const filepath = path.join(elementsDir, `${code}.yml`);
+
+      // Keep the id of an element that is already on disk — a new id orphans the row
+      // the dataloader loaded for it.
+      if (fs.existsSync(filepath)) {
+        const existing = yml.load(fs.readFileSync(filepath, 'utf8')) as { id?: string } | undefined;
+        if (existing?.id) element.id = existing.id;
       }
+
+      const result = applyContentRules(element.description, summaries);
+      if (!result) {
+        const hash = textHash(element.description);
+        missing.set(hash, { code, hash, name: element.name, externalId: element.externalId, text: norm(element.description) });
+        continue;
+      }
+      planned.push({ code, element: { ...element, description: result.description }, background: result.background });
     }
-    
-    logger.info(`Saved ${savedCount} elements to ${elementsDir}`);
+
+    if (missing.size > 0) {
+      const worklist = path.join(process.cwd(), 'missing-summaries.json');
+      fs.writeFileSync(worklist, JSON.stringify([...missing.values()], null, 1) + '\n', 'utf8');
+      throw new Error(
+        `${missing.size} element description(s) have no summary in summaries.json — wrote ${worklist}. ` +
+        'Write summaries with the fix-element-content skill (summary-prompt.md), add them to summaries.json and re-run.'
+      );
+    }
+
+    for (const { code, element, background } of planned) {
+      const yamlContent = yml.dump(this.cleanObject(element), {
+        indent: 2,
+        lineWidth: -1,
+        noRefs: true
+      });
+      fs.writeFileSync(path.join(elementsDir, `${code}.yml`), yamlContent, 'utf8');
+
+      const backgroundPath = path.join(elementsDir, `${code}-background.md`);
+      if (background) fs.writeFileSync(backgroundPath, background, 'utf8');
+      else if (fs.existsSync(backgroundPath)) fs.unlinkSync(backgroundPath);
+    }
+
+    logger.info(`Saved ${planned.length} elements to ${elementsDir} (${planned.filter(p => p.background).length} with background)`);
   }
 
   private cleanupOrphanedElements(processedIds: string[], elementsDir: string): void {
@@ -487,6 +525,8 @@ class SCFUpdater {
         const data = yml.load(fs.readFileSync(filePath, 'utf8')) as any;
         if (data && data.externalId && !processedIds.includes(data.externalId)) {
           fs.unlinkSync(filePath);
+          const backgroundPath = filePath.replace(/\.yml$/, '-background.md');
+          if (fs.existsSync(backgroundPath)) fs.unlinkSync(backgroundPath);
           removedCount++;
         }
       } catch (error) {

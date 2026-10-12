@@ -1,0 +1,1 @@
+Mechanisms exist to identify and address applicable legal, regulatory, contractual, licensing, records retention and other compliance obligations associated with the cessation and transition of third-party services.

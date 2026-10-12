@@ -1,0 +1,1 @@
+Mechanisms exist to provide specialized counterintelligence awareness training that enables personnel to collect, interpret and act upon a range of data sources that may signal the presence of a hostile actor.

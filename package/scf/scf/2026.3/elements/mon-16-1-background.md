@@ -1,0 +1,1 @@
+Mechanisms exist to define "normal business activities" to identify anomalous transaction activities that can reduce the opportunity for sending (outbound) and/or receiving (inbound) hostile and/or fraudulent actions.

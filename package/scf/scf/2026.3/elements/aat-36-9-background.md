@@ -1,0 +1,1 @@
+Mechanisms exist to report any serious incident involving operational Artificial Intelligence (AI) and Autonomous Technologies (AAT) to relevant authorities as to when and where the serious incident occurred, in accordance with mandated reporting timelines.
