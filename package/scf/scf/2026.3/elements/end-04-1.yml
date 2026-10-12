@@ -1,9 +1,6 @@
 id: 23cd1a7e-d2f5-4839-af2b-700a7a232ab5
 name: Always On Antimalware Protection
-description: |-
-  Mechanisms exist to ensure unless specifically authorized by management on a case-by-case basis for a limited time period that anti-malware technologies:
-  (1) Are continuously running in real-time; and 
-  (2) Cannot be disabled or altered by non-privileged users.
+description: Requires anti-malware to run continuously in real time and not be disableable by non-privileged users unless management authorizes a time-limited exception.
 elementType: enhancement
 externalId: END-04.1
 parent: end-04

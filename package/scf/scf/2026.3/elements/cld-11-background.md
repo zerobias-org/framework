@@ -1,0 +1,1 @@
+Mechanisms exist to utilize a Cloud Access Security Broker (CASB), or similar technology, to provide boundary protection and monitoring functions that both provide access to the cloud and protect the organization from misuse of cloud resources.

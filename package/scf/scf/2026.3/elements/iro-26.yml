@@ -1,10 +1,6 @@
 id: ba7a51ba-3642-4150-9a23-a1246f3eb3da
 name: Post-Incident Technology Assets, Applications and Services (TAAS) Validation
-description: |-
-  Mechanisms exist to utilize post-incident assurance activities to validate Technology Assets, Applications and Services (TAAS) are 
-  (1) Secure;
-  (2) Compliant; and
-  (3) Capable of supporting the resumption of normal business operations.
+description: Requires post-incident assurance activities to validate that affected assets are secure, compliant and able to support resumption of normal business operations.
 elementType: control
 externalId: IRO-26
 parent: iro

@@ -1,10 +1,6 @@
 id: 379a53d4-8f6f-440b-b878-5c1bb7d070f5
 name: AI TEVV Third-Party Risk Management
-description: |-
-  Mechanisms exist to assess, approve and continuously monitor third-party Artificial Intelligence (AI) and Autonomous Technologies (AAT):
-  (1) Components;
-  (2) Application Programming Interfaces (APIs); and/or
-  (3) Services used by AI agents for security, privacy and compliance.
+description: Requires assessing, approving and continuously monitoring third-party AI and AAT components, APIs and services used by AI agents for security, privacy and compliance.
 elementType: enhancement
 externalId: AAT-28.14
 parent: aat-28

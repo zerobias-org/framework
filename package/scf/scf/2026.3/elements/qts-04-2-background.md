@@ -1,0 +1,1 @@
+Mechanisms exist to implement short-term compensating measures for Technology Assets, Applications and Services (TAAS) that cannot be migrated to Post-Quantum Cryptography (PQC) on the planned schedule, (e.g., network segmentation, additional pre-shared-key layers, reduced key lifetimes, out-of-band key transport and data minimization).

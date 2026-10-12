@@ -1,6 +1,6 @@
 id: 3e1fa835-cd0d-47f1-bfb2-b3f028c57df6
 name: Session Lock
-description: Mechanisms exist to initiate a session lock after an organization-defined time period of inactivity, or upon receiving a request from a user and retain the session lock until the user reestablishes access using established identification and authentication methods.
+description: Requires initiating a session lock after a period of inactivity or on user request, until access is reestablished through authentication.
 elementType: enhancement
 externalId: CFG-04.3
 parent: cfg-04

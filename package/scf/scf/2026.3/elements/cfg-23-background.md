@@ -1,0 +1,1 @@
+Mechanisms exist to place Control Assurance Automation (CAA) collection code, queries and transformation logic under version control, peer review, testing and change management commensurate with the sensitivity of the Technology Assets, Applications, Services and/or Data (TAASD) accessed.

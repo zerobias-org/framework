@@ -1,0 +1,1 @@
+Mechanisms exist to maintain a list of Technology Asset, Application and/or Service (TAAS) that are authorized to connect to organizational Technology Assets, Applications, Services and/or Data (TAASD).

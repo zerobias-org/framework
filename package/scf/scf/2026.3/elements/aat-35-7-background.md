@@ -1,0 +1,1 @@
+Mechanisms exist to ensure employees, including workers' representatives, are informed about Artificial Intelligence (AI) and Autonomous Technologies (AAT) deployments, prior to the use of the AAT in a production environment.

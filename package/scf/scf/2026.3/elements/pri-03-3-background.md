@@ -1,0 +1,1 @@
+Mechanisms exist to identify and appoint a Personal Data Process Manager (PDPM), or equivalent role, to ensure Personal Data (PD) is collected, received, processed, stored, transmitted, shared, updated and/or disposed of according to data subject consent.

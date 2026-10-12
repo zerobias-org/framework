@@ -1,0 +1,1 @@
+Automated mechanisms exist to examine information for the presence of unsanctioned information and prohibits the transfer of such information, when transferring information between different security domains.

@@ -1,0 +1,1 @@
+Mechanisms exist to periodically review Technology Assets, Applications and/or Services (TAAS) configurations to identify and disable unnecessary and/or non-secure functions, ports, protocols and services.

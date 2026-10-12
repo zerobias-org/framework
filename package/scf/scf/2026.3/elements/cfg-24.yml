@@ -1,6 +1,6 @@
 id: b86fb936-4712-491e-b521-bd280a72c3cc
 name: Control Assurance Automation (CAA) Unauthorized Change Detection
-description: Mechanisms exist to detect and alert on changes to Control Assurance Automation (CAA) collection or scoring logic that could alter reported control status without corresponding, authorized change records.
+description: Requires detecting and alerting on unauthorized changes to Control Assurance Automation (CAA) collection or scoring logic that could alter reported control status.
 elementType: control
 externalId: CFG-24
 parent: cfg
