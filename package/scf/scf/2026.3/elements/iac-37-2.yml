@@ -1,6 +1,6 @@
 id: d8a82787-953a-464b-b662-c6c8ab70f938
 name: Phishing-Resistant Multi-Factor Authentication (MFA)
-description: Automated mechanisms exist to enforce phishing-resistant Multi-Factor Authentication (MFA) through authenticators that are cryptographically bound to the verifier's identity, preventing credential relay by an impersonating party.
+description: Requires phishing-resistant MFA using authenticators cryptographically bound to the verifier's identity to prevent credential relay by impersonators.
 elementType: enhancement
 externalId: IAC-37.2
 parent: iac-37

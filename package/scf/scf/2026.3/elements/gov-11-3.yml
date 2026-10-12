@@ -1,10 +1,6 @@
 id: bfd3c200-e4b3-44e7-9fe5-cf6085595bc5
 name: Assess Controls
-description: |-
-  Mechanisms exist to compel data and/or process owners to assess if required security, compliance and resilience controls for Technology Assets, Applications, Services and/or Data (TAASD) under their control are:
-  (1) Designed to meet control objectives;
-  (2) Implemented correctly; and 
-  (3) Operating as intended.
+description: Requires data and process owners to assess whether their controls are designed to meet objectives, implemented correctly and operating as intended.
 elementType: enhancement
 externalId: GOV-11.3
 parent: gov-11

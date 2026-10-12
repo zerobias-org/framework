@@ -1,9 +1,6 @@
 id: 020b8698-71b5-40ae-922d-5547e1b55d84
 name: Detrimental or Unfavorable Treatment
-description: |-
-  Mechanisms exist to prohibit the sale, deployment and/or use of Artificial Intelligence (AI) and Autonomous Technologies (AAT) that lead to the detrimental or unfavorable treatment of certain data subjects, or groups of data subjects, in social contexts that is:
-  (1) Are unrelated to the contexts in which the data was originally generated or collected; and/or
-  (2) Is unjustified or disproportionate to their social behavior or its gravity.
+description: Requires prohibiting AI that leads to unjustified or disproportionate detrimental treatment of data subjects based on unrelated social context.
 elementType: enhancement
 externalId: AAT-20.4
 parent: aat-20

@@ -1,6 +1,6 @@
 id: b2dcbd6d-105a-4578-a411-47d7001da82a
 name: Network Access to Privileged Commands
-description: Mechanisms exist to authorize remote access to perform privileged commands on critical Technology Assets, Applications and/or Services (TAAS) or where sensitive and/or regulated data is stored, transmitted and/or processed only for compelling operational needs.
+description: Requires authorizing remote execution of privileged commands on critical systems or sensitive data only for compelling operational needs.
 elementType: enhancement
 externalId: IAC-30.5
 parent: iac-30

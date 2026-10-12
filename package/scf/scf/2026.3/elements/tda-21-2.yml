@@ -1,6 +1,6 @@
 id: a2a3b8e0-4654-4aaa-abae-bfae1f28e697
 name: Hardware Bill of Materials (HBOM)
-description: Mechanisms exist to generate, or obtain, a Hardware Bill of Materials (HBOM) for Technology Assets, Applications and/or Services (TAAS) that lists hardware components in use, including component identifiers, versions and suppliers.
+description: Requires generating or obtaining a Hardware Bill of Materials (HBOM) listing hardware components with their identifiers, versions and suppliers.
 elementType: enhancement
 externalId: TDA-21.2
 parent: tda-21

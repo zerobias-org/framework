@@ -1,11 +1,6 @@
 id: a6063170-e278-427b-9788-7f9983a84f50
 name: AI Model & Agent Inventory & Lifecycle Management
-description: |-
-  Mechanisms exist to track the lifecycle of all AI models and AI agents, including ownership, intended purpose and status across:
-  (1) Development;
-  (2) Deployment;
-  (3) Updates; and
-  (4) Decommissioning.
+description: 'Mechanisms exist to track the lifecycle of all AI models and AI agents, including ownership, intended purpose and status across: (1) Development; (2) Deployment; (3) Updates; and (4) Decommissioning.'
 elementType: enhancement
 externalId: AAT-07.1
 parent: aat-07

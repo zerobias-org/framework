@@ -1,9 +1,6 @@
 id: 439cf6f0-52b2-46ba-b48c-204834504633
 name: Wireless Networking Authentication & Encryption
-description: |-
-  Mechanisms exist to secure Wi-Fi (e.g., IEEE 802.11) and prevent unauthorized access by:
-  (1) Authenticating devices trying to connect; and 
-  (2) Encrypting transmitted data.
+description: 'Mechanisms exist to secure Wi-Fi (e.g., IEEE 802.11) and prevent unauthorized access by: (1) Authenticating devices trying to connect; and (2) Encrypting transmitted data.'
 elementType: enhancement
 externalId: NET-24.1
 parent: net-24

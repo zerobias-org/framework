@@ -1,6 +1,6 @@
 id: 92dfb4e2-fc0b-40f4-ac26-5d6874c6ea19
 name: Continuous Control Monitoring (CCM)
-description: Automated mechanisms exist to perform Continuous Control Monitoring (CCM) to assess and report the conformity status of the organization's Technology Assets, Applications, Services and Data (TAASD) against applicable security, compliance and resilience controls.
+description: Requires automated Continuous Control Monitoring (CCM) to assess and report the conformity of technology assets against applicable controls.
 elementType: control
 externalId: CPL-18
 parent: cpl

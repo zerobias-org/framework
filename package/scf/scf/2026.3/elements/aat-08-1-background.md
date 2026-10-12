@@ -1,0 +1,1 @@
+Mechanisms exist to ensure Artificial Intelligence (AI) and Autonomous Technologies (AAT) include reasonable security, compliance and resilience protections that are commensurate with assessed risks and threats.

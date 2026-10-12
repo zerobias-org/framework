@@ -1,9 +1,6 @@
 id: f0b8cf61-2cdc-4ec3-a6b9-e5845eaf1421
 name: Compliance As Code (CAC) Credentials Management
-description: |-
-  Mechanisms exist to govern Control Assurance Automation (CAA) automated identity credentials by:
-  (1) Centralized storage in a password management tool; and
-  (2) Prohibiting hardcoded credentials.
+description: 'Mechanisms exist to govern Control Assurance Automation (CAA) automated identity credentials by: (1) Centralized storage in a password management tool; and (2) Prohibiting hardcoded credentials.'
 elementType: control
 externalId: IAC-53
 parent: iac

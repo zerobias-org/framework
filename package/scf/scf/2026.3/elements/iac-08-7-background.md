@@ -1,0 +1,1 @@
+Mechanisms exist to separate non-privileged accounts between infrastructure environments to reduce the risk that a compromise in one infrastructure environment laterally affects another infrastructure environment.

@@ -1,6 +1,6 @@
 id: 0210fec9-0707-4d6e-8127-f8700dc4a458
 name: Event Log & Security-Relevant Telemetry Retention
-description: Mechanisms exist to retain event logs and security-relevant telemetry for a time period consistent with records retention requirements to provide support for after-the-fact investigations of security incidents and to meet statutory, regulatory and contractual retention requirements.
+description: Requires retaining event logs and telemetry consistent with records retention requirements to support investigations and meet applicable retention obligations.
 elementType: control
 externalId: MON-13
 parent: mon

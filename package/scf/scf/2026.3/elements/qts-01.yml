@@ -1,11 +1,6 @@
 id: 2ed6ad5d-cd62-464d-98fe-b654d4f4081f
 name: Quantum Security Policy
-description: |-
-  Mechanisms exist to establish a formal, documented quantum security policy that:
-  (1) Conveys executive management's intent;
-  (2) Provides organizational direction and expected behaviors;
-  (3) Is reviewed at least annually; and
-  (4) Is updated, as necessary, to adapt to evolving risks, threats and other changes that affect the organization.
+description: Requires a formal, documented quantum security policy that conveys management intent, sets expected behaviors, and is reviewed and updated at least annually.
 elementType: control
 externalId: QTS-01
 parent: qts

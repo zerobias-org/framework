@@ -1,0 +1,1 @@
+Mechanisms exist to utilize Data Rights Management (DRM), or similar technologies, to protect Intellectual Property (IP) rights by preventing the unauthorized distribution and/or modification of sensitive IP.

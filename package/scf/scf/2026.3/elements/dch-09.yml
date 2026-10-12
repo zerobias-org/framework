@@ -1,6 +1,6 @@
 id: f2a8eb6c-5880-40d5-a9ec-fc35f6973342
 name: Sensitive / Regulated Data Access Mapping
-description: Mechanisms exist to leverage data-specific Access Control Lists (ACL) or Interconnection Security Agreements (ISAs) to generate a logical map of the parties with whom sensitive and/or regulated data is shared.
+description: Requires using access control lists or Interconnection Security Agreements to generate a logical map of parties with whom sensitive data is shared.
 elementType: control
 externalId: DCH-09
 parent: dch

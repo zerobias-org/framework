@@ -1,11 +1,6 @@
 id: 0f6141a8-1ed8-4a3f-a79e-5ed5533f4767
 name: Tool & Application Programming Interface (API) Invocation Controls
-description: |-
-  Mechanisms exist to authenticate, authorize, validate and monitor all tool and Application Programming Interface (API) invocations by AI agents, including:
-  (1) Schema validation;
-  (2) Rate limiting;
-  (3) Access controls; and
-  (4) Output validation.
+description: Requires authenticating, authorizing, validating and monitoring AI agent tool and API invocations, including schema validation, rate limiting and access controls.
 elementType: enhancement
 externalId: AAT-39.3
 parent: aat-39

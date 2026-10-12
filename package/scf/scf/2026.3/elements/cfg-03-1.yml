@@ -1,11 +1,6 @@
 id: b39897e6-f8ce-4829-8428-b0f409784ec1
 name: Baseline Tailoring
-description: |-
-  Mechanisms exist to allow secure baseline configurations to be specialized or customized by applying a defined set of tailoring actions that are specific to:
-  (1) Mission / business functions;
-  (2) Operational environment;
-  (3) Specific threats or vulnerabilities; or
-  (4) Other conditions or situations that could affect mission / business success.
+description: Requires allowing secure baseline configurations to be tailored to mission functions, operational environment, specific threats or other conditions.
 elementType: enhancement
 externalId: CFG-03.1
 parent: cfg-03

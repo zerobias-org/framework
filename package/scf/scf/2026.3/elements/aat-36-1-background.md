@@ -1,0 +1,1 @@
+Mechanisms exist to measure Artificial Intelligence (AI) and Autonomous Technologies (AAT)-related risks to deployment context(s) through review and consultation with industry experts, domain specialists and end users.
