@@ -1,0 +1,9 @@
+id: df1cc769-e02c-4084-b96f-800a5b2ddc95
+name: Pstn Alternatives
+description: Verifiers SHALL ensure alternative authenticator types are available to all subscribers and SHOULD remind them of PSTN out-of-band limitations before binding devices.
+elementType: criterion
+externalId: AUPSTN-3
+aliases:
+  - aupstn_3
+  - AUPSTN-3
+parent: sp800_63b

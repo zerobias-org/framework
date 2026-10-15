@@ -1,0 +1,9 @@
+id: 6380a92a-96f3-471c-ab2f-df74ea67c7ae
+name: IdP Compromise Signal Review
+description: If the IdP receives a signal that a subscriber account is suspected of compromise, the IdP SHALL review actions taken by that account at the IdP for suspicious activity.
+elementType: criterion
+externalId: SSIG-7
+aliases:
+  - ssig_7
+  - SSIG-7
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: e6a345c6-a847-442c-89f4-f00a02855243
+name: IAL3 Fraud Flags
+description: For on-site attended identity proofing with collocated agents, the CSP SHALL provide proofing agents with a method or mechanism to discretely flag events or actions as potential fraud.
+elementType: criterion
+externalId: IAL3-14
+aliases:
+  - ial3_14
+  - IAL3-14
+parent: sp800_63a

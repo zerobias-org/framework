@@ -1,0 +1,9 @@
+id: 4aa71e77-6035-4986-b332-112591097bfe
+name: RP Registration
+description: The RP SHALL register its information with either the IdP or an authority that the IdP trusts, as stipulated by the trust agreement.
+elementType: criterion
+externalId: DR-3
+aliases:
+  - dr_3
+  - DR-3
+parent: sp800_63c

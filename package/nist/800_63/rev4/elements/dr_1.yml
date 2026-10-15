@@ -1,0 +1,9 @@
+id: ebdd8509-b6c2-4c63-9b23-b7645b8f994f
+name: IdP Identifier-Key Association
+description: The RP SHALL associate the assertion validation keys and other relevant configuration information with the IdP's identifier, as stipulated by the trust agreement.
+elementType: criterion
+externalId: DR-1
+aliases:
+  - dr_1
+  - DR-1
+parent: sp800_63c

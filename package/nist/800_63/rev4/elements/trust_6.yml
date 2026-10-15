@@ -1,0 +1,9 @@
+id: 1c9b90b1-4ec8-4f12-af7b-5ba81b8cd02b
+name: Combined Trust Agreement Artifact(s)
+description: If more than one trust agreement applies to a federation transaction, their combined terms SHALL constitute the effective trust agreement of that transaction.
+elementType: criterion
+externalId: TRUST-6
+aliases:
+  - trust_6
+  - TRUST-6
+parent: sp800_63c

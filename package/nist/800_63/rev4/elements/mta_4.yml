@@ -1,0 +1,9 @@
+id: 6d883613-88a7-4469-8ee9-8d2c6032f635
+name: 'MTA Vetting: CSP Subscriber Onboarding'
+description: Vetting of CSPs, IdPs, and RPs SHALL establish that CSPs onboard subscriber accounts, attributes, and attribute bundles to IdPs securely.
+elementType: criterion
+externalId: MTA-4
+aliases:
+  - mta_4
+  - MTA-4
+parent: sp800_63c

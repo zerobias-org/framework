@@ -1,0 +1,9 @@
+id: ca045b73-46e1-44da-ae5a-a14b909b3ef9
+name: Retry Limit Authenticator Implementation
+description: Unless the authenticator generates an invalid output when an incorrect activation secret is provided, retry limiting SHALL be implemented in the authenticator.
+elementType: criterion
+externalId: AS-4
+aliases:
+  - as_4
+  - AS-4
+parent: sp800_63b

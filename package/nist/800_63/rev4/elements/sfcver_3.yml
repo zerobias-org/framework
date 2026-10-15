@@ -1,0 +1,9 @@
+id: d866643f-fb22-4d79-a6b9-8c7cd6e797e5
+name: Cryptographic Nonce Length
+description: The cryptographic challenge nonce SHALL be at least 64 bits long and either unique over the authenticator's lifetime or statistically unique via an approved random bit generator.
+elementType: criterion
+externalId: SFCVER-3
+aliases:
+  - sfcver_3
+  - SFCVER-3
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: d15396e2-8ebe-4a30-b1b0-2e49d95a6952
+name: MF Crypto Activation Secrets
+description: Authenticator activation secrets SHALL meet the requirements of Sec. 3.2.10.
+elementType: criterion
+externalId: MFCTORS-6
+aliases:
+  - mfctors_6
+  - MFCTORS-6
+parent: sp800_63b

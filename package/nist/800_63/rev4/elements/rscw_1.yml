@@ -1,0 +1,9 @@
+id: 76d83741-5211-40a9-9243-ae15018a85f6
+name: Wallet Disclosure to RPs
+description: Subscriber-controlled wallets SHALL disclose to RPs their activation methods, bundle protection features, key management information and software integrity indications.
+elementType: criterion
+externalId: RSCW-1
+aliases:
+  - rscw_1
+  - RSCW-1
+parent: sp800_63c

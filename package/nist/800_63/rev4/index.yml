@@ -1,0 +1,26 @@
+id: 9c7707c2-0f3b-4c63-af37-68df35db899e
+name: NIST SP 800-63-4 - Digital Identity Guidelines Conformance Criteria
+externalId: NIST SP 800-63-4
+description: Conformance criteria for NIST SP 800-63-4 Digital Identity Guidelines (Base, 63A, 63B and 63C volumes), conformance criteria v0.1
+standardType: framework
+standardCategory: cyber
+code: nist_800_63_rev4
+status: approved
+url: https://pages.nist.gov/800-63-4-Implementation-Resources/conformance/criteria.html
+version: Rev. 4
+external: true
+internal: false
+elementTypes:
+  - id: 07da8545-c507-414f-bd98-da85e324e404
+    code: volume
+    name: Volume
+    description: A volume of SP 800-63-4 (Base, 63A, 63B or 63C)
+  - id: 3bcd8511-a917-4b1d-a0f2-7271f54743b1
+    code: criterion
+    name: Conformance Criterion
+    description: A normative SP 800-63-4 requirement with its assessment objective and methods
+    parent: volume
+mappingTypes:
+  - criterion
+tags: []
+aliases: []

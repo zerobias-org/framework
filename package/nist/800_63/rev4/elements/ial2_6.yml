@@ -1,0 +1,9 @@
+id: c6978de7-8ef2-41aa-809e-8bdd6d7bee8a
+name: IAL2 Attribute Validation
+description: At IAL2, the CSP SHALL validate all core attributes against an authoritative or credible source or via digitally signed attributes on SUPERIOR evidence.
+elementType: criterion
+externalId: IAL2-6
+aliases:
+  - ial2_6
+  - IAL2-6
+parent: sp800_63a

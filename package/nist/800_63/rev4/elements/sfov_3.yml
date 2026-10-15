@@ -1,0 +1,9 @@
+id: fe4d7984-7649-456b-8a55-47b419aefa57
+name: OTP Authenticated Protected Channels
+description: The verifier SHALL use approved encryption and an authenticated protected channel when collecting the OTP.
+elementType: criterion
+externalId: SFOV-3
+aliases:
+  - sfov_3
+  - SFOV-3
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 342c7a9b-ea93-4998-beb9-377bcce77fa1
+name: Reauthentication RP Authoritative
+description: The IdP can communicate the time and details of the authentication event to the RP, but the RP SHALL be authoritative as to whether the reauthentication requirements have been met.
+elementType: criterion
+externalId: REAUTH-5
+aliases:
+  - reauth_5
+  - REAUTH-5
+parent: sp800_63b

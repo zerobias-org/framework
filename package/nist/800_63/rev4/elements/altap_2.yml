@@ -1,0 +1,9 @@
+id: 76203d87-7e97-4d0b-9b9b-be98dae6cb62
+name: Bound vs. Alternative Authenticators
+description: An RP SHALL determine whether a given authenticator can be used as a bound authenticator, as an alternative authenticator for direct access, or both.
+elementType: criterion
+externalId: ALTAP-2
+aliases:
+  - altap_2
+  - ALTAP-2
+parent: sp800_63c

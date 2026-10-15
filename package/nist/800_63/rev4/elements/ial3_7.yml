@@ -1,0 +1,9 @@
+id: a9d4b97c-f78a-473d-9a83-48474cfa5e14
+name: IAL3 Secure Setting
+description: For on-site attended identity proofing with collocated agents, the CSP SHALL provide a secure, physical setting in which on-site identity proofing sessions are conducted.
+elementType: criterion
+externalId: IAL3-7
+aliases:
+  - ial3_7
+  - IAL3-7
+parent: sp800_63a

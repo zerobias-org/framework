@@ -1,0 +1,9 @@
+id: 5a161485-180c-4e0f-a8fd-aab505604af5
+name: Identity API Disclosure in Trust Agreement
+description: All possible use of identity APIs, including which provisioning models are available through the API, SHALL be recorded and disclosed as part of the trust agreement.
+elementType: criterion
+externalId: IDAP-1
+aliases:
+  - idap_1
+  - IDAP-1
+parent: sp800_63c

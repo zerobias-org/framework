@@ -1,0 +1,9 @@
+id: a59b9829-6314-45ee-8b56-d615785da473
+name: Subscriber Authentication Before IdP Actions
+description: The IdP SHALL require an authenticated subscriber session before approving attribute release, issuing an assertion, or establishing a subscriber-driven trust agreement.
+elementType: criterion
+externalId: SAI-1
+aliases:
+  - sai_1
+  - SAI-1
+parent: sp800_63c

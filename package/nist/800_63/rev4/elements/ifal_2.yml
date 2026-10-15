@@ -1,0 +1,9 @@
+id: fec423ea-ccba-4a35-9c3f-71c21fb92d62
+name: Initial FAL - FAL2 or FAL3 Assessment
+description: For high-impact online services, organizations SHALL further assess the risk of a compromised IdP to determine whether FAL2 or FAL3 is more appropriate.
+elementType: criterion
+externalId: IFAL-2
+aliases:
+  - ifal_2
+  - IFAL-2
+parent: sp800_63

@@ -1,0 +1,9 @@
+id: 608acd5c-143b-4a8a-8769-5c2159563219
+name: On-Site Biometric Collection
+description: For on-site biometric collection, the CSP SHALL have the operator inspect the biometric source for unexpected non-natural materials during proofing.
+elementType: criterion
+externalId: BIO-21
+aliases:
+  - bio_21
+  - BIO-21
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: e4625926-341e-4c9c-8533-e82a80291426
+name: Data Exchange Minimization
+description: The IdP and RP SHALL exchange only the minimum data necessary to achieve the function of the system.
+elementType: criterion
+externalId: PRIVR-10
+aliases:
+  - privr_10
+  - PRIVR-10
+parent: sp800_63c

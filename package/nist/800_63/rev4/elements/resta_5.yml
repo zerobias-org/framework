@@ -1,0 +1,9 @@
+id: 656c28c6-1db3-4f9f-b8b0-949f4770b0ca
+name: Restricted Authenticator Migration Plan
+description: The CSP SHALL develop a migration plan for restricted authenticators becoming unacceptable and include it in its Digital Identity Acceptance Statement.
+elementType: criterion
+externalId: RESTA-5
+aliases:
+  - resta_5
+  - RESTA-5
+parent: sp800_63b

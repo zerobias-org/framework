@@ -1,0 +1,9 @@
+id: 077676c8-d2bf-4437-8f30-8265717ebcc1
+name: Secure Key Storage
+description: CSPs, IdPs (including subscriber-controlled wallets), and RPs SHALL store all signing, decryption, and symmetric keys securely, subject to applicable FIPS 140 requirements.
+elementType: criterion
+externalId: CKS-1
+aliases:
+  - cks_1
+  - CKS-1
+parent: sp800_63c

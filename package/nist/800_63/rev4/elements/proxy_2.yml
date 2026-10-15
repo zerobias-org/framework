@@ -1,0 +1,9 @@
+id: a502123f-656d-42db-a17f-e0a9958cac1e
+name: Proxy Compliance
+description: As a consequence, all normative requirements that apply to IdPs and RPs SHALL apply to proxies in their respective roles on each side.
+elementType: criterion
+externalId: PROXY-2
+aliases:
+  - proxy_2
+  - PROXY-2
+parent: sp800_63c

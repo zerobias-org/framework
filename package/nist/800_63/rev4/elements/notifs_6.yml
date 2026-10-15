@@ -1,0 +1,9 @@
+id: 455a753e-87e5-457c-99fd-1a675546d5af
+name: Subscriber Repudiation Response
+description: If a subscriber repudiates having been identity-proofed by the identity service, the CSP or RP SHALL respond in accordance with its established fraud management and redress policies.
+elementType: criterion
+externalId: NOTIFS-6
+aliases:
+  - notifs_6
+  - NOTIFS-6
+parent: sp800_63a

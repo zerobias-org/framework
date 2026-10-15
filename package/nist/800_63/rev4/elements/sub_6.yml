@@ -1,0 +1,9 @@
+id: 8c24405e-9fc8-4e4a-9cf3-d90a508403b4
+name: SA Update Requests
+description: The CSP SHALL provide the capability for a subscriber to request that information be updated in their subscriber account.
+elementType: criterion
+externalId: SUB-6
+aliases:
+  - sub_6
+  - SUB-6
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: ab5f355e-ca72-401d-924d-37f2fa119120
+name: SF Crypto Public Key
+description: Single-factor cryptographic authenticators used at AAL3 SHALL use public-key cryptography to protect the authentication secrets from compromise of the verifier.
+elementType: criterion
+externalId: SFCATION-1
+aliases:
+  - sfcation_1
+  - SFCATION-1
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 042530ef-ba3d-4abd-92c1-3cbda9fc35ed
+name: Subscriber Account Information
+description: The CSP SHALL include in each subscriber account its identifiers, proofing steps and IAL achieved, consent records, bound authenticators, and validated attributes.
+elementType: criterion
+externalId: SUB-3
+aliases:
+  - sub_3
+  - SUB-3
+parent: sp800_63a

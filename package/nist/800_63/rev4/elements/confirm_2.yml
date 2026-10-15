@@ -1,0 +1,9 @@
+id: 15a3d4f6-7acd-4356-b133-dd033ed497ce
+name: Confirm Code Validity
+description: Confirmation codes SHALL expire within 21 or 30 days by postal mail, 10 minutes by SMS or voice, and 24 hours by email, depending on delivery channel.
+elementType: criterion
+externalId: CONFIRM-2
+aliases:
+  - confirm_2
+  - CONFIRM-2
+parent: sp800_63a

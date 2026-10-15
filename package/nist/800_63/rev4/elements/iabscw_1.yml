@@ -1,0 +1,9 @@
+id: 8eb6993c-bb1c-4704-958d-daa5d8ae2dcd
+name: Wallet Attribute Bundle Issuance Process
+description: CSP issuance of attribute bundles to a subscriber-controlled wallet SHALL include identity proof, wallet activation, key possession proof, bundle creation and storage.
+elementType: criterion
+externalId: IABSCW-1
+aliases:
+  - iabscw_1
+  - IABSCW-1
+parent: sp800_63c

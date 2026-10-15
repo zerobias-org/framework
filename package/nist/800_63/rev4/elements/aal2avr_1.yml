@@ -1,0 +1,9 @@
+id: e1cf5931-aab0-4531-9946-b421fb62fabc
+name: AAL2 Approved Cryptography
+description: Authenticators used at AAL2 SHALL use approved cryptography.
+elementType: criterion
+externalId: AAL2AVR-1
+aliases:
+  - aal2avr_1
+  - AAL2AVR-1
+parent: sp800_63b

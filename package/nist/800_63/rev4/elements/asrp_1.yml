@@ -1,0 +1,9 @@
+id: 47d5c838-ca07-4d21-b9a7-0574e6e5dc2c
+name: RP Authenticated Session Requirements
+description: The RP SHALL create an authenticated session only after verifying a valid assertion from the expected IdP associated with a properly provisioned RP subscriber account.
+elementType: criterion
+externalId: ASRP-1
+aliases:
+  - asrp_1
+  - ASRP-1
+parent: sp800_63c

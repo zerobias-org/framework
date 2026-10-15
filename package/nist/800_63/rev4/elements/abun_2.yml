@@ -1,0 +1,9 @@
+id: 4b519e50-6836-4cef-b007-8cf616561355
+name: Attribute Bundle Signature Validation
+description: The RP SHALL validate the signature specific to the attribute bundle as well as any container signatures, such as the signature of the assertion as a whole.
+elementType: criterion
+externalId: ABUN-2
+aliases:
+  - abun_2
+  - ABUN-2
+parent: sp800_63c

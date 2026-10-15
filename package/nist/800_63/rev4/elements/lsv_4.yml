@@ -1,0 +1,9 @@
+id: 9e9102af-63bf-4da6-8507-3190e10fafdf
+name: Look-Up Secret Storage
+description: All lookup secrets SHALL be stored in a hashed form using an approved hashing function.
+elementType: criterion
+externalId: LSV-4
+aliases:
+  - lsv_4
+  - LSV-4
+parent: sp800_63b

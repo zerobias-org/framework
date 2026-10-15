@@ -1,0 +1,9 @@
+id: fb9b8e37-432c-4121-b37a-feefb2598b22
+name: Optical Capture Peformance 2
+description: These tests SHALL account for all available identity evidence types that the CSPs allow to be validated using optical capture and inspection technology.
+elementType: criterion
+externalId: PHYS-5
+aliases:
+  - phys_5
+  - PHYS-5
+parent: sp800_63a

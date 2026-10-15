@@ -1,0 +1,9 @@
+id: a8886490-bd13-43b4-91a0-cea9dce541ed
+name: Wallet Activation Required
+description: Access to the private key SHALL require an activation factor.
+elementType: criterion
+externalId: UWSCW-1
+aliases:
+  - uwscw_1
+  - UWSCW-1
+parent: sp800_63b

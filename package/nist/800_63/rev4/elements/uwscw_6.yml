@@ -1,0 +1,9 @@
+id: aadc1ed3-6610-441b-a0c0-a6639fffefff
+name: Wallet Phishing-Resistance Conditions
+description: Assertions that lack a valid signature from the wallet or an audience restriction SHALL NOT be considered phishing-resistant.
+elementType: criterion
+externalId: UWSCW-6
+aliases:
+  - uwscw_6
+  - UWSCW-6
+parent: sp800_63b

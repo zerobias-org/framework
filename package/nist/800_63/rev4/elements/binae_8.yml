@@ -1,0 +1,9 @@
+id: f390ab3c-ee5d-440f-b9e7-528e3284c16f
+name: External Authenticator Binding Code Replay
+description: When binding an external authenticator, the binding code SHALL be usable only once.
+elementType: criterion
+externalId: BINAE-8
+aliases:
+  - binae_8
+  - BINAE-8
+parent: sp800_63b

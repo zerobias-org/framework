@@ -1,0 +1,9 @@
+id: abc6175b-873d-4156-9573-48a4a83d5186
+name: Hybrid Connection Association Removal
+description: A mechanism for endpoints to remove cached associations with authenticators SHALL be provided.
+elementType: criterion
+externalId: HYBC-2
+aliases:
+  - hybc_2
+  - HYBC-2
+parent: sp800_63b

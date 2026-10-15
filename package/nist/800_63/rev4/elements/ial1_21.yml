@@ -1,0 +1,9 @@
+id: e043bec6-17ca-455f-b40e-e0dfee22ac0f
+name: IAL1 Device Inspection
+description: For On-site Unattended identity proofing, all devices SHALL be inspected periodically by trained technicians to deter tampering, modification, or damage.
+elementType: criterion
+externalId: IAL1-21
+aliases:
+  - ial1_21
+  - IAL1-21
+parent: sp800_63a

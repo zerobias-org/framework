@@ -1,0 +1,9 @@
+id: 256c4060-7e2d-430b-87f0-a0733807a225
+name: Out-Of-Band Secret Length
+description: The verifier SHALL generate random authentication secrets that are at least six decimal digits (or equivalent) in length.
+elementType: criterion
+externalId: OBV-5
+aliases:
+  - obv_5
+  - OBV-5
+parent: sp800_63b

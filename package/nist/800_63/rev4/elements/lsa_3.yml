@@ -1,0 +1,9 @@
+id: 0f163397-7d0a-4c20-9e5b-d08d3a35dd31
+name: Look-Up Secret Length
+description: Look-up secrets SHALL be at least six decimal digits (or equivalent) in length. Additional requirements described in Sec. 3.1.2.2 may also apply, depending on their length.
+elementType: criterion
+externalId: LSA-3
+aliases:
+  - lsa_3
+  - LSA-3
+parent: sp800_63b

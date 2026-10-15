@@ -1,0 +1,9 @@
+id: ab5e3c79-c872-4c52-b802-65a5d22cd3e7
+name: Look-Up Secret Salt Length
+description: The salt value SHALL be at least 32 bits in length and arbitrarily chosen to minimize salt value collisions among stored hashes.
+elementType: criterion
+externalId: LSV-7
+aliases:
+  - lsv_7
+  - LSV-7
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 8822018d-e37a-4479-ad2a-f2a5555249c1
+name: Post-Binding Ceremony Authenticator Prompt
+description: Upon receiving the new assertion, the RP SHALL prompt the subscriber for the newly bound authenticator and SHALL validate the authenticator output.
+elementType: criterion
+externalId: SUBPB-8
+aliases:
+  - subpb_8
+  - SUBPB-8
+parent: sp800_63c

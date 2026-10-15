@@ -1,0 +1,9 @@
+id: 1b5b6cb9-cfcc-4304-8863-c5f6be68f860
+name: Service Change Policy
+description: The CSP's documented procedures SHALL include the CSP's policy for managing and communicating service changes to RPs, such as changes in data sources, integrated vendors, or biometric algorithms.
+elementType: criterion
+externalId: ISDR-10
+aliases:
+  - isdr_10
+  - ISDR-10
+parent: sp800_63a

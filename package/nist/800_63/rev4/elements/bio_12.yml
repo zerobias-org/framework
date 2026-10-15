@@ -1,0 +1,9 @@
+id: c60d4aa8-5778-43a5-a7db-406408f87cb7
+name: 1:N Manual Review
+description: CSPs using 1:N biometric identification SHALL NOT decline a user's enrollment without a manual review confirming the result is not a false positive.
+elementType: criterion
+externalId: BIO-12
+aliases:
+  - bio_12
+  - BIO-12
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 4ba5ca3c-1310-4429-8bfd-1ee85f1869c6
+name: IAL3 Superior Evidence
+description: At IAL3, each piece of SUPERIOR evidence SHALL be validated cryptographically, including digital signature verification and trust chain validation to a trust anchor.
+elementType: criterion
+externalId: IAL3-5
+aliases:
+  - ial3_5
+  - IAL3-5
+parent: sp800_63a

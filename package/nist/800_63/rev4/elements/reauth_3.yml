@@ -1,0 +1,9 @@
+id: 630fb88c-a825-4571-a4af-010c56b8afcc
+name: Reauthentication Timeout Reset
+description: Session activity SHALL reset the inactivity timeout, and successful reauthentication during a session SHALL reset both timeouts.
+elementType: criterion
+externalId: REAUTH-3
+aliases:
+  - reauth_3
+  - REAUTH-3
+parent: sp800_63b

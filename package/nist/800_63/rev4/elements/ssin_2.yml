@@ -1,0 +1,9 @@
+id: 7045fbbb-ec6b-448e-8ffe-9cf90a96b486
+name: Justification for Non-Deletion
+description: IdPs and RPs that do not support deletion SHALL provide a statutory or risk-based justification and document it in the trust agreement.
+elementType: criterion
+externalId: SSIN-2
+aliases:
+  - ssin_2
+  - SSIN-2
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: a5f9a76c-9868-4ae5-bacd-d4187acdceea
+name: Pre-Provisioned Account Access Method
+description: Pre-provisioned accounts SHALL be bound to a federated identifier at provisioning unless the trust agreement defines an alternative means of access.
+elementType: criterion
+externalId: PMRPSA-3
+aliases:
+  - pmrpsa_3
+  - PMRPSA-3
+parent: sp800_63c

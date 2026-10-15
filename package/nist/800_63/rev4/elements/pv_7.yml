@@ -1,0 +1,9 @@
+id: 5f26052f-5ca5-43ee-85a3-922214cd0e6f
+name: Password Full Verification
+description: Verifiers SHALL request the password to be provided in full (not a subset of it) and SHALL verify the entire submitted password (e.g., not truncate it).
+elementType: criterion
+externalId: PV-7
+aliases:
+  - pv_7
+  - PV-7
+parent: sp800_63b

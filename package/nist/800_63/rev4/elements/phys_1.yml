@@ -1,0 +1,9 @@
+id: 557bc8bd-f90c-42cf-a831-59d6e157c3a7
+name: Auto Evidence Validation
+description: 'Automated evidence validation technology SHALL meet the following performance measures: document false acceptance rate (DFAR) of 0.1 or less; and document false rejection rate (DFRR) of 0.1 or less.'
+elementType: criterion
+externalId: PHYS-1
+aliases:
+  - phys_1
+  - PHYS-1
+parent: sp800_63a

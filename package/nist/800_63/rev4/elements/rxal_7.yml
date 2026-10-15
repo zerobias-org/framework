@@ -1,0 +1,9 @@
+id: d4f426c0-73ea-4872-ba29-54586a8f23c3
+name: Variable xALs
+description: If the xAL could vary within a range set by the trust agreement, the assertion SHALL include sufficient information for the RP to determine the xALs.
+elementType: criterion
+externalId: RXAL-7
+aliases:
+  - rxal_7
+  - RXAL-7
+parent: sp800_63c

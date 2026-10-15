@@ -1,0 +1,9 @@
+id: f551daa1-37cd-4023-bc98-b505566be2ae
+name: MF-OTP Biometric Requirements
+description: A biometric activation factor SHALL meet the requirements of Sec. 3.2.3, including limits on the number of consecutive authentication failures.
+elementType: criterion
+externalId: MFOA-6
+aliases:
+  - mfoa_6
+  - MFOA-6
+parent: sp800_63b

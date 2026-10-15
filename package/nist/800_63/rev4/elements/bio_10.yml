@@ -1,0 +1,9 @@
+id: 293688b9-65e2-422f-8046-13092325da52
+name: 1:N Minimum Performance
+description: If a CSP uses one-to-many (1:N) scenarios, it SHALL meet a minimum performance threshold for false positive identification of 1:1,000 or better.
+elementType: criterion
+externalId: BIO-10
+aliases:
+  - bio_10
+  - BIO-10
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: aac31f46-0552-46ef-bab9-3c7346a548f4
+name: MF-OTP Authenticated Protected Channels
+description: The verifier SHALL use approved encryption and an authenticated protected channel when collecting the OTP.
+elementType: criterion
+externalId: MFOV-3
+aliases:
+  - mfov_3
+  - MFOV-3
+parent: sp800_63b

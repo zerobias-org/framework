@@ -1,0 +1,9 @@
+id: ce37e842-6b83-49b2-84ed-61d8e03e451a
+name: Subscriber Attribute Storage
+description: A subscriber's attributes SHALL be stored and managed in accordance with Sec. 3.11.3.
+elementType: criterion
+externalId: AAD-3
+aliases:
+  - aad_3
+  - AAD-3
+parent: sp800_63c

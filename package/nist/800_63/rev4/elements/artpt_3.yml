@@ -1,0 +1,9 @@
+id: de8588dc-944d-44a7-a82c-28ba37e9f624
+name: Wallet Presentation Nonce Verification
+description: The RP SHALL verify the nonce in accordance with the federation protocol.
+elementType: criterion
+externalId: ARTPT-3
+aliases:
+  - artpt_3
+  - ARTPT-3
+parent: sp800_63c

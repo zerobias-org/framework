@@ -1,0 +1,9 @@
+id: 9d5155c5-4e06-476d-8d0b-f127f01f2fe7
+name: Wireless Authenticator Physical Proximity Requirement
+description: The authentication process SHALL require physical proximity between authenticator and endpoint via a wireless connection with a range of no more than 240 meters.
+elementType: criterion
+externalId: WC-1
+aliases:
+  - wc_1
+  - WC-1
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 424c8ded-2cf0-47f2-babf-23fe7099ee66
+name: Signature Mechanisms
+description: The assertion signature SHALL either be a digital signature using asymmetric keys or a MAC using a symmetric key that is shared between the RP and issuer with approved cryptography.
+elementType: criterion
+externalId: SIGNA-4
+aliases:
+  - signa_4
+  - SIGNA-4
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 7b54242f-5178-40ba-98da-4f88b5c216c8
+name: Signature Verification
+description: The RP SHALL validate the signature using the verification key associated with the expected IdP.
+elementType: criterion
+externalId: FAL1-2
+aliases:
+  - fal1_2
+  - FAL1-2
+parent: sp800_63c

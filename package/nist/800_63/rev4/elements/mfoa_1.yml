@@ -1,0 +1,9 @@
+id: f54cf8a5-7472-4bfb-ba23-6293a3777fab
+name: MF-OTP Activation
+description: Each use of the authenticator SHALL require the input of the activation factor.
+elementType: criterion
+externalId: MFOA-1
+aliases:
+  - mfoa_1
+  - MFOA-1
+parent: sp800_63b

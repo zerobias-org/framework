@@ -1,0 +1,9 @@
+id: c60e2759-0f8d-45f5-8d1e-9d7e50e9b414
+name: SF External Authentication Key Requirements
+description: External (i.e., non-embedded) cryptographic authenticators SHALL meet the requirements for connected authenticators in Sec. 3.2.11.
+elementType: criterion
+externalId: SFCATORS-3
+aliases:
+  - sfcators_3
+  - SFCATORS-3
+parent: sp800_63b

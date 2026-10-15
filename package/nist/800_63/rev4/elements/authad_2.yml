@@ -1,0 +1,9 @@
+id: 052cfa43-769a-49aa-8be2-c62e4b7d4d18
+name: IdP Redress Mechanisms
+description: The IdP SHALL provide effective mechanisms for the redress of subscriber complaints or problems (e.g., subscriber identifies an inaccurate attribute value).
+elementType: criterion
+externalId: AUTHAD-2
+aliases:
+  - authad_2
+  - AUTHAD-2
+parent: sp800_63c

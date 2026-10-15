@@ -1,0 +1,9 @@
+id: 7c934a3e-16f9-45bf-9bb1-5d4b75da2593
+name: Disclosure of Attributes by an Organization
+description: If the authorized party is the organization, the organization SHALL make the list of approved RPs and the associated sets of attributes sent to those RPs available to the subscriber.
+elementType: criterion
+externalId: AAD-5
+aliases:
+  - aad_5
+  - AAD-5
+parent: sp800_63c

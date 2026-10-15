@@ -1,0 +1,9 @@
+id: 1f5b9135-0f59-4ca4-a73d-882da88773ee
+name: Session Secret Time Limits
+description: Secrets used for session binding SHALL time out and not be accepted after the times specified in Sec. 2.1.3, Sec. 2.2.3, and Sec. 2.3.3, as appropriate for the AAL.
+elementType: criterion
+externalId: SB-8.4
+aliases:
+  - sb_8_4
+  - SB-8.4
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 3885c52d-0e25-4c6b-9d56-826149ccd45d
+name: Disclosure Security Review
+description: All parties responsible for informing the subscriber of trust agreement terms SHALL review them before disclosure to avoid revealing sensitive security information.
+elementType: criterion
+externalId: TRUST-11
+aliases:
+  - trust_11
+  - TRUST-11
+parent: sp800_63c

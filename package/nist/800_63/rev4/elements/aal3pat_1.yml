@@ -1,0 +1,9 @@
+id: 5802c634-140a-4202-98fc-764eb26b3ddc
+name: AAL3 Authenticator Combinations
+description: AAL3 authentication SHALL require multi-factor cryptographic authentication or single-factor cryptographic authentication used with a password or biometric comparison.
+elementType: criterion
+externalId: AAL3PAT-1
+aliases:
+  - aal3pat_1
+  - AAL3PAT-1
+parent: sp800_63b

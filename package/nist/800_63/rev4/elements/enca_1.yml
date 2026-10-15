@@ -1,0 +1,9 @@
+id: 738b8ec4-8226-4c77-ac33-45b19a5bebf4
+name: Encryption
+description: When encrypting assertions, the IdP SHALL encrypt the contents of the assertion using the RP's encryption key with approved cryptography.
+elementType: criterion
+externalId: ENCA-1
+aliases:
+  - enca_1
+  - ENCA-1
+parent: sp800_63c

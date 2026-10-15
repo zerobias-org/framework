@@ -1,0 +1,9 @@
+id: 8103e221-f27e-442a-94de-245af323e9b1
+name: Wallet Assertion Validation Checklist
+description: The RP SHALL validate wallet assertions by checking bundle binding, issuing wallet, validity time, audience, nonce, allowable xALs, and non-replay.
+elementType: criterion
+externalId: ARTVL-3
+aliases:
+  - artvl_3
+  - ARTVL-3
+parent: sp800_63c

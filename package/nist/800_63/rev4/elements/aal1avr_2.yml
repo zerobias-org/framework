@@ -1,0 +1,9 @@
+id: 268b0a60-5a57-4e98-ac9c-a83abe975e3d
+name: AAL1 Authenticated Protected Channels
+description: Communication between the claimant and verifier SHALL occur via one or more authenticated protected channels.
+elementType: criterion
+externalId: AAL1AVR-2
+aliases:
+  - aal1avr_2
+  - AAL1AVR-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 52ad3fec-f3b8-4479-8164-eafcca1bfd5d
+name: Subscriber Communication Protection
+description: Communications between the subscriber and either the IdP or the RP (usually through a user agent) SHALL be made using an authenticated protected channel.
+elementType: criterion
+externalId: PSI-2
+aliases:
+  - psi_2
+  - PSI-2
+parent: sp800_63c

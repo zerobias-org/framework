@@ -1,0 +1,9 @@
+id: 0af1490f-3cff-4c9a-8beb-e809c4d032ca
+name: Federated Identifier Single-Subscriber Association
+description: Federated identifiers SHALL be associated with a single subscriber at the RP.
+elementType: criterion
+externalId: FEDID-2
+aliases:
+  - fedid_2
+  - FEDID-2
+parent: sp800_63c

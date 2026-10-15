@@ -1,0 +1,9 @@
+id: ff27d0d8-604d-46aa-8fce-e398a285bff9
+name: Issued Recovery Code Address Verification Procedure
+description: To verify a new recovery address, the CSP SHALL send a confirmation code like a recovery code to it and require the subscriber to return that code.
+elementType: criterion
+externalId: IRC-5
+aliases:
+  - irc_5
+  - IRC-5
+parent: sp800_63b

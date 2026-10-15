@@ -1,0 +1,9 @@
+id: 3c639210-cf0a-4ac9-a6e3-3cac62bf8d94
+name: Expired Authenticator Replacement
+description: The replacement of expired authenticators SHALL conform to the binding process for an additional authenticator, as described in Sec. 4.1.2.
+elementType: criterion
+externalId: EXP-2
+aliases:
+  - exp_2
+  - EXP-2
+parent: sp800_63b

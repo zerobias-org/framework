@@ -1,0 +1,9 @@
+id: 3968b65b-d1ee-4468-a022-12bff4ea2083
+name: Cryptographic Authentication Key Strength
+description: The authentication key and its algorithm SHALL provide at least the minimum security strength specified in the latest revision of [SP800-131A] (i.e., 112 bits as of the date of this publication).
+elementType: criterion
+externalId: SFCVER-2
+aliases:
+  - sfcver_2
+  - SFCVER-2
+parent: sp800_63b

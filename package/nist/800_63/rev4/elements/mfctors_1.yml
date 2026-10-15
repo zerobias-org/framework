@@ -1,0 +1,9 @@
+id: 3e266102-bb7c-421f-99e3-4b80b4e63840
+name: MF Crypto Authenticator Activation Required
+description: Multi-factor cryptographic authenticator keys SHALL only be accessible through presentation and verification of an activation factor, a password or biometric characteristic.
+elementType: criterion
+externalId: MFCTORS-1
+aliases:
+  - mfctors_1
+  - MFCTORS-1
+parent: sp800_63b

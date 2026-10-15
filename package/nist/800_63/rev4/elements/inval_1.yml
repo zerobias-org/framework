@@ -1,0 +1,9 @@
+id: 6432548b-20da-44aa-91fe-6ceab8a56e18
+name: Authenticator Invalidation
+description: CSPs SHALL promptly invalidate authenticators when an account ceases to exist, on subscriber request, upon compromise, or when the subscriber is no longer eligible.
+elementType: criterion
+externalId: INVAL-1
+aliases:
+  - inval_1
+  - INVAL-1
+parent: sp800_63b

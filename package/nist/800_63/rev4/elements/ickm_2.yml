@@ -1,0 +1,9 @@
+id: 79b51ae0-c7ae-4dea-9b80-719ca8ced7b0
+name: Secure Key Exchange
+description: Protocols requiring transfer of cryptographic key information SHALL use an authenticated protected channel to exchange keys needed for the federated relationship.
+elementType: criterion
+externalId: ICKM-2
+aliases:
+  - ickm_2
+  - ICKM-2
+parent: sp800_63c

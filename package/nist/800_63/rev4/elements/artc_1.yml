@@ -1,0 +1,9 @@
+id: 55842c21-0a2c-427f-9b46-a70f4deafc42
+name: Assertions represent Discrete Authentication Events
+description: Assertions SHALL represent a discrete authentication event of the subscriber at the IdP.
+elementType: criterion
+externalId: ARTC-1
+aliases:
+  - artc_1
+  - ARTC-1
+parent: sp800_63c

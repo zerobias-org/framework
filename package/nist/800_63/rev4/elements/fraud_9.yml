@@ -1,0 +1,9 @@
+id: 25f5bbef-99fd-4ad3-bb21-8f2f6c4aef7d
+name: Detect Fraud Indicators
+description: For attended proofing, CSPs SHALL train proofing agents to detect fraud indicators and provide agents and trusted referees tools to flag suspected fraud.
+elementType: criterion
+externalId: FRAUD-9
+aliases:
+  - fraud_9
+  - FRAUD-9
+parent: sp800_63a

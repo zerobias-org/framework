@@ -1,0 +1,9 @@
+id: 92a23c96-c1a1-4aba-bb87-cce341908520
+name: AAL2 Activation Secret Derivation
+description: At AAL2, if a hardware-protected environment is not used, the authenticator SHALL use the activation secret to derive a key used to decrypt the authentication key.
+elementType: criterion
+externalId: AS-7
+aliases:
+  - as_7
+  - AS-7
+parent: sp800_63b

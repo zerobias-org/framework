@@ -1,0 +1,9 @@
+id: a1f175a2-5426-4966-be31-2437b66f4e3a
+name: 'RP Blocklist: IdP Identification'
+description: RP blocklists SHALL identify IdPs by domain names, cryptographic keys or protocol identifiers, treating entities that share an identifier as equivalent.
+elementType: criterion
+externalId: RPBIDP-1
+aliases:
+  - rpbidp_1
+  - RPBIDP-1
+parent: sp800_63c

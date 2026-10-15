@@ -1,0 +1,9 @@
+id: b812cce4-4a5c-4402-ae8f-26660be2daf9
+name: Security and Privacy Reviews of Additional Signals
+description: Additional signals from both the IdP and RP SHALL be subject to a security review, included in the privacy risk assessment, and addressed in the trust agreement.
+elementType: criterion
+externalId: SSIG-9
+aliases:
+  - ssig_9
+  - SSIG-9
+parent: sp800_63c

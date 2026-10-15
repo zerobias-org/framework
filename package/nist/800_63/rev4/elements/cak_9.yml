@@ -1,0 +1,9 @@
+id: ac947b1d-926c-4404-8940-da2f5c362a62
+name: Syncable Key Device Management
+description: Devices holding federal enterprise syncable keys SHALL be protected by device management controls that prevent syncing keys to unauthorized devices or fabrics.
+elementType: criterion
+externalId: CAK-9
+aliases:
+  - cak_9
+  - CAK-9
+parent: sp800_63b

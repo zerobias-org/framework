@@ -1,0 +1,9 @@
+id: 4714b2d0-a4ac-4551-b5ec-86732f83d757
+name: Biometric Failure Limit
+description: Once the overall failure limit is reached, the biometric system SHALL disable biometric authentication and offer another available factor.
+elementType: criterion
+externalId: IAD-3
+aliases:
+  - iad_3
+  - IAD-3
+parent: sp800_63b

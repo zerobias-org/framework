@@ -1,0 +1,9 @@
+id: 34f107e1-00d5-44eb-8adb-8ee461654490
+name: Biometric Test Conditions
+description: This FMR SHALL be achieved under the conditions of a conformant attack (i.e., zero-effort impostor attempt), as defined in [ISO/IEC30107-1].
+elementType: criterion
+externalId: BA-3
+aliases:
+  - ba_3
+  - BA-3
+parent: sp800_63b

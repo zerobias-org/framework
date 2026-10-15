@@ -1,0 +1,9 @@
+id: 4916be73-c511-4f40-9d9d-47626a00078a
+name: Provisioning API Prohibition for Subscriber-Driven Trust Agreements
+description: A provisioning API SHALL NOT be made available under a subscriber-driven trust agreement.
+elementType: criterion
+externalId: PAPI-4
+aliases:
+  - papi_4
+  - PAPI-4
+parent: sp800_63c

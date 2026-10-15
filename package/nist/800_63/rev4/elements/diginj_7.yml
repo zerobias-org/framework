@@ -1,0 +1,9 @@
+id: aea24148-c6b0-429e-afeb-152b17eec61e
+name: Human In The Loop
+description: For remote attended scenarios, CSPs SHALL introduce random "human-in-the-loop" cues into their capture processes to increase the possibility of forged or manipulated media being detected.
+elementType: criterion
+externalId: DIGINJ-7
+aliases:
+  - diginj_7
+  - DIGINJ-7
+parent: sp800_63a

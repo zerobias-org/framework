@@ -1,0 +1,9 @@
+id: 22e6561e-6863-4118-ad5b-9da414899123
+name: RP Processing of Termination Signal
+description: Upon receiving such a signal, the RP SHALL process the RP subscriber account as stipulated in the trust agreement and in accordance with Sec. 3.11.3.
+elementType: criterion
+externalId: ATSYNC-1
+aliases:
+  - atsync_1
+  - ATSYNC-1
+parent: sp800_63c

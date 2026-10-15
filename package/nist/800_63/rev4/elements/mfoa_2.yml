@@ -1,0 +1,9 @@
+id: 2f441cf0-3e26-45b4-8b68-6d90ccf3b5f5
+name: MF-OTP Generation Key Strength
+description: The secret key and its algorithm SHALL provide at least the minimum security strength specified in the latest revision of [SP800-131A] (i.e., 112 bits as of the date of this publication).
+elementType: criterion
+externalId: MFOA-2
+aliases:
+  - mfoa_2
+  - MFOA-2
+parent: sp800_63b

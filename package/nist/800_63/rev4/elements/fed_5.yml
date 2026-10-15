@@ -1,0 +1,9 @@
+id: 827eef47-ef0f-48cc-aace-9e195ddc7a4e
+name: PIA Input
+description: If the agency uses a third-party CSP, the agency SHALL conduct its own PIA and use the CSP's privacy risk assessment as input.
+elementType: criterion
+externalId: FED-5
+aliases:
+  - fed_5
+  - FED-5
+parent: sp800_63a

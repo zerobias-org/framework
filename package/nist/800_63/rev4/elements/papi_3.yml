@@ -1,0 +1,9 @@
+id: 90de0d3b-71ea-4d0c-a574-5f90b9271c50
+name: Provisioning API Mutual Authentication
+description: Access to the provisioning API SHALL occur over a mutually authenticated protected channel.
+elementType: criterion
+externalId: PAPI-3
+aliases:
+  - papi_3
+  - PAPI-3
+parent: sp800_63c

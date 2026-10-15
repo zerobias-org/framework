@@ -1,0 +1,9 @@
+id: ebb50478-7e76-4753-ae02-f4a6143bdaee
+name: Assertion Audience Restriction
+description: Assertions SHALL use audience restriction techniques to allow an RP to recognize whether it is the intended target of an issued assertion.
+elementType: criterion
+externalId: AUDR-1
+aliases:
+  - audr_1
+  - AUDR-1
+parent: sp800_63c

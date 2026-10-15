@@ -1,0 +1,9 @@
+id: d990137c-0b76-48f4-971d-662de64a093d
+name: Notification Multiple Address Support
+description: CSPs SHALL support at least two notification addresses per subscriber account.
+elementType: criterion
+externalId: ANOT-2
+aliases:
+  - anot_2
+  - ANOT-2
+parent: sp800_63b

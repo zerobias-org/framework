@@ -1,0 +1,9 @@
+id: 75fd265b-8215-4701-b93a-6ded5dde0193
+name: Wallet RP Subscriber Account Redress
+description: The RP SHALL provide effective means of redress for the subscriber to correct information in the RP subscriber account.
+elementType: criterion
+externalId: RPSUBA-4
+aliases:
+  - rpsuba_4
+  - RPSUBA-4
+parent: sp800_63c

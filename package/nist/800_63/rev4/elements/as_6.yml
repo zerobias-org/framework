@@ -1,0 +1,9 @@
+id: 34901bb9-8608-4b28-a543-cae6d399581d
+name: AAL3 Hardware-Protected Authentication Secret Verification
+description: For authenticators that are usable at AAL3, verification of activation secrets SHALL be performed in a hardware-protected environment (e.g., a secure element, TPM, or TEE).
+elementType: criterion
+externalId: AS-6
+aliases:
+  - as_6
+  - AS-6
+parent: sp800_63b
