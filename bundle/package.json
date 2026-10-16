@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.77",
+  "version": "0.0.78",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -59,6 +59,7 @@
     "@zerobias-org/framework-nist-800_218-v1_1": "2.2.1",
     "@zerobias-org/framework-nist-800_37-v2": "3.0.1",
     "@zerobias-org/framework-nist-800_39-v1": "3.0.1",
+    "@zerobias-org/framework-nist-800_63-rev4": "1.0.0",
     "@zerobias-org/framework-nist-800_63b-2017": "3.0.1",
     "@zerobias-org/framework-nist-800_66-rev2": "3.0.1",
     "@zerobias-org/framework-nist-ai_600-v1": "2.0.1",
