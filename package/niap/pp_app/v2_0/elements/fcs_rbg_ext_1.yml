@@ -1,0 +1,9 @@
+id: 010d1b2b-78a7-4a12-b80c-fc8ae1f849ae
+name: Random Bit Generation Services
+description: The application shall use no DRBG functionality, invoke platform-provided DRBG functionality, or implement DRBG functionality for its cryptographic operations.
+elementType: sfr
+externalId: FCS_RBG_EXT.1
+aliases:
+  - fcs_rbg_ext_1
+  - FCS_RBG_EXT.1
+parent: fcs

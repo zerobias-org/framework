@@ -1,0 +1,9 @@
+id: 8dde85e2-550b-47cd-a18c-1a83e1a22520
+name: Cryptographic Symmetric Key Generation
+description: The application shall generate 256-bit symmetric keys, or invoke the platform to do so, using the random bit generator specified in FCS_RBG_EXT.1.
+elementType: sfr
+externalId: FCS_CKM.1/SK
+aliases:
+  - fcs_ckm_1_sk
+  - FCS_CKM.1/SK
+parent: fcs

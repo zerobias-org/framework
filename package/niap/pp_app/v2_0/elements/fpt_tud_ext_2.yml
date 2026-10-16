@@ -1,0 +1,9 @@
+id: 757103d6-1e63-428b-96c9-7ff6dea0d969
+name: Integrity for Installation and Update
+description: The application shall be distributed as a signed platform package or container image whose removal deletes all traces except settings, output and logs.
+elementType: sfr
+externalId: FPT_TUD_EXT.2
+aliases:
+  - fpt_tud_ext_2
+  - FPT_TUD_EXT.2
+parent: fpt

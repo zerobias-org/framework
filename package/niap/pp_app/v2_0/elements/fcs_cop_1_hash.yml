@@ -1,0 +1,9 @@
+id: aa002a79-7a63-4bb2-9df6-78573a2603f6
+name: Cryptographic Operation - Hashing
+description: The application shall perform cryptographic hashing with SHA-256, SHA-384 or SHA-512 in accordance with FIPS 180-4.
+elementType: sfr
+externalId: FCS_COP.1/Hash
+aliases:
+  - fcs_cop_1_hash
+  - FCS_COP.1/Hash
+parent: fcs

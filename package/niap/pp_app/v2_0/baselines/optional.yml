@@ -1,0 +1,16 @@
+id: 2b84aca7-6721-4817-b34c-5208bf82ba6a
+name: PP_APP_v2.0 Optional Requirements
+description: 'Protection Profile for Application Software: the requirements a TOE may claim.'
+elements:
+  alc_flr_1:
+    mandatory: false
+    parameters: []
+    requirements: []
+  alc_flr_2:
+    mandatory: false
+    parameters: []
+    requirements: []
+  alc_flr_3:
+    mandatory: false
+    parameters: []
+    requirements: []

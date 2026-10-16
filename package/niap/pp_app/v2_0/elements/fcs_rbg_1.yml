@@ -1,0 +1,9 @@
+id: ae1213a6-ade1-4db3-8fa3-150aae0f9ec6
+name: Random Bit Generation (RBG)
+description: The TSF shall provide deterministic random bit generation with Hash_DRBG, HMAC_DRBG or CTR_DRBG per NIST SP 800-90A, with defined seeding and reseeding.
+elementType: sfr
+externalId: FCS_RBG.1
+aliases:
+  - fcs_rbg_1
+  - FCS_RBG.1
+parent: fcs

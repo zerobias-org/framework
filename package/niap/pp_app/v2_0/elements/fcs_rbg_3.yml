@@ -1,0 +1,9 @@
+id: 976854dd-8c81-4c87-a2f3-7a9e37af69b1
+name: Random Bit Generation (Internal Seeding - Single Source)
+description: The TSF shall be able to seed the random bit generator from one software-based noise source with a defined minimum of min-entropy.
+elementType: sfr
+externalId: FCS_RBG.3
+aliases:
+  - fcs_rbg_3
+  - FCS_RBG.3
+parent: fcs

@@ -1,0 +1,9 @@
+id: 83f74306-3c0f-4bb4-8255-d11c85538853
+name: Independent Testing – Conformance
+description: The developer shall provide the TOE for testing, and the evaluator shall test a subset of the TSF to confirm it operates as specified.
+elementType: sar
+externalId: ATE_IND.1
+aliases:
+  - ate_ind_1
+  - ATE_IND.1
+parent: ate
