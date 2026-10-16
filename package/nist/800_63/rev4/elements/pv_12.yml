@@ -1,0 +1,9 @@
+id: eb0c61e3-df8b-47ab-a10c-c59da41e7768
+name: Password Rate-Limiting
+description: Verifiers SHALL implement a rate-limiting mechanism that effectively limits the number of failed authentication attempts that can be made on the subscriber account, as described in Sec. 3.2.2.
+elementType: criterion
+externalId: PV-12
+aliases:
+  - pv_12
+  - PV-12
+parent: sp800_63b

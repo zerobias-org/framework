@@ -1,0 +1,9 @@
+id: 86e8b984-9957-4e96-9841-35e0a56d9d94
+name: TAs for All Federation Transactions
+description: All federation transactions SHALL be governed by the terms of one or more trust agreements between the applicable parties.
+elementType: criterion
+externalId: TRUST-2
+aliases:
+  - trust_2
+  - TRUST-2
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 784dd81f-9562-49ed-9b7d-7f16de642862
+name: Reasonable Assurance
+description: CSPs collecting biometric samples SHALL do so in a way that provides reasonable assurance the characteristic comes from the applicant and not another subject.
+elementType: criterion
+externalId: BIO-18
+aliases:
+  - bio_18
+  - BIO-18
+parent: sp800_63a

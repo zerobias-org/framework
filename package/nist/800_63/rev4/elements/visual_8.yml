@@ -1,0 +1,9 @@
+id: 4fb30200-5dd5-4ca1-a59c-a601560d1204
+name: Manual Review Training
+description: Visual facial comparison requirements SHALL apply to manual reviews of failed automated biometric comparisons, such as failed 1:N deduplication checks.
+elementType: criterion
+externalId: VISUAL-8
+aliases:
+  - visual_8
+  - VISUAL-8
+parent: sp800_63a

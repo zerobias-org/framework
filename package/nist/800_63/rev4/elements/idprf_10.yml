@@ -1,0 +1,9 @@
+id: 42992f44-b32b-463a-823a-2da4d34f89d9
+name: Evidence Validation
+description: The CSP SHALL validate presented evidence for correct format and completeness, absence of tampering, presence of security features and accuracy of core attributes.
+elementType: criterion
+externalId: IDPRF-10
+aliases:
+  - idprf_10
+  - IDPRF-10
+parent: sp800_63a

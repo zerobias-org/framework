@@ -1,0 +1,9 @@
+id: 49e1e328-ac2f-4da9-9d85-f2c19f1461c7
+name: Non-Deletion Justification
+description: If a CSP does not support biometric deletion requests, it SHALL publicly document the regulatory, statutory, or risk-based justification for their policy.
+elementType: criterion
+externalId: BIO-5
+aliases:
+  - bio_5
+  - BIO-5
+parent: sp800_63a

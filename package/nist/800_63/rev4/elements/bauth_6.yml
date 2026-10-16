@@ -1,0 +1,9 @@
+id: ade2f8c2-881a-4820-b2a5-3a731149248e
+name: Bound vs. Direct Authentication Documentation
+description: RPs SHALL document use of the same authenticator for direct authentication and as a bound authenticator as distinct use cases.
+elementType: criterion
+externalId: BAUTH-6
+aliases:
+  - bauth_6
+  - BAUTH-6
+parent: sp800_63c

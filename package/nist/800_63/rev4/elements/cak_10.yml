@@ -1,0 +1,9 @@
+id: 4e037e87-af3a-4022-9e0b-bc3bbe916ac8
+name: Syncable Key Fabric Management
+description: Access to the sync fabric SHALL be controlled by agency-managed accounts to maintain federal enterprise control over the authentication key's life cycle.
+elementType: criterion
+externalId: CAK-10
+aliases:
+  - cak_10
+  - CAK-10
+parent: sp800_63b

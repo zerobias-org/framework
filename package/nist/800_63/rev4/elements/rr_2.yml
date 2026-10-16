@@ -1,0 +1,9 @@
+id: 1efb4475-8cc4-4782-a790-ff305a1c0038
+name: RP Redress Routing
+description: For matters that involve the IdP or CSP, the RP SHALL provide the subscriber with a means of initiating the redress process with the IdP or CSP, as appropriate.
+elementType: criterion
+externalId: RR-2
+aliases:
+  - rr_2
+  - RR-2
+parent: sp800_63c

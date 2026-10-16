@@ -1,0 +1,9 @@
+id: 8bc9411b-3705-4eae-895c-231507416b20
+name: Session Transport Security Maintenance
+description: Following authentication, authenticated sessions SHALL NOT fall back to an insecure transport (e.g., from https to http).
+elementType: criterion
+externalId: SB-9
+aliases:
+  - sb_9
+  - SB-9
+parent: sp800_63b

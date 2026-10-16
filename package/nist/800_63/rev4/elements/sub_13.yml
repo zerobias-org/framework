@@ -1,0 +1,9 @@
+id: ad614fb4-32ca-4318-9221-9456c226f736
+name: SA Information Deletion
+description: The CSP SHALL delete all personal information from subscriber account records after termination per the retention and disposal requirements in its practices statement.
+elementType: criterion
+externalId: SUB-13
+aliases:
+  - sub_13
+  - SUB-13
+parent: sp800_63a

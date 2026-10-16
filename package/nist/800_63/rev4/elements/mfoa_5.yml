@@ -1,0 +1,9 @@
+id: c5f62fd4-c420-4e55-994b-e6464f74bb39
+name: MF-OTP Activation Secrets
+description: Authenticator activation secrets SHALL meet the requirements of Sec. 3.2.10.
+elementType: criterion
+externalId: MFOA-5
+aliases:
+  - mfoa_5
+  - MFOA-5
+parent: sp800_63b

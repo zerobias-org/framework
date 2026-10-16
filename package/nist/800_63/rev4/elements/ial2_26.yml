@@ -1,0 +1,9 @@
+id: 1f55d021-a313-48bc-86ce-532744d6ff02
+name: IAL2 On-Site Unattended Security Controls
+description: At IAL2, On-site Unattended proofing devices SHALL have baseline security comparable to FISMA moderate, including malware protection, admin access controls and updates.
+elementType: criterion
+externalId: IAL2-26
+aliases:
+  - ial2_26
+  - IAL2-26
+parent: sp800_63a

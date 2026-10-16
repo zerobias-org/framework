@@ -1,0 +1,9 @@
+id: 969da709-8e08-40fe-b5ee-84b112b1a489
+name: Authorized Party Decision
+description: The authorized party stipulated by the trust agreement SHALL decide whether a federation transaction proceeds and, therefore, whether an assertion is issued and attributes are released to the RP.
+elementType: criterion
+externalId: AUTHAD-1
+aliases:
+  - authad_1
+  - AUTHAD-1
+parent: sp800_63c

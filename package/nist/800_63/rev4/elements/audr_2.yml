@@ -1,0 +1,9 @@
+id: 03c00e94-a6e8-4009-81b8-a51413489202
+name: RP Audience Validation
+description: All RPs SHALL check that the audience of an assertion contains an identifier for their RP to prevent the assertion injection and replay of an assertion generated for one RP at another RP.
+elementType: criterion
+externalId: AUDR-2
+aliases:
+  - audr_2
+  - AUDR-2
+parent: sp800_63c

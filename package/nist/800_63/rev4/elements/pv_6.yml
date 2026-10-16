@@ -1,0 +1,9 @@
+id: 589ec771-a30f-4ba2-b7ec-ba8c4bb9aa83
+name: Passwords Not KBA
+description: Verifiers and CSPs SHALL NOT prompt subscribers to use knowledge-based authentication (KBA) (e.g., "What was the name of your first pet?") or security questions when choosing passwords.
+elementType: criterion
+externalId: PV-6
+aliases:
+  - pv_6
+  - PV-6
+parent: sp800_63b

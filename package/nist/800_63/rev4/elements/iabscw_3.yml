@@ -1,0 +1,9 @@
+id: 9c427f40-d493-49ed-86a7-daa72a1878e6
+name: Multi-CSP Attribute Bundle Assertion Conformance
+description: When attribute bundles from multiple CSPs are presented in a single assertion, the assertion SHALL conform to the guideline's assertion requirements.
+elementType: criterion
+externalId: IABSCW-3
+aliases:
+  - iabscw_3
+  - IABSCW-3
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 8dd56ee2-c572-4ba5-9e2a-fe123a595039
+name: SA Update Notifications
+description: The CSP SHALL notify the subscriber of any updates made to information in the subscriber account.
+elementType: criterion
+externalId: SUB-8
+aliases:
+  - sub_8
+  - SUB-8
+parent: sp800_63a

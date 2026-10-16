@@ -1,0 +1,9 @@
+id: 23b81ed6-aa42-401d-9558-dd07ae48275c
+name: Non-Restricted Authenticator Requirement
+description: The CSP SHALL offer subscribers at least one alternative authenticator that is not restricted and can be used to authenticate at the required AAL.
+elementType: criterion
+externalId: RESTA-2
+aliases:
+  - resta_2
+  - RESTA-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: cd86a5f6-fdee-406b-a017-4dfb2940d041
+name: Bound Authenticator Indicator
+description: The IdP SHALL include an indicator in the assertion when the assertion is to be used with a bound authenticator at FAL3.
+elementType: criterion
+externalId: BAUTH-1
+aliases:
+  - bauth_1
+  - BAUTH-1
+parent: sp800_63c

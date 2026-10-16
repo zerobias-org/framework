@@ -1,0 +1,9 @@
+id: 322c16cb-55a4-4fe2-bc6f-4a611ba7db5b
+name: Session Secret Requirement
+description: A session secret SHALL be shared between the subscriber's software and the accessed service.
+elementType: criterion
+externalId: SB-1
+aliases:
+  - sb_1
+  - SB-1
+parent: sp800_63b

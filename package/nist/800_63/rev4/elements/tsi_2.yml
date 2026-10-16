@@ -1,0 +1,9 @@
+id: 08ad4afa-7816-4e88-97be-d2476fd02464
+name: IdP Privacy Risk Management for Additional Processing
+description: If an IdP discloses subscriber RP activity or processes attributes beyond identity service purposes, it SHALL implement measures for predictability and manageability.
+elementType: criterion
+externalId: TSI-2
+aliases:
+  - tsi_2
+  - TSI-2
+parent: sp800_63c

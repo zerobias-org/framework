@@ -1,0 +1,9 @@
+id: 25e7cfa4-5c56-4011-9ef7-74058d93ff39
+name: IAL3 Biometric Capture
+description: For on-site attended identity proofing with collocated agents, the CSP SHALL provide sensors and capture devices for the collection of biometrics from the applicant.
+elementType: criterion
+externalId: IAL3-8
+aliases:
+  - ial3_8
+  - IAL3-8
+parent: sp800_63a

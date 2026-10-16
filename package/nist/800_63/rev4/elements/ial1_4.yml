@@ -1,0 +1,9 @@
+id: 6541de64-e111-49f5-96cc-92da0eb11407
+name: IAL1 Evidence Validation
+description: Each piece of evidence presented SHALL be validated using one of the methods [provided in Sec. 4.1.4].
+elementType: criterion
+externalId: IAL1-4
+aliases:
+  - ial1_4
+  - IAL1-4
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 6c67e765-6c05-4237-9054-cd980b58b858
+name: Symmetric Key Uniqueness
+description: Any symmetric keys used in this relationship SHALL be unique to a pair of federation participants.
+elementType: criterion
+externalId: ICKM-3
+aliases:
+  - ickm_3
+  - ICKM-3
+parent: sp800_63c

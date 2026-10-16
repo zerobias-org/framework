@@ -1,0 +1,9 @@
+id: 195ad72d-8080-4b88-9126-c85782c1a062
+name: Wallet Assertion Presentation Channel Protection
+description: Assertions SHALL be presented to the RP through an authenticated protected channel.
+elementType: criterion
+externalId: ARTPT-1
+aliases:
+  - artpt_1
+  - ARTPT-1
+parent: sp800_63c

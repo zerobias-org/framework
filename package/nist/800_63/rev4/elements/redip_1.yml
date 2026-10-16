@@ -1,0 +1,9 @@
+id: 4caa590f-f32c-4186-8c06-36c6fa5ebf42
+name: Redress Mechanisms
+description: The CSP SHALL provide redress mechanisms for applicant complaints from identity proofing, including failures, delays and compromised account recovery.
+elementType: criterion
+externalId: REDIP-1
+aliases:
+  - redip_1
+  - REDIP-1
+parent: sp800_63a

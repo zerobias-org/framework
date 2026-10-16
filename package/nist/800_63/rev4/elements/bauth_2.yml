@@ -1,0 +1,9 @@
+id: 7e4dde60-2b34-4ca5-99ab-55c017fb6f70
+name: Bound Authenticator Identifier Storage
+description: The unique identifier for the authenticator (such as its public key) SHALL be stored in the RP subscriber account.
+elementType: criterion
+externalId: BAUTH-2
+aliases:
+  - bauth_2
+  - BAUTH-2
+parent: sp800_63c

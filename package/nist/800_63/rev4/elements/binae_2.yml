@@ -1,0 +1,9 @@
+id: 464886ec-4696-4f13-ba28-e086f154eadf
+name: External Authenticator Authenticated Protected Channel
+description: When binding an external authenticator, an authenticated protected channel SHALL be established by the endpoint associated with the new authenticator and the CSP.
+elementType: criterion
+externalId: BINAE-2
+aliases:
+  - binae_2
+  - BINAE-2
+parent: sp800_63b

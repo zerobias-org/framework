@@ -1,0 +1,9 @@
+id: e2eb3a17-52d2-440a-bad1-e0aa55c3dc7d
+name: RP Signed Assertion Validation
+description: The RP SHALL validate the digital signature or MAC of each such assertion based on the issuer's verification key.
+elementType: criterion
+externalId: SIGNA-2
+aliases:
+  - signa_2
+  - SIGNA-2
+parent: sp800_63c

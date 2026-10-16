@@ -1,0 +1,9 @@
+id: 9a550b71-f8d8-4ed6-98ce-865429ba1d91
+name: Bound Authenticator Phishing Resistance
+description: All bound authenticators SHALL use phishing-resistant authentication mechanisms, as defined by Sec. 3.2.5 of [SP800-63B].
+elementType: criterion
+externalId: BAUTH-4
+aliases:
+  - bauth_4
+  - BAUTH-4
+parent: sp800_63c

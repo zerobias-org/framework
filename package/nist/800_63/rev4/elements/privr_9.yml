@@ -1,0 +1,9 @@
+id: 8e89b118-6512-4721-ae3c-9d896aff3c53
+name: Subscriber Account Deprovisioning via API
+description: The IdP SHALL use the provisioning API to deprovision RP subscriber accounts for terminated subscriber accounts, except where RP retention requirements restrict it.
+elementType: criterion
+externalId: PRIVR-9
+aliases:
+  - privr_9
+  - PRIVR-9
+parent: sp800_63c

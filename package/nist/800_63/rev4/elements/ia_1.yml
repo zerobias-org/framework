@@ -1,0 +1,9 @@
+id: a4cb2cdc-062e-4bb3-9260-370f5fdacf85
+name: Impact Analysis - Impacts from Unauthorized Access
+description: The impact analysis SHALL consider the level of impact for each impact category for each type of impacted entity if an intruder obtains unauthorized access as a member of each user group.
+elementType: criterion
+externalId: IA-1
+aliases:
+  - ia_1
+  - IA-1
+parent: sp800_63

@@ -1,0 +1,9 @@
+id: a8c35ac4-1a40-4012-b1d6-ef66fbbfe06f
+name: Password Non-Expiration
+description: Verifiers and CSPs SHALL NOT require subscribers to change passwords periodically. However, verifiers SHALL force a change if there is evidence that the authenticator has been compromised.
+elementType: criterion
+externalId: PV-4
+aliases:
+  - pv_4
+  - PV-4
+parent: sp800_63b

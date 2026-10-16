@@ -1,0 +1,9 @@
+id: 8b089244-4157-4cb5-ad97-d0a3cf60fa77
+name: Personal Information Removal Upon Time-Based Termination
+description: Upon termination, the RP SHALL remove all personal information associated with the RP subscriber account in accordance with Sec. 3.11.3.
+elementType: criterion
+externalId: TBRRP-2
+aliases:
+  - tbrrp_2
+  - TBRRP-2
+parent: sp800_63c

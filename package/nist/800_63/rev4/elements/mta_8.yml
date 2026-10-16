@@ -1,0 +1,9 @@
+id: 2a960b86-623c-44a2-b529-a427192435cb
+name: 'MTA Vetting: Protocol Profiles'
+description: Vetting of CSPs, IdPs, and RPs SHALL establish that RP and IdP systems use the federation protocol profiles specified by the federation authority.
+elementType: criterion
+externalId: MTA-8
+aliases:
+  - mta_8
+  - MTA-8
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 26923348-b7c4-4404-8263-d3afb202c7cf
+name: Physical Authenticator Invalidation
+description: The CSP SHALL provide a mechanism to invalidate the authenticator immediately upon notification from a subscriber that the authenticator's loss, theft, or compromise is suspected.
+elementType: criterion
+externalId: PHYSA-2
+aliases:
+  - physa_2
+  - PHYSA-2
+parent: sp800_63b

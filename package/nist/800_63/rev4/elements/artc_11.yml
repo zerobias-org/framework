@@ -1,0 +1,9 @@
+id: ba9d7cbc-a4b5-450c-956e-bb76bba9aca1
+name: Subject ID Uniqueness
+description: An RP that uses the federated identifier to identify the subscriber SHALL NOT treat subject identifiers as inherently globally unique across IdPs.
+elementType: criterion
+externalId: ARTC-11
+aliases:
+  - artc_11
+  - ARTC-11
+parent: sp800_63c

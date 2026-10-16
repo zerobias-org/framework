@@ -1,0 +1,9 @@
+id: 8d26c216-91a2-432c-8a37-44f9193fac9c
+name: AAL3 FIPS140 Verifiers
+description: Cryptography used by verifiers at AAL3 SHALL be validated at [FIPS140] Level 1 or higher.
+elementType: criterion
+externalId: AAL3AVR-8
+aliases:
+  - aal3avr_8
+  - AAL3AVR-8
+parent: sp800_63b

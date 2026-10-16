@@ -1,0 +1,9 @@
+id: b6fa37cc-c716-421c-96bc-183f11a8845e
+name: IAL1 Remote Attended Fraud Flags
+description: For Remote Attended identity proofing, the CSP SHALL provide proofing agents with a method or mechanism to flag events for potential fraud.
+elementType: criterion
+externalId: IAL1-13
+aliases:
+  - ial1_13
+  - IAL1-13
+parent: sp800_63a

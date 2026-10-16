@@ -1,0 +1,9 @@
+id: 46cc42be-047e-4f9c-b88a-ded0c1b90148
+name: IdP Subscriber Redress
+description: For matters involving federation use of the subscriber account and items in the IdP's control, the IdP SHALL provide the subscriber a clear, accessible means of redress.
+elementType: criterion
+externalId: RR-3
+aliases:
+  - rr_3
+  - RR-3
+parent: sp800_63c

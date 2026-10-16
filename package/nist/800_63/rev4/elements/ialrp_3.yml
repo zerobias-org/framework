@@ -1,0 +1,9 @@
+id: efe72ae7-a0f9-468a-bc13-226cd2c1548b
+name: 'Allowlist: Subscriber Availability'
+description: IdPs SHALL make allowlists available to subscribers, as described in Sec. 7.2.
+elementType: criterion
+externalId: IALRP-3
+aliases:
+  - ialrp_3
+  - IALRP-3
+parent: sp800_63c

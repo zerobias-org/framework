@@ -1,0 +1,9 @@
+id: ab4a1f6b-6006-4090-b0b7-f9450c2db8ce
+name: 'IdP-to-RP Signaling: Pre-Established Trust Agreement Required'
+description: Signaling from the IdP to the RP SHALL require a pre-established trust agreement.
+elementType: criterion
+externalId: SSIG-6
+aliases:
+  - ssig_6
+  - SSIG-6
+parent: sp800_63c

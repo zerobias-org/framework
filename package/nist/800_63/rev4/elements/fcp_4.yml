@@ -1,0 +1,9 @@
+id: 13ab28d1-5460-4372-bc74-8decd84f9177
+name: Front-Channel Personal Information Protection
+description: As a consequence, an IdP that uses HTTP redirects for the front-channel presentation of assertions SHALL encrypt all personal information in the assertion, as discussed in Sec. 3.13.3.
+elementType: criterion
+externalId: FCP-4
+aliases:
+  - fcp_4
+  - FCP-4
+parent: sp800_63c

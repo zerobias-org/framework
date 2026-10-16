@@ -1,0 +1,9 @@
+id: f385bb9b-459c-4300-9a09-524d374a946d
+name: Attribute Bundle Uniqueness
+description: The CSP SHALL create a unique attribute bundle for each requesting wallet.
+elementType: criterion
+externalId: IABSCW-2
+aliases:
+  - iabscw_2
+  - IABSCW-2
+parent: sp800_63c

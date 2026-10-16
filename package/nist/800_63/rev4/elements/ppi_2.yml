@@ -1,0 +1,9 @@
+id: 87090b67-a71b-43cd-a218-cc06786c3912
+name: PPI Correlation Prevention
+description: If PPIs are used alongside identifying attributes, RPs SHALL establish privacy policies, processes, and procedures to prevent correlation of subscriber data.
+elementType: criterion
+externalId: PPI-2
+aliases:
+  - ppi_2
+  - PPI-2
+parent: sp800_63c

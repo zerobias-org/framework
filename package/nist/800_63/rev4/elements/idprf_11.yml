@@ -1,0 +1,9 @@
+id: 652d6c35-8924-4f6c-82c8-fa85121a6350
+name: Attribute Validation
+description: The CSP SHALL validate all core attributes, whether obtained from identity evidence or self-asserted by the applicant, with an authoritative or credible source.
+elementType: criterion
+externalId: IDPRF-11
+aliases:
+  - idprf_11
+  - IDPRF-11
+parent: sp800_63a

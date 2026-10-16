@@ -1,0 +1,9 @@
+id: 849b0759-afc6-40b2-8f6c-9ee27b0a5d52
+name: Provisioning API Control and Jurisdiction
+description: Any provisioning API provided to the RP SHALL be under the control and jurisdiction of the IdP.
+elementType: criterion
+externalId: PAPI-8
+aliases:
+  - papi_8
+  - PAPI-8
+parent: sp800_63c

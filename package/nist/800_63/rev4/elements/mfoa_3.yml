@@ -1,0 +1,9 @@
+id: c5ea2436-f0b5-47ca-a3e0-4328125e4baa
+name: MF-OTP Nonce Length
+description: The nonce SHALL be of sufficient length to ensure that it is unique for each operation of the authenticator over its lifetime.
+elementType: criterion
+externalId: MFOA-3
+aliases:
+  - mfoa_3
+  - MFOA-3
+parent: sp800_63b

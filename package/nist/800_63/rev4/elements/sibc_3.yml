@@ -1,0 +1,9 @@
+id: 3d203e73-cf1d-49b3-bf04-98a9baebacd4
+name: CSP Information Transfer Policy
+description: The terms of the trust agreement that connects CSPs SHALL define the policies that apply for the transfer of information shared between CSPs.
+elementType: criterion
+externalId: SIBC-3
+aliases:
+  - sibc_3
+  - SIBC-3
+parent: sp800_63c

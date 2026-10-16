@@ -1,0 +1,9 @@
+id: a63bb345-de69-4590-a125-a4713d3c8e41
+name: IAL3 Subscriber Verification
+description: At IAL3, if the initial authenticator is bound outside a single protected session, the CSP SHALL compare a subscriber biometric sample to the one collected at proofing.
+elementType: criterion
+externalId: IAL3-24
+aliases:
+  - ial3_24
+  - IAL3-24
+parent: sp800_63a

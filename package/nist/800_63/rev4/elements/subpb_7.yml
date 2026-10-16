@@ -1,0 +1,9 @@
+id: 5d534b13-ed66-4a64-b3a1-192a4a1d5fdc
+name: Post-Binding Ceremony Transaction Initiation
+description: Upon successful completion of the binding ceremony, the RP SHALL immediately request a new assertion from the IdP at FAL3.
+elementType: criterion
+externalId: SUBPB-7
+aliases:
+  - subpb_7
+  - SUBPB-7
+parent: sp800_63c

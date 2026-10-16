@@ -1,0 +1,9 @@
+id: 62af817f-2120-4a14-b32c-fc2012da1d40
+name: Redress Mechanism Assessment & Disclosure
+description: The IdP and RP SHALL each assess their respective redress mechanisms for efficacy in resolving complaints or problems and disclose the results of this assessment as part of the trust agreement.
+elementType: criterion
+externalId: PETA-4
+aliases:
+  - peta_4
+  - PETA-4
+parent: sp800_63c

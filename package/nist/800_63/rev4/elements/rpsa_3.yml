@@ -1,0 +1,9 @@
+id: 07cf2115-0300-4ffe-9ec4-287cdeb0bb03
+name: Federated Identifier Change Notifications
+description: The RP SHALL notify the subscriber when a federated identifier is added to an existing RP subscriber account or removed without terminating the account.
+elementType: criterion
+externalId: RPSA-3
+aliases:
+  - rpsa_3
+  - RPSA-3
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 42f32549-fb3d-4bc1-8cf1-90417593e29a
+name: 'IdP Redress Routing: CSP'
+description: For matters that involve a subscriber account that has been made available to the IdP, the IdP SHALL provide the subscriber with a means of initiating the redress process with the CSP.
+elementType: criterion
+externalId: RR-5
+aliases:
+  - rr_5
+  - RR-5
+parent: sp800_63c

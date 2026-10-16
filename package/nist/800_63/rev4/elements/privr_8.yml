@@ -1,0 +1,9 @@
+id: e8dfc0be-6e2d-47cc-8af2-905b1ca6ab35
+name: Provisioning API Population Limitation
+description: The IdP SHALL limit the population of subscriber accounts that are available via the provisioning API to the population of subscribers authorized to use the RP by the trust agreement.
+elementType: criterion
+externalId: PRIVR-8
+aliases:
+  - privr_8
+  - PRIVR-8
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 86659922-e71c-4b1f-82a3-7843ca0baa40
+name: RP-Initiated Transactions
+description: The federation transaction SHALL be initiated by the RP.
+elementType: criterion
+externalId: FAL2-2
+aliases:
+  - fal2_2
+  - FAL2-2
+parent: sp800_63c

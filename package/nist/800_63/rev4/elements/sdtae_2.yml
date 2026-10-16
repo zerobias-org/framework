@@ -1,0 +1,9 @@
+id: 38a39aa8-33b0-4954-bef8-6acc8c681528
+name: Subscriber-Driven Redress Assessment Disclosure
+description: The IdP SHALL assess its redress mechanisms for efficacy in resolving complaints or problems and disclose the results of this assessment to the subscriber.
+elementType: criterion
+externalId: SDTAE-2
+aliases:
+  - sdtae_2
+  - SDTAE-2
+parent: sp800_63c

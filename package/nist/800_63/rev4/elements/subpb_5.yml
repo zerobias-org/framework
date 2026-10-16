@@ -1,0 +1,9 @@
+id: 9d3a4734-4d10-43c7-83c5-e1046d0436d4
+name: Binding Ceremony Session Timeout
+description: The binding ceremony session SHALL have a timeout of five minutes or less.
+elementType: criterion
+externalId: SUBPB-5
+aliases:
+  - subpb_5
+  - SUBPB-5
+parent: sp800_63c

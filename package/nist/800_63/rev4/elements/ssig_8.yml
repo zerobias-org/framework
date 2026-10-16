@@ -1,0 +1,9 @@
+id: de9223b6-cbdb-49d5-b038-bd60ee69c204
+name: IdP Compromise Notification to Affected RPs
+description: If suspicious activity is confirmed at the IdP, the IdP SHALL signal any additional RPs that the subscriber account was used for during the suspected time frame.
+elementType: criterion
+externalId: SSIG-8
+aliases:
+  - ssig_8
+  - SSIG-8
+parent: sp800_63c

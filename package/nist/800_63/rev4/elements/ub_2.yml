@@ -1,0 +1,9 @@
+id: c7d124d9-0645-4885-a950-aed68d5e5b0b
+name: Biometrics Not Cached
+description: The biometric characteristic SHALL be presented and compared for each authentication operation.
+elementType: criterion
+externalId: UB-2
+aliases:
+  - ub_2
+  - UB-2
+parent: sp800_63b

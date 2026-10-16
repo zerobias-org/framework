@@ -1,0 +1,9 @@
+id: 19d7c40e-df1d-4f4c-95f0-2ac22e4492c5
+name: Stored Consent
+description: CSPs SHALL store a record of the subscriber's consent for biometric use and associate it with the subscriber's account.
+elementType: criterion
+externalId: BIO-3
+aliases:
+  - bio_3
+  - BIO-3
+parent: sp800_63a

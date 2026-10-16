@@ -1,0 +1,9 @@
+id: 0f5c8a44-ba1a-4202-a955-d2869a35800f
+name: External Authenticator Association Methods
+description: When binding an external authenticator, the subscriber SHALL transfer the binding code to the other endpoint manually or via a local out-of-band method such as a QR code.
+elementType: criterion
+externalId: BINAE-6
+aliases:
+  - binae_6
+  - BINAE-6
+parent: sp800_63b

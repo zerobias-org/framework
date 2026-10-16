@@ -1,0 +1,9 @@
+id: cfe99a4c-1a47-4adf-a23f-fff5e6067e09
+name: Saved Recovery Code Replay
+description: Following the use of a saved recovery code, the CSP SHALL invalidate that recovery code and SHALL issue a new saved recovery code to the subscriber.
+elementType: criterion
+externalId: SRC-5
+aliases:
+  - src_5
+  - SRC-5
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: a4f9d500-2f43-4ef6-985e-482e86efe627
+name: Look-Up Secret Salt Storage
+description: Both the salt value and the resulting hash SHALL be stored for each lookup secret.
+elementType: criterion
+externalId: LSV-8
+aliases:
+  - lsv_8
+  - LSV-8
+parent: sp800_63b

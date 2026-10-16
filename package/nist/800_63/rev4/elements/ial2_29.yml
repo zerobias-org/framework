@@ -1,0 +1,9 @@
+id: 6b6806ea-617c-46ad-98c9-0149edf6eb75
+name: IAL2 Proofing Notification
+description: Upon the successful completion of identity proofing at IAL2, the CSP SHALL send a notification of proofing to a validated address for the applicant, as specified in Sec. 3.10.
+elementType: criterion
+externalId: IAL2-29
+aliases:
+  - ial2_29
+  - IAL2-29
+parent: sp800_63a

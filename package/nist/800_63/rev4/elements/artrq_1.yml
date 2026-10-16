@@ -1,0 +1,9 @@
+id: e71ab22b-fee9-4d91-9234-8a25160a1923
+name: Assertion Request Requirements
+description: When the RP initiates federation, its assertion request SHALL contain an identifier for the RP and a cryptographic nonce to be returned in the assertion.
+elementType: criterion
+externalId: ARTRQ-1
+aliases:
+  - artrq_1
+  - ARTRQ-1
+parent: sp800_63c

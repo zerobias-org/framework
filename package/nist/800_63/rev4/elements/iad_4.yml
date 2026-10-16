@@ -1,0 +1,9 @@
+id: fc2b8a24-0c5e-434f-a200-09ca7e7292e8
+name: Biometric Unlocking Independence
+description: The presentation of a biometric factor for authenticator activation SHALL be a separate operation from unlocking the host device (e.g., smartphone).
+elementType: criterion
+externalId: IAD-4
+aliases:
+  - iad_4
+  - IAD-4
+parent: sp800_63b

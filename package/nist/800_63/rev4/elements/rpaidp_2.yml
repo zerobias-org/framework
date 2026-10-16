@@ -1,0 +1,9 @@
+id: 9e735167-6223-48ac-95fc-25b2e4453940
+name: 'RP Allowlist: IdP Identification'
+description: RP allowlists SHALL uniquely identify IdPs by FQDN, cryptographic key or protocol identifier, and an IdP allowlist entry SHALL NOT use a wildcard domain.
+elementType: criterion
+externalId: RPAIDP-2
+aliases:
+  - rpaidp_2
+  - RPAIDP-2
+parent: sp800_63c

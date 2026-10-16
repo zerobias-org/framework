@@ -1,0 +1,9 @@
+id: 23aa3141-c2e7-4808-80e2-5a403f0c34b8
+name: Subject Identifier in Assertion
+description: 'If the subscriber is identified using a federated identifier, the assertion SHALL include: Subject Identifier: An identifier for the party to which the assertion applies (i.e., the subscriber).'
+elementType: criterion
+externalId: ARTC-5
+aliases:
+  - artc_5
+  - ARTC-5
+parent: sp800_63c

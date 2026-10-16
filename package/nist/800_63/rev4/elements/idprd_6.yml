@@ -1,0 +1,9 @@
+id: bd716a14-3a8e-4da3-ac53-9113af180a7b
+name: 'RP Not on Allowlist: Sensitive Information Masking'
+description: To mitigate the risk of unauthorized exposure of sensitive information (e.g., shoulder surfing), the IdP SHALL, by default, mask sensitive information displayed to the subscriber.
+elementType: criterion
+externalId: IDPRD-6
+aliases:
+  - idprd_6
+  - IDPRD-6
+parent: sp800_63c

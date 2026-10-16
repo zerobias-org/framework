@@ -1,0 +1,9 @@
+id: 38e3f7b1-80e1-401a-9bf2-61848624dd05
+name: FAL3 Pre-Established Trust Agreements
+description: At FAL3, a trust agreement SHALL be established prior to the federation transaction taking place (i.e., a "pre-established" trust agreement), as discussed in Sec. 4.3.1.
+elementType: criterion
+externalId: FAL3-2
+aliases:
+  - fal3_2
+  - FAL3-2
+parent: sp800_63c

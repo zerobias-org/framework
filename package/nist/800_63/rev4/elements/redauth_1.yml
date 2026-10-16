@@ -1,0 +1,9 @@
+id: 2f134296-61be-40c3-9f05-966613a2d321
+name: Redress Provision
+description: The verifier and associated CSP or IdP SHALL provide mechanisms for redress of subscriber complaints and problems arising from subscriber authentication processes.
+elementType: criterion
+externalId: REDAUTH-1
+aliases:
+  - redauth_1
+  - REDAUTH-1
+parent: sp800_63b

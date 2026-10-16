@@ -1,0 +1,9 @@
+id: 0218e60d-bd82-4c86-a3d3-a4b4b3e0dd8a
+name: Proxy Identifier
+description: The federated identifier (see Sec. 3.4) of an assertion from a proxy SHALL indicate the proxy as the issuer of the assertion.
+elementType: criterion
+externalId: PROXY-3
+aliases:
+  - proxy_3
+  - PROXY-3
+parent: sp800_63c

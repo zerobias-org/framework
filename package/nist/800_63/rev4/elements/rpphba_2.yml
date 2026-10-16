@@ -1,0 +1,9 @@
+id: 08cb0195-197f-420d-acd4-b4c3f2fbccc5
+name: HoK Authenticator Reference Trust Level
+description: An authenticator reference in a holder-of-key assertion SHALL be trusted at the same level as all other assertion information, as stipulated in the trust agreement.
+elementType: criterion
+externalId: RPPHBA-2
+aliases:
+  - rpphba_2
+  - RPPHBA-2
+parent: sp800_63c

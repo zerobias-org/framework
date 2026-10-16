@@ -1,0 +1,9 @@
+id: b8e7b50b-e28d-4a08-9c2f-7d2cdc8d970a
+name: Key Protection
+description: Federal IdPs presenting assertions at FAL2 or higher SHALL protect assertion signing keys with mechanisms validated at FIPS 140 Level 1 or higher.
+elementType: criterion
+externalId: FAL2-7
+aliases:
+  - fal2_7
+  - FAL2-7
+parent: sp800_63c

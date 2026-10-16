@@ -1,0 +1,9 @@
+id: d6ca36bb-10a3-44e9-8614-a11a0074bdbe
+name: Bio Consent
+description: CSPs SHALL obtain explicit informed consent to collect and use biometrics from all applicants.
+elementType: criterion
+externalId: BIO-2
+aliases:
+  - bio_2
+  - BIO-2
+parent: sp800_63a

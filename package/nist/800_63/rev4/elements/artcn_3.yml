@@ -1,0 +1,9 @@
+id: c22cc8ec-f6fe-4799-bc18-3c1da9a5f839
+name: Hosted Wallet AAL Reporting
+description: For a remotely hosted subscriber-controlled wallet, the AAL of the current hosted session SHALL be conveyed in the assertion or the applicable trust agreement.
+elementType: criterion
+externalId: ARTCN-3
+aliases:
+  - artcn_3
+  - ARTCN-3
+parent: sp800_63c

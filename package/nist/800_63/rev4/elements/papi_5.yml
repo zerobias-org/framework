@@ -1,0 +1,9 @@
+id: 87545f4b-bcce-4165-a294-eecf8bf9df14
+name: Trust Agreement Required for Provisioning API
+description: The IdP SHALL NOT make a provisioning API available to any RP outside of an established trust agreement.
+elementType: criterion
+externalId: PAPI-5
+aliases:
+  - papi_5
+  - PAPI-5
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: d35cc793-e9ed-49f3-b6dd-e63af62512f8
+name: Restricted Authenticator Risk Notice
+description: The CSP SHALL provide subscribers with meaningful notice regarding the restricted authenticator's security risks and the availability of unrestricted alternatives.
+elementType: criterion
+externalId: RESTA-3
+aliases:
+  - resta_3
+  - RESTA-3
+parent: sp800_63b

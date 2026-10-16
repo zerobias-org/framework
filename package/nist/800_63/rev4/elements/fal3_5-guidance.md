@@ -1,0 +1,9 @@
+This requirement ensures that each participant obtains verification keys only from validated sources consistent with the established trust agreement. For example, a public-key certificate that represents the RP is uploaded to the IdP during a manual registration process. The RP is manually configured with a URL that it can use to download the IdP's public key. Alternatively, the IdP and RP could each upload their respective public keys to a federation authority and then download each other's keys from that same location. For a subscriber-controlled wallet, the RP could be manually configured with the URL that represents the CSP's public key. The RP fetches this public key and uses it to validate the signature of the attribute bundle presented by the subscriber-controlled wallet. See Sec. 3.6 for more information on the establishment, management, rotation, and revocation of keys and their association with identifiers.
+
+**Assessment objective**
+
+Determine whether verification keys are transmitted through a trusted mechanism, ensuring that key material is received from an authenticated and authorized source, and that the mechanism is documented as part of the trust agreement.
+
+**Assessment methods**
+
+- EXAMINE: Examine documented procedures to determine how verification keys are exchanged, confirming that the mechanism matches the trusted method specified in the relevant trust agreement artifact(s). Determine whether the key exchange mechanism is manual or automated. For automated mechanisms, confirm conformance with ICKM-2. For manual mechanisms, verify that procedures are in place to confirm that the requesting party's identity has been sufficiently verified. Verify that the mechanism for transmitting the verification key is accurately documented and made available to the key recipients.

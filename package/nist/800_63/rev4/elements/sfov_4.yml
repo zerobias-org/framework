@@ -1,0 +1,9 @@
+id: 65196617-c075-4a9d-b5e7-bcccd8caa75d
+name: OTP Replay Protection
+description: Verifiers SHALL accept a given OTP only once while it is valid to provide replay resistance, as described in Sec. 3.2.7.
+elementType: criterion
+externalId: SFOV-4
+aliases:
+  - sfov_4
+  - SFOV-4
+parent: sp800_63b

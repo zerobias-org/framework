@@ -1,0 +1,9 @@
+id: 57dc593b-3622-4e70-94be-15110a73eca6
+name: Unique Federated Identifiers
+description: When federated identifiers are used, the federated identifier SHALL be unique to that subscriber.
+elementType: criterion
+externalId: FEDID-1
+aliases:
+  - fedid_1
+  - FEDID-1
+parent: sp800_63c

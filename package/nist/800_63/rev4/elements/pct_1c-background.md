@@ -1,0 +1,3 @@
+**Applies to:** Organization · **Topic:** Threat Resistance · **Section:** SP 800-63-4 3.4.1 B
+
+At a minimum, organizations SHALL assess the impacts and potential unintended consequences related to Threat Resistance - Determine whether the defined assurance level and related controls will address specific threats to the online service based on the operational environment, its threat actors, and known tactics, techniques, and procedures (TTPs). Threat assessments SHALL consider specific known and potential threats, threat actors, and TTPs within the implementation environment for the identity management functions.

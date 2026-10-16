@@ -1,0 +1,9 @@
+id: e73cbe27-3c26-4f28-a13b-5f88b428038e
+name: PAD Tests
+description: All biometric presentation attack detection tests SHALL be conformant to ISO/IEC 30107-3:2023.
+elementType: criterion
+externalId: BIO-20
+aliases:
+  - bio_20
+  - BIO-20
+parent: sp800_63a

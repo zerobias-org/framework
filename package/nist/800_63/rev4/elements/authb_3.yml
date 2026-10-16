@@ -1,0 +1,9 @@
+id: b1d91bed-562e-4d1a-9ded-4de157bf58c6
+name: CSP Authenticator Characteristics Determination
+description: The CSP SHALL determine the characteristics of the authenticator being bound, such as multifactor or phishing-resistant, so verifiers can assess AAL compliance.
+elementType: criterion
+externalId: AUTHB-3
+aliases:
+  - authb_3
+  - AUTHB-3
+parent: sp800_63b

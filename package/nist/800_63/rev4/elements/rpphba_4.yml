@@ -1,0 +1,9 @@
+id: e6ffe660-a1d9-447b-babb-01ec7655b687
+name: Bound Authenticator Failure Handling
+description: Failure to authenticate with the bound authenticator SHALL result in an error at the RP and SHALL NOT create an authenticated session at the RP.
+elementType: criterion
+externalId: RPPHBA-4
+aliases:
+  - rpphba_4
+  - RPPHBA-4
+parent: sp800_63c

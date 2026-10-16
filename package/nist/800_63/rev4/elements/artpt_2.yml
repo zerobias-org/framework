@@ -1,0 +1,9 @@
+id: 75f89377-5348-45ca-969e-dc722b9001d9
+name: Wallet Presentation Nonce Inclusion
+description: The presentation SHALL include the cryptographic nonce from the RP's request, if present (this is required at FAL2 and above).
+elementType: criterion
+externalId: ARTPT-2
+aliases:
+  - artpt_2
+  - ARTPT-2
+parent: sp800_63c

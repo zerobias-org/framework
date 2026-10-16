@@ -1,0 +1,9 @@
+id: 3702b480-0ced-4bfc-b3a7-937278e15888
+name: Notification Repudiation Instructions
+description: The notification SHALL provide clear instructions, including contact information, in case the recipient repudiates the event associated with the notification.
+elementType: criterion
+externalId: ANOT-7
+aliases:
+  - anot_7
+  - ANOT-7
+parent: sp800_63b

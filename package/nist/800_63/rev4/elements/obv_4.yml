@@ -1,0 +1,9 @@
+id: 18e1e212-a1e4-41dc-89ae-dc133c29310e
+name: Out-Of-Band Replay Resistance
+description: Verifiers SHALL accept a given authentication secret as valid only once during the validity period to provide replay resistance, as described in Sec. 3.2.7.
+elementType: criterion
+externalId: OBV-4
+aliases:
+  - obv_4
+  - OBV-4
+parent: sp800_63b
