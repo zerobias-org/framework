@@ -1,0 +1,9 @@
+id: cff81353-22a5-4b43-8aa8-03218fa24170
+name: MF External Authentication Key Requirements
+description: External (non-embedded) cryptographic authenticators SHALL meet the requirements for connected authenticators in Sec. 3.2.11.
+elementType: criterion
+externalId: MFCTORS-4
+aliases:
+  - mfctors_4
+  - MFCTORS-4
+parent: sp800_63b

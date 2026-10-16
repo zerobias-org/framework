@@ -1,0 +1,9 @@
+id: ba472082-0102-4bf2-b31f-5efb82a7d25d
+name: Activation Secret Minimum Length
+description: Authenticators that use activation secrets SHALL require the secrets to be at least four characters in length and SHOULD require the secrets to be at least six characters in length.
+elementType: criterion
+externalId: AS-2
+aliases:
+  - as_2
+  - AS-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 88205fdd-f929-48ea-942c-88c21839f119
+name: Rate Limiting AAL Limitation
+description: If an authenticator's retry count is reset after successful authentication, its maximum AAL SHALL not exceed the AAL of the session from which it is reset.
+elementType: criterion
+externalId: RL-5
+aliases:
+  - rl_5
+  - RL-5
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 68166923-621c-44a8-a0af-e6554fe1b5f5
+name: Verifier Blocklist Substrings
+description: The entire password SHALL be subject to comparison, not substrings or words that might be contained therein.
+elementType: criterion
+externalId: PV-9
+aliases:
+  - pv_9
+  - PV-9
+parent: sp800_63b

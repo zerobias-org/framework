@@ -1,0 +1,9 @@
+id: 76282295-ee8c-48c5-8f6c-35dd35c56653
+name: ID Verification Methods
+description: The CSP SHALL verify the linkage between the claimed identity to the applicant engaged in the identity proofing process through one or more of the [methods provided in Sec. 2.5.1].
+elementType: criterion
+externalId: IDPRF-13
+aliases:
+  - idprf_13
+  - IDPRF-13
+parent: sp800_63a

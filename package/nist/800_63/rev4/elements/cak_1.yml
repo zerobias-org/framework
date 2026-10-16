@@ -1,0 +1,9 @@
+id: fe9b81e9-7886-49ab-87bd-a647d541f6d8
+name: Syncable Authentication Key Generation
+description: All keys SHALL be generated using approved cryptography.
+elementType: criterion
+externalId: CAK-1
+aliases:
+  - cak_1
+  - CAK-1
+parent: sp800_63b

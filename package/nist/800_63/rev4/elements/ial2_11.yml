@@ -1,0 +1,9 @@
+id: 5aded395-2847-48d9-978b-eb2d2b93447a
+name: IAL2 Non-Bio Evidence
+description: In the IAL2 non-biometric pathway, the CSP SHALL verify ownership of all presented evidence, or of the strongest piece for on-site attended proofing.
+elementType: criterion
+externalId: IAL2-11
+aliases:
+  - ial2_11
+  - IAL2-11
+parent: sp800_63a

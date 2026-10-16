@@ -1,0 +1,9 @@
+id: 9a3d017e-7b82-4362-b4e1-9740436b8945
+name: Unguessable PPIs
+description: The PPI SHALL be difficult to guess by a party with access to information about the subscriber.
+elementType: criterion
+externalId: PPI-5
+aliases:
+  - ppi_5
+  - PPI-5
+parent: sp800_63c

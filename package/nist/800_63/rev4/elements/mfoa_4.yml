@@ -1,0 +1,9 @@
+id: 8a348c2b-5cf0-4d7a-beb9-21632c93aea0
+name: MF-TOTP Change Frequency
+description: If the nonce used to generate the authenticator output is based on a real-time clock, the nonce SHALL be changed at least once every two minutes.
+elementType: criterion
+externalId: MFOA-4
+aliases:
+  - mfoa_4
+  - MFOA-4
+parent: sp800_63b

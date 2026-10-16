@@ -1,0 +1,13 @@
+A compensating control is a management, operational, or technical control employed by an organization in lieu of a normative control (i.e., SHALL statements) in the defined xALs. (Ref. Sec. 3.4.2. A)
+
+The purpose of this requirement is to allow the RP to assess and determine the acceptability of the compensating controls for their use cases.(Ref. Sec. 3.4.2. C)
+
+Assessment is required when: compensating controls are implemented. Per section 3.4.2, "Organizations MAY choose to implement a compensating control if they are unable to implement a baseline control or when a risk assessment indicates that a compensating control sufficiently mitigates risk in alignment with organizational risk tolerance. This control MAY be a modification to the normative statements defined in these guidelines or MAY be applied elsewhere in an online service, digital transaction, or service life cycle."
+
+**Assessment objective**
+
+Determine if implemented compensating controls are documented, including the rationale for the deviation, comparability of the chosen alternative, and any resulting residual risks.
+
+**Assessment methods**
+
+- EXAMINE: Examine the tailoring documentation to ensure implemented compensating controls are fully documented, including the rationale for the deviation, comparability of the chosen alternative, and any resulting residual risks.

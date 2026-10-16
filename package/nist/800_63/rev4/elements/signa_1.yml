@@ -1,0 +1,9 @@
+id: 5730a70a-e987-4c64-ac12-8835ed8d26a9
+name: Signed Assertions
+description: Assertions SHALL be cryptographically signed by the issuer (IdP).
+elementType: criterion
+externalId: SIGNA-1
+aliases:
+  - signa_1
+  - SIGNA-1
+parent: sp800_63c

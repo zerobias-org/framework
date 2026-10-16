@@ -1,0 +1,9 @@
+id: 0d4f01b8-4ef4-4a8b-8616-a8997ec6106d
+name: Subscriber Identification in Non-Ephemeral Assertions
+description: If the RP subscriber account is not ephemerally provisioned, the subscriber SHALL be identified in the assertion by a federated identifier or account resolution.
+elementType: criterion
+externalId: ARTC-4
+aliases:
+  - artc_4
+  - ARTC-4
+parent: sp800_63c

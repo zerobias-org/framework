@@ -1,0 +1,9 @@
+id: eb1f3017-6e2c-4601-a2af-ce6d98d2cce0
+name: 'RP Not on Allowlist: Attribute Value Viewing Mechanism'
+description: If the authorized party is the subscriber, the IdP SHALL provide mechanisms for the subscriber to view the attribute values and derived attribute values to be sent to the RP.
+elementType: criterion
+externalId: IDPRD-5
+aliases:
+  - idprd_5
+  - IDPRD-5
+parent: sp800_63c

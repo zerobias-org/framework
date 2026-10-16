@@ -1,0 +1,9 @@
+id: 11b2fdc2-11a5-454d-ba97-be8e856fdf07
+name: RP Assertion Validation Checklist
+description: The RP SHALL validate assertions by checking signature, issuer, validity time, audience, nonce, allowable xALs under the trust agreement, and non-replay.
+elementType: criterion
+externalId: ARTC-10
+aliases:
+  - artc_10
+  - ARTC-10
+parent: sp800_63c

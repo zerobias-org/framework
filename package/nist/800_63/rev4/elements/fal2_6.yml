@@ -1,0 +1,9 @@
+id: eae8dc30-129f-408b-ae34-794f700c885a
+name: Pre-Established trust agreements
+description: At FAL2 [or higher], a trust agreement SHALL be established prior to the federation transaction taking place (i.e., a "pre-established" trust agreement), as discussed in Sec. 4.3.1.
+elementType: criterion
+externalId: FAL2-6
+aliases:
+  - fal2_6
+  - FAL2-6
+parent: sp800_63c

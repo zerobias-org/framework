@@ -1,0 +1,9 @@
+id: 88bcf839-6082-4c19-913b-d923ed318a0e
+name: Hashing Key Storage
+description: The secret key value SHALL be stored separately from the hashed passwords.
+elementType: criterion
+externalId: PV-20
+aliases:
+  - pv_20
+  - PV-20
+parent: sp800_63b

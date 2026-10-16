@@ -1,0 +1,9 @@
+id: c4f71382-4a0f-4fda-8be8-6b1cd3f42882
+name: Confirm Codes
+description: Confirmation codes SHALL include at least 6 decimal digits (or equivalent) from an approved random bit generator (see Sec. 3.2.12 of SP800-63B).
+elementType: criterion
+externalId: CONFIRM-1
+aliases:
+  - confirm_1
+  - CONFIRM-1
+parent: sp800_63a

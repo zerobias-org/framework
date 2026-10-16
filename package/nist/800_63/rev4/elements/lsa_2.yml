@@ -1,0 +1,9 @@
+id: b25bdbdb-4596-43e8-89c4-c7c551d32ff2
+name: Online Look-Up Secret Delivery
+description: If look-up secrets are delivered online, the session SHALL be authenticated at AAL2 or higher and deliver secrets over an authenticated protected channel per binding rules.
+elementType: criterion
+externalId: LSA-2
+aliases:
+  - lsa_2
+  - LSA-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 37e3d341-1ffc-43f7-afb8-9ab1d5ff8a8a
+name: RP FAL Compliance
+description: The RP SHALL ensure that it meets its obligations in the federation transaction for the FAL declared in the transaction.
+elementType: criterion
+externalId: RXAL-11
+aliases:
+  - rxal_11
+  - RXAL-11
+parent: sp800_63c

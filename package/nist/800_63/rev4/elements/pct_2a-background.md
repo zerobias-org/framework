@@ -1,0 +1,3 @@
+**Applies to:** Organization · **Topic:** Privacy · **Section:** SP 800-63-4 3.4.1 B
+
+At a minimum, organizations SHALL assess the impacts and potential unintended consequences related to Privacy - Identify unintended consequences to the privacy of individuals who will be subject to the controls at an assessed xAL and of individuals affected by organizational or third-party practices related to the establishment, management, or federation of a digital identity. A privacy assessment SHOULD leverage an existing Privacy Threshold Analysis (PTA) or Privacy Impact Assessment (PIA) as inputs during the privacy assessment process.

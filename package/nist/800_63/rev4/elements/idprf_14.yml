@@ -1,0 +1,9 @@
+id: 666acc30-68e4-4622-83e6-e7cd75c0e782
+name: KBV
+description: Knowledge-based verification (KBV) or knowledge-based authentication SHALL NOT be used for identity verification.
+elementType: criterion
+externalId: IDPRF-14
+aliases:
+  - idprf_14
+  - IDPRF-14
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 1a0a8828-94a3-48ba-8a5a-53432ba197aa
+name: Binding Notification Requirement
+description: When an authenticator is added, the CSP SHALL notify the subscriber via a mechanism independent of the transaction binding the new authenticator, as described in Sec. 4.6.
+elementType: criterion
+externalId: BAA-3
+aliases:
+  - baa_3
+  - BAA-3
+parent: sp800_63b

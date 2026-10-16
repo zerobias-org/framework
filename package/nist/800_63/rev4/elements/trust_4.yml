@@ -1,0 +1,9 @@
+id: da2674c3-735c-44e2-be9a-8441ce997cbb
+name: TA CSP Proofing Process
+description: The trust agreement SHALL include details of the proofing process used at the CSP for subscribers covered by the trust agreement, including any compensating controls and exception handling processes.
+elementType: criterion
+externalId: TRUST-4
+aliases:
+  - trust_4
+  - TRUST-4
+parent: sp800_63c

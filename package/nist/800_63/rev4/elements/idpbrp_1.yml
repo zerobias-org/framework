@@ -1,0 +1,9 @@
+id: 6c2fa5c3-d7b9-4b42-bdda-fe97905d1946
+name: Blocklist Assertion Prohibition
+description: If an RP is on an IdP's blocklist, the IdP SHALL NOT produce an assertion that targets the RP in question under any circumstances.
+elementType: criterion
+externalId: IDPBRP-1
+aliases:
+  - idpbrp_1
+  - IDPBRP-1
+parent: sp800_63c

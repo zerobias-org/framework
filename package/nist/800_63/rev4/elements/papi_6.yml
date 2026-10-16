@@ -1,0 +1,9 @@
+id: 51ee797d-8ac4-451b-b0b4-ab04b946c7a3
+name: Provisioning API Purpose Limitation
+description: The IdP SHALL provide provisioning API access only within a federated identity relationship with an RP to support federation transactions and related functions.
+elementType: criterion
+externalId: PAPI-6
+aliases:
+  - papi_6
+  - PAPI-6
+parent: sp800_63c

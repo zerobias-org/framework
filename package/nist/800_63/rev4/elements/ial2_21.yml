@@ -1,0 +1,9 @@
+id: eb66d90d-8c7b-47ba-aaf4-e95afd130ecd
+name: IAL2 On-Site Attended Security Controls
+description: At IAL2, On-site Attended proofing devices SHALL have baseline security comparable to FISMA moderate, including malware protection, admin access controls and updates.
+elementType: criterion
+externalId: IAL2-21
+aliases:
+  - ial2_21
+  - IAL2-21
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: e749c3f3-ae24-423c-992a-21773b99ba6d
+name: IAL1 Injection Protection
+description: For Remote Attended identity proofing,  the CSP SHALL implement injection protection and modified media controls, as defined in Sec. 3.14.
+elementType: criterion
+externalId: IAL1-12
+aliases:
+  - ial1_12
+  - IAL1-12
+parent: sp800_63a

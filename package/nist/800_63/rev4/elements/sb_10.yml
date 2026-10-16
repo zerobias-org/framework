@@ -1,0 +1,9 @@
+id: 50f34e94-ccfe-47fd-bdf1-a4346fb57e56
+name: CSRF Protection Requirement
+description: POST/PUT content SHALL contain a session identifier that the RP SHALL verify to protect against cross-site request forgery (CSRF).
+elementType: criterion
+externalId: SB-10
+aliases:
+  - sb_10
+  - SB-10
+parent: sp800_63b

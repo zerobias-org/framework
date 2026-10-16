@@ -1,0 +1,9 @@
+id: cd036679-d17e-4666-b08a-a54308c2b82c
+name: Rate Limiting Recovery Requirement
+description: If the subscriber cannot authenticate at the required AAL, the account recovery procedures in Sec. 4.2 SHALL be used.
+elementType: criterion
+externalId: RL-6
+aliases:
+  - rl_6
+  - RL-6
+parent: sp800_63b

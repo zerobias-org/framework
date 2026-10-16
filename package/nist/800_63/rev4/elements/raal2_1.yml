@@ -1,0 +1,9 @@
+id: db7f7748-b102-41e5-9cc1-4623228c4fb8
+name: AAL2 Recovery Requirements
+description: To recover an AAL2 account, the CSP SHALL require two recovery codes by different methods, one code plus a bound single-factor authenticator, or repeated proofing.
+elementType: criterion
+externalId: RAAL2-1
+aliases:
+  - raal2_1
+  - RAAL2-1
+parent: sp800_63b

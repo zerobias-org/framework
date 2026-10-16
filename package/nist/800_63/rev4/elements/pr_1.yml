@@ -1,0 +1,9 @@
+id: e02bdc85-9843-4d3e-9fde-955095030430
+name: Privacy Controls
+description: The verifier SHALL employ appropriately tailored privacy controls defined in [SP800-53] or an equivalent industry standard.
+elementType: criterion
+externalId: PR-1
+aliases:
+  - pr_1
+  - PR-1
+parent: sp800_63b

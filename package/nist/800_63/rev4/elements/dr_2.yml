@@ -1,0 +1,9 @@
+id: b41ab3d6-3056-4884-88f6-ee1206c8f675
+name: Network Key Retrieval Protection
+description: IdP validation keys and configuration retrieved over a network SHALL be fetched over an authenticated protected channel from a location tied to the IdP's identifier.
+elementType: criterion
+externalId: DR-2
+aliases:
+  - dr_2
+  - DR-2
+parent: sp800_63c

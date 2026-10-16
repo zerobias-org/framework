@@ -1,0 +1,9 @@
+id: 03d89b38-1ee3-47ed-a7cd-5bce9c32a2e7
+name: Out-Of-Band Secret Generation
+description: The verifier SHALL generate random authentication secrets using an approved random bit generator as described in Sec. 3.2.12.
+elementType: criterion
+externalId: OBV-5.5
+aliases:
+  - obv_5_5
+  - OBV-5.5
+parent: sp800_63b

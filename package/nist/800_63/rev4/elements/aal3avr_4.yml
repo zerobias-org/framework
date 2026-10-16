@@ -1,0 +1,9 @@
+id: a0200751-bd94-4248-bebd-38deccb079f9
+name: AAL3 Intent
+description: All authentication and reauthentication processes at AAL3 SHALL demonstrate authentication intent from at least one authenticator, as described in Sec. 3.2.8.
+elementType: criterion
+externalId: AAL3AVR-4
+aliases:
+  - aal3avr_4
+  - AAL3AVR-4
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: bac52a5f-578d-4a2e-ac16-4e6d24db5c5b
+name: Wallet Assertion Signature Validation
+description: The RP SHALL validate the signature of the assertion using the verification key of the subscriber controlled wallet contained in the signed attribute bundle.
+elementType: criterion
+externalId: ARTVL-2
+aliases:
+  - artvl_2
+  - ARTVL-2
+parent: sp800_63c

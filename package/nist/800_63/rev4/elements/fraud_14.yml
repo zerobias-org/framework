@@ -1,0 +1,9 @@
+id: 06cc366c-6d3e-444d-823a-e2d2d783bfdf
+name: Fraud PRA
+description: RPs SHALL conduct a privacy risk assessment (see Sec. 3.3.1) of any CSP fraud checks and mitigation technologies to identify potential privacy risks or unintended harms.
+elementType: criterion
+externalId: FRAUD-14
+aliases:
+  - fraud_14
+  - FRAUD-14
+parent: sp800_63a

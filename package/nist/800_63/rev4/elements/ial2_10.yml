@@ -1,0 +1,9 @@
+id: f5897385-9cbf-46b9-a451-fae02f15924d
+name: IAL2 Non-Bio Communication
+description: If provided as an option at IAL2, CSPs SHALL communicate their use of the Non-Biometric Pathway to all RPs that use their identity service.
+elementType: criterion
+externalId: IAL2-10
+aliases:
+  - ial2_10
+  - IAL2-10
+parent: sp800_63a

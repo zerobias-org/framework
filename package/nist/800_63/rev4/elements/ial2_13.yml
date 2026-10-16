@@ -1,0 +1,9 @@
+id: 7a673ac2-7d3e-4d10-a538-9b0f2f9f3dc8
+name: IAL2 Biometric Pathway
+description: In the IAL2 biometric pathway, the CSP SHALL verify ownership of all presented evidence, or of the strongest piece for on-site attended proofing.
+elementType: criterion
+externalId: IAL2-13
+aliases:
+  - ial2_13
+  - IAL2-13
+parent: sp800_63a

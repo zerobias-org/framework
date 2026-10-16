@@ -1,0 +1,9 @@
+id: 393747ed-9138-4043-bd01-fbcb30c23163
+name: Pre-existing Bound Authenticator Reference in RP Subscriber Account
+description: Before an RP can successfully accept an FAL3 assertion, the RP subscriber account SHALL include a reference to a bound authenticator that is to be verified during the FAL3 transaction.
+elementType: criterion
+externalId: BAUTH-7
+aliases:
+  - bauth_7
+  - BAUTH-7
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 5f786bd6-5680-4e73-9405-fda4abfe0394
+name: Wallet Subject Identifier in Signed Attribute Bundle
+description: The subject identifier SHALL be contained in the signed attribute bundle.
+elementType: criterion
+externalId: ARTCN-10
+aliases:
+  - artcn_10
+  - ARTCN-10
+parent: sp800_63c

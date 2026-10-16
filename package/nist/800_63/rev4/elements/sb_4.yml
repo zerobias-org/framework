@@ -1,0 +1,9 @@
+id: 74ca0a63-308f-4da6-be3c-d3d61bf97d36
+name: Session Secrets Not Replace Authentication
+description: Cookies and similar remember-my-browser features SHALL NOT replace authentication, except for AAL2 reauthentication after inactivity within the time limit.
+elementType: criterion
+externalId: SB-4
+aliases:
+  - sb_4
+  - SB-4
+parent: sp800_63b

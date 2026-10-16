@@ -1,0 +1,9 @@
+id: e499a26b-9834-4bab-a62d-684abb4bed37
+name: Trust Agreement Establishment Method
+description: Trust agreements for general-purpose IdPs SHALL be established by agreement of the federated parties beforehand or by subscriber decision during the federation transaction.
+elementType: criterion
+externalId: TRUSTA-1
+aliases:
+  - trusta_1
+  - TRUSTA-1
+parent: sp800_63c

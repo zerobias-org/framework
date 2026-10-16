@@ -1,0 +1,9 @@
+id: fe18e891-c2f8-44b8-a577-7a83a2aee86b
+name: Unique Subscriber Account
+description: The CSP SHALL establish and maintain a unique subscriber account for each active subscriber in its identity system from the time of enrollment to the time of account closure.
+elementType: criterion
+externalId: SUB-1
+aliases:
+  - sub_1
+  - SUB-1
+parent: sp800_63a

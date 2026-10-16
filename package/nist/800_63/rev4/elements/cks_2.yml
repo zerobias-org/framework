@@ -1,0 +1,9 @@
+id: eff514a9-0cce-4267-9953-8b5f8ab70031
+name: Non-Exportable Key Storage Definition
+description: To be non-exportable, key storage SHALL be separate hardware or an embedded processor or execution environment such as a secure element, TEE, or TPM.
+elementType: criterion
+externalId: CKS-2
+aliases:
+  - cks_2
+  - CKS-2
+parent: sp800_63c

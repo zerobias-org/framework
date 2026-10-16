@@ -1,0 +1,9 @@
+id: 15e26cfb-c64a-4086-93e4-052775ec293c
+name: Out-Of-Band Channel Independence
+description: The out-of-band authenticator SHALL establish a separate channel with the verifier to retrieve the out-of-band secret or authentication request.
+elementType: criterion
+externalId: OBA-1
+aliases:
+  - oba_1
+  - OBA-1
+parent: sp800_63b

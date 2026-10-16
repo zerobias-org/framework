@@ -1,0 +1,9 @@
+id: 6c93c379-7708-41f1-a382-7ee05161c41d
+name: External Authenticator Non-Identifier Binding Code Length
+description: The binding code SHALL be at least 112 bits in length if it is not used with an identifier entered by the subscriber on the new authenticator.
+elementType: criterion
+externalId: BINAE-5
+aliases:
+  - binae_5
+  - BINAE-5
+parent: sp800_63b

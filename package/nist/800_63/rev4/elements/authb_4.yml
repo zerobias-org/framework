@@ -1,0 +1,9 @@
+id: 9b0dc328-3d8c-41ee-8318-ea3bf7290666
+name: CSP Authenticator State Storage
+description: The CSP SHALL also maintain other state information that is required to meet the authenticator verification requirements.
+elementType: criterion
+externalId: AUTHB-4
+aliases:
+  - authb_4
+  - AUTHB-4
+parent: sp800_63b

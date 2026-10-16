@@ -1,0 +1,9 @@
+id: e1dbe7ca-ad06-4d74-ad62-f5bcaac007bd
+name: Wallet Assertion Subscriber Identification
+description: Unless ephemeral provisioning or account resolution is used, the subscriber SHALL be identified in a wallet assertion using a federated identifier.
+elementType: criterion
+externalId: ARTCN-8
+aliases:
+  - artcn_8
+  - ARTCN-8
+parent: sp800_63c

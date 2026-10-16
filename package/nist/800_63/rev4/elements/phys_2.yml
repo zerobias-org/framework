@@ -1,0 +1,9 @@
+id: 0bd08b37-dad0-4ed4-8f28-ba23f8643256
+name: MRZ Data
+description: If a Machine Readable Zone (MRZ) or barcode is present on the evidence, the optical capture and inspection SHALL compare the MRZ data to the printed data on the evidence for consistency.
+elementType: criterion
+externalId: PHYS-2
+aliases:
+  - phys_2
+  - PHYS-2
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 5e0e580f-d2dc-42d5-a440-aa578c9ac10c
+name: Biometric Pad
+description: The biometric system SHOULD implement PAD for iris and fingerprint modalities and SHALL implement PAD for facial recognition.
+elementType: criterion
+externalId: PAD-1
+aliases:
+  - pad_1
+  - PAD-1
+parent: sp800_63b

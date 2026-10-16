@@ -1,0 +1,9 @@
+id: f45e7c58-da5f-48ef-99dd-d2be0044943a
+name: Expired Authenticators Unusable
+description: When an authenticator expires, it SHALL NOT be usable for authentication.
+elementType: criterion
+externalId: EXP-1
+aliases:
+  - exp_1
+  - EXP-1
+parent: sp800_63b

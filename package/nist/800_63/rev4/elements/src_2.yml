@@ -1,0 +1,9 @@
+id: 4117dc5a-820d-4d90-a830-81a840c4d2cd
+name: Saved Recovery Code Issuance Notification
+description: The issuance of a replacement recovery code SHALL result in an account recovery notification, as described in Sec. 4.6.
+elementType: criterion
+externalId: SRC-2
+aliases:
+  - src_2
+  - SRC-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 02f9adde-cb98-49eb-9c9e-65f009a53a0f
+name: Rate Limiting Requirement
+description: When required by the authenticator type descriptions in Sec. 3.1, the verifier SHALL implement controls to protect against online guessing attacks.
+elementType: criterion
+externalId: RL-1
+aliases:
+  - rl_1
+  - RL-1
+parent: sp800_63b

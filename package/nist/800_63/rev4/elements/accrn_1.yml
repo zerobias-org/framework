@@ -1,0 +1,9 @@
+id: d9479ad0-0362-45c1-bcf5-10e8a1a68519
+name: Account Recovery Notification
+description: In all cases, account recovery SHALL cause a notification to be sent to the subscriber or their designee, as described in Sec. 4.6.
+elementType: criterion
+externalId: ACCRN-1
+aliases:
+  - accrn_1
+  - ACCRN-1
+parent: sp800_63b

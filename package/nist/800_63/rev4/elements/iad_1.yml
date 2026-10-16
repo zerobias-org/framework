@@ -1,0 +1,9 @@
+id: 05e6fd5e-1eab-455a-9eb3-d603a58ffd87
+name: Biometric Failure Threshold
+description: The biometric system SHALL allow no more than five consecutive failed authentication attempts or 10 consecutive failed attempts if PAD is implemented and meets the above requirements.
+elementType: criterion
+externalId: IAD-1
+aliases:
+  - iad_1
+  - IAD-1
+parent: sp800_63b

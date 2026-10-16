@@ -1,0 +1,9 @@
+id: 0411f754-3fa1-471b-ae05-4599013fcf8d
+name: External Identity API Documentation
+description: Any use of external identity APIs for providing attributes SHALL be enumerated by the trust agreement as part of listing attribute sources.
+elementType: criterion
+externalId: EAI-1
+aliases:
+  - eai_1
+  - EAI-1
+parent: sp800_63c

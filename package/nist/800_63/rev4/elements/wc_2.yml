@@ -1,0 +1,9 @@
+id: 11537054-b68e-422b-980c-ffe11d08eee0
+name: Wireless  Authenticator Key Establishment
+description: Wireless connections SHALL establish an encryption key between authenticator and endpoint via a temporary wired connection or a non-persistent association process.
+elementType: criterion
+externalId: WC-2
+aliases:
+  - wc_2
+  - WC-2
+parent: sp800_63b

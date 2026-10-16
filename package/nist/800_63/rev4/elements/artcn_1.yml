@@ -1,0 +1,9 @@
+id: 8afd86f8-2a53-4980-b4c5-bfb7fcdf8d24
+name: Wallet Assertion Contents
+description: Wallet assertions SHALL contain a CSP-signed attribute bundle, audience identifier, issuance time, validity window, assertion identifier and an asymmetric signature.
+elementType: criterion
+externalId: ARTCN-1
+aliases:
+  - artcn_1
+  - ARTCN-1
+parent: sp800_63c

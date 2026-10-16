@@ -1,0 +1,9 @@
+id: 7ea3322b-0c08-447d-bf5c-e5adfc3e9a42
+name: Out-Of-Band Approved Encryption
+description: Communication over the secondary channel SHALL use approved encryption unless sent via the public switched telephone network (PSTN).
+elementType: criterion
+externalId: OBA-2
+aliases:
+  - oba_2
+  - OBA-2
+parent: sp800_63b

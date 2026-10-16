@@ -1,0 +1,9 @@
+id: 4ee08bc0-9d2f-4e0c-844b-9a41eb083b07
+name: Hashed Continue Codes
+description: Continuation codes SHALL be stored in hashed form using a Federal Information Processing Standards (FIPS)-approved or NIST-recommended one-way function.
+elementType: criterion
+externalId: CONTINUE-3
+aliases:
+  - continue_3
+  - CONTINUE-3
+parent: sp800_63a

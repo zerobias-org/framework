@@ -1,0 +1,9 @@
+id: a41ee704-15e2-4b54-ac13-cae8ad25572d
+name: RP Subscriber Account Termination Data Removal
+description: Termination SHALL include the removal of all federated identifiers, bound authenticators, attributes, and identity information associated with the account, in accordance with Sec. 3.11.3.
+elementType: criterion
+externalId: RPSA-1
+aliases:
+  - rpsa_1
+  - RPSA-1
+parent: sp800_63c

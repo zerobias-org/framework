@@ -1,0 +1,9 @@
+id: bdb59696-748b-41c9-b823-d7f1c90c6ef4
+name: FAL2+ Audience Restriction
+description: At FAL2, the assertion SHALL be audience restricted to a single RP.
+elementType: criterion
+externalId: FAL2-3
+aliases:
+  - fal2_3
+  - FAL2-3
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: af48b725-ad6f-4703-804f-61adc22c311d
+name: Repeated Proofing Account Recovery
+description: For account recovery, the CSP SHALL repeat identity proofing consistent with the initial level and confirm the claimant matches the previously established account.
+elementType: criterion
+externalId: RIP-1
+aliases:
+  - rip_1
+  - RIP-1
+parent: sp800_63b

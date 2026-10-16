@@ -1,0 +1,9 @@
+id: 0a394a7d-675c-4a66-8736-79dcdf2ce714
+name: AAL2 Phishing Resistance Offer
+description: Verifiers SHALL offer at least one phishing-resistant authentication option at AAL2, as described in Sec. 3.2.5.
+elementType: criterion
+externalId: AAL2AVR-6
+aliases:
+  - aal2avr_6
+  - AAL2AVR-6
+parent: sp800_63b

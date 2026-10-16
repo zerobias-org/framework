@@ -1,0 +1,9 @@
+id: f610f58c-eda7-43a1-b6b3-4a55eae44f45
+name: Bound Authenticator Verification
+description: The subscriber SHALL prove possession of the bound authenticator to the RP, in addition to presenting the assertion itself.
+elementType: criterion
+externalId: RPPHBA-1
+aliases:
+  - rpphba_1
+  - RPPHBA-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 77c7d9e0-5613-4df4-8dab-36e2f14c188e
+name: Privacy Risk Assessment
+description: The CSP SHALL conduct and document a privacy risk assessment for the processes used for identity proofing and enrollment.
+elementType: criterion
+externalId: PRIVACY-1
+aliases:
+  - privacy_1
+  - PRIVACY-1
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: f7ff8290-8369-4667-89ae-cf5cd49b0e59
+name: Periodic Reauthentication Requirement
+description: Periodic reauthentication of sessions SHALL be performed to confirm the subscriber's continued presence at an authenticated session.
+elementType: criterion
+externalId: REAUTH-1
+aliases:
+  - reauth_1
+  - REAUTH-1
+parent: sp800_63b

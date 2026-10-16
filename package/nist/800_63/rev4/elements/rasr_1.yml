@@ -1,0 +1,9 @@
+id: 5dfd9622-3fb9-4fd0-8622-13db556a74a2
+name: Communication of Authentication Recency
+description: The IdP SHALL communicate to the RP any information it has on the recency of the subscriber's latest IdP authentication, which the RP MAY use for access decisions.
+elementType: criterion
+externalId: RASR-1
+aliases:
+  - rasr_1
+  - RASR-1
+parent: sp800_63c

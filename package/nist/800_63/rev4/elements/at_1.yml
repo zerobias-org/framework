@@ -1,0 +1,9 @@
+id: 434f947f-789c-4010-a16c-9c099e9bf01c
+name: Access Tokens Not Presence
+description: The RP SHALL NOT interpret the presence of an access token as an indicator of the subscriber's presence in the absence of other signals.
+elementType: criterion
+externalId: AT-1
+aliases:
+  - at_1
+  - AT-1
+parent: sp800_63b

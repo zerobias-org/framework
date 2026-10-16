@@ -1,0 +1,9 @@
+id: eda0328e-43e2-4315-b22f-f696ba155094
+name: OTP Nonce Length
+description: The nonce SHALL be of sufficient length to ensure that it is unique for each operation of the authenticator over its lifetime.
+elementType: criterion
+externalId: SFOA-2
+aliases:
+  - sfoa_2
+  - SFOA-2
+parent: sp800_63b

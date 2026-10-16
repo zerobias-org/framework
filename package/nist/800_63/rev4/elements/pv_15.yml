@@ -1,0 +1,9 @@
+id: 86351b7d-3e54-45d0-a7d1-84b741e4e0d7
+name: Password Offline Attack Resistance
+description: Verifiers SHALL store passwords in a form that is resistant to offline attacks.
+elementType: criterion
+externalId: PV-15
+aliases:
+  - pv_15
+  - PV-15
+parent: sp800_63b

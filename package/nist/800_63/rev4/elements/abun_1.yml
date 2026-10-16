@@ -1,0 +1,9 @@
+id: a29730f6-af8a-4581-9384-0ae4c0e84ba4
+name: Attribute Bundle Presentation Protection
+description: The presentation of an attribute bundle SHALL be protected by the IdP in the same manner as non-bundled attributes.
+elementType: criterion
+externalId: ABUN-1
+aliases:
+  - abun_1
+  - ABUN-1
+parent: sp800_63c

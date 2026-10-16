@@ -1,0 +1,828 @@
+id: f0055e94-6bd7-4613-9ab9-3374c33be4f3
+name: SP 800-63-4 IAL3 Baseline
+description: 'Conformance criteria for Identity Assurance Level 3 (IAL3): the criteria NIST marks IAL3 or ALL.'
+elements:
+  idprf_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  idprf_14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_16:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  isdr_18:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_20:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fraud_21:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  privacy_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  customer_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  customer_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  customer_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  customer_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  customer_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  security_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  security_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  security_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  security_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  security_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  redip_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  redip_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  redip_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fed_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fed_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fed_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fed_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fed_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  confirm_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  confirm_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  confirm_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  continue_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  continue_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  continue_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  continue_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  notifs_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  notifs_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  notifs_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  notifs_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  notifs_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  notifs_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_16:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_18:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_19:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_20:
+    mandatory: true
+    parameters: []
+    requirements: []
+  bio_21:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  visual_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  phys_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  diginj_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  diginj_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  diginj_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  diginj_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  diginj_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  diginj_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  diginj_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_16:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_18:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_19:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_20:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_21:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_22:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_23:
+    mandatory: true
+    parameters: []
+    requirements: []
+  except_24:
+    mandatory: true
+    parameters: []
+    requirements: []
+  elevate_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  elevate_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  elevate_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_16:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_18:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_19:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_20:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_21:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_22:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_23:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ial3_24:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_6:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_7:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_8:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_9:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_10:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_11:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_12:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_13:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_14:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_15:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_16:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_17:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_18:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sub_19:
+    mandatory: true
+    parameters: []
+    requirements: []

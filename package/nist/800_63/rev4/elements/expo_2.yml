@@ -1,0 +1,9 @@
+id: ed60b7b8-1c54-4567-bb1e-01d3e60b490f
+name: Non-Exportable Authentication Key Protection
+description: A non-exportable authenticator SHALL prohibit export of the authentication secret to the host processor and SHALL NOT be reprogrammable to allow its extraction.
+elementType: criterion
+externalId: EXPO-2
+aliases:
+  - expo_2
+  - EXPO-2
+parent: sp800_63b

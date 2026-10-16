@@ -1,0 +1,9 @@
+id: 9aca290c-bbb6-49fb-ae27-2481cd0bd2c0
+name: Analyze Digital Media
+description: CSPs SHALL analyze all digital media submitted during the identity proofing process for artifacts and indicators of potential modification, manipulation, tampering, or forgery.
+elementType: criterion
+externalId: DIGINJ-2
+aliases:
+  - diginj_2
+  - DIGINJ-2
+parent: sp800_63a

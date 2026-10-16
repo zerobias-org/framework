@@ -1,0 +1,9 @@
+id: 947c9592-4242-4a60-9231-5f677856fd0e
+name: Core Attribute Updates
+description: With the exception of physical addresses, the CSP SHALL validate any changes to core attribute information maintained in the subscriber account.
+elementType: criterion
+externalId: SUB-7
+aliases:
+  - sub_7
+  - SUB-7
+parent: sp800_63a

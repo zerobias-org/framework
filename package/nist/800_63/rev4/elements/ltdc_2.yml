@@ -1,0 +1,9 @@
+id: fda4c751-f4e9-4ec7-8349-8ba45c26126b
+name: Compromise Reporting Authenticators
+description: Backup authenticators used for secure reporting of compromise SHALL be a password or a physical authenticator.
+elementType: criterion
+externalId: LTDC-2
+aliases:
+  - ltdc_2
+  - LTDC-2
+parent: sp800_63b

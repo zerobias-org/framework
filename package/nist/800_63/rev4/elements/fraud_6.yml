@@ -1,0 +1,9 @@
+id: 68787db7-bedb-414f-9db0-3fe1c8a7beab
+name: Fraud Check Monitoring
+description: CSPs SHALL monitor the performance of their fraud checks and fraud mitigation technologies to ensure continued effectiveness in mitigating fraud risks.
+elementType: criterion
+externalId: FRAUD-6
+aliases:
+  - fraud_6
+  - FRAUD-6
+parent: sp800_63a

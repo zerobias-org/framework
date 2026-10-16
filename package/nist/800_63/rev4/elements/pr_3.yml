@@ -1,0 +1,9 @@
+id: 27b4e418-8dd2-450d-b2cd-2ee706acbc2b
+name: Consent Non-Mandatory
+description: When CSPs or IdPs use consent measures, they SHALL NOT make consent for the additional processing a condition of the identity service.
+elementType: criterion
+externalId: PR-3
+aliases:
+  - pr_3
+  - PR-3
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 46c69ea6-3c92-4408-a196-8ca62677c7b9
+name: Attestation Signature Requirements
+description: Attestations SHALL be signed using a digital signature that provides at least the SP 800-131A minimum security strength of 112 bits.
+elementType: criterion
+externalId: ATT-1
+aliases:
+  - att_1
+  - ATT-1
+parent: sp800_63b

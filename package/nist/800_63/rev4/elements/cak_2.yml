@@ -1,0 +1,9 @@
+id: 3ec238fd-b073-4ffd-80ce-ac3917240ce4
+name: Syncable Authentication Key Fabric Requirements
+description: Authentication keys cloned or exported to a sync fabric SHALL only be stored encrypted with a key of at least the SP 800-131A minimum security strength (112 bits).
+elementType: criterion
+externalId: CAK-2
+aliases:
+  - cak_2
+  - CAK-2
+parent: sp800_63b

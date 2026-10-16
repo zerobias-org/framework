@@ -1,0 +1,9 @@
+id: b2097fa6-97d2-4b73-80ac-7898e12fcc42
+name: Binding Ceremony Session Restriction
+description: The binding ceremony session... SHALL NOT be used as an authenticated session for any other purpose, as described in Sec. 3.9.
+elementType: criterion
+externalId: SUBPB-6
+aliases:
+  - subpb_6
+  - SUBPB-6
+parent: sp800_63c

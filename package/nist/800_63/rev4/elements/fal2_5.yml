@@ -1,0 +1,9 @@
+id: 0fc5f330-abce-496e-83ba-15794b56fecc
+name: Federated Identifier Privacy Protection
+description: At FAL2, federated identifiers SHALL NOT contain plaintext personal information, such as usernames, email addresses, employee numbers, etc.
+elementType: criterion
+externalId: FAL2-5
+aliases:
+  - fal2_5
+  - FAL2-5
+parent: sp800_63c

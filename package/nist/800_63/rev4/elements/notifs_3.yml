@@ -1,0 +1,9 @@
+id: 2b53bfc8-d641-4b53-9db7-889d845ae311
+name: Repudiation Instructions
+description: Notifications of proofing SHALL provide clear instructions, including contact information, on actions for the recipient to take if they repudiate their participation in the identity proofing event.
+elementType: criterion
+externalId: NOTIFS-3
+aliases:
+  - notifs_3
+  - NOTIFS-3
+parent: sp800_63a

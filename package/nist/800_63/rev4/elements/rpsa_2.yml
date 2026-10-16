@@ -1,0 +1,9 @@
+id: 3b0694d9-49b1-4fab-b11d-460fcd33ea00
+name: Inaccessible Account Policy Documentation
+description: The RP SHALL document its practices for RP subscriber accounts left with no federated identifiers, no means of access, and no means of recovery.
+elementType: criterion
+externalId: RPSA-2
+aliases:
+  - rpsa_2
+  - RPSA-2
+parent: sp800_63c

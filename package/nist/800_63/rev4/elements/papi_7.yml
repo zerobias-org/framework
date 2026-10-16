@@ -1,0 +1,9 @@
+id: 766ea75e-693c-444f-8304-dfc90675122f
+name: Provisioning API Access Revocation
+description: The IdP SHALL revoke an RP's access to the provisioning API once access is no longer required by the RP for its functioning purposes or when the trust agreement is terminated.
+elementType: criterion
+externalId: PAPI-7
+aliases:
+  - papi_7
+  - PAPI-7
+parent: sp800_63c

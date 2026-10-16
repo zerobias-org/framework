@@ -1,0 +1,9 @@
+id: b2e1ce74-749d-4e4b-81f9-d570bf7ad063
+name: External Authenticator Binding Code Lifetime
+description: The binding code SHALL be valid for a maximum of 10 minutes.
+elementType: criterion
+externalId: BINAE-9
+aliases:
+  - binae_9
+  - BINAE-9
+parent: sp800_63b

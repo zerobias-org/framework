@@ -1,0 +1,9 @@
+id: 4de9873e-3487-4fcf-a1e0-f204f7fad8eb
+name: Assertion Validation
+description: At all FALs, the RP SHALL validate the assertion from the IdP, since the RP needs to trust the IdP to provide valid assertions representing the subscriber's authentication event.
+elementType: criterion
+externalId: CFAL-2
+aliases:
+  - cfal_2
+  - CFAL-2
+parent: sp800_63c

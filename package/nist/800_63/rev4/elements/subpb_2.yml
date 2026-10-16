@@ -1,0 +1,9 @@
+id: 9a0deb67-5890-4f25-af1c-d416cf0a87ff
+name: Binding Ceremony Session Establishment
+description: For a binding ceremony, the RP SHALL first establish an authenticated session via a federation assertion meeting FAL3 and indicating intended FAL3 use with a bound authenticator.
+elementType: criterion
+externalId: SUBPB-2
+aliases:
+  - subpb_2
+  - SUBPB-2
+parent: sp800_63c

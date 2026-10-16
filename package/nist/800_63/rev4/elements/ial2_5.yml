@@ -1,0 +1,9 @@
+id: 5b6861ec-babd-470f-8a20-e69d889c1a22
+name: IAL2 Superior Validation
+description: At IAL2, each piece of SUPERIOR evidence SHALL be validated cryptographically, including digital signature verification and trust chain validation to a trust anchor.
+elementType: criterion
+externalId: IAL2-5
+aliases:
+  - ial2_5
+  - IAL2-5
+parent: sp800_63a

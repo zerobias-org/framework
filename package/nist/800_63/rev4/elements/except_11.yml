@@ -1,0 +1,9 @@
+id: 41d6cb74-73fe-4833-b185-a71c71d7fbeb
+name: Applicant Reference Proofing
+description: The CSP SHALL identity-proof an applicant reference to the same or higher IAL intended for the applicant.
+elementType: criterion
+externalId: EXCEPT-11
+aliases:
+  - except_11
+  - EXCEPT-11
+parent: sp800_63a

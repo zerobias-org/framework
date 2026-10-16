@@ -1,0 +1,9 @@
+id: 5a2c9fcb-5bd0-43a2-ba5d-87ccae3baf78
+name: Activation Secret Independence
+description: Submitting the activation factor SHALL be a separate operation from unlocking the host device (e.g., smartphone).
+elementType: criterion
+externalId: AS-8
+aliases:
+  - as_8
+  - AS-8
+parent: sp800_63b
