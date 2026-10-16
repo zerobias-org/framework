@@ -1,0 +1,9 @@
+id: 1dc3537f-3497-4ad9-b34e-e9ae5964178b
+name: 'Provisioning API: Documentation of Access Requirements'
+description: The IdP SHALL document RP provisioning API access, including its purpose, attributes shared, push or pull direction, and subscriber population covered.
+elementType: criterion
+externalId: PAPI-2
+aliases:
+  - papi_2
+  - PAPI-2
+parent: sp800_63c

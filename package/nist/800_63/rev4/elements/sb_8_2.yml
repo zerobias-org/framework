@@ -1,0 +1,9 @@
+id: 2828380c-664e-4d79-b69d-63edfe20dc76
+name: Session Secret Logout Invalidation
+description: Secrets used for session binding SHALL be erased or invalidated by the session subject when the subscriber logs out.
+elementType: criterion
+externalId: SB-8.2
+aliases:
+  - sb_8_2
+  - SB-8.2
+parent: sp800_63b

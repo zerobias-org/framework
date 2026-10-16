@@ -1,0 +1,9 @@
+id: 6b20c5a7-96eb-4f5d-86ce-7c5a1943b57b
+name: Assertion Reference Injection Prevention
+description: The RP SHALL protect against injection of manufactured or captured assertion references using XSS and CSRF protection, stage checks, or other accepted techniques.
+elementType: criterion
+externalId: BCP-9
+aliases:
+  - bcp_9
+  - BCP-9
+parent: sp800_63c

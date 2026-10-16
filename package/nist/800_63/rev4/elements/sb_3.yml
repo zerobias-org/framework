@@ -1,0 +1,9 @@
+id: 946657e4-5cd7-488e-a202-38d971bc5541
+name: Session Continuity Secrets
+description: Authenticated session continuity SHALL be based on possession of a session secret issued by the session host at authentication and optionally refreshed.
+elementType: criterion
+externalId: SB-3
+aliases:
+  - sb_3
+  - SB-3
+parent: sp800_63b

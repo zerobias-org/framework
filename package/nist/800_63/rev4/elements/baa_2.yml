@@ -1,0 +1,9 @@
+id: 00858a87-3425-4149-b9c0-9dc666a874a6
+name: Binding Authentication Requirement
+description: When binding a new authenticator, the CSP SHALL require authentication at the lower of the account's maximum available AAL or the new authenticator's maximum AAL.
+elementType: criterion
+externalId: BAA-2
+aliases:
+  - baa_2
+  - BAA-2
+parent: sp800_63b

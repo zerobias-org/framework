@@ -1,0 +1,9 @@
+id: 30cb3e21-0939-420b-b928-1ed07a426313
+name: HoK Validation
+description: The RP SHALL verify that the subscriber possesses the authenticator identified by the holder-of-key assertion.
+elementType: criterion
+externalId: HKA-2
+aliases:
+  - hka_2
+  - HKA-2
+parent: sp800_63c

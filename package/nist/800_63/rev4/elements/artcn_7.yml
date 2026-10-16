@@ -1,0 +1,9 @@
+id: badc1994-2f7e-489d-b71d-f5afdb383f79
+name: Attribute Bundle Contents
+description: The CSP-signed attribute bundle SHALL contain the wallet verification key, issuer identifier, issuance time, IAL indicator, asymmetric signature and attribute values.
+elementType: criterion
+externalId: ARTCN-7
+aliases:
+  - artcn_7
+  - ARTCN-7
+parent: sp800_63c

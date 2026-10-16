@@ -1,0 +1,9 @@
+id: 3d3ad98e-29b3-44e3-91f0-ec41a8ece924
+name: Session Secret Intermediary Protection
+description: Secrets used for session binding SHALL be unavailable to intermediaries between the host and the subscriber's endpoint.
+elementType: criterion
+externalId: SB-8.5
+aliases:
+  - sb_8_5
+  - SB-8.5
+parent: sp800_63b

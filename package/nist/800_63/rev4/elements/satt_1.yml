@@ -1,0 +1,9 @@
+id: 920626b5-88b5-453c-bd7e-040367b75814
+name: Software Attestation Validation
+description: When attestations are required by the trust agreement or requested as part of the federation protocol, received attestations SHALL be validated by the receiver.
+elementType: criterion
+externalId: SATT-1
+aliases:
+  - satt_1
+  - SATT-1
+parent: sp800_63c

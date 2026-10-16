@@ -1,0 +1,9 @@
+id: 8f1e9095-5793-46aa-aae6-b1ef655f706a
+name: AAL1 Authenticator Types
+description: 'AAL1 authentication SHALL use any of the defined authentication types: password, look-up secret, out-of-band device, single- or multi-factor OTP, or cryptographic authentication.'
+elementType: criterion
+externalId: AAL1PAT-1
+aliases:
+  - aal1pat_1
+  - AAL1PAT-1
+parent: sp800_63b

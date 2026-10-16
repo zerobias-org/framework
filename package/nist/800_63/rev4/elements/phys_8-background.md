@@ -1,0 +1,3 @@
+**Applies to:** CSP · **Assurance level:** ALL · **Section:** SP 800-63A-4 3.13 B #1
+
+Proofing agents and trusted referees SHALL be trained and provided with the resources to visually inspect all forms of evidence supported by the CSP. This training SHALL include: authentic layouts and topography of evidence types; physical security features (e.g., raised letters, holographic features, microprinting); techniques for assessing features (e.g., tools to be used, where tactile inspection is needed, manipulation required to view specific features); and common indications of tampering (e.g., damage to the lamination, image modification).

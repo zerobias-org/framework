@@ -1,0 +1,9 @@
+id: 253a1daa-fb0d-43aa-9e60-2b5c4a845e1e
+name: Secure Discovery and Registration
+description: The discovery and registration processes SHALL be established in a secure fashion as defined by the trust agreement that governs the federation transaction.
+elementType: criterion
+externalId: ICKM-1
+aliases:
+  - ickm_1
+  - ICKM-1
+parent: sp800_63c

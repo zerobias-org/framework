@@ -1,0 +1,9 @@
+id: 95203e5e-6a4d-4493-873c-d7feba1ac336
+name: Subscriber Back-Channel Protection
+description: Conveyance of the assertion reference from the IdP to the subscriber and from the subscriber to the RP SHALL be made over an authenticated protected channel.
+elementType: criterion
+externalId: BCP-7
+aliases:
+  - bcp_7
+  - BCP-7
+parent: sp800_63c

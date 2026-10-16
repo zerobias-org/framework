@@ -1,0 +1,9 @@
+id: 346a10e9-edb8-4664-8c6e-872eb157519f
+name: Wallet Runtime Attribute Release
+description: 1. The release of subscriber attributes SHALL be managed using a runtime decision managed by the wallet, as described in Sec. 4.6.1.3.
+elementType: criterion
+externalId: TAGREE-1
+aliases:
+  - tagree_1
+  - TAGREE-1
+parent: sp800_63c

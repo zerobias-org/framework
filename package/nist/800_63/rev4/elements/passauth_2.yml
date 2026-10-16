@@ -1,0 +1,9 @@
+id: 167c8615-3e84-40e5-8737-f2e45114944e
+name: Password Blocklist
+description: If the CSP rejects a chosen password because it is on a blocklist of commonly used, expected, or compromised values, the subscriber SHALL be required to choose another.
+elementType: criterion
+externalId: PASSAUTH-2
+aliases:
+  - passauth_2
+  - PASSAUTH-2
+parent: sp800_63b

@@ -1,0 +1,3 @@
+**Applies to:** Organization · **Topic:** Customer Experience · **Section:** SP 800-63-4 3.4.1 B
+
+At a minimum, organizations SHALL assess the impacts and potential unintended consequences related to Customer Experience - Determine whether implementation of the initial assurance levels may create substantial or unacceptable barriers to individuals seeking to access services. Customer experience assessments SHALL consider impacts that result from the identity management controls to ensure that they do not cause undue burdens, frustrations, or frictions for individuals and that there are pathways to provide service to users of all capabilities, resources, technology access, and economic statuses.

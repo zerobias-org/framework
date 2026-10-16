@@ -1,0 +1,9 @@
+id: 7761dafa-b863-4cdd-b7c3-e4d7c304e21f
+name: Look-Up Secret Prompt
+description: Verifiers of look-up secrets SHALL prompt the claimant for a secret from their authenticator.
+elementType: criterion
+externalId: LSV-1
+aliases:
+  - lsv_1
+  - LSV-1
+parent: sp800_63b

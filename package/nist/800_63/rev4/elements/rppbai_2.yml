@@ -1,0 +1,9 @@
+id: facccc34-3495-406d-9379-92904f206a22
+name: RP-Provided Bound Authenticator Subscriber Verification
+description: The RP system administrator SHALL independently confirm the account subject is the party issued an RP-provided bound authenticator and follow SP 800-63A/B binding rules.
+elementType: criterion
+externalId: RPPBAI-2
+aliases:
+  - rppbai_2
+  - RPPBAI-2
+parent: sp800_63c

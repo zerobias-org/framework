@@ -1,0 +1,9 @@
+id: 6132e1f2-901a-4e89-9304-80a882f1a892
+name: Failed Fraud Checks
+description: Trusted referees offered to applicants failing fraud checks in unattended remote processes SHALL receive a summary of the fraud failure results.
+elementType: criterion
+externalId: FRAUD-21
+aliases:
+  - fraud_21
+  - FRAUD-21
+parent: sp800_63a

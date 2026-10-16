@@ -1,0 +1,9 @@
+id: 8a74fc42-f8d4-4367-9644-c46481cc0ea1
+name: Biometric Central Protection
+description: If the comparison is performed centrally, appropriate controls (e.g., encryption and access controls) for sensitive personal information SHALL be implemented.
+elementType: criterion
+externalId: IAD-5.1
+aliases:
+  - iad_5_1
+  - IAD-5.1
+parent: sp800_63b

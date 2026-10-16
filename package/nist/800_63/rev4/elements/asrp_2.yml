@@ -1,0 +1,9 @@
+id: c9d5e925-d1c4-42df-bb54-fe3c5b1cd863
+name: 'RP Authenticated Session Requirements: HoK Verification'
+description: For a holder-of-key assertion at FAL3, the authenticator in the assertion SHALL be verified before the RP subscriber account is tied to an authenticated session.
+elementType: criterion
+externalId: ASRP-2
+aliases:
+  - asrp_2
+  - ASRP-2
+parent: sp800_63c

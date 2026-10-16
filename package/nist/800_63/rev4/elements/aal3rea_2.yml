@@ -1,0 +1,9 @@
+id: 2732482d-7ec7-4a68-8c4b-97a2a2a208db
+name: AAL3 Reauthentication Limit
+description: At AAL3, the overall timeout for reauthentication SHALL be no more than 12 hours.
+elementType: criterion
+externalId: AAL3REA-2
+aliases:
+  - aal3rea_2
+  - AAL3REA-2
+parent: sp800_63b

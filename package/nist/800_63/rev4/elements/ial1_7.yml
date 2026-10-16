@@ -1,0 +1,9 @@
+id: f0706bc0-e4c6-4912-839d-3923e9809ce1
+name: Async Visual Comparison
+description: If visual comparison is performed asynchronously, the CSP SHALL implement PAD and document presence checks to confirm the live applicant and physical documents were present.
+elementType: criterion
+externalId: IAL1-7
+aliases:
+  - ial1_7
+  - IAL1-7
+parent: sp800_63a

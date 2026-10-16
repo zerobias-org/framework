@@ -1,0 +1,9 @@
+id: eedb6ae8-a480-4bf9-bb71-bdb588a02635
+name: Pre-Provisioning Privacy Evaluation
+description: For pre-provisioning use cases, the privacy considerations SHALL be evaluated and recorded as part of the trust agreement.
+elementType: criterion
+externalId: IDAP-6
+aliases:
+  - idap_6
+  - IDAP-6
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 9b2e9a8c-c87f-49e8-b0b8-c118c14db8b7
+name: IAL2 Subscriber Verification
+description: At IAL2, if authenticators are bound outside a single protected session, the CSP SHALL confirm the subscriber via a continuation code or biometric comparison.
+elementType: criterion
+externalId: IAL2-31
+aliases:
+  - ial2_31
+  - IAL2-31
+parent: sp800_63a

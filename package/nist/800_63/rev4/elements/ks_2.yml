@@ -1,0 +1,9 @@
+id: 0f394ea8-fc38-48cc-9945-1fa4e6913b14
+name: Wallet HoK Signing Key Non-Exportable Storage
+description: If the wallet's signing key is used as a holder-of-key authenticator for FAL3, the key SHALL be stored in non-exportable key storage, as discussed in Sec. 3.6.2.
+elementType: criterion
+externalId: KS-2
+aliases:
+  - ks_2
+  - KS-2
+parent: sp800_63c

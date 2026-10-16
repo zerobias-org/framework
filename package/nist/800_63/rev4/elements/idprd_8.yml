@@ -1,0 +1,9 @@
+id: 7d05b331-e432-4d16-8766-2fd2f69d0b66
+name: 'RP Not on Allowlist: Remembered Decision Revocation'
+description: '[The IdP] SHALL allow the authorized party to revoke such remembered access at a future time.'
+elementType: criterion
+externalId: IDPRD-8
+aliases:
+  - idprd_8
+  - IDPRD-8
+parent: sp800_63c

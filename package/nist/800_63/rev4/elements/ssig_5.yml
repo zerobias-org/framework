@@ -1,0 +1,9 @@
+id: eee5e238-1fb9-47be-bdd9-6b1e61bf1b4d
+name: Shared Signal Personal Information Minimization
+description: Shared signals SHALL NOT include personal information beyond what is necessary to identify the subscriber account in question.
+elementType: criterion
+externalId: SSIG-5
+aliases:
+  - ssig_5
+  - SSIG-5
+parent: sp800_63c

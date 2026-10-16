@@ -1,0 +1,9 @@
+id: 2a5d1e99-6b4b-495c-a478-2bec98b5c87d
+name: Linked IdP Identity Protection in Shared Signals
+description: The RP SHALL ensure that the shared signals do not reveal the identity of a subscriber's linked IdPs.
+elementType: criterion
+externalId: SSIG-11
+aliases:
+  - ssig_11
+  - SSIG-11
+parent: sp800_63c

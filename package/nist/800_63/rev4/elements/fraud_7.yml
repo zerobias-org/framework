@@ -1,0 +1,9 @@
+id: c95f8121-b55f-488f-96b1-3616ec09aef8
+name: Fraud Communication
+description: CSPs SHALL establish a technical or process-based mechanism to communicate suspected and confirmed fraudulent events to RPs.
+elementType: criterion
+externalId: FRAUD-7
+aliases:
+  - fraud_7
+  - FRAUD-7
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 8d024331-0e16-4355-9f2a-3fcd9cab4ab0
+name: Out-Of-Band Key Verification
+description: The verifier SHALL NOT store the out-of-band identifying key itself but SHALL use a verification method such as an approved hash or proof of possession to identify the authenticator.
+elementType: criterion
+externalId: OBV-1
+aliases:
+  - obv_1
+  - OBV-1
+parent: sp800_63b

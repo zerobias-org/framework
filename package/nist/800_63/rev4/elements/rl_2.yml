@@ -1,0 +1,9 @@
+id: 38ad5376-2a39-4b7a-96a1-6734182597fc
+name: Rate Limiting Upper Bound
+description: Unless otherwise specified for an authenticator, the verifier SHALL limit consecutive failed attempts with it on a subscriber account to no more than 100 by disabling it.
+elementType: criterion
+externalId: RL-2
+aliases:
+  - rl_2
+  - RL-2
+parent: sp800_63b

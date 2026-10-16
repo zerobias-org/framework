@@ -1,0 +1,9 @@
+id: c17db443-a1ac-4bd3-9ca2-f5d492c8e718
+name: Proxy FAL Accuracy
+description: The FAL of the connection between the proxy and the downstream RP is considered to be the lowest FAL along the entire path, and the proxy SHALL accurately represent this to the downstream RP.
+elementType: criterion
+externalId: PROXY-1
+aliases:
+  - proxy_1
+  - PROXY-1
+parent: sp800_63c

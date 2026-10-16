@@ -1,0 +1,9 @@
+id: 5ed53f0a-05ca-4938-be07-4df281e5d203
+name: Digital Identity Acceptance Statement - CSP DIAS Implementation
+description: CSPs/IdPs SHALL implement the DIRM process and develop a DIAS for their services if they deviate from normative guidance, including added controls.
+elementType: criterion
+externalId: DIAS-4
+aliases:
+  - dias_4
+  - DIAS-4
+parent: sp800_63

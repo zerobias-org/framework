@@ -1,0 +1,9 @@
+id: 80b623ec-c35c-4874-8232-148e570328fd
+name: Trusted Referee Notification
+description: The CSP SHALL notify the public of the availability of trusted referee services and how such services are obtained.
+elementType: criterion
+externalId: EXCEPT-2
+aliases:
+  - except_2
+  - EXCEPT-2
+parent: sp800_63a

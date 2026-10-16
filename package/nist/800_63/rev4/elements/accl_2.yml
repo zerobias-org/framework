@@ -1,0 +1,9 @@
+id: e2757446-7b0d-47fe-8eee-f82746df4547
+name: Removed Federated Identifier Access Prohibition
+description: When a federated identifier is removed from an RP subscriber account, the RP SHALL disallow access to the RP subscriber account from the removed federated identifier.
+elementType: criterion
+externalId: ACCL-2
+aliases:
+  - accl_2
+  - ACCL-2
+parent: sp800_63c

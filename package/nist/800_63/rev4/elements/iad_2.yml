@@ -1,0 +1,9 @@
+id: 130525cc-97f2-494b-813d-6d6a1d982e46
+name: Biometric Failure Delay
+description: After the initial failure limit, biometric authenticators SHALL delay each attempt by at least 30 seconds, with an overall limit of 50 failed attempts, or 100 with PAD.
+elementType: criterion
+externalId: IAD-2
+aliases:
+  - iad_2
+  - IAD-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 55dceb5f-fd6e-4903-8d51-3888bb249ebb
+name: Bound Authenticator Uniqueness
+description: A bound authenticator SHALL be unique per subscriber at the RP such that two subscribers cannot present the same authenticator for their separate RP subscriber accounts.
+elementType: criterion
+externalId: BAUTH-3
+aliases:
+  - bauth_3
+  - BAUTH-3
+parent: sp800_63c

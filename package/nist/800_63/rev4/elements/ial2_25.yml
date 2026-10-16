@@ -1,0 +1,9 @@
+id: 87cd8540-9804-4b9c-9824-34e4a2a613ac
+name: IAL2 Tamper Prevention
+description: For On-site Unattended identity proofing, all devices SHALL be safeguarded from tampering through observation by CSP representatives and/or physical and digital tamper prevention features.
+elementType: criterion
+externalId: IAL2-25
+aliases:
+  - ial2_25
+  - IAL2-25
+parent: sp800_63a

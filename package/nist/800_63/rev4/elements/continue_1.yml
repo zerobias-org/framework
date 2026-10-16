@@ -1,0 +1,9 @@
+id: b3fa572c-7637-4cf7-94b7-a0b54223f1a9
+name: Continue Codes
+description: Continuation codes SHALL include at least 64 bits from an approved random bit generator (see Sec. 3.2.12 of [SP800-63B]).
+elementType: criterion
+externalId: CONTINUE-1
+aliases:
+  - continue_1
+  - CONTINUE-1
+parent: sp800_63a

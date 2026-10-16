@@ -1,0 +1,9 @@
+id: 11a9b3d8-924d-4b62-a671-358eabb28997
+name: Bound Authenticator Verification Timing
+description: Bound authenticators SHALL be accepted for authentication in the context of processing an FAL3 assertion for a federated transaction.
+elementType: criterion
+externalId: BAUTH-5
+aliases:
+  - bauth_5
+  - BAUTH-5
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 91287a14-e196-4be8-ad76-d4c81fae3f81
+name: MF-OTP Activation Erasure
+description: For multi-factor OTP authenticators, the unencrypted key, activation secret or biometric sample, and derived biometric data SHALL be erased immediately after OTP generation.
+elementType: criterion
+externalId: MFOA-7
+aliases:
+  - mfoa_7
+  - MFOA-7
+parent: sp800_63b

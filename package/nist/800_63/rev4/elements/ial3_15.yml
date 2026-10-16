@@ -1,0 +1,9 @@
+id: 335621af-4c0a-4995-9e77-2bd3e3c507cc
+name: Kiosk Video Transmission
+description: For kiosk-based on-site attended identity proofing, the CSP SHALL monitor the entire identity proofing session through a high-resolution video transmission with the applicant.
+elementType: criterion
+externalId: IAL3-15
+aliases:
+  - ial3_15
+  - IAL3-15
+parent: sp800_63a

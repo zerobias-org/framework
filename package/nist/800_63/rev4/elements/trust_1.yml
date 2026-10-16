@@ -1,0 +1,9 @@
+id: b97ac636-53da-470c-b88b-9fcef255e384
+name: Trust Agreement Establishment
+description: A trust agreement SHALL address one or more of the trust relationships among IdPs, CSPs, and RPs regarding attributes, proofing, and authentication.
+elementType: criterion
+externalId: TRUST-1
+aliases:
+  - trust_1
+  - TRUST-1
+parent: sp800_63c

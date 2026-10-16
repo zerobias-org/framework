@@ -1,0 +1,9 @@
+id: bd57954c-c252-4abd-9ea8-600840d49b50
+name: Session Secret Generation Requirements
+description: Secrets used for session binding SHALL be established using input from an approved random bit generator, as described in Sec. 3.2.12, and are at least 64 bits in length.
+elementType: criterion
+externalId: SB-8.1
+aliases:
+  - sb_8_1
+  - SB-8.1
+parent: sp800_63b

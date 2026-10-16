@@ -1,0 +1,9 @@
+id: 18dcfe57-1f6d-4ff8-9b74-6958689b2111
+name: Trust Agreement Availability to Operators
+description: The terms of the trust agreement SHALL be available to the operators of the RP and the IdP upon its establishment.
+elementType: criterion
+externalId: PETA-2
+aliases:
+  - peta_2
+  - PETA-2
+parent: sp800_63c

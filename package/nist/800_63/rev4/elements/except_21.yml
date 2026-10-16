@@ -1,0 +1,9 @@
+id: 4cada615-f764-437b-aa40-e149d486eac8
+name: Record Relationship Evidence
+description: Upon successfully identity proofing an applicant, the CSP SHALL record the evidence used to confirm the applicant reference's relationship to the applicant in the subscriber account.
+elementType: criterion
+externalId: EXCEPT-21
+aliases:
+  - except_21
+  - EXCEPT-21
+parent: sp800_63a

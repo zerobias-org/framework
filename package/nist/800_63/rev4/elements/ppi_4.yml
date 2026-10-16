@@ -1,0 +1,9 @@
+id: c11075fd-67a9-4a95-ae27-caeda808ca93
+name: Anonymous PPIs
+description: The PPI SHALL contain no identifying information about the subscriber (e.g., username, email address, employee number).
+elementType: criterion
+externalId: PPI-4
+aliases:
+  - ppi_4
+  - PPI-4
+parent: sp800_63c

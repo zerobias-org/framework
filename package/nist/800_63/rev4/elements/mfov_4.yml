@@ -1,0 +1,9 @@
+id: 633e1d41-aa6c-4bf0-9d34-ed516298ed48
+name: MF-OTP Replay Protection
+description: Verifiers SHALL accept a given OTP only once while it is valid to provide replay resistance, as described in Sec. 3.2.7.
+elementType: criterion
+externalId: MFOV-4
+aliases:
+  - mfov_4
+  - MFOV-4
+parent: sp800_63b

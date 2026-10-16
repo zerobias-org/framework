@@ -1,0 +1,9 @@
+id: a8f719da-15ec-4dda-8b96-0fb4da3e0242
+name: Biometric Sample Erasure
+description: The biometric samples and any other biometric data derived from them SHALL be erased immediately after any adaptation or research data has been derived.
+elementType: criterion
+externalId: UBS-1
+aliases:
+  - ubs_1
+  - UBS-1
+parent: sp800_63b

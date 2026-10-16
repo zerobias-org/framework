@@ -1,0 +1,22 @@
+{
+  "name": "@zerobias-org/framework-nist-800_63-update",
+  "version": "1.0.0",
+  "description": "Update tool for the NIST SP 800-63-4 conformance criteria framework",
+  "private": true,
+  "license": "ISC",
+  "author": "ZeroBias Organization",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "update": "tsx index.ts"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^25.2.2",
+    "typescript": "^5.9.3"
+  }
+}

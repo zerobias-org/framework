@@ -1,0 +1,9 @@
+id: 000fcfb1-9ddc-47cd-990f-50e667f09247
+name: MF-TOTP Key Lifetime
+description: Multi-factor time-based OTPs SHALL have a defined lifetime based on expected authenticator clock drift plus allowances for network delay and claimant entry.
+elementType: criterion
+externalId: MFOV-5
+aliases:
+  - mfov_5
+  - MFOV-5
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 25be7a36-22b2-402a-a502-5ce6b3eff0b3
+name: Prohibition on Coerced Consent
+description: When an IdP gathers the subscriber's consent to use information outside the identity transaction, the IdP SHALL NOT make consent for the additional processing a condition of the identity service.
+elementType: criterion
+externalId: TSI-3
+aliases:
+  - tsi_3
+  - TSI-3
+parent: sp800_63c

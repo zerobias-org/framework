@@ -1,0 +1,9 @@
+id: 1a96f769-92c1-4f8f-b095-df041b066075
+name: TOTP Key Lifetime
+description: Single-factor time-based OTPs SHALL have a defined lifetime based on expected authenticator clock drift plus allowances for network delay and claimant entry.
+elementType: criterion
+externalId: SFOV-5
+aliases:
+  - sfov_5
+  - SFOV-5
+parent: sp800_63b

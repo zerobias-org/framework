@@ -1,0 +1,9 @@
+id: f994664c-44b0-4a34-ac35-63399f4fc673
+name: Syncable Key Fabric MFA
+description: User access to authentication keys in the sync fabric SHALL be protected by AAL2-equivalent MFA to preserve the integrity of the authentication protocols using the synced keys.
+elementType: criterion
+externalId: CAK-5
+aliases:
+  - cak_5
+  - CAK-5
+parent: sp800_63b

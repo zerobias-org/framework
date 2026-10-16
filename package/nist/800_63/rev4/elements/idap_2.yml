@@ -1,0 +1,9 @@
+id: e0dc300b-eead-443b-9a0b-a68394013f2b
+name: Identity API Access Time Limitation
+description: Access to the identity API SHALL be time-limited by the trust agreement.
+elementType: criterion
+externalId: IDAP-2
+aliases:
+  - idap_2
+  - IDAP-2
+parent: sp800_63c

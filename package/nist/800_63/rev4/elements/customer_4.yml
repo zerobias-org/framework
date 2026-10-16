@@ -1,0 +1,9 @@
+id: fa9405ce-6070-4455-b140-9a49bf30c9e2
+name: Periodic CX Reassessment
+description: The CSP SHALL reassess the customer experience risks periodically and any time the CSP makes changes to its identity service that affect the processes or technologies that impact customer experience.
+elementType: criterion
+externalId: CUSTOMER-4
+aliases:
+  - customer_4
+  - CUSTOMER-4
+parent: sp800_63a

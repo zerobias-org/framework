@@ -1,0 +1,9 @@
+id: d4ad7add-ed5c-42f8-90ba-8c9054104eac
+name: Subscriber Account Compromise
+description: The CSP SHALL provide the capability for the subscriber to report any unauthorized access or potential compromise to information in their subscriber account.
+elementType: criterion
+externalId: SUB-9
+aliases:
+  - sub_9
+  - SUB-9
+parent: sp800_63a

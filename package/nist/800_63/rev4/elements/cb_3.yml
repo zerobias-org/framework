@@ -1,0 +1,9 @@
+id: bcc5acea-3a4a-4195-a48a-5c288855351e
+name: Channel Binding Validation
+description: The verifier SHALL validate the signature or other information used to prove phishing resistance.
+elementType: criterion
+externalId: CB-3
+aliases:
+  - cb_3
+  - CB-3
+parent: sp800_63b

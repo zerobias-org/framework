@@ -1,0 +1,9 @@
+id: 242e7cff-2d0a-4023-908c-3dd409088129
+name: Wallet Assertion xAL and Activation Information
+description: The wallet assertion or trust agreement SHALL convey the represented account IAL or issuance process, the wallet activation method, and the wallet's intended FAL.
+elementType: criterion
+externalId: ARTCN-2
+aliases:
+  - artcn_2
+  - ARTCN-2
+parent: sp800_63c

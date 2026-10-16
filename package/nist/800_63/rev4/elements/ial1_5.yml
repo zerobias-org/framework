@@ -1,0 +1,9 @@
+id: 545d2045-19bd-4515-9755-530e87813640
+name: IAL1 Attribute Validation
+description: The CSP SHALL validate all core attributes and the government identifier against an authoritative or credible source to determine accuracy.
+elementType: criterion
+externalId: IAL1-5
+aliases:
+  - ial1_5
+  - IAL1-5
+parent: sp800_63a

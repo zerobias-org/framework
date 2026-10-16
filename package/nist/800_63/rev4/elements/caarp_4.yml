@@ -1,0 +1,9 @@
+id: 772eb0cf-cc08-44e9-8da4-342f6360c314
+name: RP Attribute Transmission Limitations
+description: The transmission of additionally collected attributes SHALL be handled in accordance with Sec. 3.10.1.
+elementType: criterion
+externalId: CAARP-4
+aliases:
+  - caarp_4
+  - CAARP-4
+parent: sp800_63c

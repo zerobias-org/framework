@@ -1,0 +1,9 @@
+id: 43b6be1f-b95d-479b-9821-6db74bc86747
+name: RP Session Time Independent of Assertion
+description: Assertion validity time windows SHALL NOT be used to limit the session at the RP. See Sec. 4.7 for more information.
+elementType: criterion
+externalId: ARTC-12
+aliases:
+  - artc_12
+  - ARTC-12
+parent: sp800_63c

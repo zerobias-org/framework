@@ -1,0 +1,9 @@
+id: d31a459f-db02-4a02-8a91-b659d12e03f1
+name: IAL2 Attribute Collection
+description: The CSP SHALL collect all core attributes, including at least one government identifier. Validated evidence is the preferred source of identity attributes.
+elementType: criterion
+externalId: IAL2-3
+aliases:
+  - ial2_3
+  - IAL2-3
+parent: sp800_63a

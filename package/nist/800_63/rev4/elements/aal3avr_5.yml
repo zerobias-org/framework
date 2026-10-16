@@ -1,0 +1,9 @@
+id: eec4c875-5dd8-46ed-84f4-a5c6972b3c2b
+name: AAL3 Public-Key Cryptography
+description: Cryptographic authenticators used at AAL3 SHALL use public-key cryptography to protect the authentication secrets from compromise of the verifier.
+elementType: criterion
+externalId: AAL3AVR-5
+aliases:
+  - aal3avr_5
+  - AAL3AVR-5
+parent: sp800_63b

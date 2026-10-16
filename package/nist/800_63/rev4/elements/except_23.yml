@@ -1,0 +1,9 @@
+id: edb00b3a-b1e8-4d34-89c4-1b844ef67478
+name: COPPA
+description: When interacting with persons under 13, the CSP SHALL ensure compliance with COPPA or other applicable laws protecting minors.
+elementType: criterion
+externalId: EXCEPT-23
+aliases:
+  - except_23
+  - EXCEPT-23
+parent: sp800_63a

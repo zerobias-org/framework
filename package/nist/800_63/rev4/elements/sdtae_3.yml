@@ -1,0 +1,9 @@
+id: 452c04ad-0f2d-4d7c-af6d-9fe2ee0b917a
+name: Subscriber-Driven Attribute Release
+description: The release of subscriber attributes SHALL be managed using a runtime decision at the IdP, as described in Sec. 4.6.1.3. The authorized party SHALL be the subscriber.
+elementType: criterion
+externalId: SDTAE-3
+aliases:
+  - sdtae_3
+  - SDTAE-3
+parent: sp800_63c

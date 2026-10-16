@@ -1,0 +1,9 @@
+id: 26be5c55-ca4b-4bc9-bcbb-378f341487e4
+name: SF Non-Exportable Authentication Key Storage
+description: Non-exportable single-factor cryptographic authentication keys SHALL be stored in a hardware-protected isolated execution environment or a separate processor.
+elementType: criterion
+externalId: SFCATORS-2
+aliases:
+  - sfcators_2
+  - SFCATORS-2
+parent: sp800_63b

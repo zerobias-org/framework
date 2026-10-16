@@ -1,0 +1,9 @@
+id: 86e7e573-37a8-4319-ad31-b4ccb8b90843
+name: Digital Identity Risk Management - CSP/IdP Communication of Normative Deviations
+description: Whenever a service offering deviates from normative guidance, those deviations SHALL be clearly communicated to the RPs that utilize the service.
+elementType: criterion
+externalId: DIRM-2
+aliases:
+  - dirm_2
+  - DIRM-2
+parent: sp800_63

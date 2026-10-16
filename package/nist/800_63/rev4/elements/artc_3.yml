@@ -1,0 +1,9 @@
+id: ccf4b2d2-abe0-4f5b-a3f8-7d1e5d6987b1
+name: Assertion Attribute Requirements
+description: All assertions SHALL include issuer and audience identifiers, issuance time, validity window, assertion identifier, authentication time and a signature.
+elementType: criterion
+externalId: ARTC-3
+aliases:
+  - artc_3
+  - ARTC-3
+parent: sp800_63c

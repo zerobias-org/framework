@@ -1,0 +1,9 @@
+id: de3b553b-c584-43c8-bb0f-47c61e30f485
+name: Password Verifier Composition
+description: Verifiers and CSPs SHALL NOT impose other composition rules (e.g., requiring mixtures of different character types) for passwords.
+elementType: criterion
+externalId: PV-3
+aliases:
+  - pv_3
+  - PV-3
+parent: sp800_63b

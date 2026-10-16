@@ -1,0 +1,9 @@
+id: c1f326f8-cc49-40d7-b3df-d30ea1d1439d
+name: Signature Coverage
+description: This signature SHALL cover the entire assertion, including its identifier, issuer, audience, subject, and time validity window.
+elementType: criterion
+externalId: SIGNA-3
+aliases:
+  - signa_3
+  - SIGNA-3
+parent: sp800_63c

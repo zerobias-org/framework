@@ -1,0 +1,9 @@
+id: da75cb6a-6a3a-49d6-bacc-6a1db59d186d
+name: Adding an Additional Bound Authenticator (1)
+description: During the initial authentication step of the binding ceremony, the RP SHALL request authentication with an existing bound authenticator to reach FAL3.
+elementType: criterion
+externalId: SUBPB-9
+aliases:
+  - subpb_9
+  - SUBPB-9
+parent: sp800_63c

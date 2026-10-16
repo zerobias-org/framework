@@ -1,0 +1,9 @@
+id: 9e596a6d-c8e9-47b8-be00-5e746b752121
+name: 'Allowlist: IdP Attribute Determination for RPs'
+description: The IdP SHALL determine which identity attributes are passed to the allowlisted RP upon authentication.
+elementType: criterion
+externalId: IALRP-2
+aliases:
+  - ialrp_2
+  - IALRP-2
+parent: sp800_63c

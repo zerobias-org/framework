@@ -1,0 +1,9 @@
+id: 5ef3ec0f-23ab-44e4-a0d7-6fb5855e9a5e
+name: Channel Binding Authenticated Protected Channel
+description: An authentication protocol with channel binding SHALL establish an authenticated protected channel with the verifier.
+elementType: criterion
+externalId: CB-1
+aliases:
+  - cb_1
+  - CB-1
+parent: sp800_63b

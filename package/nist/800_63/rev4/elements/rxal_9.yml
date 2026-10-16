@@ -1,0 +1,9 @@
+id: f4bef46d-0614-47ae-8ba9-d07b5e038a2b
+name: Unmet xAL Requirements
+description: If IdP responses do not meet the requested parameters, the RP SHALL have a mechanism for addressing these requests (e.g., declining the request or routing the user to an exception handling process).
+elementType: criterion
+externalId: RXAL-9
+aliases:
+  - rxal_9
+  - RXAL-9
+parent: sp800_63c

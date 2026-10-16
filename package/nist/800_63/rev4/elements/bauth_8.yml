@@ -1,0 +1,9 @@
+id: 5230e4a7-6e26-4528-953b-17e7ca425d66
+name: Bound Authenticator Change Notification
+description: The RP SHALL notify the subscriber out of band when a bound authenticator is added to or removed from the RP subscriber account.
+elementType: criterion
+externalId: BAUTH-8
+aliases:
+  - bauth_8
+  - BAUTH-8
+parent: sp800_63c

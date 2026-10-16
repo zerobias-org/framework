@@ -1,0 +1,9 @@
+id: 57945f1c-b98a-4111-868b-2bf7c0d14832
+name: Attribute Type Documentation
+description: Attributes SHALL be either attribute values (e.g., a date of birth) or derived attribute values (e.g., an indication of age of majority).
+elementType: criterion
+externalId: IDA-2
+aliases:
+  - ida_2
+  - IDA-2
+parent: sp800_63c

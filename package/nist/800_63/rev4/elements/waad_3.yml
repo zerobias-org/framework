@@ -1,0 +1,9 @@
+id: 7a999ac7-f269-4135-819a-7870b78584f9
+name: Wallet Remembered Decision Revocation
+description: If a subscriber-controlled wallet remembers disclosure decisions for an RP, it SHALL allow the subscriber to revoke that remembered access later.
+elementType: criterion
+externalId: WAAD-3
+aliases:
+  - waad_3
+  - WAAD-3
+parent: sp800_63c

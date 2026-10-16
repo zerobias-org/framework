@@ -1,0 +1,9 @@
+id: 7d7af8ca-9934-489e-b266-59df818f6042
+name: Min Personal Info
+description: Processing of personal information SHALL be limited to the minimum necessary to validate and associate the claimed identity, mitigate fraud and support RP authorization.
+elementType: criterion
+externalId: PRIVACY-8
+aliases:
+  - privacy_8
+  - PRIVACY-8
+parent: sp800_63a

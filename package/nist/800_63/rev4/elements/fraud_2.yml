@@ -1,0 +1,9 @@
+id: bacf2fde-7bad-4575-a1f1-bdabc80de2a9
+name: Fraud Privacy Risk Assessment
+description: CSPs SHALL conduct a privacy risk assessment of all fraud checks and fraud mitigation technologies prior to implementation.
+elementType: criterion
+externalId: FRAUD-2
+aliases:
+  - fraud_2
+  - FRAUD-2
+parent: sp800_63a

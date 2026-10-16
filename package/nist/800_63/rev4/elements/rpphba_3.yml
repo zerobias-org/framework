@@ -1,0 +1,9 @@
+id: ea34c138-ce94-4df8-862b-e947cb3b5126
+name: Assertion Validation with Bound Authenticator
+description: The RP SHALL process and validate the assertion in addition to the bound authenticator.
+elementType: criterion
+externalId: RPPHBA-3
+aliases:
+  - rpphba_3
+  - RPPHBA-3
+parent: sp800_63c

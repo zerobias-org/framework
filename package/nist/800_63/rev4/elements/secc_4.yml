@@ -1,0 +1,9 @@
+id: 20260118-e614-46cc-9749-a3302d7cbf3d
+name: Assurance Level Baseline Controls
+description: CSPs, IdPs, and RPs SHALL ensure that the minimum assurance-related controls for the appropriate systems or equivalent are satisfied or exceeded.
+elementType: criterion
+externalId: SECC-4
+aliases:
+  - secc_4
+  - SECC-4
+parent: sp800_63c

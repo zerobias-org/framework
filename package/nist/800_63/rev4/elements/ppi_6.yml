@@ -1,0 +1,9 @@
+id: 7c79824d-9eb8-4d4d-851d-01085b4f44ca
+name: PPI Brute Force Protection
+description: The PPI...SHALL provide sufficient entropy as to be unguessable by an attacker.
+elementType: criterion
+externalId: PPI-6
+aliases:
+  - ppi_6
+  - PPI-6
+parent: sp800_63c

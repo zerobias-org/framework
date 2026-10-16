@@ -1,0 +1,9 @@
+id: a9990954-7913-401d-b545-097174de1bec
+name: Alternative Authenticator Management
+description: The RP SHALL follow the requirements in [SP800-63B] to manage all alternative authenticators.
+elementType: criterion
+externalId: ALTAP-1
+aliases:
+  - altap_1
+  - ALTAP-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 93fd0fbd-c733-4814-a0bc-71340f656554
+name: Holder-of-Key Account Resolution
+description: When first verifying a holder-of-key assertion authenticator, the RP SHALL ensure its attributes uniquely resolve to the RP subscriber account before accepting it.
+elementType: criterion
+externalId: ACCR-3
+aliases:
+  - accr_3
+  - ACCR-3
+parent: sp800_63c

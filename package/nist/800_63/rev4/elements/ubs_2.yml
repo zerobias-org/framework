@@ -1,0 +1,9 @@
+id: d100b0b6-6cfa-4774-aa1f-b2f33db79d9c
+name: Biometric Sample Storage Limit
+description: A limit on the allowable time for adaptation SHALL be established and enforced by the authenticator or the CSP.
+elementType: criterion
+externalId: UBS-2
+aliases:
+  - ubs_2
+  - UBS-2
+parent: sp800_63b

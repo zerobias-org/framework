@@ -1,0 +1,9 @@
+id: d7da0470-1e7b-459d-9ea9-98dac3830de4
+name: IAL1 Remote Attended Recorded Video
+description: At IAL1, a CSP recording a Remote Attended video session SHALL notify the applicant, gain consent beforehand, and publish its video retention and deletion processes.
+elementType: criterion
+externalId: IAL1-11
+aliases:
+  - ial1_11
+  - IAL1-11
+parent: sp800_63a

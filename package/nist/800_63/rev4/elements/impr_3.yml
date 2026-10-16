@@ -1,0 +1,9 @@
+id: 45f4c2a2-4faa-47da-a3c5-8d5bd19cbfb2
+name: Syncable Key Flag Trust
+description: Agencies SHALL evaluate syncable authenticator use cases and determine access policy decisions based on returned information including flags and attestation.
+elementType: criterion
+externalId: IMPR-3
+aliases:
+  - impr_3
+  - IMPR-3
+parent: sp800_63b

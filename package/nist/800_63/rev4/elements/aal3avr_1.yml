@@ -1,0 +1,9 @@
+id: 56d88b0d-ae4c-4e56-a408-c01208e870ee
+name: AAL3 Approved Cryptography
+description: Authenticators used at AAL3 SHALL use approved cryptography.
+elementType: criterion
+externalId: AAL3AVR-1
+aliases:
+  - aal3avr_1
+  - AAL3AVR-1
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: d0e1fe50-ce5d-4901-8444-74c54d5006d1
+name: Provisioning API Attribute Minimization
+description: The IdP SHALL minimize the attributes that are made available to the RP through the provisioning API.
+elementType: criterion
+externalId: PRIVR-7
+aliases:
+  - privr_7
+  - PRIVR-7
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 1c99710c-4a9d-44df-bfb2-5efe29b3bfc2
+name: Out-Of-Band Secondary Approval
+description: An out-of-band authenticator requesting approval over the secondary channel SHALL accept the secret from the primary channel and send it to the verifier to bind the approval.
+elementType: criterion
+externalId: OBA-5
+aliases:
+  - oba_5
+  - OBA-5
+parent: sp800_63b

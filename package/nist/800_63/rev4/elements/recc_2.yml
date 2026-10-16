@@ -1,0 +1,9 @@
+id: 720a6677-ccc1-4f58-804c-b53338926532
+name: Recovery Contact Management
+description: If the CSP supports the use of recovery contacts, the CSP SHALL provide methods for subscribers to view and manage recovery contacts.
+elementType: criterion
+externalId: RECC-2
+aliases:
+  - recc_2
+  - RECC-2
+parent: sp800_63b

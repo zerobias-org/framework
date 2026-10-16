@@ -1,0 +1,9 @@
+id: 4b800de9-759d-48d5-bbc2-fc8b0d64c3b3
+name: 1:1 Comparison Performance
+description: CSPs using 1:1 biometric comparison for verification SHALL meet a false match rate of 1:10,000 or better and a false non-match rate of 1:100 or better.
+elementType: criterion
+externalId: BIO-9
+aliases:
+  - bio_9
+  - BIO-9
+parent: sp800_63a

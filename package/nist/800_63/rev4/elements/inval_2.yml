@@ -1,0 +1,9 @@
+id: e4606167-12c4-4b88-a04f-0a7b5ca97c67
+name: Authenticator Invalidation Reporting Risk
+description: The CSP SHALL make a risk-based determination of the authenticity of invalidation requests from the subscriber.
+elementType: criterion
+externalId: INVAL-2
+aliases:
+  - inval_2
+  - INVAL-2
+parent: sp800_63b

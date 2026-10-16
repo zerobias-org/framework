@@ -1,0 +1,9 @@
+id: 02b9c6cd-a701-4331-bdcd-f72078c25ec1
+name: Wallet Activation Erasure
+description: The password or biometric sample used for activation and any biometric data derived from the biometric sample SHALL be erased immediately after an authentication transaction.
+elementType: criterion
+externalId: UWSCW-4
+aliases:
+  - uwscw_4
+  - UWSCW-4
+parent: sp800_63b

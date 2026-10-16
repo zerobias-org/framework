@@ -1,0 +1,9 @@
+id: 52864e99-4b4f-43c5-b825-5b378320409a
+name: PPI Mapping as Subscriber Information
+description: 'If a proxy is used: The mapping of a PPI to other identifiers is considered subscriber information and SHALL be treated in accordance with the requirements in Sec. 3.10.1.'
+elementType: criterion
+externalId: PPI-3
+aliases:
+  - ppi_3
+  - PPI-3
+parent: sp800_63c

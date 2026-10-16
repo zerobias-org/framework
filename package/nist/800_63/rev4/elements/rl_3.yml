@@ -1,0 +1,9 @@
+id: dc24255a-686a-49a7-b374-263afd1b719a
+name: Rate Limiting Authenticator Association
+description: If more than one authenticator is involved with an excessive number of authentication attempts, both authenticators SHALL be disabled.
+elementType: criterion
+externalId: RL-3
+aliases:
+  - rl_3
+  - RL-3
+parent: sp800_63b

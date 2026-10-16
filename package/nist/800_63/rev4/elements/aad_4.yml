@@ -1,0 +1,9 @@
+id: 39e010dd-c996-4f53-91db-f7bf9271c2dc
+name: Subscriber Attribute Transmission Notification
+description: The subscriber SHALL be informed of the transmission of attributes to an RP.
+elementType: criterion
+externalId: AAD-4
+aliases:
+  - aad_4
+  - AAD-4
+parent: sp800_63c

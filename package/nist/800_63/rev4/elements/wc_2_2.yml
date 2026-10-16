@@ -1,0 +1,9 @@
+id: 978389d5-b346-4177-9c77-739663baeaae
+name: Wireless Authenticator Pairing Code Length
+description: If an association process is used, either the authenticator or endpoint SHALL have a pairing code that is at least six decimal digits (or equivalent) in length that MAY be printed on the device.
+elementType: criterion
+externalId: WC-2.2
+aliases:
+  - wc_2_2
+  - WC-2.2
+parent: sp800_63b

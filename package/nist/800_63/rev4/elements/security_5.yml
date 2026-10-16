@@ -1,0 +1,9 @@
+id: c2cc5a39-45e5-4814-a890-b1eaba0eb446
+name: Third-Party Risk
+description: The CSP SHALL assess risks of its use of third-party services and apply appropriate cybersecurity supply chain risk management controls.
+elementType: criterion
+externalId: SECURITY-5
+aliases:
+  - security_5
+  - SECURITY-5
+parent: sp800_63a

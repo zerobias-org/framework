@@ -1,0 +1,9 @@
+id: 9a9bb851-c053-454f-b785-48ef34a3ce12
+name: AR Relationship Evidence
+description: The CSP SHALL request evidence of the applicant's relationship (e.g., notarized power of attorney, a professional certification).
+elementType: criterion
+externalId: EXCEPT-20
+aliases:
+  - except_20
+  - EXCEPT-20
+parent: sp800_63a
