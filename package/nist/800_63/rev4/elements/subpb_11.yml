@@ -1,0 +1,9 @@
+id: 5fa80433-a702-4bb9-8157-08160c25c6ca
+name: Bound Authenticator Removal - Session Termination
+description: When a bound authenticator is removed, the RP SHALL terminate all current FAL3 sessions for the subscriber and SHALL require reauthentication of the subscriber from the IdP at FAL3.
+elementType: criterion
+externalId: SUBPB-11
+aliases:
+  - subpb_11
+  - SUBPB-11
+parent: sp800_63c

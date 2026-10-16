@@ -1,0 +1,9 @@
+id: 2bf9e562-fb41-4bc7-aaed-7615290599d2
+name: Biometrics Alternatives
+description: An alternative nonbiometric authentication option SHALL always be provided to the subscriber.
+elementType: criterion
+externalId: UB-3
+aliases:
+  - ub_3
+  - UB-3
+parent: sp800_63b

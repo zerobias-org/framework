@@ -1,0 +1,9 @@
+id: 7b8c7d18-c72c-4398-a0fa-605cf60ac43b
+name: Syncable Key Fabric FISMA
+description: Federal enterprise authentication keys SHALL be stored in sync fabrics that have achieved Federal Information Security Modernization Act (FISMA) [FISMA] moderate protections or equivalent.
+elementType: criterion
+externalId: CAK-8
+aliases:
+  - cak_8
+  - CAK-8
+parent: sp800_63b

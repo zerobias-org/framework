@@ -1,0 +1,9 @@
+id: 86ed07b9-84c8-4d3a-8ff5-7dd3eb3cbaf0
+name: Notification Address Validation
+description: For subscriber accounts that have undergone identity proofing, at least one address SHALL have been validated during the identity proofing process.
+elementType: criterion
+externalId: ANOT-3
+aliases:
+  - anot_3
+  - ANOT-3
+parent: sp800_63b

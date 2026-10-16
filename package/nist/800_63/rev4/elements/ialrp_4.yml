@@ -1,0 +1,9 @@
+id: 6edd299f-f27b-480b-8b1c-0007991ef274
+name: 'Allowlist: RP Identification'
+description: IdP allowlists SHALL uniquely identify RPs by FQDN, cryptographic key or protocol identifier, and an RP allowlist entry SHALL NOT use a wildcard domain.
+elementType: criterion
+externalId: IALRP-4
+aliases:
+  - ialrp_4
+  - IALRP-4
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: f778561b-2e7a-48b9-a6b8-ea5198254cef
+name: Account Resolution Attribute Sufficiency
+description: An RP performing account resolution SHALL ensure requested IdP attributes uniquely resolve the subscriber before linking the federated identifier and granting access.
+elementType: criterion
+externalId: ACCR-1
+aliases:
+  - accr_1
+  - ACCR-1
+parent: sp800_63c

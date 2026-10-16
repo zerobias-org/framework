@@ -1,0 +1,9 @@
+id: b6ff05fc-f537-45d6-ac4f-25419c99c8e4
+name: Fraud Self-Reporting
+description: The CSP SHALL establish a self-reporting mechanism and investigation capability for subjects who believe they are victims of identity proofing fraud.
+elementType: criterion
+externalId: FRAUD-3
+aliases:
+  - fraud_3
+  - FRAUD-3
+parent: sp800_63a

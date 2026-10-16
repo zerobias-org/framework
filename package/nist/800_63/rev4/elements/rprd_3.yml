@@ -1,0 +1,9 @@
+id: 212f6cbd-a46e-4f85-ad32-a92d6367351d
+name: 'RP Runtime Decision: Remembered Decision Revocation'
+description: '[The RP] SHALL allow the authorized party to revoke such remembered access at a future time.'
+elementType: criterion
+externalId: RPRD-3
+aliases:
+  - rprd_3
+  - RPRD-3
+parent: sp800_63c

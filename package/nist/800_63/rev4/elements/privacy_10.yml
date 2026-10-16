@@ -1,0 +1,9 @@
+id: 92f4b38a-560a-40c5-9b62-e9ca82aee734
+name: SSN Collection
+description: '[If the SSN is collected on behalf of a federal, state, or local government agency,] the CSP SHALL provide notice to the applicant for the collection in accordance with applicable laws.'
+elementType: criterion
+externalId: PRIVACY-10
+aliases:
+  - privacy_10
+  - PRIVACY-10
+parent: sp800_63a

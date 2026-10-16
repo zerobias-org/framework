@@ -1,0 +1,9 @@
+id: bf48f7c5-217e-4aa1-8dd0-c2e4d174f3f2
+name: Validation Sources
+description: The CSP SHALL use authoritative or credible sources that meet [the criteria provided in Sec. 2.4.2.4].
+elementType: criterion
+externalId: IDPRF-12
+aliases:
+  - idprf_12
+  - IDPRF-12
+parent: sp800_63a

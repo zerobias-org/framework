@@ -1,0 +1,9 @@
+id: 9e9979ba-a961-40ab-a682-b0093b7a2f9b
+name: Cryptographic Verifier Approved Cryptography
+description: The verification operation SHALL use approved cryptography.
+elementType: criterion
+externalId: SFCVER-4
+aliases:
+  - sfcver_4
+  - SFCVER-4
+parent: sp800_63b

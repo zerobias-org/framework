@@ -1,0 +1,9 @@
+id: 246ed424-0805-49da-ada2-70afc4510e8d
+name: IdP/CSP Security Controls
+description: IdPs and CSPs SHALL employ tailored security controls from at least the SP 800-53 moderate baseline or an equivalent federal or industry standard.
+elementType: criterion
+externalId: SECC-1
+aliases:
+  - secc_1
+  - SECC-1
+parent: sp800_63c

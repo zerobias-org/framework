@@ -1,0 +1,9 @@
+id: 85b478a9-c094-496f-b679-f37aa9878543
+name: MF Non-Exportable Authentication Key Storage
+description: Non-exportable multi-factor cryptographic authentication keys, suitable for AAL3, SHALL be stored in a hardware-protected isolated execution environment or separate processor.
+elementType: criterion
+externalId: MFCTORS-2
+aliases:
+  - mfctors_2
+  - MFCTORS-2
+parent: sp800_63b

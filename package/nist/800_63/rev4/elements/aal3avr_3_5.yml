@@ -1,0 +1,9 @@
+id: ab01dc3f-3f70-4c4f-96f9-66c61fb3c8e9
+name: AAL3 Phishing Resistance
+description: The cryptographic authenticator used at AAL3 SHALL provide phishing resistance, as described in Sec. 3.2.5.
+elementType: criterion
+externalId: AAL3AVR-3.5
+aliases:
+  - aal3avr_3_5
+  - AAL3AVR-3.5
+parent: sp800_63b

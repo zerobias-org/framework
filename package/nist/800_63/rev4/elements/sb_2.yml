@@ -1,0 +1,9 @@
+id: 7d19be55-7cf5-44d1-a16b-e21e86b470be
+name: Session Secret Presentation
+description: The secret SHALL be directly presented by the subscriber's software, or possession of the secret SHALL be proven using a cryptographic mechanism.
+elementType: criterion
+externalId: SB-2
+aliases:
+  - sb_2
+  - SB-2
+parent: sp800_63b

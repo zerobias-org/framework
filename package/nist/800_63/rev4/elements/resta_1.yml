@@ -1,0 +1,9 @@
+id: 7959d52f-5433-425f-b056-55645d189a1e
+name: Restricted Authenticator Risk Determination
+description: If the RP determines that the risk to any party is unacceptable, the restricted authenticator SHALL NOT be used, and an alternative authenticator type SHALL be used.
+elementType: criterion
+externalId: RESTA-1
+aliases:
+  - resta_1
+  - RESTA-1
+parent: sp800_63b

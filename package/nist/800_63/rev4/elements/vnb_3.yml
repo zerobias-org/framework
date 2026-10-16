@@ -1,0 +1,9 @@
+id: 9a55c919-62d5-4ee7-aa1e-d9ad9819829e
+name: Name Binding Hostname
+description: For DNS identifiers, the verifier identifier SHALL be the verifier's authenticated hostname or a parent domain at least one level below its public suffix.
+elementType: criterion
+externalId: VNB-3
+aliases:
+  - vnb_3
+  - VNB-3
+parent: sp800_63b

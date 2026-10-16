@@ -1,0 +1,9 @@
+id: e1b5381e-bccb-47b2-97a2-684db135f889
+name: Syncable Non-UV Key SF
+description: If the user is not verified, agencies SHALL treat the authenticator as a single-factor cryptographic authenticator.
+elementType: criterion
+externalId: IMPR-2
+aliases:
+  - impr_2
+  - IMPR-2
+parent: sp800_63b

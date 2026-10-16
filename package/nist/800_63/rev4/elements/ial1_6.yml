@@ -1,0 +1,9 @@
+id: 312cd0c1-4ede-4db0-97f3-f2a8ecd5db2d
+name: IAL1 Verification Requirements
+description: The CSP SHALL verify the applicant's ownership of one piece of evidence using one of the methods [provided in 4.1.6].
+elementType: criterion
+externalId: IAL1-6
+aliases:
+  - ial1_6
+  - IAL1-6
+parent: sp800_63a

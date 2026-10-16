@@ -1,0 +1,9 @@
+id: 0823a5c1-bd2c-43f8-b930-7350c96cde13
+name: Identify Compensating Controls - Communication
+description: CSPs and IdPs that implement compensating controls SHALL communicate this information to all potential RPs prior to integration.
+elementType: criterion
+externalId: ICC-2
+aliases:
+  - icc_2
+  - ICC-2
+parent: sp800_63

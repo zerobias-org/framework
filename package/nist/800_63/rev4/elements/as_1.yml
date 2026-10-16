@@ -1,0 +1,9 @@
+id: 20c30609-93b4-42e3-8fcc-9c03eb109b8d
+name: Activation Secret Non-Transferable
+description: In all cases, the activation secret SHALL remain within the authenticator and its associated user endpoint.
+elementType: criterion
+externalId: AS-1
+aliases:
+  - as_1
+  - AS-1
+parent: sp800_63b

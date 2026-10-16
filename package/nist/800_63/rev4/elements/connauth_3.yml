@@ -1,0 +1,9 @@
+id: af1dde97-18b8-4e8c-876e-d29b8d39a896
+name: Connected Authenticator Authenticated Protected Channel
+description: Authentication data between authenticators and endpoints SHALL be communicated directly between the devices or through an authenticated protected channel.
+elementType: criterion
+externalId: CONNAUTH-3
+aliases:
+  - connauth_3
+  - CONNAUTH-3
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 72e56183-c690-4514-b122-3fdecaecef2e
+name: Wallet Runtime Decision Disclosure Terms
+description: In wallet federation, the subscriber SHALL be told during the runtime decision which attributes the RP will request and the purpose of each.
+elementType: criterion
+externalId: TAGREE-3
+aliases:
+  - tagree_3
+  - TAGREE-3
+parent: sp800_63c

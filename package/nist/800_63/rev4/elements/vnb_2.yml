@@ -1,0 +1,9 @@
+id: 96b774a3-e016-40b0-b275-ead1ec4e21dc
+name: Name Binding Authenticated Verifier
+description: The protocol SHALL generate an authenticator output that is cryptographically bound to a verifier identifier that is authenticated as part of the protocol.
+elementType: criterion
+externalId: VNB-2
+aliases:
+  - vnb_2
+  - VNB-2
+parent: sp800_63b

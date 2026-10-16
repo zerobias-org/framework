@@ -1,0 +1,9 @@
+id: 688cfe0e-6de2-435a-881a-fe45909b3507
+name: MF-OTP Verifier Key Protection
+description: Multi-factor OTP symmetric keys SHALL be strongly protected against unauthorized disclosure by access controls limited to the software components that require access.
+elementType: criterion
+externalId: MFOV-1
+aliases:
+  - mfov_1
+  - MFOV-1
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: b7478c33-ed3b-4787-a979-9584df3f7a59
+name: Look-Up Secret Generation
+description: CSPs that create look-up secret authenticators SHALL use an approved random bit generator, as described in Sec. 3.2.12, to generate the list of secrets.
+elementType: criterion
+externalId: LSA-1
+aliases:
+  - lsa_1
+  - LSA-1
+parent: sp800_63b

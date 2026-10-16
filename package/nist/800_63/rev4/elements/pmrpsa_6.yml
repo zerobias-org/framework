@@ -1,0 +1,9 @@
+id: 18aa8d04-518f-430d-b132-9f15bd64ff47
+name: Alternative Provisioning Privacy Assessment
+description: The details of any alternative provisioning model SHALL be included in the privacy risk assessments of the IdP and RP.
+elementType: criterion
+externalId: PMRPSA-6
+aliases:
+  - pmrpsa_6
+  - PMRPSA-6
+parent: sp800_63c

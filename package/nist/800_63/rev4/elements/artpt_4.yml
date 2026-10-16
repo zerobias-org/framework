@@ -1,0 +1,9 @@
+id: 35454c21-c462-4d3b-918b-0b9059d14ddf
+name: Wallet Assertion Injection Protection
+description: The RP SHALL protect against injection of manufactured or captured wallet assertions using XSS and CSRF protection, stage checks, or other accepted techniques.
+elementType: criterion
+externalId: ARTPT-4
+aliases:
+  - artpt_4
+  - ARTPT-4
+parent: sp800_63c

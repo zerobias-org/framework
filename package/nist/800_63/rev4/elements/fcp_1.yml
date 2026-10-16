@@ -1,0 +1,9 @@
+id: f0799221-863e-4ac0-83d7-4e243d99f60c
+name: Front-Channel Assertion Replay Protection
+description: The RP SHALL use the assertion identifier to ensure that a given assertion is presented at most once during the assertion's validity time window.
+elementType: criterion
+externalId: FCP-1
+aliases:
+  - fcp_1
+  - FCP-1
+parent: sp800_63c

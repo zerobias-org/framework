@@ -1,0 +1,9 @@
+id: cc323b98-f8b6-4df3-a9f8-e02c96862287
+name: RP Front-Channel Injection Protection
+description: In the front channel, the RP SHALL protect against injection of manufactured or captured assertions using XSS and CSRF protection, stage checks, or other techniques.
+elementType: criterion
+externalId: FCP-2
+aliases:
+  - fcp_2
+  - FCP-2
+parent: sp800_63c

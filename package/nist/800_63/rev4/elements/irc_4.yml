@@ -1,0 +1,9 @@
+id: 7cb7efce-9056-4d19-a814-029533b61e04
+name: Issued Recovery Code Address Verification
+description: When establishing recovery addresses other than those validated or verified as part of the identity proofing process, the address SHALL be verified.
+elementType: criterion
+externalId: IRC-4
+aliases:
+  - irc_4
+  - IRC-4
+parent: sp800_63b

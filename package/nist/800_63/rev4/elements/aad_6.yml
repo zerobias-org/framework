@@ -1,0 +1,9 @@
+id: bd3ef259-a6a4-4c44-9d2a-188cf6f66479
+name: Subscriber Attribute Release Approval
+description: If the authorized party is the subscriber, the subscriber SHALL be prompted prior to the release of attributes using a runtime decision at the IdP as described in Sec. 4.6.1.3.
+elementType: criterion
+externalId: AAD-6
+aliases:
+  - aad_6
+  - AAD-6
+parent: sp800_63c

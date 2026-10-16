@@ -1,0 +1,9 @@
+id: 63eeff24-65b2-422e-a620-d98a8b8bc3f8
+name: 'RP Runtime Decision: IdP Acceptance'
+description: Every IdP in a trust agreement with an RP but not on its allowlist SHALL be governed by a default policy of runtime authorization by the indicated authorized party.
+elementType: criterion
+externalId: RPRD-1
+aliases:
+  - rprd_1
+  - RPRD-1
+parent: sp800_63c

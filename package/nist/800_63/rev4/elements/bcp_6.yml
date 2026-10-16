@@ -1,0 +1,9 @@
+id: c8c586c7-d309-48a4-8b6f-f4099dede2a3
+name: Assertion Reference Security
+description: In back-channel presentation, the assertion reference SHALL NOT be predictable or guessable by an attacker.
+elementType: criterion
+externalId: BCP-6
+aliases:
+  - bcp_6
+  - BCP-6
+parent: sp800_63c

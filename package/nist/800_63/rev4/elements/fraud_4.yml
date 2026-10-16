@@ -1,0 +1,9 @@
+id: 97028483-255d-4e1a-9a05-3ca071f54039
+name: High Risk Channels
+description: CSPs SHALL analyze all remote proofing communication channels to look for high-risk indicators (e.g., blocklisted proxies and IP addresses).
+elementType: criterion
+externalId: FRAUD-4
+aliases:
+  - fraud_4
+  - FRAUD-4
+parent: sp800_63a

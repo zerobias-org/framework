@@ -1,0 +1,9 @@
+id: 6a96f43f-e0f3-4361-8081-312cb2b765f8
+name: Look-Up Secret Salted Hashing
+description: Look-up secrets shorter than the SP 800-131A minimum security strength (112 bits) SHALL be stored salted and hashed using a suitable password hashing scheme.
+elementType: criterion
+externalId: LSV-6
+aliases:
+  - lsv_6
+  - LSV-6
+parent: sp800_63b

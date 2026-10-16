@@ -1,0 +1,9 @@
+id: f6c9cd90-55b1-40eb-b64d-bf624e7f175a
+name: OTP Key Establishment
+description: When binding a single-factor OTP authenticator, the verifier or associated CSP SHALL use approved cryptography for key establishment or obtaining the required secrets.
+elementType: criterion
+externalId: SFOV-2
+aliases:
+  - sfov_2
+  - SFOV-2
+parent: sp800_63b

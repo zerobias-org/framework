@@ -1,0 +1,9 @@
+id: 9e7f0a43-93ac-469d-b6ae-c4fbb7069c72
+name: ID Proofing Details
+description: Notifications of proofing SHALL include details about the identity proofing event, including the name of the identity service and the date on which the identity proofing was completed.
+elementType: criterion
+externalId: NOTIFS-2
+aliases:
+  - notifs_2
+  - NOTIFS-2
+parent: sp800_63a

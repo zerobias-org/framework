@@ -1,0 +1,9 @@
+id: 968ab637-5913-4fcc-bda7-cb3e5802748e
+name: Wallet Subject Identifier Namespace Processing
+description: The subject identifier SHALL be... processed in the namespace of the CSP that issued the attribute bundle.
+elementType: criterion
+externalId: ARTCN-11
+aliases:
+  - artcn_11
+  - ARTCN-11
+parent: sp800_63c

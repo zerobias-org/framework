@@ -1,0 +1,9 @@
+id: dca3346e-8995-4b9d-962e-9a798954cfd7
+name: 'RP Not on Allowlist: Selective attribute disclosure'
+description: If the federation protocol supports selective attribute disclosure, the authorized party SHALL be able to choose which attributes go to the RP without ending the transaction.
+elementType: criterion
+externalId: IDPRD-4
+aliases:
+  - idprd_4
+  - IDPRD-4
+parent: sp800_63c

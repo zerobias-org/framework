@@ -1,0 +1,9 @@
+id: a51568aa-9891-4a83-9450-f7f54963a1d0
+name: Retry Limit Exceeded Disables
+description: Once the limit of attempts is reached, the authenticator SHALL be disabled, and a different authenticator SHALL be required for authentication.
+elementType: criterion
+externalId: AS-5
+aliases:
+  - as_5
+  - AS-5
+parent: sp800_63b

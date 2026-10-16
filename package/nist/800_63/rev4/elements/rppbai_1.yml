@@ -1,0 +1,9 @@
+id: ccab5cf1-efe7-4ced-8fb4-dc8b5aee93b0
+name: RP-Provided Bound Authenticator Issuance
+description: For RP-provided authenticators, the system administrator of the RP SHALL issue the authenticator directly to the subscriber for use with an FAL3 federation transaction.
+elementType: criterion
+externalId: RPPBAI-1
+aliases:
+  - rppbai_1
+  - RPPBAI-1
+parent: sp800_63c

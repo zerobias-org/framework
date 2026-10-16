@@ -1,0 +1,9 @@
+id: 115fe4f4-28af-428e-bf5a-84cd2aae7844
+name: Out-Of-Band Email Prohibition
+description: Email SHALL NOT be used for out-of-band authentication due to password-only access, interception in transit, and rerouting attacks such as DNS spoofing.
+elementType: criterion
+externalId: OBA-3
+aliases:
+  - oba_3
+  - OBA-3
+parent: sp800_63b

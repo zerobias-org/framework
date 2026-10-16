@@ -1,0 +1,9 @@
+id: 953ca745-02d1-4845-8600-a15947515b81
+name: OTP Rate Limiting
+description: For single-factor OTPs, the verifier SHOULD implement rate limiting of failed authentication attempts, and SHALL if the authenticator output is under 64 bits.
+elementType: criterion
+externalId: SFOV-6
+aliases:
+  - sfov_6
+  - SFOV-6
+parent: sp800_63b

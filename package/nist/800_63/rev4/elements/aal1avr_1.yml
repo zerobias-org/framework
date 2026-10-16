@@ -1,0 +1,9 @@
+id: 40ca276b-7d7d-4c80-ac71-4dce07bc7482
+name: AAL1 Approved Cryptography
+description: Authenticators used at AAL1 SHALL use approved cryptography.
+elementType: criterion
+externalId: AAL1AVR-1
+aliases:
+  - aal1avr_1
+  - AAL1AVR-1
+parent: sp800_63b

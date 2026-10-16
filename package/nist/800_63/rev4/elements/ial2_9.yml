@@ -1,0 +1,9 @@
+id: 5695c7af-70f1-4813-b15c-4da364f0d621
+name: IAL2 Non-Bio Pathway
+description: When the Non-Biometric Pathway is used, the CSP SHALL additionally record whether a mailed confirmation code or a visual comparison of the applicant against evidence was used for verification.
+elementType: criterion
+externalId: IAL2-9
+aliases:
+  - ial2_9
+  - IAL2-9
+parent: sp800_63a

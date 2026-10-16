@@ -1,0 +1,9 @@
+id: 7ed40dd1-74f7-4143-a94f-5832a68b29e7
+name: Privacy Risk Assessment
+description: The agency SHALL conduct a privacy risk assessment regarding the sharing of subscriber identity information between the IdP and RP.
+elementType: criterion
+externalId: PRIVR-5
+aliases:
+  - privr_5
+  - PRIVR-5
+parent: sp800_63c

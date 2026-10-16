@@ -1,0 +1,9 @@
+id: 855badf4-cfce-46fe-81b1-e8bf9b34364e
+name: Identifier-Key Association
+description: Each [CSP, IdP, and RP] identifier SHALL be uniquely associated with the verification keys for the party represented.
+elementType: criterion
+externalId: FAL3-4
+aliases:
+  - fal3_4
+  - FAL3-4
+parent: sp800_63c

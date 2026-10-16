@@ -1,0 +1,9 @@
+id: c875d93b-e332-4a83-ae4b-da2a91cf70f7
+name: Shared Signaling Documentation and Disclosure
+description: All uses of shared signaling SHALL be documented in the trust agreement and made available to the authorized party stipulated by the trust agreement.
+elementType: criterion
+externalId: SSIG-2
+aliases:
+  - ssig_2
+  - SSIG-2
+parent: sp800_63c

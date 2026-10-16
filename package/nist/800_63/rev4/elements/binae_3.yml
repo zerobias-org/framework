@@ -1,0 +1,9 @@
+id: fe0dcfa5-ad24-4149-89a4-b2fb65a45e64
+name: External Authenticator Binding Code
+description: When binding an external authenticator, the CSP SHALL generate a binding code with an approved random bit generator and send it to one of the binding endpoints.
+elementType: criterion
+externalId: BINAE-3
+aliases:
+  - binae_3
+  - BINAE-3
+parent: sp800_63b

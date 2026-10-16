@@ -1,0 +1,9 @@
+id: 80bc17b1-4add-4d2c-92eb-5d18f8758d4f
+name: 'RP Authenticated Session Requirements: Bound Authenticator Verification'
+description: If an FAL3 assertion requires a bound authenticator, it SHALL be verified before the RP subscriber account is associated with an authenticated session.
+elementType: criterion
+externalId: ASRP-3
+aliases:
+  - asrp_3
+  - ASRP-3
+parent: sp800_63c

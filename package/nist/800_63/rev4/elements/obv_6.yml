@@ -1,0 +1,9 @@
+id: 12012fdc-5d0f-4911-900b-be824e18155b
+name: Out-Of-Band Rate Limiting
+description: If the out-of-band authentication secret is under 64 bits, the verifier SHALL implement rate limiting on consecutive failed authentication attempts on the subscriber account.
+elementType: criterion
+externalId: OBV-6
+aliases:
+  - obv_6
+  - OBV-6
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: bdc9907e-a640-4171-b3ca-230f7f5c204f
+name: Min Privacy Risk Assessment Requirements
+description: The CSP privacy risk assessment SHALL cover processing of personal information for proofing and other purposes, extra verification steps, retention and third parties.
+elementType: criterion
+externalId: PRIVACY-2
+aliases:
+  - privacy_2
+  - PRIVACY-2
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 46c6934f-be48-40ff-b68b-0fc160b3c7d3
+name: Channel Binding Identifier
+description: The protocol SHALL strongly and irreversibly bind the authenticated protected channel's negotiated channel identifier to the authenticator output.
+elementType: criterion
+externalId: CB-2
+aliases:
+  - cb_2
+  - CB-2
+parent: sp800_63b

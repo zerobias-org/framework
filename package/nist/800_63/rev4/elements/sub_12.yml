@@ -1,0 +1,9 @@
+id: deb89a35-c1cc-4cb2-a4f6-a7485c10eb4c
+name: SA Notification Details
+description: Subscriber account suspension or termination notices SHALL explain why, give reactivation or renewal options, and describe redress options for errors.
+elementType: criterion
+externalId: SUB-12
+aliases:
+  - sub_12
+  - SUB-12
+parent: sp800_63a

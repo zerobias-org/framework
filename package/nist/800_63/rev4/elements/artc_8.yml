@@ -1,0 +1,9 @@
+id: 21bca6e2-3fbc-46c8-b82e-4d521902a2f8
+name: FAL3 Assertion Mechanism
+description: At FAL3, the assertion SHALL include a holder-of-key identifier such as a public key, or an indicator that bound authenticator verification is required.
+elementType: criterion
+externalId: ARTC-8
+aliases:
+  - artc_8
+  - ARTC-8
+parent: sp800_63c

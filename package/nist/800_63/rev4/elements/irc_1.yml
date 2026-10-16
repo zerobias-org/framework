@@ -1,0 +1,9 @@
+id: 8d8a1fc8-fb1b-4115-8102-8eefcb5d2811
+name: Issued Recovery Code Generation
+description: The issued recovery code SHALL include at least six decimal digits (or equivalent) from an approved random bit generator, as described in Sec. 3.2.12.
+elementType: criterion
+externalId: IRC-1
+aliases:
+  - irc_1
+  - IRC-1
+parent: sp800_63b

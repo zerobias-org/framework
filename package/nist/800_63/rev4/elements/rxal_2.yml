@@ -1,0 +1,9 @@
+id: 301526fd-7542-44d2-a1ba-f3f4bd3ce319
+name: xAL Reporting
+description: The IdP SHALL always indicate the resulting xAL in the assertion, even if the request has not been met.
+elementType: criterion
+externalId: RXAL-2
+aliases:
+  - rxal_2
+  - RXAL-2
+parent: sp800_63c

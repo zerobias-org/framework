@@ -1,0 +1,3 @@
+**Applies to:** IdP · **Assurance level:** ALL · **Section:** SP 800-63C-4 5.4 B
+
+For subscriber-controlled wallets that run on a device that the subscriber controls, the submission of the activation factor SHALL be a separate operation from the unlocking of the host device (e.g., smartphone), although the same activation factor used to unlock the host device MAY be used in the activation operation. Organizations MAY relax this requirement for subscriber-controlled wallets managed by or on behalf of the CSP (e.g., via mobile device management) and that are constrained to have short, organization-determined inactivity timeouts and device activation factors that meet the above requirements.

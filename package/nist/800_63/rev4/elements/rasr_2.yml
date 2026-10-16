@@ -1,0 +1,9 @@
+id: 7dbb9fb6-e6e2-4099-9241-11dcd50d6ab1
+name: Identity API Access Insufficient for Session Extension
+description: The RP's ability to successfully fetch additional attributes through an identity API SHALL NOT be used to establish or extend a session at the RP.
+elementType: criterion
+externalId: RASR-2
+aliases:
+  - rasr_2
+  - RASR-2
+parent: sp800_63c

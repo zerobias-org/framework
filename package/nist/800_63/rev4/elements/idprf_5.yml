@@ -1,0 +1,9 @@
+id: d39dce29-6171-431b-a73c-6b20ce1ebace
+name: Government Identifier
+description: CSPs SHALL include a government identifier as a part of its core attributes.
+elementType: criterion
+externalId: IDPRF-5
+aliases:
+  - idprf_5
+  - IDPRF-5
+parent: sp800_63a

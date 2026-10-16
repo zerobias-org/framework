@@ -1,0 +1,9 @@
+id: 84890885-1f2f-40b6-886b-b19cbb9ca1eb
+name: AAL2 Multiple Factors
+description: At AAL2, authentication SHALL use either a multi-factor authenticator (MFA) or a combination of two separate authentication factors.
+elementType: criterion
+externalId: AAL2PAT-1
+aliases:
+  - aal2pat_1
+  - AAL2PAT-1
+parent: sp800_63b

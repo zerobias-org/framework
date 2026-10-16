@@ -1,0 +1,9 @@
+id: 5df7091a-4c47-4b5b-afe5-d9c21d0dfed9
+name: Documented Exception Handling
+description: CSPs SHALL document their operational processes for dealing with errors and handling exceptions.
+elementType: criterion
+externalId: EXCEPT-1
+aliases:
+  - except_1
+  - EXCEPT-1
+parent: sp800_63a

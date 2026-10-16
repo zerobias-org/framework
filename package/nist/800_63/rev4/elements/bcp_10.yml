@@ -1,0 +1,9 @@
+id: caaff84a-0dd3-4067-973b-0c8e1b0ec4bf
+name: RP-Assertion Reference Binding
+description: The IdP SHALL verify that the RP presenting an assertion reference is the same RP whose assertion request produced that reference.
+elementType: criterion
+externalId: BCP-10
+aliases:
+  - bcp_10
+  - BCP-10
+parent: sp800_63c

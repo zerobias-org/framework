@@ -1,0 +1,9 @@
+id: f743296f-ef23-4574-9c4d-6a726fcf5521
+name: Wallet Assertion Nonce Inclusion
+description: At FAL2 and above, the wallet assertion SHALL include a cryptographic nonce from the RP's federation request.
+elementType: criterion
+externalId: ARTCN-4
+aliases:
+  - artcn_4
+  - ARTCN-4
+parent: sp800_63c

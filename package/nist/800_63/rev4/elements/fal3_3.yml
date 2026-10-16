@@ -1,0 +1,9 @@
+id: 41d1ae1a-fd5a-4faf-b666-d0b7f6126764
+name: Manual Identifier Establishment at FAL3
+description: At FAL3, the identifiers for the CSP, IdP, and RP SHALL be established manually.
+elementType: criterion
+externalId: FAL3-3
+aliases:
+  - fal3_3
+  - FAL3-3
+parent: sp800_63c

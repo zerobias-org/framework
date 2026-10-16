@@ -1,0 +1,9 @@
+id: 3dd12d3a-eaf9-4dda-9844-42ca2efbdc66
+name: External Authenticator Binding Instructions
+description: The CSP SHALL provide clear instructions on what the subscriber should do in the event of an authenticator binding mishap.
+elementType: criterion
+externalId: BINAE-10
+aliases:
+  - binae_10
+  - BINAE-10
+parent: sp800_63b

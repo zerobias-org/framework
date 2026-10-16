@@ -1,0 +1,9 @@
+id: bf3a60a8-375e-43a7-bcea-b795086ca8d8
+name: RP Security Controls
+description: RPs SHALL employ tailored security controls from at least the SP 800-53 low baseline or an equivalent federal or industry standard.
+elementType: criterion
+externalId: SECC-2
+aliases:
+  - secc_2
+  - SECC-2
+parent: sp800_63c

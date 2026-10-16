@@ -1,0 +1,9 @@
+id: 68fb9402-7d1a-4fce-84e6-d3c7397753b9
+name: Fed Fraud PRA
+description: Federal agency RPs SHALL implement the privacy risk assessment consistent with the requirements contained in Sec. 3.7.
+elementType: criterion
+externalId: FRAUD-15
+aliases:
+  - fraud_15
+  - FRAUD-15
+parent: sp800_63a

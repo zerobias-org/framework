@@ -1,0 +1,9 @@
+id: a06ab2a0-7a26-4f75-9f0e-2a068fb24131
+name: FAL Reporting
+description: 'The IdP SHALL inform the RP of the following information for each federation transaction: The FAL of the federation transaction.'
+elementType: criterion
+externalId: RXAL-5
+aliases:
+  - rxal_5
+  - RXAL-5
+parent: sp800_63c

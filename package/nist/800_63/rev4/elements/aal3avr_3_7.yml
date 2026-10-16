@@ -1,0 +1,9 @@
+id: df5da57c-c91c-45a2-a5e5-69a8ff62de94
+name: AAL3 Replay Resistance
+description: The cryptographic authentication protocol SHALL be replay-resistant.
+elementType: criterion
+externalId: AAL3AVR-3.7
+aliases:
+  - aal3avr_3_7
+  - AAL3AVR-3.7
+parent: sp800_63b

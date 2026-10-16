@@ -1,0 +1,9 @@
+id: cd8e90d4-4d2f-43c4-895b-e663123c0cdd
+name: Federated Identifier Unbinding Upon Terminated/Disabled Signal
+description: When receiving such a signal, the RP SHALL remove the binding of the federated identifier from the account.
+elementType: criterion
+externalId: PAPI-10
+aliases:
+  - papi_10
+  - PAPI-10
+parent: sp800_63c

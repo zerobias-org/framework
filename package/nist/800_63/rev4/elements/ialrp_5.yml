@@ -1,0 +1,9 @@
+id: faf10e6c-4d58-44f9-90f5-e6f826d7463a
+name: 'Allowlist: Attribute Indication'
+description: IdP allowlist entries for an RP SHALL indicate which attributes are included as part of an allowlisted decision.
+elementType: criterion
+externalId: IALRP-5
+aliases:
+  - ialrp_5
+  - IALRP-5
+parent: sp800_63c

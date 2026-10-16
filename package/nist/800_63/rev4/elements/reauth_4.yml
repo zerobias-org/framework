@@ -1,0 +1,9 @@
+id: 4f1623de-3f03-4aaf-b28c-47c67bfff8f3
+name: Reauthentication Documentation
+description: Agencies SHALL establish and document the inactivity and overall time limits being enforced in a system security plan, such as that described in [SP800-39].
+elementType: criterion
+externalId: REAUTH-4
+aliases:
+  - reauth_4
+  - REAUTH-4
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: c005e49b-c8db-48e5-a507-7ce54972372b
+name: Wallet Signing Key Sync and Sharing Prohibition
+description: Keys used for signing assertions SHALL NOT be synced or shared across devices.
+elementType: criterion
+externalId: KS-1
+aliases:
+  - ks_1
+  - KS-1
+parent: sp800_63c

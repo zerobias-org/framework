@@ -1,0 +1,9 @@
+id: 7025c1a9-8858-4290-a9d2-9f1d7dba5c34
+name: Subscriber Front-Channel Protection
+description: Conveyance of the assertion from the IdP to the subscriber and from the subscriber to the RP SHALL be made over an authenticated protected channel.
+elementType: criterion
+externalId: FCP-3
+aliases:
+  - fcp_3
+  - FCP-3
+parent: sp800_63c

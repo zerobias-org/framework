@@ -1,0 +1,9 @@
+id: 343b6466-4bc7-4e6b-8380-47d3f0eedd02
+name: Account Upgrade Authentication
+description: CSPs SHALL require subscribers to authenticate at the highest authentication assurance level (AAL) available on their account prior to initiating the upgrade process.
+elementType: criterion
+externalId: ELEVATE-2
+aliases:
+  - elevate_2
+  - ELEVATE-2
+parent: sp800_63a

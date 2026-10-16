@@ -1,0 +1,9 @@
+id: 8a8a977d-c58b-4bdd-9f5e-b82bca089171
+name: AAL Reporting
+description: The IdP SHALL inform the RP, for each federation transaction, of the AAL of the subscriber's active IdP session or that no AAL claim is being made.
+elementType: criterion
+externalId: RXAL-4
+aliases:
+  - rxal_4
+  - RXAL-4
+parent: sp800_63c

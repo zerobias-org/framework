@@ -1,0 +1,9 @@
+id: 2331127f-c596-4ace-9c03-fbdb7eab9e39
+name: Salt Storage
+description: Both the salt value and the resulting hash SHALL be stored for each password.
+elementType: criterion
+externalId: PV-18
+aliases:
+  - pv_18
+  - PV-18
+parent: sp800_63b

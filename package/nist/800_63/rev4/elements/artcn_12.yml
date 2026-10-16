@@ -1,0 +1,9 @@
+id: 4e51ee23-a008-4e4d-843d-60bcc43da800
+name: Attribute Bundle Validity Window Enforcement
+description: The CSP-signed attribute bundle SHOULD contain a validity time window, outside of which the RP SHALL NOT accept the bundle as valid for authentication.
+elementType: criterion
+externalId: ARTCN-12
+aliases:
+  - artcn_12
+  - ARTCN-12
+parent: sp800_63c

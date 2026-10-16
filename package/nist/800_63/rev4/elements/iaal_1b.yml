@@ -1,0 +1,9 @@
+id: 8bbaae9c-98b8-42b8-9639-fb3958b3b00e
+name: Initial AAL - Selection
+description: If authentication is required for their application, the organization SHALL select an initial AAL for each user group based on the effective impact level determination from Sec. 3.2.4.
+elementType: criterion
+externalId: IAAL-1b
+aliases:
+  - iaal_1b
+  - IAAL-1b
+parent: sp800_63

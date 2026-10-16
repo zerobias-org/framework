@@ -1,0 +1,9 @@
+id: 3b7be9b6-d8d7-493c-be69-676bf0d04bdf
+name: Syncable Key Fabric Access Control
+description: Authentication keys stored in the sync fabric SHALL be protected by access control mechanisms such that only the authenticated user can access their authentication keys in the sync fabric.
+elementType: criterion
+externalId: CAK-4
+aliases:
+  - cak_4
+  - CAK-4
+parent: sp800_63b

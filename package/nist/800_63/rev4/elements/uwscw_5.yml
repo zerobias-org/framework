@@ -1,0 +1,9 @@
+id: 3d5f23cb-1d2f-47cc-b152-3a645cf056f2
+name: Wallet Federation
+description: Authentication processes using subscriber-controlled wallets SHALL be used with a federation process as detailed in Sec. 5 of [SP800-63C].
+elementType: criterion
+externalId: UWSCW-5
+aliases:
+  - uwscw_5
+  - UWSCW-5
+parent: sp800_63b

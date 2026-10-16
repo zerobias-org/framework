@@ -1,0 +1,3 @@
+**Applies to:** CSP · **Assurance level:** IAL2 · **Section:** SP 800-63A-4 4.2.9 #1
+
+For On-site Attended identity proofing, the CSP SHALL provide a physical setting in which on-site identity proofing sessions are conducted.

@@ -1,0 +1,9 @@
+id: 9903d844-5fab-4d53-9be9-0ee8d3bfb05b
+name: Password Hints
+description: Verifiers and CSPs SHALL NOT permit the subscriber to store a hint (e.g., a reminder of how the password was created) that is accessible to an unauthenticated claimant.
+elementType: criterion
+externalId: PV-5
+aliases:
+  - pv_5
+  - PV-5
+parent: sp800_63b

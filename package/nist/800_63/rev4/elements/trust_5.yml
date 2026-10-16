@@ -1,0 +1,9 @@
+id: 3f0f22a6-60a1-44b1-b9ae-efcfac68a1f0
+name: TA Subscriber Population
+description: All trust agreements SHALL define a specific population of subscriber accounts to which the agreement is applicable.
+elementType: criterion
+externalId: TRUST-5
+aliases:
+  - trust_5
+  - TRUST-5
+parent: sp800_63c

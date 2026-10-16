@@ -1,0 +1,9 @@
+id: 148230f7-ef8c-4464-8d33-838dc425adf4
+name: Authenticator Connection Types
+description: This connection SHALL be made using a wired connection (e.g., USB or direct connection with a smartcard), a wireless technology, or a hybrid of those technologies, including network connections.
+elementType: criterion
+externalId: CONNAUTH-1
+aliases:
+  - connauth_1
+  - CONNAUTH-1
+parent: sp800_63b

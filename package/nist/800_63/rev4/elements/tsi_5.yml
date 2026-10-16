@@ -1,0 +1,9 @@
+id: cad50fab-8e8d-41fb-a9ab-c12b6f45bda9
+name: Subscriber Notice & Consent for Additional Uses
+description: If an RP uses subscriber identity information beyond trust agreement purposes, the RP SHALL inform the subscriber and obtain consent for such additional uses.
+elementType: criterion
+externalId: TSI-5
+aliases:
+  - tsi_5
+  - TSI-5
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: e9940482-8352-466c-ac65-21028bc6e7b0
+name: Wallet Activation for Signing Operations
+description: The subscriber-controlled wallet SHALL require an activation factor before proving key possession to the CSP or signing an assertion for the RP.
+elementType: criterion
+externalId: WACT-1
+aliases:
+  - wact_1
+  - WACT-1
+parent: sp800_63c

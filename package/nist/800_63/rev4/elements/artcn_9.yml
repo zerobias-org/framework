@@ -1,0 +1,9 @@
+id: 6bddfd35-b399-46db-acf6-a7686eb59c31
+name: Wallet Federated Identifier Issuer
+description: The issuer identifier SHALL be of the CSP that issued the signed attribute bundle.
+elementType: criterion
+externalId: ARTCN-9
+aliases:
+  - artcn_9
+  - ARTCN-9
+parent: sp800_63c

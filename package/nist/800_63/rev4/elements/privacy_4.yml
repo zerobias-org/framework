@@ -1,0 +1,9 @@
+id: 049e0a24-d524-4f06-a360-bf115e1f675d
+name: Reassess Privacy Risks
+description: The CSP SHALL reassess privacy risks and update its privacy risk assessment any time it makes changes to its identity service that affect the processing of personal information.
+elementType: criterion
+externalId: PRIVACY-4
+aliases:
+  - privacy_4
+  - PRIVACY-4
+parent: sp800_63a

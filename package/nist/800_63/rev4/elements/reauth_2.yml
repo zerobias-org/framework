@@ -1,0 +1,9 @@
+id: 4bd3487f-2b32-4b9d-8f26-00b9982f9c60
+name: Reauthentication Timeout Terminates Session
+description: When either the overall or inactivity timeout expires, the session SHALL be terminated.
+elementType: criterion
+externalId: REAUTH-2
+aliases:
+  - reauth_2
+  - REAUTH-2
+parent: sp800_63b

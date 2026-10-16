@@ -1,0 +1,9 @@
+id: 16f43f6d-cc5e-4086-8918-b173300b3c42
+name: Sub Account PIA
+description: The CSP SHALL perform a privacy risk assessment for the processing of any personal information maintained in subscriber accounts.
+elementType: criterion
+externalId: PRIVACY-7
+aliases:
+  - privacy_7
+  - PRIVACY-7
+parent: sp800_63a

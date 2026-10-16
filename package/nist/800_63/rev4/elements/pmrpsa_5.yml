@@ -1,0 +1,9 @@
+id: f5a9575b-cd7d-43d3-990b-387fe67eba19
+name: Ephemeral Provisioning Identifier Unlinking
+description: If a federation identifier is supplied in the assertion, the RP SHALL remove any linkage of the federated identifier from an RP subscriber account.
+elementType: criterion
+externalId: PMRPSA-5
+aliases:
+  - pmrpsa_5
+  - PMRPSA-5
+parent: sp800_63c

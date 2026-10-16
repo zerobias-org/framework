@@ -1,0 +1,9 @@
+id: a8d631c4-8ae5-46ce-99bb-4d0ecbad88b8
+name: Authenticated Protected Channels
+description: CSPs SHALL only use authenticated protected channels for the exchange of data during remote identity proofing processes.
+elementType: criterion
+externalId: DIGINJ-5
+aliases:
+  - diginj_5
+  - DIGINJ-5
+parent: sp800_63a

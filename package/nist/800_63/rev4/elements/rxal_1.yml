@@ -1,0 +1,9 @@
+id: a86a7bf8-fb97-4df6-973c-97fe58dfb753
+name: RP-Specified Minimum Acceptable xALs
+description: IdPs SHALL support a mechanism for RPs to specify a set of minimum acceptable xALs as part of the trust agreement.
+elementType: criterion
+externalId: RXAL-1
+aliases:
+  - rxal_1
+  - RXAL-1
+parent: sp800_63c

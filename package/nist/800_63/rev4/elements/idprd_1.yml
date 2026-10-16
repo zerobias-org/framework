@@ -1,0 +1,9 @@
+id: 2919b3db-e254-4e65-8bda-f8de7939309a
+name: 'RP Not on Allowlist: Runtime Authorization'
+description: Every RP in a trust agreement with an IdP but not on its allowlist SHALL be governed by a default policy of runtime authorization by the identified authorized party.
+elementType: criterion
+externalId: IDPRD-1
+aliases:
+  - idprd_1
+  - IDPRD-1
+parent: sp800_63c

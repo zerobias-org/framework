@@ -1,0 +1,9 @@
+id: 45ca587f-fb19-4ac8-8270-55ad6a4300f2
+name: IdP Data Exchange Minimization
+description: The IdP SHALL limit the transmission of subscriber information to only that which is necessary for the system to function and is stipulated and disclosed by the trust agreement.
+elementType: criterion
+externalId: TSI-1
+aliases:
+  - tsi_1
+  - TSI-1
+parent: sp800_63c

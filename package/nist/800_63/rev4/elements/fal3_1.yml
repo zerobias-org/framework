@@ -1,0 +1,9 @@
+id: 8383893b-dfce-4fc7-b14b-ad27b15ffe57
+name: RP Verification of Subscriber Authenticator Control
+description: At FAL3, the RP SHALL verify that the subscriber is in control of an authenticator in addition to the assertion.
+elementType: criterion
+externalId: FAL3-1
+aliases:
+  - fal3_1
+  - FAL3-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 7fa03e9e-6b55-400c-af9e-0e5cd44da89b
+name: Automated Validation Failures
+description: CSPs offering trusted referees for automated validation failures SHALL define additional evidence policy, and referees SHALL review that evidence and attribute mismatches.
+elementType: criterion
+externalId: EXCEPT-8
+aliases:
+  - except_8
+  - EXCEPT-8
+parent: sp800_63a

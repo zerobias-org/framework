@@ -1,0 +1,9 @@
+id: 8448f016-e129-490e-9c30-42ca5c6787fb
+name: RP-Provided Bound Authenticator Identifier Storage
+description: The system administrator of the RP SHALL store a unique identifier for the bound authenticator in the RP subscriber account, such as the public key of the authenticator.
+elementType: criterion
+externalId: RPPBAI-3
+aliases:
+  - rppbai_3
+  - RPPBAI-3
+parent: sp800_63c

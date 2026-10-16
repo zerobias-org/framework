@@ -1,0 +1,9 @@
+id: 928ab393-f44c-4d7a-9f34-5beaee56c70b
+name: Live Document Capture
+description: CSPs SHALL implement live capture of documents during the validation process and SHALL implement passive or active document presence checks (also called document liveness).
+elementType: criterion
+externalId: PHYS-3
+aliases:
+  - phys_3
+  - PHYS-3
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: b8da9f54-7190-4e91-9102-5e58013a9de6
+name: Compensating Controls
+description: Fraud mitigation measures used as compensating controls SHALL be documented as deviations and conveyed to all RPs through a DIAS prior to integration.
+elementType: criterion
+externalId: FRAUD-11
+aliases:
+  - fraud_11
+  - FRAUD-11
+parent: sp800_63a

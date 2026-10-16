@@ -1,0 +1,9 @@
+id: 81f9e655-15f3-4b5d-8b89-ce8dd5aa4764
+name: 'Provisioning API: Personal Information Handling'
+description: The RP SHALL treat all personal information sourced from the provisioning API in accordance with Sec. 3.11.3.
+elementType: criterion
+externalId: PAPI-11
+aliases:
+  - papi_11
+  - PAPI-11
+parent: sp800_63c

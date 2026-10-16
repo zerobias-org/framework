@@ -1,0 +1,9 @@
+id: 1954cfeb-26f6-495c-8f54-8235cc5eba3e
+name: Identity API Transaction Scope
+description: When identity API access is granted in a federation transaction, the attributes provided SHALL be associated only with the single subscriber in the assertion.
+elementType: criterion
+externalId: IDAP-4
+aliases:
+  - idap_4
+  - IDAP-4
+parent: sp800_63c

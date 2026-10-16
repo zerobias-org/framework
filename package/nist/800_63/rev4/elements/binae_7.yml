@@ -1,0 +1,9 @@
+id: 6b58104a-7c65-4ee8-83e2-e710d220e6b2
+name: External Authenticator Binding Code Security
+description: The binding code SHALL NOT be communicated over an insecure channel.
+elementType: criterion
+externalId: BINAE-7
+aliases:
+  - binae_7
+  - BINAE-7
+parent: sp800_63b

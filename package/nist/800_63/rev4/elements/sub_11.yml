@@ -1,0 +1,9 @@
+id: 5d370ac2-42c6-452d-890a-8d1979fc98a6
+name: Account Status Notification
+description: The CSP SHALL notify the subscriber if their account has been suspended or terminated.
+elementType: criterion
+externalId: SUB-11
+aliases:
+  - sub_11
+  - SUB-11
+parent: sp800_63a
