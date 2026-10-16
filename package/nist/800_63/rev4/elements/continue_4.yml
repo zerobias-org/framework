@@ -1,0 +1,9 @@
+id: 010acb05-061a-4a65-b7b8-df39b37d302f
+name: Invalidate Continue Code
+description: Upon its use, the CSP SHALL invalidate the continuation code.
+elementType: criterion
+externalId: CONTINUE-4
+aliases:
+  - continue_4
+  - CONTINUE-4
+parent: sp800_63a

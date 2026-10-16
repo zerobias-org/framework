@@ -1,0 +1,9 @@
+id: dc045954-4b04-49f9-9f9d-5b39f99164a8
+name: IAL3 Integrated Sensors
+description: For kiosk-based on-site attended identity proofing, the CSP SHALL require that all digital validation and verification of evidence be performed by integrated scanners and sensors.
+elementType: criterion
+externalId: IAL3-18
+aliases:
+  - ial3_18
+  - IAL3-18
+parent: sp800_63a

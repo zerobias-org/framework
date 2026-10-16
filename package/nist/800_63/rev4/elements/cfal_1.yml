@@ -1,0 +1,9 @@
+id: eefbf42e-f9ac-4af5-be06-f86a72ba9213
+name: Federation Requirements
+description: At all FALs, all federation transactions SHALL comply with the requirements in Sec. 3 to deliver an assertion to the RP and create an authenticated session at the RP.
+elementType: criterion
+externalId: CFAL-1
+aliases:
+  - cfal_1
+  - CFAL-1
+parent: sp800_63c

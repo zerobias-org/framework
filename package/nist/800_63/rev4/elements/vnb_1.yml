@@ -1,0 +1,9 @@
+id: 4f71d1a5-1276-4668-8268-e95dbfd462f6
+name: Name Binding Authenticated Protected Channel
+description: An authentication protocol with verifier name binding SHALL establish an authenticated protected channel with the verifier.
+elementType: criterion
+externalId: VNB-1
+aliases:
+  - vnb_1
+  - VNB-1
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 8b562c91-5021-4bba-8c84-01e58c9d94ea
+name: Rate Limiting Rebinding
+description: Authenticators that have been disabled SHALL be required to rebind to the subscriber account, as described in Sec. 4.1, to be usable in the future.
+elementType: criterion
+externalId: RL-4
+aliases:
+  - rl_4
+  - RL-4
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: a89177e0-8c45-4123-ac07-175b83410944
+name: Saved Recovery Code Generation
+description: The recovery code SHALL include at least 64 bits from an approved random bit generator.
+elementType: criterion
+externalId: SRC-1
+aliases:
+  - src_1
+  - SRC-1
+parent: sp800_63b

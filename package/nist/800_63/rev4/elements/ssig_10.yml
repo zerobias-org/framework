@@ -1,0 +1,9 @@
+id: 134b67a0-2fbb-4968-a300-daf8fb1a7885
+name: Linked Account Signal Handling Documentation
+description: If the RP allows for account linking to multiple IdPs, the RP SHALL document their practices regarding signals for linked accounts.
+elementType: criterion
+externalId: SSIG-10
+aliases:
+  - ssig_10
+  - SSIG-10
+parent: sp800_63c

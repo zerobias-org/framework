@@ -1,0 +1,9 @@
+id: e9ad6d74-da45-4d19-9194-a10967eeb6a1
+name: 'Allowlist: Additional Attribute Requests'
+description: If an allowlisted RP requests additional attributes, the request SHALL be subject to an authorized party's runtime decision, redacted to allowlisted attributes, or denied.
+elementType: criterion
+externalId: IALRP-6
+aliases:
+  - ialrp_6
+  - IALRP-6
+parent: sp800_63c

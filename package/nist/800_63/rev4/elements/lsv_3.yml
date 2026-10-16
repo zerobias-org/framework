@@ -1,0 +1,9 @@
+id: 824d2ca7-415a-4a06-9f82-24f44566f95a
+name: Look-Up Secret Offline Attack Resistance
+description: Verifiers SHALL store look-up secrets in a form that is resistant to offline attacks.
+elementType: criterion
+externalId: LSV-3
+aliases:
+  - lsv_3
+  - LSV-3
+parent: sp800_63b

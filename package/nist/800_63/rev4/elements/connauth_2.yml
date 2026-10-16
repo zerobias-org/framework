@@ -1,0 +1,9 @@
+id: e3e206cb-a0f0-4ac1-b2ea-53b6a29e8a08
+name: Connected Authenticator Approved Cryptography
+description: Approved cryptography SHALL be used for all cases in which cryptographic operations are required.
+elementType: criterion
+externalId: CONNAUTH-2
+aliases:
+  - connauth_2
+  - CONNAUTH-2
+parent: sp800_63b

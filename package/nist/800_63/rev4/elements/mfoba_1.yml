@@ -1,0 +1,9 @@
+id: 195b0b59-497a-4c30-9b6b-06785be9169c
+name: MF-OOB Activation
+description: Each use of the authenticator SHALL require the presentation of the activation factor.
+elementType: criterion
+externalId: MFOBA-1
+aliases:
+  - mfoba_1
+  - MFOBA-1
+parent: sp800_63b

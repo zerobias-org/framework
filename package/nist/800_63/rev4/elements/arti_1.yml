@@ -1,0 +1,9 @@
+id: 15b29114-12a5-4734-b7d0-5c241f50d0be
+name: Assertion Uniqueness
+description: Assertions SHALL be sufficiently unique to permit unique identification by the target RP.
+elementType: criterion
+externalId: ARTI-1
+aliases:
+  - arti_1
+  - ARTI-1
+parent: sp800_63c

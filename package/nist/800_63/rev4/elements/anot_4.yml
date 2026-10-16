@@ -1,0 +1,9 @@
+id: 673693c9-9f9a-4bdb-b8e6-871926f09a7c
+name: Notification Multiplicity
+description: Notifications SHALL be sent to all notification addresses except postal addresses.
+elementType: criterion
+externalId: ANOT-4
+aliases:
+  - anot_4
+  - ANOT-4
+parent: sp800_63b

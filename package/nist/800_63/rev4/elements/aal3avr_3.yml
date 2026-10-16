@@ -1,0 +1,9 @@
+id: a1abf475-65a5-498c-bb90-624e4be28e41
+name: AAL3 Non-Exportable Key
+description: The cryptographic authenticator used at AAL3 SHALL have a non-exportable private key.
+elementType: criterion
+externalId: AAL3AVR-3
+aliases:
+  - aal3avr_3
+  - AAL3AVR-3
+parent: sp800_63b

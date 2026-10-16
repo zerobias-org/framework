@@ -1,0 +1,9 @@
+id: 07a7c85b-aa97-4c51-8eaf-1f8a83c2d4d8
+name: OTP Generation Key Strength
+description: The secret key and its algorithm SHALL provide at least the minimum security strength specified in the latest revision of [SP800-131A] (i.e., 112 bits as of the date of this publication).
+elementType: criterion
+externalId: SFOA-1
+aliases:
+  - sfoa_1
+  - SFOA-1
+parent: sp800_63b

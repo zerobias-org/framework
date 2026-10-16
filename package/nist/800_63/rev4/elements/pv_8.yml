@@ -1,0 +1,9 @@
+id: 9406fa66-039b-4b39-ba6e-9f2cfbb216ca
+name: Password Verifier Blocklist
+description: When processing a request to establish or change a password, verifiers SHALL compare the prospective secret against a blocklist that contains known commonly used, expected, or compromised passwords.
+elementType: criterion
+externalId: PV-8
+aliases:
+  - pv_8
+  - PV-8
+parent: sp800_63b

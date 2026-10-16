@@ -1,0 +1,9 @@
+id: d8119772-1979-40a3-b0c4-77dde6ab70ec
+name: 'FAL3 Hosted Wallet: HoK or Bound Authenticator'
+description: To reach FAL3, federation transactions with a subscriber-controlled wallet on a hosted service SHALL use either a holder-of-key assertion (see Sec. 3.15) or a bound authenticator (see Sec. 3.16).
+elementType: criterion
+externalId: FAL3SCW-1
+aliases:
+  - fal3scw_1
+  - FAL3SCW-1
+parent: sp800_63c

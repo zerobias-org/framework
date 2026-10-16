@@ -1,0 +1,9 @@
+id: 68ea21b6-329e-4dc5-9d62-8f6086f15ed9
+name: IAL3 On-Site Attended
+description: IAL3 identity proofing SHALL only be delivered as on-site attended.
+elementType: criterion
+externalId: IAL3-1
+aliases:
+  - ial3_1
+  - IAL3-1
+parent: sp800_63a

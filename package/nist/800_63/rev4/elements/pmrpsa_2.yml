@@ -1,0 +1,9 @@
+id: b2999381-d1ff-465d-84fd-a96115a377a6
+name: Just-In-Time Provisioning Cached Attribute Management
+description: The RP SHALL be responsible for managing any cached attributes it might have.
+elementType: criterion
+externalId: PMRPSA-2
+aliases:
+  - pmrpsa_2
+  - PMRPSA-2
+parent: sp800_63c

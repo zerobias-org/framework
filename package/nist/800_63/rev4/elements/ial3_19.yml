@@ -1,0 +1,9 @@
+id: 647a9c39-02d4-4382-8b8a-d68ddd1986fd
+name: Kiosk Tamper Prevention
+description: For IAL3 kiosk-based proofing, devices used between agent and applicant SHALL be safeguarded from tampering by observation or monitoring and physical and digital tamper prevention.
+elementType: criterion
+externalId: IAL3-19
+aliases:
+  - ial3_19
+  - IAL3-19
+parent: sp800_63a

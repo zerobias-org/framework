@@ -1,0 +1,9 @@
+id: d10d1446-83e6-4c9e-845b-0eb0969022cf
+name: Authenticator Record-Keeping
+description: Throughout the lifetime of a digital identity, CSPs SHALL maintain a record of all authenticators that are bound to each subscriber account.
+elementType: criterion
+externalId: AUTHB-2
+aliases:
+  - authb_2
+  - AUTHB-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 89088801-b449-4158-99a9-d795a5c3ecc1
+name: Key Rotation Security
+description: The allowable update process for any identifiers and cryptographic keys... SHALL be executed using an authenticated protected channel, as in the initial cryptographic key establishment.
+elementType: criterion
+externalId: CKR-2
+aliases:
+  - ckr_2
+  - CKR-2
+parent: sp800_63c

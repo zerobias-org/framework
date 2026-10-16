@@ -1,0 +1,9 @@
+id: 9198dcec-fe32-458f-8b0c-598dcc837617
+name: HoK Prohibitions
+description: A holder-of-key assertion SHALL NOT include an unencrypted private key or symmetric key to be used as an authenticator.
+elementType: criterion
+externalId: HKA-5
+aliases:
+  - hka_5
+  - HKA-5
+parent: sp800_63c

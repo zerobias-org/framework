@@ -1,0 +1,9 @@
+id: 878448a5-60a2-46e4-be98-46a7edbbd1d5
+name: Issued Recovery Code Validity
+description: Issued recovery codes SHALL expire within 21 or 30 days by postal mail, 10 minutes by text or voice, and 24 hours by email.
+elementType: criterion
+externalId: IRC-2
+aliases:
+  - irc_2
+  - IRC-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 1e129580-cc9c-42f4-b247-8956e9a2fca7
+name: IAL2 On-Site Attended Fraud Flags
+description: For On-site Attended identity proofing, the CSP SHALL provide proofing agents with a method or mechanism to covertly flag events for potential fraud.
+elementType: criterion
+externalId: IAL2-24
+aliases:
+  - ial2_24
+  - IAL2-24
+parent: sp800_63a

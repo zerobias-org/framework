@@ -1,0 +1,9 @@
+id: c40b51f4-690c-4d15-9604-9968af5911cc
+name: Wallet Selective Disclosure
+description: Attributes SHALL be made available to the RP using selective disclosure if the underlying attribute bundle supports such a method.
+elementType: criterion
+externalId: ARTCN-13
+aliases:
+  - artcn_13
+  - ARTCN-13
+parent: sp800_63c

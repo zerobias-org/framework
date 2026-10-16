@@ -1,0 +1,9 @@
+id: 8b08ee7a-be76-4daa-9234-b0c6e85f062b
+name: Demographic Performance
+description: Biometric verification technologies SHALL provide performance for applicants of different demographic types that is no more than 25% worse than the performance for the overall population.
+elementType: criterion
+externalId: BIO-13
+aliases:
+  - bio_13
+  - BIO-13
+parent: sp800_63a

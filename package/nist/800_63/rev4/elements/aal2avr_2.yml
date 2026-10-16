@@ -1,0 +1,9 @@
+id: cdcc87a2-6c14-4f44-a65a-bd25738c5706
+name: AAL2 FIPS140 Authenticators
+description: Cryptographic authenticators procured by federal agencies SHALL be validated to meet the requirements of [FIPS140] Level 1.
+elementType: criterion
+externalId: AAL2AVR-2
+aliases:
+  - aal2avr_2
+  - AAL2AVR-2
+parent: sp800_63b

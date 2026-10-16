@@ -1,0 +1,9 @@
+id: e791c5ef-ab40-4771-b207-f5e850f2fffb
+name: IAL2 Video Session
+description: For Remote Attended identity proofing, during the video session, the applicant SHALL remain in view of the proofing agent during each step of the proofing process.
+elementType: criterion
+externalId: IAL2-14
+aliases:
+  - ial2_14
+  - IAL2-14
+parent: sp800_63a

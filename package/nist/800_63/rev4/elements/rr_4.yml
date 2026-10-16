@@ -1,0 +1,9 @@
+id: 12b3b63b-856d-4308-b51d-62dcf4c54e05
+name: 'IdP Redress Routing: RP'
+description: For matters that also involve a particular RP, the IdP SHALL provide the subscriber with a means of initiating the redress process with the RP.
+elementType: criterion
+externalId: RR-4
+aliases:
+  - rr_4
+  - RR-4
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 4c3726a4-a8b9-4567-91d2-8737bf18d83a
+name: IAL3 Colocated Agent Security Controls
+description: At IAL3 with collocated agents, the CSP SHALL protect systems used by proofing agents and trusted referees at FISMA moderate or comparable, including physical controls.
+elementType: criterion
+externalId: IAL3-11
+aliases:
+  - ial3_11
+  - IAL3-11
+parent: sp800_63a

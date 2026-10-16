@@ -1,0 +1,9 @@
+id: 8ce032bd-c219-45a7-be53-8e3ba9149c86
+name: BIO Deletion Process
+description: CSPs SHALL have a documented, public deletion process and default retention period for biometric information consistent with applicable regulations.
+elementType: criterion
+externalId: BIO-4
+aliases:
+  - bio_4
+  - BIO-4
+parent: sp800_63a

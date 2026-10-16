@@ -1,0 +1,9 @@
+id: d47270c0-a9b1-4422-aa5c-032a7b569e3a
+name: Wallet Activation Information
+description: Assertions SHALL also include sufficient information to determine the nature of the activation method used to activate the wallet.
+elementType: criterion
+externalId: UWSCW-7
+aliases:
+  - uwscw_7
+  - UWSCW-7
+parent: sp800_63b

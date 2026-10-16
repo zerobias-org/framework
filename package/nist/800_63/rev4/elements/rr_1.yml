@@ -1,0 +1,9 @@
+id: 1a8839d9-d746-4628-bf54-e1dd02a7657d
+name: RP Subscriber Redress
+description: For matters under the RP's control, such as the RP subscriber account, functionality, bound authenticators, and allowlists, the RP SHALL provide clear, accessible redress.
+elementType: criterion
+externalId: RR-1
+aliases:
+  - rr_1
+  - RR-1
+parent: sp800_63c

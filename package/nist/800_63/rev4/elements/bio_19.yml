@@ -1,0 +1,9 @@
+id: 2c4862e7-eefc-4f8b-85a8-f89befb98393
+name: Remote Biometric Collection
+description: For remote biometric collection, the CSP SHALL implement presentation attack detection meeting an IAPAR below 0.07 to confirm a live human and deter spoofing.
+elementType: criterion
+externalId: BIO-19
+aliases:
+  - bio_19
+  - BIO-19
+parent: sp800_63a

@@ -1,0 +1,3 @@
+**Applies to:** CSP · **Assurance level:** ALL · **Section:** SP 800-63A-4 3.3.2 #4
+
+At the time of collection, the CSP SHALL provide explicit notice to the applicant regarding the purpose for collecting any attributes and personal information. Such a notice SHALL include whether the personal information and attributes are voluntary or mandatory to complete the identity proofing process; the specific attributes and other sensitive data that the CSP intends to store in the applicant's subsequent subscriber account; the consequences of not providing the attributes; and the details of any records retention requirement if one is in place, including an applicant's right to request data deletion or engage in other forms of redress.

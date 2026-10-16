@@ -1,0 +1,6 @@
+**Applies to:** Verifier · **Assurance level:** ALL · **Section:** SP 800-63B-4 3.1.3.1 D
+
+The out-of-band authenticator SHALL uniquely authenticate itself in one of the following ways when communicating with the verifier:
+
+- (a) Using approved cryptography, establish a mutually authenticated protected channel (e.g., client-authenticated transport layer security (TLS) [RFC8446]) with the verifier. Communication between the out-of-band authenticator and the verifier MAY use a trusted intermediary service to which each authenticates. The key used to establish the channel SHALL be provisioned in a mutually authenticated session during authenticator binding, as described in Sec. 4.1.
+- (b) Authenticate to a public mobile telephone network using a SIM card or equivalent secret that uniquely identifies the subscriber. This method SHALL only be used if a secret is sent from the verifier to the out-of-band device via the PSTN (i.e., SMS or voice) or an encrypted instant messaging service; use a wired connection to the PSTN that the verifier can call and dictate the out-of-band secret. For the purposes of this definition, "wired connection" includes services such as cable providers that offer PSTN services through other wired media and fiber via analog telephone adapters.

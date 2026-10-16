@@ -1,0 +1,9 @@
+id: 0b99c642-fcf5-4a45-9cc3-4698671f0480
+name: Wireless Authenticator Proximate Activation Secret
+description: With wireless technology of under 1 meter range (e.g., NFC), activation secrets sent from endpoint to authenticator SHALL be encrypted with a key established between the devices.
+elementType: criterion
+externalId: WC-3
+aliases:
+  - wc_3
+  - WC-3
+parent: sp800_63b

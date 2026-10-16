@@ -1,0 +1,9 @@
+id: 9c923efa-c2c4-47fa-bb83-a614c0ffb610
+name: RP Subscriber Account Attribute Storage
+description: All attributes in the RP subscriber account - regardless of source - SHALL be stored in accordance with Sec. 3.11.3.
+elementType: criterion
+externalId: CAARP-1
+aliases:
+  - caarp_1
+  - CAARP-1
+parent: sp800_63c

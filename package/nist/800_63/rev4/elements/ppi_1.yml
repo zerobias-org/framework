@@ -1,0 +1,9 @@
+id: 6d719c8e-f7a9-44f1-899b-d24b21f2fd28
+name: PPI Uniqueness
+description: When using pairwise pseudonymous identifiers, the IdP SHALL generate a different federated identifier for each RP or set of RPs.
+elementType: criterion
+externalId: PPI-1
+aliases:
+  - ppi_1
+  - PPI-1
+parent: sp800_63c

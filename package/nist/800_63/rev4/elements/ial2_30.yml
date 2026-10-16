@@ -1,0 +1,9 @@
+id: 2a23536f-3e56-484f-84a7-ba8f3a451442
+name: IAL2 Authenticator Binding
+description: At IAL2, the CSP SHALL let the applicant bind an authenticator via remote enrollment, distribution to a validated address, or distribution or on-site enrollment.
+elementType: criterion
+externalId: IAL2-30
+aliases:
+  - ial2_30
+  - IAL2-30
+parent: sp800_63a

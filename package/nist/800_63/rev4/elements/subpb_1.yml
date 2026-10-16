@@ -1,0 +1,9 @@
+id: cac89afa-fceb-421e-8c28-bc38aec5cd20
+name: Binding Ceremony for Subscriber-Provided Bound Authenticators
+description: If no bound authenticators are associated with the RP subscriber account, the RP SHALL perform a binding ceremony linking the authenticator, subscriber and account.
+elementType: criterion
+externalId: SUBPB-1
+aliases:
+  - subpb_1
+  - SUBPB-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: eacc2df4-9de2-443b-a06b-e0de4e471e5b
+name: CSP Wallet Subscriber Redress
+description: The CSP SHALL provide secure and effective redress for subscriber complaints, such as inaccurate attributes or invalidating previously issued wallet attribute bundles.
+elementType: criterion
+externalId: WAAD-4
+aliases:
+  - waad_4
+  - WAAD-4
+parent: sp800_63c

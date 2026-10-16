@@ -1,0 +1,9 @@
+id: a0326a9a-3aff-4eab-bc39-4be0c07922b7
+name: Biometric Algorithm Testing
+description: CSPs SHALL have biometric recognition and attack detection algorithms periodically tested by independent entities, including performance across demographic groups.
+elementType: criterion
+externalId: BIO-6
+aliases:
+  - bio_6
+  - BIO-6
+parent: sp800_63a

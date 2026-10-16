@@ -1,0 +1,3 @@
+**Applies to:** CSP/IdP/RP · **Assurance level:** ALL · **Section:** SP 800-63C-4 3.6.2 C
+
+Non-exportable key storage SHALL be designed to prohibit the export of the secret keys to the host processor...

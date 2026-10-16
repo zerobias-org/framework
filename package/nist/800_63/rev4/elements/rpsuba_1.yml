@@ -1,0 +1,9 @@
+id: 960ba964-9c15-4d60-a29e-16896a372e1d
+name: Wallet Account Resolution Attribute Minimization
+description: When no federated identifier is present, the attributes an RP requests to resolve the subscriber's account SHALL be the minimum necessary for accurate resolution.
+elementType: criterion
+externalId: RPSUBA-1
+aliases:
+  - rpsuba_1
+  - RPSUBA-1
+parent: sp800_63c

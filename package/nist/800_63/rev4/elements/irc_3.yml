@@ -1,0 +1,9 @@
+id: 1041ad52-6ec6-4b19-91a5-2552d07a873b
+name: Issued Recovery Code Rate Limitation
+description: The verification of issued recovery codes SHALL be subject to the throttling requirements in Sec. 3.2.2.
+elementType: criterion
+externalId: IRC-3
+aliases:
+  - irc_3
+  - IRC-3
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 5f8d85d1-236f-465b-a225-173e4fc1fe20
+name: Biometric Authenticated Protected Channel
+description: If biometric comparison is performed centrally, an authenticated protected channel SHALL be established between sensor and verifier and used for all biometric transmission.
+elementType: criterion
+externalId: IAD-5.2
+aliases:
+  - iad_5_2
+  - IAD-5.2
+parent: sp800_63b

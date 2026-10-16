@@ -1,0 +1,9 @@
+id: 23b43d5d-72c2-4633-a17e-2f5e210dffde
+name: Prohibition of Authentication Secrets in Assertions
+description: Assertions SHALL NOT contain subscriber authentication secrets (e.g., passwords).
+elementType: criterion
+externalId: ARTC-9
+aliases:
+  - artc_9
+  - ARTC-9
+parent: sp800_63c

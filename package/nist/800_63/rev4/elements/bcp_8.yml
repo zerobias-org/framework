@@ -1,0 +1,9 @@
+id: 4f9e4e12-85d0-4216-b4c9-9426d9303186
+name: RP-IdP Back-Channel Protection
+description: Conveyance of the assertion reference from the RP to the IdP and vice versa SHALL be made over an authenticated protected channel.
+elementType: criterion
+externalId: BCP-8
+aliases:
+  - bcp_8
+  - BCP-8
+parent: sp800_63c

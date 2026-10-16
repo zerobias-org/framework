@@ -1,0 +1,9 @@
+id: bc32af53-8b84-43f3-a9f6-f9a4f1a8d7d1
+name: Protected Channel
+description: Each online transaction within the identity proofing process, including transactions that involve third parties, SHALL occur over an authenticated, protected channel.
+elementType: criterion
+externalId: SECURITY-1
+aliases:
+  - security_1
+  - SECURITY-1
+parent: sp800_63a

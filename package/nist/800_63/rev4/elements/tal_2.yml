@@ -1,0 +1,9 @@
+id: c62980e6-1a6e-4eec-852f-75b889a1e4cf
+name: Tailor Assurance Levels - DIAS Review
+description: As a part of the tailoring process, organizations SHALL review the Digital Identity Acceptance Statements (DIAS) and practice statements from CSPs and IdPs that they use or intend to use.
+elementType: criterion
+externalId: TAL-2
+aliases:
+  - tal_2
+  - TAL-2
+parent: sp800_63

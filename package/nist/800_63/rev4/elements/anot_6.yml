@@ -1,0 +1,9 @@
+id: 974fd29e-6dd8-4625-8981-d2fb888f2911
+name: Postal Recovery Notification
+description: Account recovery notifications SHALL also be sent to a postal address if the only other notification address in the subscriber account is the address to which an issued recovery code was sent.
+elementType: criterion
+externalId: ANOT-6
+aliases:
+  - anot_6
+  - ANOT-6
+parent: sp800_63b

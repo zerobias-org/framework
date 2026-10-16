@@ -1,0 +1,9 @@
+id: a0582284-051b-45bf-98cd-88145751639e
+name: Password Choice
+description: Passwords SHALL either be chosen by the subscriber or assigned randomly by the CSP.
+elementType: criterion
+externalId: PASSAUTH-1
+aliases:
+  - passauth_1
+  - PASSAUTH-1
+parent: sp800_63b

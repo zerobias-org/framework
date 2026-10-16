@@ -1,0 +1,9 @@
+id: 089c84db-84b5-4067-8caf-eeb326554326
+name: Intent Requirement
+description: The authenticator itself SHALL establish authentication intent.
+elementType: criterion
+externalId: AI-1
+aliases:
+  - ai_1
+  - AI-1
+parent: sp800_63b

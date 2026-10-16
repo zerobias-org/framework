@@ -1,0 +1,9 @@
+id: ede7e12f-20d8-4467-a305-19fcf54fdad0
+name: Adding an Additional Bound Authenticator (2)
+description: Once the binding ceremony session is established, the RP SHALL request authentication with the new authenticator and associate it with the account as a bound authenticator.
+elementType: criterion
+externalId: SUBPB-10
+aliases:
+  - subpb_10
+  - SUBPB-10
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: b6d68579-7b0c-49d3-a65a-2e8694f1f240
+name: Shared PPIs only between Authorized RPs
+description: The IdP SHALL ensure that only intended RPs are included in the set.
+elementType: criterion
+externalId: PPI-10
+aliases:
+  - ppi_10
+  - PPI-10
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: d20773e6-44cc-4d67-a3d0-f54647043e53
+name: Wallet Attribute Bundle Signature Validation
+description: The RP SHALL validate the signature on all signed attribute bundles in the assertion using the verification key from the CSP that issued the signed attribute bundle.
+elementType: criterion
+externalId: ARTVL-1
+aliases:
+  - artvl_1
+  - ARTVL-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: fe9421ea-e919-46c9-b480-f41cbc202835
+name: Compromise Suspension Requirement
+description: The CSP SHALL suspend, invalidate, or destroy compromised authenticators from the subscriber's account promptly following compromise detection.
+elementType: criterion
+externalId: LTDC-1
+aliases:
+  - ltdc_1
+  - LTDC-1
+parent: sp800_63b

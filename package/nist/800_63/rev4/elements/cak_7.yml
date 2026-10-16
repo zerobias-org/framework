@@ -1,0 +1,9 @@
+id: 4de458ad-c464-4b27-b5f2-35889c5cac53
+name: Syncable Key Management
+description: Authenticators with syncable keys SHOULD offer a UI showing which services have keys and where they synced, and the UI SHALL NOT expose the key itself.
+elementType: criterion
+externalId: CAK-7
+aliases:
+  - cak_7
+  - CAK-7
+parent: sp800_63b

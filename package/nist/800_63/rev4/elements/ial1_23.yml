@@ -1,0 +1,9 @@
+id: 7d8f045e-fd55-4540-98f1-e37cb1ede65a
+name: IAL1 Proofing Notification
+description: Upon the successful completion of identity proofing at IAL1, the CSP SHALL send a notification of proofing to a validated address for the applicant, as specified in Sec. 3.10.
+elementType: criterion
+externalId: IAL1-23
+aliases:
+  - ial1_23
+  - IAL1-23
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: b9e5ceb5-c9fc-416b-8340-657b239c9552
+name: MTA Periodic Reevaluation
+description: Federation authorities SHALL periodically reevaluate members for compliance, in terms disclosed in the trust agreement.
+elementType: criterion
+externalId: MTA-9
+aliases:
+  - mta_9
+  - MTA-9
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 7a4dcf42-6ca2-463d-80e6-d70461a4b92c
+name: Static xALs
+description: If the xAL is unchanging for all IdP-RP messages, the xAL information SHALL be included in the terms of the trust agreement between the IdP and RP.
+elementType: criterion
+externalId: RXAL-6
+aliases:
+  - rxal_6
+  - RXAL-6
+parent: sp800_63c

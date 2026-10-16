@@ -1,0 +1,9 @@
+id: 04c09e03-7b65-4e8d-8152-1c57a3ba66fa
+name: Single-use Assertion Reference
+description: In back-channel presentation, the assertion reference SHALL be single-use.
+elementType: criterion
+externalId: BCP-3
+aliases:
+  - bcp_3
+  - BCP-3
+parent: sp800_63c

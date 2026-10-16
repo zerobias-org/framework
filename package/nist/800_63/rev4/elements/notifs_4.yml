@@ -1,0 +1,9 @@
+id: 2e7e3c57-7533-43dd-9690-8a823bed30b4
+name: Security Protections
+description: Notifications of proofing SHALL provide information about how the organization or CSP protects the security and confidentiality of the information it collects.
+elementType: criterion
+externalId: NOTIFS-4
+aliases:
+  - notifs_4
+  - NOTIFS-4
+parent: sp800_63a

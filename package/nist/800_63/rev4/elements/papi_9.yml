@@ -1,0 +1,9 @@
+id: f9b5739c-4177-4150-b324-f416cd8025f2
+name: Provisioning API Account State Change Signaling
+description: When a provisioning API is in use, the IdP SHALL signal to the RP when the state of a subscriber account has been changed, such as when the account has been terminated or disabled.
+elementType: criterion
+externalId: PAPI-9
+aliases:
+  - papi_9
+  - PAPI-9
+parent: sp800_63c

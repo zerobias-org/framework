@@ -1,0 +1,9 @@
+id: 47c1f7b5-4874-4852-827c-4b5251c45478
+name: Verification Key Transmission
+description: Verification keys SHALL be transmitted through a trusted mechanism, which could be manual or automated, as indicated in the trust agreement.
+elementType: criterion
+externalId: FAL3-5
+aliases:
+  - fal3_5
+  - FAL3-5
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 222b94e0-dcbc-42d6-813c-c3f881de86a8
+name: Records Retention
+description: The verifier SHALL comply with its records retention policies per applicable laws, regulations, and policies, including any applicable NARA records retention schedules.
+elementType: criterion
+externalId: RRP-1
+aliases:
+  - rrp_1
+  - RRP-1
+parent: sp800_63b

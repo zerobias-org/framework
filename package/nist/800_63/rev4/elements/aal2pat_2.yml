@@ -1,0 +1,9 @@
+id: 03c982e8-1ac9-45f3-bfa3-1d54214b9686
+name: AAL2 Authenticator Combinations
+description: At AAL2, a combination of two single-factor authenticators SHALL include one physical authenticator used with either a password or a biometric comparison.
+elementType: criterion
+externalId: AAL2PAT-2
+aliases:
+  - aal2pat_2
+  - AAL2PAT-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 6e2e5602-d413-4b26-bec6-76debc8528c6
+name: Shared Signaling Purpose Limitations
+description: Shared signaling SHALL be limited to the allowable functions of the identity process, as discussed in Sec. 3.10.1.
+elementType: criterion
+externalId: SSIG-1
+aliases:
+  - ssig_1
+  - SSIG-1
+parent: sp800_63c

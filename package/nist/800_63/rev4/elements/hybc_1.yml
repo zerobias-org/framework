@@ -1,0 +1,9 @@
+id: 090badb4-b548-41cc-9602-dd97dcc75c90
+name: Hybrid Connection Establishment
+description: Hybrid connections SHALL be established via a displayed QR code plus wireless data for the tunnel, or via cached keying and tunnel information from a previous transaction.
+elementType: criterion
+externalId: HYBC-1
+aliases:
+  - hybc_1
+  - HYBC-1
+parent: sp800_63b

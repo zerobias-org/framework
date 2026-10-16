@@ -1,0 +1,9 @@
+id: 4b620266-183f-45e1-9bc8-1ebdef9da7df
+name: Image Analysis Algorithms
+description: Automated image analysis algorithms SHALL be tested against attack artifacts and genuine media to baseline performance and expected false positive and negative rates.
+elementType: criterion
+externalId: DIGINJ-3
+aliases:
+  - diginj_3
+  - DIGINJ-3
+parent: sp800_63a

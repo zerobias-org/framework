@@ -1,0 +1,9 @@
+id: cf602b06-47df-42c2-b90b-e5541d5ec8dc
+name: Out-Of-Band Failure Count
+description: Generating a new authentication secret SHALL NOT reset the failed authentication count.
+elementType: criterion
+externalId: OBV-7
+aliases:
+  - obv_7
+  - OBV-7
+parent: sp800_63b

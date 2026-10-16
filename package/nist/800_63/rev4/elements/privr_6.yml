@@ -1,0 +1,9 @@
+id: 8aeadeb6-d82b-4c26-b050-61ce4fc71512
+name: Provisioning API Privacy Measures
+description: If the RP accesses attributes through a provisioning API, additional privacy measures SHALL account for the differing RP subscriber account life cycle.
+elementType: criterion
+externalId: PRIVR-6
+aliases:
+  - privr_6
+  - PRIVR-6
+parent: sp800_63c

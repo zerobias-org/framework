@@ -1,0 +1,9 @@
+id: bba133f7-4623-44ef-8e68-a458d01b8ef3
+name: 'RP Not on Allowlist: Remembered Decision Disclosure'
+description: The IdP SHALL disclose to the authorized party that the storage mechanism is in use.
+elementType: criterion
+externalId: IDPRD-7
+aliases:
+  - idprd_7
+  - IDPRD-7
+parent: sp800_63c

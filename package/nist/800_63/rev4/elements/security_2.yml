@@ -1,0 +1,9 @@
+id: e01314f4-e286-4946-83e6-317e9f0b8916
+name: Auto Attack Protections
+description: The CSP SHALL implement automated attack protections for identity proofing, such as bot management, behavioral analytics, WAF settings and traffic analysis.
+elementType: criterion
+externalId: SECURITY-2
+aliases:
+  - security_2
+  - SECURITY-2
+parent: sp800_63a

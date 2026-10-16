@@ -1,0 +1,9 @@
+id: f1c328fa-ea5f-4293-ad7b-6c9f489f36cd
+name: 'RP Runtime Decision: Remembered Decision Disclosure'
+description: The RP SHALL disclose to the authorized party that the storage mechanism is in use.
+elementType: criterion
+externalId: RPRD-2
+aliases:
+  - rprd_2
+  - RPRD-2
+parent: sp800_63c

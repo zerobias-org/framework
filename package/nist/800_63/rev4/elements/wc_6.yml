@@ -1,0 +1,9 @@
+id: bab72802-f5da-4342-a0f6-3125efec360b
+name: Wireless Authenticator Encryption
+description: The entire authentication transaction SHALL be encrypted.
+elementType: criterion
+externalId: WC-6
+aliases:
+  - wc_6
+  - WC-6
+parent: sp800_63b

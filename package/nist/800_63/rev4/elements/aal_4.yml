@@ -1,0 +1,9 @@
+id: 9f4a0fef-13c4-45c8-98fb-4524e732b4bd
+name: Privacy Fraud Indications
+description: CSPs or verifiers SHALL include fraud indicators in the authentication privacy risk assessment.
+elementType: criterion
+externalId: AAL-4
+aliases:
+  - aal_4
+  - AAL-4
+parent: sp800_63b

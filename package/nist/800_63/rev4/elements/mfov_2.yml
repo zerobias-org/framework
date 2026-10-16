@@ -1,0 +1,9 @@
+id: 9338b528-2856-4967-95fc-1b2a7be7ccae
+name: MF-OTP Key Establishment
+description: When binding a multi-factor OTP authenticator, the verifier or associated CSP SHALL use approved cryptography for key establishment or obtaining the required secrets.
+elementType: criterion
+externalId: MFOV-2
+aliases:
+  - mfov_2
+  - MFOV-2
+parent: sp800_63b

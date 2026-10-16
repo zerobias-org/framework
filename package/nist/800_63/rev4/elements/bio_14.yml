@@ -1,0 +1,9 @@
+id: faa9ce50-8503-4588-9cb0-f9ea4332fb8f
+name: Biometric Threshold
+description: The biometric system SHALL be configured with a fixed threshold; it is not feasible to change the threshold for each demographic group.
+elementType: criterion
+externalId: BIO-14
+aliases:
+  - bio_14
+  - BIO-14
+parent: sp800_63a

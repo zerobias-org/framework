@@ -1,0 +1,9 @@
+id: 0fd0a9f5-42b1-4dc8-a092-e00eb9e7c05f
+name: Shared Signaling Trust Agreement Terms
+description: If shared signaling is used, the trust agreement SHALL establish the triggering events, signals sent, information included, and expected behavior of the receiving party.
+elementType: criterion
+externalId: PETA-6
+aliases:
+  - peta_6
+  - PETA-6
+parent: sp800_63c

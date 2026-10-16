@@ -1,0 +1,9 @@
+id: 6037b437-1d2c-44b4-bd5b-bdc34fb514ab
+name: Password Authenticated Protected Channels
+description: Verifiers and CSPs SHALL use approved encryption and an authenticated protected channel when requesting passwords.
+elementType: criterion
+externalId: PV-14
+aliases:
+  - pv_14
+  - PV-14
+parent: sp800_63b

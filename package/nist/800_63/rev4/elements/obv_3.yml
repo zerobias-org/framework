@@ -1,0 +1,9 @@
+id: f2f2b7d3-2161-4e9e-967d-737c5419e8be
+name: Out-Of-Band Time Limit
+description: In all cases, the authentication SHALL be considered invalid unless completed within 10 minutes.
+elementType: criterion
+externalId: OBV-3
+aliases:
+  - obv_3
+  - OBV-3
+parent: sp800_63b

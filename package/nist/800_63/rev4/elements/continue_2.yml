@@ -1,0 +1,9 @@
+id: a3a4ef0e-71fd-43b5-bccc-85f93d236bc7
+name: Continue Code Throttling
+description: The verification of continuation codes SHALL be subject to throttling requirements, as provided in Sec. 3.2.2 of [SP800-63B].
+elementType: criterion
+externalId: CONTINUE-2
+aliases:
+  - continue_2
+  - CONTINUE-2
+parent: sp800_63a

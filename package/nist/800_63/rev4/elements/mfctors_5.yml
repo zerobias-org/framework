@@ -1,0 +1,9 @@
+id: 91934798-12c7-4428-b829-7a0f97b7489c
+name: MF Crypto Activation
+description: Each authentication event SHALL require input and verification of the local activation factor.
+elementType: criterion
+externalId: MFCTORS-5
+aliases:
+  - mfctors_5
+  - MFCTORS-5
+parent: sp800_63b

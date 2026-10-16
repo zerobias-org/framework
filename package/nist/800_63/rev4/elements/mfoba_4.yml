@@ -1,0 +1,9 @@
+id: 1d5e360a-0358-490e-8122-3e41368c01f1
+name: MF-OOB Activation Erasure
+description: For multi-factor out-of-band authenticators, the activation password or biometric sample and derived biometric data SHALL be erased immediately after authentication.
+elementType: criterion
+externalId: MFOBA-4
+aliases:
+  - mfoba_4
+  - MFOBA-4
+parent: sp800_63b

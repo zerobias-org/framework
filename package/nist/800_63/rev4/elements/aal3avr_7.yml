@@ -1,0 +1,9 @@
+id: b33b08ce-9bc8-4129-bf6c-1eb167f9e5dd
+name: AAL3 Unsyncability
+description: Syncable authenticators SHALL NOT be used at AAL3.
+elementType: criterion
+externalId: AAL3AVR-7
+aliases:
+  - aal3avr_7
+  - AAL3AVR-7
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 34142aa1-cb73-49eb-b67a-b4b67abeb3de
+name: Insider Threat Controls
+description: CSPs SHALL implement insider threat controls to detect and prevent collusion involving CSP representatives that are directly involved with or can intervene in proofing processes or decisions.
+elementType: criterion
+externalId: FRAUD-10
+aliases:
+  - fraud_10
+  - FRAUD-10
+parent: sp800_63a

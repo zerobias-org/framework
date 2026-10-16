@@ -1,0 +1,9 @@
+id: c040692d-4d85-4069-8846-19e6442a3496
+name: Validated Addresses
+description: Notifications of proofing SHALL be sent to a validated postal address or phone number at all IALs or MAY be sent to a validated email address at IAL1.
+elementType: criterion
+externalId: NOTIFS-1
+aliases:
+  - notifs_1
+  - NOTIFS-1
+parent: sp800_63a

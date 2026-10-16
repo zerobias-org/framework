@@ -1,0 +1,9 @@
+id: 624b1d2a-25ee-4c02-baa3-a8c7183b9c6a
+name: Wallet Remembered Decision Disclosure
+description: If a subscriber-controlled wallet remembers disclosure decisions for an RP, it SHALL disclose to the subscriber that this storage mechanism is in use.
+elementType: criterion
+externalId: WAAD-2
+aliases:
+  - waad_2
+  - WAAD-2
+parent: sp800_63c
