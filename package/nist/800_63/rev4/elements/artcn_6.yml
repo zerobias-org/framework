@@ -1,0 +1,9 @@
+id: dafebcde-c245-4bc1-83dc-29e885ec93bb
+name: Wallet Assertion Authentication Secret Prohibition
+description: Assertions SHALL NOT contain subscriber authentication secrets (e.g., passwords).
+elementType: criterion
+externalId: ARTCN-6
+aliases:
+  - artcn_6
+  - ARTCN-6
+parent: sp800_63c

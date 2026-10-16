@@ -1,0 +1,9 @@
+id: ac192fe4-6629-4287-8fa1-d76b5355f9d0
+name: MF Crypto Activation Erasure
+description: For multi-factor cryptographic authenticators, the activation secret or biometric sample and derived biometric data SHALL be erased after an authentication transaction.
+elementType: criterion
+externalId: MFCTORS-8
+aliases:
+  - mfctors_8
+  - MFCTORS-8
+parent: sp800_63b

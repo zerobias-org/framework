@@ -1,0 +1,9 @@
+id: fbd0f256-ee1b-4eac-9c11-226d40453f72
+name: MF Crypto Public Key
+description: Multi-factor cryptographic authenticators used at AAL3 SHALL use public-key cryptography to protect the authentication secrets from compromise of the verifier.
+elementType: criterion
+externalId: MFCTION-1
+aliases:
+  - mfction_1
+  - MFCTION-1
+parent: sp800_63b

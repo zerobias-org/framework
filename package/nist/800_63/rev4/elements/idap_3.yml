@@ -1,0 +1,9 @@
+id: 9eb097d8-936a-468b-891f-558a0775c8a5
+name: Identity API Access Insufficient for Session Establishment
+description: RP access to an identity API without an associated valid assertion SHALL NOT be sufficient to establish an authenticated session at the RP.
+elementType: criterion
+externalId: IDAP-3
+aliases:
+  - idap_3
+  - IDAP-3
+parent: sp800_63c

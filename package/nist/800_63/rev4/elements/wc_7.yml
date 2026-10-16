@@ -1,0 +1,9 @@
+id: 12e5d664-6e4b-4753-bab4-26b7fb38b0f6
+name: Wireless Authenticator Persistent Key Removal
+description: A mechanism for endpoints to remove persistent keys SHALL be provided.
+elementType: criterion
+externalId: WC-7
+aliases:
+  - wc_7
+  - WC-7
+parent: sp800_63b

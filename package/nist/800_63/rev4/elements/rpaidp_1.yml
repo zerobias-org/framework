@@ -1,0 +1,9 @@
+id: 71f588fe-ae7e-4c47-a18b-53437da1b6fb
+name: 'RP Allowlist: IdP Conformance'
+description: When placing an IdP in its allowlist, the RP SHALL confirm that the IdP abides by the terms of the trust agreement.
+elementType: criterion
+externalId: RPAIDP-1
+aliases:
+  - rpaidp_1
+  - RPAIDP-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: b9b6ac7c-66d1-4d82-8736-855377e26061
+name: Wallet Assertion Request Contents
+description: An RP-initiated wallet assertion request SHALL contain an RP identifier, a cryptographic nonce, and the requested attributes and bundles with their purpose of use.
+elementType: criterion
+externalId: AREQ-1
+aliases:
+  - areq_1
+  - AREQ-1
+parent: sp800_63c

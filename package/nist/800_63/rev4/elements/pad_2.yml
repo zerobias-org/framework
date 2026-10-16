@@ -1,0 +1,9 @@
+id: d6adc99f-5443-44e7-bfc2-e6ee39ec7c88
+name: Biometric Voice Prohibition
+description: Biometric comparison based on voice SHALL NOT be used.
+elementType: criterion
+externalId: PAD-2
+aliases:
+  - pad_2
+  - PAD-2
+parent: sp800_63b

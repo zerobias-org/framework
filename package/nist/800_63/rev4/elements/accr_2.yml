@@ -1,0 +1,9 @@
+id: 27133aa0-790f-4087-bdaf-fed8d44509ef
+name: Account Resolution Accuracy
+description: An RP performing account resolution SHALL design it so an RP subscriber account is never associated with a federated identifier not belonging to the subscriber.
+elementType: criterion
+externalId: ACCR-2
+aliases:
+  - accr_2
+  - ACCR-2
+parent: sp800_63c

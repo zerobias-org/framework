@@ -1,0 +1,9 @@
+id: e85359be-fe80-4ebd-880f-c17b4c1c34be
+name: MF-OOB Activation Secrets
+description: Authenticator activation secrets SHALL meet the requirements of Sec. 3.2.10.
+elementType: criterion
+externalId: MFOBA-2
+aliases:
+  - mfoba_2
+  - MFOBA-2
+parent: sp800_63b

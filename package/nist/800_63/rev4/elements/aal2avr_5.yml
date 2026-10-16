@@ -1,0 +1,9 @@
+id: 07d6337d-6123-4b45-9823-32bf7be4a5e2
+name: AAL2 FIPS140 Verifiers
+description: Cryptography used by verifiers operated by or on behalf of federal agencies at AAL2 SHALL be validated to meet the requirements of [FIPS140] Level 1 unless otherwise specified.
+elementType: criterion
+externalId: AAL2AVR-5
+aliases:
+  - aal2avr_5
+  - AAL2AVR-5
+parent: sp800_63b

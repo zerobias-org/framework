@@ -1,0 +1,9 @@
+id: 8a9e8403-b34b-4b3e-99c4-c561be2dcf2d
+name: Bundle-Embedded IdP Verification Key Validation
+description: The RP SHALL confirm the assertion's presenter by verifying its signature with the IdP verification key in the signed attribute bundle.
+elementType: criterion
+externalId: ABUN-3
+aliases:
+  - abun_3
+  - ABUN-3
+parent: sp800_63c

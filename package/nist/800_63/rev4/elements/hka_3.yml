@@ -1,0 +1,9 @@
+id: 5d08926c-bcfa-4151-b2dc-74c69a36570a
+name: HoK Authenticator Phishing Resistance
+description: The authenticator identified in a holder-of-key assertion SHALL be phishing-resistant, as defined by Sec. 3.2.5 of [SP800-63B].
+elementType: criterion
+externalId: HKA-3
+aliases:
+  - hka_3
+  - HKA-3
+parent: sp800_63c

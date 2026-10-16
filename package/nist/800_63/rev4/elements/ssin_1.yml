@@ -1,0 +1,9 @@
+id: 87abe134-e379-4843-8fba-9fb5acf70d89
+name: Personal Information Storage Security
+description: The IdP and RP SHALL store personal information in subscriber accounts, active or not, using tailored SP 800-53 or equivalent security controls.
+elementType: criterion
+externalId: SSIN-1
+aliases:
+  - ssin_1
+  - SSIN-1
+parent: sp800_63c

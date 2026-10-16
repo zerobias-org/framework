@@ -1,0 +1,9 @@
+id: 5dc353a4-9fb2-45de-a7b3-2524f43e1213
+name: Notification Addresses
+description: Events that require notification SHALL cause a notification to be sent to the notification addresses stored in the subscriber account.
+elementType: criterion
+externalId: ANOT-1
+aliases:
+  - anot_1
+  - ANOT-1
+parent: sp800_63b

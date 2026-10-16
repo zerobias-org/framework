@@ -1,0 +1,9 @@
+id: 3c82a3f3-f13a-4920-a11c-ddd6c0bdb17d
+name: Cryptographic Verifier Symmetric Key Protection
+description: Cryptographic verifier keys SHALL be protected against modification, and symmetric keys SHALL also be protected against disclosure by access controls limited to needed components.
+elementType: criterion
+externalId: SFCVER-1
+aliases:
+  - sfcver_1
+  - SFCVER-1
+parent: sp800_63b

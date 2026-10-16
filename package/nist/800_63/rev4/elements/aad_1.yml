@@ -1,0 +1,9 @@
+id: 40260ba2-431a-431c-8f51-73b9d120c04b
+name: Permissible Attribute Transmission
+description: Subscriber identity attributes SHALL only be transmitted between IdP and RP for federation transactions or support functions, even when parties are allowlisted.
+elementType: criterion
+externalId: AAD-1
+aliases:
+  - aad_1
+  - AAD-1
+parent: sp800_63c

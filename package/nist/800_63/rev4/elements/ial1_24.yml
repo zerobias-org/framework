@@ -1,0 +1,9 @@
+id: f35d7536-4bab-4635-873e-fe64b39411db
+name: IAL1 Authenticator Binding
+description: At IAL1, the CSP SHALL let the applicant bind an authenticator via remote enrollment, distribution to a validated address, or distribution or on-site enrollment.
+elementType: criterion
+externalId: IAL1-24
+aliases:
+  - ial1_24
+  - IAL1-24
+parent: sp800_63a

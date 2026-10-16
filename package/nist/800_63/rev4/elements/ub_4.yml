@@ -1,0 +1,9 @@
+id: 1240a840-3a86-4e64-824b-21c8c97900c3
+name: Biometrics Sensitivity
+description: Biometric data SHALL be treated and secured as sensitive personal information.
+elementType: criterion
+externalId: UB-4
+aliases:
+  - ub_4
+  - UB-4
+parent: sp800_63b

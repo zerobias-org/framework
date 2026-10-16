@@ -1,0 +1,9 @@
+id: 4bdb92b9-a9b9-4424-8abf-5fa3256e64f7
+name: Redress for Additionally Collected Attributes
+description: The RP SHALL provide a secure and effective means of redress for the subscriber to update and remove these additionally collected attributes from the RP subscriber account.
+elementType: criterion
+externalId: CAARP-5
+aliases:
+  - caarp_5
+  - CAARP-5
+parent: sp800_63c

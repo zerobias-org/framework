@@ -1,0 +1,9 @@
+id: 27c67c7e-e412-4b2b-887b-5c383f00dc5c
+name: Trust Agreement Availability to Subscribers
+description: The terms of the trust agreement SHALL be made available to subscribers upon request to the IdP or RP.
+elementType: criterion
+externalId: PETA-3
+aliases:
+  - peta_3
+  - PETA-3
+parent: sp800_63c

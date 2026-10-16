@@ -1,0 +1,9 @@
+id: 9431b642-65b5-4763-881d-06ac3e24425a
+name: Automated Tooling for Manual Registration
+description: If automated updates follow manual registration, the trust agreement SHALL enumerate allowable cryptographic key distribution and assignment terms, including cache lifetimes.
+elementType: criterion
+externalId: MR-1
+aliases:
+  - mr_1
+  - MR-1
+parent: sp800_63c

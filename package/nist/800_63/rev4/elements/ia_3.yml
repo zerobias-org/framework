@@ -1,0 +1,9 @@
+id: c5905ab5-6dd7-483d-9488-d5bb13990e09
+name: Impact Analysis - Output Documentation
+description: The output of this impact analysis is a set of impact levels for each user group that SHALL be documented for further analysis in accordance with Sec. 3.4.
+elementType: criterion
+externalId: IA-3
+aliases:
+  - ia_3
+  - IA-3
+parent: sp800_63

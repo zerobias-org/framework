@@ -1,0 +1,9 @@
+id: 97b3cc15-6a01-448d-9fc5-e77110db632c
+name: Invalidate Confirm Code
+description: Upon its use, the CSP SHALL invalidate the confirmation code.
+elementType: criterion
+externalId: CONFIRM-3
+aliases:
+  - confirm_3
+  - CONFIRM-3
+parent: sp800_63a

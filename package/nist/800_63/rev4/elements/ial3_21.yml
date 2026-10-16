@@ -1,0 +1,9 @@
+id: 9f78cb5e-453c-4abf-bf89-e6c99699cf45
+name: IAL3 Device Inspection
+description: For IAL3 kiosk-based proofing, devices used between agent and applicant SHALL be inspected periodically by trained technicians to deter tampering, modification, or damage.
+elementType: criterion
+externalId: IAL3-21
+aliases:
+  - ial3_21
+  - IAL3-21
+parent: sp800_63a

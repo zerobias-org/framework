@@ -1,0 +1,9 @@
+id: 2ed25ad7-c51f-468b-a9d2-43b6be346cbc
+name: CSP-Wallet Trust Agreement Requirements
+description: The CSP-wallet trust agreement SHALL cover available attributes, issuance processes, wallet storage and security, activation factors, FALs, and release restrictions.
+elementType: criterion
+externalId: CSCW-2
+aliases:
+  - cscw_2
+  - CSCW-2
+parent: sp800_63c

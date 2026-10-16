@@ -1,0 +1,9 @@
+id: 9f5bb205-9c02-4c6c-9c6b-5002cf9819c6
+name: HoK Authenticator Identifier
+description: A holder-of-key assertion SHALL include a unique authenticator identifier the RP can verify independently, such as the public key of a subscriber-controlled certificate.
+elementType: criterion
+externalId: HKA-1
+aliases:
+  - hka_1
+  - HKA-1
+parent: sp800_63c

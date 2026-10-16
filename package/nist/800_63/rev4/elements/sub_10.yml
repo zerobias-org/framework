@@ -1,0 +1,9 @@
+id: f0f700f4-00c3-4574-b786-2345ba206e8a
+name: Subscriber Account Termination
+description: The CSP SHALL promptly suspend or terminate the subscriber account when [any of events listed in Sec. 5.4 occurs].
+elementType: criterion
+externalId: SUB-10
+aliases:
+  - sub_10
+  - SUB-10
+parent: sp800_63a

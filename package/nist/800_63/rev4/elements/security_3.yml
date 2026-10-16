@@ -1,0 +1,9 @@
+id: a0cc720b-0f9c-4997-aec6-f95fdfe71185
+name: Data Protection
+description: Personal information collected during identity proofing SHALL be protected for confidentiality and integrity, including encryption at rest and protected channels.
+elementType: criterion
+externalId: SECURITY-3
+aliases:
+  - security_3
+  - SECURITY-3
+parent: sp800_63a

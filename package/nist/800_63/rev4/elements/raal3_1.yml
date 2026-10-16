@@ -1,0 +1,9 @@
+id: b738550f-587c-4019-b12c-7d39cc0416ae
+name: AAL3/IAL3 Recovery Requirements
+description: To recover an AAL3 account proofed at IAL3, the CSP SHALL perform a successful biometric comparison against the biometric collected at on-site attended proofing.
+elementType: criterion
+externalId: RAAL3-1
+aliases:
+  - raal3_1
+  - RAAL3-1
+parent: sp800_63b

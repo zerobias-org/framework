@@ -1,0 +1,9 @@
+id: 9d443b3d-7743-40dc-b924-55ff2f7df0f4
+name: Unsigned Attributes as Self-Asserted
+description: Identity attributes that are in the assertion but outside of a signed attribute bundle SHALL be considered self-asserted.
+elementType: criterion
+externalId: ARTCN-14
+aliases:
+  - artcn_14
+  - ARTCN-14
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 2dcfddec-9261-43e8-ba49-90176ab8a93f
+name: Biometrics Applicability
+description: Biometrics SHALL only be used as part of multi-factor authentication with a physical authenticator (i.e., "something you have").
+elementType: criterion
+externalId: UB-1
+aliases:
+  - ub_1
+  - UB-1
+parent: sp800_63b

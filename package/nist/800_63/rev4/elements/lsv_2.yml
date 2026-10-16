@@ -1,0 +1,9 @@
+id: 2e8821cc-29d1-4f17-881f-324bbc46a4a8
+name: Look-Up Secret Reuse
+description: A secret from a look-up secret authenticator SHALL be used successfully only once.
+elementType: criterion
+externalId: LSV-2
+aliases:
+  - lsv_2
+  - LSV-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: f9234c83-d81e-45bd-850c-028d54a4450a
+name: CX Mitigations
+description: Based on the results of its assessment, the CSP SHALL document any measures it takes to mitigate the possible access challenges.
+elementType: criterion
+externalId: CUSTOMER-3
+aliases:
+  - customer_3
+  - CUSTOMER-3
+parent: sp800_63a

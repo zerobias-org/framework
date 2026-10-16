@@ -1,0 +1,9 @@
+id: d8970029-330c-4164-ad23-b56ad2ec8396
+name: Subscriber-Driven Trust Agreement Disclosure Terms
+description: In a subscriber-driven trust agreement, terms covering attribute sources, available attributes, storage policy, signaling, account population and xALs SHALL be disclosed on request.
+elementType: criterion
+externalId: SDTAE-1
+aliases:
+  - sdtae_1
+  - SDTAE-1
+parent: sp800_63c

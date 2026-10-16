@@ -1,0 +1,9 @@
+id: 3f6cacde-51b0-4331-a03c-c62116d18d48
+name: FAL1 RP Audience Validation
+description: At FAL1, the RP SHALL validate that it is one of the targeted RPs for the given assertion.
+elementType: criterion
+externalId: FAL1-4
+aliases:
+  - fal1_4
+  - FAL1-4
+parent: sp800_63c

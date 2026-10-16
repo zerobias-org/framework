@@ -1,0 +1,9 @@
+id: b6d7a81d-dcee-4d11-8205-6787339ce7e4
+name: Assertion Protection Requirements
+description: Assertions SHALL include a set of protections to prevent attackers from manufacturing valid assertions or reusing captured assertions at different RPs.
+elementType: criterion
+externalId: ARTP-1
+aliases:
+  - artp_1
+  - ARTP-1
+parent: sp800_63c

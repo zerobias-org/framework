@@ -1,0 +1,9 @@
+id: 417cb4e2-774c-4935-abbc-82669ebe3bb1
+name: Account Provisioning Disclosure
+description: The means by which subscriber accounts are provisioned to an IdP SHALL be disclosed in the trust agreement.
+elementType: criterion
+externalId: IDPAP-1
+aliases:
+  - idpap_1
+  - IDPAP-1
+parent: sp800_63c

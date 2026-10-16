@@ -1,0 +1,9 @@
+id: 163999c9-43a0-47df-9f16-2c9f79d3e44e
+name: CSP Authenticator Lifecycle Logging
+description: The record created by the CSP SHALL contain the date and time of significant authenticator life cycle events (e.g., binding to the subscriber account, renewal, update, expiration).
+elementType: criterion
+externalId: AUTHB-5
+aliases:
+  - authb_5
+  - AUTHB-5
+parent: sp800_63b

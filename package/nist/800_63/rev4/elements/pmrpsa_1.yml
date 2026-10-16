@@ -1,0 +1,9 @@
+id: 6dcd80b6-b57f-413d-b419-e0e900e1c14c
+name: RP Subscriber Account Provisioning Methods
+description: The RP subscriber account SHALL be provisioned before an RP authenticated session via just-in-time, pre-, ephemeral or other provisioning.
+elementType: criterion
+externalId: PMRPSA-1
+aliases:
+  - pmrpsa_1
+  - PMRPSA-1
+parent: sp800_63c

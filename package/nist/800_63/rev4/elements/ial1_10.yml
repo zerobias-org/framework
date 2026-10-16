@@ -1,0 +1,9 @@
+id: 54b203a1-1ed1-4def-965d-42418e0966b3
+name: IAL1 Remote Attended Coercion Training
+description: For Remote Attended identity proofing, the proofing agent SHALL be trained to identify signs of manipulation, coercion, or social engineering occurring during the session.
+elementType: criterion
+externalId: IAL1-10
+aliases:
+  - ial1_10
+  - IAL1-10
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: afdd0ba9-27ee-4063-80b4-5614416526a0
+name: Security Controls
+description: The verifier SHALL employ tailored security controls from the SP 800-53 moderate baseline or an equivalent federal or industry standard for protected systems and services.
+elementType: criterion
+externalId: SC-1
+aliases:
+  - sc_1
+  - SC-1
+parent: sp800_63b

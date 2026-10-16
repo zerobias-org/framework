@@ -1,0 +1,9 @@
+id: 45d6dd44-50c5-4972-82b2-26eabe1be59a
+name: MF Crypto Biometric Requirements
+description: A biometric activation factor SHALL meet the requirements of Sec. 3.2.3, including limits on the number of consecutive authentication failures.
+elementType: criterion
+externalId: MFCTORS-7
+aliases:
+  - mfctors_7
+  - MFCTORS-7
+parent: sp800_63b

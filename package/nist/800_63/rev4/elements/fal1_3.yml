@@ -1,0 +1,9 @@
+id: 16e96ba8-f54f-425a-812d-6f84ded5199d
+name: FAL1 Audience Restriction
+description: At FAL1, the assertion SHALL be audience-restricted to a specific RP or set of RPs.
+elementType: criterion
+externalId: FAL1-3
+aliases:
+  - fal1_3
+  - FAL1-3
+parent: sp800_63c

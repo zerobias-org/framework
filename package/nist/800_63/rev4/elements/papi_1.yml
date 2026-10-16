@@ -1,0 +1,9 @@
+id: 4d45a98b-d81c-44dd-8f7a-8bfa715a0486
+name: 'Provisioning API: Attributes Limited to RP Functions'
+description: Provisioning API attributes available to an RP SHALL be limited to those necessary for the RP's functions, including audit and security purposes.
+elementType: criterion
+externalId: PAPI-1
+aliases:
+  - papi_1
+  - PAPI-1
+parent: sp800_63c

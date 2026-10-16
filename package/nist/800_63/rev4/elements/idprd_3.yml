@@ -1,0 +1,9 @@
+id: 47fef99b-583a-4b52-9fb0-e65f20317998
+name: 'RP Not on Allowlist: Attribute Disclosure Before Release'
+description: The IdP SHALL disclose which attributes will be released to the RP if the transaction is approved.
+elementType: criterion
+externalId: IDPRD-3
+aliases:
+  - idprd_3
+  - IDPRD-3
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: f1fa0017-e19f-479c-a49e-a519ca80ca9a
+name: Issued Recovery Code Multiple Address Requirement
+description: CSPs SHALL allow the subscriber to establish at least two recovery addresses.
+elementType: criterion
+externalId: IRC-6
+aliases:
+  - irc_6
+  - IRC-6
+parent: sp800_63b

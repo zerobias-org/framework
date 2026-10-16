@@ -1,0 +1,9 @@
+id: 6b8cfbd3-b229-4129-b017-85f601e400a3
+name: Recovery Contact Addresses
+description: CSPs that support the use of recovery contacts SHALL allow the subscriber to specify one or more addresses of trusted associates to receive issued recovery codes.
+elementType: criterion
+externalId: RECC-1
+aliases:
+  - recc_1
+  - RECC-1
+parent: sp800_63b

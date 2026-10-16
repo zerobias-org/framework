@@ -1,0 +1,9 @@
+id: fdc4d075-e8aa-41a6-a7f7-af9bdc89e0c4
+name: IAL1 On-Site Unattended Security Controls
+description: At IAL1, On-site Unattended proofing devices SHALL have baseline security comparable to FISMA moderate, including malware protection, admin access controls and updates.
+elementType: criterion
+externalId: IAL1-20
+aliases:
+  - ial1_20
+  - IAL1-20
+parent: sp800_63a

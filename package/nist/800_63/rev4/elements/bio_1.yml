@@ -1,0 +1,9 @@
+id: 84405c51-ee7e-4263-975e-2d042ad05e36
+name: Bio Disclosure
+description: CSPs SHALL publish clear information on all biometric uses, including data collected, how it is stored and protected, and how to remove it.
+elementType: criterion
+externalId: BIO-1
+aliases:
+  - bio_1
+  - BIO-1
+parent: sp800_63a

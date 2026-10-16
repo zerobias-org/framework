@@ -1,0 +1,9 @@
+id: 6a23c545-3db5-4a42-9ef3-2814bf26fffe
+name: AAL1 Overall Timeout
+description: A definite reauthentication overall timeout SHALL be established, which SHOULD be no more than 30 days at AAL1.
+elementType: criterion
+externalId: AAL1REA-2
+aliases:
+  - aal1rea_2
+  - AAL1REA-2
+parent: sp800_63b

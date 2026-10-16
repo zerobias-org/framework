@@ -1,0 +1,9 @@
+id: fb5161a6-0e2a-4736-a56a-80df47a62848
+name: IAL3 ID Verification
+description: At IAL3, the CSP SHALL verify the applicant's ownership of the strongest evidence via device authentication with portrait, facial comparison, or biometric comparison.
+elementType: criterion
+externalId: IAL3-6
+aliases:
+  - ial3_6
+  - IAL3-6
+parent: sp800_63a

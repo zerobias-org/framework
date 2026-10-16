@@ -1,0 +1,9 @@
+id: 8cfaf87d-6dec-4d1d-a133-a475a91ae05d
+name: IAL Reporting
+description: The IdP SHALL inform the RP, for each federation transaction, of the IAL of the subscriber account presented or that no IAL claim is being made.
+elementType: criterion
+externalId: RXAL-3
+aliases:
+  - rxal_3
+  - RXAL-3
+parent: sp800_63c

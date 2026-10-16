@@ -1,0 +1,9 @@
+id: ba499815-b6cb-40ca-b85a-71957d2c6b16
+name: Session AAL Limitation
+description: A session MAY be considered at a lower AAL than the authentication event but SHALL NOT be considered at a higher AAL than the authentication event.
+elementType: criterion
+externalId: SB-7
+aliases:
+  - sb_7
+  - SB-7
+parent: sp800_63b

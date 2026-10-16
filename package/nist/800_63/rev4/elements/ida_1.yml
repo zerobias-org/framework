@@ -1,0 +1,9 @@
+id: 003e68e6-eb55-4880-b816-0399aa1b036c
+name: Attribute Presentation Documentation
+description: Attributes SHALL be either unbundled (i.e., presented directly in an assertion by the IdP) or bundled into a package that is cryptographically signed by the CSP, as described in Sec. 3.12.1.
+elementType: criterion
+externalId: IDA-1
+aliases:
+  - ida_1
+  - IDA-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 564a9ddb-b011-457b-9fe8-cf584207a72a
+name: Unicode Passwords
+description: Verifiers and CSPs SHOULD accept Unicode [ISO/IEC 10646] characters in passwords. Each Unicode code point SHALL be counted as a single character when evaluating password length.
+elementType: criterion
+externalId: PV-2
+aliases:
+  - pv_2
+  - PV-2
+parent: sp800_63b

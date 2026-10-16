@@ -1,0 +1,9 @@
+id: c1f8d93c-483d-484b-b675-81b413324648
+name: 'Approved Cryptography: Assertion Signatures'
+description: At FAL1, the IdP SHALL sign the assertion using approved cryptography.
+elementType: criterion
+externalId: FAL1-1
+aliases:
+  - fal1_1
+  - FAL1-1
+parent: sp800_63c

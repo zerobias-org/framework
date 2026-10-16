@@ -1,0 +1,9 @@
+id: e4e98c9a-350c-4b4d-8437-9892b4aa225f
+name: Non-Exportability Hardware Requirements
+description: To be considered non-exportable, an authenticator SHALL either be a separate piece of hardware or an embedded processor or execution environment (e.g., secure element, TEE, TPM).
+elementType: criterion
+externalId: EXPO-1
+aliases:
+  - expo_1
+  - EXPO-1
+parent: sp800_63b

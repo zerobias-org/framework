@@ -1,0 +1,9 @@
+id: f8a98837-c643-4cfb-a029-efb5ce32fa09
+name: External Authenticator Binding
+description: External authenticator binding SHALL proceed by exchanging a CSP-issued binding code between an authenticated endpoint and the new authenticator's endpoint.
+elementType: criterion
+externalId: BINAE-1
+aliases:
+  - binae_1
+  - BINAE-1
+parent: sp800_63b

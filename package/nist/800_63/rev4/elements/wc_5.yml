@@ -1,0 +1,9 @@
+id: e7521ae0-a55d-44a9-8682-3ba66a93f99a
+name: Wireless Authenticator Non-Proximate Authenticated Protected Channel
+description: Network connections and wireless technologies with a range of 1 meter or more (e.g., BLE) SHALL use an authenticated protected channel between authenticator and endpoint.
+elementType: criterion
+externalId: WC-5
+aliases:
+  - wc_5
+  - WC-5
+parent: sp800_63b

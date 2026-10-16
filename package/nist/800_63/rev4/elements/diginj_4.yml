@@ -1,0 +1,9 @@
+id: 69a256f1-d14f-485a-9778-641eec97d392
+name: Attack Artifact Testing
+description: The kinds of available attack artifacts that were tested and the corresponding false negative rates SHALL be documented and made available to RPs upon request.
+elementType: criterion
+externalId: DIGINJ-4
+aliases:
+  - diginj_4
+  - DIGINJ-4
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: c0d16680-f8b1-40d7-9a4f-0f36b7530b11
+name: RP Assertion Processing as Discrete Event
+description: Assertions...SHALL be processed as a discrete authentication event at the RP.
+elementType: criterion
+externalId: ARTC-2
+aliases:
+  - artc_2
+  - ARTC-2
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 401d17fa-aa96-4c46-a82f-5281c9e9ea6a
+name: Cryptographic Nonce
+description: At FAL2 and above, the assertion SHALL include a cryptographic nonce from the RP's federation request.
+elementType: criterion
+externalId: ARTC-7
+aliases:
+  - artc_7
+  - ARTC-7
+parent: sp800_63c

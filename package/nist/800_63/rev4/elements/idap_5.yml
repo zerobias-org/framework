@@ -1,0 +1,9 @@
+id: 10eb5b46-07e6-45cc-9ced-7a0ae4b1f693
+name: Identity API Subject Identifier Inclusion
+description: If the identity API is hosted by the IdP, the returned attributes SHALL include the subject identifier for the subscriber.
+elementType: criterion
+externalId: IDAP-5
+aliases:
+  - idap_5
+  - IDAP-5
+parent: sp800_63c

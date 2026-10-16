@@ -1,0 +1,9 @@
+id: eba298e4-2eaf-41c1-b2f9-a0f7e88d8100
+name: Termination Notice Consideration
+description: The RP SHALL consider the reason for termination when determining whether to send a notice to the subscriber, as discussed in Sec. 5.4 of [SP800-63A].
+elementType: criterion
+externalId: RPSA-4
+aliases:
+  - rpsa_4
+  - RPSA-4
+parent: sp800_63c

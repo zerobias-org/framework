@@ -1,0 +1,9 @@
+id: f6e29d4b-9b5d-44dc-bea5-036afd2c5c5e
+name: Records Retention Risk
+description: If the verifier retains records without a mandate, it or its CSP or IdP SHALL conduct a risk management process to set retention periods and SHALL inform the subscriber.
+elementType: criterion
+externalId: RRP-2
+aliases:
+  - rrp_2
+  - RRP-2
+parent: sp800_63b

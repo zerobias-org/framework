@@ -1,0 +1,9 @@
+id: ca4c312d-2330-46c1-9af5-37af86ae9a89
+name: Reverification Policy
+description: The CSP's documented procedures SHALL include its policy for any conditions that would require reverification of the user.
+elementType: criterion
+externalId: ISDR-12
+aliases:
+  - isdr_12
+  - ISDR-12
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 0a5bd008-a952-4560-b1ba-4ebf48b1ebb6
+name: CSP Verification Key Determination
+description: For a subscriber-controlled wallet transaction, the RP SHALL first determine the CSP's attribute bundle verification key through a secure process per the trust agreement.
+elementType: criterion
+externalId: DISCR-1
+aliases:
+  - discr_1
+  - DISCR-1
+parent: sp800_63c

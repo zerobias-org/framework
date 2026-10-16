@@ -1,0 +1,9 @@
+id: 73e9230f-d5be-44ea-8a35-6c3735970b9b
+name: Look-Up Secret Authenticated Protected Channel
+description: The verifier SHALL use approved encryption and an authenticated protected channel when requesting look-up secrets.
+elementType: criterion
+externalId: LSV-10
+aliases:
+  - lsv_10
+  - LSV-10
+parent: sp800_63b

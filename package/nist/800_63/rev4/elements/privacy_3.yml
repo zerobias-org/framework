@@ -1,0 +1,9 @@
+id: 49bfe665-e4fa-48c3-ac68-9cf8f3b056d6
+name: Privacy Mgmt
+description: Based on its privacy risk assessment, the CSP SHALL document measures maintaining disassociability, predictability, manageability, confidentiality, integrity and availability.
+elementType: criterion
+externalId: PRIVACY-3
+aliases:
+  - privacy_3
+  - PRIVACY-3
+parent: sp800_63a

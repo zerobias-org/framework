@@ -1,0 +1,9 @@
+id: 229001a5-754a-4313-8466-dc7059e2d3ad
+name: Death Records Check
+description: CSPs SHALL implement a death records check for all identity proofing processes by confirming with a credible, authoritative, or issuing source that the applicant is not deceased.
+elementType: criterion
+externalId: FRAUD-8
+aliases:
+  - fraud_8
+  - FRAUD-8
+parent: sp800_63a

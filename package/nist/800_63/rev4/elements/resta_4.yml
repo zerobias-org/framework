@@ -1,0 +1,9 @@
+id: 31bd00f3-dc5e-4b09-a17f-3989c487f9ce
+name: Restricted Authenticator Risk Documentation
+description: The CSP SHALL address any additional risks to subscribers and RPs in its risk assessment.
+elementType: criterion
+externalId: RESTA-4
+aliases:
+  - resta_4
+  - RESTA-4
+parent: sp800_63b

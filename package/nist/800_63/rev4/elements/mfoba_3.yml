@@ -1,0 +1,9 @@
+id: 9a13c610-7a37-41f4-a06c-a45f5603d13c
+name: MF-OOB Biometric Requirements
+description: A biometric activation factor SHALL meet the requirements of Sec. 3.2.3, including limits on the number of consecutive authentication failures.
+elementType: criterion
+externalId: MFOBA-3
+aliases:
+  - mfoba_3
+  - MFOBA-3
+parent: sp800_63b

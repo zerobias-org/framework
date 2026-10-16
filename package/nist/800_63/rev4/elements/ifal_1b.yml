@@ -1,0 +1,9 @@
+id: 213a9637-475c-4dcf-92dd-648ff27efbcc
+name: Initial FAL - Selection
+description: If federation is required for their application, the organization SHALL select an initial FAL for each user group based on the effective impact level determination from  Sec. 3.2.4.
+elementType: criterion
+externalId: IFAL-1b
+aliases:
+  - ifal_1b
+  - IFAL-1b
+parent: sp800_63

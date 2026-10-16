@@ -1,0 +1,9 @@
+id: f6788cab-3bf6-4e65-bfb4-0701f07c20f4
+name: IdP Notification of Terminations due to Fraud or Suspicious Activity
+description: If an account is terminated for suspicious or fraudulent activity, the IdP SHALL notify the RP with the reason, if specified in the trust agreement.
+elementType: criterion
+externalId: ATSYNC-2
+aliases:
+  - atsync_2
+  - ATSYNC-2
+parent: sp800_63c

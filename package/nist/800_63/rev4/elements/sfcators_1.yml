@@ -1,0 +1,9 @@
+id: 544bf116-13ad-49ed-9562-561833250fc2
+name: SF Exportable Authentication Key Protection
+description: Exportable single-factor cryptographic authentication keys accessible to the endpoint SHALL be strongly protected by access controls limited to components requiring access.
+elementType: criterion
+externalId: SFCATORS-1
+aliases:
+  - sfcators_1
+  - SFCATORS-1
+parent: sp800_63b

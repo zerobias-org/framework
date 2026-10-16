@@ -1,0 +1,9 @@
+id: 0115fb9a-e1c8-4d6a-9c6d-b5bbf08f11e7
+name: Wildcard Identifier Prohibition
+description: When domain names, URIs, or other structured identifiers are used to identify parties, wildcards SHALL NOT be used.
+elementType: criterion
+externalId: ICKM-4
+aliases:
+  - ickm_4
+  - ICKM-4
+parent: sp800_63c

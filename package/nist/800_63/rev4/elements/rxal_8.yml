@@ -1,0 +1,9 @@
+id: b716977a-fce9-4d2d-a12d-c1e9106149f7
+name: xAL Requirements
+description: The RP SHALL determine the minimum IAL, AAL, and FAL it accepts for each function and verify IdP assertions meet them before granting access.
+elementType: criterion
+externalId: RXAL-8
+aliases:
+  - rxal_8
+  - RXAL-8
+parent: sp800_63c

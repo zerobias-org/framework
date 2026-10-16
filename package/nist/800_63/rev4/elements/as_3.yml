@@ -1,0 +1,9 @@
+id: 3e52fb78-34a3-4eed-8ee1-3d20a9141660
+name: Activation Secret Retry Limit
+description: The authenticator or verifier SHALL implement a retry-limiting mechanism that limits the number of consecutive failed activation attempts using the authenticator to no more than 10.
+elementType: criterion
+externalId: AS-3
+aliases:
+  - as_3
+  - AS-3
+parent: sp800_63b

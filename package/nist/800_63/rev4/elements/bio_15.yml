@@ -1,0 +1,9 @@
+id: e239c5f8-fc0c-4d3a-8b8d-60466e675a6c
+name: Demographic Categories
+description: Demographic categories to be considered SHALL include sex, age, and skin tone when these factors affect biometric performance.
+elementType: criterion
+externalId: BIO-15
+aliases:
+  - bio_15
+  - BIO-15
+parent: sp800_63a

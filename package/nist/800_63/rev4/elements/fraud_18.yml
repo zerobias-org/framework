@@ -1,0 +1,9 @@
+id: 20ade5a6-0976-4f76-b825-af4e1e5a6d3f
+name: RP DIAS
+description: The RP SHALL record the CSP's compensating controls in their own DIAS prior to integration.
+elementType: criterion
+externalId: FRAUD-18
+aliases:
+  - fraud_18
+  - FRAUD-18
+parent: sp800_63a

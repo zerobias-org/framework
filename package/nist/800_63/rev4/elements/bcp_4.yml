@@ -1,0 +1,9 @@
+id: 6a5b9680-496b-4240-be55-449cce4df5f9
+name: Assertion Reference Time Limitation
+description: In back-channel presentation, the assertion reference SHALL be time-limited.
+elementType: criterion
+externalId: BCP-4
+aliases:
+  - bcp_4
+  - BCP-4
+parent: sp800_63c

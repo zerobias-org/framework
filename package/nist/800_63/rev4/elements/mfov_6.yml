@@ -1,0 +1,9 @@
+id: d9cd07e4-d2c0-4617-ad50-52bdb9386872
+name: MF-OTP Rate Limiting
+description: For multi-factor OTPs, the verifier SHALL implement rate limiting of consecutive failed authentication attempts on the subscriber account, as required by Sec. 3.2.10.
+elementType: criterion
+externalId: MFOV-6
+aliases:
+  - mfov_6
+  - MFOV-6
+parent: sp800_63b

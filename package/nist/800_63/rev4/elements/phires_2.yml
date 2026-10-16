@@ -1,0 +1,9 @@
+id: 4a97ed79-07c0-4e9a-bf8d-f04f28033ed7
+name: Phishing Resistance Key Strength
+description: Keys used for phishing resistance SHALL provide at least the minimum security strength specified in the latest revision of [SP800-131A] (i.e., 112 bits as of the date of this publication).
+elementType: criterion
+externalId: PHIRES-2
+aliases:
+  - phires_2
+  - PHIRES-2
+parent: sp800_63b

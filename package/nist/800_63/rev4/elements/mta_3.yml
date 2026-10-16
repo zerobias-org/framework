@@ -1,0 +1,9 @@
+id: 4669a36b-9294-4d4e-ac5d-f8603be59c41
+name: 'MTA Vetting: CSP Subscriber Proofing'
+description: Vetting of CSPs, IdPs, and RPs in a multilateral trust agreement SHALL establish that CSPs identity proof subscriber accounts in accordance with SP 800-63A.
+elementType: criterion
+externalId: MTA-3
+aliases:
+  - mta_3
+  - MTA-3
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 910549cd-ceff-421c-8de7-3333bd43ac69
+name: Data Breach Notification
+description: In the event of a data breach of CSP records, the CSP SHALL provide notification to subscribers whose personal information may have been exposed to unauthorized access.
+elementType: criterion
+externalId: SUB-14
+aliases:
+  - sub_14
+  - SUB-14
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: 88155fb5-efd9-40a4-a2f8-10da4c566bc5
+name: RP-Specific Assertion Reference
+description: In back-channel presentation, the assertion reference SHALL be limited to use by a single RP.
+elementType: criterion
+externalId: BCP-2
+aliases:
+  - bcp_2
+  - BCP-2
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 0915e6bd-2ee3-48fa-beb3-8e669b21a5b0
+name: Wallet FAL3 Assertion Mechanism Indicator
+description: At FAL3, a wallet assertion SHALL include a holder-of-key identifier, which MAY be the wallet signing key, or an indicator that bound authenticator verification is required.
+elementType: criterion
+externalId: ARTCN-5
+aliases:
+  - artcn_5
+  - ARTCN-5
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 7571c1ee-8808-49c5-b736-5056c28cffa4
+name: Binding Ceremony Authenticator Prompt
+description: The subscriber SHALL immediately be prompted to present and authenticate with the proposed authenticator.
+elementType: criterion
+externalId: SUBPB-3
+aliases:
+  - subpb_3
+  - SUBPB-3
+parent: sp800_63c

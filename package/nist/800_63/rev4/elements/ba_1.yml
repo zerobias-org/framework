@@ -1,0 +1,9 @@
+id: 1dd00cc1-775b-4371-8ce1-b021d5be1958
+name: Biometric FMR
+description: The biometric system SHALL operate with an FMR [ISO/IEC2382-37] of one in 10000 or better for all demographic groups.
+elementType: criterion
+externalId: BA-1
+aliases:
+  - ba_1
+  - BA-1
+parent: sp800_63b

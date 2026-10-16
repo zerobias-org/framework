@@ -1,0 +1,9 @@
+id: a7f6f816-4d17-4f28-ad33-d470b19b16df
+name: Out-Of-Band Transfer Methods
+description: Depending on the out-of-band authenticator type, the verifier SHALL transfer a random secret from the secondary to the primary channel or from the primary to the secondary channel.
+elementType: criterion
+externalId: OBV-2
+aliases:
+  - obv_2
+  - OBV-2
+parent: sp800_63b
