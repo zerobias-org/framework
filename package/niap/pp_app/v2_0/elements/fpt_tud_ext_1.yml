@@ -1,0 +1,9 @@
+id: e70bc151-0696-4104-9dc3-2ee019e82fe8
+name: Support for Trusted Updates
+description: 'The application shall support trusted updates: version queries, update checks, and digitally signed updates the platform can verify before installation.'
+elementType: sfr
+externalId: FPT_TUD_EXT.1
+aliases:
+  - fpt_tud_ext_1
+  - FPT_TUD_EXT.1
+parent: fpt

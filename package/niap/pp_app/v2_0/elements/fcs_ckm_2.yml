@@ -1,0 +1,9 @@
+id: c0c39a87-1a0c-4f8a-ad10-4ff8078f0b3b
+name: Cryptographic Key Establishment
+description: The application shall perform key establishment, or invoke the platform to do so, using CNSA 2.0 ML-KEM or CNSA 1.0 RSA, elliptic curve or FFC schemes.
+elementType: sfr
+externalId: FCS_CKM.2
+aliases:
+  - fcs_ckm_2
+  - FCS_CKM.2
+parent: fcs

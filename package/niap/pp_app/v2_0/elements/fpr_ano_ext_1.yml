@@ -1,0 +1,9 @@
+id: 1c19e5f6-39fe-41f6-925b-04f4e44c7fac
+name: User Consent for Transmission of Personally Identifiable Information
+description: The application shall not use PII, not transmit PII over a network, or require user approval before functions that transmit PII.
+elementType: sfr
+externalId: FPR_ANO_EXT.1
+aliases:
+  - fpr_ano_ext_1
+  - FPR_ANO_EXT.1
+parent: fpr

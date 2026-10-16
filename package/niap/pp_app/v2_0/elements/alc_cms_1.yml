@@ -1,0 +1,9 @@
+id: 51a1b3bc-5671-4234-b29f-8d18c0f4d1c9
+name: TOE CM Coverage
+description: The developer shall provide a configuration list that uniquely identifies the TOE and the evaluation evidence the SARs require.
+elementType: sar
+externalId: ALC_CMS.1
+aliases:
+  - alc_cms_1
+  - ALC_CMS.1
+parent: alc

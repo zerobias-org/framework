@@ -1,0 +1,96 @@
+id: f67ed270-7760-474f-a332-ed723097cde2
+name: PP_APP_v2.0 Mandatory Requirements
+description: 'Protection Profile for Application Software: the requirements every conformant TOE must claim.'
+elements:
+  fcs_ckm_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fcs_rbg_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fcs_sto_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fdp_dar_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fdp_dec_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fdp_net_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fmt_cfg_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fmt_mec_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fmt_smf_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fpr_ano_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fpt_aex_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fpt_api_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fpt_lib_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  fpt_tud_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ftp_dit_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  adv_fsp_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  agd_ope_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  agd_pre_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  alc_cmc_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  alc_cms_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  alc_tsu_ext_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ate_ind_1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ava_van_1:
+    mandatory: true
+    parameters: []
+    requirements: []

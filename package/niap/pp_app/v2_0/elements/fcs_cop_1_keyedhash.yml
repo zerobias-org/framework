@@ -1,0 +1,9 @@
+id: 366ef202-a868-45d0-89a9-7c1f81b9c0f0
+name: Cryptographic Operation - Keyed-Hash Message Authentication
+description: The application shall perform keyed-hash message authentication with HMAC-SHA-256, HMAC-SHA-384 or HMAC-SHA-512 per FIPS 198-1 and FIPS 180-4.
+elementType: sfr
+externalId: FCS_COP.1/KeyedHash
+aliases:
+  - fcs_cop_1_keyedhash
+  - FCS_COP.1/KeyedHash
+parent: fcs

@@ -1,0 +1,9 @@
+id: 560b9096-45aa-4379-a7a0-a5afa72351cf
+name: Specification of Management Functions
+description: The TSF shall be capable of the management functions it declares, such as enabling or disabling transmission of system information, PII and crash data.
+elementType: sfr
+externalId: FMT_SMF.1
+aliases:
+  - fmt_smf_1
+  - FMT_SMF.1
+parent: fmt

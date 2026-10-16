@@ -1,0 +1,9 @@
+id: 2e535873-f250-41d0-bc22-0b590abd5e8d
+name: Random Bit Generation (Internal Seeding - Multiple Sources)
+description: The TSF shall be able to seed the random bit generator using a defined number of software-based noise sources.
+elementType: sfr
+externalId: FCS_RBG.4
+aliases:
+  - fcs_rbg_4
+  - FCS_RBG.4
+parent: fcs
