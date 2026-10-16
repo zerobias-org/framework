@@ -1,0 +1,9 @@
+id: a47fabfd-2aff-491e-bc4f-32b47fe1842a
+name: Non-Exportable Key Isolation
+description: Non-exportable key storage SHALL be designed to prohibit the export of the secret keys to the host processor...
+elementType: criterion
+externalId: CKS-3
+aliases:
+  - cks_3
+  - CKS-3
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 66c0ee75-013b-442d-a1e6-7b1497997097
+name: TOTP Change Frequency
+description: If the nonce used to generate the authenticator output is based on a real-time clock, the nonce SHALL be changed at least once every two minutes.
+elementType: criterion
+externalId: SFOA-3
+aliases:
+  - sfoa_3
+  - SFOA-3
+parent: sp800_63b

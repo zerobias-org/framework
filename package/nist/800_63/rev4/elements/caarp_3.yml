@@ -1,0 +1,9 @@
+id: 52ed45b3-968c-42da-a80c-5c7e19cabd15
+name: Additional Attribute Use Limitation
+description: These attributes SHALL be used solely for the stated purposes of the RP's functionality.
+elementType: criterion
+externalId: CAARP-3
+aliases:
+  - caarp_3
+  - CAARP-3
+parent: sp800_63c

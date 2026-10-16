@@ -1,0 +1,9 @@
+id: adf77180-8af1-4b5a-be7b-cad16f9c0ff7
+name: Assertion Injection Protection
+description: At FAL2, the assertion SHALL be strongly protected from assertion injection attacks, as discussed in Sec. 3.11.1.
+elementType: criterion
+externalId: FAL2-1
+aliases:
+  - fal2_1
+  - FAL2-1
+parent: sp800_63c

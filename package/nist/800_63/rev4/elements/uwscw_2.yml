@@ -1,0 +1,9 @@
+id: 9de759c4-9d92-4e68-9179-65e386e98ada
+name: Wallet Activation Secrets
+description: Authenticator activation secrets SHALL meet the requirements of Sec. 3.2.10.
+elementType: criterion
+externalId: UWSCW-2
+aliases:
+  - uwscw_2
+  - UWSCW-2
+parent: sp800_63b

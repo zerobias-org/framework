@@ -1,0 +1,9 @@
+id: 062c2e2c-c4dc-4259-a609-af3bb15a7f58
+name: xAL Information in Assertion or Trust Agreement
+description: The assertion or trust agreement SHALL convey the IAL and proofing type, the AAL used at the IdP, and the IdP's intended FAL for the federation transaction.
+elementType: criterion
+externalId: ARTC-6
+aliases:
+  - artc_6
+  - ARTC-6
+parent: sp800_63c

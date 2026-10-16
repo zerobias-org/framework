@@ -1,0 +1,9 @@
+id: 495921bc-dc76-4b7a-a047-3a358718e092
+name: Session Secret Establishment
+description: Session binding secrets SHALL be sent from session host to RP or CSP over an authenticated protected channel or derived from mutually authenticated channel keys.
+elementType: criterion
+externalId: SB-8.3
+aliases:
+  - sb_8_3
+  - SB-8.3
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 999438f4-9336-4c48-9321-461e4d73afa4
+name: Attribute Bundle Invalidation Capability
+description: The CSP SHALL provide a means of invalidating attribute bundles that are issued to a subscriber-controlled wallet.
+elementType: criterion
+externalId: INVABSCW-1
+aliases:
+  - invabscw_1
+  - INVABSCW-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: e2242eee-595e-47ff-99a5-7019b16c470b
+name: Attribute Bundle Signing
+description: 'If the CSP issues attribute bundles to the RP: The CSP SHALL sign attribute bundles issued to the IdP.'
+elementType: criterion
+externalId: IDPAP-2
+aliases:
+  - idpap_2
+  - IDPAP-2
+parent: sp800_63c

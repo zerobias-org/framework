@@ -1,0 +1,9 @@
+id: 8cf2cf27-22c8-445d-9b80-3ca28069c745
+name: Assurance Levels - xAL Need Determination
+description: The RP SHALL identify which assurance level types, IAL, AAL and FAL, apply to its online service based on proofing, authentication and federation risks.
+elementType: criterion
+externalId: AL-1
+aliases:
+  - al_1
+  - AL-1
+parent: sp800_63

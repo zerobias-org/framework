@@ -1,0 +1,9 @@
+id: 2503bbe2-f5ea-490e-9093-2e77ea452988
+name: View Biometric Source
+description: At IAL3 with collocated agents, the CSP SHALL have the proofing agent view the source of the collected biometric for non-natural materials such as putty or glue.
+elementType: criterion
+externalId: IAL3-9
+aliases:
+  - ial3_9
+  - IAL3-9
+parent: sp800_63a

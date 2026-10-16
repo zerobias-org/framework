@@ -1,0 +1,9 @@
+id: 8a40242e-67c3-4051-8bdc-417cbb1cf413
+name: Digital Identity Acceptance Statement - CSP DIAS Elements
+description: A CSP's DIAS SHALL include the claimed xAL, related controls and rationale for deviations, plus all compensating and supplemental controls.
+elementType: criterion
+externalId: DIAS-5
+aliases:
+  - dias_5
+  - DIAS-5
+parent: sp800_63

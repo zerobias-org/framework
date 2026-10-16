@@ -1,0 +1,9 @@
+id: 1f5fc40b-b529-4b23-9a5d-e217965faf39
+name: Risk Assessment
+description: The CSP SHALL assess security and privacy risks of its identity service per the NIST RMF and apply at least SP 800-53 moderate baseline controls, regardless of IAL.
+elementType: criterion
+externalId: SECURITY-4
+aliases:
+  - security_4
+  - SECURITY-4
+parent: sp800_63a

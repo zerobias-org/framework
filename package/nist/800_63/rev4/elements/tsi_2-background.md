@@ -1,0 +1,3 @@
+**Applies to:** IdP · **Assurance level:** ALL · **Section:** SP 800-63C-4 3.10.1 B
+
+If an IdP discloses information on subscriber activities at an RP to any party, or processes the subscriber's attributes for any purpose other than these cases [Identity proofing, authentication, or attribute assertions (collectively "identity service"); A specific subscriber request to transmit the information; Fraud mitigation related to the identity service; or Responding to a security incident related to the identity service], the IdP SHALL implement measures to maintain predictability and manageability commensurate with the privacy risks that arise from the additional processing.

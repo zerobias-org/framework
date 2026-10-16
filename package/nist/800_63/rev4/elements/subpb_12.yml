@@ -1,0 +1,9 @@
+id: d188f1ad-8c4a-41ff-b17d-726d83dbbbd7
+name: Bound Authenticator Removal - No Prompt for Removed Authenticator
+description: The RP SHALL NOT prompt the subscriber to authenticate with a bound authenticator that is being removed, since it may be lost or compromised.
+elementType: criterion
+externalId: SUBPB-12
+aliases:
+  - subpb_12
+  - SUBPB-12
+parent: sp800_63c

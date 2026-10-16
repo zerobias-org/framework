@@ -1,0 +1,9 @@
+id: f3324f33-9fa8-4767-aeea-70c4fdec17b1
+name: OTP Verifier Key Protection
+description: Single-factor OTP symmetric keys held by the verifier SHALL be strongly protected against unauthorized disclosure by access controls limited to components requiring access.
+elementType: criterion
+externalId: SFOV-1
+aliases:
+  - sfov_1
+  - SFOV-1
+parent: sp800_63b

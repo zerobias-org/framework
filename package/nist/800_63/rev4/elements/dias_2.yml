@@ -1,0 +1,9 @@
+id: c60dfcec-6caa-4c33-9927-44195e3360c2
+name: Digital Identity Acceptance Statement - Incorporating External DIAS Information
+description: RPs who intend to use a particular CSP/IdP SHALL review the latter's DIAS and incorporate relevant information into the organization's DIAS for each online service.
+elementType: criterion
+externalId: DIAS-2
+aliases:
+  - dias_2
+  - DIAS-2
+parent: sp800_63

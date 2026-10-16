@@ -1,0 +1,9 @@
+id: b50255e3-5760-4341-88e2-412c11fb1ff2
+name: Account Recovery Requirement
+description: CSPs SHALL support one or more of the four account recovery mechanisms described.
+elementType: criterion
+externalId: ARM-1
+aliases:
+  - arm_1
+  - ARM-1
+parent: sp800_63b

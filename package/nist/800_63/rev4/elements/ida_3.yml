@@ -1,0 +1,9 @@
+id: da0f1cc8-5c3d-422a-ab1d-089ed3c9ed08
+name: Attribute Delivery Method Documentation
+description: Attributes SHALL be either presented in the assertion and covered by the assertion's signature or be made available as part of a protected identity API.
+elementType: criterion
+externalId: IDA-3
+aliases:
+  - ida_3
+  - IDA-3
+parent: sp800_63c

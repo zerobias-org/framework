@@ -1,0 +1,9 @@
+id: 20781eeb-890a-4b3a-829d-1ca08aee9c6a
+name: Artificial Intelligence and Machine Learning in Identity Systems - Disclosure to RPs
+description: The use of integrated technologies that leverage AI/ML by CSPs, IdPs, or verifiers SHALL be disclosed to all RPs that make access decisions based on information from these systems.
+elementType: criterion
+externalId: AIML-2
+aliases:
+  - aiml_2
+  - AIML-2
+parent: sp800_63

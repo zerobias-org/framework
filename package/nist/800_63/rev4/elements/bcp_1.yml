@@ -1,0 +1,9 @@
+id: 7f16b375-ec4d-4980-b0cf-18fc63f2fd44
+name: Tamper & Fabrication Resistant Assertion References
+description: The assertion reference itself contains no information about the subscriber and SHALL be resistant to tampering and fabrication by an attacker.
+elementType: criterion
+externalId: BCP-1
+aliases:
+  - bcp_1
+  - BCP-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: f32b20f2-f2a6-4c34-915e-956a958f8be5
+name: RP Security Controls for Personal Information
+description: RPs that request or process personal information SHALL employ tailored security controls from at least the SP 800-53 moderate baseline or an equivalent standard.
+elementType: criterion
+externalId: SECC-3
+aliases:
+  - secc_3
+  - SECC-3
+parent: sp800_63c

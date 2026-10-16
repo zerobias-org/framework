@@ -1,0 +1,9 @@
+id: 6a4bed25-8ed5-45e4-bfca-f8835e518166
+name: Intent Explicit
+description: For biometric authentication not requiring claimant action, an explicit mechanism such as tapping a button SHALL be provided to establish authentication intent.
+elementType: criterion
+externalId: AI-2
+aliases:
+  - ai_2
+  - AI-2
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: dce353d6-2de2-454b-8e88-7dab0d2cd3e1
+name: Runtime Decision Disclosure Terms
+description: During the runtime decision, the subscriber SHALL be told the attributes the RP will request, the purpose of each, and the RP's attribute storage policy.
+elementType: criterion
+externalId: SDTAE-4
+aliases:
+  - sdtae_4
+  - SDTAE-4
+parent: sp800_63c

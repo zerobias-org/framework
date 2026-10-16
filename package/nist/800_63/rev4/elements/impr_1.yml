@@ -1,0 +1,9 @@
+id: e6e86fdc-8eee-4135-8cfd-104854e0a05e
+name: Syncable Key User Verification
+description: Verifiers SHALL indicate that user verification (UV) is preferred and SHALL inspect responses to confirm the value of the UV flag.
+elementType: criterion
+externalId: IMPR-1
+aliases:
+  - impr_1
+  - IMPR-1
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 6ea34279-b8e7-4587-a0d7-13f3966c7c41
+name: IAL2 Pathway Record
+description: CSPs offering multiple verification pathways SHALL record which pathways achieved IAL2 in the subscriber record and make that information available to RPs.
+elementType: criterion
+externalId: IAL2-7
+aliases:
+  - ial2_7
+  - IAL2-7
+parent: sp800_63a

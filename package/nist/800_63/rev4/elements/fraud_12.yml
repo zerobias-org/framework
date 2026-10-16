@@ -1,0 +1,9 @@
+id: 2591e1b9-ffb6-4e77-9bdd-af3907b7e97d
+name: AI and ML
+description: CSPs that employ artificial intelligence (AI) or machine learning (ML) as part of their identity service SHALL adhere to the requirements provided in Sec. 3.8 of [SP800-63], as applicable.
+elementType: criterion
+externalId: FRAUD-12
+aliases:
+  - fraud_12
+  - FRAUD-12
+parent: sp800_63a

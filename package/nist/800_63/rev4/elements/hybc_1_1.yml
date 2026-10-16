@@ -1,0 +1,9 @@
+id: 03da69aa-b53c-4803-86c8-d975c33bf9a4
+name: Hybrid Connection Proximity
+description: The wireless data SHALL be conveyed over a technology with a maximum effective range of no more than 240 meters.
+elementType: criterion
+externalId: HYBC-1.1
+aliases:
+  - hybc_1_1
+  - HYBC-1.1
+parent: sp800_63b

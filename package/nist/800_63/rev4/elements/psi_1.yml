@@ -1,0 +1,9 @@
+id: 42d7e053-ffa7-40fb-94b2-d957083a4052
+name: IdP-RP Communication Protection
+description: Communications between the IdP and the RP SHALL be protected in transit using an authenticated protected channel.
+elementType: criterion
+externalId: PSI-1
+aliases:
+  - psi_1
+  - PSI-1
+parent: sp800_63c

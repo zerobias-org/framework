@@ -1,0 +1,9 @@
+id: 8f9ac7b5-c3f4-4b8a-a7c6-695bd1592e34
+name: Look-Up Secret Rate Limiting
+description: The verifier SHALL implement a rate-limiting mechanism that effectively limits the number of failed authentication attempts that can be made on the subscriber account, as described in Sec. 3.2.2.
+elementType: criterion
+externalId: LSV-9
+aliases:
+  - lsv_9
+  - LSV-9
+parent: sp800_63b

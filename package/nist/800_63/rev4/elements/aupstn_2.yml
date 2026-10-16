@@ -1,0 +1,9 @@
+id: f352219f-9a8c-428c-90bb-2cd62c9bd1b1
+name: Pstn Modification Binding
+description: Setting or changing the pre-registered telephone number is considered to be the binding of a new authenticator and SHALL only occur as described in Sec. 4.1.2.
+elementType: criterion
+externalId: AUPSTN-2
+aliases:
+  - aupstn_2
+  - AUPSTN-2
+parent: sp800_63b

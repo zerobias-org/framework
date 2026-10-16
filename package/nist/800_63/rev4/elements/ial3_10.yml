@@ -1,0 +1,9 @@
+id: 90af6e48-471f-4c25-8918-3577c18b0a0f
+name: Biometric Collection Source
+description: At IAL3 with collocated agents, the CSP SHALL have the proofing agent collect biometric samples so the sample is ensured to come from the applicant and no other source.
+elementType: criterion
+externalId: IAL3-10
+aliases:
+  - ial3_10
+  - IAL3-10
+parent: sp800_63a

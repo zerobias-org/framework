@@ -1,0 +1,9 @@
+id: f3280ce3-4090-4d87-9dc0-7d69f2b9c3f4
+name: Biometric Testing Standards
+description: All biometric performance tests SHALL be conformant to ISO/IEC 19795-1:2021 and ISO/IEC 19795-10:2024, including demographics testing.
+elementType: criterion
+externalId: BIO-16
+aliases:
+  - bio_16
+  - BIO-16
+parent: sp800_63a

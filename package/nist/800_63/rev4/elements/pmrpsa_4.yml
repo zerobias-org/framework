@@ -1,0 +1,9 @@
+id: 4ba57e13-0013-493a-8dce-2d99f83f7973
+name: Pre-Provisioning Privacy Considerations
+description: The privacy considerations of the RP having access to this information prior to a federation transaction SHALL be accounted for in the trust agreement.
+elementType: criterion
+externalId: PMRPSA-4
+aliases:
+  - pmrpsa_4
+  - PMRPSA-4
+parent: sp800_63c

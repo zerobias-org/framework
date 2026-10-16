@@ -1,0 +1,9 @@
+id: 8bc73c3f-d188-4d6b-ada3-1f083b6ba4f4
+name: Key Rotation Documentation
+description: The allowable update process for any identifiers and cryptographic keys SHALL be defined by the trust agreement.
+elementType: criterion
+externalId: CKR-1
+aliases:
+  - ckr_1
+  - CKR-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 0676795f-b8de-4b53-98d9-53982c8638c9
+name: MF Crypto Verifier Requirements
+description: Requirements for a multi-factor cryptographic verifier are identical to those for a single-factor cryptographic verifier.
+elementType: criterion
+externalId: MFCFIERS-0.5
+aliases:
+  - mfcfiers_0_5
+  - MFCFIERS-0.5
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 5ccd85fc-4ee2-47ba-8cc1-af5d97502f7e
+name: Subscriber Identifier
+description: The CSP SHALL assign a unique identifier to each subscriber account.
+elementType: criterion
+externalId: SUB-2
+aliases:
+  - sub_2
+  - SUB-2
+parent: sp800_63a

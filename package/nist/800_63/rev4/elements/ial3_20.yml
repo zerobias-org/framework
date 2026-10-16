@@ -1,0 +1,9 @@
+id: 791df7e2-bcc5-4a5c-8dc5-88226c806aff
+name: IAL3 Kiosk-Based Security Controls
+description: For IAL3 kiosk-based proofing, agent-applicant devices SHALL have baseline security comparable to at least FISMA moderate, including malware protection and software updates.
+elementType: criterion
+externalId: IAL3-20
+aliases:
+  - ial3_20
+  - IAL3-20
+parent: sp800_63a

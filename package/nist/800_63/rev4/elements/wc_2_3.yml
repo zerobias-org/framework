@@ -1,0 +1,9 @@
+id: 8be4144c-256b-447e-86be-06fd902a3f99
+name: Wireless Authenticator Association Methods
+description: If an association process is used, the pairing code SHALL be conveyed between the devices by manual entry or using a QR code or similar representation that is optically communicated.
+elementType: criterion
+externalId: WC-2.3
+aliases:
+  - wc_2_3
+  - WC-2.3
+parent: sp800_63b

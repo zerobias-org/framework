@@ -1,0 +1,9 @@
+id: 6c743868-f360-42a6-93c1-487ab8139718
+name: Syncable Private-Key Operations Local
+description: All authentication transactions SHALL perform private-key operations on the local device using cryptographic keys that are generated on-device or recovered from the sync fabric.
+elementType: criterion
+externalId: CAK-3
+aliases:
+  - cak_3
+  - CAK-3
+parent: sp800_63b

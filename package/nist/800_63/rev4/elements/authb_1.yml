@@ -1,0 +1,9 @@
+id: de2ad5b6-6999-401b-a573-7938560b4f2a
+name: Authenticator Binding Requirements
+description: 'Authenticators SHALL be bound to subscriber accounts by either: being issued by the CSP as part of enrollment; or using a subscriber-provided authenticator that is acceptable to the CSP.'
+elementType: criterion
+externalId: AUTHB-1
+aliases:
+  - authb_1
+  - AUTHB-1
+parent: sp800_63b

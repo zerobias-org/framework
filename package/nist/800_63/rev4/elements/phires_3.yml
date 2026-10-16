@@ -1,0 +1,9 @@
+id: e9109616-4f9d-475e-a871-d57e99a69327
+name: Phishing Resistance Manual Prohibition
+description: Authenticators requiring manual entry of an output, such as out-of-band and OTP authenticators, SHALL NOT be considered phishing-resistant.
+elementType: criterion
+externalId: PHIRES-3
+aliases:
+  - phires_3
+  - PHIRES-3
+parent: sp800_63b

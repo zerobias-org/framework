@@ -1,0 +1,9 @@
+id: 939e0fe7-4085-45a4-b8f2-5d2cada8f2c2
+name: MF Exportable Authentication Key Protection
+description: Multi-factor cryptographic authentication keys accessible to the endpoint SHALL be strongly protected against unauthorized disclosure by access controls limited to needed components.
+elementType: criterion
+externalId: MFCTORS-3
+aliases:
+  - mfctors_3
+  - MFCTORS-3
+parent: sp800_63b

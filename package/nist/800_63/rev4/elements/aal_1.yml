@@ -1,0 +1,9 @@
+id: a44d5ae5-1a4f-4dab-8fb4-19aff7b82090
+name: AAL Minimum Requirements
+description: To satisfy a given AAL, a claimant SHALL authenticate to an RP or IdP with a process whose strength is equal to or greater than the requirements at that level.
+elementType: criterion
+externalId: AAL-1
+aliases:
+  - aal_1
+  - AAL-1
+parent: sp800_63b

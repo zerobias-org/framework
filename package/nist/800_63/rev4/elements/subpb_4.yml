@@ -1,0 +1,9 @@
+id: fc1a35e8-f867-48f6-9457-429c27481bdc
+name: Binding Ceremony Authenticator Identifier Storage
+description: Upon successful authenticator presentation in a binding ceremony, the RP SHALL store a unique authenticator identifier and associate it with the federated RP subscriber account.
+elementType: criterion
+externalId: SUBPB-4
+aliases:
+  - subpb_4
+  - SUBPB-4
+parent: sp800_63c

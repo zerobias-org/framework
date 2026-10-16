@@ -1,0 +1,9 @@
+id: dfc775aa-d0ea-42d2-9b70-2310c675d86c
+name: Dynamic Registration Channel Protection
+description: All transmission of configuration information SHALL be made over a secure protected channel to endpoints that are associated with the IdP's identifier by the trust agreement.
+elementType: criterion
+externalId: DYR-1
+aliases:
+  - dyr_1
+  - DYR-1
+parent: sp800_63c

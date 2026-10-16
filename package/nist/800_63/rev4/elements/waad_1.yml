@@ -1,0 +1,9 @@
+id: 5f30042a-3ffe-47c1-8d8b-ca9b21de9555
+name: Wallet Subscriber Transaction Authorization
+description: Whether a wallet federation transaction proceeds and attributes are released to the RP SHALL be determined by the subscriber as the authorized party.
+elementType: criterion
+externalId: WAAD-1
+aliases:
+  - waad_1
+  - WAAD-1
+parent: sp800_63c

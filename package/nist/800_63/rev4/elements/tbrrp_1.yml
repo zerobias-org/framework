@@ -1,0 +1,9 @@
+id: d6211f59-b210-4bab-ad2e-f8e69392c543
+name: Time-Based Termination Notice and Reactivation
+description: When processing an inactive account, the RP SHALL give the subscriber sufficient notice of pending termination and an option to re-activate it beforehand.
+elementType: criterion
+externalId: TBRRP-1
+aliases:
+  - tbrrp_1
+  - TBRRP-1
+parent: sp800_63c

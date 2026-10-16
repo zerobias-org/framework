@@ -1,0 +1,9 @@
+id: ce2b22af-b373-435c-9279-616738170072
+name: Verifier Blocklist Response
+description: If the chosen password is found on the blocklist, the CSP SHALL require the subscriber to select a different secret and SHALL provide the reason for rejection.
+elementType: criterion
+externalId: PV-10
+aliases:
+  - pv_10
+  - PV-10
+parent: sp800_63b

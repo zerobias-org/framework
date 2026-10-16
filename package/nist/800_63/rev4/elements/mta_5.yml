@@ -1,0 +1,9 @@
+id: a4e38c7a-a92c-470e-8bc4-aa159384fecf
+name: 'MTA Vetting: Subscriber Authenticators'
+description: Vetting of CSPs, IdPs, and RPs SHALL establish that authenticators used at the IdP or CSP to authenticate the subscriber are used in accordance with SP 800-63B.
+elementType: criterion
+externalId: MTA-5
+aliases:
+  - mta_5
+  - MTA-5
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: f66c598c-1aaf-4a54-806c-26206b50d0b1
+name: PPIs Unique to Each RP
+description: Unless the PPI is designated as shared by the trust agreement, the PPI SHALL be disclosed to only a single RP.
+elementType: criterion
+externalId: PPI-7
+aliases:
+  - ppi_7
+  - PPI-7
+parent: sp800_63c

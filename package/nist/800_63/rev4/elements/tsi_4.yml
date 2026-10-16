@@ -1,0 +1,9 @@
+id: 882c0724-72a6-4182-847e-ea216002ba64
+name: RP Subscriber Activity Transmission Limits
+description: An RP SHALL limit transmitting subscriber activities to the IdP to fraud mitigation or security incident response, only if stipulated in the trust agreement.
+elementType: criterion
+externalId: TSI-4
+aliases:
+  - tsi_4
+  - TSI-4
+parent: sp800_63c

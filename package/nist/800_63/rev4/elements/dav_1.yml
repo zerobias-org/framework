@@ -1,0 +1,9 @@
+id: 7eccf116-90e3-482e-abac-273419c3b0b0
+name: Derived Attribute Value Non-Disclosure
+description: To preserve privacy, derived attribute values SHALL NOT disclose the underlying attribute value to a requester.
+elementType: criterion
+externalId: DAV-1
+aliases:
+  - dav_1
+  - DAV-1
+parent: sp800_63c

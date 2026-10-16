@@ -1,0 +1,9 @@
+id: a7f06969-a25b-4321-9770-8867e23846d3
+name: Separate Verifier Mutually Authenticated Channel
+description: If the verifier and CSP or IdP are separate entities, they SHALL communicate through a mutually authenticated protected channel using approved cryptography.
+elementType: criterion
+externalId: VCIC-1
+aliases:
+  - vcic_1
+  - VCIC-1
+parent: sp800_63b

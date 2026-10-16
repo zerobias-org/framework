@@ -1,0 +1,9 @@
+id: dd352ae7-4529-49e6-a378-cba7b02c7159
+name: IAL, AAL, & FAL Reporting
+description: Consequently, the IdP SHALL provide the RP with sufficient information to determine the IAL, AAL, and the IdP's intended FAL for each federation transaction.
+elementType: criterion
+externalId: RXAL-10
+aliases:
+  - rxal_10
+  - RXAL-10
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: e434fc29-855e-408a-9c90-5763d6534a09
+name: HoK Authenticator Account Resolution
+description: When the RP first encounters an authenticator in a holder-of-key assertion, the RP SHALL ensure it can be uniquely resolved to the RP subscriber account.
+elementType: criterion
+externalId: HKA-4
+aliases:
+  - hka_4
+  - HKA-4
+parent: sp800_63c

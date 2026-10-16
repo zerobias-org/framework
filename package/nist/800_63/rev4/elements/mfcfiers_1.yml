@@ -1,0 +1,9 @@
+id: 3fb2bb62-0b10-4fb6-a97f-f5f32caea424
+name: MF Crypto Activation Flag
+description: If a flag indicating use of an activation factor is present and indicates that an activation factor was not used, the authentication SHALL be treated as single-factor.
+elementType: criterion
+externalId: MFCFIERS-1
+aliases:
+  - mfcfiers_1
+  - MFCFIERS-1
+parent: sp800_63b

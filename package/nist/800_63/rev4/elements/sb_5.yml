@@ -1,0 +1,9 @@
+id: 523ed921-7f41-4ca1-a6c4-4e43ec99f594
+name: Session Lifetime Limits
+description: However, RPs and CSPs SHALL ensure that the session lifetime limits described in Sec. 2.2.3 are enforced even when a knowledge of the session secret is demonstrated.
+elementType: criterion
+externalId: SB-5
+aliases:
+  - sb_5
+  - SB-5
+parent: sp800_63b

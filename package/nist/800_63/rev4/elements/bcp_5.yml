@@ -1,0 +1,9 @@
+id: 255210dd-6f0e-4567-88f4-8d63dcec417d
+name: RP Authentication at Assertion Reference Redemption
+description: In back-channel presentation, the assertion reference SHALL be presented along with authentication of the RP to the IdP.
+elementType: criterion
+externalId: BCP-5
+aliases:
+  - bcp_5
+  - BCP-5
+parent: sp800_63c

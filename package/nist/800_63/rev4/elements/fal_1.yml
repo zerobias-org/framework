@@ -1,0 +1,9 @@
+id: f002e578-47f9-45ac-b9d6-ba2b5bcc5584
+name: FAL Compliance
+description: In order to fulfill the requirements for a given FAL, the federation transaction SHALL meet or exceed all requirements listed for that FAL.
+elementType: criterion
+externalId: FAL-1
+aliases:
+  - fal_1
+  - FAL-1
+parent: sp800_63c

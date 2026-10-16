@@ -1,0 +1,9 @@
+id: 2e899401-223f-490a-a5cc-47070337f9ed
+name: Pstn Restricted
+description: Use of the PSTN for out-of-band verification is restricted as described in this section and SHALL satisfy the requirements of Sec. 3.2.9.
+elementType: criterion
+externalId: AUPSTN-1
+aliases:
+  - aupstn_1
+  - AUPSTN-1
+parent: sp800_63b

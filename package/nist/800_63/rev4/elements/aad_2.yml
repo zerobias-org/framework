@@ -1,0 +1,9 @@
+id: d326411a-626d-45a8-b9a5-a4fe012eca88
+name: RP Attribute Use Limitation
+description: A subscriber's identity attributes SHALL NOT be used by the RP for purposes other than those stipulated in the trust agreement unless the subscriber specifically consents to such purposes.
+elementType: criterion
+externalId: AAD-2
+aliases:
+  - aad_2
+  - AAD-2
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: db8a3da2-86d3-4f7c-9149-c08951b213a4
+name: Attribute Bundle Status Verification Privacy
+description: CSPs SHOULD offer independent attribute bundle status verification, and any such service SHALL not alert the CSP to a bundle's use at a specific RP.
+elementType: criterion
+externalId: INVABSCW-2
+aliases:
+  - invabscw_2
+  - INVABSCW-2
+parent: sp800_63c

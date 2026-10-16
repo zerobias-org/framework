@@ -1,0 +1,9 @@
+id: 944c92d2-eeb9-41f5-ae47-d15ba06ccc42
+name: Privacy Act Analysis
+description: The agency SHALL consult its SAOP to determine whether Privacy Act requirements are triggered by the agency acting as IdP, as RP, or both.
+elementType: criterion
+externalId: PRIVR-1
+aliases:
+  - privr_1
+  - PRIVR-1
+parent: sp800_63c

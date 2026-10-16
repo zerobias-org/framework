@@ -1,0 +1,9 @@
+id: 24713903-4156-4f22-ab34-023d5cfcf02f
+name: AAL2 Replay Resistance
+description: At least one authenticator used at AAL2 SHALL be replay-resistant, as described in Sec. 3.2.7.
+elementType: criterion
+externalId: AAL2AVR-3
+aliases:
+  - aal2avr_3
+  - AAL2AVR-3
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: bc83e827-165e-4c45-afa0-e7793715e3cf
+name: Manipulated Media Detection
+description: For remote attended scenarios, CSPs SHALL train proofing agents and trusted referees to look for indications of manipulated media.
+elementType: criterion
+externalId: DIGINJ-6
+aliases:
+  - diginj_6
+  - DIGINJ-6
+parent: sp800_63a

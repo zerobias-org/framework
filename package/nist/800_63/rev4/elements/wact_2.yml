@@ -1,0 +1,9 @@
+id: b3915a5d-6aba-4a9c-9092-5fd509ef18db
+name: Wallet Activation Separation from Device Unlock
+description: On subscriber-controlled devices, wallet activation SHALL be a separate operation from unlocking the host device, though the same activation factor MAY be used.
+elementType: criterion
+externalId: WACT-2
+aliases:
+  - wact_2
+  - WACT-2
+parent: sp800_63c

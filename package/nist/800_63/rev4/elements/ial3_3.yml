@@ -1,0 +1,9 @@
+id: f5fc81b1-a29e-498a-b3ac-477d643b867e
+name: IAL3 Attribute Collection
+description: The CSP SHALL collect all core attributes, including at least one government identifier.
+elementType: criterion
+externalId: IAL3-3
+aliases:
+  - ial3_3
+  - IAL3-3
+parent: sp800_63a

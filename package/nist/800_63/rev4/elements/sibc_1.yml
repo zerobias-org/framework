@@ -1,0 +1,9 @@
+id: ddf0a3c2-6e93-4259-a9b3-89b9efa54cf1
+name: CSP/IdP Information Transmission Limitations
+description: All information transmissions between CSPs and/or IdPs SHALL be subject to the limitations for IdPs enumerated in Sec. 3.10.1.
+elementType: criterion
+externalId: SIBC-1
+aliases:
+  - sibc_1
+  - SIBC-1
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 3d1ebb80-4758-4d42-afea-d11ddc77d438
+name: TR Usage Record
+description: The CSP SHALL record each proofing session involving a trusted referee, including the reason, referee identity, evidence, processes completed and decision rationale.
+elementType: criterion
+externalId: EXCEPT-5
+aliases:
+  - except_5
+  - EXCEPT-5
+parent: sp800_63a

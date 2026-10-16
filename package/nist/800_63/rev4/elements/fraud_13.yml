@@ -1,0 +1,9 @@
+id: 263c2120-30b0-4c25-95d5-8e315ef7fa21
+name: Fraud POC
+description: RPs SHALL establish a point of contact with whom CSPs can interact and communicate fraud data.
+elementType: criterion
+externalId: FRAUD-13
+aliases:
+  - fraud_13
+  - FRAUD-13
+parent: sp800_63a

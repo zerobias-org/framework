@@ -1,0 +1,9 @@
+id: 85e28072-0979-44d8-91fb-ef2b00342b76
+name: AAL3 FIPS140 Authenticators
+description: Single-factor and multi-factor authenticators used at AAL3 SHALL be validated to meet the requirements of [FIPS140] Level 1 or higher overall.
+elementType: criterion
+externalId: AAL3AVR-6
+aliases:
+  - aal3avr_6
+  - AAL3AVR-6
+parent: sp800_63b

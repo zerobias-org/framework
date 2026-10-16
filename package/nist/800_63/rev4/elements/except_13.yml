@@ -1,0 +1,9 @@
+id: 2a8bef5c-8257-44c1-af68-62796e1bf826
+name: Applicant Reference Record
+description: The CSP SHALL record the use of an applicant reference in the subscriber account and maintain a record of the applicant reference and their relationship to the applicant.
+elementType: criterion
+externalId: EXCEPT-13
+aliases:
+  - except_13
+  - EXCEPT-13
+parent: sp800_63a

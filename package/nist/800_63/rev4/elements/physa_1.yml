@@ -1,0 +1,9 @@
+id: 7f241315-8ca9-4f07-9dbf-37662237cbed
+name: Physical Authenticator Instructions
+description: CSPs SHALL provide subscriber instructions for appropriately protecting the authenticator against theft or loss.
+elementType: criterion
+externalId: PHYSA-1
+aliases:
+  - physa_1
+  - PHYSA-1
+parent: sp800_63b

@@ -1,0 +1,9 @@
+id: 6c4e806d-6f83-4778-b9ef-1835d2cb2c83
+name: 'MTA Vetting: RP Data Handling'
+description: Vetting of CSPs, IdPs, and RPs SHALL establish that RPs follow subscriber attribute handling rules on retention, aggregation, deletion, and third-party disclosure.
+elementType: criterion
+externalId: MTA-7
+aliases:
+  - mta_7
+  - MTA-7
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: 4e67dbaa-faa3-400d-9acf-3302b3e1986b
+name: Saved Recovery Code Rate Limitation
+description: The verification of saved recovery codes SHALL be subject to the throttling requirements in Sec. 3.2.2.
+elementType: criterion
+externalId: SRC-3
+aliases:
+  - src_3
+  - SRC-3
+parent: sp800_63b

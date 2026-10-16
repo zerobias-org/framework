@@ -1,0 +1,9 @@
+id: f3ba3fbf-8073-4820-b00d-303ec72ce05f
+name: Wireless Authenticator Pairing Code
+description: If an association process is used, it SHALL employ a pairing code or other shared secret between the devices.
+elementType: criterion
+externalId: WC-2.1
+aliases:
+  - wc_2_1
+  - WC-2.1
+parent: sp800_63b

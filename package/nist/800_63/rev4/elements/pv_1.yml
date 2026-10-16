@@ -1,0 +1,9 @@
+id: 277d0e6b-d6ea-4c11-ae15-d9dac06ba201
+name: Password Length
+description: Verifiers and CSPs SHALL require single-factor passwords to be at least 15 characters and passwords used only in multi-factor authentication to be at least eight characters.
+elementType: criterion
+externalId: PV-1
+aliases:
+  - pv_1
+  - PV-1
+parent: sp800_63b

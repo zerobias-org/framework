@@ -1,0 +1,9 @@
+id: 03f22409-65c9-4523-a492-4347807baeb8
+name: Wireless Authenticator Pairing Code Use
+description: A pairing code SHALL be used if the authenticator is configured to require authenticated pairing.
+elementType: criterion
+externalId: WC-4
+aliases:
+  - wc_4
+  - WC-4
+parent: sp800_63b

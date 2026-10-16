@@ -1,0 +1,9 @@
+id: 2ef95ada-96cf-4b61-99ca-f3d33df4d363
+name: Non-Exportable Storage Immutability
+description: Non-exportable key storage... SHALL NOT be capable of being reprogrammed by the host processor to allow the secret keys to be extracted.
+elementType: criterion
+externalId: CKS-4
+aliases:
+  - cks_4
+  - CKS-4
+parent: sp800_63c

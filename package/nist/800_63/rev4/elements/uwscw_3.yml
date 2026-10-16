@@ -1,0 +1,9 @@
+id: 24951cb3-de42-46ff-8111-c7e3f6b066aa
+name: Wallet Biometric Requirements
+description: Biometric activation factors SHALL meet the requirements of Sec. 3.2.3, including limits on the number of consecutive authentication failures.
+elementType: criterion
+externalId: UWSCW-3
+aliases:
+  - uwscw_3
+  - UWSCW-3
+parent: sp800_63b

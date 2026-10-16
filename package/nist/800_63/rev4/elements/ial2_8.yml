@@ -1,0 +1,9 @@
+id: ec4af416-9b45-4a3a-84c4-040011d57ed0
+name: IAL2 Pathway Assertion
+description: CSPs that offer multiple verification pathways SHALL make that information available to RPs in the assertion, API, or as part of their trust agreement.
+elementType: criterion
+externalId: IAL2-8
+aliases:
+  - ial2_8
+  - IAL2-8
+parent: sp800_63a

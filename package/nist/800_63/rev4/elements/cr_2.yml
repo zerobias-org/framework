@@ -1,0 +1,9 @@
+id: 7aea6089-731c-4358-9a75-3ac56d14ee03
+name: CSP Publication of Wallet Ecosystem Information
+description: CSPs SHALL publish to a trusted location the attributes in wallet bundles, attributes wallets can release, the account population, and associated IALs.
+elementType: criterion
+externalId: CR-2
+aliases:
+  - cr_2
+  - CR-2
+parent: sp800_63c

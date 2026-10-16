@@ -1,0 +1,9 @@
+id: ff40da06-34d1-4a8b-b565-b2988d02aded
+name: FAL1 RP Assertion Replay Protection
+description: Each RP in the [assertion] audience SHALL enforce replay protection mechanisms in the assertion to ensure that the same assertion is not accepted by a given RP multiple times.
+elementType: criterion
+externalId: FAL1-5
+aliases:
+  - fal1_5
+  - FAL1-5
+parent: sp800_63c

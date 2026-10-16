@@ -1,0 +1,9 @@
+id: 8f95c458-91d5-4be4-a719-413174609c12
+name: RP Assertion Replay Protection Enforcement
+description: The RP SHALL enforce replay protection mechanisms in the assertion.
+elementType: criterion
+externalId: FAL2-4
+aliases:
+  - fal2_4
+  - FAL2-4
+parent: sp800_63c

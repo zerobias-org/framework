@@ -1,0 +1,9 @@
+id: fa391fb2-20c4-493e-8171-93d2278a9350
+name: CSP-Wallet Trust Agreement
+description: There SHALL be a trust agreement between the CSP and the subscriber-controlled wallets into which they issue attribute bundles.
+elementType: criterion
+externalId: CSCW-1
+aliases:
+  - cscw_1
+  - CSCW-1
+parent: sp800_63c

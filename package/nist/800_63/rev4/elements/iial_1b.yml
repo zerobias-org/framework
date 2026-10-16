@@ -1,0 +1,9 @@
+id: 65042015-c733-4069-9f57-a234a2090884
+name: Initial IAL - Selection
+description: If identity proofing is required for their application, the organization SHALL select an initial IAL for each user group based on the effective impact level determination from Sec. 3.2.4.
+elementType: criterion
+externalId: IIAL-1b
+aliases:
+  - iial_1b
+  - IIAL-1b
+parent: sp800_63

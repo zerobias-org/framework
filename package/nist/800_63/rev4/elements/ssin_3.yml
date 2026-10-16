@@ -1,0 +1,9 @@
+id: 06e3959f-b597-480f-b730-44c7afe0d57f
+name: Attribute Removal Upon Account Termination
+description: When an RP subscriber account is terminated, the RP SHALL remove all subscriber attributes from storage unless restricted by law, regulation, policy, or essential risk.
+elementType: criterion
+externalId: SSIN-3
+aliases:
+  - ssin_3
+  - SSIN-3
+parent: sp800_63c

@@ -1,0 +1,9 @@
+id: ac736b09-9abd-499f-a163-20f3d31cfce1
+name: IAL2 Evidence Collection
+description: 'For identity proofing at IAL2, the CSP SHALL collect: one piece of FAIR evidence and one piece of STRONG evidence; OR, two pieces of STRONG evidence; OR, one piece of SUPERIOR evidence.'
+elementType: criterion
+externalId: IAL2-2
+aliases:
+  - ial2_2
+  - IAL2-2
+parent: sp800_63a

@@ -1,0 +1,9 @@
+id: f36f1954-c3f2-4da5-b1fc-0412bd5f18cd
+name: Salt Requirements
+description: The salt SHALL be at least 32 bits in length and chosen to minimize salt value collisions among stored hashes (i.e., to prevent multiple subscriber accounts from having the same hashed password).
+elementType: criterion
+externalId: PV-17
+aliases:
+  - pv_17
+  - PV-17
+parent: sp800_63b

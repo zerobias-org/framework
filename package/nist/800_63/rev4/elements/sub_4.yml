@@ -1,0 +1,9 @@
+id: 13c2340a-b7dd-4c75-a96f-da534620297c
+name: Subscriber Account Access
+description: The CSP SHALL provide the capability for subscribers to authenticate and access information in their subscriber account.
+elementType: criterion
+externalId: SUB-4
+aliases:
+  - sub_4
+  - SUB-4
+parent: sp800_63a

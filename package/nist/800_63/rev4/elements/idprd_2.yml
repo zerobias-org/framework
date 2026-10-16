@@ -1,0 +1,9 @@
+id: 285ff01f-4ec1-4be2-814e-6bc2ff2aad45
+name: 'RP Not on Allowlist: Attribute Release Consent'
+description: The IdP SHALL provide the authorized party with explicit notice and prompt them for positive confirmation before any attributes about the subscriber are transmitted to the RP.
+elementType: criterion
+externalId: IDPRD-2
+aliases:
+  - idprd_2
+  - IDPRD-2
+parent: sp800_63c

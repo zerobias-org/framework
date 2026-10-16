@@ -1,0 +1,9 @@
+id: f25cd98a-98d4-494a-879c-49296dd6e1f1
+name: Account Linking Authentication Requirement
+description: If the RP allows a subscriber to link multiple subscriber accounts..., the RP SHALL require an authenticated session with the subscriber account for all linking functions.
+elementType: criterion
+externalId: ACCL-1
+aliases:
+  - accl_1
+  - ACCL-1
+parent: sp800_63c

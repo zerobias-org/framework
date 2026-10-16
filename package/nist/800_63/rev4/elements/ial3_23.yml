@@ -1,0 +1,9 @@
+id: 1796a70d-dced-4b77-8a12-7b264b868247
+name: IAL3 Authenticator Binding
+description: The CSP SHALL distribute or enroll the subscriber's initial authenticator during an on-site attended interaction with a proofing agent.
+elementType: criterion
+externalId: IAL3-23
+aliases:
+  - ial3_23
+  - IAL3-23
+parent: sp800_63a

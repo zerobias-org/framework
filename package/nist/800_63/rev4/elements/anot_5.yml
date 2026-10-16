@@ -1,0 +1,9 @@
+id: 760c59c3-d87e-4e93-814f-4c574932e5b0
+name: Postal Notification
+description: However, notifications SHALL be sent to postal addresses if no other form of notification address is stored in the subscriber account or if the notification is for account recovery at AAL3.
+elementType: criterion
+externalId: ANOT-5
+aliases:
+  - anot_5
+  - ANOT-5
+parent: sp800_63b

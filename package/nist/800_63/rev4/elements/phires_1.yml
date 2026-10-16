@@ -1,0 +1,9 @@
+id: 37ba63ba-629d-41df-a949-7665eff90f5d
+name: Phishing Resistance Approved Algorithms
+description: Approved cryptographic algorithms SHALL be used to establish phishing resistance where required.
+elementType: criterion
+externalId: PHIRES-1
+aliases:
+  - phires_1
+  - PHIRES-1
+parent: sp800_63b

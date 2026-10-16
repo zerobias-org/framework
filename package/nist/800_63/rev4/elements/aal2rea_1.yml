@@ -1,0 +1,9 @@
+id: 32ceef8a-39e9-470e-8d73-68069c96b81b
+name: AAL2 Reauthentication
+description: Periodic reauthentication of subscriber sessions SHALL be performed, as described in Sec. 5.2.
+elementType: criterion
+externalId: AAL2REA-1
+aliases:
+  - aal2rea_1
+  - AAL2REA-1
+parent: sp800_63b

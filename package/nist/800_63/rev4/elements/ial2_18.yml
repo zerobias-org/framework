@@ -1,0 +1,9 @@
+id: 27d9481b-8f9a-477d-8fd2-a929af5e0513
+name: IAL2 Injection Protection
+description: For Remote Attended identity proofing, the CSP SHALL implement injection protection and modified media controls, as defined in Sec. 3.14.
+elementType: criterion
+externalId: IAL2-18
+aliases:
+  - ial2_18
+  - IAL2-18
+parent: sp800_63a
