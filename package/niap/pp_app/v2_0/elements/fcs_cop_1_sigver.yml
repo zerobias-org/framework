@@ -1,0 +1,9 @@
+id: d25d9c6e-4272-46d6-945c-12d72f6f4f88
+name: Cryptographic Operation - Signing Verification
+description: The application shall verify digital signatures using CNSA 2.0 LMS, XMSS or ML-DSA-87, or CNSA 1.0 RSA or ECDSA schemes.
+elementType: sfr
+externalId: FCS_COP.1/SigVer
+aliases:
+  - fcs_cop_1_sigver
+  - FCS_COP.1/SigVer
+parent: fcs

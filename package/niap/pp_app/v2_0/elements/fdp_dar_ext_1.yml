@@ -1,0 +1,9 @@
+id: 31b01faf-3204-401d-b23a-08e8ca9bcfce
+name: Encryption Of Sensitive Application Data
+description: The application shall protect sensitive data in non-volatile memory by platform or own encryption, by credential storage per FCS_STO_EXT.1, or by not storing it.
+elementType: sfr
+externalId: FDP_DAR_EXT.1
+aliases:
+  - fdp_dar_ext_1
+  - FDP_DAR_EXT.1
+parent: fdp

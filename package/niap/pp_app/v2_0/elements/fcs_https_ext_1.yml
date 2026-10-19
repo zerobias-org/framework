@@ -1,0 +1,9 @@
+id: 05f4b720-c4c6-4685-bdc4-76ec45a3c15f
+name: HTTPS Protocol
+description: The application shall implement HTTPS per RFC 2818 as a client, server or mutually authenticating server, using TLS as defined in the TLS Functional Package.
+elementType: sfr
+externalId: FCS_HTTPS_EXT.1
+aliases:
+  - fcs_https_ext_1
+  - FCS_HTTPS_EXT.1
+parent: fcs

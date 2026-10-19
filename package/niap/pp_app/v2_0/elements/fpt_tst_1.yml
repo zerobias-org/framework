@@ -1,0 +1,9 @@
+id: a0aceb99-ebfc-43f2-ae0c-4368148790f0
+name: TSF Self-Testing
+description: The TSF shall self-test its DRBG at defined times and let authorized users verify the integrity of DRBG seed and output data and of the DRBG itself.
+elementType: sfr
+externalId: FPT_TST.1
+aliases:
+  - fpt_tst_1
+  - FPT_TST.1
+parent: fpt

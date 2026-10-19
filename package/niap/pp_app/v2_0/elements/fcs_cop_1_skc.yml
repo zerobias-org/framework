@@ -1,0 +1,9 @@
+id: 814c5be9-96ae-4da5-8b71-d5b789bf514e
+name: Cryptographic Operation - Encryption/Decryption
+description: The application shall perform, or invoke the platform to perform, encryption and decryption with 256-bit AES in CBC, GCM, XTS, CCM or CTR mode.
+elementType: sfr
+externalId: FCS_COP.1/SKC
+aliases:
+  - fcs_cop_1_skc
+  - FCS_COP.1/SKC
+parent: fcs

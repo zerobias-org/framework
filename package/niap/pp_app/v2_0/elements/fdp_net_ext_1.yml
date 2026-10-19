@@ -1,0 +1,9 @@
+id: 4517b0a6-8225-4242-8afa-9a9a91610b24
+name: Network Communications
+description: The application shall restrict network communication to the user-initiated, remotely initiated and application-initiated communication it declares.
+elementType: sfr
+externalId: FDP_NET_EXT.1
+aliases:
+  - fdp_net_ext_1
+  - FDP_NET_EXT.1
+parent: fdp

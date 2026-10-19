@@ -1,0 +1,9 @@
+id: 908ed43f-a6ea-4caf-9b26-6acfc5f0e411
+name: Cryptographic Asymmetric Key Generation
+description: The application shall generate asymmetric cryptographic keys, or invoke the platform to do so, using CNSA 2.0 or CNSA 1.0 compliant key generation algorithms.
+elementType: sfr
+externalId: FCS_CKM.1/AK
+aliases:
+  - fcs_ckm_1_ak
+  - FCS_CKM.1/AK
+parent: fcs
