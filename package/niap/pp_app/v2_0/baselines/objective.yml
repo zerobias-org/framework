@@ -1,0 +1,12 @@
+id: 93658873-9811-4f40-ad5c-242f5be91eb4
+name: PP_APP_v2.0 Objective Requirements
+description: 'Protection Profile for Application Software: the requirements NIAP expects to become mandatory in a future version; a TOE may claim them now.'
+elements:
+  fpt_api_ext_2:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fpt_idv_ext_1:
+    mandatory: false
+    parameters: []
+    requirements: []

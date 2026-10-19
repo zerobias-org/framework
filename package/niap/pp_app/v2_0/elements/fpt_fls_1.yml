@@ -1,0 +1,9 @@
+id: 225f413a-48c9-4e15-8066-40a5f73fa53e
+name: Failure with Preservation of Secure State
+description: 'The TSF shall preserve a secure state when the following types of failures occur: [DRBG self-test failure].'
+elementType: sfr
+externalId: FPT_FLS.1
+aliases:
+  - fpt_fls_1
+  - FPT_FLS.1
+parent: fpt

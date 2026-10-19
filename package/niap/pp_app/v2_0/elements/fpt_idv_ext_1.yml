@@ -1,0 +1,9 @@
+id: f930eceb-a7e7-40e0-9e87-ec5383bb260a
+name: Software Identification and Versions
+description: The application shall be versioned with SWID tags that comply with minimum requirements from ISO/IEC 19770-2:2015.
+elementType: sfr
+externalId: FPT_IDV_EXT.1
+aliases:
+  - fpt_idv_ext_1
+  - FPT_IDV_EXT.1
+parent: fpt

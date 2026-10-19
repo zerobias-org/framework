@@ -1,0 +1,9 @@
+id: 015e84d8-db23-432a-95d1-637db8062200
+name: Secure by Default Configuration
+description: 'The application shall be secure by default: no unsafe default credentials, and file permissions that protect its binaries and data from unprivileged users.'
+elementType: sfr
+externalId: FMT_CFG_EXT.1
+aliases:
+  - fmt_cfg_ext_1
+  - FMT_CFG_EXT.1
+parent: fmt

@@ -1,0 +1,9 @@
+id: 2c071813-3180-4ee6-95dd-4973749c76e3
+name: Protection of Data in Transit
+description: The application shall not transmit data, or shall encrypt transmitted data or sensitive data with HTTPS, TLS, DTLS or SSH as the PP and its packages define.
+elementType: sfr
+externalId: FTP_DIT_EXT.1
+aliases:
+  - ftp_dit_ext_1
+  - FTP_DIT_EXT.1
+parent: ftp

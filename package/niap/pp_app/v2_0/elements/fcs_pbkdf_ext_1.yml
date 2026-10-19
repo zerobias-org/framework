@@ -1,0 +1,9 @@
+id: 1466aaa0-c41e-4cef-a9e5-49a33cbdee49
+name: Password Conditioning
+description: The application shall condition passwords with a password-based key derivation function per NIST SP 800-132, using salts generated per FCS_SNI_EXT.1.
+elementType: sfr
+externalId: FCS_PBKDF_EXT.1
+aliases:
+  - fcs_pbkdf_ext_1
+  - FCS_PBKDF_EXT.1
+parent: fcs

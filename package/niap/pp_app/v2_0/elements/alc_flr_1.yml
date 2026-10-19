@@ -1,0 +1,9 @@
+id: 00ae540a-4ff4-439e-8f25-bd0bd0855519
+name: Basic Flaw Remediation
+description: The developer shall document flaw remediation procedures that track reported security flaws, their corrections, and how fixes reach TOE users.
+elementType: sar
+externalId: ALC_FLR.1
+aliases:
+  - alc_flr_1
+  - ALC_FLR.1
+parent: alc

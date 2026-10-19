@@ -1,0 +1,9 @@
+id: 21f0286e-b19d-4d04-aeb6-cdafb16dd8a9
+name: Use of Supported Services and APIs
+description: The application shall use platform-provided libraries for parsing the IANA MIME media types it handles, or not implement that parsing.
+elementType: sfr
+externalId: FPT_API_EXT.2
+aliases:
+  - fpt_api_ext_2
+  - FPT_API_EXT.2
+parent: fpt

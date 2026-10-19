@@ -1,0 +1,9 @@
+id: f99682c2-7e26-4ccd-acb8-21d9ee44d6f0
+name: Use of Third Party Libraries
+description: The application shall be packaged with only the third-party libraries it declares.
+elementType: sfr
+externalId: FPT_LIB_EXT.1
+aliases:
+  - fpt_lib_ext_1
+  - FPT_LIB_EXT.1
+parent: fpt
