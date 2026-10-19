@@ -1,0 +1,9 @@
+id: 7b1e84e8-62b4-4d88-9ae2-a04256ee73af
+name: Storage of Credentials
+description: The application shall store no credentials, or store them securely in non-volatile memory using platform functionality or approved encryption or PBKDF2.
+elementType: sfr
+externalId: FCS_STO_EXT.1
+aliases:
+  - fcs_sto_ext_1
+  - FCS_STO_EXT.1
+parent: fcs

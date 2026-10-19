@@ -1,0 +1,9 @@
+id: 6c49d622-318f-42c5-9aea-90979b790a78
+name: Cryptographic Key Generation Services
+description: The application shall state whether it generates no asymmetric keys, invokes platform key generation, or implements asymmetric key generation itself.
+elementType: sfr
+externalId: FCS_CKM_EXT.1
+aliases:
+  - fcs_ckm_ext_1
+  - FCS_CKM_EXT.1
+parent: fcs

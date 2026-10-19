@@ -1,0 +1,9 @@
+id: 34d5c87b-99fc-40ed-b106-db132c3cfbee
+name: Basic Functional Specification
+description: The developer shall provide a functional specification describing the security-relevant interfaces and tracing the SFRs to them.
+elementType: sar
+externalId: ADV_FSP.1
+aliases:
+  - adv_fsp_1
+  - ADV_FSP.1
+parent: adv

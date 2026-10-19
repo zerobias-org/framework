@@ -1,0 +1,9 @@
+id: 246416e6-e4f5-4934-8df5-6d6cf1cb8bc2
+name: HTTPS Support for Authentication
+description: The application shall establish, refuse, or follow a configured setting for an HTTPS connection when the peer certificate is deemed invalid.
+elementType: sfr
+externalId: FCS_HTTPS_EXT.2
+aliases:
+  - fcs_https_ext_2
+  - FCS_HTTPS_EXT.2
+parent: fcs

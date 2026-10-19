@@ -1,0 +1,9 @@
+id: 873b0051-627f-4f76-8297-42210a563a8c
+name: Supported Configuration Mechanism
+description: The application shall store and set configuration options using the platform vendor's recommended mechanisms or its own encrypted storage.
+elementType: sfr
+externalId: FMT_MEC_EXT.1
+aliases:
+  - fmt_mec_ext_1
+  - FMT_MEC_EXT.1
+parent: fmt
