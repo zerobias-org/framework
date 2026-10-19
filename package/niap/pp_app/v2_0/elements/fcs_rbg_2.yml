@@ -1,0 +1,9 @@
+id: 8df82f8d-2071-4b57-98c0-308d23ac7c8e
+name: Random Bit Generation (External Seeding)
+description: The TSF shall accept a minimum input of a defined number of bits from a TSF interface for seeding the random bit generator.
+elementType: sfr
+externalId: FCS_RBG.2
+aliases:
+  - fcs_rbg_2
+  - FCS_RBG.2
+parent: fcs

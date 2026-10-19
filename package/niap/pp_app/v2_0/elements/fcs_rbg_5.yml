@@ -1,0 +1,9 @@
+id: baff28ec-29ea-436a-bde1-435181bd6d8a
+name: Random Bit Generation (Combining Noise Sources)
+description: The TSF shall combine noise source output or seeding input into the derivation function's entropy input, reaching a defined minimum of min-entropy.
+elementType: sfr
+externalId: FCS_RBG.5
+aliases:
+  - fcs_rbg_5
+  - FCS_RBG.5
+parent: fcs

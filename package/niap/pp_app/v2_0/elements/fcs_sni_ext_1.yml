@@ -1,0 +1,9 @@
+id: dab47f28-ff95-4bfa-ad4c-d53441e0477b
+name: Cryptographic Operation (Salt, Nonce, and Initialization Vector Generation)
+description: The application shall generate any salts with a DRBG, use unique nonces of at least 64 bits if it uses nonces, and create IVs as each AES mode requires.
+elementType: sfr
+externalId: FCS_SNI_EXT.1
+aliases:
+  - fcs_sni_ext_1
+  - FCS_SNI_EXT.1
+parent: fcs

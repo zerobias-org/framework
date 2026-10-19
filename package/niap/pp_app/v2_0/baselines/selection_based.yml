@@ -1,0 +1,84 @@
+id: 73f3bb94-5925-4e0d-a36b-92950e520b30
+name: PP_APP_v2.0 Selection-Based Requirements
+description: 'Protection Profile for Application Software: the requirements a TOE must claim when it makes the selection in another requirement that triggers them.'
+elements:
+  fcs_ckm_1_ak:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_ckm_1_sk:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_ckm_2:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_cop_1_hash:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_cop_1_keyedhash:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_cop_1_siggen:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_cop_1_sigver:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_cop_1_skc:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_https_ext_1:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_https_ext_2:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_pbkdf_ext_1:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_rbg_1:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_rbg_2:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_rbg_3:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_rbg_4:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_rbg_5:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fcs_sni_ext_1:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fpt_fls_1:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fpt_tst_1:
+    mandatory: false
+    parameters: []
+    requirements: []
+  fpt_tud_ext_2:
+    mandatory: false
+    parameters: []
+    requirements: []

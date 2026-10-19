@@ -1,0 +1,9 @@
+id: d0ae343c-8932-4056-a5b8-de9e9afe791e
+name: Vulnerability Survey
+description: The evaluator shall search public sources for vulnerabilities in the TOE and penetration test it against attackers with Basic attack potential.
+elementType: sar
+externalId: AVA_VAN.1
+aliases:
+  - ava_van_1
+  - AVA_VAN.1
+parent: ava

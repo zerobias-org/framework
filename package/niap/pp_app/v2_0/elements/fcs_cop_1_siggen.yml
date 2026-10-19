@@ -1,0 +1,9 @@
+id: 3a450ef6-ca13-4b7a-9b46-d4e92bafb487
+name: Cryptographic Operation - Signing Generation
+description: The application shall generate digital signatures using CNSA 2.0 ML-DSA-87 or CNSA 1.0 RSA (3072-bit or greater) or ECDSA P-384/P-521 schemes.
+elementType: sfr
+externalId: FCS_COP.1/SigGen
+aliases:
+  - fcs_cop_1_siggen
+  - FCS_COP.1/SigGen
+parent: fcs

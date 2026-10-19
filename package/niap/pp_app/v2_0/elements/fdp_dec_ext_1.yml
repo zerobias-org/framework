@@ -1,0 +1,9 @@
+id: a9253132-99a9-4740-8e02-9686f7870a20
+name: Access to Platform Resources
+description: The application shall restrict its access to only the hardware resources and sensitive information repositories it declares.
+elementType: sfr
+externalId: FDP_DEC_EXT.1
+aliases:
+  - fdp_dec_ext_1
+  - FDP_DEC_EXT.1
+parent: fdp

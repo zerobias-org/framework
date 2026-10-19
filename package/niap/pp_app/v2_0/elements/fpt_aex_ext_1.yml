@@ -1,0 +1,9 @@
+id: c0b0cf0d-b117-49d0-be00-db9fc410eede
+name: Anti-Exploitation Capabilities
+description: 'The application shall support anti-exploitation: no fixed-address memory maps or write-execute memory, stack overflow protection, and platform security features.'
+elementType: sfr
+externalId: FPT_AEX_EXT.1
+aliases:
+  - fpt_aex_ext_1
+  - FPT_AEX_EXT.1
+parent: fpt
