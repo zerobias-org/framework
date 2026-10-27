@@ -1,0 +1,35 @@
+id: 54d50d32-78bf-4208-a522-9c717bb3b300
+name: NIST SP 800-221 Rev. 1 (Initial Public Draft) - Enterprise Impact of Information and Communications Technology Risk
+description: >-
+  Initial Public Draft (October 2026) of NIST SP 800-221 Revision 1, Enterprise Impact of
+  Information and Communications Technology Risk: Governing and Managing ICT Risk Programs
+  Within an Enterprise Risk Portfolio. Helps organizations within an enterprise improve ICT
+  risk management (ICTRM) in alignment with the NIST Cybersecurity Framework (CSF) 2.0,
+  integrating ICT risk registers into the enterprise risk register and enterprise risk
+  profile, with cybersecurity governance central to all risk management activities. Draft
+  for public comment; subject to change before final publication.
+standardType: framework
+standardCategory: cyber
+code: nist_800_221_rev1
+externalId: NIST SP 800-221r1 ipd
+url: https://csrc.nist.gov/pubs/sp/800/221/r1/ipd
+version: rev1
+status: approved
+external: true
+internal: false
+elementTypes:
+  - id: f099d7aa-a06d-40e2-911f-498eb45dc24d
+    code: chapter
+    name: Chapter
+    description: A top-level section or appendix of the publication
+  - id: 89906ff6-56a3-4a1c-a4fc-de2ebe3535c2
+    code: section
+    name: Section
+    description: A numbered section or subsection within a chapter of the publication
+mappingTypes:
+  - chapter
+  - section
+tags: []
+aliases:
+  - NIST SP 800-221r1 ipd
+  - NIST SP 800-221 Rev. 1
