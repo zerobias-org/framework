@@ -1,0 +1,25 @@
+id: fc84f35e-8e86-4238-a58e-37e03c82ae58
+name: NIST SP 800-82 Rev. 4 (Initial Public Draft) - Guide to Operational Technology (OT) Security
+externalId: NIST SP 800-82r4 ipd
+description: Initial Public Draft (September 2026) of NIST SP 800-82 Rev. 4, Guide to OT Security - OT governance, CSF 2.0 outcomes and security architecture guidance (Sections 3-5)
+standardType: framework
+standardCategory: cyber
+code: nist_800_82_rev4
+status: approved
+url: https://csrc.nist.gov/pubs/sp/800/82/r4/ipd
+version: Rev. 4 ipd
+external: true
+internal: false
+elementTypes:
+  - id: 6a776ecd-922c-40c0-bbff-868137155f81
+    code: chapter
+    name: Chapter
+    description: A top-level chapter of SP 800-82r4 (3 Governance, 4 CSF 2.0 Outcomes, 5 Architecture)
+  - id: 3c67b42b-8d02-49d0-a227-4e26654f9f50
+    code: section
+    name: Section
+    description: A numbered section of SP 800-82r4 carrying OT security recommendations
+mappingTypes:
+  - section
+tags: []
+aliases: []

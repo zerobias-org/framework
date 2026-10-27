@@ -1,0 +1,7 @@
+Upon the completion of system decommissioning, secure disposal is necessary. OT devices may contain proprietary information (e.g., PLC logic, product recipes, product batch records, calibration information, other artifacts) that could enable process replication, thereby compromising an organization’s competitive advantage.
+
+To establish a paper trail during the disposal process, organizations should leverage a chain of custody from removal through storage and transportation to the decommissioned device’s final disposition. Additionally, the organization should note whether the equipment is being destroyed, returned to its vendor, or retained as a spare. Retained in-scope assets should be inventoried, securely stored, and — if applicable — reintroduced in a secure manner in keeping with defined policy.
+
+Some OT devices may be environmentally hazardous or subject to e-waste statutes, depending on jurisdiction, and must be handled accordingly. Should the organization handle destruction, careful steps must be taken to purge all media and leave no trace of its past production state unless data retention is required by policy or law. Proprietary process data or secrets may persist on devices even after decommissioning, so performing and validating a factory reset is imperative.
+
+If devices are to be destroyed by a third party, the organization must require that party to follow its expected media sanitization procedures and obtain proof of completion.

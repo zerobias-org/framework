@@ -1,0 +1,1 @@
+The goal of continuous monitoring is to observe systems and user activities to detect anomalies, indicators of compromise, and other potentially adverse events. Monitoring includes collecting and analyzing digital artifacts from devices, network traffic, and user interactions, such as physical access and system use.

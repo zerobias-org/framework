@@ -1,0 +1,5 @@
+The organization must develop and maintain a process to prioritize suppliers according to their criticality to the mission, operations, and security of its systems. This means evaluating which suppliers, service providers, and components are most essential to maintaining safe and reliable operations. This should include embedded components, ICS firmware, and
+
+maintenance services.
+
+The organization should first clearly define criteria for criticality. This may include the third party’s role in sustaining normal operations (e.g., the extent to which they drive business outcomes), their role in safety functions, their level of access to organizational OT networks, and their influence on the confidentiality, integrity, or availability of systems. Organizations should also consider whether OT is purchased directly from the original equipment manufacturer (OEM) or an authorized third-party distributor or reseller. Suppliers should be assessed or reviewed to ensure that they continue to follow best practices.

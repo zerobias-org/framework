@@ -1,0 +1,1 @@
+This section discusses the unique opportunities and challenges of identifying assets and risks within an OT environment. It will first explore the asset management category, which is critical to ensuring that an organization broadly understands its assets and their functions. It will then discuss the risk assessment process to understand the resulting risks in the OT environment.
