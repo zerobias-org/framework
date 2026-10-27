@@ -1,0 +1,28 @@
+id: edafee18-0439-40d6-95fd-4ec63a736a1d
+name: Autonomous Action Runtime Management (AARM) v1.0
+description: >-
+  AARM v1.0 is a Cloud Security Alliance technical working group system
+  specification for securing AI systems during action execution. It defines a
+  control plane that intercepts, evaluates, decides on, and records every
+  agent-initiated action before it is executed, through nine requirements
+  grouped into Core (R1-R6, MUST) and Extended (R7-R9, SHOULD) conformance levels.
+standardType: framework
+standardCategory: cyber
+code: csa_aarm_v1
+externalId: AARM v1.0
+url: https://aarm.dev/spec
+version: '1.0'
+status: approved
+external: true
+internal: false
+elementTypes:
+  - id: 3f251135-b410-4d31-9c46-2ad8c1ec7dcd
+    code: requirement
+    name: Requirement
+    description: An AARM specification requirement (R1-R9) that a runtime security system must (Core) or should (Extended) satisfy
+mappingTypes:
+  - requirement
+tags: []
+aliases:
+  - AARM
+  - AARM v1.0

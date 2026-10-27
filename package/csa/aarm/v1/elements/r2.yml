@@ -1,0 +1,8 @@
+id: ad4a045d-a2c6-4977-b0df-80dde8530874
+name: "Context accumulation"
+description: "The system must accumulate the agent's stated intent, prior session actions and task thread, and make that context available to policy evaluation."
+elementType: requirement
+externalId: R2
+aliases:
+  - r2
+  - R2

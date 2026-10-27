@@ -1,0 +1,8 @@
+id: c91990c9-f60a-4611-8074-8d42b1a4e0b9
+name: "Telemetry export"
+description: "The system should export action telemetry in a standard, interoperable format such as OpenTelemetry for SIEM and observability ingestion."
+elementType: requirement
+externalId: R8
+aliases:
+  - r8
+  - R8

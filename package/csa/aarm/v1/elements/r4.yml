@@ -1,0 +1,8 @@
+id: e3aeedfd-04ec-4f15-b9e0-9e52c3775811
+name: "Five authorization decisions"
+description: "The policy engine must be able to produce exactly one of five decisions per action: ALLOW, DENY, MODIFY, STEP_UP or DEFER."
+elementType: requirement
+externalId: R4
+aliases:
+  - r4
+  - R4
