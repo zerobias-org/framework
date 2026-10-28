@@ -1,0 +1,1 @@
+Building on the concepts and guidance from Sec. 4, the following subsections expand on the management network described in Sec. 5.1 as well as the operational networks described in Sec. 2. They provide examples for how these environments might be adapted to incorporate the functions, security controls, and architecture patterns identified above.

@@ -1,0 +1,1 @@
+Platform security is a broad topic that encompasses many aspects of deploying, operating, maintaining, and decommissioning systems and devices in an asset owner’s facility. Even the most secure device can be configured and/or maintained in such a way that renders its security ineffective.

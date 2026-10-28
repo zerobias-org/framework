@@ -1,0 +1,3 @@
+Coordinating the organization’s processes for authenticating and authorizing users to access the OT environment can be difficult when systems are not connected. Having a process to remove a user’s access to physical locations and the computer systems they use may require multiple steps and involve both automated and manual processes. It can also be complicated when OT systems are disconnected or have local accounts.
+
+Written processes and checklists can help organizations ensure that, as personnel join, change job roles, or leave the organization, their associated user accounts are properly modified to reflect their appropriate access needs. These written processes will help ensure that linkages between departments within the organization are not overlooked.
