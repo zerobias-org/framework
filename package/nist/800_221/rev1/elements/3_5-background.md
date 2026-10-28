@@ -1,0 +1,17 @@
+After identifying and analyzing applicable risks and recording them in risk registers, the priorities of those risks should be determined and indicated. Some of the outputs in the CSF 2.0 Govern function provide a strong link to ensure that prioritization is based on key stakeholder expectations and that regular alignment happens. This prioritization is accomplished by determining the exposure presented by each risk (i.e., based on the likelihood that a threat event will occur and result in an adverse impact) considering risk direction from leadership. An ICT risk can have adverse effects on achieving organizational objectives. Based on the analysis conducted using the processes described in Sec. 3.4, such effects could range from negligible to severe, so exposure determination is important. Additionally, since organizations have limited resources, it is helpful to sort the risks within the register in order of importance to prioritize risk response. As shown in the template in Fig. 4, this result helps complete the Priority column. When completing the Priority column of the risk register, consider the following:
+
+- How to combine the calculations of likelihood and impact to determine exposure
+
+- How to determine and measure the potential benefits of pursuing a particular risk response
+
+- When to seek additional guidance on how to evaluate risk exposure levels, such as while evaluating exposures related to risk tolerance statements
+
+- Practitioners use multiple assessment approaches (e.g., qualitative, quantitative, semi-qualitative) to calculate and record potential consequences in risk registers. For example, the NIST Privacy Risk Assessment Methodology employs a semi-qualitative approach to its risk model, which calculates risk based on the likelihood of a problematic data action multiplied by its impact [NISTPF].
+
+Fig. 5 shows an example risk matrix (from NIST SP 800-30 Rev. 1, Table I-2) that uses qualitative descriptors for likelihood and level of impact for risk determination.
+
+Each risk is evaluated considering the risk’s likelihood and impact as determined during risk analysis. The thresholds for ranges of exposure can be established and published as part of enterprise governance and used by stakeholders to prioritize each risk in the register. Other risk disciplines may have similar but varying models for calculating and communicating risk determination. In alignment with their enterprise risk strategy, risk programs are encouraged to use the risk adjudication and communication process as an opportunity to discuss and standardize any program-specific risk calculation.
+
+Fig. 6 shows an example of a semi-quantitative risk matrix. In this example, the enterprise has directed that any risk above 0.20 (based on likelihood times impact) represents a high risk, and risks rated between 0.06 and 0.20 are designated as moderate.
+
+While the risk exposure determination will strongly influence prioritization, other factors may need to be considered, such as enterprise context or stakeholder priorities. Stakeholders may also define a minimum level of exposure to include on the risk register through the risk management strategy or other directives. While ICT risks should not arbitrarily be omitted from the register, there are likely to be many that represent such a low exposure that they need not be included. Guidelines for this threshold should be applied consistently throughout the enterprise.
