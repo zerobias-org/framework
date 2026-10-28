@@ -1,0 +1,8 @@
+id: 8e06d2a2-c62a-44e7-87eb-a02ee0dba3d4
+name: "Semantic distance tracking"
+description: "The system should track the semantic distance between proposed actions and the agent's original stated intent, flagging drift over long task horizons."
+elementType: requirement
+externalId: R7
+aliases:
+  - r7
+  - R7

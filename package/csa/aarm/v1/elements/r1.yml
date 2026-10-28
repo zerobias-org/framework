@@ -1,0 +1,8 @@
+id: d003d684-e5a8-4582-b16e-d2125fbce035
+name: "Pre-execution interception"
+description: "The system must intercept every agent-initiated action before it is executed, with no action bypassing the control plane."
+elementType: requirement
+externalId: R1
+aliases:
+  - r1
+  - R1

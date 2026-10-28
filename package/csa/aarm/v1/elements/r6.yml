@@ -1,0 +1,8 @@
+id: f6748a1e-a36d-45f7-9b75-e9fa4f6f0cc0
+name: "Identity binding"
+description: "Every action receipt must be cryptographically bound to a verifiable identity that uniquely identifies the initiating agent, supporting non-repudiation."
+elementType: requirement
+externalId: R6
+aliases:
+  - r6
+  - R6

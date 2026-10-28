@@ -173,6 +173,22 @@ already declare `CC-BY-SA-4.0` in `package.json`; `owasp/llmtop10` still reads
 
 ---
 
+## CSA — Autonomous Action Runtime Management (AARM)
+
+**Applies to:** `package/csa/aarm/v1`.
+
+- **Source:** [AARM v1.0 specification](https://aarm.dev/spec)
+  ([aarm-dev/aarm](https://github.com/aarm-dev/aarm)), Cloud Security Alliance
+  Technical Working Group; Errico, H. (2026), arXiv:2602.09433
+- **Copyright:** © Herman Errico / AARM contributors
+- **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+  (as stated on the specification page; the repository's README links a
+  `LICENSE` file that is not present in the repo)
+- **Changes:** requirement text (R1–R9) extracted verbatim into element
+  backgrounds; one-line summaries and the Core/Extended baselines added
+
+---
+
 ## OpenCRE
 
 **Applies to:** `package/opencre/opencre/v1`.

@@ -1,0 +1,8 @@
+id: 8b7731db-edb9-450f-8a97-e74caa87dd44
+name: "Policy evaluation with intent alignment"
+description: "The system must evaluate each intercepted action against a policy that considers both the action and its alignment with the agent's stated intent."
+elementType: requirement
+externalId: R3
+aliases:
+  - r3
+  - R3

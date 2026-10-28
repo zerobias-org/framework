@@ -1,0 +1,28 @@
+id: edd2d5fc-d29a-4224-8d01-06c3dafb28d8
+name: "AARM Core"
+description: "AARM Core conformance: all six MUST requirements (R1-R6) satisfied. Baseline for claiming AARM conformance."
+elements:
+  r1:
+    mandatory: true
+    parameters: []
+    requirements: []
+  r2:
+    mandatory: true
+    parameters: []
+    requirements: []
+  r3:
+    mandatory: true
+    parameters: []
+    requirements: []
+  r4:
+    mandatory: true
+    parameters: []
+    requirements: []
+  r5:
+    mandatory: true
+    parameters: []
+    requirements: []
+  r6:
+    mandatory: true
+    parameters: []
+    requirements: []
