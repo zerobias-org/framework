@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0-uat.0",
-  "branch": "task/contextDev-14",
+  "version": "1.0.0-dev.0",
+  "branch": "dev",
   "sourceHash": "46ea815419dc61ea3cb755afd38795d19f93952353690f9c4a2cd0908806f24b",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
@@ -11,7 +11,8 @@
     "testDirect": "passed",
     "testDocker": "passed",
     "testDataloader": "passed",
-    "buildArtifacts": "passed"
+    "buildArtifacts": "passed",
+    "dataloaderExec": "passed"
   },
   "tests": {
       "unit": { "expected": 0, "ran": 0, "status": "skipped" },
