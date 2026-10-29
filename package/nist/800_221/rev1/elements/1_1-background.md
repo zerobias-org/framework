@@ -1,0 +1,13 @@
+All ICT risk programs can work together to support ERM and be integrated into risk portfolios. This publication broadens NIST’s existing ICT risk guidelines by recognizing and incorporating ICTRM within the overall sphere of ERM. It is meant to help personnel better identify, assess, and manage ICT risks in the context of their broader mission and business objectives. This includes what data to collect, what analyses to perform, and how to consolidate and condition this discipline-specific risk information. It will also help improve communication (including risk-information sharing) with system owners, high-level executives, and corporate officers on the challenges that ICT professionals face.
+
+To support these activities, this document has been updated to align with the most recent version of the NIST Cybersecurity Framework (CSF) 2.0. Effective governance should be central to all risk management activities, ensuring that ICT risk management aligns with enterprise strategy and receives appropriate oversight from senior leadership. This document supports organizations of all sizes and sectors in implementing governance outcomes that connect ICT risk management with the six core CSF 2.0 functions: Govern, Identify, Protect, Detect, Respond, and Recover.
+
+This document references some materials that are specifically developed for use by federal agencies, but their concepts and approaches are useful for all enterprises.
+
+NIST resources that support this document include:
+
+- NIST Special Publication (SP) 800-221A, Information and Communications Technology (ICT) Risk Outcomes: Integrating ICT Risk Management Programs with the Enterprise Risk Portfolio [SP800221A], which provides outcome examples that apply to all types of ICT risks and complements the content of this document. The outcomes defined in SP 800-221A are also available in spreadsheet format from the NIST Cybersecurity and Privacy Reference Tool (CPRT) website.
+
+- An informative reference that links the contents of SP 800-221A with CSF 2.0 is posted as part of the National Online Informative References (OLIR) Program.
+
+- The NIST Interagency or Internal Report (IR) 8286 [IR8286] series of publications describes an example implementation of the ICTRM process that is tailored to cybersecurity. The IR 8286 series illustrates integrated risk identification, assessment, monitoring, and reporting through cybersecurity examples and describes processes that are analogous to many types of ICT risk. This series has been recently updated to reflect CSF 2.0 and provide additional resources to help plan, communicate, and monitor cybersecurity risk management (CSRM) as part of an ERM approach

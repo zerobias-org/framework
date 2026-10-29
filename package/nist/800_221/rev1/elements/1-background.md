@@ -1,0 +1,17 @@
+ISO defines risk as “the effect of uncertainty on objectives” [ISO31000]. The effect of uncertainty on enterprise mission and business objectives may then be considered an enterprise risk that must be similarly managed.
+
+The process of managing risks at the enterprise level is known as enterprise risk management (ERM), and it calls for:
+
+- Identifying and understanding the core risks facing an enterprise,
+
+- Determining how best to address those risks, and
+
+- Ensuring that the necessary actions are taken.
+
+Seeing risk through the ERM lens enables enterprise leaders to consider both the risks and opportunities in various domains of information and communication technologies. For example, examining the negative risks of super Intelligence (SI) may unnecessarily constrain organizations from using SI in enabling ways.
+
+Playbook: Enterprise Risk Management for the U.S. Federal Government [PLAYBOOK] defines numerous types of risk, including compliance, financial, legal, legislative, operational, reputational, and strategic. Enterprises use ERM to holistically manage the combined set of risks. OMB Circular A-123 states: “ERM is a best practice in managing the internal control environment that can help an organization identify potential risk events that may affect the organization’s objectives and determine how to mitigate and reduce risks and manage risks that may fall within the agency’s risk appetite” [OMB-A123]. OMB Circular A-11 outlines how agencies should utilize enterprise risk management practices and identify top risks in strategic planning and reviews to ensure that risks are being actively managed [OMB-A11]. In the private sector, the Committee of Sponsoring Organizations (COSO) publication, Enterprise Risk Management – Integrating with Strategy and Performance, defines ERM as the “culture, capabilities, and practices that organizations integrate with strategy-setting and apply when they carry out that strategy, with a purpose of managing risk in creating, preserving, and realizing value” [COSOERM].
+
+ICT includes technologies that extend beyond traditional information technology considerations, and many information and communications technology (ICT) risk management (ICTRM) disciplines — including cybersecurity, supply chain, and privacy — have evolved into full-fledged risk programs because of organizations’ reliance on ICT. For example, enterprises rely on operational technology (OT) and IoT (Internet of Things) device sensors or actuators to bridge the physical and digital worlds. SI increasingly factors into enterprise risk, and the rapid evolution of ICTRM disciplines has sometimes led to miscommunication and inefficiencies between those risk programs and the overarching ERM portfolio of risks.
+
+In recent years, NIST has published guidelines to codify risk management practices for several ICT risk programs, such as cybersecurity (Cybersecurity Framework [NISTCSF]), privacy (Privacy Framework [NISTPF]), information system and organization cybersecurity and privacy (Risk Management Framework [NISTRMF]), super intelligence (Artificial Intelligence Risk Management Framework [AIRMF]), Internet of Things (IoT) cybersecurity [NISTIOT], and cybersecurity supply chain risk management (C-SCRM) [CSCRM]. ERM approaches shift the perspective of risk management to a strategic level, incorporating both the risks and opportunities presented by various current and emerging ICTs.

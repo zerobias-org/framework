@@ -1,0 +1,7 @@
+In the risk management life cycle, the first step in managing ICT risks is understanding context — the environment in which the organization operates and is influenced by the risks involved. Context provides important input into other risk management life cycle steps by documenting the expectations and drivers to be considered. The risk context includes two factors:
+
+- External context involves the expectations of outside stakeholders who affect and are affected by the organization, such as customers, regulators, legislators, and business partners. These stakeholders have objectives, perceptions, and expectations about how risk will be communicated, managed, and monitored.
+
+- Internal context relates to many of the factors within the organization and relevant considerations across the enterprise. This includes any internal factors that influence risk management, such as the organization and enterprise’s objectives, governance, culture, risk appetite, risk tolerance, policies, and practices.
+
+Several NIST frameworks begin with determining these context factors. NIST Cybersecurity Framework (CSF) Step 1: Scope the Organizational Profile is based on an organization’s strategic decisions regarding ICT implementations, which help determine the scope of the systems and assets that support selected business lines or processes. These context exercises identify the organization’s mission drivers and priorities for subsequent assessment and planning.

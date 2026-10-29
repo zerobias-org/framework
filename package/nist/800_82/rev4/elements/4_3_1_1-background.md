@@ -1,0 +1,1 @@
+OT environments contain a diverse set of services, endpoints, and devices that should be monitored for potential malicious activity. This includes identifying and collecting logs, detecting the presence of malware across endpoints and servers, and aggregating and correlating user access records across the environment.

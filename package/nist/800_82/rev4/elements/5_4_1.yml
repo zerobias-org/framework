@@ -1,0 +1,6 @@
+id: cb0794ac-7a14-441c-850a-227524d0753c
+externalId: "5.4.1"
+name: "Fault Tolerance as an Architectural Design Principle"
+description: "Design OT so a failed component fails without cascading to other systems or leaving the process unsafe."
+elementType: section
+parent: "5_4"

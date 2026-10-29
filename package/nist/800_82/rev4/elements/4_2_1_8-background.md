@@ -1,0 +1,10 @@
+OT environments often require access from remote users or devices, including those external to the company. Access requirements and accounts for remote access should be maintained for all external access. A process should be developed and communicated to the organization for requesting and enabling remote access. This should include the business justification for the access and document the expected security controls and the responsibilities of the external organization and device. Further, ensure mechanisms exist to revoke access rights and accounts associated with external users along with mechanisms to audit their access.
+
+Deploying secure remote access technologies requires the deployment of various technologies and devices to authenticate and secure access sessions. Remote access often requires the use of the following devices:
+
+- TLS/SSL VPNs. VPN appliances are often used to establish secure tunnels to a VPN appliance within an OT DMZ. The use of VPNs should be complemented with additional tools to help manage access to OT devices.
+- Access management tools. Access management solutions (including privileged access management) manage credentials and sessions across heterogeneous OT devices. They can enforce strong authentication (including MFA), enable least-privilege access, and improve auditing of OT access.
+- Jump hosts. Jump hosts or servers can also be used to broker user access to remote OT devices, including to control and monitor access.
+- Authentication servers. OT environments often require dedicated and segmented authentication services (e.g., LDAP, Active Directory) to keep OT credential stores and authentication workflows separate from those used in IT networks.
+
+Remote access methods include remote agents, jump hosts, site-to-site direct connections, and, most commonly, VPNs. These technologies must be carefully managed to minimize the organization’s attack surface. For example, persistent VPN tunnels with poor authentication factors may be exploited by attackers to gain network access using trivial techniques.

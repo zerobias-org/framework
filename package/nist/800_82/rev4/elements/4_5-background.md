@@ -1,0 +1,1 @@
+Timely recovery to normal operations after a cybersecurity incident is critical. The Recover Function addresses developing and implementing activities to maintain system resilience and ensure the timely restoration of capabilities and services affected by a cybersecurity incident.
