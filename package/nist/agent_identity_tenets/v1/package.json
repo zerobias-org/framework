@@ -1,0 +1,31 @@
+{
+  "name": "@zerobias-org/framework-nist-agent_identity_tenets-v1",
+  "version": "1.0.0",
+  "description": "NIST Design Tenets for Agent Identity Management Systems",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/nist/agent_identity_tenets/v1/"
+  },
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**"
+  ],
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "framework",
+    "package": "nist.agent_identity_tenets.v1.framework"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-nist-agent_identity_tenets": "latest"
+  }
+}
