@@ -6,3 +6,8 @@ externalId: MAS-CSO-TPR
 parent: frr-mas
 aliases:
   - MAS-CSO-TPR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-3
+  relates_to:
+    - gsa.fedramp.20x.framework/mas-cso-iir

@@ -6,3 +6,6 @@ externalId: IEC-CSO-DPR
 parent: frr-iec
 aliases:
   - IEC-CSO-DPR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/iec-cso-efi

@@ -6,3 +6,6 @@ externalId: CCM-OCR-AVL
 parent: frr-ccm
 aliases:
   - CCM-OCR-AVL
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ca-7

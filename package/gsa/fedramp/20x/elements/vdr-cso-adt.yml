@@ -6,3 +6,10 @@ externalId: VDR-CSO-ADT
 parent: frr-vdr
 aliases:
   - VDR-CSO-ADT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5
+    - nist.80053.rev5.framework/si-2_2
+    - nist.80053.rev5.framework/si-3
+    - nist.80053.rev5.framework/si-4_2
+    - nist.80053.rev5.framework/si-4_5

@@ -6,3 +6,6 @@ externalId: MAS-CSO-MDI
 parent: frr-mas
 aliases:
   - MAS-CSO-MDI
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/mas-cso-iir

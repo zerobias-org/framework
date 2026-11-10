@@ -6,3 +6,7 @@ externalId: FRC-CSX-VVK
 parent: frr-frc
 aliases:
   - FRC-CSX-VVK
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-2_2
+    - nist.80053.rev5.framework/si-6

@@ -6,3 +6,11 @@ externalId: KSI-CMT-VTD
 parent: ksi-cmt
 aliases:
   - KSI-CMT-VTD
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-3
+    - nist.80053.rev5.framework/cm-3_2
+    - nist.80053.rev5.framework/cm-4_2
+    - nist.80053.rev5.framework/cm-6_2
+    - nist.80053.rev5.framework/ir-9_4
+    - nist.80053.rev5.framework/si-2

@@ -6,3 +6,17 @@ externalId: KSI-SVC-EIS
 parent: ksi-svc
 aliases:
   - KSI-SVC-EIS
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ca-7_4
+    - nist.80053.rev5.framework/cm-12_1
+    - nist.80053.rev5.framework/cm-5_5
+    - nist.80053.rev5.framework/cm-7_1
+    - nist.80053.rev5.framework/ir-9_4
+    - nist.80053.rev5.framework/pl-8
+    - nist.80053.rev5.framework/ra-3
+    - nist.80053.rev5.framework/sc-39
+    - nist.80053.rev5.framework/sc-7
+    - nist.80053.rev5.framework/si-2_2
+    - nist.80053.rev5.framework/si-4
+    - nist.80053.rev5.framework/sr-10

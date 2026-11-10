@@ -6,3 +6,6 @@ externalId: VER-EVA-EPA
 parent: frr-ver
 aliases:
   - VER-EVA-EPA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-3

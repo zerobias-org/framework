@@ -6,3 +6,7 @@ externalId: CDS-CSO-PUB
 parent: frr-cds
 aliases:
   - CDS-CSO-PUB
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/cds-cso-svc
+    - gsa.fedramp.20x.framework/ccm-ocr-nrd

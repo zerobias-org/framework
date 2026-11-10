@@ -6,3 +6,6 @@ externalId: IEC-CSO-OIR
 parent: frr-iec
 aliases:
   - IEC-CSO-OIR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-5

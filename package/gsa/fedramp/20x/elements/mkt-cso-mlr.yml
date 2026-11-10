@@ -6,3 +6,6 @@ externalId: MKT-CSO-MLR
 parent: frr-mkt
 aliases:
   - MKT-CSO-MLR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/cds-cso-pub

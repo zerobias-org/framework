@@ -6,3 +6,6 @@ externalId: SCG-CSO-RSC
 parent: frr-scg
 aliases:
   - SCG-CSO-RSC
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-7

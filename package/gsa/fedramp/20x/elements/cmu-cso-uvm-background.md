@@ -1,3 +1,5 @@
+FedRAMP states this requirement separately for each class; see the class sections below.
+
 **Applies to:** Class B, Class C (Providers)
 
 **Audience:** Cloud Service Provider Responsibilities. These rules apply to providers for FedRAMP Certifications.

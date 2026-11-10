@@ -6,3 +6,7 @@ externalId: VDR-CSO-SIR
 parent: frr-vdr
 aliases:
   - VDR-CSO-SIR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5_3
+    - nist.80053.rev5.framework/ra-5_5

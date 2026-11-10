@@ -6,3 +6,15 @@ externalId: FRC-CLA-RFR
 parent: frr-frc
 aliases:
   - FRC-CLA-RFR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/cds-cso-avr
+    - gsa.fedramp.20x.framework/cpo-csx-cpm
+    - gsa.fedramp.20x.framework/iec-cso-iir
+    - gsa.fedramp.20x.framework/iec-cso-oir
+    - gsa.fedramp.20x.framework/vdr-tfr-mvx
+    - gsa.fedramp.20x.framework/vdr-tfr-pcd
+    - gsa.fedramp.20x.framework/vdr-tfr-pdd
+    - gsa.fedramp.20x.framework/vdr-tfr-psd
+    - gsa.fedramp.20x.framework/vdr-tfr-pvr
+    - gsa.fedramp.20x.framework/ver-tfr-evu

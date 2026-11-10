@@ -6,3 +6,10 @@ externalId: KSI-CNA-RVP
 parent: ksi-cna
 aliases:
   - KSI-CNA-RVP
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-4_2
+    - nist.80053.rev5.framework/sc-5
+    - nist.80053.rev5.framework/sc-7_18
+    - nist.80053.rev5.framework/si-8
+    - nist.80053.rev5.framework/si-8_2

@@ -6,3 +6,6 @@ externalId: IVV-CSO-DUS
 parent: frr-ivv
 aliases:
   - IVV-CSO-DUS
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/ivv-cso-usr

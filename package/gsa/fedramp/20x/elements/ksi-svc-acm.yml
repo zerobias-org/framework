@@ -6,3 +6,20 @@ externalId: KSI-SVC-ACM
 parent: ksi-svc
 aliases:
   - KSI-SVC-ACM
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-2_4
+    - nist.80053.rev5.framework/ac-6_8
+    - nist.80053.rev5.framework/cm-2
+    - nist.80053.rev5.framework/cm-2_2
+    - nist.80053.rev5.framework/cm-2_3
+    - nist.80053.rev5.framework/cm-6
+    - nist.80053.rev5.framework/cm-7_1
+    - nist.80053.rev5.framework/pl-10
+    - nist.80053.rev5.framework/pl-9
+    - nist.80053.rev5.framework/sa-5
+    - nist.80053.rev5.framework/sc-45
+    - nist.80053.rev5.framework/sc-45_1
+    - nist.80053.rev5.framework/sc-7_18
+    - nist.80053.rev5.framework/si-5
+    - nist.80053.rev5.framework/sr-10

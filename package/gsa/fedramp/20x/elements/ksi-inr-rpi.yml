@@ -6,3 +6,14 @@ externalId: KSI-INR-RPI
 parent: ksi-inr
 aliases:
   - KSI-INR-RPI
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-3
+    - nist.80053.rev5.framework/ir-4
+    - nist.80053.rev5.framework/ir-4_1
+    - nist.80053.rev5.framework/ir-4_11
+    - nist.80053.rev5.framework/ir-4_4
+    - nist.80053.rev5.framework/ir-5
+    - nist.80053.rev5.framework/ir-5_1
+    - nist.80053.rev5.framework/ir-8
+    - nist.80053.rev5.framework/ra-5_8

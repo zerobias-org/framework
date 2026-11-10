@@ -15,7 +15,10 @@ const BASELINES = path.join(PKG, 'baselines');
 const READY = ['a', 'b', 'c'];
 const NOT_READY = ['d'];
 
-type Element = { code: string; doc: Record<string, unknown>; background: string };
+const REV5 = 'nist.80053.rev5.framework';
+const REV5_ELEMENTS = path.resolve(import.meta.dirname, '../../../nist/80053/rev5/elements');
+
+type Element = { code: string; doc: Record<string, unknown>; background: string; related?: string[] };
 type Member = { code: string; classes: Record<string, boolean> };
 
 const idOf = (file: string): string =>
@@ -89,7 +92,7 @@ function main(data: any) {
     const terms = new Set<string>([...(r.terms ?? []), ...classes.flatMap((c) => varies[c]?.terms ?? [])]);
     const controls = [...new Set<string>([...(r.controls ?? []), ...classes.flatMap((c) => varies[c]?.controls ?? [])])];
     const lines = [
-      ...(r.statement ? [statement(r), ''] : []),
+      ...(r.statement ? [statement(r), ''] : ['FedRAMP states this requirement separately for each class; see the class sections below.', '']),
       `**Applies to:** ${classes.map(label).join(', ')}${r.affects?.length ? ` (${r.affects.join(', ')})` : ''}`,
       '',
       ...common,
@@ -105,7 +108,13 @@ function main(data: any) {
       return d ? [`- **${d.term}:** ${clean(d.definition)}`] : [];
     });
     if (defined.length) lines.push('## Defined terms', '', ...defined, '');
+    // The linker drops aliases it cannot resolve without a word, so only link controls Rev 5 has.
+    const rev5 = controls.map((c) => c.replace(/\./g, '_'));
+    const missing = rev5.filter((c) => !fs.existsSync(path.join(REV5_ELEMENTS, `${c}.yml`)));
+    if (missing.length) console.warn(`${id}: no Rev 5 element for ${missing.join(', ')}`);
+    const demonstrates = rev5.filter((c) => !missing.includes(c)).map((c) => `${REV5}/${c}`);
     elements.push({
+      related: [...new Set<string>([...(r.related ?? []), ...classes.flatMap((c) => varies[c]?.related ?? [])])],
       code,
       doc: {
         id: idOf(path.join(ELEMENTS, `${code}.yml`)),
@@ -115,6 +124,7 @@ function main(data: any) {
         externalId: id,
         parent,
         aliases: [id],
+        ...(demonstrates.length ? { links: { demonstrates } } : {}),
       },
       background: `${lines.join('\n').trim()}\n`,
     });
@@ -174,6 +184,13 @@ function main(data: any) {
   fs.mkdirSync(ELEMENTS, { recursive: true });
   fs.mkdirSync(BASELINES, { recursive: true });
   const live = new Set(elements.map((e) => e.code));
+  // Related ids point at other rules; link the ones in this package and leave the rest as text.
+  for (const e of elements) {
+    const relates = (e.related ?? []).map((r) => r.toLowerCase()).filter((r) => live.has(r));
+    if (relates.length) {
+      e.doc.links = { ...(e.doc.links as object), relates_to: relates.map((r) => `gsa.fedramp.20x.framework/${r}`) };
+    }
+  }
   for (const e of elements) {
     fs.writeFileSync(path.join(ELEMENTS, `${e.code}.yml`), dump(e.doc));
     fs.writeFileSync(path.join(ELEMENTS, `${e.code}-background.md`), e.background);

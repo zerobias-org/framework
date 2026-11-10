@@ -6,3 +6,18 @@ externalId: KSI-CNA-RNT
 parent: ksi-cna
 aliases:
   - KSI-CNA-RNT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-17_3
+    - nist.80053.rev5.framework/ca-9
+    - nist.80053.rev5.framework/cm-7_1
+    - nist.80053.rev5.framework/sc-7_10
+    - nist.80053.rev5.framework/sc-7_18
+    - nist.80053.rev5.framework/sc-7_20
+    - nist.80053.rev5.framework/sc-7_21
+    - nist.80053.rev5.framework/sc-7_5
+    - nist.80053.rev5.framework/si-10
+    - nist.80053.rev5.framework/si-4_11
+    - nist.80053.rev5.framework/si-4_18
+    - nist.80053.rev5.framework/si-4_4
+    - nist.80053.rev5.framework/si-8

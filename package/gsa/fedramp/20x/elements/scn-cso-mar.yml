@@ -6,3 +6,6 @@ externalId: SCN-CSO-MAR
 parent: frr-scn
 aliases:
   - SCN-CSO-MAR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/scn-cso-eva

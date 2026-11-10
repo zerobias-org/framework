@@ -6,3 +6,8 @@ externalId: MAS-CSO-IIR
 parent: frr-mas
 aliases:
   - MAS-CSO-IIR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-8_4
+    - nist.80053.rev5.framework/ra-3
+    - nist.80053.rev5.framework/si-4_19

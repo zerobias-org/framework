@@ -6,3 +6,6 @@ externalId: VER-RPT-PER
 parent: frr-ver
 aliases:
   - VER-RPT-PER
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/si-7_2

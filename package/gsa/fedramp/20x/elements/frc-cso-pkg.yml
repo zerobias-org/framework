@@ -6,3 +6,8 @@ externalId: FRC-CSO-PKG
 parent: frr-frc
 aliases:
   - FRC-CSO-PKG
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/cpo-cso-ovr
+    - gsa.fedramp.20x.framework/sdr-cso-frr
+    - gsa.fedramp.20x.framework/ccm-ocr-avl

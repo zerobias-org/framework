@@ -6,3 +6,7 @@ externalId: VDR-CSO-AKE
 parent: frr-vdr
 aliases:
   - VDR-CSO-AKE
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5
+    - nist.80053.rev5.framework/si-5

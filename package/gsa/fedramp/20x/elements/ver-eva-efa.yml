@@ -6,3 +6,6 @@ externalId: VER-EVA-EFA
 parent: frr-ver
 aliases:
   - VER-EVA-EFA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-9

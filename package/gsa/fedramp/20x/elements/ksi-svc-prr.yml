@@ -6,3 +6,10 @@ externalId: KSI-SVC-PRR
 parent: ksi-svc
 aliases:
   - KSI-SVC-PRR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-19
+    - nist.80053.rev5.framework/ir-9_4
+    - nist.80053.rev5.framework/sc-12_1
+    - nist.80053.rev5.framework/sc-4
+    - nist.80053.rev5.framework/sc-7_18

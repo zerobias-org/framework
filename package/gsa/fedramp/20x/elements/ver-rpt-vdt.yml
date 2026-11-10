@@ -6,3 +6,6 @@ externalId: VER-RPT-VDT
 parent: frr-ver
 aliases:
   - VER-RPT-VDT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/si-2_3

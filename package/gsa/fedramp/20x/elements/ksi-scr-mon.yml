@@ -6,3 +6,19 @@ externalId: KSI-SCR-MON
 parent: ksi-scr
 aliases:
   - KSI-SCR-MON
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-19
+    - nist.80053.rev5.framework/ac-20
+    - nist.80053.rev5.framework/ca-2_3
+    - nist.80053.rev5.framework/ca-3
+    - nist.80053.rev5.framework/ir-6_3
+    - nist.80053.rev5.framework/ps-7
+    - nist.80053.rev5.framework/ra-3
+    - nist.80053.rev5.framework/ra-5
+    - nist.80053.rev5.framework/sa-9
+    - nist.80053.rev5.framework/si-5
+    - nist.80053.rev5.framework/sr-3
+    - nist.80053.rev5.framework/sr-5
+    - nist.80053.rev5.framework/sr-6
+    - nist.80053.rev5.framework/sr-8

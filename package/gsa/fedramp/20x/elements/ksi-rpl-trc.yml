@@ -6,3 +6,17 @@ externalId: KSI-RPL-TRC
 parent: ksi-rpl
 aliases:
   - KSI-RPL-TRC
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cp-10
+    - nist.80053.rev5.framework/cp-2_1
+    - nist.80053.rev5.framework/cp-2_3
+    - nist.80053.rev5.framework/cp-4
+    - nist.80053.rev5.framework/cp-4_1
+    - nist.80053.rev5.framework/cp-6
+    - nist.80053.rev5.framework/cp-6_1
+    - nist.80053.rev5.framework/cp-9_1
+    - nist.80053.rev5.framework/ir-3
+    - nist.80053.rev5.framework/ir-3_2
+    - nist.80053.rev5.framework/ir-9_3
+    - nist.80053.rev5.framework/sc-12_1

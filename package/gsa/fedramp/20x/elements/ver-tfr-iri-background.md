@@ -1,3 +1,5 @@
+FedRAMP states this requirement separately for each class; see the class sections below.
+
 **Applies to:** Class B, Class C (Providers)
 
 **Audience:** Timeframes. These rules apply to timeframes for vulnerability detection and response.

@@ -6,3 +6,10 @@ externalId: KSI-RPL-ABO
 parent: ksi-rpl
 aliases:
   - KSI-RPL-ABO
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-2_3
+    - nist.80053.rev5.framework/cp-6
+    - nist.80053.rev5.framework/cp-9
+    - nist.80053.rev5.framework/cp-10
+    - nist.80053.rev5.framework/cp-10_2

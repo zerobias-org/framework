@@ -6,3 +6,8 @@ externalId: KSI-MLA-ALA
 parent: ksi-mla
 aliases:
   - KSI-MLA-ALA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-12_3
+    - nist.80053.rev5.framework/au-6_7
+    - nist.80053.rev5.framework/si-11

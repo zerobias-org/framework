@@ -1,3 +1,5 @@
+FedRAMP states this requirement separately for each class; see the class sections below.
+
 **Applies to:** Class B, Class C (Providers)
 
 **Audience:** Quarterly Reviews. These rules for Quarterly Reviews apply to providers with any type of FedRAMP Certification.

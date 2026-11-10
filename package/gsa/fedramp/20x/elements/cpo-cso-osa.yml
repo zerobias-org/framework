@@ -6,3 +6,11 @@ externalId: CPO-CSO-OSA
 parent: frr-cpo
 aliases:
   - CPO-CSO-OSA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ca-2
+    - nist.80053.rev5.framework/ca-2_1
+    - nist.80053.rev5.framework/ca-2_2
+    - nist.80053.rev5.framework/ca-7_1
+  relates_to:
+    - gsa.fedramp.20x.framework/ivv-ias-osa

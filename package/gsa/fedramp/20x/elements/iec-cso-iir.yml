@@ -6,3 +6,9 @@ externalId: IEC-CSO-IIR
 parent: frr-iec
 aliases:
   - IEC-CSO-IIR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-5_2
+    - nist.80053.rev5.framework/ir-5
+  relates_to:
+    - gsa.fedramp.20x.framework/iec-cso-efi

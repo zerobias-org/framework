@@ -6,3 +6,12 @@ externalId: KSI-CMT-RMV
 parent: ksi-cmt
 aliases:
   - KSI-CMT-RMV
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-2
+    - nist.80053.rev5.framework/cm-3
+    - nist.80053.rev5.framework/cm-5
+    - nist.80053.rev5.framework/cm-6
+    - nist.80053.rev5.framework/cm-7
+    - nist.80053.rev5.framework/cm-8_1
+    - nist.80053.rev5.framework/si-3

@@ -6,3 +6,6 @@ externalId: IVV-CSO-SEE
 parent: frr-ivv
 aliases:
   - IVV-CSO-SEE
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/ivv-cso-sei

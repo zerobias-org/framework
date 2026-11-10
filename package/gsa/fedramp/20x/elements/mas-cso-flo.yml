@@ -6,3 +6,10 @@ externalId: MAS-CSO-FLO
 parent: frr-mas
 aliases:
   - MAS-CSO-FLO
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-4
+    - nist.80053.rev5.framework/cm-12
+    - nist.80053.rev5.framework/cm-12_1
+    - nist.80053.rev5.framework/ra-3
+    - nist.80053.rev5.framework/si-4_19

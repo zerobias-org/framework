@@ -6,3 +6,6 @@ externalId: SCN-CSO-EMG
 parent: frr-scn
 aliases:
   - SCN-CSO-EMG
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-4_2

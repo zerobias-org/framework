@@ -6,3 +6,6 @@ externalId: IVV-CSO-ICP
 parent: frr-ivv
 aliases:
   - IVV-CSO-ICP
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/ivv-ias-vip

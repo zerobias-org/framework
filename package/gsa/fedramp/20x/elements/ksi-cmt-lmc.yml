@@ -6,3 +6,14 @@ externalId: KSI-CMT-LMC
 parent: ksi-cmt
 aliases:
   - KSI-CMT-LMC
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-2
+    - nist.80053.rev5.framework/ca-7_4
+    - nist.80053.rev5.framework/cm-3
+    - nist.80053.rev5.framework/cm-3_1
+    - nist.80053.rev5.framework/cm-3_2
+    - nist.80053.rev5.framework/cm-3_6
+    - nist.80053.rev5.framework/cm-4_2
+    - nist.80053.rev5.framework/cm-6
+    - nist.80053.rev5.framework/cm-8_3

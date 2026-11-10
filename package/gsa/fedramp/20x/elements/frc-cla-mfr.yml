@@ -6,3 +6,29 @@ externalId: FRC-CLA-MFR
 parent: frr-frc
 aliases:
   - FRC-CLA-MFR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/frc-cso-pop
+    - gsa.fedramp.20x.framework/mas-cso-iir
+    - gsa.fedramp.20x.framework/cds-cso-pub
+    - gsa.fedramp.20x.framework/cds-cso-utc
+    - gsa.fedramp.20x.framework/cds-utc-aad
+    - gsa.fedramp.20x.framework/afc-cso-inb
+    - gsa.fedramp.20x.framework/afc-cso-rcv
+    - gsa.fedramp.20x.framework/afc-cso-cra
+    - gsa.fedramp.20x.framework/iec-cso-efr
+    - gsa.fedramp.20x.framework/iec-cso-fir
+    - gsa.fedramp.20x.framework/vdr-cso-det
+    - gsa.fedramp.20x.framework/ccm-ocr-avl
+    - gsa.fedramp.20x.framework/ccm-ocr-nrd
+    - gsa.fedramp.20x.framework/ivv-csx-aia
+    - gsa.fedramp.20x.framework/frc-cso-pkg
+    - gsa.fedramp.20x.framework/frc-cso-jsn
+    - gsa.fedramp.20x.framework/sdr-csx-ksi
+    - gsa.fedramp.20x.framework/ksi-cmt-lmc
+    - gsa.fedramp.20x.framework/ksi-cna-rnt
+    - gsa.fedramp.20x.framework/ksi-ced-rat
+    - gsa.fedramp.20x.framework/ksi-iam-aam
+    - gsa.fedramp.20x.framework/ksi-inr-rir
+    - gsa.fedramp.20x.framework/ksi-svc-sin
+    - gsa.fedramp.20x.framework/ksi-iam-apm

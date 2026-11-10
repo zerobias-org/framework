@@ -6,3 +6,9 @@ externalId: VDR-CSO-FAV
 parent: frr-vdr
 aliases:
   - VDR-CSO-FAV
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-5_2
+    - nist.80053.rev5.framework/si-4
+    - nist.80053.rev5.framework/si-4_1
+    - nist.80053.rev5.framework/si-7_7

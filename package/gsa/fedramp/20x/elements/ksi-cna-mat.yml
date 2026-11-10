@@ -6,3 +6,20 @@ externalId: KSI-CNA-MAT
 parent: ksi-cna
 aliases:
   - KSI-CNA-MAT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-17_3
+    - nist.80053.rev5.framework/ac-18_1
+    - nist.80053.rev5.framework/ac-18_3
+    - nist.80053.rev5.framework/ac-20_1
+    - nist.80053.rev5.framework/ca-9
+    - nist.80053.rev5.framework/sc-10
+    - nist.80053.rev5.framework/sc-7_18
+    - nist.80053.rev5.framework/sc-7_3
+    - nist.80053.rev5.framework/sc-7_4
+    - nist.80053.rev5.framework/sc-7_5
+    - nist.80053.rev5.framework/sc-7_8
+    - nist.80053.rev5.framework/sc-8
+    - nist.80053.rev5.framework/si-10
+    - nist.80053.rev5.framework/si-11
+    - nist.80053.rev5.framework/si-16

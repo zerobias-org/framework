@@ -6,3 +6,7 @@ externalId: VDR-CSO-MSP
 parent: frr-vdr
 aliases:
   - VDR-CSO-MSP
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5_5
+    - nist.80053.rev5.framework/si-2

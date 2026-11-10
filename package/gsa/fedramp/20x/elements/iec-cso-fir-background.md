@@ -1,3 +1,5 @@
+FedRAMP states this requirement separately for each class; see the class sections below.
+
 **Applies to:** Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers with FedRAMP Certifications of any type.

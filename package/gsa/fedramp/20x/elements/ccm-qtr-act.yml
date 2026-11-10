@@ -6,3 +6,6 @@ externalId: CCM-QTR-ACT
 parent: frr-ccm
 aliases:
   - CCM-QTR-ACT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ca-7

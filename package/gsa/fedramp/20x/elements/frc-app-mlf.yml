@@ -6,3 +6,7 @@ externalId: FRC-APP-MLF
 parent: frr-frc
 aliases:
   - FRC-APP-MLF
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/mkt-cso-mlr
+    - gsa.fedramp.20x.framework/mkt-cso-pml

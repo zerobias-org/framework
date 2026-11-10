@@ -6,3 +6,10 @@ externalId: KSI-SVC-RUD
 parent: ksi-svc
 aliases:
   - KSI-SVC-RUD
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-9
+    - nist.80053.rev5.framework/si-12_3
+    - nist.80053.rev5.framework/si-18_4
+    - nist.80053.rev5.framework/si-8
+    - nist.80053.rev5.framework/si-8_2

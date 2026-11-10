@@ -6,3 +6,6 @@ externalId: VDR-CSO-DAC
 parent: frr-vdr
 aliases:
   - VDR-CSO-DAC
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5

@@ -6,3 +6,9 @@ externalId: KSI-CNA-IBP
 parent: ksi-cna
 aliases:
   - KSI-CNA-IBP
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-17_3
+    - nist.80053.rev5.framework/cm-2
+    - nist.80053.rev5.framework/pl-10
+    - nist.80053.rev5.framework/sc-7_18
