@@ -1,0 +1,8 @@
+id: 5ea608e2-4460-4eb8-9f4f-f0f64e56ceea
+name: Use FedRAMP_Security Email in Emergencies
+description: FedRAMP MUST send Emergency and Emergency Test designated messages from fedramp_security@gsa.gov OR fedramp_security@fedramp.gov.
+elementType: frr
+externalId: AFC-FRP-UFS
+parent: frr-afc
+aliases:
+  - AFC-FRP-UFS

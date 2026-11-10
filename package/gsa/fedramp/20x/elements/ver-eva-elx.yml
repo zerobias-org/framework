@@ -1,0 +1,8 @@
+id: 1e47c68f-f5c6-482e-baad-cadc3721092a
+name: Evaluate Exploitability
+description: Providers MUST evaluate detected vulnerabilities, considering the context of the cloud service offering, to determine if they are likely exploitable vulnerabilities.
+elementType: frr
+externalId: VER-EVA-ELX
+parent: frr-ver
+aliases:
+  - VER-EVA-ELX

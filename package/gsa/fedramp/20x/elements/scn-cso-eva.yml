@@ -1,0 +1,8 @@
+id: 8e1a9ed8-6330-4d64-a104-31f60db4fb78
+name: Evaluate Changes
+description: Providers MUST evaluate all potential significant changes to determine the type of significant change and follow the appropriate Significant Change Notification rules.
+elementType: frr
+externalId: SCN-CSO-EVA
+parent: frr-scn
+aliases:
+  - SCN-CSO-EVA

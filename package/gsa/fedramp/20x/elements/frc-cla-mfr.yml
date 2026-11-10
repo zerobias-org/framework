@@ -1,0 +1,8 @@
+id: d4ed76dc-db03-4824-8f8e-2f0dbd30635d
+name: Mandatory FedRAMP Rules for Class A
+description: Providers seeking a Class A FedRAMP Certification MUST address all rules in this FedRAMP Class A Certification subset (FRC-CLA) AND the following additional FedRAMP Class A rules; the...
+elementType: frr
+externalId: FRC-CLA-MFR
+parent: frr-frc
+aliases:
+  - FRC-CLA-MFR

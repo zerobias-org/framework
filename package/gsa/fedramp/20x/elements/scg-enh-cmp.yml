@@ -1,0 +1,8 @@
+id: 9cb5d965-5a2b-43a1-bc8d-73b99ad535b6
+name: Comparison Capability
+description: Providers SHOULD offer the capability to compare all current settings for top-level administrative accounts and privileged accounts to the recommended secure defaults.
+elementType: frr
+externalId: SCG-ENH-CMP
+parent: frr-scg
+aliases:
+  - SCG-ENH-CMP

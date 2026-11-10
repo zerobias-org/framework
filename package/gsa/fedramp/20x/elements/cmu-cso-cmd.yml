@@ -1,0 +1,8 @@
+id: 045520c9-a674-456e-8d0e-b7219081e37f
+name: Cryptographic Module Documentation
+description: Providers MUST document the cryptographic modules used in each service (or groups of services that use the same modules) where cryptographic services are used to protect federal customer data,...
+elementType: frr
+externalId: CMU-CSO-CMD
+parent: frr-cmu
+aliases:
+  - CMU-CSO-CMD

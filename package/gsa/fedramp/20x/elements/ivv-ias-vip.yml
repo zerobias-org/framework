@@ -1,0 +1,8 @@
+id: d3a58bd1-8852-4d2b-bbb1-846e08aa3454
+name: Verify Inclusion in Certification Package
+description: Assessors MUST verify that information supplied during a FedRAMP independent assessment is included in the FedRAMP Certification Package by the provider without inappropriate modification.
+elementType: frr
+externalId: IVV-IAS-VIP
+parent: frr-ivv
+aliases:
+  - IVV-IAS-VIP

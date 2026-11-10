@@ -1,0 +1,8 @@
+id: 3774d912-426c-4c10-bab0-4dfaf9bdb225
+name: Include Relevant Policies
+description: Providers MUST supply all relevant policies and procedures in the FedRAMP Certification Data, including a human-readable and machine-readable reference that explains at least the following about...
+elementType: frr
+externalId: CDS-CSO-IRP
+parent: frr-cds
+aliases:
+  - CDS-CSO-IRP

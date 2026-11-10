@@ -1,0 +1,252 @@
+id: 56ea5c6d-7352-41da-aeb5-374592e794e7
+name: Class A
+description: 'FedRAMP 20x Class A Certification: mature providers entering the federal market.'
+elements:
+  cpo-csx-cpm:
+    mandatory: false
+    parameters: []
+    requirements: []
+  frc-cso-fcp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-pkg:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-jsn:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-mra:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-pop:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cla-asf:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cla-eam:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cla-mfr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cla-rfr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  frc-cla-ofr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  frc-cla-ivv:
+    mandatory: false
+    parameters: []
+    requirements: []
+  frc-app-mlf:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-afc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-fcp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-fia:
+    mandatory: false
+    parameters: []
+    requirements: []
+  frc-app-ntp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-usa:
+    mandatory: false
+    parameters: []
+    requirements: []
+  mkt-frp-sof:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mkt-cso-mlr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mkt-cso-pml:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-ced-rat:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-lmc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-rmv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-rvp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-vtd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-dfp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-ibp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-mat:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-ofa:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-rnt:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-rvp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-uln:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-aam:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-apm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-elp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-jit:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-snu:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-sus:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-inr-aar:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-inr-rir:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-inr-rpi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-evc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-let:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-osm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-rvl:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-giv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-res:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-ris:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-rsd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-rvd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-abo:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-arp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-rro:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-trc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-scr-mit:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-scr-mon:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-acm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-asm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-eis:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-sin:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-vri:
+    mandatory: true
+    parameters: []
+    requirements: []

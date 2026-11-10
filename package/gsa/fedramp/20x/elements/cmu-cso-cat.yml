@@ -1,0 +1,8 @@
+id: 28157f6c-aa74-46f6-80da-f7d68d137796
+name: Configuration of Agency Tenants
+description: Providers SHOULD configure agency tenants by default to use cryptographic services that use cryptographic modules or update streams of cryptographic modules with active validations under the...
+elementType: frr
+externalId: CMU-CSO-CAT
+parent: frr-cmu
+aliases:
+  - CMU-CSO-CAT

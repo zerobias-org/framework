@@ -1,0 +1,8 @@
+id: c4f26a5d-28ff-4676-a781-d34b6a2cf7ee
+name: Important Message Actions
+description: Providers SHOULD complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
+elementType: frr
+externalId: AFC-CSO-IMA
+parent: frr-afc
+aliases:
+  - AFC-CSO-IMA

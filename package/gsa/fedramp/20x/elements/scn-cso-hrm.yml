@@ -1,0 +1,8 @@
+id: fb11410d-a8fb-4786-b930-f6aebff14b40
+name: Human and Machine-Readable Notifications
+description: Providers MUST make ALL Significant Change Notifications and related audit records available in human-readable and JSON formats.
+elementType: frr
+externalId: SCN-CSO-HRM
+parent: frr-scn
+aliases:
+  - SCN-CSO-HRM

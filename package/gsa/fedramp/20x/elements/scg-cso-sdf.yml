@@ -1,0 +1,8 @@
+id: 0cf866d4-b408-4a9e-8d0c-542e30a459e1
+name: Secure Defaults
+description: Providers SHOULD set all settings to their recommended secure defaults for top-level administrative accounts and privileged accounts when initially provisioned.
+elementType: frr
+externalId: SCG-CSO-SDF
+parent: frr-scg
+aliases:
+  - SCG-CSO-SDF

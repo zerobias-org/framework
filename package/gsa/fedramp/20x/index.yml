@@ -1,0 +1,37 @@
+id: d48db122-5f13-4763-b7a8-081f2beb2ef5
+name: FedRAMP 20x
+description: >-
+  FedRAMP 20x certification requirements from the FedRAMP Consolidated Rules for 2026:
+  Key Security Indicators and the process rules that apply to the 20x track, with
+  baselines for Classes A, B and C. Class D is not included until FedRAMP finalizes it.
+standardType: framework
+standardCategory: cyber
+code: gsa_fedramp_20x
+externalId: FedRAMP 20x
+url: https://www.fedramp.gov/20x/
+version: '2026'
+status: approved
+external: true
+internal: false
+elementTypes:
+  - id: 3ea06ba0-c8ca-41f3-add4-01a0ac0e63f5
+    code: ksi_family
+    name: KSI Family
+    description: A family of Key Security Indicators
+  - id: 2a66a922-f38b-44ff-9630-afb7448d63fe
+    code: ksi
+    name: Key Security Indicator
+    description: A security outcome a provider demonstrates through measures
+    parent: ksi_family
+  - id: e0a38e35-b74d-4b6a-a85a-e69ab6a4fde9
+    code: frr_family
+    name: Rule Family
+    description: A family of FedRAMP process rules
+  - id: 9713cd84-a646-4765-b643-9d05f44a155a
+    code: frr
+    name: FedRAMP Rule
+    description: A FedRAMP process requirement or recommendation
+    parent: frr_family
+mappingTypes:
+  - ksi
+  - frr

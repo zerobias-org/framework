@@ -1,0 +1,7 @@
+id: d2751d73-a375-4077-8f6f-f1e16ca5cf91
+name: Cryptographic Module Use
+description: The Cryptographic Module Use rules clarify how providers should select and use cryptographic modules. These rules allow risk-based decisions for some services while still encouraging validated...
+elementType: frr_family
+externalId: FRR-CMU
+aliases:
+  - FRR-CMU

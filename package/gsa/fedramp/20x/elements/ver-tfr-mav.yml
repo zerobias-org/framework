@@ -1,0 +1,8 @@
+id: 37b79f0d-cfef-496a-ac71-0c51922e5f8b
+name: Mark Accepted Vulnerabilities
+description: Providers MUST categorize any vulnerability that is not or will not be fully mitigated or remediated within 192 days of evaluation as an accepted vulnerability.
+elementType: frr
+externalId: VER-TFR-MAV
+parent: frr-ver
+aliases:
+  - VER-TFR-MAV

@@ -1,0 +1,8 @@
+id: 3d0b0816-312b-4cb0-ac34-732b12dfac91
+name: Export Capability
+description: Providers SHOULD offer the capability to export all security settings in a machine-readable format.
+elementType: frr
+externalId: SCG-ENH-EXP
+parent: frr-scg
+aliases:
+  - SCG-ENH-EXP

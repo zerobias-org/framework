@@ -1,0 +1,8 @@
+id: 80086c65-c486-462e-8435-c01ad24ce95b
+name: Scope of FedRAMP
+description: FedRAMP MUST NOT list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
+elementType: frr
+externalId: MKT-FRP-SOF
+parent: frr-mkt
+aliases:
+  - MKT-FRP-SOF

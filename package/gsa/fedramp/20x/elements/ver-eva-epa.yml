@@ -1,0 +1,8 @@
+id: f54fc330-ae75-4cd8-a867-2a7da6c7e153
+name: Estimate Potential Agency Impact
+description: Providers MUST evaluate detected vulnerabilities, considering the context of the cloud service offering, to estimate the likely potential agency impact of exploitation on government customers...
+elementType: frr
+externalId: VER-EVA-EPA
+parent: frr-ver
+aliases:
+  - VER-EVA-EPA

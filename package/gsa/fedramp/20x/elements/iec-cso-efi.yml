@@ -1,0 +1,8 @@
+id: 97c3e949-5c6d-41ca-9ebd-f1845176a29b
+name: Estimate Federal Impact
+description: Providers SHOULD promptly estimate the likely adverse impact of an incident on agency customers to assign a Potential Agency Impact N-rating; this step is called Incident Rating.
+elementType: frr
+externalId: IEC-CSO-EFI
+parent: frr-iec
+aliases:
+  - IEC-CSO-EFI

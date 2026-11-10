@@ -1,0 +1,8 @@
+id: bf76818c-0e6a-4f3d-bcdb-329f467a8b97
+name: Automate Detection
+description: Providers SHOULD use automated services to improve and streamline vulnerability detection and response.
+elementType: frr
+externalId: VDR-CSO-ADT
+parent: frr-vdr
+aliases:
+  - VDR-CSO-ADT

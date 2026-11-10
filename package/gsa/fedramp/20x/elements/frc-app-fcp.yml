@@ -1,0 +1,8 @@
+id: 6c4a0ed6-a2a1-41c7-a0f5-22ee01d01b95
+name: Fresh FedRAMP Certification Package
+description: Providers MUST supply a fresh initial FedRAMP Certification Package that shows the current status of the cloud service offering as verified and validated by the provider within the previous 7 days.
+elementType: frr
+externalId: FRC-APP-FCP
+parent: frr-frc
+aliases:
+  - FRC-APP-FCP

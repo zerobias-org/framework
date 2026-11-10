@@ -1,0 +1,8 @@
+id: 500270e0-b640-497d-846d-94163b82f325
+name: Programmatic Access
+description: Trust centers MUST provide documented programmatic access to all FedRAMP Certification Data, including programmatic access to human-readable materials.
+elementType: frr
+externalId: CDS-TRC-PAC
+parent: frr-cds
+aliases:
+  - CDS-TRC-PAC

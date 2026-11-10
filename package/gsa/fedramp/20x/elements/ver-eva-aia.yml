@@ -1,0 +1,8 @@
+id: c7235c1f-b661-4a11-a936-2c3d861709cd
+name: Assume It's Automatable
+description: Providers MUST assume the exploitation of vulnerabilities can be automated UNLESS they have evidence proving otherwise.
+elementType: frr
+externalId: VER-EVA-AIA
+parent: frr-ver
+aliases:
+  - VER-EVA-AIA

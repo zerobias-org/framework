@@ -1,0 +1,8 @@
+id: cb3eac34-27d7-4ecc-a161-9e1433ef2103
+name: Vulnerability Detection
+description: Providers MUST systematically, persistently, and promptly discover and identify vulnerabilities within their cloud service offering using appropriate techniques such as assessment, scanning,...
+elementType: frr
+externalId: VDR-CSO-DET
+parent: frr-vdr
+aliases:
+  - VDR-CSO-DET

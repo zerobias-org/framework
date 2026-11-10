@@ -1,0 +1,8 @@
+id: 1964fde6-09cd-429b-a8d2-9fe2866d6938
+name: Agency Access
+description: Providers SHOULD supply access to the FedRAMP Certification Package with agencies upon request.
+elementType: frr
+externalId: CDS-UTC-AGA
+parent: frr-cds
+aliases:
+  - CDS-UTC-AGA

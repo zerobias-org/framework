@@ -1,0 +1,8 @@
+id: 26383f77-252a-4576-81c5-a15ba16af478
+name: Default PAIN Rating
+description: Providers MUST treat FedRAMP Reportable Incidents as if they have a Potential Agency Impact N-rating (PAIN) of 5 UNLESS they promptly estimate the PAIN rating following the rule in IEC-CSO-EFI...
+elementType: frr
+externalId: IEC-CSO-DPR
+parent: frr-iec
+aliases:
+  - IEC-CSO-DPR

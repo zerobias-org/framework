@@ -1,0 +1,8 @@
+id: 358e9c6d-96dc-4bd1-90e8-41ad33805c0e
+name: Historical FedRAMP Certification Data
+description: Providers MUST supply snapshots of FedRAMP Certification Data aligned to Ongoing Certification Reports to all necessary parties; these snapshots MUST be available for the duration of FedRAMP...
+elementType: frr
+externalId: CDS-CSO-HAD
+parent: frr-cds
+aliases:
+  - CDS-CSO-HAD

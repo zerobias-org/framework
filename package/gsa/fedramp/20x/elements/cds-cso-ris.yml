@@ -1,0 +1,8 @@
+id: a0f6492a-a1d2-4f62-ac3a-e49a668842c9
+name: Responsible Information Sharing
+description: Providers MUST provide sufficient information in FedRAMP Certification Data to support agency authorization decisions but SHOULD NOT include sensitive information that would likely enable a...
+elementType: frr
+externalId: CDS-CSO-RIS
+parent: frr-cds
+aliases:
+  - CDS-CSO-RIS

@@ -1,0 +1,8 @@
+id: 523e5c00-2c0b-495c-8abc-d8d8177b43f0
+name: Address Optional FedRAMP Rules for Class A
+description: 'Providers seeking a Class A FedRAMP Certification MAY address the following additional optional FedRAMP Class A rules (if applicable):'
+elementType: frr
+externalId: FRC-CLA-OFR
+parent: frr-frc
+aliases:
+  - FRC-CLA-OFR

@@ -1,0 +1,8 @@
+id: d1396ab9-fca0-46eb-adbe-4f586ddb2a00
+name: Detect After Changes
+description: Providers SHOULD automatically perform vulnerability detection on representative samples of new or significantly changed information resources.
+elementType: frr
+externalId: VDR-CSO-DAC
+parent: frr-vdr
+aliases:
+  - VDR-CSO-DAC

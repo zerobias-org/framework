@@ -1,0 +1,8 @@
+id: ca0a6652-9a38-47b3-98eb-ef122e707156
+name: Authorizing Just-in-Time
+description: A least-privileged, role and attribute-based, and just-in-time security authorization model is used and persistently reviewed for all user and non-user accounts and services.
+elementType: ksi
+externalId: KSI-IAM-JIT
+parent: ksi-iam
+aliases:
+  - KSI-IAM-JIT
