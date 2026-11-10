@@ -1,0 +1,11 @@
+id: eabb5cf9-cbaf-4e5f-9382-6719f69fca3e
+name: Reviewing Vulnerability Disclosures
+description: The effectiveness of the provider's vulnerability disclosure program is persistently reviewed.
+elementType: ksi
+externalId: KSI-PIY-RVD
+parent: ksi-piy
+aliases:
+  - KSI-PIY-RVD
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5_11

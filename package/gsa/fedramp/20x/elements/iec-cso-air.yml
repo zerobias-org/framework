@@ -1,0 +1,8 @@
+id: 615c294f-e87d-44e5-a360-9dbf2461b1b6
+name: Automated Incident Reporting
+description: Providers SHOULD use automation to minimize human intervention in the process of reporting FedRAMP Reportable Incidents to all affected parties.
+elementType: frr
+externalId: IEC-CSO-AIR
+parent: frr-iec
+aliases:
+  - IEC-CSO-AIR

@@ -1,0 +1,22 @@
+id: 593b02b7-f06e-46a8-877e-50f005c6916b
+name: Using Logical Networking
+description: Logical networking and related capabilities are used and persistently reviewed to enforce traffic flow controls.
+elementType: ksi
+externalId: KSI-CNA-ULN
+parent: ksi-cna
+aliases:
+  - KSI-CNA-ULN
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-12
+    - nist.80053.rev5.framework/ac-17_3
+    - nist.80053.rev5.framework/ac-4_21
+    - nist.80053.rev5.framework/ca-9
+    - nist.80053.rev5.framework/cm-11
+    - nist.80053.rev5.framework/sc-10
+    - nist.80053.rev5.framework/sc-4
+    - nist.80053.rev5.framework/sc-7
+    - nist.80053.rev5.framework/sc-7_20
+    - nist.80053.rev5.framework/sc-7_21
+    - nist.80053.rev5.framework/sc-7_7
+    - nist.80053.rev5.framework/sc-8

@@ -1,0 +1,12 @@
+id: dfbf4066-b63d-40c1-8b2d-6abbb482730e
+name: Automated Verification and Validation of Key Security Indicators
+description: 'Automated Verification and Validation of Key Security Indicators: the requirement varies by certification class, see the background.'
+elementType: frr
+externalId: FRC-CSX-VVK
+parent: frr-frc
+aliases:
+  - FRC-CSX-VVK
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-2_2
+    - nist.80053.rev5.framework/si-6

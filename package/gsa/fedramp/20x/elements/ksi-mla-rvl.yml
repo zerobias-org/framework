@@ -1,0 +1,20 @@
+id: 9b33f1bd-4f9f-42b7-9387-20d75f8511e5
+name: Reviewing Logs
+description: Logs are persistently reviewed and audited.
+elementType: ksi
+externalId: KSI-MLA-RVL
+parent: ksi-mla
+aliases:
+  - KSI-MLA-RVL
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-2_4
+    - nist.80053.rev5.framework/ac-6_9
+    - nist.80053.rev5.framework/au-2
+    - nist.80053.rev5.framework/au-6
+    - nist.80053.rev5.framework/au-6_1
+    - nist.80053.rev5.framework/au-7
+    - nist.80053.rev5.framework/ra-5_8
+    - nist.80053.rev5.framework/si-4
+    - nist.80053.rev5.framework/si-4_19
+    - nist.80053.rev5.framework/si-4_4

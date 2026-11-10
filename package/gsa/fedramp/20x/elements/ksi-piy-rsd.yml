@@ -1,0 +1,24 @@
+id: 6dbb4d02-50d3-4a08-a1d0-465e7e14c644
+name: Reviewing Security in the SDLC
+description: The effectiveness of building security and privacy considerations into the Software Development Lifecycle and aligning with CISA Secure By Design principles is persistently reviewed.
+elementType: ksi
+externalId: KSI-PIY-RSD
+parent: ksi-piy
+aliases:
+  - KSI-PIY-RSD
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-5
+    - nist.80053.rev5.framework/au-3_3
+    - nist.80053.rev5.framework/cm-3_4
+    - nist.80053.rev5.framework/ia-5_7
+    - nist.80053.rev5.framework/pl-8
+    - nist.80053.rev5.framework/pm-7
+    - nist.80053.rev5.framework/ra-9
+    - nist.80053.rev5.framework/sa-3
+    - nist.80053.rev5.framework/sa-8
+    - nist.80053.rev5.framework/sc-18
+    - nist.80053.rev5.framework/sc-4
+    - nist.80053.rev5.framework/si-10
+    - nist.80053.rev5.framework/si-11
+    - nist.80053.rev5.framework/si-16

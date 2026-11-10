@@ -1,0 +1,16 @@
+id: 829082d1-1c6f-43cf-81b5-2b0f553df6cc
+name: Reviewing Change Procedures
+description: The effectiveness of documented change management procedures is persistently reviewed.
+elementType: ksi
+externalId: KSI-CMT-RVP
+parent: ksi-cmt
+aliases:
+  - KSI-CMT-RVP
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-3
+    - nist.80053.rev5.framework/cm-3_2
+    - nist.80053.rev5.framework/cm-3_4
+    - nist.80053.rev5.framework/cm-5
+    - nist.80053.rev5.framework/cm-7_1
+    - nist.80053.rev5.framework/cm-9

@@ -1,0 +1,11 @@
+id: 6c7df9b5-0c58-447c-8808-e5036124fc81
+name: Quarterly Review Meeting
+description: 'Quarterly Review Meeting: the requirement varies by certification class, see the background.'
+elementType: frr
+externalId: CCM-QTR-MTG
+parent: frr-ccm
+aliases:
+  - CCM-QTR-MTG
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ca-7

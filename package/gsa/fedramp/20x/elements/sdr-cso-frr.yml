@@ -1,0 +1,8 @@
+id: ca6c75a8-fc1c-43cb-af60-aa412f16b5f2
+name: FedRAMP Rules
+description: 'Providers MUST supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:'
+elementType: frr
+externalId: SDR-CSO-FRR
+parent: frr-sdr
+aliases:
+  - SDR-CSO-FRR

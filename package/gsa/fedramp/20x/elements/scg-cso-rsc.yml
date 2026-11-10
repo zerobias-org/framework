@@ -1,0 +1,11 @@
+id: cdc5fb7d-1e95-4b91-ba28-0c7bf743a507
+name: Recommended Secure Configuration
+description: 'Providers MUST create, maintain, and make available recommendations for securely configuring their cloud services (the Secure Configuration Guide) that includes at least the following information:'
+elementType: frr
+externalId: SCG-CSO-RSC
+parent: frr-scg
+aliases:
+  - SCG-CSO-RSC
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-7

@@ -1,0 +1,8 @@
+id: 19bc7db3-9892-460f-98f1-c5c272d63d24
+name: Notification Mechanisms
+description: Providers MAY notify necessary parties in a variety of ways as long as the mechanism for notification is clearly documented in the FedRAMP Certification Package and easily accessible.
+elementType: frr
+externalId: SCN-CSO-NOM
+parent: frr-scn
+aliases:
+  - SCN-CSO-NOM

@@ -1,0 +1,8 @@
+id: e2f5e3d6-7a64-4ffd-beda-a60b4e891da6
+name: Remediate KEVs
+description: Providers SHOULD remediate Known Exploited Vulnerabilities according to the due dates in the CISA Known Exploited Vulnerabilities Catalog (even if the vulnerability has been fully mitigated) as...
+elementType: frr
+externalId: VDR-TFR-KEV
+parent: frr-vdr
+aliases:
+  - VDR-TFR-KEV

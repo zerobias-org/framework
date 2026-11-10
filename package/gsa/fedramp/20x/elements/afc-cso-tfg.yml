@@ -1,0 +1,8 @@
+id: 83bfe844-b11a-4e9b-bb7b-a2d0fae5c82f
+name: Trust @fedramp.gov and @gsa.gov
+description: Providers MUST treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone...
+elementType: frr
+externalId: AFC-CSO-TFG
+parent: frr-afc
+aliases:
+  - AFC-CSO-TFG

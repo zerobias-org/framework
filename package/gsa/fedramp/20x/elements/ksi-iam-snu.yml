@@ -1,0 +1,20 @@
+id: b4be500b-7b92-46ec-99b3-70c35542441c
+name: Securing Non-User Authentication
+description: Appropriately secure authentication methods are used and persistently reviewed for non-user accounts and services.
+elementType: ksi
+externalId: KSI-IAM-SNU
+parent: ksi-iam
+aliases:
+  - KSI-IAM-SNU
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-2
+    - nist.80053.rev5.framework/ac-2_2
+    - nist.80053.rev5.framework/ac-2_9
+    - nist.80053.rev5.framework/ac-4
+    - nist.80053.rev5.framework/ac-6_5
+    - nist.80053.rev5.framework/au-10
+    - nist.80053.rev5.framework/ia-2_5
+    - nist.80053.rev5.framework/ia-3
+    - nist.80053.rev5.framework/ia-5_2
+    - nist.80053.rev5.framework/ra-5_5

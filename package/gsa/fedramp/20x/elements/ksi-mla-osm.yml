@@ -1,0 +1,32 @@
+id: 03ba3fa2-92c2-4161-94f4-a17336d2c627
+name: Operating SIEM Capability
+description: A Security Information and Event Management (SIEM) or similar system(s) is used and persistently reviewed for centralized, tamper-resistant logging of events, activities, and changes.
+elementType: ksi
+externalId: KSI-MLA-OSM
+parent: ksi-mla
+aliases:
+  - KSI-MLA-OSM
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-17_1
+    - nist.80053.rev5.framework/ac-20_1
+    - nist.80053.rev5.framework/au-11
+    - nist.80053.rev5.framework/au-12_1
+    - nist.80053.rev5.framework/au-2
+    - nist.80053.rev5.framework/au-3
+    - nist.80053.rev5.framework/au-3_1
+    - nist.80053.rev5.framework/au-4
+    - nist.80053.rev5.framework/au-5
+    - nist.80053.rev5.framework/au-5_1
+    - nist.80053.rev5.framework/au-6_1
+    - nist.80053.rev5.framework/au-6_3
+    - nist.80053.rev5.framework/au-6_4
+    - nist.80053.rev5.framework/au-6_5
+    - nist.80053.rev5.framework/au-7
+    - nist.80053.rev5.framework/au-7_1
+    - nist.80053.rev5.framework/au-8
+    - nist.80053.rev5.framework/au-9
+    - nist.80053.rev5.framework/ir-4_1
+    - nist.80053.rev5.framework/si-4_16
+    - nist.80053.rev5.framework/si-4_2
+    - nist.80053.rev5.framework/si-4_4

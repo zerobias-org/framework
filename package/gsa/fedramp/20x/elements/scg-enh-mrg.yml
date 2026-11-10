@@ -1,0 +1,8 @@
+id: 75dcbdb0-8116-4c4f-856f-f8519c517e82
+name: Machine-Readable Guidance
+description: Providers SHOULD also provide the Secure Configuration Guide in a machine-readable format that can be used by customers or third-party tools to compare against current settings.
+elementType: frr
+externalId: SCG-ENH-MRG
+parent: frr-scg
+aliases:
+  - SCG-ENH-MRG

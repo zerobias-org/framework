@@ -1,0 +1,8 @@
+id: 0a0223f4-02ab-4da7-b054-cd097642b9b6
+name: Acknowledge Receipt
+description: Providers SHOULD promptly and automatically acknowledge the receipt of messages received from FedRAMP in their FedRAMP Security Inbox.
+elementType: frr
+externalId: AFC-CSO-ACK
+parent: frr-afc
+aliases:
+  - AFC-CSO-ACK

@@ -1,0 +1,24 @@
+id: 9d98f6fd-33c8-4299-9f67-30b502be36b1
+name: Validating Resource Integrity
+description: Use cryptographic methods to validate the integrity of machine-based information resources.
+elementType: ksi
+externalId: KSI-SVC-VRI
+parent: ksi-svc
+aliases:
+  - KSI-SVC-VRI
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-17_4
+    - nist.80053.rev5.framework/ac-18
+    - nist.80053.rev5.framework/ac-19
+    - nist.80053.rev5.framework/au-9_3
+    - nist.80053.rev5.framework/cm-14
+    - nist.80053.rev5.framework/cm-2_2
+    - nist.80053.rev5.framework/cm-8_3
+    - nist.80053.rev5.framework/sc-13
+    - nist.80053.rev5.framework/sc-23
+    - nist.80053.rev5.framework/si-7
+    - nist.80053.rev5.framework/si-7_1
+    - nist.80053.rev5.framework/si-7_15
+    - nist.80053.rev5.framework/sr-10
+    - nist.80053.rev5.framework/sr-11

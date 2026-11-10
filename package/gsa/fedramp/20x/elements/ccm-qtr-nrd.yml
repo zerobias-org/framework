@@ -1,0 +1,8 @@
+id: e14b8422-418f-4a59-bc89-ece1a1744bfb
+name: Next Review Date
+description: Providers MUST publicly supply the target date for their next Quarterly Review with other public FedRAMP Certification Data.
+elementType: frr
+externalId: CCM-QTR-NRD
+parent: frr-ccm
+aliases:
+  - CCM-QTR-NRD

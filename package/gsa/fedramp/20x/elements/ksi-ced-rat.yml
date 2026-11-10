@@ -1,0 +1,29 @@
+id: c1abef74-4313-4ab2-b87f-ba890a06f9ee
+name: Reviewing All Training
+description: The effectiveness of relevant cybersecurity education and training is persistently reviewed, including at least general training for all employees, role-specific training for employees in high...
+elementType: ksi
+externalId: KSI-CED-RAT
+parent: ksi-ced
+aliases:
+  - KSI-CED-RAT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/at-2
+    - nist.80053.rev5.framework/at-2_2
+    - nist.80053.rev5.framework/at-2_3
+    - nist.80053.rev5.framework/at-3
+    - nist.80053.rev5.framework/at-3_5
+    - nist.80053.rev5.framework/at-4
+    - nist.80053.rev5.framework/cm-11
+    - nist.80053.rev5.framework/cp-3
+    - nist.80053.rev5.framework/cp-3_1
+    - nist.80053.rev5.framework/ir-2
+    - nist.80053.rev5.framework/ir-2_1
+    - nist.80053.rev5.framework/ir-2_2
+    - nist.80053.rev5.framework/ir-2_3
+    - nist.80053.rev5.framework/ir-9_2
+    - nist.80053.rev5.framework/ir-9_4
+    - nist.80053.rev5.framework/pl-4
+    - nist.80053.rev5.framework/pl-4_1
+    - nist.80053.rev5.framework/ps-6
+    - nist.80053.rev5.framework/sr-11_1

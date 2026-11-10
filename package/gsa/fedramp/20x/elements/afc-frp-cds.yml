@@ -1,0 +1,8 @@
+id: 6503230c-d48f-4352-8fb7-c04783d5e171
+name: Criticality Designators
+description: 'FedRAMP MUST convey the criticality of the message in the subject line, IF the message requires an elevated reaction, using one of the following designators:'
+elementType: frr
+externalId: AFC-FRP-CDS
+parent: frr-afc
+aliases:
+  - AFC-FRP-CDS

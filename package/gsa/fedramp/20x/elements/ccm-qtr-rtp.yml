@@ -1,0 +1,8 @@
+id: d16d9414-f733-4c3c-b016-2b298532c214
+name: Restrict Third Parties
+description: Providers SHOULD NOT invite third parties to attend Quarterly Reviews intended for agencies unless they have specific relevance.
+elementType: frr
+externalId: CCM-QTR-RTP
+parent: frr-ccm
+aliases:
+  - CCM-QTR-RTP

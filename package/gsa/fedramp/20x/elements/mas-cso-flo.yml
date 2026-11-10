@@ -1,0 +1,15 @@
+id: 46c0e0df-b660-4e3f-8f46-93704158b669
+name: Information Flows and Security Categories
+description: Providers MUST clearly identify, document, and explain information flows and security categories for ALL information resources or sets of information resources in the cloud service offering.
+elementType: frr
+externalId: MAS-CSO-FLO
+parent: frr-mas
+aliases:
+  - MAS-CSO-FLO
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-4
+    - nist.80053.rev5.framework/cm-12
+    - nist.80053.rev5.framework/cm-12_1
+    - nist.80053.rev5.framework/ra-3
+    - nist.80053.rev5.framework/si-4_19

@@ -1,0 +1,8 @@
+id: 3f1a64c6-71da-4450-8eb3-cee350f2bba1
+name: Verified Emails
+description: FedRAMP MUST send messages to cloud service providers using an official @fedramp.gov or @gsa.gov email address with properly configured Sender Policy Framework (SPF), DomainKeys Identified Mail...
+elementType: frr
+externalId: AFC-FRP-VRE
+parent: frr-afc
+aliases:
+  - AFC-FRP-VRE

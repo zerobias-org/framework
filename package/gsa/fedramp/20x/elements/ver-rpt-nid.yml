@@ -1,0 +1,8 @@
+id: 5e2f913b-a574-48f2-a58d-ac9ac048bc32
+name: Responsible Disclosure
+description: Providers MUST NOT irresponsibly disclose specific sensitive information about vulnerabilities that would likely lead to exploitation, but MUST disclose sufficient information for informed...
+elementType: frr
+externalId: VER-RPT-NID
+parent: frr-ver
+aliases:
+  - VER-RPT-NID

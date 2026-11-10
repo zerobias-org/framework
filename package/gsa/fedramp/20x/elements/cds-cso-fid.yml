@@ -1,0 +1,8 @@
+id: ae833630-8a38-4aa7-9f9b-5dfd0ed9a82a
+name: Always Include FedRAMP ID
+description: Providers MUST always include the FedRAMP ID of the related cloud service offering in all FedRAMP Certification Data once assigned, including all reports, notifications, and other communication...
+elementType: frr
+externalId: CDS-CSO-FID
+parent: frr-cds
+aliases:
+  - CDS-CSO-FID

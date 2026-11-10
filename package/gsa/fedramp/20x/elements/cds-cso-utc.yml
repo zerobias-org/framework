@@ -1,0 +1,8 @@
+id: 292fa6d1-81aa-4dfe-8666-8e8f6d93cb69
+name: Use Trust Centers
+description: Providers MUST use a FedRAMP-compatible trust center to store and share FedRAMP Certification Data with all necessary parties.
+elementType: frr
+externalId: CDS-CSO-UTC
+parent: frr-cds
+aliases:
+  - CDS-CSO-UTC

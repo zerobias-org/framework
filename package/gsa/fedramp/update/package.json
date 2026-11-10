@@ -1,0 +1,22 @@
+{
+  "name": "@zerobias-org/framework-gsa-fedramp-update",
+  "version": "1.0.0",
+  "description": "Update tool for the FedRAMP 20x framework",
+  "private": true,
+  "license": "ISC",
+  "author": "ZeroBias Organization",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "update": "tsx index.ts"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^25.2.2",
+    "typescript": "^5.9.3"
+  }
+}

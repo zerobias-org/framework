@@ -1,0 +1,30 @@
+id: 062adb09-0e0d-41e7-b310-1cac7b7e0dad
+name: Responding to Suspicious Activity
+description: Accounts with privileged access are disabled or otherwise secured in response to suspicious activity.
+elementType: ksi
+externalId: KSI-IAM-SUS
+parent: ksi-iam
+aliases:
+  - KSI-IAM-SUS
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-2
+    - nist.80053.rev5.framework/ac-2_1
+    - nist.80053.rev5.framework/ac-2_11
+    - nist.80053.rev5.framework/ac-2_12
+    - nist.80053.rev5.framework/ac-2_13
+    - nist.80053.rev5.framework/ac-2_3
+    - nist.80053.rev5.framework/ac-7
+    - nist.80053.rev5.framework/au-6_5
+    - nist.80053.rev5.framework/cm-5_1
+    - nist.80053.rev5.framework/cm-6_2
+    - nist.80053.rev5.framework/ir-4_2
+    - nist.80053.rev5.framework/ir-4_6
+    - nist.80053.rev5.framework/ps-4
+    - nist.80053.rev5.framework/ps-8
+    - nist.80053.rev5.framework/si-4
+    - nist.80053.rev5.framework/si-4_1
+    - nist.80053.rev5.framework/si-4_19
+    - nist.80053.rev5.framework/si-4_20
+    - nist.80053.rev5.framework/si-4_22
+    - nist.80053.rev5.framework/si-4_4

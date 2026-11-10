@@ -1,0 +1,8 @@
+id: 01cd2f4c-abe1-486c-942c-17a43786e8b4
+name: Application within MAS
+description: Providers SHOULD apply ALL Key Security Indicators to ALL aspects of their cloud service offering that are within the FedRAMP Minimum Assessment Scope.
+elementType: frr
+externalId: FRC-CSX-MAS
+parent: frr-frc
+aliases:
+  - FRC-CSX-MAS

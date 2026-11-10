@@ -1,0 +1,8 @@
+id: 5f3079ac-f8b5-42e7-92c0-381bc05369ab
+name: Evaluate Internet-Reachability
+description: Providers MUST evaluate detected vulnerabilities, considering the context of the cloud service offering, to determine if they are internet-reachable vulnerabilities.
+elementType: frr
+externalId: VER-EVA-EIR
+parent: frr-ver
+aliases:
+  - VER-EVA-EIR

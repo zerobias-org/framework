@@ -1,0 +1,17 @@
+id: 58b6e21d-1f6b-4460-a2f0-68c796fa5180
+name: Validating Communications
+description: 'Validating Communications: the requirement varies by certification class, see the background.'
+elementType: ksi
+externalId: KSI-SVC-VCM
+parent: ksi-svc
+aliases:
+  - KSI-SVC-VCM
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-10
+    - nist.80053.rev5.framework/ac-17_4
+    - nist.80053.rev5.framework/ac-18
+    - nist.80053.rev5.framework/ac-19
+    - nist.80053.rev5.framework/sc-23
+    - nist.80053.rev5.framework/si-4_22
+    - nist.80053.rev5.framework/si-7_1

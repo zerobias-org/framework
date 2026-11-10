@@ -1,0 +1,12 @@
+id: 46381686-e154-4899-8b93-9f5532f97139
+name: Maintain Security
+description: Providers SHOULD NOT weaken the security of information resources to facilitate vulnerability scanning, detection, or assessment activities.
+elementType: frr
+externalId: VDR-CSO-MSP
+parent: frr-vdr
+aliases:
+  - VDR-CSO-MSP
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5_5
+    - nist.80053.rev5.framework/si-2

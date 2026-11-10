@@ -1,0 +1,26 @@
+id: b296ec67-ff2b-4638-bcc1-fccf137de7ea
+name: Logging Event Types
+description: A list of information resources and event types that will be logged, monitored, and audited is maintained and persistently reviewed to ensure these activities occur.
+elementType: ksi
+externalId: KSI-MLA-LET
+parent: ksi-mla
+aliases:
+  - KSI-MLA-LET
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-17_1
+    - nist.80053.rev5.framework/ac-2_4
+    - nist.80053.rev5.framework/ac-20_1
+    - nist.80053.rev5.framework/ac-6_9
+    - nist.80053.rev5.framework/au-10
+    - nist.80053.rev5.framework/au-12
+    - nist.80053.rev5.framework/au-2
+    - nist.80053.rev5.framework/au-7
+    - nist.80053.rev5.framework/au-7_1
+    - nist.80053.rev5.framework/cm-5_1
+    - nist.80053.rev5.framework/ir-9_4
+    - nist.80053.rev5.framework/si-4_19
+    - nist.80053.rev5.framework/si-4_20
+    - nist.80053.rev5.framework/si-4_4
+    - nist.80053.rev5.framework/si-4_5
+    - nist.80053.rev5.framework/si-7_7

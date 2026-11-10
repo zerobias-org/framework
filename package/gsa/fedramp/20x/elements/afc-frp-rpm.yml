@@ -1,0 +1,8 @@
+id: 6e5a9b91-2d8e-4b29-befe-1a2bf7886d3b
+name: Reaction Metrics
+description: FedRAMP MAY track and publicly share the time required by cloud service providers to take the actions specified in messages that require an elevated reaction.
+elementType: frr
+externalId: AFC-FRP-RPM
+parent: frr-afc
+aliases:
+  - AFC-FRP-RPM

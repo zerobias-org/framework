@@ -1,0 +1,8 @@
+id: 6493f759-c42e-4f46-9017-8537c1e5b8e7
+name: Evaluate False Positives
+description: Providers SHOULD evaluate detected vulnerabilities, considering the context of the cloud service offering, to determine if they are false positive vulnerabilities.
+elementType: frr
+externalId: VER-EVA-EFP
+parent: frr-ver
+aliases:
+  - VER-EVA-EFP

@@ -1,0 +1,12 @@
+id: 14f7fae1-ef4a-4a71-be98-1b6838e51d1b
+name: Evaluate FedRAMP Reportability
+description: Providers MUST promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal...
+elementType: frr
+externalId: IEC-CSO-EFR
+parent: frr-iec
+aliases:
+  - IEC-CSO-EFR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-5_2
+    - nist.80053.rev5.framework/ir-4_11

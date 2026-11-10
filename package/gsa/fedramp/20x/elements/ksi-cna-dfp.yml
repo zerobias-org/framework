@@ -1,0 +1,15 @@
+id: 1d7008aa-5ea9-4661-a77d-e4cd67fce2e1
+name: Defining Functionality and Privileges
+description: The functionality and privileges for infrastructure and services are strictly defined.
+elementType: ksi
+externalId: KSI-CNA-DFP
+parent: ksi-cna
+aliases:
+  - KSI-CNA-DFP
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-2
+    - nist.80053.rev5.framework/cm-8_4
+    - nist.80053.rev5.framework/cp-10_4
+    - nist.80053.rev5.framework/ir-9_4
+    - nist.80053.rev5.framework/si-3

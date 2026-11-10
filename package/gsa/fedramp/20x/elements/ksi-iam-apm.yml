@@ -1,0 +1,27 @@
+id: adc02413-5406-4b4e-a699-cbf124b5290a
+name: Adopting Passwordless Methods
+description: Secure passwordless methods are used for user authentication and authorization when feasible, otherwise strong passwords with phishing-resistant MFA is used.
+elementType: ksi
+externalId: KSI-IAM-APM
+parent: ksi-iam
+aliases:
+  - KSI-IAM-APM
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-2
+    - nist.80053.rev5.framework/ac-3
+    - nist.80053.rev5.framework/ia-2
+    - nist.80053.rev5.framework/ia-2_1
+    - nist.80053.rev5.framework/ia-2_2
+    - nist.80053.rev5.framework/ia-2_6
+    - nist.80053.rev5.framework/ia-2_8
+    - nist.80053.rev5.framework/ia-5
+    - nist.80053.rev5.framework/ia-5_1
+    - nist.80053.rev5.framework/ia-5_2
+    - nist.80053.rev5.framework/ia-5_6
+    - nist.80053.rev5.framework/ia-5_8
+    - nist.80053.rev5.framework/ia-6
+    - nist.80053.rev5.framework/ia-8
+    - nist.80053.rev5.framework/ia-8_2
+    - nist.80053.rev5.framework/ia-8_4
+    - nist.80053.rev5.framework/sc-23

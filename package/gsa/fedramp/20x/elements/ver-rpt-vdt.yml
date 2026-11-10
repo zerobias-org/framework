@@ -1,0 +1,11 @@
+id: 68224376-403d-4e7d-a889-bda34708c06f
+name: Vulnerability Details
+description: 'Providers MUST include the following information (if applicable) on detected vulnerabilities when reporting on vulnerability detection and response activity, UNLESS it is an accepted vulnerability:'
+elementType: frr
+externalId: VER-RPT-VDT
+parent: frr-ver
+aliases:
+  - VER-RPT-VDT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/si-2_3

@@ -1,0 +1,8 @@
+id: 828ac832-684f-4bbd-990f-46995a408bf4
+name: Use Instructions
+description: Providers MUST include instructions in the FedRAMP Certification Package that explain how to obtain and use the Secure Configuration Guide.
+elementType: frr
+externalId: SCG-CSO-AUP
+parent: frr-scg
+aliases:
+  - SCG-CSO-AUP

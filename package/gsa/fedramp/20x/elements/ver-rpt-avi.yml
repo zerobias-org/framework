@@ -1,0 +1,8 @@
+id: acae66b1-ca74-427f-a3c8-7540de305c95
+name: Accepted Vulnerability Info
+description: 'Providers MUST include the following information on accepted vulnerabilities when reporting on vulnerability detection and response activity:'
+elementType: frr
+externalId: VER-RPT-AVI
+parent: frr-ver
+aliases:
+  - VER-RPT-AVI

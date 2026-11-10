@@ -1,0 +1,8 @@
+id: 48420bb9-97f1-4fc9-94d7-b39d7b64ed55
+name: Receive Email Without Disruption
+description: Providers MUST receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
+elementType: frr
+externalId: AFC-CSO-RCV
+parent: frr-afc
+aliases:
+  - AFC-CSO-RCV
