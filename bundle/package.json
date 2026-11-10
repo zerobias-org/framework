@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/framework-bundle",
-  "version": "0.0.80",
+  "version": "0.0.81",
   "description": "All installable frameworks",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -41,6 +41,7 @@
     "@zerobias-org/framework-eu-enisa-v1": "2.0.1",
     "@zerobias-org/framework-eu-gdpr-v1": "2.0.3",
     "@zerobias-org/framework-gb-mds-v2024": "2.0.1",
+    "@zerobias-org/framework-gsa-fedramp-20x": "1.0.0",
     "@zerobias-org/framework-iec-60601-2021": "2.0.3",
     "@zerobias-org/framework-in-dpdpa-2023": "2.0.1",
     "@zerobias-org/framework-iso-27001-2022": "2.0.1",
