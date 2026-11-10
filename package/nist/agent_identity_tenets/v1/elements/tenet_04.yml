@@ -1,0 +1,7 @@
+id: a5df596c-19b8-44cd-8ed1-c8d025f097ef
+name: '04 Short-Lived, Dynamic & Revocable Authorization'
+description: 'Access is just-in-time, time-bounded, audience-specific and verified at runtime, avoiding long-lived bearer tokens and static secrets.'
+elementType: tenet
+externalId: '04'
+aliases:
+  - 'tenet_04'

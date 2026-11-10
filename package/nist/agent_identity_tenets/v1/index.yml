@@ -1,0 +1,25 @@
+id: de0f29d8-20b3-43ae-be39-b77a50569a3e
+name: NIST Design Tenets for Agent Identity Management Systems
+description: >-
+  Ten design tenets for identity, authentication and authorization of software and
+  AI agents, published on the NIST Cybersecurity Insights blog on October 27, 2026.
+  This is an interim source: a blog post with no SP, IR or CSWP number, not a formal
+  NIST standard. The tenets are guideposts for NCCoE agent identity demonstrations,
+  and NCCoE plans an SP 1800 practice guide on the topic. Credit: Harold Booth, Bill
+  Fisher, Ryan Galluzzo and Tom Clancy.
+standardType: framework
+standardCategory: cyber
+code: nist_agent_identity_tenets_v1
+externalId: NIST Agent Identity Design Tenets
+url: https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems
+version: v1
+status: approved
+external: true
+internal: false
+elementTypes:
+  - id: 0e2be6a4-2ef6-4446-8e83-a6135b68e3ac
+    code: tenet
+    name: Tenet
+    description: A design tenet for agent identity management systems
+mappingTypes:
+  - tenet
