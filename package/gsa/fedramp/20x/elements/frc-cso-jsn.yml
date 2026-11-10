@@ -1,0 +1,8 @@
+id: 3a754841-8fcf-4999-ae0b-fb07b405a216
+name: FedRAMP JSON Schemas
+description: Providers MUST supply machine-readable information in JSON documents that are valid against the corresponding JSON schema when a rule contains a FedRAMP JSON schema, UNLESS otherwise specified...
+elementType: frr
+externalId: FRC-CSO-JSN
+parent: frr-frc
+aliases:
+  - FRC-CSO-JSN

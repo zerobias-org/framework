@@ -1,0 +1,900 @@
+id: 8fd414c2-56b3-41f2-bcbd-3d7e7c176b83
+name: Class C
+description: 'FedRAMP 20x Class C Certification: common enterprise services used across an agency.'
+elements:
+  afc-frp-vre:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-frp-cds:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-frp-ufs:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-frp-pnt:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-frp-rqa:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-frp-ert:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-frp-cor:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-frp-rpm:
+    mandatory: false
+    parameters: []
+    requirements: []
+  afc-cso-inb:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-cso-noc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-cso-tfg:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-cso-rcv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-cso-cra:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-cso-emr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  afc-cso-ima:
+    mandatory: false
+    parameters: []
+    requirements: []
+  afc-cso-ack:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-agm-ror:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-agm-csc:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-ocr-avl:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-ocr-nrd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-ocr-fbm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-ocr-afs:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-ocr-lsi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-ocr-sor:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-ocr-rps:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-qtr-mtg:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-qtr-reg:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-qtr-nrd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-qtr-nid:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ccm-qtr-sar:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-qtr-act:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-qtr-rtr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-qtr-rtp:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-qtr-srr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ccm-qtr-scr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cds-cso-pub:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-svc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-fid:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-frc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-avr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-utc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-cbf:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-ris:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-irp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-had:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-cso-psm:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cds-cso-rps:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cds-trc-ush:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-trc-pac:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-trc-aai:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-trc-acl:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-trc-hmr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cds-trc-ssm:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cds-utc-aad:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cds-utc-aga:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cmu-cso-cmd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cmu-cso-uvm:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cmu-cso-cat:
+    mandatory: false
+    parameters: []
+    requirements: []
+  cpo-cso-ovr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cpo-cso-mtd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cpo-cso-osa:
+    mandatory: true
+    parameters: []
+    requirements: []
+  cpo-csx-cpm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-fcp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-pkg:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-jsn:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-mra:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-cso-pop:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-mlf:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-afc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-fcp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-fia:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-ntp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-app-usa:
+    mandatory: false
+    parameters: []
+    requirements: []
+  frc-csx-vvk:
+    mandatory: true
+    parameters: []
+    requirements: []
+  frc-csx-vvr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  frc-csx-mas:
+    mandatory: false
+    parameters: []
+    requirements: []
+  iec-frp-orv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  iec-cso-efr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  iec-cso-dpr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  iec-cso-iir:
+    mandatory: true
+    parameters: []
+    requirements: []
+  iec-cso-oir:
+    mandatory: true
+    parameters: []
+    requirements: []
+  iec-cso-fir:
+    mandatory: true
+    parameters: []
+    requirements: []
+  iec-cso-efi:
+    mandatory: false
+    parameters: []
+    requirements: []
+  iec-cso-air:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ivv-cso-fia:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-cso-sei:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-cso-see:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-cso-icp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-cso-dus:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-cso-ste:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ivv-cso-usr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ivv-cso-raa:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ivv-ias-vim:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-ias-vef:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-ias-sum:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-ias-osa:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-ias-vip:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ivv-ias-epx:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ivv-ias-sha:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ivv-csx-aia:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mas-cso-iir:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mas-cso-flo:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mas-cso-tpr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mas-cso-mdi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mas-cso-sup:
+    mandatory: false
+    parameters: []
+    requirements: []
+  mkt-frp-sof:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mkt-cso-mlr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  mkt-cso-pml:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scg-cso-rsc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scg-cso-aup:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scg-cso-pub:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scg-cso-sdf:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scg-enh-cmp:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scg-enh-exp:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scg-enh-api:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scg-enh-mrg:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scg-enh-vrh:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scn-frp-cap:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scn-cso-eva:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-cso-mar:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-cso-inf:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-cso-his:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-cso-hrm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-cso-ari:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scn-cso-nom:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scn-cso-emg:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scn-adp-ntf:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-rtr-nnr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  scn-trf-nip:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-trf-nfp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-trf-naf:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-trf-nav:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-trf-upd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  scn-trf-tpr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  sdr-cso-frr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sdr-cso-mtd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sdr-csx-ksi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  sdr-csx-kmt:
+    mandatory: true
+    parameters: []
+    requirements: []
+  vdr-cso-det:
+    mandatory: true
+    parameters: []
+    requirements: []
+  vdr-cso-res:
+    mandatory: true
+    parameters: []
+    requirements: []
+  vdr-cso-fav:
+    mandatory: true
+    parameters: []
+    requirements: []
+  vdr-cso-dfr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-cso-adt:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-cso-dac:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-cso-msp:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-cso-ake:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-cso-sir:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-tfr-nmv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  vdr-tfr-pdd:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-tfr-pcd:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-tfr-pvr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-tfr-rmn:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-tfr-kev:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-tfr-psd:
+    mandatory: false
+    parameters: []
+    requirements: []
+  vdr-tfr-mvx:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-frp-arp:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-frp-adv:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-agm-rvr:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-agm-map:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-eva-elx:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-eva-eir:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-eva-epa:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-eva-aia:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-eva-grv:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-eva-efp:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-eva-efa:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-rpt-per:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-rpt-vdt:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-rpt-avi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-rpt-nid:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-rpt-hlo:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-rpt-rpd:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-tfr-mhr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-tfr-mav:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ver-tfr-mrh:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-tfr-evu:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-tfr-iri:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ver-tfr-nri:
+    mandatory: false
+    parameters: []
+    requirements: []
+  ksi-ced-rat:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-lmc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-rmv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-rvp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cmt-vtd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-dfp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-eis:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-ibp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-mat:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-ofa:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-rnt:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-rvp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-cna-uln:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-aam:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-apm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-elp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-jit:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-snu:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-iam-sus:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-inr-aar:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-inr-rir:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-inr-rpi:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-ala:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-evc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-let:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-osm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-mla-rvl:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-giv:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-res:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-ris:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-rsd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-piy-rvd:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-abo:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-arp:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-rro:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-rpl-trc:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-scr-mit:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-scr-mon:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-acm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-asm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-eis:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-prr:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-rud:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-sin:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-vcm:
+    mandatory: true
+    parameters: []
+    requirements: []
+  ksi-svc-vri:
+    mandatory: true
+    parameters: []
+    requirements: []

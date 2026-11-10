@@ -1,0 +1,26 @@
+id: cb3eac34-27d7-4ecc-a161-9e1433ef2103
+name: Vulnerability Detection
+description: Providers MUST systematically, persistently, and promptly discover and identify vulnerabilities within their cloud service offering using appropriate techniques such as assessment, scanning,...
+elementType: frr
+externalId: VDR-CSO-DET
+parent: frr-vdr
+aliases:
+  - VDR-CSO-DET
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-5_2
+    - nist.80053.rev5.framework/au-6
+    - nist.80053.rev5.framework/ca-8
+    - nist.80053.rev5.framework/ca-8_1
+    - nist.80053.rev5.framework/ca-8_2
+    - nist.80053.rev5.framework/ra-5
+    - nist.80053.rev5.framework/ra-5_2
+    - nist.80053.rev5.framework/ra-5_3
+    - nist.80053.rev5.framework/ra-5_4
+    - nist.80053.rev5.framework/si-2
+    - nist.80053.rev5.framework/si-3
+    - nist.80053.rev5.framework/si-4_1
+    - nist.80053.rev5.framework/si-4_12
+    - nist.80053.rev5.framework/si-4_18
+    - nist.80053.rev5.framework/si-4_22
+    - nist.80053.rev5.framework/si-5_1

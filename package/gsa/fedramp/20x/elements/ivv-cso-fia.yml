@@ -1,0 +1,15 @@
+id: 9061d280-e0d1-4aa5-aedc-7218f032d583
+name: FedRAMP Independent Assessments
+description: 'FedRAMP Independent Assessments: the requirement varies by certification class, see the background.'
+elementType: frr
+externalId: IVV-CSO-FIA
+parent: frr-ivv
+aliases:
+  - IVV-CSO-FIA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ca-2
+    - nist.80053.rev5.framework/ca-2_1
+    - nist.80053.rev5.framework/ca-2_2
+    - nist.80053.rev5.framework/ca-7_1
+    - nist.80053.rev5.framework/ca-7_4

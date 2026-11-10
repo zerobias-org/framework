@@ -1,0 +1,32 @@
+{
+  "name": "@zerobias-org/framework-gsa-fedramp-20x",
+  "version": "1.0.0",
+  "description": "FedRAMP 20x Consolidated Rules: Key Security Indicators and process rules",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/framework.git",
+    "directory": "package/gsa/fedramp/20x/"
+  },
+  "scripts": {
+    "correct:deps": "tsx ../../../../scripts/correctDeps.ts"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org/"
+  },
+  "files": [
+    "index.yml",
+    "elements/**",
+    "baselines/**"
+  ],
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "framework",
+    "package": "gsa.fedramp.20x.framework"
+  },
+  "dependencies": {
+    "@zerobias-org/suite-gsa-fedramp": "latest"
+  }
+}

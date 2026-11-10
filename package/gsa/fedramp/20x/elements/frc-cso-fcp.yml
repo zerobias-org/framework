@@ -1,0 +1,8 @@
+id: 8d70dc5f-2129-414d-87f1-5c6793a880c2
+name: FedRAMP Certification Profile
+description: Providers MUST identify a target FedRAMP Certification Profile and apply all relevant FedRAMP Practices to the cloud service offering.
+elementType: frr
+externalId: FRC-CSO-FCP
+parent: frr-frc
+aliases:
+  - FRC-CSO-FCP

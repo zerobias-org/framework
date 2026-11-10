@@ -1,0 +1,19 @@
+id: 523e5c00-2c0b-495c-8abc-d8d8177b43f0
+name: Address Optional FedRAMP Rules for Class A
+description: 'Providers seeking a Class A FedRAMP Certification MAY address the following additional optional FedRAMP Class A rules (if applicable):'
+elementType: frr
+externalId: FRC-CLA-OFR
+parent: frr-frc
+aliases:
+  - FRC-CLA-OFR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/ccm-qtr-mtg
+    - gsa.fedramp.20x.framework/cds-cso-psm
+    - gsa.fedramp.20x.framework/cmu-cso-uvm
+    - gsa.fedramp.20x.framework/frc-app-fia
+    - gsa.fedramp.20x.framework/ivv-cso-fia
+    - gsa.fedramp.20x.framework/sdr-csx-kmt
+    - gsa.fedramp.20x.framework/ver-tfr-iri
+    - gsa.fedramp.20x.framework/ver-tfr-mrh
+    - gsa.fedramp.20x.framework/ver-tfr-nri

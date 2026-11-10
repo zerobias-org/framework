@@ -1,0 +1,11 @@
+id: fd438545-2ba9-404c-99d4-f3ebae8f66f2
+name: Ongoing Incident Reports
+description: 'Ongoing Incident Reports: the requirement varies by certification class, see the background.'
+elementType: frr
+externalId: IEC-CSO-OIR
+parent: frr-iec
+aliases:
+  - IEC-CSO-OIR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-5

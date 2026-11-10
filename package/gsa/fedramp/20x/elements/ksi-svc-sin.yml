@@ -1,0 +1,29 @@
+id: f763df2f-b6af-4d7b-9eee-787357964186
+name: Securing Information
+description: Information is encrypted or otherwise secured from unwanted access or modification.
+elementType: ksi
+externalId: KSI-SVC-SIN
+parent: ksi-svc
+aliases:
+  - KSI-SVC-SIN
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-11
+    - nist.80053.rev5.framework/ac-11_1
+    - nist.80053.rev5.framework/ac-17_2
+    - nist.80053.rev5.framework/ac-19_5
+    - nist.80053.rev5.framework/ac-21
+    - nist.80053.rev5.framework/cp-9_8
+    - nist.80053.rev5.framework/ir-9_4
+    - nist.80053.rev5.framework/sc-13
+    - nist.80053.rev5.framework/sc-20
+    - nist.80053.rev5.framework/sc-21
+    - nist.80053.rev5.framework/sc-22
+    - nist.80053.rev5.framework/sc-23
+    - nist.80053.rev5.framework/sc-28
+    - nist.80053.rev5.framework/sc-28_1
+    - nist.80053.rev5.framework/sc-4
+    - nist.80053.rev5.framework/sc-7_18
+    - nist.80053.rev5.framework/sc-8
+    - nist.80053.rev5.framework/sc-8_1
+    - nist.80053.rev5.framework/si-4_18

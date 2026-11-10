@@ -1,0 +1,8 @@
+id: 5e40303b-e455-4c8a-bf4e-b2b245e6c28b
+name: Notification of Changes
+description: Providers MUST immediately notify FedRAMP of any changes to the email address for their FedRAMP Security Inbox.
+elementType: frr
+externalId: AFC-CSO-NOC
+parent: frr-afc
+aliases:
+  - AFC-CSO-NOC

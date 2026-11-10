@@ -1,0 +1,11 @@
+id: dda50a48-76aa-448b-856f-33a0fdfb4595
+name: Metadata Inclusion
+description: Providers MUST include metadata (including metadata about federal customer data) in the Minimum Assessment Scope ONLY IF MAS-CSO-IIR (Identify Information Resources) APPLIES.
+elementType: frr
+externalId: MAS-CSO-MDI
+parent: frr-mas
+aliases:
+  - MAS-CSO-MDI
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/mas-cso-iir

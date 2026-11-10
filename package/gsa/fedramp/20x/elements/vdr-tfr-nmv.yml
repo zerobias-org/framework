@@ -1,0 +1,8 @@
+id: 7913a214-f541-4612-8066-fc4afe3434b2
+name: Non-Machine Verification and Validation
+description: Providers MUST verify and validate the status of non-machine-based information resources at least once every 3 months.
+elementType: frr
+externalId: VDR-TFR-NMV
+parent: frr-vdr
+aliases:
+  - VDR-TFR-NMV

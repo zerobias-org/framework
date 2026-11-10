@@ -1,0 +1,8 @@
+id: 70d2d489-0ff6-4f37-bf02-dafdffe3ab23
+name: Group Vulnerabilities
+description: Providers SHOULD evaluate detected vulnerabilities, considering the context of the cloud service offering, to identify logical groupings of affected information resources that may improve the...
+elementType: frr
+externalId: VER-EVA-GRV
+parent: frr-ver
+aliases:
+  - VER-EVA-GRV

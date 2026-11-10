@@ -1,0 +1,20 @@
+id: 8891b7b7-5214-45bf-801b-2c880a722a04
+name: Automating Account Management
+description: The lifecycle and privileges of all accounts, roles, and groups are securely managed using automation.
+elementType: ksi
+externalId: KSI-IAM-AAM
+parent: ksi-iam
+aliases:
+  - KSI-IAM-AAM
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-2_13
+    - nist.80053.rev5.framework/ac-2_2
+    - nist.80053.rev5.framework/ac-2_3
+    - nist.80053.rev5.framework/ac-6_7
+    - nist.80053.rev5.framework/ia-12
+    - nist.80053.rev5.framework/ia-12_2
+    - nist.80053.rev5.framework/ia-12_3
+    - nist.80053.rev5.framework/ia-12_5
+    - nist.80053.rev5.framework/ia-4_4
+    - nist.80053.rev5.framework/ia-8_4

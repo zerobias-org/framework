@@ -1,0 +1,12 @@
+id: a0da66f9-5441-49b0-8a2c-cab59be352a1
+name: Sampling
+description: Providers MAY sample effectively identical information resources, especially machine-based information resources, when performing vulnerability detection UNLESS doing so would decrease the...
+elementType: frr
+externalId: VDR-CSO-SIR
+parent: frr-vdr
+aliases:
+  - VDR-CSO-SIR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5_3
+    - nist.80053.rev5.framework/ra-5_5

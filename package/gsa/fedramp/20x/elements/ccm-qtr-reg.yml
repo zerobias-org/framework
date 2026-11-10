@@ -1,0 +1,8 @@
+id: 6c444c05-9778-4f95-81b7-00ddbde2c226
+name: Meeting Registration Info
+description: Providers MUST supply either a registration link or a downloadable calendar file with meeting information for Quarterly Reviews to all necessary parties.
+elementType: frr
+externalId: CCM-QTR-REG
+parent: frr-ccm
+aliases:
+  - CCM-QTR-REG

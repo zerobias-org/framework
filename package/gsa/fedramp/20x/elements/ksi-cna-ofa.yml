@@ -1,0 +1,12 @@
+id: 9151ce13-e468-4078-b605-931598659cff
+name: Optimizing for Availability
+description: Machine-based information resources are persistently reviewed to ensure they are appropriately optimized for high availability and rapid recovery.
+elementType: ksi
+externalId: KSI-CNA-OFA
+parent: ksi-cna
+aliases:
+  - KSI-CNA-OFA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cp-2_5
+    - nist.80053.rev5.framework/sc-12_1

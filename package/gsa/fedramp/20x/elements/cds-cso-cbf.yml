@@ -1,0 +1,8 @@
+id: 7e6d363c-85f8-4b35-930d-ca5a8bc9025c
+name: Consistency Between Formats
+description: Providers MUST use automation to ensure information remains consistent between human-readable and machine-readable formats when FedRAMP Certification Data is provided in both formats.
+elementType: frr
+externalId: CDS-CSO-CBF
+parent: frr-cds
+aliases:
+  - CDS-CSO-CBF

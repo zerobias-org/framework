@@ -1,0 +1,11 @@
+id: 8f916b0f-874d-44d9-a8ec-a9ac7980bee6
+name: Persistent Reporting
+description: Providers MUST report vulnerability detection and response activity (including persistent verification and validation) to all necessary parties persistently, summarizing ALL activity since the...
+elementType: frr
+externalId: VER-RPT-PER
+parent: frr-ver
+aliases:
+  - VER-RPT-PER
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/si-7_2

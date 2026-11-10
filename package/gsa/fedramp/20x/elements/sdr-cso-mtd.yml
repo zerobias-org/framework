@@ -1,0 +1,8 @@
+id: 6ef9f7c0-be17-4e57-9e1a-a28bed43cbe6
+name: Security Decision Record Metadata
+description: 'Providers MUST also include the following basic metadata in their Security Decision Record:'
+elementType: frr
+externalId: SDR-CSO-MTD
+parent: frr-sdr
+aliases:
+  - SDR-CSO-MTD

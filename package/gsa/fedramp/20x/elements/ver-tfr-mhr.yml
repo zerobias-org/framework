@@ -1,0 +1,8 @@
+id: 20024b73-0302-4fbf-9f95-25aab647a44f
+name: Monthly Activity Report
+description: Providers MUST report vulnerability detection and response activity to all necessary parties in a consistent format that is human readable at least monthly.
+elementType: frr
+externalId: VER-TFR-MHR
+parent: frr-ver
+aliases:
+  - VER-TFR-MHR

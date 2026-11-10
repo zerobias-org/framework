@@ -1,0 +1,8 @@
+id: 28f379a2-67e8-4618-876c-1365cf38c67a
+name: Versioning and Release History
+description: Providers SHOULD provide versioning and a release history for recommended secure default settings for top-level administrative accounts and privileged accounts as they are adjusted over time.
+elementType: frr
+externalId: SCG-ENH-VRH
+parent: frr-scg
+aliases:
+  - SCG-ENH-VRH

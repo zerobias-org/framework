@@ -1,0 +1,13 @@
+id: 08b66fb3-6955-4c3b-ad13-acc9491c1038
+name: FedRAMP Certification Package
+description: Providers seeking a Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following...
+elementType: frr
+externalId: FRC-CSO-PKG
+parent: frr-frc
+aliases:
+  - FRC-CSO-PKG
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/cpo-cso-ovr
+    - gsa.fedramp.20x.framework/sdr-cso-frr
+    - gsa.fedramp.20x.framework/ccm-ocr-avl

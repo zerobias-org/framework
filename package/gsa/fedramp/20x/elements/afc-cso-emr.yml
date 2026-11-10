@@ -1,0 +1,8 @@
+id: d8177059-61ec-464b-bb6a-5f940b721b4d
+name: Emergency Message Routing
+description: Providers MUST route Emergency designated messages sent by FedRAMP to a senior security official for their awareness.
+elementType: frr
+externalId: AFC-CSO-EMR
+parent: frr-afc
+aliases:
+  - AFC-CSO-EMR

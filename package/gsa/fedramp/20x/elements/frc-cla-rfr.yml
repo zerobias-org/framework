@@ -1,0 +1,20 @@
+id: 95db706c-7d58-45cd-9e50-1cd865d9ad48
+name: Recommended FedRAMP Rules for Class A
+description: 'Providers seeking a Class A FedRAMP Certification SHOULD address the following additional recommended FedRAMP Class A rules (if applicable):'
+elementType: frr
+externalId: FRC-CLA-RFR
+parent: frr-frc
+aliases:
+  - FRC-CLA-RFR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/cds-cso-avr
+    - gsa.fedramp.20x.framework/cpo-csx-cpm
+    - gsa.fedramp.20x.framework/iec-cso-iir
+    - gsa.fedramp.20x.framework/iec-cso-oir
+    - gsa.fedramp.20x.framework/vdr-tfr-mvx
+    - gsa.fedramp.20x.framework/vdr-tfr-pcd
+    - gsa.fedramp.20x.framework/vdr-tfr-pdd
+    - gsa.fedramp.20x.framework/vdr-tfr-psd
+    - gsa.fedramp.20x.framework/vdr-tfr-pvr
+    - gsa.fedramp.20x.framework/ver-tfr-evu

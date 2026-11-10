@@ -1,0 +1,13 @@
+id: 0c8bd340-160f-4ea7-a75b-0a27f4eef804
+name: Maintain a FedRAMP Security Inbox
+description: Providers MUST establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
+elementType: frr
+externalId: AFC-CSO-INB
+parent: frr-afc
+aliases:
+  - AFC-CSO-INB
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/si-5
+  relates_to:
+    - gsa.fedramp.20x.framework/afc-cso-noc

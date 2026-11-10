@@ -1,0 +1,15 @@
+id: e1fa70d6-a88a-4d39-bc36-c42647f630b3
+name: Aligning Backups with Objectives
+description: The alignment of machine-based information resource backups with defined recovery objectives is persistently reviewed.
+elementType: ksi
+externalId: KSI-RPL-ABO
+parent: ksi-rpl
+aliases:
+  - KSI-RPL-ABO
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/cm-2_3
+    - nist.80053.rev5.framework/cp-6
+    - nist.80053.rev5.framework/cp-9
+    - nist.80053.rev5.framework/cp-10
+    - nist.80053.rev5.framework/cp-10_2

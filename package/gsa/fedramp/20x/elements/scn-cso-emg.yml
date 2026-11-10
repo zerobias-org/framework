@@ -1,0 +1,11 @@
+id: a67e5058-0172-4f41-9a43-ebbc2de731f5
+name: Emergency Changes
+description: Providers MAY execute significant changes (including transformative changes) during an emergency or incident without following the Significant Change Notification rules in advance. In such...
+elementType: frr
+externalId: SCN-CSO-EMG
+parent: frr-scn
+aliases:
+  - SCN-CSO-EMG
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-4_2

@@ -1,0 +1,17 @@
+id: 58be37e5-2d11-43f6-a75c-89d82c573abf
+name: Evaluating Configurations
+description: The configuration of machine-based information resources, especially infrastructure as code, is persistently evaluated and tested.
+elementType: ksi
+externalId: KSI-MLA-EVC
+parent: ksi-mla
+aliases:
+  - KSI-MLA-EVC
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-19
+    - nist.80053.rev5.framework/ca-7
+    - nist.80053.rev5.framework/cm-2
+    - nist.80053.rev5.framework/cm-6
+    - nist.80053.rev5.framework/cm-6_1
+    - nist.80053.rev5.framework/ra-3
+    - nist.80053.rev5.framework/si-7_7

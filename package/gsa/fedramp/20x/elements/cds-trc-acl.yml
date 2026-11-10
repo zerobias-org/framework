@@ -1,0 +1,8 @@
+id: edd83691-fb87-4f84-b1db-892a3d59eee8
+name: Access Logging
+description: Trust centers MUST log access to FedRAMP Certification Data and store summaries of access for at least six months; such information, as it pertains to specific parties, SHOULD be made available...
+elementType: frr
+externalId: CDS-TRC-ACL
+parent: frr-cds
+aliases:
+  - CDS-TRC-ACL

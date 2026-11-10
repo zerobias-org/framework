@@ -1,0 +1,8 @@
+id: 3c395a7c-a9dc-4e92-8d5b-d14bb9cff5be
+name: Limit Sensitive Information
+description: Providers MUST NOT irresponsibly disclose sensitive information in an Ongoing Certification Report that would likely have an adverse effect on the cloud service offering.
+elementType: frr
+externalId: CCM-OCR-LSI
+parent: frr-ccm
+aliases:
+  - CCM-OCR-LSI

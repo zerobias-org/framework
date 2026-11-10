@@ -1,0 +1,11 @@
+id: 76462a11-abc7-4484-b0c2-59be8b38cb1c
+name: Maintain Audit Records
+description: Providers MUST maintain auditable records of the significant change evaluation activities required by SCN-CSO-EVA (Evaluate Changes) and make them available to FedRAMP as requested.
+elementType: frr
+externalId: SCN-CSO-MAR
+parent: frr-scn
+aliases:
+  - SCN-CSO-MAR
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/scn-cso-eva

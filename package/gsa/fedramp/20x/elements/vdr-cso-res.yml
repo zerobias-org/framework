@@ -1,0 +1,16 @@
+id: cfcc6482-e83a-49be-9ea4-1b0794aa3c1d
+name: Vulnerability Response
+description: Providers MUST systematically, persistently, and promptly track, evaluate, monitor, mitigate, remediate, assess exploitation of, report, and otherwise manage all detected vulnerabilities within...
+elementType: frr
+externalId: VDR-CSO-RES
+parent: frr-vdr
+aliases:
+  - VDR-CSO-RES
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-5_2
+    - nist.80053.rev5.framework/ir-4_11
+    - nist.80053.rev5.framework/ir-9_3
+    - nist.80053.rev5.framework/ra-7
+    - nist.80053.rev5.framework/si-2
+    - nist.80053.rev5.framework/si-3

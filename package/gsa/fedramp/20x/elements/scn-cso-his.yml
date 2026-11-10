@@ -1,0 +1,8 @@
+id: 338d153e-7903-49c5-82e8-83ddbb9e0f5d
+name: Historical Notifications
+description: Providers MUST keep 12 months of historical Significant Change Notifications available with their FedRAMP Certification Data.
+elementType: frr
+externalId: SCN-CSO-HIS
+parent: frr-scn
+aliases:
+  - SCN-CSO-HIS

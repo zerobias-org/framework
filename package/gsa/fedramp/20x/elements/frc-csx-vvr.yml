@@ -1,0 +1,11 @@
+id: 742151fd-1512-41ea-b341-97425db7228a
+name: Automated Verification and Validation of FedRAMP Rules
+description: 'Automated Verification and Validation of FedRAMP Rules: the requirement varies by certification class, see the background.'
+elementType: frr
+externalId: FRC-CSX-VVR
+parent: frr-frc
+aliases:
+  - FRC-CSX-VVR
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/si-6

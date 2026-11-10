@@ -1,0 +1,8 @@
+id: 55e59bf4-d33d-4ec6-ba7e-c9f98dca6fa0
+name: Provider Marketplace Listing Requests
+description: Providers MUST notify FedRAMP using the FedRAMP Marketplace Provider Listing Request Form to request a listing in the FedRAMP Marketplace.
+elementType: frr
+externalId: MKT-CSO-PML
+parent: frr-mkt
+aliases:
+  - MKT-CSO-PML

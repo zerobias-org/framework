@@ -1,0 +1,16 @@
+id: 844c6bb1-a460-4655-8fa3-01f3223db083
+name: Automating Secret Management
+description: Management, protection, and regular rotation of digital keys, certificates, and other secrets is automated and persistently reviewed.
+elementType: ksi
+externalId: KSI-SVC-ASM
+parent: ksi-svc
+aliases:
+  - KSI-SVC-ASM
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ac-17_2
+    - nist.80053.rev5.framework/ia-5_2
+    - nist.80053.rev5.framework/ia-5_6
+    - nist.80053.rev5.framework/sc-12
+    - nist.80053.rev5.framework/sc-12_1
+    - nist.80053.rev5.framework/sc-17

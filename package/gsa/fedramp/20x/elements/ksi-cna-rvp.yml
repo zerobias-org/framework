@@ -1,0 +1,15 @@
+id: dd0d3d51-1118-4354-91b9-df72b8db81c6
+name: Reviewing Protections
+description: The effectiveness of protection against denial of service attacks and other unwanted activity for machine-based information resources is persistently reviewed.
+elementType: ksi
+externalId: KSI-CNA-RVP
+parent: ksi-cna
+aliases:
+  - KSI-CNA-RVP
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ir-4_2
+    - nist.80053.rev5.framework/sc-5
+    - nist.80053.rev5.framework/sc-7_18
+    - nist.80053.rev5.framework/si-8
+    - nist.80053.rev5.framework/si-8_2

@@ -1,0 +1,8 @@
+id: ef51af44-b699-4584-b38c-b199c6d297a4
+name: Pick One Program Certification Type
+description: Providers MUST NOT seek both FedRAMP Rev5 Program Certification and FedRAMP 20x Program Certification for the same cloud service offering; pick one type.
+elementType: frr
+externalId: FRC-CSO-POP
+parent: frr-frc
+aliases:
+  - FRC-CSO-POP

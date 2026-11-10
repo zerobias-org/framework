@@ -1,0 +1,8 @@
+id: 97c9e0e3-3dc0-4a7f-ad46-04cba5de11de
+name: Feedback Mechanism
+description: Providers MUST supply an asynchronous mechanism for all necessary parties to provide feedback or ask questions about each Ongoing Certification Report.
+elementType: frr
+externalId: CCM-OCR-FBM
+parent: frr-ccm
+aliases:
+  - CCM-OCR-FBM

@@ -1,0 +1,11 @@
+id: 66e5e2a5-a930-4a77-a5e6-ce3cef18ec04
+name: Additional Content
+description: Providers SHOULD supply additional information in Quarterly Reviews that the provider determines is of interest, use, or otherwise relevant to agencies.
+elementType: frr
+externalId: CCM-QTR-ACT
+parent: frr-ccm
+aliases:
+  - CCM-QTR-ACT
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ca-7

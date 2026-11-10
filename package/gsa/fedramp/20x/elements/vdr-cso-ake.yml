@@ -1,0 +1,12 @@
+id: 88e4884b-7617-432a-bdbf-094f725a78ff
+name: Avoid KEVs
+description: Providers SHOULD NOT deploy or otherwise activate new machine-based information resources with Known Exploited Vulnerabilities.
+elementType: frr
+externalId: VDR-CSO-AKE
+parent: frr-vdr
+aliases:
+  - VDR-CSO-AKE
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-5
+    - nist.80053.rev5.framework/si-5

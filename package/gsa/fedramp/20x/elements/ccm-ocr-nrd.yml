@@ -1,0 +1,8 @@
+id: f01f1d24-a371-4371-a28c-3ca72fcb63eb
+name: Next Report Date
+description: Providers MUST supply the target date for their next Ongoing Certification Report with other public FedRAMP Certification Data.
+elementType: frr
+externalId: CCM-OCR-NRD
+parent: frr-ccm
+aliases:
+  - CCM-OCR-NRD

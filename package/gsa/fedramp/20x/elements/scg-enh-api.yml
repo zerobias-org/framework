@@ -1,0 +1,8 @@
+id: f1aef1dd-255a-4f17-8703-c519ffd314e6
+name: API Capability
+description: Providers SHOULD offer the capability to view and adjust security settings via an API or similar capability.
+elementType: frr
+externalId: SCG-ENH-API
+parent: frr-scg
+aliases:
+  - SCG-ENH-API

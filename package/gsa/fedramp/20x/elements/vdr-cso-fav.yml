@@ -1,0 +1,14 @@
+id: 7c3eb5fa-ef23-48cd-af97-5f22e0815dc7
+name: Failures Are Vulnerabilities
+description: Providers MUST treat problems or failures with their vulnerability detection and response processes as vulnerabilities.
+elementType: frr
+externalId: VDR-CSO-FAV
+parent: frr-vdr
+aliases:
+  - VDR-CSO-FAV
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-5_2
+    - nist.80053.rev5.framework/si-4
+    - nist.80053.rev5.framework/si-4_1
+    - nist.80053.rev5.framework/si-7_7

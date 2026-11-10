@@ -1,0 +1,8 @@
+id: dca31a59-43fd-4da6-8bd9-6ecc619bc3f3
+name: Required Actions
+description: FedRAMP MUST clearly specify the required actions in the body of messages that require an elevated reaction.
+elementType: frr
+externalId: AFC-FRP-RQA
+parent: frr-afc
+aliases:
+  - AFC-FRP-RQA

@@ -1,0 +1,11 @@
+id: 265cc096-a6f2-450b-9530-698fd07b01a8
+name: Evaluation Factors
+description: 'Providers SHOULD consider at least the following factors when considering the context of the cloud service offering to evaluate detected vulnerabilities:'
+elementType: frr
+externalId: VER-EVA-EFA
+parent: frr-ver
+aliases:
+  - VER-EVA-EFA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/ra-9

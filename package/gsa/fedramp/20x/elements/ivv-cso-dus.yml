@@ -1,0 +1,11 @@
+id: b268da2a-5f41-4e10-a819-2830a5a0ef38
+name: Document Use of Representative Samples
+description: Providers MUST document and explain the use of representative samples during verification and validation when using representative samples as allowed by IVV-CSO-USR (Use Representative Samples).
+elementType: frr
+externalId: IVV-CSO-DUS
+parent: frr-ivv
+aliases:
+  - IVV-CSO-DUS
+links:
+  relates_to:
+    - gsa.fedramp.20x.framework/ivv-cso-usr

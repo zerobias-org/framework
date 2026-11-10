@@ -1,0 +1,13 @@
+id: ce8b4d74-7a33-44c9-94e3-0c13a5490951
+name: Authorizing Log Access
+description: 'Authorizing Log Access: the requirement varies by certification class, see the background.'
+elementType: ksi
+externalId: KSI-MLA-ALA
+parent: ksi-mla
+aliases:
+  - KSI-MLA-ALA
+links:
+  demonstrates:
+    - nist.80053.rev5.framework/au-12_3
+    - nist.80053.rev5.framework/au-6_7
+    - nist.80053.rev5.framework/si-11

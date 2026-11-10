@@ -1,0 +1,8 @@
+id: 15253203-1682-4838-99a3-984f53fa783e
+name: Agency Access Denial
+description: Providers MUST notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
+elementType: frr
+externalId: CDS-UTC-AAD
+parent: frr-cds
+aliases:
+  - CDS-UTC-AAD
