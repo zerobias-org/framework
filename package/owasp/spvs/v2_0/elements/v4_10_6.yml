@@ -4,3 +4,8 @@ description: Verify that the AIBOM (AI Bill of Materials) includes system prompt
 elementType: requirement
 externalId: V4.10.6
 parent: v4_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/ps_3_2

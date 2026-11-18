@@ -4,3 +4,9 @@ description: Verify that fetched dependencies are checked against known cryptogr
 elementType: requirement
 externalId: V2.6.2
 parent: v2_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_6
+  - nist.80053.rev5.framework/sr-4_3
+  - nist.800_218.v1_1.framework/pw_4_1
+  - nist.800_218.v1_1.framework/pw_4_4

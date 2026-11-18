@@ -4,3 +4,7 @@ description: Verify that signature and attestation checks for deployment cannot 
 elementType: requirement
 externalId: V4.4.6
 parent: v4_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-14
+  - nist.80053.rev5.framework/si-7

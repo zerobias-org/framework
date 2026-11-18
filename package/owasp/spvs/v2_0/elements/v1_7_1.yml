@@ -4,3 +4,6 @@ description: Verify that a documented discovery process exists to identify unaut
 elementType: requirement
 externalId: V1.7.1
 parent: v1_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_3

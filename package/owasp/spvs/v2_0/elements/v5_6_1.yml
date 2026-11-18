@@ -4,3 +4,6 @@ description: Verify that agents are prevented from performing irreversible high-
 elementType: requirement
 externalId: V5.6.1
 parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3

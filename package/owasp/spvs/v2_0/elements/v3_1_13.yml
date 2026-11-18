@@ -4,3 +4,6 @@ description: Verify that AI agent execution environments enforce resource consum
 elementType: requirement
 externalId: V3.1.13
 parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sc-6

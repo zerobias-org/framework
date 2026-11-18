@@ -4,3 +4,8 @@ description: Verify that AI agents cannot approve, merge, or alter the protectio
 elementType: requirement
 externalId: V4.5.3
 parent: v4_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-5
+  - nist.80053.rev5.framework/cm-5
+  - nist.800_218.v1_1.framework/ps_1_1

@@ -4,3 +4,7 @@ description: Verify that trust relationships between orchestrator agents and sub
 elementType: requirement
 externalId: V3.10.1
 parent: v3_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.800_218.v1_1.framework/po_1_1

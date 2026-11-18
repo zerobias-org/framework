@@ -4,3 +4,9 @@ description: Verify that dependencies introduced by AI-generated code pass the s
 elementType: requirement
 externalId: V2.4.3
 parent: v2_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-10
+  - nist.80053.rev5.framework/ra-5
+  - nist.80053.rev5.framework/sr-3
+  - nist.800_218.v1_1.framework/pw_4_4

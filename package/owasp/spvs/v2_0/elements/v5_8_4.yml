@@ -4,3 +4,7 @@ description: Verify that when a credential is rotated because of an incident, th
 elementType: requirement
 externalId: V5.8.4
 parent: v5_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5
+  - nist.80053.rev5.framework/ir-4

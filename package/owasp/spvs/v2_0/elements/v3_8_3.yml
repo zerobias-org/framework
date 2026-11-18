@@ -4,3 +4,8 @@ description: Verify that model output and agent-provided instructions are treate
 elementType: requirement
 externalId: V3.8.3
 parent: v3_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10
+  - nist.80053.rev5.framework/si-15
+  - nist.800_218.v1_1.framework/pw_5_1

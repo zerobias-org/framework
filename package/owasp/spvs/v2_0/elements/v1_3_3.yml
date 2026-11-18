@@ -4,3 +4,7 @@ description: Verify that each tool in the documented software pipeline has a doc
 elementType: requirement
 externalId: V1.3.3
 parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_3_2

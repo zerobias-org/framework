@@ -4,3 +4,7 @@ description: Verify that inter-agent communications, including delegated instruc
 elementType: requirement
 externalId: V5.5.5
 parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-3

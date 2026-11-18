@@ -4,3 +4,8 @@ description: Verify that third-party components in production are continuously m
 elementType: requirement
 externalId: V5.3.2
 parent: v5_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/rv_1_1

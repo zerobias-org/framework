@@ -4,3 +4,7 @@ description: Verify that outbound data volume from agent execution environments 
 elementType: requirement
 externalId: V5.6.3
 parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-4_4
+  - nist.80053.rev5.framework/si-4_5

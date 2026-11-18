@@ -4,3 +4,7 @@ description: Verify that security scanning tools are themselves checked for inte
 elementType: requirement
 externalId: V3.7.20
 parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_1
+  - nist.800_218.v1_1.framework/po_3_2

@@ -4,3 +4,7 @@ description: Verify that service account tokens in the Version Control System (V
 elementType: requirement
 externalId: V1.3.5
 parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6_7
+  - nist.800_218.v1_1.framework/po_5_1

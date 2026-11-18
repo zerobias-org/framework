@@ -4,3 +4,8 @@ description: Verify that developer endpoints alert on anomalous behavior from in
 elementType: requirement
 externalId: V5.4.10
 parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-4_23
+  - nist.80053.rev5.framework/si-4_5
+  - nist.800_218.v1_1.framework/po_5_2

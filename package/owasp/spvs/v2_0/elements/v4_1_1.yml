@@ -4,3 +4,8 @@ description: Verify that the release candidate undergoes every security assessme
 elementType: requirement
 externalId: V4.1.1
 parent: v4_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-11
+  - nist.800_218.v1_1.framework/po_4_1
+  - nist.800_218.v1_1.framework/pw_8_2

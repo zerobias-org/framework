@@ -4,3 +4,6 @@ description: Verify that secret rotation is implemented and secrets are rotated 
 elementType: requirement
 externalId: V3.4.6
 parent: v3_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5

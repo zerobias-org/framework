@@ -4,3 +4,7 @@ description: Verify that changes to agent framework/SDK (Software Development Ki
 elementType: requirement
 externalId: V4.8.3
 parent: v4_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.800_218.v1_1.framework/pw_4_1

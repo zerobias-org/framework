@@ -4,3 +4,7 @@ description: Verify that developer tools are configured to use secure communicat
 elementType: requirement
 externalId: V1.6.4
 parent: v1_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sc-8_1
+  - nist.800_218.v1_1.framework/po_3_2

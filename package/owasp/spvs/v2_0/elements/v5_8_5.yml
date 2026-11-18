@@ -4,3 +4,8 @@ description: Verify that post-incident reviews of AI agent compromises assess wh
 elementType: requirement
 externalId: V5.8.5
 parent: v5_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ca-5
+  - nist.80053.rev5.framework/ir-4
+  - nist.800_218.v1_1.framework/rv_3_4

@@ -4,3 +4,7 @@ description: Verify that changes to pipeline-integrated AI agents are subject to
 elementType: requirement
 externalId: V4.4.9
 parent: v4_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/cm-3_2

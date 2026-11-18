@@ -4,3 +4,9 @@ description: Verify that system prompts used by pipeline-integrated agents are v
 elementType: requirement
 externalId: V4.9.1
 parent: v4_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/sa-10
+  - nist.800_218.v1_1.framework/ps_1_1
+  - nist.800_218.v1_1.framework/pw_7_2

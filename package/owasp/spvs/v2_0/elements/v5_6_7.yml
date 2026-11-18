@@ -4,3 +4,7 @@ description: Verify that data classified as sensitive is technically excluded fr
 elementType: requirement
 externalId: V5.6.7
 parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-4
+  - nist.80053.rev5.framework/ac-4_8

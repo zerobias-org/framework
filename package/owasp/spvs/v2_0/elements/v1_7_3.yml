@@ -4,3 +4,7 @@ description: Verify that model integrations and external model endpoints are rec
 elementType: requirement
 externalId: V1.7.3
 parent: v1_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/cm-8_1

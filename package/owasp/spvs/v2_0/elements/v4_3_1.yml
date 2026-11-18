@@ -4,3 +4,7 @@ description: Verify that pipeline-related policies are formally documented, main
 elementType: requirement
 externalId: V4.3.1
 parent: v4_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-15
+  - nist.800_218.v1_1.framework/po_1_1

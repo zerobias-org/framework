@@ -4,3 +4,8 @@ description: Verify that all transitive dependencies of each pinned external bui
 elementType: requirement
 externalId: V3.13.9
 parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sr-3
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/pw_4_1

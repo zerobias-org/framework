@@ -4,3 +4,7 @@ description: Verify that secrets given to a shared or reusable pipeline are limi
 elementType: requirement
 externalId: V3.4.7
 parent: v3_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_5_1

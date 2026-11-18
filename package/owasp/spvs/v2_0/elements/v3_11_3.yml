@@ -4,3 +4,7 @@ description: Verify that retrieved content is treated as untrusted input and is 
 elementType: requirement
 externalId: V3.11.3
 parent: v3_11
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10_6
+  - nist.800_218.v1_1.framework/pw_5_1

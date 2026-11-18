@@ -4,3 +4,7 @@ description: Verify that each scan by the secret detection tool in the developme
 elementType: requirement
 externalId: V2.3.9
 parent: v2_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5_2
+  - nist.800_218.v1_1.framework/po_3_2

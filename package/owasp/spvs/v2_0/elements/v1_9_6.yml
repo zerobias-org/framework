@@ -4,3 +4,7 @@ description: Verify that each pipeline-integrated AI system/agent has an assigne
 elementType: requirement
 externalId: V1.9.6
 parent: v1_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_4
+  - nist.800_218.v1_1.framework/po_2_1

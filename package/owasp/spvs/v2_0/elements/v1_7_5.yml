@@ -4,3 +4,7 @@ description: Verify that retrieval sources used by pipeline-integrated agents ar
 elementType: requirement
 externalId: V1.7.5
 parent: v1_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/cm-8_1

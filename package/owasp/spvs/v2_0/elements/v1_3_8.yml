@@ -4,3 +4,7 @@ description: Verify that secrets are encrypted both at rest and in transit.
 elementType: requirement
 externalId: V1.3.8
 parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sc-28_1
+  - nist.80053.rev5.framework/sc-8_1

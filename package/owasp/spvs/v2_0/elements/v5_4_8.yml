@@ -4,3 +4,6 @@ description: Verify that workloads in shared or system-level parts of a runtime 
 elementType: requirement
 externalId: V5.4.8
 parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_3

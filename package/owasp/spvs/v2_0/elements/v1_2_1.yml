@@ -4,3 +4,7 @@ description: Verify that developers and pipeline administrators complete role-sp
 elementType: requirement
 externalId: V1.2.1
 parent: v1_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/at-3
+  - nist.800_218.v1_1.framework/po_2_2

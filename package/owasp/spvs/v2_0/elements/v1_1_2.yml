@@ -4,3 +4,7 @@ description: Verify that an established secure development policy covers, at min
 elementType: requirement
 externalId: V1.1.2
 parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-15
+  - nist.800_218.v1_1.framework/po_1_1

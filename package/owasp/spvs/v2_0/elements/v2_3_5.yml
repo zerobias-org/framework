@@ -4,3 +4,7 @@ description: Verify that the dependency analysis tool in the development environ
 elementType: requirement
 externalId: V2.3.5
 parent: v2_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/po_3_2

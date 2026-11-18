@@ -4,3 +4,7 @@ description: Verify that secrets are scoped to a single pipeline stage or deploy
 elementType: requirement
 externalId: V3.4.5
 parent: v3_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_5_1

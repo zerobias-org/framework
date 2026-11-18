@@ -4,3 +4,7 @@ description: Verify that build systems are hardened according to the guidelines 
 elementType: requirement
 externalId: V3.1.4
 parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-6
+  - nist.800_218.v1_1.framework/po_3_2

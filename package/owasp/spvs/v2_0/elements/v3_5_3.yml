@@ -4,3 +4,7 @@ description: Verify that AI agent credentials enforce a maximum TTL (time-to-liv
 elementType: requirement
 externalId: V3.5.3
 parent: v3_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5
+  - nist.800_218.v1_1.framework/po_5_1

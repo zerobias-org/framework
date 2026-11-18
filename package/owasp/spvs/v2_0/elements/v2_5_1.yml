@@ -4,3 +4,7 @@ description: Verify that credentials are not hardcoded in code repositories or p
 elementType: requirement
 externalId: V2.5.1
 parent: v2_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.800_218.v1_1.framework/pw_5_1

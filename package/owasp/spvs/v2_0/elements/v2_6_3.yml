@@ -4,3 +4,8 @@ description: Verify that dependency versions are pinned to exact versions in man
 elementType: requirement
 externalId: V2.6.3
 parent: v2_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-10
+  - nist.80053.rev5.framework/sr-3
+  - nist.800_218.v1_1.framework/pw_4_1

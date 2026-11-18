@@ -4,3 +4,9 @@ description: Verify that a policy defines which AI coding assistants and AI deve
 elementType: requirement
 externalId: V1.6.10
 parent: v1_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-20
+  - nist.80053.rev5.framework/cm-7_5
+  - nist.80053.rev5.framework/sa-9
+  - nist.800_218.v1_1.framework/po_3_1

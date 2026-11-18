@@ -4,3 +4,8 @@ description: Verify that forensic procedures preserve sufficient evidence of age
 elementType: requirement
 externalId: V5.9.3
 parent: v5_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-11
+  - nist.80053.rev5.framework/au-3
+  - nist.80053.rev5.framework/au-9

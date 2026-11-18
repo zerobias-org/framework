@@ -4,3 +4,6 @@ description: Verify that a documented exception process covers AI assets or pipe
 elementType: requirement
 externalId: V1.1.7
 parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-7

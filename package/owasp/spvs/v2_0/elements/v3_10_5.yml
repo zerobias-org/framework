@@ -4,3 +4,7 @@ description: Verify that prompt injection controls applied to external inputs ar
 elementType: requirement
 externalId: V3.10.5
 parent: v3_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10_6
+  - nist.800_218.v1_1.framework/pw_5_1

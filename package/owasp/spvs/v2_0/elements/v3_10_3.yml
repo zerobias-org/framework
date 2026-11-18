@@ -4,3 +4,8 @@ description: Verify that multi-agent workflows cannot traverse repository or env
 elementType: requirement
 externalId: V3.10.3
 parent: v3_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-4
+  - nist.80053.rev5.framework/ac-4_9
+  - nist.800_218.v1_1.framework/po_5_1

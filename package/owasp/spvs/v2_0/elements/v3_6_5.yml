@@ -4,3 +4,8 @@ description: Verify that secrets are not exposed to agents via prompts, logs, is
 elementType: requirement
 externalId: V3.6.5
 parent: v3_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-4
+  - nist.80053.rev5.framework/ia-5
+  - nist.800_218.v1_1.framework/po_5_1

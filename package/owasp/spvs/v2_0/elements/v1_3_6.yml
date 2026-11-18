@@ -4,3 +4,8 @@ description: Verify that the Version Control System (VCS) requires multi-factor 
 elementType: requirement
 externalId: V1.3.6
 parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-2_1
+  - nist.80053.rev5.framework/ia-2_2
+  - nist.800_218.v1_1.framework/ps_1_1

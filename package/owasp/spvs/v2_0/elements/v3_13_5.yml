@@ -4,3 +4,8 @@ description: Verify that restored CI/CD cache contents are checked against their
 elementType: requirement
 externalId: V3.13.5
 parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_1
+  - nist.80053.rev5.framework/si-7_6
+  - nist.800_218.v1_1.framework/po_5_1

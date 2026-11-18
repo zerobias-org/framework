@@ -4,3 +4,8 @@ description: Verify that local environment files are never used to store secrets
 elementType: requirement
 externalId: V2.5.2
 parent: v2_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.80053.rev5.framework/sc-28
+  - nist.800_218.v1_1.framework/po_5_2

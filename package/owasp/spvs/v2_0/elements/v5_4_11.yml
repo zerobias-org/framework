@@ -4,3 +4,7 @@ description: Verify that prompt injection detection events are logged with the i
 elementType: requirement
 externalId: V5.4.11
 parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-3
+  - nist.80053.rev5.framework/au-3_1

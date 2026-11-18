@@ -4,3 +4,7 @@ description: Verify that every security scan type required by the organization's
 elementType: requirement
 externalId: V2.3.15
 parent: v2_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-11_1
+  - nist.800_218.v1_1.framework/pw_7_2

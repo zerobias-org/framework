@@ -4,3 +4,6 @@ description: Verify that each repository contains a version control ignore file 
 elementType: requirement
 externalId: V1.8.2
 parent: v1_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7

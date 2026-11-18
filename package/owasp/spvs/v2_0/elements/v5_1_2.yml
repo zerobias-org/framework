@@ -4,3 +4,7 @@ description: Verify that access logs are maintained and reviewed periodically.
 elementType: requirement
 externalId: V5.1.2
 parent: v5_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-11
+  - nist.80053.rev5.framework/au-6

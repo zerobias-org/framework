@@ -4,3 +4,8 @@ description: Verify that auto-merge rules are restricted and reviewed for securi
 elementType: requirement
 externalId: V3.7.18
 parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/cm-5
+  - nist.800_218.v1_1.framework/ps_1_1

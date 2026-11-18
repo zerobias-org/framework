@@ -4,3 +4,7 @@ description: Verify that system prompt integrity is validated at agent initializ
 elementType: requirement
 externalId: V4.9.2
 parent: v4_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_1
+  - nist.80053.rev5.framework/si-7_5

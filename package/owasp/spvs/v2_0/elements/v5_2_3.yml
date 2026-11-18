@@ -4,3 +4,9 @@ description: Verify that every component running in production traces to a curre
 elementType: requirement
 externalId: V5.2.3
 parent: v5_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/cm-8_3
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/ps_3_2

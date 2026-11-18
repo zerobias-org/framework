@@ -4,3 +4,7 @@ description: Verify that agent credential usage is continuously reconciled again
 elementType: requirement
 externalId: V5.6.5
 parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2_12
+  - nist.80053.rev5.framework/au-6

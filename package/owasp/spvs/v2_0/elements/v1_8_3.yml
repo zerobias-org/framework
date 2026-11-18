@@ -4,3 +4,6 @@ description: Verify that the Version Control System (VCS) enforces a documented 
 elementType: requirement
 externalId: V1.8.3
 parent: v1_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-10

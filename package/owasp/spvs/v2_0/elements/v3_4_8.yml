@@ -4,3 +4,7 @@ description: Verify that each project has its own pipeline secrets, scoped to on
 elementType: requirement
 externalId: V3.4.8
 parent: v3_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_5_1

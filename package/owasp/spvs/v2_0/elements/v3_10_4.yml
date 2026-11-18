@@ -4,3 +4,7 @@ description: Verify that the blast radius of an agent chain is bounded such that
 elementType: requirement
 externalId: V3.10.4
 parent: v3_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_5_1

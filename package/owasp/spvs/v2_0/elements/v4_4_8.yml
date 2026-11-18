@@ -4,3 +4,7 @@ description: Verify that an identity able to publish several packages cannot rel
 elementType: requirement
 externalId: V4.4.8
 parent: v4_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2_11
+  - nist.80053.rev5.framework/si-4_12

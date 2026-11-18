@@ -4,3 +4,6 @@ description: Verify that all identities (human and programmatic) are managed thr
 elementType: requirement
 externalId: V1.3.2
 parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2

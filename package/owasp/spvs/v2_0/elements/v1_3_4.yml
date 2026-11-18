@@ -4,3 +4,6 @@ description: Verify that stale identities are disabled or removed after a predet
 elementType: requirement
 externalId: V1.3.4
 parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2_3

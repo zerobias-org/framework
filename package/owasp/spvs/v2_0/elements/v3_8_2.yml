@@ -4,3 +4,8 @@ description: Verify that untrusted content is sanitized prior to inclusion in ag
 elementType: requirement
 externalId: V3.8.2
 parent: v3_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10
+  - nist.80053.rev5.framework/si-10_6
+  - nist.800_218.v1_1.framework/pw_5_1

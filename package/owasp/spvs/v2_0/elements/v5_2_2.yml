@@ -4,3 +4,7 @@ description: Verify that production operational practices are reviewed against d
 elementType: requirement
 externalId: V5.2.2
 parent: v5_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ca-2
+  - nist.80053.rev5.framework/ca-7

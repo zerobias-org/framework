@@ -4,3 +4,6 @@ description: Verify that secure transfer protocols are used during deployment.
 elementType: requirement
 externalId: V4.6.1
 parent: v4_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sc-8_1

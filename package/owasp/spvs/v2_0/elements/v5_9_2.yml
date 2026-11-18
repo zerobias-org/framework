@@ -4,3 +4,8 @@ description: Verify that response procedures can suspend agent identities and ro
 elementType: requirement
 externalId: V5.9.2
 parent: v5_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2
+  - nist.80053.rev5.framework/ia-5
+  - nist.80053.rev5.framework/ir-4

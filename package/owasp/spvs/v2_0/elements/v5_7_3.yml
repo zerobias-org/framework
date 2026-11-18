@@ -4,3 +4,9 @@ description: Verify that AIBOM components such as models, agent frameworks, SDKs
 elementType: requirement
 externalId: V5.7.3
 parent: v5_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/rv_1_1
+  - nist.800_218.v1_1.framework/rv_2_2

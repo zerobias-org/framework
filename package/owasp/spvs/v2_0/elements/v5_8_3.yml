@@ -4,3 +4,7 @@ description: Verify that pipeline recovery tests demonstrate recovery within the
 elementType: requirement
 externalId: V5.8.3
 parent: v5_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cp-10
+  - nist.80053.rev5.framework/cp-4

@@ -4,3 +4,8 @@ description: Verify that lint findings at or above an organization-defined sever
 elementType: requirement
 externalId: V2.1.2
 parent: v2_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-11
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/pw_7_2

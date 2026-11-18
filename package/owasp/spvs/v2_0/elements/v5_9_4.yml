@@ -4,3 +4,7 @@ description: Verify that agent compromise playbooks are exercised on a documente
 elementType: requirement
 externalId: V5.9.4
 parent: v5_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ca-5
+  - nist.80053.rev5.framework/ir-3

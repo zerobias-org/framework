@@ -4,3 +4,9 @@ description: Verify that developer toolchain execution is isolated from host cre
 elementType: requirement
 externalId: V1.6.8
 parent: v1_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-7_6
+  - nist.80053.rev5.framework/sc-39
+  - nist.800_218.v1_1.framework/po_5_1
+  - nist.800_218.v1_1.framework/po_5_2

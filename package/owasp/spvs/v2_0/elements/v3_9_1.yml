@@ -4,3 +4,7 @@ description: Verify that model-generated text output or agent-provided instructi
 elementType: requirement
 externalId: V3.9.1
 parent: v3_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-24
+  - nist.80053.rev5.framework/ac-3

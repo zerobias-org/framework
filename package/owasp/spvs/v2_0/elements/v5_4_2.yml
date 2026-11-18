@@ -4,3 +4,7 @@ description: Verify that pipeline security logs are routinely reviewed and analy
 elementType: requirement
 externalId: V5.4.2
 parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-6
+  - nist.800_218.v1_1.framework/po_5_1

@@ -4,3 +4,8 @@ description: Verify that deployed AI components, such as model and prompt versio
 elementType: requirement
 externalId: V5.7.1
 parent: v5_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-2
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/cm-8_3

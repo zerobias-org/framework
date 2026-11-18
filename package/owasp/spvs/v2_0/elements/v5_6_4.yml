@@ -4,3 +4,7 @@ description: Verify that the maximum permission scope achievable by any agent or
 elementType: requirement
 externalId: V5.6.4
 parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.80053.rev5.framework/ac-6

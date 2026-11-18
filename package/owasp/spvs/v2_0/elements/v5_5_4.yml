@@ -4,3 +4,6 @@ description: Verify that agent activity logs are stored in tamper-evident or app
 elementType: requirement
 externalId: V5.5.4
 parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-9

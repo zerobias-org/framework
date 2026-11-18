@@ -4,3 +4,6 @@ description: Verify that agent prompt context size and token consumption are bou
 elementType: requirement
 externalId: V3.8.5
 parent: v3_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10

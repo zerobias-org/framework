@@ -4,3 +4,8 @@ description: Verify that adversarial testing results inform updates to prompt co
 elementType: requirement
 externalId: V4.2.4
 parent: v4_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-11
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/rv_2_2

@@ -4,3 +4,7 @@ description: Verify that the Infrastructure as Code (IaC) security tool is confi
 elementType: requirement
 externalId: V2.3.13
 parent: v2_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-6
+  - nist.800_218.v1_1.framework/po_4_1

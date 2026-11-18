@@ -4,3 +4,7 @@ description: Verify that retrieval queries and returned content are captured in 
 elementType: requirement
 externalId: V3.11.4
 parent: v3_11
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-3

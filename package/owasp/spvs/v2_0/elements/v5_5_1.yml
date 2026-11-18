@@ -4,3 +4,7 @@ description: Verify that agent actions are logged with identity context, permiss
 elementType: requirement
 externalId: V5.5.1
 parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-3

@@ -4,3 +4,7 @@ description: Verify that each scan by the first-party code security tool in the 
 elementType: requirement
 externalId: V3.7.3
 parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5_2
+  - nist.800_218.v1_1.framework/po_3_2

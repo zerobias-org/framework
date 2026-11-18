@@ -4,3 +4,7 @@ description: Verify that each pipeline stage checks the signature of any artifac
 elementType: requirement
 externalId: V3.13.10
 parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_5
+  - nist.80053.rev5.framework/si-7_6

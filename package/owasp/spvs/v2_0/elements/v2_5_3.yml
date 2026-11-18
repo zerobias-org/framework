@@ -4,3 +4,8 @@ description: Verify that system prompts authored during development are reviewed
 elementType: requirement
 externalId: V2.5.3
 parent: v2_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.80053.rev5.framework/sa-11_4
+  - nist.800_218.v1_1.framework/pw_7_2

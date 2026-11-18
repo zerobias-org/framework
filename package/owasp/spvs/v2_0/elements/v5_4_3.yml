@@ -4,3 +4,6 @@ description: Verify that pipeline security alerts are reviewed and responded to 
 elementType: requirement
 externalId: V5.4.3
 parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ir-4

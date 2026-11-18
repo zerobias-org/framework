@@ -4,3 +4,7 @@ description: Verify that AI-generated changes pass the same automated secret and
 elementType: requirement
 externalId: V2.4.4
 parent: v2_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.800_218.v1_1.framework/pw_7_2

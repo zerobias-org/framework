@@ -4,3 +4,7 @@ description: Verify that runtime behavioral monitoring detects anomalous agent a
 elementType: requirement
 externalId: V5.6.8
 parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-4
+  - nist.80053.rev5.framework/si-4_5

@@ -4,3 +4,7 @@ description: Verify that dependencies are fetched only from organization-approve
 elementType: requirement
 externalId: V2.6.1
 parent: v2_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sr-3
+  - nist.800_218.v1_1.framework/pw_4_1

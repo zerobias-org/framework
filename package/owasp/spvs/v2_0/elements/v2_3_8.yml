@@ -4,3 +4,7 @@ description: Verify that the secret detection tool in the development environmen
 elementType: requirement
 externalId: V2.3.8
 parent: v2_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/po_3_2

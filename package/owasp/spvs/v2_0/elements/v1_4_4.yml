@@ -4,3 +4,8 @@ description: Verify that a policy defines maximum allowable permission scopes fo
 elementType: requirement
 externalId: V1.4.4
 parent: v1_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-1
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_1_1

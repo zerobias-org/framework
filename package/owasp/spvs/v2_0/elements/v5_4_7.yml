@@ -4,3 +4,8 @@ description: Verify that publishing a new package version from an automated pipe
 elementType: requirement
 externalId: V5.4.7
 parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-6
+  - nist.80053.rev5.framework/si-4_12
+  - nist.800_218.v1_1.framework/po_5_1

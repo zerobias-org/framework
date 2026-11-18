@@ -4,3 +4,8 @@ description: Verify that dependencies retrieved during agent execution are restr
 elementType: requirement
 externalId: V3.3.3
 parent: v3_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sr-3
+  - nist.80053.rev5.framework/sr-5
+  - nist.800_218.v1_1.framework/pw_4_1

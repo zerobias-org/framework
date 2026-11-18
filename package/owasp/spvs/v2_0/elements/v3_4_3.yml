@@ -4,3 +4,6 @@ description: Verify that secrets are masked and not exposed in pipeline logs.
 elementType: requirement
 externalId: V3.4.3
 parent: v3_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5

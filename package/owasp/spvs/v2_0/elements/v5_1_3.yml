@@ -4,3 +4,6 @@ description: Verify that privileged access management is implemented and monitor
 elementType: requirement
 externalId: V5.1.3
 parent: v5_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2_7

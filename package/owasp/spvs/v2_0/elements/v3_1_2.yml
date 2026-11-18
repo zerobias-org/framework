@@ -4,3 +4,8 @@ description: Verify that access to build servers is restricted to authorized per
 elementType: requirement
 externalId: V3.1.2
 parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2
+  - nist.80053.rev5.framework/ac-3
+  - nist.800_218.v1_1.framework/po_5_1

@@ -4,3 +4,7 @@ description: Verify that MCP (Model Context Protocol) and tool server connection
 elementType: requirement
 externalId: V3.12.2
 parent: v3_12
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-9
+  - nist.800_218.v1_1.framework/po_5_1

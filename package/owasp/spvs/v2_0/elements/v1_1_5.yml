@@ -4,3 +4,7 @@ description: Verify that developers have reviewed the secure development policy,
 elementType: requirement
 externalId: V1.1.5
 parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/pl-4
+  - nist.800_218.v1_1.framework/po_2_2

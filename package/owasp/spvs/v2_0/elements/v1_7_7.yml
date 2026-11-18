@@ -4,3 +4,8 @@ description: Verify that AI asset inventory entries include ownership, risk clas
 elementType: requirement
 externalId: V1.7.7
 parent: v1_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/cm-8_4
+  - nist.80053.rev5.framework/ra-2

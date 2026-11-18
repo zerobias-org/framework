@@ -4,3 +4,8 @@ description: Verify that Version Control System (VCS) administrator accounts are
 elementType: requirement
 externalId: V1.3.7
 parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2_7
+  - nist.80053.rev5.framework/ac-6_7
+  - nist.800_218.v1_1.framework/po_5_1

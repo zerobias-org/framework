@@ -4,3 +4,8 @@ description: Verify that AI agents are technically prevented from accessing huma
 elementType: requirement
 externalId: V3.6.2
 parent: v3_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_5_1

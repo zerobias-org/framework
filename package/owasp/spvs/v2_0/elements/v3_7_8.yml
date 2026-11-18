@@ -4,3 +4,7 @@ description: Verify that the secret detection tool in the CI pipeline runs a ven
 elementType: requirement
 externalId: V3.7.8
 parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/po_3_2

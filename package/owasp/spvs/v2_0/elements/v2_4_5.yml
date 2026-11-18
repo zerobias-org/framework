@@ -4,3 +4,8 @@ description: Verify that AI-generated infrastructure as code passes the same mis
 elementType: requirement
 externalId: V2.4.5
 parent: v2_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-6
+  - nist.80053.rev5.framework/sa-11_1
+  - nist.800_218.v1_1.framework/pw_7_2

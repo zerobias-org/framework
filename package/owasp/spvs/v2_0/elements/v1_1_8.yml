@@ -4,3 +4,6 @@ description: Verify that risk acceptance decisions for AI assets are documented 
 elementType: requirement
 externalId: V1.1.8
 parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-7

@@ -4,3 +4,7 @@ description: Verify that outbound network destinations contacted by agent enviro
 elementType: requirement
 externalId: V5.5.3
 parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-2

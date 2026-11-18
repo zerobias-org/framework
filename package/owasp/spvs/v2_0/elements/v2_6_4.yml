@@ -4,3 +4,8 @@ description: Verify that scripts which run automatically during package installa
 elementType: requirement
 externalId: V2.6.4
 parent: v2_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-7_2
+  - nist.80053.rev5.framework/sr-3
+  - nist.800_218.v1_1.framework/pw_4_1

@@ -4,3 +4,8 @@ description: Verify that a secure open-source software (OSS) policy is establish
 elementType: requirement
 externalId: V1.1.3
 parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-10_1
+  - nist.80053.rev5.framework/sr-1
+  - nist.800_218.v1_1.framework/pw_4_1

@@ -4,3 +4,8 @@ description: Verify that model references are pinned by cryptographic digest (or
 elementType: requirement
 externalId: V4.7.2
 parent: v4_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_6
+  - nist.80053.rev5.framework/sr-4_3
+  - nist.800_218.v1_1.framework/pw_4_4
