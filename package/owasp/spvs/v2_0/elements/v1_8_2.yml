@@ -1,0 +1,6 @@
+id: 7a770dd4-95de-44e2-ac56-92b6cdb26604
+name: Ignore File Coverage for Sensitive Content
+description: Verify that each repository contains a version control ignore file configured to exclude files that commonly hold sensitive data from commits.
+elementType: requirement
+externalId: V1.8.2
+parent: v1_8

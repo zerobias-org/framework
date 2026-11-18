@@ -1,0 +1,6 @@
+id: e38a7f08-20af-42ad-8701-a53a3c432104
+name: Lint Enforcement in CI
+description: Verify that linting with code style, formatting, and syntax bug rules runs in the CI pipeline on every pull request.
+elementType: requirement
+externalId: V3.7.22
+parent: v3_7

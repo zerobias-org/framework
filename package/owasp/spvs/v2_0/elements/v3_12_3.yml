@@ -1,0 +1,6 @@
+id: d6259df0-8e69-41e8-a835-f25a5e625660
+name: Tool Manifest Integrity Validation
+description: Verify that tool definitions and capability manifests provided by MCP (Model Context Protocol) and tool servers are integrity-checked prior to use.
+elementType: requirement
+externalId: V3.12.3
+parent: v3_12

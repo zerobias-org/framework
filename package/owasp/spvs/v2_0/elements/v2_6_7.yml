@@ -1,0 +1,6 @@
+id: 63c7c46c-13de-4c74-87bf-ed93dc6fa0a2
+name: Lockfile Change Verification
+description: Verify that lockfiles are checked for unexpected changes, such as a different package source or a hash that doesn't match the manifest file, before a build trusts them.
+elementType: requirement
+externalId: V2.6.7
+parent: v2_6

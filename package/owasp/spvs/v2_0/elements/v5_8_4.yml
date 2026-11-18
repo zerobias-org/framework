@@ -1,0 +1,6 @@
+id: f0f43c0a-751e-452d-bfe8-f6df7fb849fa
+name: Revoke-Before-Reissue Credential Rotation
+description: Verify that when a credential is rotated because of an incident, the compromised credential is revoked before the replacement is activated, and within a defined SLO.
+elementType: requirement
+externalId: V5.8.4
+parent: v5_8

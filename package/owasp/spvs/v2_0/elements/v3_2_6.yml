@@ -1,0 +1,6 @@
+id: 45b16421-d49c-4ae4-8902-cd6454e32e04
+name: Prohibition of Agent-Created Identities and Privilege Escalation
+description: Verify that AI agents are technically prevented from creating agent identities, registering non-human identities or spawning processes with broader permissions than their own.
+elementType: requirement
+externalId: V3.2.6
+parent: v3_2

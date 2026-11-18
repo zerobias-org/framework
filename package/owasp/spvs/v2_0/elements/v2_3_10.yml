@@ -1,0 +1,6 @@
+id: d81f474a-ed58-4010-bb74-f0353e493f96
+name: Pre-Commit IaC Security Scanning
+description: Verify that an Infrastructure as Code (IaC) security tool scans IaC files before commit.
+elementType: requirement
+externalId: V2.3.10
+parent: v2_3

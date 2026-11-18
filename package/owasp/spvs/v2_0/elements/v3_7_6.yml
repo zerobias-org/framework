@@ -1,0 +1,6 @@
+id: 6c67c74c-2d12-4459-b2ac-56e80debdcfc
+name: CI Dependency Scanning Vulnerability Database Freshness
+description: Verify that each scan by the dependency analysis tool in the CI pipeline uses the latest vulnerability database available from its approved update source.
+elementType: requirement
+externalId: V3.7.6
+parent: v3_7

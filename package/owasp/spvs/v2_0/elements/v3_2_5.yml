@@ -1,0 +1,6 @@
+id: e58a7260-fae7-4391-8ffa-71f6ed1799c9
+name: Runtime Configuration Immutability During Execution
+description: Verify that AI agents cannot modify their runtime configuration or tool bindings during active execution.
+elementType: requirement
+externalId: V3.2.5
+parent: v3_2

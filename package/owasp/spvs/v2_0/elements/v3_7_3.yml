@@ -1,0 +1,6 @@
+id: 57b9829c-ed13-47d3-b444-c87c7c029421
+name: CI First Party Scanning Ruleset Freshness
+description: Verify that each scan by the first-party code security tool in the CI pipeline uses the latest ruleset available from its approved update source.
+elementType: requirement
+externalId: V3.7.3
+parent: v3_7

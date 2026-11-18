@@ -1,0 +1,6 @@
+id: 453b48a6-a74b-4bc8-abae-22634b5b196a
+name: Immutable Release Tags and Version References
+description: Verify that a release tag or version reference cannot be quietly overwritten once it has been published.
+elementType: requirement
+externalId: V3.13.7
+parent: v3_13

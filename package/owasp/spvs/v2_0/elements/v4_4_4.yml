@@ -1,0 +1,6 @@
+id: 5baf7fce-f6ac-4316-b56d-789b39099a73
+name: Production Environment Isolation
+description: Verify that production environments are isolated from development and testing environments.
+elementType: requirement
+externalId: V4.4.4
+parent: v4_4

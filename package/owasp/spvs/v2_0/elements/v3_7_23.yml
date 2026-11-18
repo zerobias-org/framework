@@ -1,0 +1,6 @@
+id: 99806ed7-55a4-40ac-bfdc-7d8cb38ceb01
+name: Lint Finding Remediation Before Merge
+description: Verify that lint findings at or above an organization-defined severity are remediated before merge.
+elementType: requirement
+externalId: V3.7.23
+parent: v3_7

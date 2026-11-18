@@ -1,0 +1,6 @@
+id: 331b0a06-1036-4452-bc56-75387a25bbb4
+name: Release Block on Incomplete AIBOM
+description: Verify that release is blocked when required AIBOM (AI Bill of Materials) fields are missing according to the documented completeness policy.
+elementType: requirement
+externalId: V4.10.3
+parent: v4_10

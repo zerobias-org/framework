@@ -1,0 +1,6 @@
+id: 0016ada7-0a2d-4a6f-8625-c3fe2d5d1bd9
+name: System Prompt Version in Execution Provenance
+description: Verify that the active system prompt version is captured in provenance records for each agent execution.
+elementType: requirement
+externalId: V4.9.4
+parent: v4_9

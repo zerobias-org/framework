@@ -1,0 +1,6 @@
+id: e8d55fff-2f55-4f23-a471-498946c8083f
+name: Adversarial Findings Drive Control Hardening
+description: Verify that adversarial testing results inform updates to prompt controls, tool allowlists, and system prompt hardening prior to promotion to production.
+elementType: requirement
+externalId: V4.2.4
+parent: v4_2

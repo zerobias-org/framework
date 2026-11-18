@@ -1,0 +1,6 @@
+id: cca2a214-0994-4b5a-8f4a-67d4cb90d0d3
+name: MCP and Tool Server Endpoint Allowlist
+description: Verify that MCP (Model Context Protocol) and tool server endpoints are restricted to an explicitly approved allowlist.
+elementType: requirement
+externalId: V3.12.1
+parent: v3_12

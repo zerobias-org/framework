@@ -1,0 +1,6 @@
+id: dfb24c77-5feb-4561-80f0-78e056dede5f
+name: Cloud Metadata Endpoint Access Restriction
+description: Verify that only the specific processes that need it are allowed to query internal cloud metadata endpoints from a build agent, and that any other process doing so triggers an alert.
+elementType: requirement
+externalId: V5.4.5
+parent: v5_4

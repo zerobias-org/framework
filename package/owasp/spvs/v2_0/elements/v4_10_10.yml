@@ -1,0 +1,6 @@
+id: d4f622ed-21aa-46b5-9a2d-4e864cbd77e5
+name: Automated AIBOM Generation in CI/CD
+description: Verify that AIBOM generation is automated so changes to models, datasets, prompts, retrieval sources, tool servers, frameworks or endpoints update it in the same CI/CD workflow.
+elementType: requirement
+externalId: V4.10.10
+parent: v4_10

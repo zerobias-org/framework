@@ -1,0 +1,6 @@
+id: 7ba5ae10-0ac6-4d46-bfb7-a2a781666436
+name: Post-Run Secret Scanning of Pipeline Logs
+description: Verify that pipeline logs are scanned for secret patterns, including encoded forms, after each pipeline run.
+elementType: requirement
+externalId: V3.4.4
+parent: v3_4

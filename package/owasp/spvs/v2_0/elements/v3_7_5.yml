@@ -1,0 +1,6 @@
+id: c8b8d47f-7506-40ec-a22c-45968804d8cc
+name: CI Dependency Scanning Tool Version Currency
+description: Verify that the dependency analysis tool in the CI pipeline runs a vendor-supported version and is updated to new releases within an organization-defined timeframe.
+elementType: requirement
+externalId: V3.7.5
+parent: v3_7

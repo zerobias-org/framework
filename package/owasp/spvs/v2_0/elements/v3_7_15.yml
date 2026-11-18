@@ -1,0 +1,6 @@
+id: 33faabe4-1e4e-49e6-b304-dac8e607da93
+name: Automated Security Scanning on Integration
+description: Verify that every automated security scan type required by the organization's security policy runs on each change in the CI pipeline before merge.
+elementType: requirement
+externalId: V3.7.15
+parent: v3_7

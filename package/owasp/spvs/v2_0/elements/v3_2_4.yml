@@ -1,0 +1,6 @@
+id: ecfc374d-b862-446b-a9c3-734861b195e1
+name: Host Mount and Credential Directory Isolation
+description: Verify that agent execution environments are prevented from accessing host mounts and credential directories.
+elementType: requirement
+externalId: V3.2.4
+parent: v3_2

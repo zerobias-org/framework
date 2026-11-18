@@ -1,0 +1,6 @@
+id: 19ef3f80-d974-4a8a-a6a8-547b310d70d5
+name: Automated Unit Test Execution on Change
+description: Verify that unit tests are automated and run on every code change.
+elementType: requirement
+externalId: V2.7.1
+parent: v2_7

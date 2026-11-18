@@ -1,0 +1,6 @@
+id: 58199a98-a26e-47ae-944e-9a2f25ba1fd6
+name: Runtime Behavioral Anomaly Detection for Agents
+description: Verify that runtime behavioral monitoring detects anomalous agent activity, such as unexpected tool sequences, unusual data access or timing anomalies, and raises alerts.
+elementType: requirement
+externalId: V5.6.8
+parent: v5_6

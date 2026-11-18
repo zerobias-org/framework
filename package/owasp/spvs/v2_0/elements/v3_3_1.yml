@@ -1,0 +1,6 @@
+id: b1a6cecb-97cd-405f-912e-67a5b812b4d9
+name: Agent Egress Allowlist
+description: Verify that outbound network access from agent execution environments is restricted to an approved allowlist.
+elementType: requirement
+externalId: V3.3.1
+parent: v3_3

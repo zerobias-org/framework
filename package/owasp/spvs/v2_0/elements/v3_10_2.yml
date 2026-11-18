@@ -1,0 +1,6 @@
+id: b1360323-74e0-42c5-9a33-79763b9fe038
+name: Sub-Agent Permission Bounding
+description: Verify that sub-agents are technically prevented from operating with permissions exceeding those explicitly delegated at invocation.
+elementType: requirement
+externalId: V3.10.2
+parent: v3_10

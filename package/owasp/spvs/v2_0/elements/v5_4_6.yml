@@ -1,0 +1,6 @@
+id: 825c7d6d-55d9-48a3-a47c-00159c4287b2
+name: Cross-Process Memory Read Detection on Build Agents
+description: Verify that one process reading another process's memory on a build agent is treated as abnormal and triggers an alert.
+elementType: requirement
+externalId: V5.4.6
+parent: v5_4

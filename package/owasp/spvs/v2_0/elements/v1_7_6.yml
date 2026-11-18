@@ -1,0 +1,6 @@
+id: 2394f05c-8cab-4960-aabb-68d5c763e4ce
+name: Unapproved AI Asset Integration Block
+description: Verify that a pipeline release gate blocks production pipeline integration of any AI asset that lacks a completed governance review record in the AI asset inventory.
+elementType: requirement
+externalId: V1.7.6
+parent: v1_7

@@ -1,0 +1,6 @@
+id: 7e439a7c-6598-47bc-97e1-04b1e632206c
+name: Build Environment Validation in Provenance Attestations
+description: Verify that build provenance attestations are validated for builder identity, isolation state and signature against an expected baseline, failing when fields are missing.
+elementType: requirement
+externalId: V3.13.6
+parent: v3_13

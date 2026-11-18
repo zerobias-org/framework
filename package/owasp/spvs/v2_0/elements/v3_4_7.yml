@@ -1,0 +1,6 @@
+id: ca4ba9d1-4519-4a01-8daa-90c6f5d8d883
+name: Job-Scoped Secrets in Reusable Pipelines
+description: Verify that secrets given to a shared or reusable pipeline are limited to the one job that needs them, instead of being automatically passed to every job in the chain.
+elementType: requirement
+externalId: V3.4.7
+parent: v3_4

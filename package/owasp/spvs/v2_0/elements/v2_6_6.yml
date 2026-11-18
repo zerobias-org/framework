@@ -1,0 +1,6 @@
+id: a88fc4da-acce-4f20-9cbc-863e0651e877
+name: Package Publish-Age Cooldown
+description: Verify that a new package version is blocked from development and build environments until it reaches an organization-defined minimum publish age.
+elementType: requirement
+externalId: V2.6.6
+parent: v2_6

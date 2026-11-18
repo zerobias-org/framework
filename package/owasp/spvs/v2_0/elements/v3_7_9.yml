@@ -1,0 +1,6 @@
+id: 0740d6c7-76e8-4545-8f89-16e23b770c09
+name: CI Secrets Detection Rule Freshness
+description: Verify that each scan by the secret detection tool in the CI pipeline uses the latest detection rules available from its approved update source.
+elementType: requirement
+externalId: V3.7.9
+parent: v3_7

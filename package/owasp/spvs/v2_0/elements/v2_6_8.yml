@@ -1,0 +1,6 @@
+id: a9843eed-4418-4c0d-aa20-bcb736a04f33
+name: Dependency Count and Depth Review
+description: Verify that third-party dependency count and transitive depth are reviewed at a defined interval, recording a keep or remove decision for each flagged dependency.
+elementType: requirement
+externalId: V2.6.8
+parent: v2_6

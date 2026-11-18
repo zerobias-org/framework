@@ -1,0 +1,6 @@
+id: 042c0703-7735-4e5a-8b72-98607e0b187c
+name: Pre-Commit First Party Code Scanning
+description: Verify that a first-party code security tool scans source code before commit.
+elementType: requirement
+externalId: V2.3.1
+parent: v2_3

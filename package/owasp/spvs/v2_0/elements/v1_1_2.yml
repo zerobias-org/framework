@@ -1,0 +1,6 @@
+id: cc3a3cfd-1a6b-4bd8-baa6-a9956bcc4f83
+name: Secure Development Policy Coverage
+description: Verify that an established secure development policy covers, at minimum, the OWASP Top 10 Continuous Integration/Continuous Delivery (CI/CD) Security Risks.
+elementType: requirement
+externalId: V1.1.2
+parent: v1_1

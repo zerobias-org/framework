@@ -1,0 +1,6 @@
+id: 789f5da5-1bfb-4ef5-918c-8e5dc4f748e3
+name: Phishing-Resistant MFA for Publishing Accounts
+description: Verify that every account with publish rights to a package requires phishing-resistant MFA enforced per package, not only through an organization-level setting.
+elementType: requirement
+externalId: V1.3.9
+parent: v1_3

@@ -1,0 +1,6 @@
+id: 204d6d74-3b1e-4e1f-9ca8-18e7709bd50e
+name: Pipeline-Side Commit Author Verification
+description: Verify that the pipeline verifies the author of each commit, without relying on warnings shown in the Version Control System (VCS) web interface.
+elementType: requirement
+externalId: V1.8.4
+parent: v1_8

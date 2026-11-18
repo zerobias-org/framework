@@ -1,0 +1,6 @@
+id: d95eebb9-b6d1-4cf2-a6f1-c29c8673d85c
+name: Agent Isolation from Human Secret Namespaces
+description: Verify that AI agents are technically prevented from accessing human user secret namespaces.
+elementType: requirement
+externalId: V3.6.2
+parent: v3_6

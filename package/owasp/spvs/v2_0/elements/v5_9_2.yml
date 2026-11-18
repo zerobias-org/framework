@@ -1,0 +1,6 @@
+id: 77a9ff03-b604-4324-8564-a340189f7833
+name: Agent Identity Suspension and Credential Rotation
+description: Verify that response procedures can suspend agent identities and rotate associated credentials without requiring full pipeline shutdown.
+elementType: requirement
+externalId: V5.9.2
+parent: v5_9

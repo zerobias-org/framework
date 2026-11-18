@@ -1,0 +1,6 @@
+id: 241e70e3-f376-4b44-870a-3a861b9a3305
+name: Ephemeral Agent Execution Environments
+description: Verify that AI agent execution environments are ephemeral and destroyed after job completion.
+elementType: requirement
+externalId: V3.2.2
+parent: v3_2

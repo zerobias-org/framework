@@ -1,0 +1,6 @@
+id: 9d76ae24-d3ee-4c3c-b434-0df8855b5aed
+name: AIBOM Model Component Fields
+description: Verify that the AIBOM (AI Bill of Materials) includes model identifiers, versions, provenance/lineage, supplier/provider details, and integrity metadata for each model component.
+elementType: requirement
+externalId: V4.10.4
+parent: v4_10

@@ -1,0 +1,6 @@
+id: d651eb13-c76d-4e71-819f-f5f964888e52
+name: AIBOM Integrity Validation at Release Gate
+description: Verify that the AIBOM (AI Bill of Materials) is integrity-protected (signed or equivalent) and signature/integrity validation occurs as part of the release gate.
+elementType: requirement
+externalId: V4.10.9
+parent: v4_10

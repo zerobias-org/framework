@@ -1,0 +1,6 @@
+id: 454e81fb-3940-4b96-bbe5-7eb197809f08
+name: Publish Notification and Unexpected Release Investigation
+description: Verify that publishing a new package version from an automated pipeline always sends a notification, and that any publish the team didn't expect gets investigated before it's trusted.
+elementType: requirement
+externalId: V5.4.7
+parent: v5_4

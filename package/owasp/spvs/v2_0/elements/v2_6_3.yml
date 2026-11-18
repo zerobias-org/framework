@@ -1,0 +1,6 @@
+id: ed8b6add-c6a0-4fb6-8ed3-befb8fdea357
+name: Dependency Version Pinning
+description: Verify that dependency versions are pinned to exact versions in manifest files or lockfiles.
+elementType: requirement
+externalId: V2.6.3
+parent: v2_6

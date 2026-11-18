@@ -1,0 +1,6 @@
+id: 67fe69e8-adaf-4fe4-9de7-71fa128e2cbb
+name: AIBOM Regeneration Triggers
+description: Verify that documented triggers require AIBOM (AI Bill of Materials) regeneration upon model, dataset, prompt, retrieval source, tool server, framework, or endpoint changes.
+elementType: requirement
+externalId: V1.9.7
+parent: v1_9

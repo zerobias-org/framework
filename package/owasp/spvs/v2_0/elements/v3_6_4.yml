@@ -1,0 +1,6 @@
+id: 5bb65d0b-7333-422e-b364-ba0800133927
+name: Per-Secret Agent Access Allowlisting
+description: Verify that agent secret access is explicitly allowlisted per secret and job scope.
+elementType: requirement
+externalId: V3.6.4
+parent: v3_6

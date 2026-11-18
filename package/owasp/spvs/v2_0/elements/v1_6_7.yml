@@ -1,0 +1,6 @@
+id: 210888e1-6ac5-4584-894f-6656e17d14ff
+name: Developer Tool Egress Destination Governance
+description: Verify that destinations contacted by installed developer tool extensions are governed by an allowlist or reviewed policy, and that traffic outside it triggers an alert.
+elementType: requirement
+externalId: V1.6.7
+parent: v1_6

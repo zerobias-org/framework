@@ -1,0 +1,6 @@
+id: b46434cc-fd9e-4963-ac33-325b0020b67b
+name: Third Party Library Patch Currency
+description: Verify that third-party libraries are updated to a patched version within organization-defined timeframes tiered by vulnerability severity after a security patch is released.
+elementType: requirement
+externalId: V2.3.14
+parent: v2_3

@@ -1,0 +1,6 @@
+id: a5c00d5c-0e3c-4100-9a1c-467320d144da
+name: Project-Scoped Pipeline Secrets
+description: Verify that each project has its own pipeline secrets, scoped to only what that project needs, and that no secret is shared across an entire organization or across all repositories.
+elementType: requirement
+externalId: V3.4.8
+parent: v3_4

@@ -1,0 +1,6 @@
+id: fca24cc6-400b-45cd-a8b7-e4689b940fa6
+name: Prompt Injection Detection and Alerting
+description: Verify that prompt injection detection controls generate alerts when known or suspected injection patterns are identified in untrusted input sources prior to prompt inclusion.
+elementType: requirement
+externalId: V3.8.4
+parent: v3_8

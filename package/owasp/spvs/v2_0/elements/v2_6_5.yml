@@ -1,0 +1,6 @@
+id: a014c072-dba2-404f-8cec-b55df5a04e8c
+name: Package Risk Signal Screening
+description: Verify that new packages or versions failing screening for defined risk signals, such as install scripts or recent ownership changes, are blocked from development and build.
+elementType: requirement
+externalId: V2.6.5
+parent: v2_6

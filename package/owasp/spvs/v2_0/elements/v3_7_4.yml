@@ -1,0 +1,6 @@
+id: 019983e1-173b-495f-9fb5-ef84028cae72
+name: Dependency Scanning in CI
+description: Verify that a dependency analysis tool scans every change in the CI pipeline for known vulnerabilities in third-party components, including open source software (OSS), before merge.
+elementType: requirement
+externalId: V3.7.4
+parent: v3_7

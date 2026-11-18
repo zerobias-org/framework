@@ -1,0 +1,6 @@
+id: ecff7feb-7953-4d57-a732-ceac77818792
+name: Secret Rotation to Policy
+description: Verify that secret rotation is implemented and secrets are rotated as required by the secrets policy.
+elementType: requirement
+externalId: V3.4.6
+parent: v3_4

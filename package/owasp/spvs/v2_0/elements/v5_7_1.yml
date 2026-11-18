@@ -1,0 +1,6 @@
+id: 0c6ee5e6-e344-4e54-a7d8-90a25ab4acf2
+name: AIBOM Drift Reconciliation
+description: Verify that deployed AI components, such as model and prompt versions, retrieval sources, tool servers and endpoints, are reconciled against the approved AIBOM with drift alerts.
+elementType: requirement
+externalId: V5.7.1
+parent: v5_7

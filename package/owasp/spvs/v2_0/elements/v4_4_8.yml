@@ -1,0 +1,6 @@
+id: 1759f6d4-9204-4f85-86ae-7d60b89f4a44
+name: Publish Rate Limiting Across Multiple Packages
+description: Verify that an identity able to publish several packages cannot release multiple packages within a defined window without extra approval, or that such activity is blocked.
+elementType: requirement
+externalId: V4.4.8
+parent: v4_4

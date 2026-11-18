@@ -1,0 +1,6 @@
+id: 8e8e331b-b0ea-4126-8f09-76f171eb5951
+name: Developer Secrets Detection Rule Freshness
+description: Verify that each scan by the secret detection tool in the development environment uses the latest detection rules available from its approved update source.
+elementType: requirement
+externalId: V2.3.9
+parent: v2_3

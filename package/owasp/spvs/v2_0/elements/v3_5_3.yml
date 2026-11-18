@@ -1,0 +1,6 @@
+id: d1424c0e-2801-479f-b871-381c4590b6d1
+name: Agent Credential Maximum Time-To-Live
+description: Verify that AI agent credentials enforce a maximum TTL (time-to-live) consistent with policy.
+elementType: requirement
+externalId: V3.5.3
+parent: v3_5

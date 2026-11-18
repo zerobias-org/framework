@@ -1,0 +1,6 @@
+id: 0ca8ca88-dd96-4631-9091-dcbd09613c63
+name: Secret Exclusion from Model Context Channels
+description: Verify that secrets are not exposed to agents via prompts, logs, issue comments, pull request (PR) text, or other model context channels.
+elementType: requirement
+externalId: V3.6.5
+parent: v3_6

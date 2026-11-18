@@ -1,0 +1,6 @@
+id: 28dadca0-268a-42d5-9818-ed61edb68b7e
+name: Integrity Verification of Security Scanning Tools
+description: Verify that security scanning tools are themselves checked for integrity before they run, so a compromised scanning tool can't falsely mark its own output as clean.
+elementType: requirement
+externalId: V3.7.20
+parent: v3_7

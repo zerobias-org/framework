@@ -1,0 +1,6 @@
+id: 4f373c7a-ec4c-45a9-aa0a-7a001d9dd63e
+name: Release-Stage Credential Isolation
+description: Verify that the release stage accepts only credentials issued specifically for release and refuses any credential carried over from the integrate stage or any earlier stage.
+elementType: requirement
+externalId: V4.4.7
+parent: v4_4

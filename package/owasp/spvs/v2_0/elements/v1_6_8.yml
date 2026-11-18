@@ -1,0 +1,6 @@
+id: 0550cb5c-7bd3-4935-af42-706c8aa4e48d
+name: Developer Toolchain Isolation from Host
+description: Verify that developer toolchain execution is isolated from host credentials, configuration files and network resources through containers, sandboxing or equivalent isolation.
+elementType: requirement
+externalId: V1.6.8
+parent: v1_6

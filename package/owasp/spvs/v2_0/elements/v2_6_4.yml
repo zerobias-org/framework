@@ -1,0 +1,6 @@
+id: ad2ebd1c-fa52-4809-a4f7-5f014a50518a
+name: Install Script Execution Disabled by Default
+description: Verify that scripts which run automatically during package installation, such as preinstall or postinstall hooks, are turned off by default.
+elementType: requirement
+externalId: V2.6.4
+parent: v2_6

@@ -1,0 +1,6 @@
+id: 61fc35f9-8263-4d31-b1c4-3f78beca62c6
+name: Integrity Validation of Runtime-Retrieved Dependencies
+description: Verify that retrieved dependencies are integrity-validated (hash/signature/pinning) prior to use.
+elementType: requirement
+externalId: V3.3.4
+parent: v3_3

@@ -1,0 +1,6 @@
+id: cf355637-d9bf-4609-91c4-397dc3dfe826
+name: Automated Scanning of Pipeline Definition Changes
+description: Verify that every pipeline or workflow file change is scanned before merge for unsafe triggers, unescaped external input in commands and overly broad permissions.
+elementType: requirement
+externalId: V3.1.9
+parent: v3_1

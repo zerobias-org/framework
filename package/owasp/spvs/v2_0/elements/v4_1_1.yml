@@ -1,0 +1,6 @@
+id: 23589d7a-0670-4028-a7fe-1ad1ec272add
+name: Release Candidate Security Assessment
+description: Verify that the release candidate undergoes every security assessment type that the documented security policy requires before release.
+elementType: requirement
+externalId: V4.1.1
+parent: v4_1

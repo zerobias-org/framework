@@ -1,0 +1,6 @@
+id: 282e42ca-4218-45af-9597-94cd1f76da6d
+name: AI Behavioral Regression Testing Before Promotion
+description: Verify that AI model behavioral regression tests are executed against documented behavioral baselines prior to production promotion following model version, configuration, or system prompt changes.
+elementType: requirement
+externalId: V4.1.2
+parent: v4_1

@@ -1,0 +1,6 @@
+id: d295fbe8-7cdc-4916-a570-25f0823994cb
+name: Prompt Injection Event Logging
+description: Verify that prompt injection detection events are logged with the input source, detected pattern or classification, sanitization or blocking outcome, and handling rationale.
+elementType: requirement
+externalId: V5.4.11
+parent: v5_4

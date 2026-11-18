@@ -1,0 +1,6 @@
+id: b8055ede-7df6-40f1-ad35-523794638092
+name: Lockfile-Exact Dependency Installation
+description: Verify that build and CI/CD pipelines install dependencies using a command that installs exactly what's listed in the lockfile, instead of a command that can pull in newer versions on its own.
+elementType: requirement
+externalId: V3.1.7
+parent: v3_1

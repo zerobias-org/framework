@@ -1,0 +1,6 @@
+id: 631ca119-129d-45ef-b6cb-3e554f86c850
+name: Team-Scoped Repository Read Access
+description: Verify that source repository read access for human and programmatic identities is scoped by team or project and is not granted organization-wide by default.
+elementType: requirement
+externalId: V1.3.11
+parent: v1_3

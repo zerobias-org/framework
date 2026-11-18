@@ -1,0 +1,6 @@
+id: e18d294d-e47e-43a2-94ef-dc91509c94da
+name: MFA on the Version Control System
+description: Verify that the Version Control System (VCS) requires multi-factor authentication (MFA) for all users.
+elementType: requirement
+externalId: V1.3.6
+parent: v1_3

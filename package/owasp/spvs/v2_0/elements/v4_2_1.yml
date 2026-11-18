@@ -1,0 +1,6 @@
+id: 150e73c0-1529-457c-bd84-209fa598d80e
+name: Pre-Production Adversarial Testing of Agents
+description: Verify that pipeline-integrated agents are tested for prompt injection, jailbreak attempts, and sensitive data extraction prior to production deployment.
+elementType: requirement
+externalId: V4.2.1
+parent: v4_2

@@ -1,0 +1,6 @@
+id: 7ad69e1e-3fa5-44f0-802e-c764a6fcc75a
+name: Private Registry Proxy for Public Packages
+description: Verify that packages from public registries are consumed through a private registry proxy or mirror, and that direct installation from public registries is blocked in CI/CD environments.
+elementType: requirement
+externalId: V2.6.9
+parent: v2_6

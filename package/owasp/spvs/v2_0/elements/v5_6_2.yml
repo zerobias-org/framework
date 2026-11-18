@@ -1,0 +1,6 @@
+id: bd840a1b-80ff-4bbb-a773-3d1dc1dd4553
+name: Per-Identity Agent Rate Limits and Quotas
+description: Verify that execution rate limits and action quotas are enforced per agent identity to prevent runaway automation.
+elementType: requirement
+externalId: V5.6.2
+parent: v5_6

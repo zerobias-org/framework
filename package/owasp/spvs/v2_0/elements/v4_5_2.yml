@@ -1,0 +1,6 @@
+id: 16c2c3a2-8417-4777-9adf-a62dc49b4b7b
+name: Security Owner Approval for Agent Capability Changes
+description: Verify that changes to agent permissions, capability allowlists, or tool integrations require designated security owner approval.
+elementType: requirement
+externalId: V4.5.2
+parent: v4_5

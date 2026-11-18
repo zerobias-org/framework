@@ -1,0 +1,6 @@
+id: 559804e0-2b62-4e03-b694-5d21977e5c41
+name: AI-Generated Change Review Enforcement
+description: Verify that AI-generated changes cannot bypass mandatory peer review and branch protection controls.
+elementType: requirement
+externalId: V2.4.1
+parent: v2_4

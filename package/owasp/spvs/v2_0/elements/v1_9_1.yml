@@ -1,0 +1,6 @@
+id: e11987fa-5473-4017-afef-237ac4ccf19b
+name: AIBOM Scope Policy
+description: Verify that an AIBOM policy defines the required scope, covering models, datasets, prompts, agent frameworks and SDKs, tool servers, retrieval sources and external endpoints.
+elementType: requirement
+externalId: V1.9.1
+parent: v1_9

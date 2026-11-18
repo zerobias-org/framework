@@ -1,0 +1,6 @@
+id: b5d9b476-d93f-4c21-9eeb-6dbd6d6fda8e
+name: Stage-Scoped Secret Use
+description: Verify that secrets are scoped to a single pipeline stage or deployment environment and are not shared with any other stage or environment, including production.
+elementType: requirement
+externalId: V3.4.5
+parent: v3_4

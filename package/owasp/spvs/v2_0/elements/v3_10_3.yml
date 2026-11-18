@@ -1,0 +1,6 @@
+id: 31d4d69b-a147-4146-9e40-c44878c8de92
+name: Trust Boundary Approval in Multi-Agent Workflows
+description: Verify that multi-agent workflows cannot traverse repository or environment trust boundaries without explicit approval at each boundary crossing.
+elementType: requirement
+externalId: V3.10.3
+parent: v3_10

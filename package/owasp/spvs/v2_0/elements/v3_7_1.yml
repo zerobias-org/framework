@@ -1,0 +1,6 @@
+id: a297db8f-8333-4b7c-9433-3955a6151611
+name: First Party Code Scanning in CI
+description: Verify that a first-party code security tool scans every change in the CI pipeline before merge.
+elementType: requirement
+externalId: V3.7.1
+parent: v3_7

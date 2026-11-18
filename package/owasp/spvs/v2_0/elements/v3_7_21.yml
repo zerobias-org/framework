@@ -1,0 +1,6 @@
+id: bdb62d3a-f08b-4643-b1f5-6d5b38094a32
+name: Instrumented Dependency Install and Build
+description: Verify that build environments instrument dependency installation and build steps and alert on child processes, interpreters or network connections unexpected for the build.
+elementType: requirement
+externalId: V3.7.21
+parent: v3_7

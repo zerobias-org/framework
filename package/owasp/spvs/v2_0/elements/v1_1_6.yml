@@ -1,0 +1,6 @@
+id: 923aa1c2-7214-40c1-95fa-3601970c1e69
+name: Separation of Build, Signing, and Publish Stages
+description: Verify that build, signing, and publish each run as separate stages on independently managed systems, so that breaking into one stage doesn't automatically give access to the next.
+elementType: requirement
+externalId: V1.1.6
+parent: v1_1

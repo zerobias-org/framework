@@ -1,0 +1,6 @@
+id: 7acf4e28-3beb-4168-bbff-a6a120c91bd0
+name: Secret Encryption at Rest and in Transit
+description: Verify that secrets are encrypted both at rest and in transit.
+elementType: requirement
+externalId: V1.3.8
+parent: v1_3

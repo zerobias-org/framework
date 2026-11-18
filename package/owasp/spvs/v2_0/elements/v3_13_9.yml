@@ -1,0 +1,6 @@
+id: e6847470-ebb5-4bd7-897a-033930101646
+name: Transitive Dependency Pinning of External Build Steps
+description: Verify that all transitive dependencies of each pinned external build step or plugin are pinned, as shown by a recursive dependency manifest or vendored dependencies.
+elementType: requirement
+externalId: V3.13.9
+parent: v3_13

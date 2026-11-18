@@ -1,0 +1,6 @@
+id: 2075da16-8cd7-4fdd-8f4c-53e7ebfd33fb
+name: Runner Egress Monitoring
+description: Verify that outbound network traffic from CI/CD runners is monitored, and that an alert fires when a connection goes to an unexpected or unauthorized destination.
+elementType: requirement
+externalId: V5.4.4
+parent: v5_4

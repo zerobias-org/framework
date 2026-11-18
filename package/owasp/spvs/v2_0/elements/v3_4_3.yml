@@ -1,0 +1,6 @@
+id: 782619fc-2345-4f02-9cf7-5007adde5296
+name: Secret Masking in Pipeline Logs
+description: Verify that secrets are masked and not exposed in pipeline logs.
+elementType: requirement
+externalId: V3.4.3
+parent: v3_4

@@ -1,0 +1,6 @@
+id: 324c9cd9-0520-4908-8981-dce33ea71232
+name: Single-Purpose Write Credentials
+description: Verify that no single credential can write to more than one repository, package, or service. Break broad-access credentials into smaller, single-purpose ones.
+elementType: requirement
+externalId: V1.3.10
+parent: v1_3

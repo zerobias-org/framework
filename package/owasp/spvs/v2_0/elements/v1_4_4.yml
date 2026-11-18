@@ -1,0 +1,6 @@
+id: 7f1f04b1-1e34-4287-abe2-d9b1c5c3a4a9
+name: Maximum Permission Scope Policy for Agent Identities
+description: Verify that a policy defines maximum allowable permission scopes for AI agent NHIs (Non-Human Identities).
+elementType: requirement
+externalId: V1.4.4
+parent: v1_4

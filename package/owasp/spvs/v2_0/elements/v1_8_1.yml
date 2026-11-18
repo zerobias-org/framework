@@ -1,0 +1,6 @@
+id: cdee1050-1a45-453c-92bd-b22f42e4f335
+name: Role-Based Access Control in Version Control
+description: Verify that the Version Control System (VCS) enforces role-based access control (RBAC) using documented role definitions that grant each role only the permissions it requires.
+elementType: requirement
+externalId: V1.8.1
+parent: v1_8

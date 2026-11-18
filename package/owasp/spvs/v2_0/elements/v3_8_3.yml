@@ -1,0 +1,6 @@
+id: 4f692c8c-a243-4244-b83c-cc7e812baa36
+name: Deterministic Validation of Model Output Before Action
+description: Verify that model output and agent-provided instructions are treated as untrusted and deterministically validated before they invoke tools, run commands or trigger pipeline actions.
+elementType: requirement
+externalId: V3.8.3
+parent: v3_8

@@ -1,0 +1,6 @@
+id: 40431e27-c382-45ac-ae1a-42171e25d901
+name: Commit Pin Reachability Verification
+description: Verify that pinned commit references actually point to a commit that exists on a real branch, not an orphan or "shadow" commit that was never merged anywhere.
+elementType: requirement
+externalId: V3.13.3
+parent: v3_13

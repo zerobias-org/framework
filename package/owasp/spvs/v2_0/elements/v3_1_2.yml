@@ -1,0 +1,6 @@
+id: 32a7ef1d-ec10-455f-9976-1f7fb0f0f7a8
+name: Build Server Access Restriction
+description: Verify that access to build servers is restricted to authorized personnel only.
+elementType: requirement
+externalId: V3.1.2
+parent: v3_1

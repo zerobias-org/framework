@@ -1,0 +1,6 @@
+id: 9b2515ab-93c5-4bcc-9abc-7bb933621e06
+name: Deny-by-Default Agent Secret Access
+description: Verify that agent secret access is denied by default.
+elementType: requirement
+externalId: V3.6.3
+parent: v3_6

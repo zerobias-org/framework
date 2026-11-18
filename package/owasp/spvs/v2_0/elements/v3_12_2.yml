@@ -1,0 +1,6 @@
+id: b95bfdfe-002f-478f-8fd8-9e6eb1d97ba4
+name: MCP and Tool Server Authentication
+description: Verify that MCP (Model Context Protocol) and tool server connections are authenticated and unauthenticated servers are blocked.
+elementType: requirement
+externalId: V3.12.2
+parent: v3_12

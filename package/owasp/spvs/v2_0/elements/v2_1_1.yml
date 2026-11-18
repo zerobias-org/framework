@@ -1,0 +1,6 @@
+id: a8f62385-2b6d-438b-b600-9e34693762c0
+name: Lint Scanning Cadence
+description: Verify that linting with code style, formatting, and syntax bug rules runs before each commit.
+elementType: requirement
+externalId: V2.1.1
+parent: v2_1

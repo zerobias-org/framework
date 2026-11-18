@@ -1,0 +1,6 @@
+id: 8a37bf73-09e5-4749-aff0-c7198a67b161
+name: Timely Patch and Update Application
+description: Verify that security patches for production pipeline infrastructure, such as CI/CD servers, build agents and runtime hosts, are applied within severity-based timeframes.
+elementType: requirement
+externalId: V5.3.1
+parent: v5_3

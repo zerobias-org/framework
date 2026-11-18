@@ -1,0 +1,6 @@
+id: 44c960d5-8dad-472a-928a-be41f81ed61a
+name: Retrieval Source Allowlist Enforcement
+description: Verify that retrieval sources are restricted to an explicitly approved allowlist enforced at the access control layer.
+elementType: requirement
+externalId: V3.11.2
+parent: v3_11

@@ -1,0 +1,38 @@
+id: 28a2a966-a41c-4cc7-9bfa-a5a4666a2140
+name: OWASP Secure Pipeline Verification Standard (SPVS) 2.0
+description: >-
+  The OWASP Secure Pipeline Verification Standard (SPVS) 2.0 defines verifiable
+  security requirements for software delivery pipelines across five lifecycle
+  phases (Plan, Develop, Integrate, Release, Operate), assigned to three
+  cumulative verification levels: Foundational, Standard and Advanced. Content
+  by the OWASP SPVS project, licensed under CC BY-SA 4.0
+  (https://github.com/OWASP/www-project-spvs).
+standardType: framework
+standardCategory: cyber
+code: owasp_spvs_v2_0
+externalId: OWASP SPVS 2.0
+url: https://owasp.org/www-project-spvs/
+version: v2.0
+status: approved
+external: true
+internal: false
+elementTypes:
+  - id: 88673f0c-9039-45b7-b25e-bb4ee1631dc6
+    code: category
+    name: Category
+    description: An SPVS pipeline lifecycle phase (V1 Plan to V5 Operate)
+  - id: 54de9959-db0b-4088-9a9f-5cbd294898d3
+    code: sub_category
+    name: Sub-category
+    description: A group of related SPVS requirements within a phase
+  - id: 2ca852d5-057b-44cc-99e1-582c2d273787
+    code: requirement
+    name: Requirement
+    description: A verifiable SPVS requirement assigned to a verification level
+mappingTypes:
+  - requirement
+tags: []
+aliases:
+  - SPVS
+  - OWASP SPVS
+  - SPVS 2.0

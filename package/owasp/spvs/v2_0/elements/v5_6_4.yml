@@ -1,0 +1,6 @@
+id: 5083554f-8ab0-407a-8051-9a1e9521bb40
+name: Agent Permission Ceiling Enforcement
+description: Verify that the maximum permission scope achievable by any agent or agent chain is enforced and cannot be expanded through agent-initiated requests.
+elementType: requirement
+externalId: V5.6.4
+parent: v5_6

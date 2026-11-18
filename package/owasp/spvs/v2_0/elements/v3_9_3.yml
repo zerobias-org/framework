@@ -1,0 +1,6 @@
+id: fa35bd2b-0487-48e8-a68b-f94590ff1203
+name: Separate Authorization Gate for Privileged Tools
+description: Verify that privileged tools require separate authorization gates beyond model output.
+elementType: requirement
+externalId: V3.9.3
+parent: v3_9

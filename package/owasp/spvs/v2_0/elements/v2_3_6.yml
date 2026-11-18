@@ -1,0 +1,6 @@
+id: 1ed71dba-85f2-4c62-a644-5970b62e47fc
+name: Developer Dependency Scanning Vulnerability Database Freshness
+description: Verify that each scan by the dependency analysis tool in the development environment uses the latest vulnerability database available from its approved update source.
+elementType: requirement
+externalId: V2.3.6
+parent: v2_3

@@ -1,0 +1,6 @@
+id: 7bf8bf6f-b1bd-4dcf-82bb-7cec25cf89d4
+name: Developer First Party Scanning Ruleset Freshness
+description: Verify that each scan by the first-party code security tool in the development environment uses the latest ruleset available from its approved update source.
+elementType: requirement
+externalId: V2.3.3
+parent: v2_3

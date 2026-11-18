@@ -1,0 +1,6 @@
+id: 1a44878f-0268-47dc-aa9f-f31f8fcfbae4
+name: Pre-Commit Security Scanning
+description: Verify that every security scan type required by the organization's security policy runs in the development environment before commit.
+elementType: requirement
+externalId: V2.3.15
+parent: v2_3

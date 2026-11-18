@@ -1,0 +1,6 @@
+id: aad1970c-cce0-42f8-942e-6c5e15553586
+name: Retrieval Source Inventory
+description: Verify that retrieval sources used by pipeline-integrated agents are recorded in an AI asset inventory prior to production pipeline use.
+elementType: requirement
+externalId: V1.7.5
+parent: v1_7

@@ -1,0 +1,6 @@
+id: 76b40e45-f8fa-4654-83df-4516ca0db00a
+name: Dedicated Secret Store for Agent Identities
+description: Verify that AI agents retrieve secrets only from a dedicated NHI (Non-Human Identity) secret store.
+elementType: requirement
+externalId: V3.6.1
+parent: v3_6

@@ -1,0 +1,6 @@
+id: e10af964-f047-4c35-8078-edb7eb0ebbc1
+name: Untrusted Handling of Retrieved Content
+description: Verify that retrieved content is treated as untrusted input and is subject to injection controls prior to use.
+elementType: requirement
+externalId: V3.11.3
+parent: v3_11

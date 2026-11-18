@@ -1,0 +1,6 @@
+id: e2732366-8060-4803-b4f7-b1d8512da14b
+name: Agent Credential Audience Restriction
+description: Verify that AI agent credentials are restricted to an intended audience and cannot be used across unrelated services.
+elementType: requirement
+externalId: V3.5.4
+parent: v3_5

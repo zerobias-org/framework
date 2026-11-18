@@ -1,0 +1,6 @@
+id: b9707d2f-88cc-4ed8-a1fd-bc63d4aad715
+name: Ephemeral or Re-Imaged CI/CD Runners
+description: Verify that CI/CD runners are ephemeral and destroyed after each job, or that persistent runners are re-imaged on a defined schedule and scanned for tampering before reuse.
+elementType: requirement
+externalId: V3.1.11
+parent: v3_1

@@ -1,0 +1,6 @@
+id: c27ebbbf-c863-461c-a69d-f35e6b9379cd
+name: AIBOM Generation as a Release Artifact
+description: Verify that an AIBOM (AI Bill of Materials) is generated for each pipeline-integrated AI system/agent prior to production release and stored as a release artifact.
+elementType: requirement
+externalId: V4.10.1
+parent: v4_10

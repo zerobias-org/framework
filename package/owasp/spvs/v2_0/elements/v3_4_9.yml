@@ -1,0 +1,6 @@
+id: 11f0ce83-92a8-4c18-a11f-82f2d13d79e7
+name: Removal of Static Token Fallback Beside OIDC
+description: Verify that when a publish workflow has both a short-lived OIDC credential and a static token configured, the static token is removed rather than left as a silent fallback.
+elementType: requirement
+externalId: V3.4.9
+parent: v3_4

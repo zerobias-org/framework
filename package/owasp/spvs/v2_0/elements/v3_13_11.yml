@@ -1,0 +1,6 @@
+id: ab34f12c-45ab-4646-8df1-0b044111c769
+name: Signed Build Provenance Attestation
+description: Verify that build outputs carry a signed provenance attestation binding the artifact to its source, builder and parameters, and that consumers validate it before use.
+elementType: requirement
+externalId: V3.13.11
+parent: v3_13

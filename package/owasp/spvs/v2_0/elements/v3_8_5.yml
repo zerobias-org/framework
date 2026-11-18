@@ -1,0 +1,6 @@
+id: 87442c38-e8e9-4609-aa76-40bf5fdcfb80
+name: Prompt Context and Token Consumption Limits
+description: Verify that agent prompt context size and token consumption are bounded by enforceable limits that prevent context overflow, token stuffing and safety control bypass.
+elementType: requirement
+externalId: V3.8.5
+parent: v3_8

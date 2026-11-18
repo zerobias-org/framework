@@ -1,0 +1,6 @@
+id: b5824f6a-eea7-47ee-839a-bcb0923894c5
+name: Agent Execution Resource Limits
+description: Verify that AI agent execution environments enforce resource consumption limits including maximum CPU, memory, wall-clock execution time, and external API call quotas per invocation.
+elementType: requirement
+externalId: V3.1.13
+parent: v3_1

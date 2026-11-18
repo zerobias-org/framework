@@ -1,0 +1,6 @@
+id: c81f89c5-a192-44d5-ac3f-6de13be967da
+name: CI IaC Policy Enforcement Configuration
+description: Verify that the Infrastructure as Code (IaC) security tool is configured to enforce the organization's IaC security policies.
+elementType: requirement
+externalId: V3.7.13
+parent: v3_7

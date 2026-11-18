@@ -1,0 +1,6 @@
+id: 35463d49-e002-4af6-9bbf-3f5f577282b8
+name: Secrets Manager or Built-In Credential Store
+description: Verify that the pipeline uses built-in credential management or a secrets manager, rather than hard-coding credentials.
+elementType: requirement
+externalId: V3.4.1
+parent: v3_4

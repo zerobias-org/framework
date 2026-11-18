@@ -1,0 +1,6 @@
+id: 694e40fd-4665-4830-9c99-0833c8959c3d
+name: Injection Controls on Inter-Agent Input
+description: Verify that prompt injection controls applied to external inputs are equally applied to inputs received from other agents.
+elementType: requirement
+externalId: V3.10.5
+parent: v3_10

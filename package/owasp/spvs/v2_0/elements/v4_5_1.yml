@@ -1,0 +1,6 @@
+id: c036a619-81c0-4eb6-b53b-17043836974f
+name: Elevated Approval for Agent Pipeline File Changes
+description: Verify that AI agent modifications to pipeline definition files require elevated approval gates beyond standard review.
+elementType: requirement
+externalId: V4.5.1
+parent: v4_5

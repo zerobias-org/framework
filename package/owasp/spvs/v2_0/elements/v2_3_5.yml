@@ -1,0 +1,6 @@
+id: f902b086-0133-4b08-ba2e-f0d6a59491b9
+name: Developer Dependency Scanning Tool Version Currency
+description: Verify that the dependency analysis tool in the development environment runs a vendor-supported version and is updated to new releases within an organization-defined timeframe.
+elementType: requirement
+externalId: V2.3.5
+parent: v2_3

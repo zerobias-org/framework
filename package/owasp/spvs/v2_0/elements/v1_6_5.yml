@@ -1,0 +1,6 @@
+id: 10904418-6e35-4cb6-9d9a-2aff5042c110
+name: IDE Extension Allowlisting and Checksum Verification
+description: Verify that IDE extensions come from a centrally approved list, are version-pinned and checksum-verified, and do not auto-update outside that approval process.
+elementType: requirement
+externalId: V1.6.5
+parent: v1_6

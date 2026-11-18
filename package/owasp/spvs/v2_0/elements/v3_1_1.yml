@@ -1,0 +1,6 @@
+id: 5c1d0a24-f02b-4e68-ad1f-036d7e61d310
+name: Build Server Hardening and Patching
+description: Verify that build servers are hardened and regularly patched.
+elementType: requirement
+externalId: V3.1.1
+parent: v3_1

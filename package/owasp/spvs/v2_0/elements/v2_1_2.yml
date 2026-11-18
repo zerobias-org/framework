@@ -1,0 +1,6 @@
+id: 253da90e-9f74-4a7c-b2af-cb7e84c6ed03
+name: Lint Finding Remediation
+description: Verify that lint findings at or above an organization-defined severity are remediated before commit.
+elementType: requirement
+externalId: V2.1.2
+parent: v2_1

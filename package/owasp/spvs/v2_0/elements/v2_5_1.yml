@@ -1,0 +1,6 @@
+id: 3d7f1bfc-2a9e-458e-b07c-62fe38d2a0f9
+name: No Hardcoded Credentials in Repositories
+description: Verify that credentials are not hardcoded in code repositories or pipeline configuration files.
+elementType: requirement
+externalId: V2.5.1
+parent: v2_5

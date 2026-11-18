@@ -1,0 +1,6 @@
+id: 60803345-fc50-4470-9230-c6c4d889adea
+name: Direct Dependency Pinning of External Build Steps
+description: Verify that the direct dependencies of each pinned external build step or plugin are pinned.
+elementType: requirement
+externalId: V3.13.8
+parent: v3_13

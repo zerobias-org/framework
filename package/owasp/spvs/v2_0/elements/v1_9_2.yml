@@ -1,0 +1,6 @@
+id: ba84d7b1-1daf-4b2e-bf3c-66eec9b20103
+name: AIBOM Schema and Format Policy
+description: Verify that an AIBOM (AI Bill of Materials) policy defines approved schemas/formats and required machine-readable output.
+elementType: requirement
+externalId: V1.9.2
+parent: v1_9

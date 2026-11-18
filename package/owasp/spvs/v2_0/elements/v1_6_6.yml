@@ -1,0 +1,6 @@
+id: b9918762-ce00-4f58-a830-812d1b7cacb3
+name: Developer Tool Inventory Drift Monitoring
+description: Verify that developer tool installations, configuration files, and extension or add-on inventory are monitored for unauthorized changes, and that alerts are routed to a documented response process.
+elementType: requirement
+externalId: V1.6.6
+parent: v1_6

@@ -1,0 +1,6 @@
+id: f68c848f-903d-433f-a974-f9ae7f10f70e
+name: CI/CD Cache Integrity Value at Write
+description: Verify that CI/CD cache contents are signed or checksummed at write time, with the integrity value or verification key stored outside the cache's trust boundary.
+elementType: requirement
+externalId: V3.13.4
+parent: v3_13

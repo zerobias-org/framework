@@ -1,0 +1,6 @@
+id: 512d0c01-e7e4-4e06-ad89-b0f08f820d56
+name: SBOM Generation for Each Build
+description: Verify that the build pipeline generates a machine-readable software bill of materials (SBOM) for each build and stores it as a release artifact.
+elementType: requirement
+externalId: V3.13.13
+parent: v3_13

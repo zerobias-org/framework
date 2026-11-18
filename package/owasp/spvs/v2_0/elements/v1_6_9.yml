@@ -1,0 +1,6 @@
+id: 45de0488-90c8-4fd6-8a82-a2a2624d51f6
+name: Workspace Trust Before Repository Open
+description: Verify that opening a cloned or downloaded repository cannot trigger automatic code execution in developer tools until the user explicitly trusts the workspace.
+elementType: requirement
+externalId: V1.6.9
+parent: v1_6

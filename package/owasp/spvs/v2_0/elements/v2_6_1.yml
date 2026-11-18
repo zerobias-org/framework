@@ -1,0 +1,6 @@
+id: 24f6d68a-024a-4290-8d8f-5a0030dfec2a
+name: Approved Dependency Sources
+description: Verify that dependencies are fetched only from organization-approved package sources.
+elementType: requirement
+externalId: V2.6.1
+parent: v2_6

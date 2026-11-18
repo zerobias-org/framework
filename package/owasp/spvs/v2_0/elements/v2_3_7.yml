@@ -1,0 +1,6 @@
+id: 9669891f-1451-44ff-9e82-1c2d06ba7f04
+name: Pre-Commit Secrets Detection Scanning
+description: Verify that a secret detection tool scans changes before commit.
+elementType: requirement
+externalId: V2.3.7
+parent: v2_3

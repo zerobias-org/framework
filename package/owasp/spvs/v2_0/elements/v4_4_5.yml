@@ -1,0 +1,6 @@
+id: 33b87a08-5dbe-4d31-85ce-fab37dedb0b7
+name: Deployment-Time Unauthorized Change Detection
+description: Verify that deployment scripts include checks for unauthorized changes before execution.
+elementType: requirement
+externalId: V4.4.5
+parent: v4_4

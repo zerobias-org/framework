@@ -1,0 +1,6 @@
+id: aae488e9-c15b-4231-bd4d-3e05b0746c9b
+name: Least Privilege Across Pipeline Tooling
+description: Verify that each tool in the documented software pipeline has a documented role-to-permission matrix that grants each role only the permissions required for its function.
+elementType: requirement
+externalId: V1.3.3
+parent: v1_3

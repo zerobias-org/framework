@@ -1,0 +1,6 @@
+id: 0b69264e-1ba2-410c-bbc3-9c0c59947ada
+name: Dependency and License Analysis of AI-Generated Code
+description: Verify that dependencies introduced by AI-generated code pass the same vulnerability and license analysis as other dependencies before merge, with no AI identity bypass.
+elementType: requirement
+externalId: V2.4.3
+parent: v2_4
