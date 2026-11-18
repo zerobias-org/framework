@@ -1,0 +1,11 @@
+id: 8c8279be-7419-4c89-ba9b-03c63305a1a2
+name: Post-Incident Review of the AI Control Stack
+description: Verify that post-incident reviews of AI agent compromises assess whether prompt controls, tool allowlists, system prompts, AIBOM entries or detection thresholds need updating.
+elementType: requirement
+externalId: V5.8.5
+parent: v5_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ca-5
+  - nist.80053.rev5.framework/ir-4
+  - nist.800_218.v1_1.framework/rv_3_4

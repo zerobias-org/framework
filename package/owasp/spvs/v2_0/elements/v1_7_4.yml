@@ -1,0 +1,10 @@
+id: bf8b8067-79ff-49b5-a48d-06b2d40843fa
+name: MCP and Tool Server Inventory
+description: Verify that MCP (Model Context Protocol) and tool servers are recorded in an AI asset inventory prior to production pipeline use.
+elementType: requirement
+externalId: V1.7.4
+parent: v1_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/cm-8_1

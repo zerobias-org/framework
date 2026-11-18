@@ -1,0 +1,11 @@
+id: 591b41f0-6864-47fa-a66e-42bb9f86c86e
+name: Untrusted Classification of External Content Sources
+description: Verify that untrusted content sources (issues, PR (pull request) text, comments, external inputs) are classified and handled as untrusted by default.
+elementType: requirement
+externalId: V3.8.1
+parent: v3_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-16
+  - nist.80053.rev5.framework/si-10
+  - nist.800_218.v1_1.framework/pw_5_1

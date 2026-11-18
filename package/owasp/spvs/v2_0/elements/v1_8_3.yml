@@ -1,0 +1,9 @@
+id: 5b6702a9-af5e-4932-981e-6fbcec05e7bd
+name: Branch Schema Enforcement
+description: Verify that the Version Control System (VCS) enforces a documented branch naming convention.
+elementType: requirement
+externalId: V1.8.3
+parent: v1_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-10

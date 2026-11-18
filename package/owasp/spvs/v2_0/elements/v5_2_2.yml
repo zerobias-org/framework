@@ -1,0 +1,10 @@
+id: 7bd09dcf-54c5-43ea-8056-3ae12acc4cd3
+name: Operational Practice Security Review
+description: Verify that production operational practices are reviewed against documented security policies on a defined cadence.
+elementType: requirement
+externalId: V5.2.2
+parent: v5_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ca-2
+  - nist.80053.rev5.framework/ca-7

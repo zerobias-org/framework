@@ -1,0 +1,10 @@
+id: a8585881-1b7b-4c3d-be6f-162b1d15e71c
+name: Prohibition of Long-Lived Agent Credentials
+description: Verify that long-lived static credentials such as PATs (Personal Access Tokens) and API keys (Application Programming Interface keys) are prohibited for AI agent pipeline execution.
+elementType: requirement
+externalId: V3.5.2
+parent: v3_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5
+  - nist.800_218.v1_1.framework/po_5_1

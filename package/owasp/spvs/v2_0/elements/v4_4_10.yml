@@ -1,0 +1,10 @@
+id: 4b1cd5e7-c7de-48db-aad8-f3f89469ba9f
+name: Change Control for Derived Model Artifacts
+description: Verify that changes to model fine-tuning, quantization format, or other derived model artifacts are treated as model version changes subject to review and approval controls.
+elementType: requirement
+externalId: V4.4.10
+parent: v4_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/sa-10

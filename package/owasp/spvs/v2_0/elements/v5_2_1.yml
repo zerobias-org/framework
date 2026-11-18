@@ -1,0 +1,9 @@
+id: 15f4fd45-14ac-44e5-b4ca-194b4620838d
+name: Continuous Production Security Policy Enforcement
+description: Verify that security policies for the production environment are enforced by an automated policy mechanism that blocks deployment and configuration changes that violate those policies.
+elementType: requirement
+externalId: V5.2.1
+parent: v5_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-6_1

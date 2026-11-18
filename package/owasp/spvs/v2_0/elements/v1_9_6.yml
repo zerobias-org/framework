@@ -1,0 +1,10 @@
+id: b31b03fe-1e01-4a4c-ad39-5b03af2fc0fd
+name: AIBOM Ownership Assignment
+description: Verify that each pipeline-integrated AI system/agent has an assigned AIBOM (AI Bill of Materials) owner accountable for accuracy and updates.
+elementType: requirement
+externalId: V1.9.6
+parent: v1_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_4
+  - nist.800_218.v1_1.framework/po_2_1

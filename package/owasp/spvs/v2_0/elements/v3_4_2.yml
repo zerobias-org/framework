@@ -1,0 +1,11 @@
+id: fad4251b-50a9-45d9-a209-c4a09be5bbbe
+name: Restricted Visibility of Pipeline Secrets
+description: Verify that only authorized users can view secrets used by the pipeline.
+elementType: requirement
+externalId: V3.4.2
+parent: v3_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.80053.rev5.framework/ia-5
+  - nist.800_218.v1_1.framework/po_5_1

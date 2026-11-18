@@ -1,0 +1,10 @@
+id: 96020f79-e819-4111-932e-7c17bd0f583e
+name: CI IaC Scanning Ruleset Freshness
+description: Verify that each scan by the Infrastructure as Code (IaC) security tool in the CI pipeline uses the latest ruleset available from its approved update source.
+elementType: requirement
+externalId: V3.7.12
+parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5_2
+  - nist.800_218.v1_1.framework/po_3_2

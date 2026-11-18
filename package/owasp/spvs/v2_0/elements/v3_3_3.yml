@@ -1,0 +1,11 @@
+id: 1ba38822-2aff-4065-85a0-239013b7ec48
+name: Approved Registries for Runtime Dependency Retrieval
+description: Verify that dependencies retrieved during agent execution are restricted to approved registries or sources.
+elementType: requirement
+externalId: V3.3.3
+parent: v3_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sr-3
+  - nist.80053.rev5.framework/sr-5
+  - nist.800_218.v1_1.framework/pw_4_1

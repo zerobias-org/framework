@@ -1,0 +1,10 @@
+id: a9ce2512-45a7-4dc9-a320-16e7b38494b1
+name: System Prompt Secret Exclusion
+description: Verify that system prompts do not contain embedded secrets, credentials, or sensitive organizational data.
+elementType: requirement
+externalId: V4.9.3
+parent: v4_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.800_218.v1_1.framework/pw_5_1

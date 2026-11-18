@@ -1,0 +1,10 @@
+id: f338bd70-4682-4d44-b5d1-cd5a4a93a86e
+name: Pipeline Policy Documentation and Review
+description: Verify that pipeline-related policies are formally documented, maintained as compliance artifacts, and reviewed periodically for accuracy and relevance.
+elementType: requirement
+externalId: V4.3.1
+parent: v4_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-15
+  - nist.800_218.v1_1.framework/po_1_1

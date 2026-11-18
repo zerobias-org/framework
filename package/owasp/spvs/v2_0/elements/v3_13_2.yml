@@ -1,0 +1,9 @@
+id: 384ca362-121a-41aa-8c0e-7f83d479014c
+name: Artifact Checksum Validation Before Deployment
+description: Verify that checksums are used to validate the integrity of build artifacts before deployment.
+elementType: requirement
+externalId: V3.13.2
+parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_1

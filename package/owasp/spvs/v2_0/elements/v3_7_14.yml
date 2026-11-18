@@ -1,0 +1,10 @@
+id: 902924d8-ff30-4ca8-a917-68621cf23a19
+name: Dynamic Application Security Testing
+description: Verify that a dynamic application security testing (DAST) tool scans running applications.
+elementType: requirement
+externalId: V3.7.14
+parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-11_8
+  - nist.800_218.v1_1.framework/pw_8_2

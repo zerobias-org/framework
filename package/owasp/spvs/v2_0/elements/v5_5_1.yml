@@ -1,0 +1,10 @@
+id: 5cf8dea4-0b1f-4573-b247-5aa68c666a85
+name: Agent Action Logging with Identity Context
+description: Verify that agent actions are logged with identity context, permission scope, tool usage, and outcome.
+elementType: requirement
+externalId: V5.5.1
+parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-3

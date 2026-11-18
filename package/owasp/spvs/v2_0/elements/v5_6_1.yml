@@ -1,0 +1,9 @@
+id: 05d9ac8b-a495-440e-ae7a-42503d41aa02
+name: Human Approval for Irreversible Agent Operations
+description: Verify that agents are prevented from performing irreversible high-impact operations without explicit out-of-band human approval.
+elementType: requirement
+externalId: V5.6.1
+parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3

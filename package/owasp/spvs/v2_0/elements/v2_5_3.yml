@@ -1,0 +1,11 @@
+id: 9ab52815-250e-4bab-ad67-888d201deb9d
+name: System Prompt Secret Review Before Commit
+description: Verify that system prompts authored during development are reviewed for embedded secrets, credentials, API keys, and sensitive organizational data prior to being committed to version control.
+elementType: requirement
+externalId: V2.5.3
+parent: v2_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.80053.rev5.framework/sa-11_4
+  - nist.800_218.v1_1.framework/pw_7_2

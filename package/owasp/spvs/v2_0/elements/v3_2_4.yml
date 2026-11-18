@@ -1,0 +1,11 @@
+id: ecfc374d-b862-446b-a9c3-734861b195e1
+name: Host Mount and Credential Directory Isolation
+description: Verify that agent execution environments are prevented from accessing host mounts and credential directories.
+elementType: requirement
+externalId: V3.2.4
+parent: v3_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_5_1

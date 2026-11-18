@@ -1,0 +1,11 @@
+id: b4838ab2-b7a0-401a-992a-60ea4eb4d127
+name: Separate Build and Publish Stages
+description: Verify that build and publish run as separate pipeline stages with the built artifact held between them for review, and that no single pipeline run can both build and publish without that check.
+elementType: requirement
+externalId: V3.1.8
+parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/cm-5
+  - nist.800_218.v1_1.framework/po_5_1

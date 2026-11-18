@@ -1,0 +1,10 @@
+id: df9e4dc6-7e64-4aba-b064-ea52466c08d4
+name: Automatic Screen Lock on Developer Machines
+description: Verify that developer machines are configured to lock automatically after a period of inactivity.
+elementType: requirement
+externalId: V1.5.5
+parent: v1_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-11
+  - nist.800_218.v1_1.framework/po_5_2

@@ -1,0 +1,12 @@
+id: 467e0507-779f-49bc-ad1d-0685b3ea9236
+name: Real-Time Pipeline Monitoring and Anomaly Detection
+description: Verify that real-time monitoring tools generate pipeline security logs and detect anomalies.
+elementType: requirement
+externalId: V5.4.1
+parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/si-4
+  - nist.80053.rev5.framework/si-4_2
+  - nist.800_218.v1_1.framework/po_5_1

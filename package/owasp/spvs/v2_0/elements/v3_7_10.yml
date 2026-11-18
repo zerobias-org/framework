@@ -1,0 +1,12 @@
+id: dbcdb033-ff4c-45f5-a7e4-ced0d424b067
+name: IaC Security Scanning in CI
+description: Verify that an Infrastructure as Code (IaC) security tool scans every change in the CI pipeline before merge.
+elementType: requirement
+externalId: V3.7.10
+parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5
+  - nist.80053.rev5.framework/sa-11_1
+  - nist.800_218.v1_1.framework/pw_7_2
+  - nist.800_218.v1_1.framework/rv_1_2

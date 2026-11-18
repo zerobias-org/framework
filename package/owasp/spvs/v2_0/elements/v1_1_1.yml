@@ -1,0 +1,10 @@
+id: dcc19fc1-5706-40c1-8b1f-ca37434ee7e2
+name: Documented Software Pipeline
+description: Verify that a documented software pipeline exists.
+elementType: requirement
+externalId: V1.1.1
+parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-15
+  - nist.800_218.v1_1.framework/po_3_1

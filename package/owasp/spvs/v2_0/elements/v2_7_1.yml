@@ -1,0 +1,11 @@
+id: 19ef3f80-d974-4a8a-a6a8-547b310d70d5
+name: Automated Unit Test Execution on Change
+description: Verify that unit tests are automated and run on every code change.
+elementType: requirement
+externalId: V2.7.1
+parent: v2_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3_2
+  - nist.80053.rev5.framework/sa-11
+  - nist.800_218.v1_1.framework/pw_8_2

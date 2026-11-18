@@ -1,0 +1,10 @@
+id: 4a48f301-0d51-4567-a539-1054d8f00bef
+name: Deterministic Policy Enforcement for Privileged Actions
+description: Verify that model-generated text output or agent-provided instructions cannot directly invoke privileged actions without deterministic policy enforcement.
+elementType: requirement
+externalId: V3.9.1
+parent: v3_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-24
+  - nist.80053.rev5.framework/ac-3

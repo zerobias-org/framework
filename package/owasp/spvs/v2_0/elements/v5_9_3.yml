@@ -1,0 +1,11 @@
+id: 1f343afe-f5af-449e-ae9c-e22316182db3
+name: Agent Activity Forensic Evidence Preservation
+description: Verify that forensic procedures preserve sufficient evidence of agent activity (inputs, tool calls, accessed data classes, outputs, downstream effects) with data classification controls.
+elementType: requirement
+externalId: V5.9.3
+parent: v5_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-11
+  - nist.80053.rev5.framework/au-3
+  - nist.80053.rev5.framework/au-9

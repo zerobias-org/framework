@@ -1,0 +1,11 @@
+id: 94af12a0-60ff-4a72-a136-e915d04868b2
+name: CI/CD Cache Verification at Restore
+description: Verify that restored CI/CD cache contents are checked against their write-time integrity value before use, failing the build on mismatch or a co-located integrity value.
+elementType: requirement
+externalId: V3.13.5
+parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_1
+  - nist.80053.rev5.framework/si-7_6
+  - nist.800_218.v1_1.framework/po_5_1

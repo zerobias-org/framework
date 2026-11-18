@@ -1,0 +1,11 @@
+id: b1360323-74e0-42c5-9a33-79763b9fe038
+name: Sub-Agent Permission Bounding
+description: Verify that sub-agents are technically prevented from operating with permissions exceeding those explicitly delegated at invocation.
+elementType: requirement
+externalId: V3.10.2
+parent: v3_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.80053.rev5.framework/ac-6_8
+  - nist.800_218.v1_1.framework/po_5_1

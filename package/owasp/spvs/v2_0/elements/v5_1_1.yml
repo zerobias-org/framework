@@ -1,0 +1,11 @@
+id: cbf0ab65-4187-401b-8e4b-6847b58b35a1
+name: Periodic User Access Audit
+description: Verify that user access entitlements to pipeline systems, including version control, CI/CD platforms, artifact registries and secret stores, are reviewed on a documented cadence.
+elementType: requirement
+externalId: V5.1.1
+parent: v5_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2
+  - nist.80053.rev5.framework/ac-6_7
+  - nist.800_218.v1_1.framework/po_5_1

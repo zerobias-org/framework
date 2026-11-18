@@ -1,0 +1,9 @@
+id: 5fb70972-8071-4bcc-a69b-3092b7d1d6b5
+name: Pipeline-Specific Incident Response Plan
+description: Verify that incident response plans are developed, maintained, and include procedures specific to pipeline security incidents.
+elementType: requirement
+externalId: V5.8.1
+parent: v5_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ir-8

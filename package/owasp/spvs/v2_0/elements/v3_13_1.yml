@@ -1,0 +1,11 @@
+id: 54a4ac87-df69-48d9-885e-1f246559df1b
+name: Cryptographic Signing of Build Artifacts
+description: Verify that build artifacts are cryptographically signed.
+elementType: requirement
+externalId: V3.13.1
+parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-10_1
+  - nist.80053.rev5.framework/si-7_6
+  - nist.800_218.v1_1.framework/ps_2_1

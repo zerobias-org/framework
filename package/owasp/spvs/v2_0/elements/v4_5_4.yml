@@ -1,0 +1,9 @@
+id: af10c11e-e206-4240-b227-93e87855cfc3
+name: Human Approval Gate for Agent-Triggered Deployment
+description: Verify that AI agents cannot trigger production deployments without an explicit human-authorized approval gate.
+elementType: requirement
+externalId: V4.5.4
+parent: v4_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-5

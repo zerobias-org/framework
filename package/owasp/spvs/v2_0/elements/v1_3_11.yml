@@ -1,0 +1,11 @@
+id: 631ca119-129d-45ef-b6cb-3e554f86c850
+name: Team-Scoped Repository Read Access
+description: Verify that source repository read access for human and programmatic identities is scoped by team or project and is not granted organization-wide by default.
+elementType: requirement
+externalId: V1.3.11
+parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/ps_1_1

@@ -1,0 +1,11 @@
+id: 825c7d6d-55d9-48a3-a47c-00159c4287b2
+name: Cross-Process Memory Read Detection on Build Agents
+description: Verify that one process reading another process's memory on a build agent is treated as abnormal and triggers an alert.
+elementType: requirement
+externalId: V5.4.6
+parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-4_23
+  - nist.80053.rev5.framework/si-4_5
+  - nist.800_218.v1_1.framework/po_5_1

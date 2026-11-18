@@ -1,0 +1,12 @@
+id: 582e2086-c61a-4d96-9f00-39d55567cde4
+name: Adversarial Testing Cadence and Remediation SLAs
+description: Verify that adversarial testing is performed on a documented cadence and tracked to remediation with defined SLAs (service-level agreements).
+elementType: requirement
+externalId: V4.2.2
+parent: v4_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ca-5
+  - nist.80053.rev5.framework/ca-8
+  - nist.800_218.v1_1.framework/rv_1_2
+  - nist.800_218.v1_1.framework/rv_2_2

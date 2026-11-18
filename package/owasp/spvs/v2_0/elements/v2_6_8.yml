@@ -1,0 +1,11 @@
+id: a9843eed-4418-4c0d-aa20-bcb736a04f33
+name: Dependency Count and Depth Review
+description: Verify that third-party dependency count and transitive depth are reviewed at a defined interval, recording a keep or remove decision for each flagged dependency.
+elementType: requirement
+externalId: V2.6.8
+parent: v2_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-7_1
+  - nist.80053.rev5.framework/sr-3
+  - nist.800_218.v1_1.framework/pw_4_1

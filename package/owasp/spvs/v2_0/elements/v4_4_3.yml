@@ -1,0 +1,11 @@
+id: 28bf1388-d359-4514-a372-8702ad2e8b2c
+name: Production Configuration Secret Protection
+description: Verify that production configuration secrets are kept in a secrets manager, or in encrypted files whose keys are held in a separate key management service or HSM.
+elementType: requirement
+externalId: V4.4.3
+parent: v4_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.80053.rev5.framework/sc-12
+  - nist.80053.rev5.framework/sc-28_1

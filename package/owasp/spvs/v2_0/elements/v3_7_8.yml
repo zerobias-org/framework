@@ -1,0 +1,10 @@
+id: 92143ca8-df4a-44be-ae37-d4a84f4fe975
+name: CI Secrets Detection Tool Version Currency
+description: Verify that the secret detection tool in the CI pipeline runs a vendor-supported version and is updated to new releases within an organization-defined timeframe.
+elementType: requirement
+externalId: V3.7.8
+parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/po_3_2

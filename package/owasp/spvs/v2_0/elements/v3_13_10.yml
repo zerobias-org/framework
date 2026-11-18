@@ -1,0 +1,10 @@
+id: 9e6ff5ac-33ed-460c-ba8f-8745c61f0f41
+name: Inter-Stage Artifact Signature Verification
+description: Verify that each pipeline stage checks the signature of any artifact it receives from the stage before it against a known trust source, and that the pipeline run fails when the check fails.
+elementType: requirement
+externalId: V3.13.10
+parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_5
+  - nist.80053.rev5.framework/si-7_6

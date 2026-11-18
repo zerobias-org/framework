@@ -1,0 +1,11 @@
+id: d687dff5-5795-4731-909f-4a94f4a90990
+name: Secure Coding Standard
+description: Verify that a documented secure coding standard covering the languages and frameworks in use is established and required by the secure development policy.
+elementType: requirement
+externalId: V1.1.9
+parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sa-15
+  - nist.80053.rev5.framework/sa-8
+  - nist.800_218.v1_1.framework/pw_5_1

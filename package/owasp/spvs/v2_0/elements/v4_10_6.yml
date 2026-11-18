@@ -1,0 +1,11 @@
+id: 2c149270-b2ae-497d-ac37-20ed56e49f7e
+name: AIBOM System Prompt Fields
+description: Verify that the AIBOM (AI Bill of Materials) includes system prompt identifiers/versions and prompt configuration artifact references.
+elementType: requirement
+externalId: V4.10.6
+parent: v4_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/ps_3_2

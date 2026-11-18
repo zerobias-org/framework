@@ -1,0 +1,11 @@
+id: e088c3a6-32fd-4ffd-a2b8-42366f2d3fb4
+name: Runtime Tool Definition Substitution Detection
+description: Verify that runtime substitution of MCP (Model Context Protocol) and tool definitions is detected and blocked.
+elementType: requirement
+externalId: V3.12.4
+parent: v3_12
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7
+  - nist.80053.rev5.framework/si-7_5
+  - nist.800_218.v1_1.framework/po_3_2

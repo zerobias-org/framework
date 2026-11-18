@@ -1,0 +1,10 @@
+id: dd1cbbec-3339-4a48-8fe9-a8d47c448c5c
+name: Outbound Data Volume Monitoring for Agents
+description: Verify that outbound data volume from agent execution environments is monitored and threshold violations generate alerts.
+elementType: requirement
+externalId: V5.6.3
+parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-4_4
+  - nist.80053.rev5.framework/si-4_5

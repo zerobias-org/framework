@@ -1,0 +1,13 @@
+id: f190c560-b597-4f0f-968c-8bea628acd4b
+name: Approved Model and Framework Registries
+description: Verify that AI models and agent frameworks used in pipeline execution are sourced exclusively from approved registries with documented provenance.
+elementType: requirement
+externalId: V4.7.1
+parent: v4_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-7_5
+  - nist.80053.rev5.framework/sr-3
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/pw_4_1
+  - nist.800_218.v1_1.framework/pw_4_4

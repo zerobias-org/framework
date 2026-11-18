@@ -1,0 +1,12 @@
+id: 478fcb39-bb38-4d93-a4c4-1ab9cf7fd78d
+name: Package Name Similarity Screening
+description: Verify that requested package names are screened against known internal and public names before first resolution, and near-matches or never-used names require review.
+elementType: requirement
+externalId: V2.6.10
+parent: v2_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sr-11
+  - nist.80053.rev5.framework/sr-3
+  - nist.800_218.v1_1.framework/pw_4_1
+  - nist.800_218.v1_1.framework/pw_4_4

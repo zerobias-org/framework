@@ -1,0 +1,11 @@
+id: b9918762-ce00-4f58-a830-812d1b7cacb3
+name: Developer Tool Inventory Drift Monitoring
+description: Verify that developer tool installations, configuration files, and extension or add-on inventory are monitored for unauthorized changes, and that alerts are routed to a documented response process.
+elementType: requirement
+externalId: V1.6.6
+parent: v1_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_3
+  - nist.80053.rev5.framework/si-7
+  - nist.800_218.v1_1.framework/po_3_2

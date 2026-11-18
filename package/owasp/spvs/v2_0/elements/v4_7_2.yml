@@ -1,0 +1,11 @@
+id: 6c281be3-bab0-4fcc-8b45-320dde0115e0
+name: Cryptographic Pinning of Model References
+description: Verify that model references are pinned by cryptographic digest (or equivalent) and unpinned references are blocked.
+elementType: requirement
+externalId: V4.7.2
+parent: v4_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_6
+  - nist.80053.rev5.framework/sr-4_3
+  - nist.800_218.v1_1.framework/pw_4_4

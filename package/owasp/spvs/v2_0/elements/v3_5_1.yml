@@ -1,0 +1,10 @@
+id: 78fbb4da-cfc3-469c-a968-b2be69729be6
+name: Federated Workload Identity for Agents
+description: Verify that AI agents authenticate using federated workload identity mechanisms for pipeline execution.
+elementType: requirement
+externalId: V3.5.1
+parent: v3_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-9
+  - nist.800_218.v1_1.framework/po_5_1

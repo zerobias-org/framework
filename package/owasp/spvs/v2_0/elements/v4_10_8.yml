@@ -1,0 +1,10 @@
+id: e6d1b2f0-5ad7-4fc2-8f0c-07a91f329b91
+name: AIBOM External Endpoint Fields
+description: Verify that the AIBOM lists the external endpoints agents use, including model APIs, retrieval stores and MCP or tool servers, with their allowlist status.
+elementType: requirement
+externalId: V4.10.8
+parent: v4_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.800_218.v1_1.framework/ps_3_2

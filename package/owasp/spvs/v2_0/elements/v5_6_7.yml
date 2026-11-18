@@ -1,0 +1,10 @@
+id: 73da43ba-9456-45b5-947d-44bb72e8bffb
+name: Sensitive Data Exclusion from Agent Context
+description: Verify that data classified as sensitive is technically excluded from agent context windows when not required for the assigned task and cannot appear in outputs transmitted to external endpoints.
+elementType: requirement
+externalId: V5.6.7
+parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-4
+  - nist.80053.rev5.framework/ac-4_8

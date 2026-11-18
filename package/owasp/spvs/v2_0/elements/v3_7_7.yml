@@ -1,0 +1,11 @@
+id: 4a415f8b-4c40-43cf-afea-075e974365ef
+name: Secrets Detection Scanning in CI
+description: Verify that a secret detection tool scans every change in the CI pipeline before merge.
+elementType: requirement
+externalId: V3.7.7
+parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.80053.rev5.framework/ra-5
+  - nist.800_218.v1_1.framework/pw_7_2

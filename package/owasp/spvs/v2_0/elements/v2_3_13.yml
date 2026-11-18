@@ -1,0 +1,10 @@
+id: 0216c01d-248c-461c-8bd8-ad83a84a36a2
+name: Developer IaC Policy Check Configuration
+description: Verify that the Infrastructure as Code (IaC) security tool is configured to check the organization's IaC security policies.
+elementType: requirement
+externalId: V2.3.13
+parent: v2_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-6
+  - nist.800_218.v1_1.framework/po_4_1

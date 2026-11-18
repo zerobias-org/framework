@@ -1,0 +1,11 @@
+id: 8750fa9b-a950-4f8b-a2c0-a51d638e62a4
+name: Continuous Vulnerability Monitoring of Production Dependencies
+description: Verify that third-party components in production are continuously monitored against vulnerability feeds, with new disclosures remediated within defined timeframes.
+elementType: requirement
+externalId: V5.3.2
+parent: v5_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/rv_1_1

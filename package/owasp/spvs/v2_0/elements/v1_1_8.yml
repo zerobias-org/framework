@@ -1,0 +1,9 @@
+id: 8210ad2d-7df3-41b9-a2fb-17567d9d27cb
+name: AI Risk Acceptance Documentation
+description: Verify that risk acceptance decisions for AI assets are documented with business justification, risk owner sign-off, and a defined expiration date requiring re-evaluation.
+elementType: requirement
+externalId: V1.1.8
+parent: v1_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-7

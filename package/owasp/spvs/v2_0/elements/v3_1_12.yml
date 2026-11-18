@@ -1,0 +1,11 @@
+id: 6c5fe955-ca99-4fc8-81df-debff55c1f16
+name: Egress-Restricted Install and Build Isolation
+description: Verify that dependency installation and builds run isolated with outbound network access denied by default and allowed only to approved package sources and endpoints.
+elementType: requirement
+externalId: V3.1.12
+parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/sc-7_10
+  - nist.80053.rev5.framework/sc-7_5
+  - nist.800_218.v1_1.framework/po_5_1

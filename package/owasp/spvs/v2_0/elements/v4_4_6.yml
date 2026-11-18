@@ -1,0 +1,10 @@
+id: fdbefc63-99b2-4bd2-a83b-bc182dd8075c
+name: Non-Bypassable Signature and Attestation Checks
+description: Verify that signature and attestation checks for deployment cannot be bypassed except through a documented break-glass process that generates an immediate alert and requires post-incident review.
+elementType: requirement
+externalId: V4.4.6
+parent: v4_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-14
+  - nist.80053.rev5.framework/si-7

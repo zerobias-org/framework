@@ -1,0 +1,12 @@
+id: a297db8f-8333-4b7c-9433-3955a6151611
+name: First Party Code Scanning in CI
+description: Verify that a first-party code security tool scans every change in the CI pipeline before merge.
+elementType: requirement
+externalId: V3.7.1
+parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5
+  - nist.80053.rev5.framework/sa-11_1
+  - nist.800_218.v1_1.framework/pw_7_2
+  - nist.800_218.v1_1.framework/rv_1_2

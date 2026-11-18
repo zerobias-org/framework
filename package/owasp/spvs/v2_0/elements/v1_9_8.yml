@@ -1,0 +1,11 @@
+id: 7e0eae8a-e8e2-428b-a72a-7eb19f24f49a
+name: Criticality-Tiered AIBOM Depth
+description: Verify that AIBOM (AI Bill of Materials) depth requirements are tiered by AI system criticality classification.
+elementType: requirement
+externalId: V1.9.8
+parent: v1_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/ps_3_2

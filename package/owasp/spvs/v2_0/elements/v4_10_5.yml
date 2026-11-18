@@ -1,0 +1,11 @@
+id: 5d432840-73a4-40e0-a065-0c522bec1b0f
+name: AIBOM Dataset and Retrieval Source Fields
+description: Verify that the AIBOM (AI Bill of Materials) includes dataset and retrieval-source identifiers, provenance, licensing/usage constraints, and update cadence where applicable.
+elementType: requirement
+externalId: V4.10.5
+parent: v4_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/ps_3_2

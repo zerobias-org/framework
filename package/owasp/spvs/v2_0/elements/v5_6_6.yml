@@ -1,0 +1,11 @@
+id: 95d13700-308b-4c9c-beb9-1f8e063dc174
+name: Data Classification Controls on Prompt Logs
+description: Verify that prompt inputs and outputs are logged with data classification controls applied to prevent sensitive data from being written to insecure log targets.
+elementType: requirement
+externalId: V5.6.6
+parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-4
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-9

@@ -1,0 +1,11 @@
+id: 6183f71a-fcc9-40d4-a51a-7ed2384b2782
+name: Published Artifact to Build Output Reconciliation
+description: Verify that each published artifact is compared with its release pipeline output for version, build metadata and digest, and any divergence alerts and blocks promotion.
+elementType: requirement
+externalId: V3.13.12
+parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7
+  - nist.80053.rev5.framework/si-7_5
+  - nist.80053.rev5.framework/sr-4

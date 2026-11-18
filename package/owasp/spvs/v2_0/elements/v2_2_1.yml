@@ -1,0 +1,11 @@
+id: cba8c9c8-dff5-467d-948a-55e817243837
+name: Security Code Review Policy
+description: Verify that changes designated by the security code review policy are approved before merge by a human application security specialist or trained security champion.
+elementType: requirement
+externalId: V2.2.1
+parent: v2_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/sa-11_4
+  - nist.800_218.v1_1.framework/pw_7_2

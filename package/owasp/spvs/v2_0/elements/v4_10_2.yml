@@ -1,0 +1,11 @@
+id: 14c24b07-95bc-4266-9995-5ade2c4c0605
+name: AIBOM Schema Conformance Gate
+description: Verify that the AIBOM (AI Bill of Materials) conforms to an approved machine-readable schema/format and non-conformant AIBOMs are rejected.
+elementType: requirement
+externalId: V4.10.2
+parent: v4_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/ps_3_2

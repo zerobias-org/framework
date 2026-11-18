@@ -1,0 +1,11 @@
+id: f06c9f15-3d33-4751-941a-2086783c08e1
+name: Sanitization of Untrusted Content Before Prompt Inclusion
+description: Verify that untrusted content is sanitized prior to inclusion in agent prompt context.
+elementType: requirement
+externalId: V3.8.2
+parent: v3_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10
+  - nist.80053.rev5.framework/si-10_6
+  - nist.800_218.v1_1.framework/pw_5_1

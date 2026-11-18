@@ -1,0 +1,12 @@
+id: cd4d9e69-c6cb-4101-941f-f19201e6751f
+name: Container Base Image Digest Pinning
+description: Verify that every container base image used in a build or CI step is pinned to a specific digest, and that the pipeline fails when the digest does not match the expected value.
+elementType: requirement
+externalId: V3.1.10
+parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_5
+  - nist.80053.rev5.framework/si-7_6
+  - nist.800_218.v1_1.framework/pw_4_1
+  - nist.800_218.v1_1.framework/pw_4_4
