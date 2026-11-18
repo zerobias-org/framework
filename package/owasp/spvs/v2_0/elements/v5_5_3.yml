@@ -1,0 +1,10 @@
+id: a5d4ce5c-ec89-4bcc-85d1-8d585638d678
+name: Agent Egress Destination Logging
+description: Verify that outbound network destinations contacted by agent environments are logged.
+elementType: requirement
+externalId: V5.5.3
+parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-2

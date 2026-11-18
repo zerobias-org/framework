@@ -1,0 +1,10 @@
+id: d7a88ad9-00ae-4c91-a902-32e1747c25dc
+name: No Interpolation of External Text into Pipeline Commands
+description: Verify that text coming from outside the organization, such as a contributor's branch name, commit message, or pull request title, is never inserted directly into a command that the pipeline runs.
+elementType: requirement
+externalId: V3.1.6
+parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-10_6
+  - nist.800_218.v1_1.framework/pw_5_1

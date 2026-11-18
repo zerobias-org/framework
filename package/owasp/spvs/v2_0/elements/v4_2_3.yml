@@ -1,0 +1,11 @@
+id: b3a534b7-1503-4424-898d-5206463dd71f
+name: Non-Text Input Coverage in Adversarial Testing
+description: Verify that adversarial testing covers non-text inputs where agents accept files, images, or structured data.
+elementType: requirement
+externalId: V4.2.3
+parent: v4_2
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ca-8
+  - nist.80053.rev5.framework/sa-11
+  - nist.800_218.v1_1.framework/pw_8_2

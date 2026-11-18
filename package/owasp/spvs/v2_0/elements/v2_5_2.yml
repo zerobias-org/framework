@@ -1,0 +1,11 @@
+id: 509e6c72-abe7-4adb-9d17-af272cb8d7f4
+name: No Plaintext Secrets in Local Environment Files
+description: Verify that local environment files are never used to store secrets in plain text. Use a secrets manager or encrypted storage instead.
+elementType: requirement
+externalId: V2.5.2
+parent: v2_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.80053.rev5.framework/sc-28
+  - nist.800_218.v1_1.framework/po_5_2

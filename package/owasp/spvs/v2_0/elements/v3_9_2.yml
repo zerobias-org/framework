@@ -1,0 +1,11 @@
+id: d509c65a-4538-4b76-9dc0-722a62dff9a3
+name: Agent Tool Invocation Allowlist
+description: Verify that agent tool invocation is restricted to an explicit allowlist.
+elementType: requirement
+externalId: V3.9.2
+parent: v3_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-3
+  - nist.80053.rev5.framework/cm-7
+  - nist.800_218.v1_1.framework/po_5_1

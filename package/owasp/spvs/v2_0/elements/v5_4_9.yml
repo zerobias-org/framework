@@ -1,0 +1,12 @@
+id: a99facd7-af7d-4ed2-9bea-3a07625d28b0
+name: Pipeline Definition Change Alerting
+description: Verify that changes to CI/CD pipeline definitions, workflow files, and build configurations generate alerts and are logged with the identity of the actor who made the change.
+elementType: requirement
+externalId: V5.4.9
+parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-3
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/si-4_12
+  - nist.800_218.v1_1.framework/po_5_1

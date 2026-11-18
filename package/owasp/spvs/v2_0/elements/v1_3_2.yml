@@ -1,0 +1,9 @@
+id: 3138cdbc-3763-4efb-9ef6-eac7b1042d60
+name: Centralized Identity Provider for All Identities
+description: Verify that all identities (human and programmatic) are managed through a centralized Identity Provider (IdP).
+elementType: requirement
+externalId: V1.3.2
+parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2

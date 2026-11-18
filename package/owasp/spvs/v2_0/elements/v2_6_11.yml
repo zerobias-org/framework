@@ -1,0 +1,11 @@
+id: e7eb5b5f-1233-4f6b-af43-238b7e26b265
+name: Open Source Secure Coding Policy Enforcement
+description: Verify that an automated check in the development workflow enforces the secure open source software (OSS) policy by failing changes that introduce open source components that violate the policy.
+elementType: requirement
+externalId: V2.6.11
+parent: v2_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-10_1
+  - nist.80053.rev5.framework/sr-3
+  - nist.800_218.v1_1.framework/pw_4_4

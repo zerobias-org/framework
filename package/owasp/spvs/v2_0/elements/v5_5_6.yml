@@ -1,0 +1,10 @@
+id: b15d6246-13b6-4f4b-aa9a-6acd23cb1bd4
+name: Agent Tool Invocation Forensic Logging
+description: Verify that agent tool invocations, including calls to MCP and tool servers, are logged in enough detail to reconstruct each request and response for forensics.
+elementType: requirement
+externalId: V5.5.6
+parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-3

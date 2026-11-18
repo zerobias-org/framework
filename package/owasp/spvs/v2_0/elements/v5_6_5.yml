@@ -1,0 +1,10 @@
+id: a7fa30ba-37f2-4bab-b8da-baf3ec35025f
+name: Agent Credential Usage Reconciliation
+description: Verify that agent credential usage is continuously reconciled against logged task scope and deviations generate alerts.
+elementType: requirement
+externalId: V5.6.5
+parent: v5_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2_12
+  - nist.80053.rev5.framework/au-6

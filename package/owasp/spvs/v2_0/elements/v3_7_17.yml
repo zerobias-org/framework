@@ -1,0 +1,11 @@
+id: d8bd4d20-f6f3-4034-a228-a4f8c049874a
+name: Branch Protection Rule Enforcement
+description: Verify that branch protection rules are enforced on all repositories.
+elementType: requirement
+externalId: V3.7.17
+parent: v3_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-3
+  - nist.80053.rev5.framework/cm-5
+  - nist.800_218.v1_1.framework/ps_1_1

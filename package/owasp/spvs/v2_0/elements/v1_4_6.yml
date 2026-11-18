@@ -1,0 +1,9 @@
+id: 50db8f66-0a8d-44be-b970-7bb2c082d255
+name: Inactive AI Agent Identity Disablement
+description: Verify that inactive AI agent NHIs (Non-Human Identities) are automatically disabled after a defined inactivity threshold.
+elementType: requirement
+externalId: V1.4.6
+parent: v1_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-2_3

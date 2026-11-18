@@ -1,0 +1,12 @@
+id: 5c1d0a24-f02b-4e68-ad1f-036d7e61d310
+name: Build Server Hardening and Patching
+description: Verify that build servers are hardened and regularly patched.
+elementType: requirement
+externalId: V3.1.1
+parent: v3_1
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-6
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/po_3_2
+  - nist.800_218.v1_1.framework/po_5_2

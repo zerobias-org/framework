@@ -1,0 +1,12 @@
+id: 4e7c20a9-4673-4ed8-94d5-34deafbfda65
+name: Continuous Vulnerability Monitoring of AIBOM Components
+description: Verify that AIBOM components such as models, agent frameworks, SDKs and tool servers are monitored against vulnerability feeds, triggering remediation or blocking by severity.
+elementType: requirement
+externalId: V5.7.3
+parent: v5_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5
+  - nist.80053.rev5.framework/si-2
+  - nist.800_218.v1_1.framework/rv_1_1
+  - nist.800_218.v1_1.framework/rv_2_2

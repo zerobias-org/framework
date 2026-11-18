@@ -1,0 +1,9 @@
+id: 03b757d0-6a48-4f6f-901b-f9a96b329bd0
+name: Runtime Cluster Workload Allowlisting
+description: Verify that workloads in shared or system-level parts of a runtime cluster are checked against an approved list, so deployments made with stolen pipeline credentials are caught.
+elementType: requirement
+externalId: V5.4.8
+parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_3

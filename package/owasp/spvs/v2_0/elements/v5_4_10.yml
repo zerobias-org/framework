@@ -1,0 +1,11 @@
+id: e2208540-3a42-497a-bc83-d00da5c2595a
+name: Developer Endpoint Behavioral Anomaly Alerting
+description: Verify that developer endpoints alert on anomalous behavior from installed extensions or tools, such as unexpected network egress, credential file reads or unapproved processes.
+elementType: requirement
+externalId: V5.4.10
+parent: v5_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-4_23
+  - nist.80053.rev5.framework/si-4_5
+  - nist.800_218.v1_1.framework/po_5_2

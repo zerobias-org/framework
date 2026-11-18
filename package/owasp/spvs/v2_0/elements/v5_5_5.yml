@@ -1,0 +1,10 @@
+id: 5f70de2d-53a5-48be-9fa9-7e7db7dae7ea
+name: Inter-Agent Communication Logging
+description: Verify that inter-agent communications, including delegated instructions, sub-agent invocations and responses, are logged as distinct events that reconstruct the delegation chain.
+elementType: requirement
+externalId: V5.5.5
+parent: v5_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/au-12
+  - nist.80053.rev5.framework/au-3

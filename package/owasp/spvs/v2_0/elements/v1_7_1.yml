@@ -1,0 +1,9 @@
+id: bddd2a8d-2240-47f8-8175-d9377195ee32
+name: AI Shadow Tooling Discovery Process
+description: Verify that a documented discovery process exists to identify unauthorized or ungoverned AI tooling within the SDLC (Software Development Life Cycle) and pipeline environment.
+elementType: requirement
+externalId: V1.7.1
+parent: v1_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_3

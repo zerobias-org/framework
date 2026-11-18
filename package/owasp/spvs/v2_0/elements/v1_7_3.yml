@@ -1,0 +1,10 @@
+id: 76786fec-622a-41c8-a699-94272dc18025
+name: Model Integration and Endpoint Inventory
+description: Verify that model integrations and external model endpoints are recorded in an AI asset inventory prior to production pipeline use.
+elementType: requirement
+externalId: V1.7.3
+parent: v1_7
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/cm-8_1

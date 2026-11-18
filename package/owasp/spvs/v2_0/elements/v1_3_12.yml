@@ -1,0 +1,11 @@
+id: 240e2a3d-52be-41c8-9dd5-cba5549c27da
+name: Read-Only Default Workflow Permissions
+description: Verify that CI/CD workflow permissions default to read-only at the platform or organization level, and that write permissions are granted only per workflow with documented justification.
+elementType: requirement
+externalId: V1.3.12
+parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6
+  - nist.80053.rev5.framework/cm-6
+  - nist.800_218.v1_1.framework/po_3_2

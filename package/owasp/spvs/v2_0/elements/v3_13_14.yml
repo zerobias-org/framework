@@ -1,0 +1,11 @@
+id: f8cc9275-00ae-406f-9026-c22b82893d3f
+name: SBOM Validation Before Deployment
+description: Verify that each release's SBOM is validated against an approved machine-readable format before deployment, blocking deployment when it is missing or invalid.
+elementType: requirement
+externalId: V3.13.14
+parent: v3_13
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/ps_3_2

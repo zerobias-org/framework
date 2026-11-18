@@ -1,0 +1,10 @@
+id: a464a896-7dd8-4499-ac88-db3a3a3c1201
+name: Pre-Commit Dependency Scanning
+description: Verify that a dependency analysis tool scans third-party components, including open source software (OSS), for known vulnerabilities before commit.
+elementType: requirement
+externalId: V2.3.4
+parent: v2_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ra-5
+  - nist.800_218.v1_1.framework/pw_4_4

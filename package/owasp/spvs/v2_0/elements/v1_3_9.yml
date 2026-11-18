@@ -1,0 +1,11 @@
+id: 789f5da5-1bfb-4ef5-918c-8e5dc4f748e3
+name: Phishing-Resistant MFA for Publishing Accounts
+description: Verify that every account with publish rights to a package requires phishing-resistant MFA enforced per package, not only through an organization-level setting.
+elementType: requirement
+externalId: V1.3.9
+parent: v1_3
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-2_1
+  - nist.80053.rev5.framework/ia-2_8
+  - nist.800_218.v1_1.framework/ps_1_1

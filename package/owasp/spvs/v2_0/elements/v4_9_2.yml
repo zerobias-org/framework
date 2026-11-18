@@ -1,0 +1,10 @@
+id: 9b677f30-9155-479b-bb58-ef1f1997f5e8
+name: System Prompt Integrity Validation at Initialization
+description: Verify that system prompt integrity is validated at agent initialization and execution is blocked on deviation from approved configuration.
+elementType: requirement
+externalId: V4.9.2
+parent: v4_9
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/si-7_1
+  - nist.80053.rev5.framework/si-7_5

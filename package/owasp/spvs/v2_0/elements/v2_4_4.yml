@@ -1,0 +1,10 @@
+id: dacb49e7-9217-444a-beb0-c8246b172e8e
+name: Secret Detection on AI-Generated Changes
+description: Verify that AI-generated changes pass the same automated secret and credential detection as other changes before merge, with no bypass for AI tool or agent identities.
+elementType: requirement
+externalId: V2.4.4
+parent: v2_4
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5_7
+  - nist.800_218.v1_1.framework/pw_7_2

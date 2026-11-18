@@ -1,0 +1,10 @@
+id: d0258db2-7dc3-41d3-9ac0-c7069f655548
+name: Agent Chain Blast Radius Bounding
+description: Verify that the blast radius of an agent chain is bounded such that compromise of one agent cannot grant full orchestrator permission scope.
+elementType: requirement
+externalId: V3.10.4
+parent: v3_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ac-6
+  - nist.800_218.v1_1.framework/po_5_1

@@ -1,0 +1,12 @@
+id: d4f622ed-21aa-46b5-9a2d-4e864cbd77e5
+name: Automated AIBOM Generation in CI/CD
+description: Verify that AIBOM generation is automated so changes to models, datasets, prompts, retrieval sources, tool servers, frameworks or endpoints update it in the same CI/CD workflow.
+elementType: requirement
+externalId: V4.10.10
+parent: v4_10
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-8_2
+  - nist.80053.rev5.framework/sr-4
+  - nist.800_218.v1_1.framework/po_3_3
+  - nist.800_218.v1_1.framework/ps_3_2

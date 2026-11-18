@@ -1,0 +1,11 @@
+id: a72d86ad-5b7c-40cf-b270-1958e8b3bcd9
+name: Execution-Context Binding of Agent Credentials
+description: Verify that AI agent credentials are bound to the pipeline execution context and are non-reusable across separate invocations.
+elementType: requirement
+externalId: V3.5.5
+parent: v3_5
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/ia-5
+  - nist.80053.rev5.framework/ia-5_10
+  - nist.800_218.v1_1.framework/po_5_1

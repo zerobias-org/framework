@@ -1,0 +1,11 @@
+id: c23fb15d-9447-4b16-b3a8-b6867af48f0f
+name: Approved Development Tooling
+description: Verify that developers use only organization-approved Integrated Development Environments (IDEs) and code editors.
+elementType: requirement
+externalId: V1.6.1
+parent: v1_6
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cm-7_5
+  - nist.800_218.v1_1.framework/po_3_1
+  - nist.800_218.v1_1.framework/po_3_2

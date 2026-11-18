@@ -1,0 +1,10 @@
+id: e0496865-9c7c-44f9-a377-547c4a9baaad
+name: Recovery Procedure Testing
+description: Verify that pipeline recovery tests demonstrate recovery within the documented recovery time objective (RTO).
+elementType: requirement
+externalId: V5.8.3
+parent: v5_8
+links:
+  demonstrates:
+  - nist.80053.rev5.framework/cp-10
+  - nist.80053.rev5.framework/cp-4
