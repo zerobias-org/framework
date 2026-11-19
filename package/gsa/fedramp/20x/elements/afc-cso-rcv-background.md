@@ -1,6 +1,6 @@
 **MUST:** Providers MUST receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers with any type of FedRAMP Certification.
 

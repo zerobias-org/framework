@@ -1,6 +1,6 @@
 Third party software information resources are automatically monitored for upstream vulnerabilities using mechanisms that may include contractual notification requirements or active monitoring services.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

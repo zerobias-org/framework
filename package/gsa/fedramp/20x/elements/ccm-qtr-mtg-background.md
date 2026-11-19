@@ -1,8 +1,18 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Quarterly Reviews. These rules for Quarterly Reviews apply to providers with any type of FedRAMP Certification.
+
+## Class A
+
+**MAY:** Providers with Class A Certifications MAY host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
+
+**Timeframe:** 3 months
+
+### Artifacts
+
+- selected ordinal recurrence for the synchronous Quarterly Review cycle if applicable.
 
 ## Class B
 

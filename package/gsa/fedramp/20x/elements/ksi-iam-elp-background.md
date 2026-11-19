@@ -1,6 +1,6 @@
 Identity and access management measures are used and persistently reviewed to ensure each user or device can only access the resources they need.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

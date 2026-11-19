@@ -1,6 +1,6 @@
 **MUST:** Providers MUST promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Evaluation and Communication rules.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers with FedRAMP Certifications of any type.
 

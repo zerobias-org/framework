@@ -1,6 +1,6 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Timeframes. These rules apply to timeframes for vulnerability detection and response.
 
@@ -12,6 +12,16 @@ FedRAMP states this requirement separately for each class; see the class section
   "url": "https://fedramp.gov/schemas/fedramp-historical-ver-activity-schema-2026-06-24.json"
 }
 ```
+
+## Class A
+
+**MAY:** Providers with Class A Certifications MAY make all recent historical vulnerability detection and response activity available in JSON format for automated retrieval by all necessary parties (e.g. using an API service or similar); this information MAY be updated persistently, at least once every month.
+
+**Timeframe:** 1 months
+
+### Artifacts
+
+- URL and access instructions for historical vulnerability detection and response activity in machine readable format
 
 ## Class B
 

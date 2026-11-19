@@ -1,6 +1,6 @@
 **MUST:** Providers MUST notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Using a Trust Center. These rules apply to providers that are using a FedRAMP-compatible trust center instead of USDA Connect; they DO NOT apply to providers using USDA Connect.
 

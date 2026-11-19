@@ -7,5 +7,12 @@ parent: frr-ivv
 aliases:
   - IVV-IAS-VIP
 links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-assessors
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-must
   relates_to:
     - gsa.fedramp.20x.framework/ivv-cso-icp

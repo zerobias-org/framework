@@ -32,6 +32,18 @@ elementTypes:
     name: FedRAMP Rule
     description: A FedRAMP process requirement or recommendation
     parent: frr_family
+  - id: af040040-58a7-449c-8c59-92bde984bf78
+    code: persona
+    name: Persona
+    description: Who a rule's obligation falls on (provider, agency, assessor, FedRAMP, advisor)
+  - id: 8bccfb2d-565d-42a0-a372-c8a642c0beaf
+    code: path
+    name: Certification Path
+    description: Which FedRAMP certification path a rule applies under (20x, Rev5)
+  - id: 9a7353eb-510d-404d-aa70-2b14614a1144
+    code: force
+    name: Force
+    description: The obligation level of a rule's statement (MUST, SHOULD, MAY, MUST NOT)
 mappingTypes:
   - ksi
   - frr

@@ -1,6 +1,6 @@
 **MUST:** Providers MUST complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers with any type of FedRAMP Certification.
 

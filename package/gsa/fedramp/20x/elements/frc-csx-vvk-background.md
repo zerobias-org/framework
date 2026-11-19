@@ -1,8 +1,12 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** 20x-Specific Provider Responsibilities. These rules apply to providers for FedRAMP 20x Certifications.
+
+## Class A
+
+**MAY:** Providers seeking 20x Class A Certification MAY implement automated methods to persistently verify and validate the accuracy and completeness of Key Security Indicators.
 
 ## Class B
 

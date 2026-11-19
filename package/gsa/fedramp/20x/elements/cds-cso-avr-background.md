@@ -1,8 +1,16 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers for FedRAMP Certifications of any type.
+
+## Class A
+
+**SHOULD:** Providers with Class A Certifications SHOULD maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service SHOULD be available even if the primary cloud service offering is unavailable.
+
+### Notes
+
+- This service may be separate from the trust center.
 
 ## Class B
 

@@ -1,6 +1,6 @@
 The effectiveness of protection against denial of service attacks and other unwanted activity for machine-based information resources is persistently reviewed.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

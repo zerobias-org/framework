@@ -1,6 +1,6 @@
 **MUST:** Providers MUST also include short and simple high-level summaries of at least the following for each applicable Key Security Indicator:
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** 20x-Specific Provider Responsibilities. These rules apply to providers for FedRAMP 20x Certifications.
 

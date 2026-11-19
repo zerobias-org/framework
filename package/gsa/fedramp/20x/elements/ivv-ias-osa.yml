@@ -6,3 +6,11 @@ externalId: IVV-IAS-OSA
 parent: frr-ivv
 aliases:
   - IVV-IAS-OSA
+links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-assessors
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-must

@@ -6,3 +6,11 @@ externalId: SCN-FRP-CAP
 parent: frr-scn
 aliases:
   - SCN-FRP-CAP
+links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-fedramp
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-may

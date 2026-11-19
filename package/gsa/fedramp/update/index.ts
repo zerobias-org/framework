@@ -86,7 +86,32 @@ function main(data: any) {
   const elements: Element[] = [];
   const members: Member[] = [];
 
-  function addLeaf(id: string, type: string, parent: string, r: any, classes: string[], common: string[], mandatory: (c: string) => boolean) {
+  // Class A has no generic applicability mechanism: FedRAMP names Class A membership
+  // explicitly via FRC-CLA-MFR (mandatory/MUST), FRC-CLA-RFR (recommended/SHOULD) and
+  // FRC-CLA-OFR (optional/MAY), each listing rule and KSI ids in `related`. Everything
+  // else (B/C/D) is governed by subset applicability + varies_by_class, which already
+  // works via the generic path below — this list only ever ADDS 'a', never removes it.
+  const claForce: Record<string, 'MUST' | 'SHOULD' | 'MAY'> = { MFR: 'MUST', RFR: 'SHOULD', OFR: 'MAY' };
+  const claClassA = new Map<string, 'MUST' | 'SHOULD' | 'MAY'>();
+  for (const [listCode, force] of Object.entries(claForce)) {
+    const listRule = data.FRR.FRC?.data?.all?.CLA?.[`FRC-CLA-${listCode}`];
+    for (const ref of listRule?.related ?? []) claClassA.set(ref.toLowerCase(), force);
+  }
+
+  const slug = (s: string) => s.toLowerCase().replace(/\s+/g, '-');
+  const personaLink = (affects?: string[]) =>
+    affects?.length ? { persona: affects.map((a) => `gsa.fedramp.20x.framework/persona-${slug(a)}`) } : {};
+  const pathLink = (bucket: string) => ({
+    path: (bucket === '20x' ? ['20x'] : ['20x', 'rev5']).map((p) => `gsa.fedramp.20x.framework/path-${p}`),
+  });
+  const forceLink = (r: any, classes: string[]) => {
+    const varies = r.varies_by_class ?? {};
+    const forces = new Set<string>(r.force ? [r.force] : []);
+    for (const c of classes) if (varies[c]?.force) forces.add(varies[c].force);
+    return forces.size ? { force: [...forces].map((f) => `gsa.fedramp.20x.framework/force-${slug(f)}`) } : {};
+  };
+
+  function addLeaf(id: string, type: string, parent: string, r: any, classes: string[], common: string[], mandatory: (c: string) => boolean, extraLinks?: Record<string, string[]>) {
     const code = id.toLowerCase();
     const varies = r.varies_by_class ?? {};
     const terms = new Set<string>([...(r.terms ?? []), ...classes.flatMap((c) => varies[c]?.terms ?? [])]);
@@ -113,6 +138,8 @@ function main(data: any) {
     const missing = rev5.filter((c) => !fs.existsSync(path.join(REV5_ELEMENTS, `${c}.yml`)));
     if (missing.length) console.warn(`${id}: no Rev 5 element for ${missing.join(', ')}`);
     const demonstrates = rev5.filter((c) => !missing.includes(c)).map((c) => `${REV5}/${c}`);
+    const linkGroups: Record<string, string[]> = { ...(extraLinks ?? {}) };
+    if (demonstrates.length) linkGroups.demonstrates = demonstrates;
     elements.push({
       related: [...new Set<string>([...(r.related ?? []), ...classes.flatMap((c) => varies[c]?.related ?? [])])],
       code,
@@ -124,7 +151,7 @@ function main(data: any) {
         externalId: id,
         parent,
         aliases: [id],
-        ...(demonstrates.length ? { links: { demonstrates } } : {}),
+        ...(Object.keys(linkGroups).length ? { links: linkGroups } : {}),
       },
       background: `${lines.join('\n').trim()}\n`,
     });
@@ -154,10 +181,18 @@ function main(data: any) {
         const base = ap.classes.map((c: string) => c.toLowerCase()).filter((c: string) => READY.includes(c));
         const common = [`**Audience:** ${subsets[subset].name}. ${subsets[subset].description}`, ''];
         for (const [id, r] of Object.entries<any>(rules)) {
-          const classes = r.varies_by_class ? base.filter((c: string) => r.varies_by_class[c]) : base;
+          // varies_by_class is a per-rule override: trust it completely (same philosophy as
+          // KSIs below) rather than intersecting with the subset's base applicability — a rule
+          // can declare a class (e.g. Class A) its subset doesn't generally cover.
+          const classes = r.varies_by_class ? READY.filter((c) => r.varies_by_class[c]) : [...base];
+          const claOnlyA = READY.includes('a') && !classes.includes('a') && claClassA.has(id.toLowerCase());
+          if (claOnlyA) classes.push('a');
           if (!classes.length) continue;
+          classes.sort();
           const parent = `frr-${key.toLowerCase()}`;
-          addLeaf(id, 'frr', parent, r, classes, common, (c) => (r.varies_by_class?.[c] ?? r).force?.startsWith('MUST') ?? false);
+          addLeaf(id, 'frr', parent, r, classes, common,
+            (c) => (c === 'a' && claOnlyA) ? claClassA.get(id.toLowerCase()) === 'MUST' : (r.varies_by_class?.[c] ?? r).force?.startsWith('MUST') ?? false,
+            { ...personaLink(r.affects), ...pathLink(bucket), ...forceLink(r, classes) });
         }
       }
     }
@@ -176,14 +211,23 @@ function main(data: any) {
     for (const [id, k] of Object.entries<any>(theme.indicators)) {
       ksiTotal += 1;
       // A KSI with class variants applies only to the classes it lists; the source says not to infer the others.
-      const classes = READY.filter((c) => !k.varies_by_class || k.varies_by_class[c]);
-      addLeaf(id, 'ksi', code, k, classes, [], () => true);
+      // Class A is the exception: with no generic applicability signal of its own, a KSI only belongs to A
+      // if FRC-CLA-MFR/RFR/OFR names it explicitly (same mechanism as rules, see claClassA above).
+      const claOnlyA = (c: string) => c === 'a' && !k.varies_by_class?.a && claClassA.has(id.toLowerCase());
+      const classes = READY.filter((c) => c === 'a'
+        ? (k.varies_by_class?.a != null || claClassA.has(id.toLowerCase()))
+        : (!k.varies_by_class || k.varies_by_class[c]));
+      addLeaf(id, 'ksi', code, k, classes, [], (c) => claOnlyA(c) ? claClassA.get(id.toLowerCase()) === 'MUST' : true);
     }
   }
 
   fs.mkdirSync(ELEMENTS, { recursive: true });
   fs.mkdirSync(BASELINES, { recursive: true });
-  const live = new Set(elements.map((e) => e.code));
+  // persona-*/path-*/force-* are a hand-authored static taxonomy, not derived from the
+  // weekly source — never retire them even though this script doesn't emit them itself.
+  const STATIC_TAXONOMY = /^(persona|path|force)-/;
+  const live = new Set([...elements.map((e) => e.code),
+    ...fs.readdirSync(ELEMENTS).filter((f) => f.endsWith('.yml') && STATIC_TAXONOMY.test(f)).map((f) => f.slice(0, -4))]);
   // Related ids point at other rules; link the ones in this package and leave the rest as text.
   for (const e of elements) {
     const relates = (e.related ?? []).map((r) => r.toLowerCase()).filter((r) => live.has(r));

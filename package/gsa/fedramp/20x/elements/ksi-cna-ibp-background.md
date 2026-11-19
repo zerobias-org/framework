@@ -1,6 +1,6 @@
 The use and configuration of third-party machine-based information resources is persistently compared against the original provider's best practices and guidance.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

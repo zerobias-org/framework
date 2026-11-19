@@ -1,12 +1,16 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers for FedRAMP Certifications of any type.
 
 ### Related
 
 - IVV-IAS-OSA
+
+## Class A
+
+**MAY:** Providers seeking Class A Certification MAY also include an overall summary of their FedRAMP independent assessment in their Certification Package Overview.
 
 ## Class B
 

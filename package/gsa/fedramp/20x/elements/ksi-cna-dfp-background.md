@@ -1,6 +1,6 @@
 The functionality and privileges for infrastructure and services are strictly defined.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

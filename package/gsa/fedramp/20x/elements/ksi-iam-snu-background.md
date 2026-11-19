@@ -1,6 +1,6 @@
 Appropriately secure authentication methods are used and persistently reviewed for non-user accounts and services.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

@@ -1,8 +1,14 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Timeframes. These rules apply to timeframes for vulnerability detection and response.
+
+## Class A
+
+**SHOULD:** Providers with Class A Certifications SHOULD persistently perform vulnerability detection on representative samples of similar machine-based information resources, at least once every 14 days.
+
+**Timeframe:** 14 days
 
 ## Class B
 

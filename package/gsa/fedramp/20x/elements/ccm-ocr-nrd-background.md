@@ -1,6 +1,6 @@
 **MUST:** Providers MUST supply the target date for their next Ongoing Certification Report with other public FedRAMP Certification Data.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Ongoing Certification Reports. These rules for Ongoing Certification Reports apply to providers with any type of FedRAMP Certification.
 

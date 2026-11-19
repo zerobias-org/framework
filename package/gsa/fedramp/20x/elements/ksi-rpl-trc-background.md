@@ -1,6 +1,6 @@
 The capability to recover from incidents and contingencies aligned with defined recovery objectives is persistently tested.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

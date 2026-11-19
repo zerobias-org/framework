@@ -7,6 +7,13 @@ parent: frr-vdr
 aliases:
   - VDR-CSO-MSP
 links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-providers
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-should-not
   demonstrates:
     - nist.80053.rev5.framework/ra-5_5
     - nist.80053.rev5.framework/si-2

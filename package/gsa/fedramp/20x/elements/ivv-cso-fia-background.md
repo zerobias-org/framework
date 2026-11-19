@@ -1,6 +1,6 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to cloud service providers obtaining and maintaining any FedRAMP Certification.
 
@@ -10,6 +10,12 @@ FedRAMP states this requirement separately for each class; see the class section
 - The specific requirements for independent verification and validation assessments are documented by the FedRAMP Certification Class and Type.
 - The option for assessment by FedRAMP directly is limited to cloud services that are explicitly prioritized by FedRAMP, in consultation with the FedRAMP Board and the federal Chief Information Officers Council; this is _extremely_ rare.
 - FedRAMP Recognized independent assessment services are listed on the FedRAMP Marketplace.
+
+## Class A
+
+**MAY:** Providers with Class A Certifications MAY persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+
+**Timeframe:** 1 years
 
 ## Class B
 

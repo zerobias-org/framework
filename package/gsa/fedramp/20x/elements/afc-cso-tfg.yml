@@ -6,3 +6,11 @@ externalId: AFC-CSO-TFG
 parent: frr-afc
 aliases:
   - AFC-CSO-TFG
+links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-providers
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-must

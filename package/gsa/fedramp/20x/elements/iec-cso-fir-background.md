@@ -1,6 +1,6 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers with FedRAMP Certifications of any type.
 
@@ -28,6 +28,14 @@ FedRAMP states this requirement separately for each class; see the class section
   "url": "https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json"
 }
 ```
+
+## Class A
+
+**MUST:** Providers with Class A Certifications MUST responsibly notify all affected parties by providing a Final Incident Report once the incident has been resolved and recovery is complete, including final updates to all previously reported information.
+
+### Artifacts
+
+- An Final Incident Report for one or more incidents. The report can be from real incidents, simulated incidents, or a combination of sources.
 
 ## Class B
 

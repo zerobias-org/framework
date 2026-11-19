@@ -1,6 +1,6 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers with FedRAMP Certifications of any type.
 
@@ -32,6 +32,25 @@ FedRAMP states this requirement separately for each class; see the class section
   "url": "https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json"
 }
 ```
+
+## Class A
+
+**SHOULD:** Providers with Class A Certifications SHOULD responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
+
+### Following information
+
+- Contact information for the federal incident response coordinator
+- Provider's internally assigned tracking identifier
+- Description of the incident
+- Timeline of the incident, including start time, time and source of detection, time of completed FedRAMP Reportable Incident evaluation, and other major incident milestones determined by the provider
+- Historically and currently estimated Potential Agency Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in IEC-CSO-EFI (Estimate Federal Impact) (if applicable)
+- Functional impact to federal agency customers (include impact to confidentiality and/or integrity and the impacted federal customer data types)
+- Estimated recovery plan, milestones, and timelines
+- List of likely affected customer agencies
+
+### Artifacts
+
+- An Initial Incident Report for one or more incidents. The report can be from real incidents, simulated incidents, or a combination of sources.
 
 ## Class B
 

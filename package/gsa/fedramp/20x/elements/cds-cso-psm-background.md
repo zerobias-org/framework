@@ -1,6 +1,6 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers for FedRAMP Certifications of any type.
 
@@ -8,6 +8,14 @@ FedRAMP states this requirement separately for each class; see the class section
 
 - Providers determine what they consider to be separate services, based on maximizing the customer experience for agencies who may only adopt some services and not others.
 - Providers are encouraged to provide a single comprehensive set of materials for all shared aspects of the service offering and only provide separate materials for unique aspects of each service to minimize the burden on providers and agencies.
+
+## Class A
+
+**MAY:** Providers with Class A Certifications MAY supply per-service FedRAMP Certification materials.
+
+### Artifacts
+
+- Explanation of the supplied materials, including how to access and use them.
 
 ## Class B
 

@@ -1,6 +1,6 @@
 Accounts with privileged access are disabled or otherwise secured in response to suspicious activity.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

@@ -1,6 +1,6 @@
 Logical networking and related capabilities are used and persistently reviewed to enforce traffic flow controls.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

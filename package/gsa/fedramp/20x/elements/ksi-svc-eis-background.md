@@ -1,6 +1,6 @@
 Information resources are persistently evaluated for opportunities to improve security and those improvements are persistently made.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

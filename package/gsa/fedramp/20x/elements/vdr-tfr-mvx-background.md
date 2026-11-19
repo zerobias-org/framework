@@ -1,8 +1,14 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Timeframes. These rules apply to timeframes for vulnerability detection and response.
+
+## Class A
+
+**SHOULD:** Providers of FedRAMP 20x Class A offerings SHOULD verify and validate the status of machine-based information resources at least once every month.
+
+**Timeframe:** 1 months
 
 ## Class B
 

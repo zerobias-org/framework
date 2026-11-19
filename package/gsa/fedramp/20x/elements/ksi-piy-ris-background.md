@@ -1,6 +1,6 @@
 The effectiveness of the provider's investments in achieving security goals is persistently reviewed.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

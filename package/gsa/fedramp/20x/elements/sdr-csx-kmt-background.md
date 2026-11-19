@@ -1,6 +1,6 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** 20x-Specific Provider Responsibilities. These rules apply to providers for FedRAMP 20x Certifications.
 
@@ -16,6 +16,10 @@ FedRAMP states this requirement separately for each class; see the class section
   "url": "https://fedramp.gov/schemas/fedramp-security-decision-record-schema-2026-06-24.json"
 }
 ```
+
+## Class A
+
+**MAY:** Providers with 20x Class A Certifications MAY also include historical metrics in their Security Decision Record.
 
 ## Class B
 

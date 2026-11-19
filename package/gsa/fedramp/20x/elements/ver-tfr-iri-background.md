@@ -1,8 +1,12 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Timeframes. These rules apply to timeframes for vulnerability detection and response.
+
+## Class A
+
+**MAY:** Providers with Class A Certifications MAY treat internet-reachable likely exploitable vulnerabilities where Potential Agency Impact N-rating > 3 as a FedRAMP Reportable Incident until they are partially mitigated vulnerabilities at N3 or below.
 
 ## Class B
 

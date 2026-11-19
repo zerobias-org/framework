@@ -7,5 +7,14 @@ parent: frr-ccm
 aliases:
   - CCM-QTR-MTG
 links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-providers
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-may
+    - gsa.fedramp.20x.framework/force-should
+    - gsa.fedramp.20x.framework/force-must
   demonstrates:
     - nist.80053.rev5.framework/ca-7

@@ -1,6 +1,6 @@
 FedRAMP states this requirement separately for each class; see the class sections below.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers with FedRAMP Certifications of any type.
 
@@ -28,6 +28,22 @@ FedRAMP states this requirement separately for each class; see the class section
   "url": "https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json"
 }
 ```
+
+## Class A
+
+**SHOULD:** Providers with Class A Certifications SHOULD responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the following additional information that is available and/or the current relevant status for each item:
+
+### Following information
+
+- Observed incident activity
+- Indicators of compromise
+- Related Common Vulnerabilities and Exposures (CVE) identifier (if applicable)
+- Root cause
+- Response and recovery activities
+
+### Artifacts
+
+- An Ongoing Incident Report for one or more incidents. The report can be from real incidents, simulated incidents, or a combination of sources.
 
 ## Class B
 

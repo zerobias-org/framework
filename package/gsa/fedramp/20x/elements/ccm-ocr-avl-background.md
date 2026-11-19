@@ -1,6 +1,6 @@
 **MUST:** Providers MUST supply an Ongoing Certification Report to all necessary parties every 3 months, covering the entire period since the previous summary, in a consistent format that is human readable; this report MUST include high-level summaries of at least the following information (if applicable):
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** Ongoing Certification Reports. These rules for Ongoing Certification Reports apply to providers with any type of FedRAMP Certification.
 

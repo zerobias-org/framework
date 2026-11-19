@@ -6,3 +6,11 @@ externalId: VER-AGM-MAP
 parent: frr-ver
 aliases:
   - VER-AGM-MAP
+links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-agencies
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-should

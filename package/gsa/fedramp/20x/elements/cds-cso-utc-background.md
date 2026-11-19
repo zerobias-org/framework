@@ -1,6 +1,6 @@
 **MUST:** Providers MUST use a FedRAMP-compatible trust center to store and share FedRAMP Certification Data with all necessary parties.
 
-**Applies to:** Class B, Class C (Providers)
+**Applies to:** Class A, Class B, Class C (Providers)
 
 **Audience:** General Provider Responsibilities. These rules apply to providers for FedRAMP Certifications of any type.
 

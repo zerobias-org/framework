@@ -1,6 +1,6 @@
 Persistent testing and validation of changes throughout deployment is automated.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

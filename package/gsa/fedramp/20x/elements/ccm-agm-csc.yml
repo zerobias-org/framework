@@ -6,3 +6,11 @@ externalId: CCM-AGM-CSC
 parent: frr-ccm
 aliases:
   - CCM-AGM-CSC
+links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-agencies
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-should

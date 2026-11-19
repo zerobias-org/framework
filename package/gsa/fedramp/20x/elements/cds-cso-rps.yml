@@ -6,3 +6,11 @@ externalId: CDS-CSO-RPS
 parent: frr-cds
 aliases:
   - CDS-CSO-RPS
+links:
+  persona:
+    - gsa.fedramp.20x.framework/persona-providers
+  path:
+    - gsa.fedramp.20x.framework/path-20x
+    - gsa.fedramp.20x.framework/path-rev5
+  force:
+    - gsa.fedramp.20x.framework/force-may

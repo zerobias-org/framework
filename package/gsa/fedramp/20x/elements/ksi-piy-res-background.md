@@ -1,6 +1,6 @@
 Executive support for achieving the provider's security goals is persistently reviewed and demonstrated.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## Defined terms
 

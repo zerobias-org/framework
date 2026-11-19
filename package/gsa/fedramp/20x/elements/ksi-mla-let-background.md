@@ -1,6 +1,6 @@
 A list of information resources and event types that will be logged, monitored, and audited is maintained and persistently reviewed to ensure these activities occur.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 

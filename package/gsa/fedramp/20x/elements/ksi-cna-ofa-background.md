@@ -1,6 +1,6 @@
 Machine-based information resources are persistently reviewed to ensure they are appropriately optimized for high availability and rapid recovery.
 
-**Applies to:** Class A, Class B, Class C
+**Applies to:** Class B, Class C
 
 ## SP 800-53 Rev 5 controls
 
